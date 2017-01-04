@@ -1,0 +1,35 @@
+Text:Implement 'need to know' policy
+Difficulty:Beginner
+NoCheck:false
+---
+Text:Delete any unnecessary sensitive information
+Difficulty:Beginner
+NoCheck:false
+---
+Text:Make a list of information that you keep, where it?s kept, who has access to it, and what stops others from accessing it
+Difficulty:Beginner
+NoCheck:false
+---
+Text:Make a list of who might want to get a hold of your information
+Difficulty:Beginner
+NoCheck:false
+---
+Text:Note what your adversary might want to do with your information
+Difficulty:Beginner
+NoCheck:false
+---
+Text:Note the likelihood of your adversaries attacking
+Difficulty:Beginner
+NoCheck:false
+---
+Text:Note the capability of your adversaries to attack
+Difficulty:Beginner
+NoCheck:false
+---
+Text:Note what the consequences are if the attack succeeds
+Difficulty:Beginner
+NoCheck:false
+---
+Text:Note what you are you willing to go through in order to try to prevent them
+Difficulty:Beginner
+NoCheck:false
