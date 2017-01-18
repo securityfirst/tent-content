@@ -1,7 +1,7 @@
-Title:Secure messaging on your computer
-Difficulty:Beginner
-Order:4
----
+[Title]: # (Secure messaging on your computer)
+[Difficulty]: # (Beginner)
+[Order]: # (4)
+
 # Secure messaging on your computer
 
 ## Pidgin

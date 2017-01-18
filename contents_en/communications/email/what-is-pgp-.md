@@ -1,7 +1,7 @@
-Title:What is PGP?
-Difficulty:Advanced
-Order:0
----
+[Title]: # (What is PGP?)
+[Difficulty]: # (Advanced)
+[Order]: # (0)
+
 # What is PGP?
 
 If your threat model includes a government or law enforcement, or you have some other reason for wanting to make sure that your email provider is not able to turn over the contents of your email communications to a third party, you may want to consider using end-to-end encryption for your email communications. End-to-End Encryption is uninterrupted protection of data traveling between two communicating parties. 

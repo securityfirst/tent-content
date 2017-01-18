@@ -1,7 +1,7 @@
-Title:Three Sides to a Square
-Difficulty:Advanced
-Order:7
----
+[Title]: # (Three Sides to a Square)
+[Difficulty]: # (Advanced)
+[Order]: # (7)
+
 # Three Sides to a Square
 
 This is a technique used to identify several members of a team, create pressure on them and thin down their surveillance. It can be conducted alone or with a team.

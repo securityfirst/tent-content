@@ -1,7 +1,7 @@
-Title:Secure deletion on Windows
-Difficulty:Beginner
-Order:1
----
+[Title]: # (Secure deletion on Windows)
+[Difficulty]: # (Beginner)
+[Order]: # (1)
+
 # Secure deletion on Windows
 
 On Windows, we suggest using Eraser. Eraser is a free/open source secure deletion tool for Windows, and is much better than the built-in tools. To use Eraser, first [download the installer](eraser.heidi.ie/download.php) from its website; make sure to choose a ?stable? build. After the file downloads, double-click on it to launch it and Run the file.

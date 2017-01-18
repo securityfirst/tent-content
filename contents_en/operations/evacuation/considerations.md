@@ -1,7 +1,7 @@
-Title:Considerations
-Difficulty:Beginner
-Order:5
----
+[Title]: # (Considerations)
+[Difficulty]: # (Beginner)
+[Order]: # (5)
+
 An evacuation is not easy for the evacuees or for those staying behind.  It is a very emotional event, giving rise to feelings of guilt, hurt, frustration, and powerlessness.  The departure of international aid organisations can have a variety of meanings to the local population, including the removal of a symbolic or real safety barrier. Thus, an evacuation is not a neutral act and may even aggravate a crisis.  When a field team evacuates it should consider providing a statement for the media and others explaining the organisation?s reasoning and any continuation or possible resumption of programmes.
 
 **Self-evacuation.** Individuals that are working remotely from a local office, or who find themselves isolated during a crisis should use their judgement concerning the safety in their area.  All staff members should be authorised to evacuate on their own authority when they feel their safety is threatened, and should communicate with their manager during the process.

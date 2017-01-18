@@ -1,7 +1,7 @@
-Title:Considerations
-Difficulty:Beginner
-Order:2
----
+[Title]: # (Considerations)
+[Difficulty]: # (Beginner)
+[Order]: # (2)
+
 Important issues to take into consideration when planning a journey include:
 
 *   Recent incidents on the route. *Check the Dashboard for information about your area*

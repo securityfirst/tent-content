@@ -1,7 +1,7 @@
-Title:Keeping your webmail private ? HTTPS
-Difficulty:Beginner
-Order:6
----
+[Title]: # (Keeping your webmail private ? HTTPS)
+[Difficulty]: # (Beginner)
+[Order]: # (6)
+
 # Keeping your webmail private ? HTTPS
 
 There are a few important steps that you can take in order to increase the security of your email communication. The first is to make sure that only the person to whom you send a given message is able to read it.

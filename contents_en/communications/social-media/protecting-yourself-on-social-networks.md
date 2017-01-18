@@ -1,7 +1,7 @@
-Title:Protecting Yourself on Social Networks
-Difficulty:Beginner
-Order:0
----
+[Title]: # (Protecting Yourself on Social Networks)
+[Difficulty]: # (Beginner)
+[Order]: # (0)
+
 # Protecting Yourself on Social Networks
 
 Social networking sites are some of the most popular websites and tools we use on the Internet. Facebook, Google+, and Twitter have hundreds of millions of users each. With social networking platforms come many benefits, such as the unprecedented opportunity to communicate, publish, coordinate, and persuade. Many people use it for their professional as well personal lives. But, this also means that we're sharing a lot about ourselves online, usually more than we realise. In some cases, this can put our operations, our contacts, or us at risk.

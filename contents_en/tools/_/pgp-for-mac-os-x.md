@@ -1,7 +1,7 @@
-Title:PGP for Mac OS X
-Difficulty:
-Order:11
----
+[Title]: # (PGP for Mac OS X)
+[Difficulty]: # ()
+[Order]: # (11)
+
 # PGP FOR MAC O SX TOOL GUIDE
 
 ## PGP for Mac O SX Tool Guide   

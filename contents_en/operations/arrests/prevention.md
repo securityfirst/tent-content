@@ -1,7 +1,7 @@
-Title:Prevention
-Difficulty:Beginner
-Order:0
----
+[Title]: # (Prevention)
+[Difficulty]: # (Beginner)
+[Order]: # (0)
+
 # Prevention
 
 Human rights workers, journalists and humanitarian staff are sometimes arrested or detained.  The risk of this happening can be significantly reduced by:

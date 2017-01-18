@@ -1,7 +1,7 @@
-Title:Identifying office surveillance
-Difficulty:Beginner
-Order:13
----
+[Title]: # (Identifying office surveillance)
+[Difficulty]: # (Beginner)
+[Order]: # (13)
+
 ## How to Identify if Your Office is Under Surveillance
 
 Surveillance generally requires that the adversary is able to observe the activities of its targets. This means there are a limited number of physical sites they can use for surveillance. The best thing to do when looking for surveillance is to try to think like an adversary ? what might you do is you were trying to monitor your office? From where might you carry out such surveillance?

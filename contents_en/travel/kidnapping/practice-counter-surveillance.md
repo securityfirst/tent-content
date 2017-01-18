@@ -1,7 +1,7 @@
-Title:Practice counter-surveillance
-Difficulty:Beginner
-Order:11
----
+[Title]: # (Practice counter-surveillance)
+[Difficulty]: # (Beginner)
+[Order]: # (11)
+
 In simple terms this means ?watch to see if someone is watching you?. A successful kidnapping normally needs planning, and the perpetrators will be watching the residence, office and movements of their identified target for some time before making their move. They may try to find out more about the residence by presenting themselves as servicemen, or checking the locks of doors and windows while staff are away. They may follow a target in a car to establish routines and identify the ideal point at which to strike. Practicing counter-surveillance may also make you aware of an imminent attack.
 
 *   Be observant and watch for anything unusual

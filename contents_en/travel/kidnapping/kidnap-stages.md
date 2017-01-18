@@ -1,7 +1,7 @@
-Title:Kidnap Stages
-Difficulty:Advanced
-Order:0
----
+[Title]: # (Kidnap Stages)
+[Difficulty]: # (Advanced)
+[Order]: # (0)
+
 Your main goal if you have been kidnapped is to survive and regain freedom.
 
 How you behave during a kidnapping can increase or reduce the likelihood of survival and regaining freedom. You therefore have some control over the outcome of a kidnapping.

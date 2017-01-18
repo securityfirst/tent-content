@@ -1,7 +1,7 @@
-Title:Tactics: Create a force-past
-Difficulty:Advanced
-Order:6
----
+[Title]: # (Tactics: Create a force-past)
+[Difficulty]: # (Advanced)
+[Order]: # (6)
+
 # Tactics: Create a force-past
 
 A force-past is when you create a situation in which someone following you would have to go past you or expose their position. There are several easily created force-past points:

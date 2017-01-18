@@ -1,7 +1,7 @@
-Title:Key Documents
-Difficulty:Beginner
-Order:2
----
+[Title]: # (Key Documents)
+[Difficulty]: # (Beginner)
+[Order]: # (2)
+
 *   Ensure passport is valid for at least 6 months with appropriate visas and travel documents. When appropriate, photocopy passport and other documents and carry only the copy, keeping a second copy at home or office. Send a copy of your passport to your email address. Securely email other key information to yourself to ensure it is available if needed.
 *   Familiarise yourself with your organisation?s relevant security procedures.
 *   Check insurance is valid.

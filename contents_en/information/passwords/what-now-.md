@@ -1,7 +1,7 @@
-Title:What now?
-Difficulty:Advanced
-Order:4
----
+[Title]: # (What now?)
+[Difficulty]: # (Advanced)
+[Order]: # (4)
+
 Swipe right for this lesson's checklist
 
 Go to the Beginner lesson for advice on how to create a strong password.

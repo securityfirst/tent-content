@@ -1,7 +1,7 @@
-Title:Tactics: Identify the Trigger
-Difficulty:Advanced
-Order:4
----
+[Title]: # (Tactics: Identify the Trigger)
+[Difficulty]: # (Advanced)
+[Order]: # (4)
+
 #  Tactics: Identify the Trigger
 
 The trigger is the surveillance team member who initially alerts the rest of the surveillance team members (who will be spread out in a box around the target). They are unlikely to move when you leave your location as that may draw attention to themselves.

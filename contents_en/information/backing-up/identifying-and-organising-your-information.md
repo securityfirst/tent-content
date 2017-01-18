@@ -1,7 +1,7 @@
-Title:Identifying and organising your information
-Difficulty:Advanced
-Order:1
----
+[Title]: # (Identifying and organising your information)
+[Difficulty]: # (Advanced)
+[Order]: # (1)
+
 # Identifying and organising your information
 
 The first step to formulating a backup policy is to figure out where all your personal and work information is currently located. This may include the following:

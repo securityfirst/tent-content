@@ -1,7 +1,7 @@
-Title:Sharing videos/photos
-Difficulty:Beginner
-Order:5
----
+[Title]: # (Sharing videos/photos)
+[Difficulty]: # (Beginner)
+[Order]: # (5)
+
 # Sharing videos/photos
 
 Photos and videos can reveal people's identities very easily. It's important that you have the consent of the subject/s of any photo or video that you post. If you are posting an image of someone else, be aware of how you may be compromising their privacy. Never post a video or photo of anyone without getting their consent first. As a good rule of thumb, don't post information, images, or updates about people you know if they aren't posting about themselves.

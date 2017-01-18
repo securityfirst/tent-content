@@ -1,7 +1,7 @@
-Title:High Frequency radios
-Difficulty:Beginner
-Order:7
----
+[Title]: # (High Frequency radios)
+[Difficulty]: # (Beginner)
+[Order]: # (7)
+
 ## High Frequency radios
 
 HF (High Frequency) radios, in the 3 to 30 MHz frequency range, allow voice communications over medium and long range (conceivably around the world). Less affected by obstacles, HF signals can ?bend? around hills and buildings and do not require repeaters to function over long ranges. However, the transmission range of HF signals may be influenced by time of day, weather conditions, electrical interference, and poor system configuration. It takes skill to achieve reliable HF connectivity over long distances. HF radios are often installed in vehicles or at base stations. HF systems are generally more expensive than VHF and require more maintenance. 

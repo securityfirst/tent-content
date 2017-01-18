@@ -1,7 +1,7 @@
-Title:Why back-up?
-Difficulty:Advanced
-Order:0
----
+[Title]: # (Why back-up?)
+[Difficulty]: # (Advanced)
+[Order]: # (0)
+
 # Why back-up?
 
 Backing up is the copying and archiving of computer data so it can retrieve it if something happens to the original. Years of work can disappear in an instant as a result of theft, carelessness, confiscation, or breakage, so it is extremely important to have an up-to-date backup and a well-tested means of restoring it.

@@ -1,7 +1,7 @@
-Title:TextSecure
-Difficulty:
-Order:18
----
+[Title]: # (TextSecure)
+[Difficulty]: # ()
+[Order]: # (18)
+
 # TEXTSECURE TOOL GUIDE
 
 ## TextSecure Tool Guide   

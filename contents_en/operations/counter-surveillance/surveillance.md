@@ -1,7 +1,7 @@
-Title:Surveillance
-Difficulty:Beginner
-Order:11
----
+[Title]: # (Surveillance)
+[Difficulty]: # (Beginner)
+[Order]: # (11)
+
 # Surveillance
 
 Surveillance is the monitoring of people?s behaviour, activities, or other patterns for the purpose of harming, influencing, managing, directing, or protecting them.

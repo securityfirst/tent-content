@@ -1,7 +1,7 @@
-Title:Eavesdropping
-Difficulty:Beginner
-Order:4
----
+[Title]: # (Eavesdropping)
+[Difficulty]: # (Beginner)
+[Order]: # (4)
+
 ## 4. Phones can be used to eavesdrop on the owner
 
 If a phone is infected with the right malware it is possible for its microphone or camera to be turned on remotely allowing somebody to hear or see whatever is happening in the same room as the phone. This may happen even when the phone appears to be switched off.

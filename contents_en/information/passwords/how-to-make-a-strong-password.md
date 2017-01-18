@@ -1,7 +1,7 @@
-Title:How to make a strong password
-Difficulty:Beginner
-Order:6
----
+[Title]: # (How to make a strong password)
+[Difficulty]: # (Beginner)
+[Order]: # (6)
+
 # How to make a strong password
 
 A password should be difficult for a computer program to guess, difficult for others to figure out, and should be chosen so as to minimise damage if someone does learn it.

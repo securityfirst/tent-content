@@ -1,7 +1,7 @@
-Title:Preparing Your Phone
-Difficulty:Advanced
-Order:1
----
+[Title]: # (Preparing Your Phone)
+[Difficulty]: # (Advanced)
+[Order]: # (1)
+
 To protect your rights, you may want to harden your existing phone against searches. For the full set of advice on how to manage the security of your mobile phone, go the **Mobile Phone Lesson.**
 
 *   **Passwords:** Always password-protect your phone. While password-protecting your phone is a small barrier to access, please be aware that it is not an effective barrier to expert forensic analysis.

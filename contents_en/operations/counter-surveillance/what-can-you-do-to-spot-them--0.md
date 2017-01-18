@@ -1,7 +1,7 @@
-Title:What can you do to spot them?
-Difficulty:Expert
-Order:18
----
+[Title]: # (What can you do to spot them?)
+[Difficulty]: # (Expert)
+[Order]: # (18)
+
 # What can you do to spot them?
 
 The most important thing to remember when conducting counter-surveillance is that you need to be discreet ? you do not want any potential surveillance teams to know that you are looking for them. This would raise suspicions further about what you intended to do. **The primary aim is to ascertain whether or not you are being followed, not to lose them.**

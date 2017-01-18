@@ -1,7 +1,7 @@
-Title:First Steps
-Difficulty:Expert
-Order:14
----
+[Title]: # (First Steps)
+[Difficulty]: # (Expert)
+[Order]: # (14)
+
 If kidnap occurs, the organisation should immediately set up a crisis management team, in HQ if possible. It should be made clear at once which manager has responsibility for managing the incident.  That manager should then consider the following actions, depending on the circumstances and his or her assessment of the best course of action:
 
 *   Inform the local police and other appropriate authorities

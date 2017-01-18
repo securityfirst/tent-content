@@ -1,7 +1,7 @@
-Title:PGP for Windows
-Difficulty:
-Order:12
----
+[Title]: # (PGP for Windows)
+[Difficulty]: # ()
+[Order]: # (12)
+
 # PGP FOR WINDOWS PC TOOL GUIDE
 
 ## PGP for Windows PC Tool Guide   

@@ -1,7 +1,7 @@
-Title:Tips for using password managers
-Difficulty:Advanced
-Order:1
----
+[Title]: # (Tips for using password managers)
+[Difficulty]: # (Advanced)
+[Order]: # (1)
+
 # Tips for using password managers
 
 There are few things to keep in mind when using password databases.

@@ -1,7 +1,7 @@
-Title:Sending secure online messages on your phone
-Difficulty:Beginner
-Order:2
----
+[Title]: # (Sending secure online messages on your phone)
+[Difficulty]: # (Beginner)
+[Order]: # (2)
+
 # Sending secure online messages on your phone
 
 ## Signal

@@ -1,7 +1,7 @@
-Title:Digital
-Difficulty:Beginner
-Order:0
----
+[Title]: # (Digital)
+[Difficulty]: # (Beginner)
+[Order]: # (0)
+
 ### If you are having a digital security emergency, the following are useful resources.
 
 # IMMEDIATE SUPPORT

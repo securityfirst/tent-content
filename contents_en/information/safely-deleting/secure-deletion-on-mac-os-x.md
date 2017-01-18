@@ -1,7 +1,7 @@
-Title:Secure deletion on Mac OS X
-Difficulty:Beginner
-Order:2
----
+[Title]: # (Secure deletion on Mac OS X)
+[Difficulty]: # (Beginner)
+[Order]: # (2)
+
 # Secure deletion on Mac OS X
 
 On OS X 10.4 and above, you can securely delete individual files by simply:

@@ -1,7 +1,7 @@
-Title:Traumatic Stress - Causes
-Difficulty:Advanced
-Order:0
----
+[Title]: # (Traumatic Stress - Causes)
+[Difficulty]: # (Advanced)
+[Order]: # (0)
+
 # Traumatic Stress - Causes
 
 Human rights activists do difficult and challenging work, and see a good deal of human misery. We may even be fearful for our lives at times. It is therefore important to know how to react following a traumatic event, and how to recognise the symptoms of traumatic stress. (Post-traumatic stress is dealt with in the Expert Lesson.)

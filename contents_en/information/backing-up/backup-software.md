@@ -1,7 +1,7 @@
-Title:Backup Software
-Difficulty:Advanced
-Order:4
----
+[Title]: # (Backup Software)
+[Difficulty]: # (Advanced)
+[Order]: # (4)
+
 # Backup Software
 
 Cobian Backup is a user-friendly tool that can be set to run automatically, at regularly scheduled times, and to include only files that have changed since your last backup. It can also compress backups to make them smaller. You can learn how to install and run it in our [Cobian Backup](umbrella://lesson/cobian-backup) Guide.

@@ -1,7 +1,7 @@
-Title:Sending secure SMS on your phone
-Difficulty:Beginner
-Order:1
----
+[Title]: # (Sending secure SMS on your phone)
+[Difficulty]: # (Beginner)
+[Order]: # (1)
+
 # Sending secure SMS on your phone
 
 ## SMSSecure

@@ -1,7 +1,7 @@
-Title:What now?
-Difficulty:Beginner
-Order:10
----
+[Title]: # (What now?)
+[Difficulty]: # (Beginner)
+[Order]: # (10)
+
 Swipe right for this lesson's checklist
 
 Go to the Advanced Lesson for advice on how to deal with traumatic stress.

@@ -1,7 +1,7 @@
-Title:Standard Operating Procedures
-Difficulty:Beginner
-Order:3
----
+[Title]: # (Standard Operating Procedures)
+[Difficulty]: # (Beginner)
+[Order]: # (3)
+
 *   Discuss Standard Operating Procedures prior to departure
 Pre-agree an itinerary and communication schedule agreed with relevant colleague.
 *   You should carry your ?constant companion? on your person at all times. A constant companion includes some cash, your key documentation needed for evacuation, and a list of emergency names, addresses, phone numbers, and the names of reputable hotels along the route.

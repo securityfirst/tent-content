@@ -1,7 +1,7 @@
-Title:Two-step authentication
-Difficulty:Advanced
-Order:2
----
+[Title]: # (Two-step authentication)
+[Difficulty]: # (Advanced)
+[Order]: # (2)
+
 # Two-step authentication
 
 Many services and software tools let you use two-step authentication. Here the idea is that in order to log in, you need to be in possession of a certain physical object: usually a mobile phone, but, in some versions, a special device called a security token. Using two-step authentication ensures that even if your password for the service is hacked or stolen, the thief won't be able to log in unless they also have control of a second device, such as your phone, and the special codes that only it can create.

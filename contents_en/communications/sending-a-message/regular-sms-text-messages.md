@@ -1,7 +1,7 @@
-Title:Regular SMS Text messages
-Difficulty:Beginner
-Order:0
----
+[Title]: # (Regular SMS Text messages)
+[Difficulty]: # (Beginner)
+[Order]: # (0)
+
 # Regular SMS Text messages
 
 SMS messages are not well encrypted so you should not rely on them to transmit sensitive information securely. Sent SMS messages can be intercepted and kept by your service operator or by third parties with inexpensive equipment. Those messages will carry the phone numbers of the sender and recipient as well as the content of the message. What's more, SMS messages can easily be altered or forged by third parties.

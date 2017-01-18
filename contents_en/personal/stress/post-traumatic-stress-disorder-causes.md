@@ -1,7 +1,7 @@
-Title:Post-Traumatic Stress Disorder - Causes
-Difficulty:Expert
-Order:11
----
+[Title]: # (Post-Traumatic Stress Disorder - Causes)
+[Difficulty]: # (Expert)
+[Order]: # (11)
+
 # Post-Traumatic Stress Disorder - Causes
 
 What happens if people don?t heal within the weeks following the trauma?

@@ -1,7 +1,7 @@
-Title:Communications
-Difficulty:Beginner
-Order:1
----
+[Title]: # (Communications)
+[Difficulty]: # (Beginner)
+[Order]: # (1)
+
 *   Traveller to ensure they understand how to operate communications equipment.
 *   Buy ?burner? sim-card before travel (WorldSim or Libara for example) and disposable phone. Make sure the SIM has funds on it. Often this is better than buying a local sim-card because that often requires registering the sim-card with your passport
 *   Check phone will function in the country travelled to

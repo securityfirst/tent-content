@@ -1,7 +1,7 @@
-Title:Organisational Response
-Difficulty:Beginner
-Order:1
----
+[Title]: # (Organisational Response)
+[Difficulty]: # (Beginner)
+[Order]: # (1)
+
 # Organisational Response
 
 

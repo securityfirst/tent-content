@@ -1,7 +1,7 @@
-Title:Dangers of Breaking Encryption
-Difficulty:Advanced
-Order:3
----
+[Title]: # (Dangers of Breaking Encryption)
+[Difficulty]: # (Advanced)
+[Order]: # (3)
+
 Satellite transmissions, while encrypted, are not entirely secure either. Many governments are now capable of defeating encryption
 
 *   You should use code words in highly sensitive transmissions, or avoid satellite phones entirely for such communications.

@@ -1,7 +1,7 @@
-Title:Recommended Protocols
-Difficulty:Advanced
-Order:2
----
+[Title]: # (Recommended Protocols)
+[Difficulty]: # (Advanced)
+[Order]: # (2)
+
 Experts recommend strict protocols when using satellite phones in a hostile environment:
 
 *   Avoid using a satellite phone (or any radio frequency-based device) from the same location more than once.

@@ -1,7 +1,7 @@
-Title:Dealing with it - For Individuals
-Difficulty:Beginner
-Order:8
----
+[Title]: # (Dealing with it - For Individuals)
+[Difficulty]: # (Beginner)
+[Order]: # (8)
+
 # Dealing with it - For Individuals
 
 Stress management is an individual process. There is no one best set of techniques. For stress management to be effective, it must be consistent and comprise the techniques that work best for each person.

@@ -1,7 +1,7 @@
-Title:Phase Three - Evacuation Imminent
-Difficulty:Beginner
-Order:2
----
+[Title]: # (Phase Three - Evacuation Imminent)
+[Difficulty]: # (Beginner)
+[Order]: # (2)
+
 When evacuation is imminent the office should usually suspend most normal operations to concentrate on evacuation preparations.  Potential evacuees may be relocated to a pre-selected safe area, or work from home.  Remote staff should be recalled or relocated.  Staff currently outside the region should remain in a safe place.  Non-essential personnel and family members may be evacuated.  Tasks during this phase, which may last weeks or only a few hours, include:
 
 *   Keep all staff fully informed.

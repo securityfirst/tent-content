@@ -1,7 +1,7 @@
-Title:Think about what you join
-Difficulty:Beginner
-Order:7
----
+[Title]: # (Think about what you join)
+[Difficulty]: # (Beginner)
+[Order]: # (7)
+
 # Think about what you join
 
 What information are you giving to people if you join a group or community? What does it say about you? Alternatively, what are people announcing to the world if they join a group or community that you have created? How are you putting people at risk?

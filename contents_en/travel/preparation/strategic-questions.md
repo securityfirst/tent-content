@@ -1,7 +1,7 @@
-Title:Strategic Questions
-Difficulty:Beginner
-Order:0
----
+[Title]: # (Strategic Questions)
+[Difficulty]: # (Beginner)
+[Order]: # (0)
+
 *   What is the objective of the trip? (ensure clear Terms of Reference)
 *    What profile are you/your org org taking? High profile/ low profile? Why?
 *   What is the threshold of acceptable risk your organisation is willing to take?

@@ -1,7 +1,7 @@
-Title:Tactics: How to find the eyeball on foot
-Difficulty:Advanced
-Order:5
----
+[Title]: # (Tactics: How to find the eyeball on foot)
+[Difficulty]: # (Advanced)
+[Order]: # (5)
+
 # Tactics: How to find the eyeball on foot
 
 The eyeball refers to the member of the surveillance team who currently has you in their sights. Firstly - don?t look over your shoulder! Instead try to create situations to look observe all around you naturally ? including behind you:

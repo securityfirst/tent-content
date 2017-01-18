@@ -1,7 +1,7 @@
-Title:What now?
-Difficulty:Beginner
-Order:8
----
+[Title]: # (What now?)
+[Difficulty]: # (Beginner)
+[Order]: # (8)
+
 Swipe right for this lesson's checklist
 
 Go to the Expert lesson for advice on how to root and encrypt your phone.

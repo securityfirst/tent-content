@@ -1,7 +1,7 @@
-Title:Before You Leave
-Difficulty:Beginner
-Order:0
----
+[Title]: # (Before You Leave)
+[Difficulty]: # (Beginner)
+[Order]: # (0)
+
 If travelling, you should first follow the advice outlined in the Preparation lesson.
 
 This lesson focuses specifically on how to cross borders if travelling for sensitive work or with sensitive information. In establishing the potential risk and risk mitigation measures for crossing borders, it is important to establish a few basics about the reasons for, and possible sensitivities of, your trip. It is vital to be aware of the nature of the information you will be carrying into and out of the country, and how you will carry it.

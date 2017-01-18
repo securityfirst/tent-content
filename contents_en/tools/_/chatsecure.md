@@ -1,7 +1,7 @@
-Title:ChatSecure
-Difficulty:
-Order:2
----
+[Title]: # (ChatSecure)
+[Difficulty]: # ()
+[Order]: # (2)
+
 # CHATSECURE TOOL GUIDE
 
 ## ChatSecure Tool Guide  

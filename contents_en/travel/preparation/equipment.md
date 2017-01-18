@@ -1,7 +1,7 @@
-Title:Equipment
-Difficulty:Beginner
-Order:5
----
+[Title]: # (Equipment)
+[Difficulty]: # (Beginner)
+[Order]: # (5)
+
 *   Ensure adequate cash or other payment tools for the trip.
 *   Travel lock
 *   Computer lock

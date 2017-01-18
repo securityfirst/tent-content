@@ -1,7 +1,7 @@
-Title:Location Selection
-Difficulty:Beginner
-Order:1
----
+[Title]: # (Location Selection)
+[Difficulty]: # (Beginner)
+[Order]: # (1)
+
 You should choose the area you plan to meet in carefully. It should be an area the person you are meeting (and you if possible) is comfortable in and knows well. If you don?t know it ? get to know it. You should be able to plan out your approach, possible escape and nearby safe spots such as partners, supportive local population, and embassies.
 
 Once you have chosen the area, you need to choose the specific meeting location. Often the most obvious locations such as their office/home offer a false sense of security and you can be more likely to be under surveillance there. It may be better to meet in a public place such as a café. In choosing a café, be careful of the usual spots that human rights defenders frequent ? Perhaps adversaries are aware of this this too. Try to choose a location not frequented by people likely to be targeted by surveillance. If you don?t know a location and will not get a chance to see it before you arrive, use the internet to try and view pictures and gather information about it.

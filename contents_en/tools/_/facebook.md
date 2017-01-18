@@ -1,7 +1,7 @@
-Title:Facebook
-Difficulty:
-Order:4
----
+[Title]: # (Facebook)
+[Difficulty]: # ()
+[Order]: # (4)
+
 # HOW TO CHANGE YOUR FACEBOOK PRIVACY SETTINGS
 
 ## How to change your Facebook privacy settings

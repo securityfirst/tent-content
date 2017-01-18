@@ -1,7 +1,7 @@
-Title:VHF radios 
-Difficulty:Beginner
-Order:6
----
+[Title]: # (VHF radios )
+[Difficulty]: # (Beginner)
+[Order]: # (6)
+
 # VHF radios
 
 Very High Frequency (VHF) radios operate in the 30 to 300 MHz range. Usually handheld, they can communicate over short ranges, approximately 10 kilometers, in most cases. They are often referred to as ?line of sight,? though in many circumstances they can effectively reach beyond that. Thick trees and buildings can obstruct VHF signals. Elevating the VHF antenna may improve the radio?s transmission range. Also, installing a repeater, which automatically receives and re-transmits radio signals, can further extend the range. Repeater systems are reliable and require little maintenance. Before using a VHF radio or repeater, it may be necessary to obtain authorisation from the host government.

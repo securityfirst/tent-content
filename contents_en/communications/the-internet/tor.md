@@ -1,7 +1,7 @@
-Title:Tor
-Difficulty:Advanced
-Order:1
----
+[Title]: # (Tor)
+[Difficulty]: # (Advanced)
+[Order]: # (1)
+
 # Tor
 
 Tor is free and open-source software that provides anonymity as well as allowing you to circumvent censorship. When you use Tor, the information you transmit is safer because your traffic is bounced around a distributed network of servers. This can provide anonymity, since the computer with which you?re communicating will never see your IP address, but instead will see the IP address of the last Tor router through which your traffic travelled.

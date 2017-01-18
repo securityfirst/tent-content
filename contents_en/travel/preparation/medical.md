@@ -1,7 +1,7 @@
-Title:Medical
-Difficulty:Beginner
-Order:4
----
+[Title]: # (Medical)
+[Difficulty]: # (Beginner)
+[Order]: # (4)
+
 *   You should carry a medical emergency card. Pre-check the best hospital in the area you will be visiting and also have a medical plan B.
 *    Make sure you obtain correct health advice, vaccinations and malaria prophylaxis.
 *   Check that any essential medicines required are carried.

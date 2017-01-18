@@ -1,7 +1,7 @@
-Title:The Problem with Mobile Phones
-Difficulty:Beginner
-Order:0
----
+[Title]: # (The Problem with Mobile Phones)
+[Difficulty]: # (Beginner)
+[Order]: # (0)
+
 # The Problem with Mobile Phones
 
 Mobile phones are basically insecure:

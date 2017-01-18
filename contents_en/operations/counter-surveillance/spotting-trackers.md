@@ -1,7 +1,7 @@
-Title:Spotting Trackers
-Difficulty:Expert
-Order:22
----
+[Title]: # (Spotting Trackers)
+[Difficulty]: # (Expert)
+[Order]: # (22)
+
 # Spotting Trackers
 
 A tracker is a device placed on a car to monitor its location. This is often used by surveillance teams instead of physically following a person?s car.

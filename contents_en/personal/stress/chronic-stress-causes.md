@@ -1,7 +1,7 @@
-Title:Chronic Stress - Causes
-Difficulty:Beginner
-Order:6
----
+[Title]: # (Chronic Stress - Causes)
+[Difficulty]: # (Beginner)
+[Order]: # (6)
+
 # Chronic Stress - Causes
 
 Chronic (or cumulative) stress occurs regularly among aid workers and activists, yet often goes unrecognised or unreported.

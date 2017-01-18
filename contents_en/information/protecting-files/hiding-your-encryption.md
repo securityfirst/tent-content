@@ -1,7 +1,7 @@
-Title:Hiding your encryption
-Difficulty:Advanced
-Order:3
----
+[Title]: # (Hiding your encryption)
+[Difficulty]: # (Advanced)
+[Order]: # (3)
+
 # Hiding your encryption
 
 If you are concerned about encryption software being found on your computer regardless of what?s in it, there are a few tricks to help disguise VeraCrypt.

@@ -1,7 +1,7 @@
-Title:Dealing with Violence
-Difficulty:Beginner
-Order:8
----
+[Title]: # (Dealing with Violence)
+[Difficulty]: # (Beginner)
+[Order]: # (8)
+
 Violence in a crowd situation can include physical harassment, thrown debris, petrol bombs, fire, use of weapons or tear gas. To mitigate such dangers, you should take all the precautions outlined under ?Dealing with Crushes? as well as the following:
 
 *   Wear suitable protective clothing e.g. fire retardant natural fibres.

@@ -1,7 +1,7 @@
-Title:What now?
-Difficulty:Beginner
-Order:13
----
+[Title]: # (What now?)
+[Difficulty]: # (Beginner)
+[Order]: # (13)
+
 Swipe right for this lesson's checklist
 
 Go to the Advanced lesson for advice on how to send encrypted emails for sensitive information.

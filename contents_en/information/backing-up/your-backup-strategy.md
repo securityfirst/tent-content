@@ -1,7 +1,7 @@
-Title:Your backup strategy
-Difficulty:Advanced
-Order:2
----
+[Title]: # (Your backup strategy)
+[Difficulty]: # (Advanced)
+[Order]: # (2)
+
 # Your backup strategy
 
 To back up all of the data types listed above, you will need a combination of software and processes. Basically, you need to make sure that each data type is stored in at least two separate locations.

@@ -1,7 +1,7 @@
-Title:What now?
-Difficulty:Advanced
-Order:5
----
+[Title]: # (What now?)
+[Difficulty]: # (Advanced)
+[Order]: # (5)
+
 Swipe right for this lesson?s checklist
 
 Go to the Beginner lesson for advice on covering a protest as a journalist.

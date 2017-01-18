@@ -1,7 +1,7 @@
-Title:Tips on improving your email security
-Difficulty:Beginner
-Order:9
----
+[Title]: # (Tips on improving your email security)
+[Difficulty]: # (Beginner)
+[Order]: # (9)
+
 # Tips on improving your email security
 
 *   Always be careful when opening email attachments that you are not expecting, that come from someone you do not know or that contain suspicious subject lines. When opening emails like this, you should ensure that your anti-virus software is up-to-date and pay close attention to any warnings displayed by your browser or email program. See more about this in the [Malware](umbrella://lesson/malware) lesson.

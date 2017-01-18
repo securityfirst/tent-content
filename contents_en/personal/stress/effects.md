@@ -1,7 +1,7 @@
-Title:Effects
-Difficulty:Advanced
-Order:1
----
+[Title]: # (Effects)
+[Difficulty]: # (Advanced)
+[Order]: # (1)
+
 # Effects
 
 At the time of a traumatic event, the person experiencing the event might feel numb and unable to respond.

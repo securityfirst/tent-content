@@ -1,7 +1,7 @@
-Title:Assessment
-Difficulty:Beginner
-Order:0
----
+[Title]: # (Assessment)
+[Difficulty]: # (Beginner)
+[Order]: # (0)
+
 Many checkpoints have a legitimate purpose, for example to prevent weapons from entering an area. Some checkpoints, however, are designed to harass people or as a cover for ambush, theft or violence. It is important to recognise the difference between a legal, sanctioned checkpoint and one designed for the gain of the checkpoint personnel.
 
 You first need to rapidly assess the nature of the checkpoint.

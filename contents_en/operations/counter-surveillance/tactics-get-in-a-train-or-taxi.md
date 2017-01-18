@@ -1,7 +1,7 @@
-Title:Tactics: Get in a train or taxi
-Difficulty:Advanced
-Order:9
----
+[Title]: # (Tactics: Get in a train or taxi)
+[Difficulty]: # (Advanced)
+[Order]: # (9)
+
 # Tactics: Get in a train or taxi
 
 Trains are difficult to follow with multiple forms of surveillance because they are faster than other vehicles. When getting on the train, hang back and try to be the last person to get on. Stand at the end of the platform where the train driver stops and where you will have a good view. Try buying a ticket to a destination and observe  - get off before that destination.

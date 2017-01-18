@@ -1,7 +1,7 @@
-Title:The Phases of a Kidnapping
-Difficulty:Beginner
-Order:8
----
+[Title]: # (The Phases of a Kidnapping)
+[Difficulty]: # (Beginner)
+[Order]: # (8)
+
 1.  Surveillance
 2.  Capture
 3.  Transport (This could happen several times)

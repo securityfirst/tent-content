@@ -1,7 +1,7 @@
-Title:Making secure calls on your computer
-Difficulty:Beginner
-Order:3
----
+[Title]: # (Making secure calls on your computer)
+[Difficulty]: # (Beginner)
+[Order]: # (3)
+
 # Making secure calls on your computer
 
 ## JitsiMeet

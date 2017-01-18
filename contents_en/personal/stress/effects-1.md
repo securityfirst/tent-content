@@ -1,7 +1,7 @@
-Title:Effects
-Difficulty:Expert
-Order:12
----
+[Title]: # (Effects)
+[Difficulty]: # (Expert)
+[Order]: # (12)
+
 # Effects
 
 The specific symptoms of PTSD can vary widely between individuals, but they generally fall into the categories described below. These symptoms are often severe and persistent enough to have a significant impact on the person?s day-to-day life.

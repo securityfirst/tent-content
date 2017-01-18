@@ -1,7 +1,7 @@
-Title:PGP for Linux
-Difficulty:
-Order:10
----
+[Title]: # (PGP for Linux)
+[Difficulty]: # ()
+[Order]: # (10)
+
 # PGP FOR LINUX TOOL GUIDE
 
 ## PGP for Linux Tool Guide   

@@ -1,7 +1,7 @@
-Title:Before You Go
-Difficulty:Beginner
-Order:6
----
+[Title]: # (Before You Go)
+[Difficulty]: # (Beginner)
+[Order]: # (6)
+
 Protest marches, rallies or unplanned gatherings may be small and self-limiting or may become riots and civil disturbance.
 
 It is important to prepare adequately (in proportion to the expected event) before going to cover it. This can have many different meanings depending on the size of the team you work with, but should include the following if possible and appropriate:

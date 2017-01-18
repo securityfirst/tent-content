@@ -1,7 +1,7 @@
-Title:When encryption is illegal
-Difficulty:Advanced
-Order:4
----
+[Title]: # (When encryption is illegal)
+[Difficulty]: # (Advanced)
+[Order]: # (4)
+
 # When encryption is illegal
 
 Encryption is illegal in some countries, which means that downloading, installing or using software of this sort might be a crime in its own right. Any time that merely being associated with encryption software would be enough to expose you to accusations of criminal activity or espionage (regardless of what is actually inside your encrypted volumes), then you will have to think carefully about whether or not such tools are appropriate for your situation.

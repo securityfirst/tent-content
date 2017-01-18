@@ -1,7 +1,7 @@
-Title:One-time passwords
-Difficulty:Advanced
-Order:3
----
+[Title]: # (One-time passwords)
+[Difficulty]: # (Advanced)
+[Order]: # (3)
+
 # One-time passwords
 
 Some services, such as Google, also allow you to generate a list of one-time passwords, also called single-use passwords. These are meant to be printed or written down on paper and carried with you.

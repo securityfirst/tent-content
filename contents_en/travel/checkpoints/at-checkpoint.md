@@ -1,7 +1,7 @@
-Title:At Checkpoint
-Difficulty:Beginner
-Order:2
----
+[Title]: # (At Checkpoint)
+[Difficulty]: # (Beginner)
+[Order]: # (2)
+
 You should know the accepted etiquette for passing through a checkpoint in your area. It is always important to stay calm and clearly demonstrate that you are not a threat.
 
 *   Stop a few meters from the barrier

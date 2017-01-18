@@ -1,7 +1,7 @@
-Title:General Precautions
-Difficulty:Beginner
-Order:5
----
+[Title]: # (General Precautions)
+[Difficulty]: # (Beginner)
+[Order]: # (5)
+
 # General Precautions
 
 As is the case with other devices, the first line of defence for the safety of the information on your mobile phone is to physically protect the phone and its SIM card from being taken or tampered with.

@@ -1,7 +1,7 @@
-Title:What to Pack
-Difficulty:Beginner
-Order:6
----
+[Title]: # (What to Pack)
+[Difficulty]: # (Beginner)
+[Order]: # (6)
+
 A grab bag might include:
 
 *   Passport/ID ? with multi-entry visas

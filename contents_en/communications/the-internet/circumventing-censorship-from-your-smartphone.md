@@ -1,7 +1,7 @@
-Title:Circumventing censorship from your smartphone
-Difficulty:Beginner
-Order:9
----
+[Title]: # (Circumventing censorship from your smartphone)
+[Difficulty]: # (Beginner)
+[Order]: # (9)
+
 # Circumventing censorship from your smartphone
 
 Using your smartphone to go online is often risker than using a computer. You can reduce your risks through the use of these tools.

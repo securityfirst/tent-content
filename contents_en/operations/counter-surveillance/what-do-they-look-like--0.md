@@ -1,7 +1,7 @@
-Title:What do they look like?
-Difficulty:Expert
-Order:17
----
+[Title]: # (What do they look like?)
+[Difficulty]: # (Expert)
+[Order]: # (17)
+
 # For advice on how to practice counter-surveillance when on foot, go to the Advanced lesson.
 
 There are a number of indicators that might let you know if a vehicle is being used to conduct mobile surveillance.

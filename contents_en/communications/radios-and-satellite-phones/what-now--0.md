@@ -1,7 +1,7 @@
-Title:What now?
-Difficulty:Beginner
-Order:11
----
+[Title]: # (What now?)
+[Difficulty]: # (Beginner)
+[Order]: # (11)
+
 Swipe right for this lesson's checklist
 
 ### RELATED LESSONS/TOOLS

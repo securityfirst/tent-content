@@ -1,7 +1,7 @@
-Title:Encryption of volumes
-Difficulty:Expert
-Order:11
----
+[Title]: # (Encryption of volumes)
+[Difficulty]: # (Expert)
+[Order]: # (11)
+
 # Encryption of volumes
 
 Rooting your phone will also allow you to encrypt its entire data storage or create a volume on the smartphone to protect certain information.

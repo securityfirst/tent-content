@@ -1,7 +1,7 @@
-Title:Arrival at a Meeting
-Difficulty:Beginner
-Order:3
----
+[Title]: # (Arrival at a Meeting)
+[Difficulty]: # (Beginner)
+[Order]: # (3)
+
 If possible you should remove batteries from phones before travelling to the meeting location, so as to avoid remote tracking. (See the Mobile Phones lesson for more advice on mitigating the risks of phones)
 
 Ideally all parties would conduct counter-surveillance when travelling to the meeting. See the Counter-Surveillance lesson for advice on how to do this. If the person you are meeting is not trained in this, and you are unsure of their security, one of your colleagues may be able to check whether your contact has been followed. You should ensure you are clear before you arrive. If possible you should arrive first and check the area is clear ? check the toilets, emergency exits and likely approaches.

@@ -1,7 +1,7 @@
-Title:Recording passwords securely
-Difficulty:Advanced
-Order:0
----
+[Title]: # (Recording passwords securely)
+[Difficulty]: # (Advanced)
+[Order]: # (0)
+
 # Recording passwords securely
 
 Our Basic section showed you how to create a strong, memorable password. However, because you need a different password for every account or service and also need to change them every few months, it can soon become difficult to remember them all. Fortunately, there are software tools to help with this ? a password manager is a software application that can generate random, secure passwords for each of your accounts and record them in a portable, encrypted password database, such as KeePass.

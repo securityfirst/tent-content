@@ -1,7 +1,7 @@
-Title:Scenarios to Consider
-Difficulty:Beginner
-Order:2
----
+[Title]: # (Scenarios to Consider)
+[Difficulty]: # (Beginner)
+[Order]: # (2)
+
 There are a few scenarios you should play out in your head before you go to your meeting. Some may not put you at any extra risk but it?s useful to have thought them through in advance.
 
 *   Will you or they have to travel through checkpoints? If so what is your story?

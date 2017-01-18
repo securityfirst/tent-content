@@ -1,7 +1,7 @@
-Title:Safe-houses
-Difficulty:Beginner
-Order:4
----
+[Title]: # (Safe-houses)
+[Difficulty]: # (Beginner)
+[Order]: # (4)
+
 Safe-houses take a number of different forms. They can either be emergency safe-houses which are houses or apartments rented specifically for this purpose OR emergency safe havens which are in the already-occupied houses or apartments of friendly people.
 
 Safe-houses and safe havens should be in a relatively anonymous community where neighbours won?t be suspicious about what is going on, or in a community where the neighbours can be relied on not to inform.

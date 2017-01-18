@@ -1,7 +1,7 @@
-Title:What now?
-Difficulty:Advanced
-Order:4
----
+[Title]: # (What now?)
+[Difficulty]: # (Advanced)
+[Order]: # (4)
+
 Swipe right for this lesson?s checklist
 
 Go to the Beginner lesson for advice on what to pack in a grab bag.[Go to Beginner Lesson](umbrella://lesson/protective/1)

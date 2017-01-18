@@ -1,7 +1,7 @@
-Title:Email on Smartphones
-Difficulty:Beginner
-Order:10
----
+[Title]: # (Email on Smartphones)
+[Difficulty]: # (Beginner)
+[Order]: # (10)
+
 # Email on Smartphones
 
 In the first instance, consider if you really need to use your smartphone to access your email. Securing a computer and its content is generally simpler than doing so for a mobile device such as a smartphone. A smartphone is more susceptible to theft, monitoring and intrusion.

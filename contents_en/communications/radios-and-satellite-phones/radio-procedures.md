@@ -1,7 +1,7 @@
-Title:Radio procedures
-Difficulty:Beginner
-Order:9
----
+[Title]: # (Radio procedures)
+[Difficulty]: # (Beginner)
+[Order]: # (9)
+
 # Radio procedures 
 
 The benefits of radio equipment can be maximized by following simple standard radio procedures. 

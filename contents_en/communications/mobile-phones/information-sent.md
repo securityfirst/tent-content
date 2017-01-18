@@ -1,7 +1,7 @@
-Title:Information sent
-Difficulty:Beginner
-Order:1
----
+[Title]: # (Information sent)
+[Difficulty]: # (Beginner)
+[Order]: # (1)
+
 ## 1. Information sent from a mobile phone is vulnerable
 
 Each mobile phone provider has full access to all text and voice messages sent via its network. Other people who are close to the mobile phone can also tap calls and text messages using inexpensive equipment. The safest practice is to assume that traditional calls and SMS text messages have not been secured against eavesdropping or recording.

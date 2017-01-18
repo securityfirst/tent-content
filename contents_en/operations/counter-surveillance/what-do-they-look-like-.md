@@ -1,7 +1,7 @@
-Title:What do they look like?
-Difficulty:Advanced
-Order:1
----
+[Title]: # (What do they look like?)
+[Difficulty]: # (Advanced)
+[Order]: # (1)
+
 # What do they look like?
 
 There are a number of indicators that might let you know if a person is conducting surveillance on foot.

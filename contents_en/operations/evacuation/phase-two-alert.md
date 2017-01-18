@@ -1,7 +1,7 @@
-Title:Phase Two  - Alert
-Difficulty:Beginner
-Order:1
----
+[Title]: # (Phase Two  - Alert)
+[Difficulty]: # (Beginner)
+[Order]: # (1)
+
 Mounting tensions and/or instability may lead you or your organisation to issue a recommendation to limit operations, increase security measures, and review the evacuation plan.  Work outside the immediate vicinity of the field office may be suspended.  Tasks during this stage include the following.
 
 *   Brief all national and international staff on the situation.

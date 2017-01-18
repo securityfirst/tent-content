@@ -1,7 +1,7 @@
-Title:Physical
-Difficulty:Beginner
-Order:0
----
+[Title]: # (Physical)
+[Difficulty]: # (Beginner)
+[Order]: # (0)
+
 ### If you are having a physical security emergency, the following are useful resources.
 
 # IMMEDIATE SUPPORT

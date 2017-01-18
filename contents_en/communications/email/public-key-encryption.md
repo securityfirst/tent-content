@@ -1,7 +1,7 @@
-Title:Public Key Encryption
-Difficulty:Advanced
-Order:1
----
+[Title]: # (Public Key Encryption)
+[Difficulty]: # (Advanced)
+[Order]: # (1)
+
 PGP is built upon the concept of Public Key Encryption. This is a cryptographic system that uses two keys - a public key known to everyone and a private key known only to the recipient of the message. When John wants to send a secure message to Jane, he uses Jane's public key to encrypt the message. Jane then uses her private key to decrypt it.
 
 *   So public key encryption lets you encrypt and send messages safely to anyone whose public key you know.

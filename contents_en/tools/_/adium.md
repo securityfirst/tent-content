@@ -1,7 +1,7 @@
-Title:Adium
-Difficulty:
-Order:0
----
+[Title]: # (Adium)
+[Difficulty]: # ()
+[Order]: # (0)
+
 # ADIUM TOOL GUIDE
 
 ## Adium & OTR  

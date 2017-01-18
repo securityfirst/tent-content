@@ -1,7 +1,7 @@
-Title:Dealing with it
-Difficulty:Expert
-Order:13
----
+[Title]: # (Dealing with it)
+[Difficulty]: # (Expert)
+[Order]: # (13)
+
 # Dealing with it
 
 It is normal to experience upsetting and confusing thoughts after a traumatic event, but in most people these will improve naturally over a few weeks. However you should visit your doctor if you are still having problems about four weeks after the traumatic experience, or if the symptoms are particularly troublesome. Your doctor may refer you to mental health specialists if they feel you would benefit from treatment.

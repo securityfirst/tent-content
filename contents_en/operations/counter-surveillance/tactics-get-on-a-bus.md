@@ -1,7 +1,7 @@
-Title:Tactics: Get on a bus
-Difficulty:Advanced
-Order:8
----
+[Title]: # (Tactics: Get on a bus)
+[Difficulty]: # (Advanced)
+[Order]: # (8)
+
 # Tactics: Get on a bus
 
 It is difficult for surveillance teams to keep up if you suddenly get on a bus, going from on foot to mobile. This is particularly true because buses are slower than other vehicles so are difficult to follow by car too. Ensure you have change for the fare. Sit as far back in the bus as possible and if it?s left-hand drive, sit on the right side of the bus to be able to observe any vehicles which might over take the bus

@@ -1,7 +1,7 @@
-Title:What now?
-Difficulty:Expert
-Order:12
----
+[Title]: # (What now?)
+[Difficulty]: # (Expert)
+[Order]: # (12)
+
 Swipe right for this lesson's checklist
 
 Go to the Beginner lesson for advice on the dangers of using mobile phones.

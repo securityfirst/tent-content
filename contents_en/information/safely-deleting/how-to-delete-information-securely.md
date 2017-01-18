@@ -1,7 +1,7 @@
-Title:How to delete information securely
-Difficulty:Beginner
-Order:0
----
+[Title]: # (How to delete information securely)
+[Difficulty]: # (Beginner)
+[Order]: # (0)
+
 # How to delete information securely
 
 Most of us think that a file on our computer is deleted once we put the file in our computer's trash folder and empty the trash; in reality, this does not actually delete files ? it just makes them invisible to the user until the space they took up on your computer is overwritten with something else. This means that, with the right tools, your ?deleted? files can often be retrieved.

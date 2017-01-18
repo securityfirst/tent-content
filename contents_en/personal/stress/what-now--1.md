@@ -1,7 +1,7 @@
-Title:What now?
-Difficulty:Expert
-Order:14
----
+[Title]: # (What now?)
+[Difficulty]: # (Expert)
+[Order]: # (14)
+
 Swipe right for this lesson's checklist
 
 Go to the Beginner Lesson for advice on how to deal with chronic stress.

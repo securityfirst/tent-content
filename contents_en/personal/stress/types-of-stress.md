@@ -1,7 +1,7 @@
-Title:Types of Stress
-Difficulty:Beginner
-Order:5
----
+[Title]: # (Types of Stress)
+[Difficulty]: # (Beginner)
+[Order]: # (5)
+
 # Types of Stress
 
 Stress is a natural reaction, and it can be positive and stimulating. Not all stress is bad. There are different types of stress, both healthy and unhealthy. Healthy stress helps people focus on the task at hand, mobilises energy and prepares them for action. When stress occurs too often, however, or is too intense or lasts too long, it turns from positive to negative.

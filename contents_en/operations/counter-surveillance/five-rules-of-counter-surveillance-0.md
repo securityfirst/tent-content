@@ -1,7 +1,7 @@
-Title:Five Rules of Counter-Surveillance
-Difficulty:Expert
-Order:19
----
+[Title]: # (Five Rules of Counter-Surveillance)
+[Difficulty]: # (Expert)
+[Order]: # (19)
+
 # Five Rules of Counter-Surveillance
 
 ### 1. Trigger

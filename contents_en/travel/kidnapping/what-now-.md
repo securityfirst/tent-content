@@ -1,7 +1,7 @@
-Title:What now?
-Difficulty:Advanced
-Order:6
----
+[Title]: # (What now?)
+[Difficulty]: # (Advanced)
+[Order]: # (6)
+
 Swipe right for this lesson's checklist
 
 Go to the Beginner lesson for advice on how to avoid kidnapping.[Go to Beginner Lesson](umbrella://lesson/kidnapping/1)

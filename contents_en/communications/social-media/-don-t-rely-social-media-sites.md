@@ -1,7 +1,7 @@
-Title: Don?t rely social media sites
-Difficulty:Beginner
-Order:8
----
+[Title]: # ( Don?t rely social media sites)
+[Difficulty]: # (Beginner)
+[Order]: # (8)
+
 # Don?t use social media sites for instant chats
 
 Many social networking sites have tools that allow you to have discussions with your friends in real time. These operate like Instant Messaging and are one of the most insecure ways to communicate on the internet, both because they may reveal who you are communicating with, and what you are communicating about.

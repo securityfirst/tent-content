@@ -1,7 +1,7 @@
-Title:Tactics: Chokepoints
-Difficulty:Expert
-Order:21
----
+[Title]: # (Tactics: Chokepoints)
+[Difficulty]: # (Expert)
+[Order]: # (21)
+
 # Tactics: Chokepoints
 
 Chokepoints are areas that anyone following you must pass through, and so allow for better observation and filtering of potential surveillance. Some naturally occurring chokepoints could be:

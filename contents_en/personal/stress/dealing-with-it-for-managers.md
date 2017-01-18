@@ -1,7 +1,7 @@
-Title:Dealing with it - For Managers
-Difficulty:Beginner
-Order:9
----
+[Title]: # (Dealing with it - For Managers)
+[Difficulty]: # (Beginner)
+[Order]: # (9)
+
 # Dealing with it - For Managers
 
 In volatile environments, expectations of managers can often be unrealistic ? both in terms of the volume of tasks and the level of skill with which they need to be performed. The level of responsibility can be a significant source of stress, especially when it does not stop at night, or on weekends or holidays. All staff need to feel that their managers are strong, solid and reliable and a source of stability. A manager who shows signs of severe stress, or who continues in post although burned out, is likely to demoralise his or her staff. The following tactics can help managers to cope with their own stress and reduce that of their staff.

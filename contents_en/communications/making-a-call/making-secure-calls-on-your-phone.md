@@ -1,7 +1,7 @@
-Title:Making secure calls on your phone
-Difficulty:Beginner
-Order:2
----
+[Title]: # (Making secure calls on your phone)
+[Difficulty]: # (Beginner)
+[Order]: # (2)
+
 # Making secure calls on your phone
 
 ## Signal

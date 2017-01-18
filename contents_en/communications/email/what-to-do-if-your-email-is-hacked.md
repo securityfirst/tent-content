@@ -1,7 +1,7 @@
-Title:What to do if your email is hacked
-Difficulty:Beginner
-Order:12
----
+[Title]: # (What to do if your email is hacked)
+[Difficulty]: # (Beginner)
+[Order]: # (12)
+
 # What to do if your email is hacked
 
 In such situations you may want to take some cautionary action:

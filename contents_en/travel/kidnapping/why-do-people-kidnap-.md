@@ -1,7 +1,7 @@
-Title:Why do People Kidnap?
-Difficulty:Beginner
-Order:7
----
+[Title]: # (Why do People Kidnap?)
+[Difficulty]: # (Beginner)
+[Order]: # (7)
+
 The best defence against kidnapping is having and practising a high-quality, well-managed security management plan, which is based on a thorough understanding of the general context and risks, and on the context and threat of kidnapping specific to your location. Understanding who carries out kidnappings, and why, will help shape your avoidance and survival strategies.
 
 The main reasons for kidnappings are:

@@ -1,7 +1,7 @@
-Title:How to protect sensitive files
-Difficulty:Advanced
-Order:0
----
+[Title]: # (How to protect sensitive files)
+[Difficulty]: # (Advanced)
+[Order]: # (0)
+
 # How to protect sensitive files
 
 Many human rights activists have sensitive information that could have serious consequences if seen by the wrong people. The [Managing Information lesson](umbrella://lesson/managing-information) can help you determine your threat model. Following the steps laid out in the Home/Office section and the [Malware](umbrella://lesson/malware) lesson will help you to protect your computer physically and digitally. However there may be situations where these precautions fail or you need to show your computer to someone whom you don?t want to see the files. This is why you should also protect the files themselves. You can do this by encrypting them so that only you can read them.

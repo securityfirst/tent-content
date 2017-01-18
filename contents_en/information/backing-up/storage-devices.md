@@ -1,7 +1,7 @@
-Title:Storage devices
-Difficulty:Advanced
-Order:3
----
+[Title]: # (Storage devices)
+[Difficulty]: # (Advanced)
+[Order]: # (3)
+
 # Storage devices
 
 Before you can back up your data, you must decide what kind of storage device you will use.

@@ -1,7 +1,7 @@
-Title:Effects
-Difficulty:Beginner
-Order:7
----
+[Title]: # (Effects)
+[Difficulty]: # (Beginner)
+[Order]: # (7)
+
 # Effects
 
 There is a wide range of possible symptoms of negative stress, and people differ in terms of the symptoms they exhibit.

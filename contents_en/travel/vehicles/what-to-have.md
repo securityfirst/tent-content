@@ -1,7 +1,7 @@
-Title:What to Have
-Difficulty:Beginner
-Order:4
----
+[Title]: # (What to Have)
+[Difficulty]: # (Beginner)
+[Order]: # (4)
+
 The following items (location dependant) should be kept in the vehicle at all times.
 
 Equipment:

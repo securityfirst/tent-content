@@ -1,7 +1,7 @@
-Title:Recipient security
-Difficulty:Beginner
-Order:8
----
+[Title]: # (Recipient security)
+[Difficulty]: # (Beginner)
+[Order]: # (8)
+
 # Recipient security
 
 Regardless of what secure email tools you decide to use, keep in mind that every message has a sender and one or more recipients. You yourself are only part of the picture.

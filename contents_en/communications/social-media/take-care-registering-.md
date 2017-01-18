@@ -1,7 +1,7 @@
-Title:Take care registering 
-Difficulty:Beginner
-Order:1
----
+[Title]: # (Take care registering )
+[Difficulty]: # (Beginner)
+[Order]: # (1)
+
 # Take care registering 
 
 *   Consider whether you want to use your real name or not. Might you want to share things that could be dangerous if they were linked to you?

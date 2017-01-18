@@ -1,7 +1,7 @@
-Title:Phase Four - Evacuation
-Difficulty:Beginner
-Order:3
----
+[Title]: # (Phase Four - Evacuation)
+[Difficulty]: # (Beginner)
+[Order]: # (3)
+
 Once evacuation or relocation has begun, it should take precedence over all other activities.  The field office may continue operations through national staff, or contractors if appropriate, or may close completely.  Considerations during evacuation may include:
 
 *   If there is a risk of looting, consider disabling radios, equipment and vehicles.  Empty and leave open all safes.

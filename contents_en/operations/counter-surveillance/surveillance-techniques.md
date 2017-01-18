@@ -1,7 +1,7 @@
-Title:Surveillance techniques
-Difficulty:Beginner
-Order:12
----
+[Title]: # (Surveillance techniques)
+[Difficulty]: # (Beginner)
+[Order]: # (12)
+
 # What techniques are available to carry out surveillance?
 
 *   Digital surveillance (monitoring of digital communications, mobile phones etc.)

@@ -1,7 +1,7 @@
-Title:Journey Preparation
-Difficulty:Beginner
-Order:3
----
+[Title]: # (Journey Preparation)
+[Difficulty]: # (Beginner)
+[Order]: # (3)
+
 Drivers should:
 
 *   Be given a clear briefing about safe driving procedures before departure

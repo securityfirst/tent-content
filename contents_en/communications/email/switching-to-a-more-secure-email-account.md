@@ -1,7 +1,7 @@
-Title:Switching to a more secure email account
-Difficulty:Beginner
-Order:7
----
+[Title]: # (Switching to a more secure email account)
+[Difficulty]: # (Beginner)
+[Order]: # (7)
+
 # Switching to a more secure email account
 
 While using HTTPS protects your communications from other people on your network, there are some things that it does not do. When you send email using HTTPS, your email provider still gets an unencrypted copy of your communication. Governments and law enforcement may be able to access this data with a warrant.

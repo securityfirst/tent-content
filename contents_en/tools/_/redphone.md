@@ -1,7 +1,7 @@
-Title:RedPhone
-Difficulty:
-Order:16
----
+[Title]: # (RedPhone)
+[Difficulty]: # ()
+[Order]: # (16)
+
 # REDPHONE TOOL GUIDE
 
 ## RedPhone Tool Guide   

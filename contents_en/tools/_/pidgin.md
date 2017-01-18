@@ -1,7 +1,7 @@
-Title:Pidgin
-Difficulty:
-Order:13
----
+[Title]: # (Pidgin)
+[Difficulty]: # ()
+[Order]: # (13)
+
 # PIDGIN TOOL GUIDE
 
 ## Pidgin Tool Guide   

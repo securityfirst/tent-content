@@ -1,7 +1,7 @@
-Title:Information stored
-Difficulty:Beginner
-Order:2
----
+[Title]: # (Information stored)
+[Difficulty]: # (Beginner)
+[Order]: # (2)
+
 ## 2. Information stored on a mobile phone is vulnerable
 
 Mobile phones can store all sorts of data: call history, text messages sent and received, address books, photos, video clips, text files. These may reveal your network of contacts, and personal information about you and your colleagues.

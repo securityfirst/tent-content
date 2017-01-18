@@ -1,7 +1,7 @@
-Title:K9 & APG
-Difficulty:
-Order:6
----
+[Title]: # (K9 & APG)
+[Difficulty]: # ()
+[Order]: # (6)
+
 # K9 & APG TOOL GUIDE
 
 ## K9 & APG Tool Guide  

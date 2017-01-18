@@ -1,7 +1,7 @@
-Title:VoIP Calls
-Difficulty:Beginner
-Order:1
----
+[Title]: # (VoIP Calls)
+[Difficulty]: # (Beginner)
+[Order]: # (1)
+
 # VoIP Calls
 
 The easiest way to ensure you have good encryption on voice conversations is to use VoIP instead of regular calls. VoIP (Voice over Internet Protocol) refers to calls made using the internet. Using VoIP is generally free (or significantly cheaper than mobile phone calls) and leaves few data traces. Good call encryption software is currently only supported on a few models of smart phones.

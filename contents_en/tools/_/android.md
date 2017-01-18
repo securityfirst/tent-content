@@ -1,7 +1,7 @@
-Title:Android
-Difficulty:
-Order:1
----
+[Title]: # (Android)
+[Difficulty]: # ()
+[Order]: # (1)
+
 # BASIC SECURITY SETUP FOR ANDROID GUIDE
 
 ## Basic Security Setup for Android guide

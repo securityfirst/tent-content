@@ -1,7 +1,7 @@
-Title:A secret safe within a safe
-Difficulty:Advanced
-Order:2
----
+[Title]: # (A secret safe within a safe)
+[Difficulty]: # (Advanced)
+[Order]: # (2)
+
 # A secret safe within a safe
 
 One of the weaknesses with some encryption tools is their visibility ? you may be worried that someone could find the encrypted volume, see that you were trying to conceal information, and use intimidation, blackmail or interrogation to force you into opening it.

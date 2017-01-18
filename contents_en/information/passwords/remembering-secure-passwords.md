@@ -1,7 +1,7 @@
-Title:Remembering secure passwords
-Difficulty:Beginner
-Order:7
----
+[Title]: # (Remembering secure passwords)
+[Difficulty]: # (Beginner)
+[Order]: # (7)
+
 # Remembering secure passwords
 
 There are a few tricks that might help you create passwords that are easy to remember but very difficult to guess.

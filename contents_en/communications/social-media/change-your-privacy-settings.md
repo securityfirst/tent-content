@@ -1,7 +1,7 @@
-Title:Change Your Privacy Settings
-Difficulty:Beginner
-Order:3
----
+[Title]: # (Change Your Privacy Settings)
+[Difficulty]: # (Beginner)
+[Order]: # (3)
+
 # Change Your Privacy Settings
 
 Specifically, change the default settings. For example:

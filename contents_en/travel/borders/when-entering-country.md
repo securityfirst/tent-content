@@ -1,7 +1,7 @@
-Title:When Entering Country
-Difficulty:Beginner
-Order:1
----
+[Title]: # (When Entering Country)
+[Difficulty]: # (Beginner)
+[Order]: # (1)
+
 *   Agree in advance with colleagues what you will say. Discuss any red lines you will not cross (e.g. giving information about high risk activists who you intend on meeting)
 *   In some environments, it is best not to attract attention by travelling in a group, so sit separately and approach immigration separately. (Although bare in mind that authorities often know if big organisations are coming to the country anyway.)
 *   Say/do nothing sensitive on plane ? many human rights defenders have been arrested because they were overheard speaking about their activities.

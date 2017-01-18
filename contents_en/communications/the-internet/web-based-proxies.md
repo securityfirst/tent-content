@@ -1,7 +1,7 @@
-Title:Web-based proxies
-Difficulty:Beginner
-Order:7
----
+[Title]: # (Web-based proxies)
+[Difficulty]: # (Beginner)
+[Order]: # (7)
+
 # Web-based proxies
 
 A web-based proxy (such as [https://proxy.org/](https://proxy.org/)) is one of the simplest ways of circumventing censorship. It is a website that lets its users access other, blocked or censored websites. In order to use a web-based proxy, all you need to do is enter the filtered address that you wish to use into the box in the proxy webpage; the proxy will then display the requested content inside its own webpage.

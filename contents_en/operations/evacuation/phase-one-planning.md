@@ -1,7 +1,7 @@
-Title:Phase One  - Planning
-Difficulty:Beginner
-Order:0
----
+[Title]: # (Phase One  - Planning)
+[Difficulty]: # (Beginner)
+[Order]: # (0)
+
 Evacuation planning and rehearsals should be carried out regularly. Security situations can deteriorate rapidly, often without warning.  The evacuation plan should be prepared and all staff should understand an outline of it. The following issues should be considered when preparing your evacuation plan.
 
 *   **Suspend** work activities in response to security concerns;

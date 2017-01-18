@@ -1,7 +1,7 @@
-Title:Confinement
-Difficulty:Advanced
-Order:3
----
+[Title]: # (Confinement)
+[Difficulty]: # (Advanced)
+[Order]: # (3)
+
 *   Anticipate periods of isolation and other methods of intimidation and prepare for a long wait. Do not believe everything you are told. Try to persuade your abductors to contact your colleagues or the authorities, find reasons why this would benefit them.
 *   Try to build a relationship of respect whilst keeping your dignity, do not beg or plead; be cooperative and obey demands without being servile or aggressive; do not discuss politics, keep to mutual subjects such as family and children; encourage your abductors to view you as a person.
 *   Try to retain personal belongings such as clothes, identification, watch and books unless forced to hand them over; ask for practical things such as toiletries, medicines, or time to exercise; avoid an exchange of clothes with abductors - it may hinder your identification in a rescue attempt.

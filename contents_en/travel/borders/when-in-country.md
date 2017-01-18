@@ -1,7 +1,7 @@
-Title:When In Country
-Difficulty:Beginner
-Order:2
----
+[Title]: # (When In Country)
+[Difficulty]: # (Beginner)
+[Order]: # (2)
+
 *   If using a paper notebook, try to minimise any potential data loss by making up short codes that only you understand. For example, if you are meeting a high-risk activist, give them a different name and refer to them as that in your notes. Don?t mix sensitive information with easily identifiable information.
 *   Don?t forget about receipts, tickets, bills etc. They can link sensitive activists to your work if not carefully protected.
 *   Keep sensitive information in another place (e.g. interview notes in a notebook but sensitive names and locations securely emailed to yourself.)

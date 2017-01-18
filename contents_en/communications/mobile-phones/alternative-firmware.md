@@ -1,7 +1,7 @@
-Title:Alternative Firmware
-Difficulty:Expert
-Order:10
----
+[Title]: # (Alternative Firmware)
+[Difficulty]: # (Expert)
+[Order]: # (10)
+
 # Alternative Firmware
 
 Rooting your phone will allow you to install alternative firmware.  

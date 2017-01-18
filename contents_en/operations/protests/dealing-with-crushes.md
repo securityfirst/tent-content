@@ -1,7 +1,7 @@
-Title:Dealing with Crushes
-Difficulty:Beginner
-Order:7
----
+[Title]: # (Dealing with Crushes)
+[Difficulty]: # (Beginner)
+[Order]: # (7)
+
 Crushing in crowds or police charges can be dangerous even as a bystander. You can mitigate the danger by taking the following precautions:
 
 *   Ensure there are good working communication channels between the team and everybody?s location is known at all times.

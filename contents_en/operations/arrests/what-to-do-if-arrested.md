@@ -1,7 +1,7 @@
-Title:What to do if Arrested
-Difficulty:Beginner
-Order:2
----
+[Title]: # (What to do if Arrested)
+[Difficulty]: # (Beginner)
+[Order]: # (2)
+
 # What to do if Arrested
 
 Below are some useful pointers to remember if you are ever arrested. If travelling, your protocol for conduct during questioning should be agreed during the planning of the trip.

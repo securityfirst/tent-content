@@ -1,7 +1,7 @@
-Title:Capture
-Difficulty:Advanced
-Order:1
----
+[Title]: # (Capture)
+[Difficulty]: # (Advanced)
+[Order]: # (1)
+
 The first 15 - 45 minutes are the most dangerous moments in the event; the abductors will be under stress, they are probably armed and most likely to use weapons if resistance is shown. Your objective is to survive, hence:
 
 *   Be calm and cooperative, speak only when spoken to, listen carefully and attentively, avoid sudden moves. Do not behave aggressively or try to be a hero: accept the situation.

@@ -1,7 +1,7 @@
-Title:The Meeting Itself
-Difficulty:Beginner
-Order:4
----
+[Title]: # (The Meeting Itself)
+[Difficulty]: # (Beginner)
+[Order]: # (4)
+
 It is important to keep control of the flow of the meeting. After introductions you should begin by mentioning security to the person: agree on your alternate time and place for the meeting if a problem occurs; let them know what you can and cannot do to help them if there is a problem; agree on a discreet signal in case there is a problem.
 
 Avoid ordering meals and pay for what you do get straight away and in cash ? This avoids your identification and allows you to make a speedy exit if needed.

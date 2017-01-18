@@ -1,7 +1,7 @@
-Title:Driving Guidelines
-Difficulty:Beginner
-Order:0
----
+[Title]: # (Driving Guidelines)
+[Difficulty]: # (Beginner)
+[Order]: # (0)
+
 Vehicle-related accidents are the major cause of injuries and fatalities among aid personnel. Driving in unfamiliar and sometimes difficult conditions can increase the likelihood of an accident. Other dangers include ambush, robbery and aggressive behaviour of armed personnel at checkpoints. If available and practical, all staff members should receive driver safety training.
 
 The most important piece of security advice an aid worker or human rights defender can be given is ALWAYS WEAR A SEATBELT.

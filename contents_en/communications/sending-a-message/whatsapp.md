@@ -1,7 +1,7 @@
-Title:WhatsApp
-Difficulty:Beginner
-Order:3
----
+[Title]: # (WhatsApp)
+[Difficulty]: # (Beginner)
+[Order]: # (3)
+
 # WhatsApp
 
 WhatsApp is the most popular mobile communication tool in the world, offering free messaging to individuals and groups and operating on all phone types. Until November 2014, using WhatsApp was considered highly insecure and was not recommend for anyone who required any level of security in their communications. It now offers strong encryption for some messages on some phones. 

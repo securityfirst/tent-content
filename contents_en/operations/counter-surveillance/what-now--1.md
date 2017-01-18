@@ -1,7 +1,7 @@
-Title:What now?
-Difficulty:Expert
-Order:23
----
+[Title]: # (What now?)
+[Difficulty]: # (Expert)
+[Order]: # (23)
+
 Swipe right for this lesson's checklist
 
 Go to the Beginner Lesson for advice on how to identify and deal with surveillance of your office.

@@ -1,7 +1,7 @@
-Title:Tor for Mac OS X
-Difficulty:
-Order:19
----
+[Title]: # (Tor for Mac OS X)
+[Difficulty]: # ()
+[Order]: # (19)
+
 # TOR FOR MAC TOOL GUIDE
 
 ## Tor for Mac Tool Guide 

@@ -1,7 +1,7 @@
-Title:At the Protest
-Difficulty:Advanced
-Order:4
----
+[Title]: # (At the Protest)
+[Difficulty]: # (Advanced)
+[Order]: # (4)
+
 Once you are at the protest, keep in mind that law enforcement may be monitoring communications in the area. You may wish to encrypt your messages using Textsecure (Androids) or Signal (iPhones), or encrypt your phone calls using RedPhone (Androids) or, again, Signal (iPhones). All these apps are compatible. You can read more about them in the Sending a Message or Making a Call lessons.
 
 Please remember that even if your communications are encrypted, your metadata is not; this means your mobile phone will still give away your location and information such as whom you are talking to and for how long.

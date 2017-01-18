@@ -1,7 +1,7 @@
-Title:Threats of Physical Harm
-Difficulty:Expert
-Order:10
----
+[Title]: # (Threats of Physical Harm)
+[Difficulty]: # (Expert)
+[Order]: # (10)
+
 # Threats of Physical Harm
 
 Finally, understand that there is always one way that attackers can obtain your password: They can directly threaten you with physical harm or detention. If you fear this may be a possibility, such as if you are going to be travelling across hostile borders with sensitive information, consider ways in which you can hide the existence of the data or device you are password-protecting, rather than trust that you will never hand over the password. One possibility is to maintain at least one computer/email/keepass account that contains largely unimportant information, whose password you can reveal quickly.

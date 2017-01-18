@@ -1,7 +1,7 @@
-Title:Accidents
-Difficulty:Beginner
-Order:5
----
+[Title]: # (Accidents)
+[Difficulty]: # (Beginner)
+[Order]: # (5)
+
 Traffic accidents can be minimized by implementing defensive driver training and other precautions, but they can never be avoided entirely. When an accident is mishandled, it can quickly change from an unfortunate occurrence into a security risk. In extreme situations, it can trigger violence or threats of retribution.
 
 The following procedures are useful when involved in an accident.

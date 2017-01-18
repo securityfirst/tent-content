@@ -1,7 +1,7 @@
-Title:Secure deletion when discarding hardware
-Difficulty:Beginner
-Order:4
----
+[Title]: # (Secure deletion when discarding hardware)
+[Difficulty]: # (Beginner)
+[Order]: # (4)
+
 # Computers and hard-drives
 
 If you want to finally throw a piece of hardware away or sell it on eBay, you'll want to make sure no one can retrieve your data from it. And even if you're not getting rid of it right away, if you have a computer that has reached the end of its life and is no longer in use, it's also safer to wipe the hard drive before stashing the machine in a corner or a closet. This can be done easily with a tool such as as Darik's Boot and Nuke ? there are a variety of tutorials on how to use it across the web, (including here).

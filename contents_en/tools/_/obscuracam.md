@@ -1,7 +1,7 @@
-Title:ObscuraCam
-Difficulty:
-Order:8
----
+[Title]: # (ObscuraCam)
+[Difficulty]: # ()
+[Order]: # (8)
+
 # OBSCURACAM TOOL GUIDE
 
 ## ObscuraCam Tool Guide

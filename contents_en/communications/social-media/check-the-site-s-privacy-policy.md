@@ -1,7 +1,7 @@
-Title:Check the Site's Privacy Policy
-Difficulty:Beginner
-Order:2
----
+[Title]: # (Check the Site's Privacy Policy)
+[Difficulty]: # (Beginner)
+[Order]: # (2)
+
 # Check the Site's Privacy Policy
 
 Remember that information you post on most social media sites does not belong you ? it is subject to the sites own policies and they can use it or share it with others. We know that reading privacy policies is a near-impossible task, but you may want to take a look at sections on how your data is used, when it is shared with other parties, and how the service responds to law enforcement requests.

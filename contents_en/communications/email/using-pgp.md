@@ -1,7 +1,7 @@
-Title:Using PGP
-Difficulty:Advanced
-Order:2
----
+[Title]: # (Using PGP)
+[Difficulty]: # (Advanced)
+[Order]: # (2)
+
 Unfortunately, PGP has a reputation for being difficult to understand, or use. The good news is that there are many programs available now which can hide the ancient design of PGP and make it somewhat easier to use, especially when it comes to encrypting and authenticating email?the main use of PGP.
 
 For detailed instructions on how to install and use PGP encryption for your email, see:

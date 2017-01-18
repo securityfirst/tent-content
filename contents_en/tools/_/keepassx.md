@@ -1,7 +1,7 @@
-Title:KeePassX
-Difficulty:
-Order:7
----
+[Title]: # (KeePassX)
+[Difficulty]: # ()
+[Order]: # (7)
+
 # KEEPASSX TOOL GUIDE
 
 ## KeePassX Tool Guide  

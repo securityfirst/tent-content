@@ -1,7 +1,7 @@
-Title:Challenging password demands
-Difficulty:Expert
-Order:11
----
+[Title]: # (Challenging password demands)
+[Difficulty]: # (Expert)
+[Order]: # (11)
+
 # Challenging password demands
 
 In some jurisdictions, such as the United States or Belgium, you may be able to legally challenge a demand for your password. In other jurisdictions, such as the United Kingdom or India, local laws allow the government to demand information is given to them. More information on safety precautions to take while travelling can be read in the [Journeys](umbrella://lesson/journeys) lesson.

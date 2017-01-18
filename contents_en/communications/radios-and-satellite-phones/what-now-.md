@@ -1,7 +1,7 @@
-Title:What now?
-Difficulty:Advanced
-Order:4
----
+[Title]: # (What now?)
+[Difficulty]: # (Advanced)
+[Order]: # (4)
+
 wipe right for this lesson?s checklist
 
 Go the Beginner lesson for advice on using radios.[Go to Beginner Lesson](umbrella://lesson/radio/1)

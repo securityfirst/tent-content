@@ -1,7 +1,7 @@
-Title:What now?
-Difficulty:Expert
-Order:18
----
+[Title]: # (What now?)
+[Difficulty]: # (Expert)
+[Order]: # (18)
+
 Swipe right for this lesson's checklist
 
 Go to the Beginner lesson for advice on how to avoid kidnapping.

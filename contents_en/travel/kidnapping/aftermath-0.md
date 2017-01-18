@@ -1,7 +1,7 @@
-Title:Aftermath
-Difficulty:Expert
-Order:17
----
+[Title]: # (Aftermath)
+[Difficulty]: # (Expert)
+[Order]: # (17)
+
 *   Attend to the needs of the victim, including making arrangements for them to speak to their loved ones and for their physical reunion.
 *   Arrange for the authorities to meet and interview the victim.
 *   Manage the press; organise a short press conference with the victim and/ or their family, and retain control over press contacts.

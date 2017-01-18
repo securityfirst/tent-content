@@ -1,7 +1,7 @@
-Title:Tactics: How to find the eyeball
-Difficulty:Expert
-Order:20
----
+[Title]: # (Tactics: How to find the eyeball)
+[Difficulty]: # (Expert)
+[Order]: # (20)
+
 # Tactics: How to find the eyeball
 
 When looking for repeat sightings in a vehicle, use the following tactics if safe to do so:

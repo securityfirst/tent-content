@@ -1,7 +1,7 @@
-Title:How To Circumvent Online Censorship
-Difficulty:Beginner
-Order:4
----
+[Title]: # (How To Circumvent Online Censorship)
+[Difficulty]: # (Beginner)
+[Order]: # (4)
+
 # How To Circumvent Online Censorship
 
 Many governments, companies, schools, and public access points use software to prevent Internet users from accessing certain websites and Internet services. This is called Internet filtering or blocking and is a form of censorship. Content filtering comes in different forms. Sometimes entire websites are blocked and sometimes content is blocked based on keywords contained in it. One country might block Facebook entirely, or only block particular Facebook group pages?or it might block any page or web search with certain words in it.

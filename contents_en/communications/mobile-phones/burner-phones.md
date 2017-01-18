@@ -1,7 +1,7 @@
-Title:Burner phones
-Difficulty:Beginner
-Order:7
----
+[Title]: # (Burner phones)
+[Difficulty]: # (Beginner)
+[Order]: # (7)
+
 # Burner phones
 
 Phones that are used temporarily and then discarded are often referred to as burner phones. People who are trying to avoid surveillance sometimes try to change phones and numbers frequently to make it more difficult to recognise their communications. They will need to use prepaid phones (not associated with a personal credit card or bank account) and ensure that the phones and SIM cards were not registered with their identity; in some countries these steps are straightforward, while in others there may be legal or practical obstacles to obtaining anonymous mobile phone service.

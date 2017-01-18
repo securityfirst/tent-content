@@ -1,7 +1,7 @@
-Title:Signal
-Difficulty:
-Order:17
----
+[Title]: # (Signal)
+[Difficulty]: # ()
+[Order]: # (17)
+
 # SIGNAL TOOL GUIDE
 
 ## Signal Tool Guide   

@@ -1,7 +1,7 @@
-Title:Termination/Release
-Difficulty:Advanced
-Order:4
----
+[Title]: # (Termination/Release)
+[Difficulty]: # (Advanced)
+[Order]: # (4)
+
 This will come through release, rescue or escape (as a last resort only).
 
 *   If released; obey all instructions from your abductors.

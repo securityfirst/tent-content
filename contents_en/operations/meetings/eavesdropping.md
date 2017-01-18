@@ -1,7 +1,7 @@
-Title:Eavesdropping
-Difficulty:Beginner
-Order:5
----
+[Title]: # (Eavesdropping)
+[Difficulty]: # (Beginner)
+[Order]: # (5)
+
 Unfortunately bugging equipment is very cheap, widespread and effective. It is very, very hard to find eavesdropping equipment that has been planted against you ? many look like ordinary electronic items. In some countries, many high profile hotels are targets for regular bugging due to the frequent presence of business people, diplomats, NGOs etc.
 
 The best tactic in avoiding such devices is to be unpredictable and change locations frequently if you are on high-risk travel and need to avoid surveillance. Be very wary of conducting sensitive activities in fixed locations (such as the office of a partner or a hotel room) for too long or repetitively. Limiting the provision of information in advance (for example, of which rooms will be used for conferences in specific hotels) is also useful as it reduces the time a hostile organisation has to plant a device. Outside in the open air can also be a good place to discuss sensitive matters. Make sure you are not overlooked.

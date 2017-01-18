@@ -1,7 +1,7 @@
-Title:Think about what you share
-Difficulty:Beginner
-Order:4
----
+[Title]: # (Think about what you share)
+[Difficulty]: # (Beginner)
+[Order]: # (4)
+
 # Think about what you share
 
 Always ask the questions:
