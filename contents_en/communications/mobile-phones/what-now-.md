@@ -2,4 +2,23 @@ Title:What now?
 Difficulty:Beginner
 Order:8
 ---
-<p>Swipe right for this lesson's checklist</p><p>Go to the Expert lesson for advice on how to root and encrypt your phone.</p><a href="umbrella://lesson/mobile-phones/2" class="button purple">Go to Expert Lesson</a><h3>RELATED LESSONS/TOOLS</h3><p><ul><li><a href="umbrella://lesson/making-a-call">Making a Call Lesson</a></li><li><a href="umbrella://lesson/sending-a-message">Sending a Message Lesson</a></li><li><a href="umbrella://lesson/backing-up">Backing Up Lesson</a></li><li><a href="umbrella://lesson/safely-deleting">Safe Deleting Lesson</a></li><li><a href="umbrella://lesson/malware">Malware Lesson</a></li><li><a href="umbrella://lesson/obscuracam">ObscuraCamTool</a></li><li><a href="umbrella://lesson/android">Basic Security Setup for Android</a></li></ul></p><h3>FURTHER READING</h3><p><ul><li><a href="https://securityinabox.org/en/guide/mobile-phones">Security in a Box ? Chapter 10, Use mobile phones as securely as possible</a></li><li><a href="https://securityinabox.org/en/guide/smartphones">Security in a Box ? Chapter 11, Use smart phones as securely as possible</a></li><li><a href="https://ssd.eff.org/en/module/problem-mobile-phones">EFF - The problem with mobile phones</a></li></ul></p>
+Swipe right for this lesson's checklist
+
+Go to the Expert lesson for advice on how to root and encrypt your phone.
+[Go to Expert Lesson](umbrella://lesson/mobile-phones/2)
+
+### RELATED LESSONS/TOOLS
+
+*   [Making a Call Lesson](umbrella://lesson/making-a-call)
+*   [Sending a Message Lesson](umbrella://lesson/sending-a-message)
+*   [Backing Up Lesson](umbrella://lesson/backing-up)
+*   [Safe Deleting Lesson](umbrella://lesson/safely-deleting)
+*   [Malware Lesson](umbrella://lesson/malware)
+*   [ObscuraCamTool](umbrella://lesson/obscuracam)
+*   [Basic Security Setup for Android](umbrella://lesson/android)
+
+### FURTHER READING
+
+*   [Security in a Box ? Chapter 10, Use mobile phones as securely as possible](https://securityinabox.org/en/guide/mobile-phones)
+*   [Security in a Box ? Chapter 11, Use smart phones as securely as possible](https://securityinabox.org/en/guide/smartphones)
+*   [EFF - The problem with mobile phones](https://ssd.eff.org/en/module/problem-mobile-phones)

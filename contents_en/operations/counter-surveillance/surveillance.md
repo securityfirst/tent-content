@@ -2,4 +2,25 @@ Title:Surveillance
 Difficulty:Beginner
 Order:11
 ---
-<h1>Surveillance</h1><p>Surveillance is the monitoring of people?s behaviour, activities, or other patterns for the purpose of harming, influencing, managing, directing, or protecting them.</p><img src="surveillance1.png"><p><b>Why might people be interested in keeping you under physical surveillance?</b><ul><li>Break-in/ theft of sensitive materials</li><li>Arrest</li><li>Monitor who is coming and going from the office</li><li>Intimidation</li><li>Physical attack on staff</li></ul></p><p><b>Who might be interested in keeping you under surveillance?</b><ul><li>Authorities of the country in which the regional office is located (police, intelligence, military)</li><li>External security agencies of other countries in the region</li><li>Criminals</li><li>Terrorists</li><li>Private contractors</li><li>Embassy officials of ?friendly? countries</li><li>Individuals (may be disgruntled with the organisation)</li></ul></p>
+# Surveillance
+
+Surveillance is the monitoring of people?s behaviour, activities, or other patterns for the purpose of harming, influencing, managing, directing, or protecting them.
+![image](surveillance1.png)
+
+**Why might people be interested in keeping you under physical surveillance?**
+
+*   Break-in/ theft of sensitive materials
+*   Arrest
+*   Monitor who is coming and going from the office
+*   Intimidation
+*   Physical attack on staff
+
+**Who might be interested in keeping you under surveillance?**
+
+*   Authorities of the country in which the regional office is located (police, intelligence, military)
+*   External security agencies of other countries in the region
+*   Criminals
+*   Terrorists
+*   Private contractors
+*   Embassy officials of ?friendly? countries
+*   Individuals (may be disgruntled with the organisation)

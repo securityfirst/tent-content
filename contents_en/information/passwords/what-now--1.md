@@ -2,4 +2,19 @@ Title:What now?
 Difficulty:Expert
 Order:12
 ---
-<p>Swipe right for this lesson's checklist</p><p>Go to the Beginner lesson for advice on how to create a strong password.</p><a href="umbrella://lesson/passwords/0" class="button green">Go to Beginner Lesson</a><p>Go to the Advanced lesson for advice on how to manage your passwords.</p><a href="umbrella://lesson/passwords/1" class="button yellow">Go to Advanced Lesson</a><h3>RELATED LESSONS/TOOLS</h3><p><ul><li><a href="umbrella://lesson/protecting-files">Protecting Files lesson</a></li><li><a href="umbrella://lesson/journeys">Journeys lesson</a></li></ul> </p><h3>FURTHER READING</h3><p><ul><li><a href="https://www.eff.org/wp/defending-privacy-us-border-guide-travelers-carrying-digital-devices">EFF - Defending Privacy at the U.S. Border guide</a></li></ul></p>
+Swipe right for this lesson's checklist
+
+Go to the Beginner lesson for advice on how to create a strong password.
+[Go to Beginner Lesson](umbrella://lesson/passwords/0)
+
+Go to the Advanced lesson for advice on how to manage your passwords.
+[Go to Advanced Lesson](umbrella://lesson/passwords/1)
+
+### RELATED LESSONS/TOOLS
+
+*   [Protecting Files lesson](umbrella://lesson/protecting-files)
+*   [Journeys lesson](umbrella://lesson/journeys) 
+
+### FURTHER READING
+
+*   [EFF - Defending Privacy at the U.S. Border guide](https://www.eff.org/wp/defending-privacy-us-border-guide-travelers-carrying-digital-devices)

@@ -2,4 +2,56 @@ Title:Effects
 Difficulty:Beginner
 Order:7
 ---
-<h1>Effects</h1><p>There is a wide range of possible symptoms of negative stress, and people differ in terms of the symptoms they exhibit.<p></p><ul><li>Physical symptoms may include:<ul><li>Exhaustion</li><li>Hyperactivity</li><li>Sleeping difficulties or excessive sleep</li><li>Slight flu-like symptoms</li><li>Headaches</li><li>Heightened blood pressure and heart rate</li><li>Nausea or vomiting</li></ul></li><li>Behavioural symptoms may include:<ul><li>Avoiding genuine social contact and relationships</li><li>Substance abuse (caffeine/ alcohol/ drugs)</li><li>A series of short and casual romantic/sexual relationships</li><li>Risk-taking</li><li>Withdrawal</li><li>Irritability or a constant tendency to pick quarrels</li><li>Aggression</li></ul></li><li>Work-related symptoms may include: <ul><li>Working very long hours</li><li>Lateness/ not coming in to work</li><li>Lack of concentration</li><li>Poor work performance</li><li>Loss of perspective</li><li>Pre-occupation with an idea, even if it is old or ineffective</li><li>Deterioration in judgment and logical thinking</li><li>Reduced creativity</li><li>Deteriorating communication</li></ul></li><li>Emotional effects may include:<ul><li>Low morale</li><li>Pessimism and cynicism</li><li>Anxiety</li><li>Guilt</li><li>Depression</li><li>Excitement/hyper-activity</li><li>A feeling of power and invulnerability</li><li>Intense identification with, OR lack of compassion for those you work with</li><li>Nightmares or flashbacks</li><li>Tendency to avoid/repress intense thoughts or feelings</li><li>Questioning of major life areas</li></ul></li></ul></p><p>Engaging in some of these types of behaviours are security risks in and of themselves, so it is very important to both the individual affected and your organisation that it is dealt with properly.</p>
+# Effects
+
+There is a wide range of possible symptoms of negative stress, and people differ in terms of the symptoms they exhibit.
+
+
+*   Exhaustion
+*   Hyperactivity
+*   Sleeping difficulties or excessive sleep
+*   Slight flu-like symptoms
+*   Headaches
+*   Heightened blood pressure and heart rate
+*   Nausea or vomiting
+
+Behavioural symptoms may include:
+
+*   Avoiding genuine social contact and relationships
+*   Substance abuse (caffeine/ alcohol/ drugs)
+*   A series of short and casual romantic/sexual relationships
+*   Risk-taking
+*   Withdrawal
+*   Irritability or a constant tendency to pick quarrels
+*   Aggression
+
+Work-related symptoms may include: 
+
+*   Working very long hours
+*   Lateness/ not coming in to work
+*   Lack of concentration
+*   Poor work performance
+*   Loss of perspective
+*   Pre-occupation with an idea, even if it is old or ineffective
+*   Deterioration in judgment and logical thinking
+*   Reduced creativity
+*   Deteriorating communication
+
+Emotional effects may include:
+
+*   Low morale
+*   Pessimism and cynicism
+*   Anxiety
+*   Guilt
+*   Depression
+*   Excitement/hyper-activity
+*   A feeling of power and invulnerability
+*   Intense identification with, OR lack of compassion for those you work with
+*   Nightmares or flashbacks
+*   Tendency to avoid/repress intense thoughts or feelings
+*   Questioning of major life areas
+
+
+
+
+Engaging in some of these types of behaviours are security risks in and of themselves, so it is very important to both the individual affected and your organisation that it is dealt with properly.

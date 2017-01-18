@@ -2,4 +2,21 @@ Title:What now?
 Difficulty:Advanced
 Order:4
 ---
-<p>Swipe right for this lesson's checklist</p><p>Go to the Beginner lesson for advice on how to create a strong password.</p><a href="umbrella://lesson/passwords/0" class="button green">Go to Beginner Lesson</a><p>Go to the Expert lesson for advice on what to do if you think you might be forced to hand over your password.</p><a href="umbrella://lesson/passwords/2" class="button purple">Go to Expert Lesson</a><h3>RELATED LESSONS/TOOLS</h3><p><ul><li><a href="umbrella://lesson/backing-up">Backing Up lesson</a></li><li><a href="umbrella://lesson/malware">Malware lesson</a></li><li><a href="umbrella://tool/KeePass">KeePass tool guide</a></li></ul></p><h3>FURTHER READING</h3><p><ul><li><a href="https://ssd.eff.org/en/module/creating-strong-passwords">EFF - Creating strong passwords</a></li><li><a href="https://securityinabox.org/chapter-3">Security in a Box - Chapter 3, Passwords</a></li></ul></p>
+Swipe right for this lesson's checklist
+
+Go to the Beginner lesson for advice on how to create a strong password.
+[Go to Beginner Lesson](umbrella://lesson/passwords/0)
+
+Go to the Expert lesson for advice on what to do if you think you might be forced to hand over your password.
+[Go to Expert Lesson](umbrella://lesson/passwords/2)
+
+### RELATED LESSONS/TOOLS
+
+*   [Backing Up lesson](umbrella://lesson/backing-up)
+*   [Malware lesson](umbrella://lesson/malware)
+*   [KeePass tool guide](umbrella://tool/KeePass)
+
+### FURTHER READING
+
+*   [EFF - Creating strong passwords](https://ssd.eff.org/en/module/creating-strong-passwords)
+*   [Security in a Box - Chapter 3, Passwords](https://securityinabox.org/chapter-3)

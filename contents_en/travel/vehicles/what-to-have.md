@@ -2,4 +2,36 @@ Title:What to Have
 Difficulty:Beginner
 Order:4
 ---
-<p>The following items (location dependant) should be kept in the vehicle at all times.</p><p>Equipment:<ul><li>Communication equipment and key telephone numbers</li><li>Additional fuel & oil</li><li>Water</li><li>Maps</li><li>GPS</li><li>Spare parts for car</li><li>Spare wheel (x2) and jack</li><li>Basic tools</li><li>Fluorescent warning triangle</li><li>Tow rope</li><li>First aid kit</li><li>Torch</li></ul></p><p>Documents:<ul><li>Permission to travel, if required</li><li>Visas</li><li>Car documents</li><li>Driver?s licence & insurance</li><li> Personal ID</li><li>Organisational ID if possible</li><li>Medical vaccination certificates</li></ul></p><p>General items:<ul><li>Food</li><li>Water</li><li>Cold/ hot weather clothing</li><li>Blankets/ shade structure</li></ul></p>
+The following items (location dependant) should be kept in the vehicle at all times.
+
+Equipment:
+
+*   Communication equipment and key telephone numbers
+*   Additional fuel & oil
+*   Water
+*   Maps
+*   GPS
+*   Spare parts for car
+*   Spare wheel (x2) and jack
+*   Basic tools
+*   Fluorescent warning triangle
+*   Tow rope
+*   First aid kit
+*   Torch
+
+Documents:
+
+*   Permission to travel, if required
+*   Visas
+*   Car documents
+*   Driver?s licence & insurance
+*    Personal ID
+*   Organisational ID if possible
+*   Medical vaccination certificates
+
+General items:
+
+*   Food
+*   Water
+*   Cold/ hot weather clothing
+*   Blankets/ shade structure

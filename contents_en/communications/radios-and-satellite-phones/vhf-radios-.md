@@ -2,4 +2,17 @@ Title:VHF radios
 Difficulty:Beginner
 Order:6
 ---
-<h1>VHF radios</h1><p>Very High Frequency (VHF) radios operate in the 30 to 300 MHz range. Usually handheld, they can communicate over short ranges, approximately 10 kilometers, in most cases. They are often referred to as ?line of sight,? though in many circumstances they can effectively reach beyond that. Thick trees and buildings can obstruct VHF signals. Elevating the VHF antenna may improve the radio?s transmission range. Also, installing a repeater, which automatically receives and re-transmits radio signals, can further extend the range. Repeater systems are reliable and require little maintenance. Before using a VHF radio or repeater, it may be necessary to obtain authorisation from the host government.</p><p>The advantages of VHF radios are:<ul><li>Fairly inexpensive; </li><li>User-friendly; </li><li>Sturdily built: can be dropped, withstands rain, etc.; </li><li>Well-positioned repeaters can increase area coverage; and </li><li>24-hour contact if users are monitoring the VHF.</li></ul></p><p>Disadvantages are:<ul><li>Not secure ? anybody can listen in;</li><li>Limited battery life (need for spare batteries/ongoing recharge); </li><li>Badly placed repeaters greatly limit the utility of the network; </li><li>Hand-held units are frequently lost or stolen; </li><li>Repeaters are very vulnerable to intentional damage; and </li><li>Highly dependent on the topography of the area (handset-to-handset, 2?5km; handset to base, mobile or repeater, 7?15km. Obstacles in between, such as high buildings or hills, will interfere with the signal; positioning on a high point can increase range).</li></ul></p><p>The most commonly used brand is Motorola. </p>
+# VHF radios
+
+Very High Frequency (VHF) radios operate in the 30 to 300 MHz range. Usually handheld, they can communicate over short ranges, approximately 10 kilometers, in most cases. They are often referred to as ?line of sight,? though in many circumstances they can effectively reach beyond that. Thick trees and buildings can obstruct VHF signals. Elevating the VHF antenna may improve the radio?s transmission range. Also, installing a repeater, which automatically receives and re-transmits radio signals, can further extend the range. Repeater systems are reliable and require little maintenance. Before using a VHF radio or repeater, it may be necessary to obtain authorisation from the host government.
+
+The advantages of VHF radios are:
+
+*   Fairly inexpensive;*   User-friendly;*   Sturdily built: can be dropped, withstands rain, etc.;*   Well-positioned repeaters can increase area coverage; and*   24-hour contact if users are monitoring the VHF.
+
+Disadvantages are:
+
+*   Not secure ? anybody can listen in;
+*   Limited battery life (need for spare batteries/ongoing recharge);*   Badly placed repeaters greatly limit the utility of the network;*   Hand-held units are frequently lost or stolen;*   Repeaters are very vulnerable to intentional damage; and*   Highly dependent on the topography of the area (handset-to-handset, 2?5km; handset to base, mobile or repeater, 7?15km. Obstacles in between, such as high buildings or hills, will interfere with the signal; positioning on a high point can increase range).
+
+The most commonly used brand is Motorola. 

@@ -2,4 +2,20 @@ Title:What now?
 Difficulty:Beginner
 Order:15
 ---
-<p>Swipe right for this lesson's checklist</p><p>Go to the Advanced Lesson for advice on how to practice counter-surveillance when you are out on foot.</p><a href="umbrella://lesson/counter-surveillance/1" class="button yellow">Go to Advanced Lesson</a><p>Go to the Expert Lesson for advice on how to practice counter-surveillance when you are out in a vehicle.</p><a href="umbrella://lesson/counter-surveillance/2" class="button purple">Go to Expert Lesson</a><h3>RELATED LESSONS/TOOLS</h3><p><ul><li><a href="umbrella://lesson/malware">Malware lesson</a></li><li><a href="umbrella://lesson/passwords">Passwords lesson</a></li><li><a href="umbrella://lesson/protecting-files">Protecting Files lesson</a></li><li><a href="umbrella://lesson/making-a-call">Making a Call lesson</a></li><li><a href="umbrella://lesson/sending-a-message">Sending a Message lesson</a></li><li><a href="umbrella://lesson/email">Email lesson</a></li><li><a href="umbrella://lesson/radio">Radio lesson</a></li></ul></p>
+Swipe right for this lesson's checklist
+
+Go to the Advanced Lesson for advice on how to practice counter-surveillance when you are out on foot.
+[Go to Advanced Lesson](umbrella://lesson/counter-surveillance/1)
+
+Go to the Expert Lesson for advice on how to practice counter-surveillance when you are out in a vehicle.
+[Go to Expert Lesson](umbrella://lesson/counter-surveillance/2)
+
+### RELATED LESSONS/TOOLS
+
+*   [Malware lesson](umbrella://lesson/malware)
+*   [Passwords lesson](umbrella://lesson/passwords)
+*   [Protecting Files lesson](umbrella://lesson/protecting-files)
+*   [Making a Call lesson](umbrella://lesson/making-a-call)
+*   [Sending a Message lesson](umbrella://lesson/sending-a-message)
+*   [Email lesson](umbrella://lesson/email)
+*   [Radio lesson](umbrella://lesson/radio)
