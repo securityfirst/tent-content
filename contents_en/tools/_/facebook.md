@@ -23,7 +23,7 @@ Click on the lock in the top menu bar, and under "Who can see my stuff?" click "
 
 ### How do I hide my general information?
 
-Go to your profile page and click "Update Info." You can control who is able to see what personal information you've listed?and if they're able to see it, they're able to search it.
+Go to your profile page and click "Update Info." You can control who is able to see what personal information you've listed and if they're able to see it, they're able to search it.
 ![image](tool_facebook2.png)
 
 ### Who can see my posts, both past and future?
@@ -152,4 +152,4 @@ Unlike the other data brokers Facebook is working with on this new project, Blue
 **The best way to opt out of this is to use a browser add-on to block third-party tracking.**  
 Rather than try to block only BlueKai, we recommend you block all third-party trackers. You can use a tool such as [Ghostery](http://www.ghostery.com/) (now available on Firefox, Safari, Chrome, Opera and Internet Explorer) as noted earlier.
 
-**CONGRATULATIONS** -- you've managed to get out of Facebook's new data broker-driven targeted marketing, and helped protect yourself from several important data brokers.  
+**CONGRATULATIONS** -- you've managed to get out of Facebook's new data broker-driven targeted marketing, and helped protect yourself from several important data brokers.
