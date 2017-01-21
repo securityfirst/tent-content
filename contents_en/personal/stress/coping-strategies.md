@@ -18,11 +18,11 @@ Everyone has natural ways of coping. Encourage people to use their own positive 
 
 **Discourage Negative Coping Strategies:**
 
-*   Don?t take drugs, smoke or drink alcohol.
-*   Don?t sleep all day.
-*   Don?t work all the time without any rest or relaxation.
-*   Don?t isolate yourself from friends and loved ones.
-*   Don?t neglect basic personal hygiene.
-*   Don?t be violent.
+*   Don't take drugs, smoke or drink alcohol.
+*   Don't sleep all day.
+*   Don't work all the time without any rest or relaxation.
+*   Don't isolate yourself from friends and loved ones.
+*   Don't neglect basic personal hygiene.
+*   Don't be violent.
 
 It is crucial in the weeks and months after a traumatic event to keep an eye out for changes in personal attitude (depression, frustration, etc.), as these may be signs of longer-term Post Traumatic Stress Disorder (PTSD). This is dealt with in the Expert lesson.
