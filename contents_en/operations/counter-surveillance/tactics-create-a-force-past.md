@@ -12,5 +12,5 @@ A force-past is when you create a situation in which someone following you would
 *   Using a lift to go up (until all passengers have left), then go down and exiting via an underground car park
 *   Rapidly turning a corner then suddenly entering into a shop
 *   Go into a shop/pub/building through one entrance and then rapidly exit via another
-*   Corner hanging ? turn a corner then rapidly stop
+*   Corner hanging - turn a corner then rapidly stop
 *   Change your clothing to make it harder to identify you

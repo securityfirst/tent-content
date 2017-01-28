@@ -5,9 +5,9 @@
 Drivers should:
 
 *   Be given a clear briefing about safe driving procedures before departure
-*   Consider the length of journey ? do you need more than one driver?
+*   Consider the length of journey - do you need more than one driver?
 *   Factor in prayer or sustenance stops if necessary
-*   Consider the driver?s ethnicity if going into dangerous areas
+*   Consider the driver's ethnicity if going into dangerous areas
 
 Considerations in choosing type of vehicle should include:
 

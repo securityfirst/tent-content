@@ -6,7 +6,7 @@
 
 ## JitsiMeet
 
-When using voice communication to exchange sensitive information it is important to choose a tool that encrypts the call all the way from your computer to the recipient's computer. We would recommend that you use the free and open-source tool, JitsiMeet as your choice for VoIP. It provides a free, easy to use, open source, more secure alternative to Skype and can be used for video and voice and for group video chat. There is no requirement for you or the person you?re communicating with to sign-up. You just visit [https://meet.jit.si](https://meet.jit.si) enter a meeting name, (make sure it has no spaces and is difficult to guess), and share the link with whoever you want to speak with. Simple as that.
+When using voice communication to exchange sensitive information it is important to choose a tool that encrypts the call all the way from your computer to the recipient's computer. We would recommend that you use the free and open-source tool, JitsiMeet as your choice for VoIP. It provides a free, easy to use, open source, more secure alternative to Skype and can be used for video and voice and for group video chat. There is no requirement for you or the person you're communicating with to sign-up. You just visit [https://meet.jit.si](https://meet.jit.si) enter a meeting name, (make sure it has no spaces and is difficult to guess), and share the link with whoever you want to speak with. Simple as that.
 
 ## Skype
 
@@ -19,4 +19,4 @@ While we can't recommend Skype as a secure communication tool, it is very import
 *   Set the privacy settings on Skype so that it does not keep a history of chats.
 *   Disable the Skype setting which automatically accepts incoming files, as this has occasionally been used to introduce malware/spyware onto computers.
 *   Always independently verify the identity of the person with whom you are communicating. It is easier to do this when voice chatting, especially if you know the person you want to talk to.
-*   Decide if your Skype username should identify your or have any relationship to your real name, or the name of you organisation.? Be careful of what you say - develop a code system to discuss sensitive topics without using specific terminology.
+*   Decide if your Skype username should identify your or have any relationship to your real name, or the name of you organisation.- Be careful of what you say - develop a code system to discuss sensitive topics without using specific terminology.

@@ -8,7 +8,7 @@ You should know the accepted etiquette for passing through a checkpoint in your 
 *   Keep engine running unless told otherwise
 *   Remain in the vehicle unless asked to get out
 *   If asked to get out release seatbelt slowly so it does not look like you are reaching for a gun
-*   Avoid any sudden movements in the car ? if moving announce what you are doing before you do it, and move slowly
+*   Avoid any sudden movements in the car - if moving announce what you are doing before you do it, and move slowly
 *   Do not laugh or giggle
 *   Keep hands visible
 *   If vehicle is searched, comply

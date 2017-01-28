@@ -2,8 +2,8 @@
 [Difficulty]: # (Beginner)
 [Order]: # (2)
 
-*   If using a paper notebook, try to minimise any potential data loss by making up short codes that only you understand. For example, if you are meeting a high-risk activist, give them a different name and refer to them as that in your notes. Don?t mix sensitive information with easily identifiable information.
-*   Don?t forget about receipts, tickets, bills etc. They can link sensitive activists to your work if not carefully protected.
+*   If using a paper notebook, try to minimise any potential data loss by making up short codes that only you understand. For example, if you are meeting a high-risk activist, give them a different name and refer to them as that in your notes. Don't mix sensitive information with easily identifiable information.
+*   Don't forget about receipts, tickets, bills etc. They can link sensitive activists to your work if not carefully protected.
 *   Keep sensitive information in another place (e.g. interview notes in a notebook but sensitive names and locations securely emailed to yourself.)
 *   Type up or take photos of your most sensitive written notes as soon as possible and securely email them to yourself and/or keep them on an encrypted drive. (See the Protecting Files lesson for advice on how to encrypt files.)
 *   Avoid taking paper reports or other information from the organisations and people that you work with - if your bags are searched they will link you. Instead, ask them to give or email you digital copies if possible.

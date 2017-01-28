@@ -12,5 +12,5 @@
 *   Cheap notebook from which you can rip out pages unnoticed
 *   Mosquito net/ repellent etc.
 
-Ensure any digital equipment you take with you ? phone, computer ? is wiped ?clean?. For more advice on how to do this see the Protecting Files lesson.
+Ensure any digital equipment you take with you - phone, computer - is wiped 'clean'. For more advice on how to do this see the [Protecting Files lesson](umbrella://lesson/protecting-files/1).
 

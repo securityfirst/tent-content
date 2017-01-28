@@ -8,9 +8,9 @@
 
 Signal is a free, simple open-source tool for having end-to-end encrypted phone calls and also for sending secure messages.  It works for both Androids and iPhones and replaces the previous android app called Redphone. (Users with RedPhone installed will be prompted to install Signal instead. If you already have Signal installed, you can just uninstall RedPhone. It will no longer be maintained as an independent app.)
 
-Signal now also incorporates secure messaging app, Textsecure ? meaning there is one simple app you can use for both secure calling and messaging, whether on Android or iPhone, as long as the person you are communicating with has Signal too.
+Signal now also incorporates secure messaging app, Textsecure - meaning there is one simple app you can use for both secure calling and messaging, whether on Android or iPhone, as long as the person you are communicating with has Signal too.
 
-Signal uses your existing phone number and address book. There are no separate logins, usernames, passwords, or PINs to manage or lose. It uses your mobile number as your identificator (like a user name) ? this makes it easier for the user, though it also makes it easier to analyze the traffic it produces and trace it back to you. Signal uses a central server, which is a point of centralization and thus puts it in the powerful position of having control over some of this data. However they cannot hear your conversations or see your messages, so no one else can either.
+Signal uses your existing phone number and address book. There are no separate logins, usernames, passwords, or PINs to manage or lose. It uses your mobile number as your identificator (like a user name) - this makes it easier for the user, though it also makes it easier to analyze the traffic it produces and trace it back to you. Signal uses a central server, which is a point of centralization and thus puts it in the powerful position of having control over some of this data. However they cannot hear your conversations or see your messages, so no one else can either.
 
 ## Ostel
 
