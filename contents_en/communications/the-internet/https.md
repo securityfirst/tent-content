@@ -9,4 +9,4 @@ HTTPS is the secure version of the HTTP protocol used to access websites. Someti
 
 If you suspect this type of simple blocking, try entering https:// before the domain in place of http://.
 
-Try EFF?s [HTTPS Everywhere](https://www.eff.org/https-everywhere) plug-in to automatically turn on HTTPS for those sites that support it.
+Try EFF's [HTTPS Everywhere](https://www.eff.org/https-everywhere) plug-in to automatically turn on HTTPS for those sites that support it.

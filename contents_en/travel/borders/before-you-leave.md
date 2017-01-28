@@ -24,7 +24,7 @@ This information may be stored in/on notebooks, publications, laptops, phones, U
 Remember:
 
 *   Only minimal data should be brought with you
-*   Bring a ?clean? laptop and phone if possible
+*   Bring a "clean" laptop and phone if possible
 *   Carry sensitive information and electronic equipment in hand luggage, as at least you know If it has been tampered with
 *   Small, encrypted USB sticks or Micro SD cards can be useful for security and being able to hide sensitive data if necessary. See the Protecting Files lesson for advice on how to encrypt files.
 *   Bring a cheap notebook in which you can rip out the pages unnoticed

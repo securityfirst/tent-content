@@ -9,7 +9,7 @@ Stress is a natural reaction, and it can be positive and stimulating. Not all st
 
 There are 3 different types of unhealthy stress: chronic, traumatic, and also post-traumatic.  
 
-1. Chronic stress is a combination of stress factors that builds up over time, eroding our resilience and ability to work or function effectively. This type of stress is dealt with below in the beginner?s lesson.  
+1. Chronic stress is a combination of stress factors that builds up over time, eroding our resilience and ability to work or function effectively. This type of stress is dealt with below in the beginner's lesson.  
 
 Traumatic stress results from directly experiencing, or being otherwise closely exposed to, traumatic events or incidents that are life- threatening or involve physical and emotional loss. It is dealt with in the Advanced lesson   
 

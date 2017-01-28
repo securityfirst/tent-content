@@ -4,7 +4,7 @@
 
 # General Precautions
 
-As is the case with other devices, the first line of defence for the safety of the information on your mobile phone is to physically protect the phone and its SIM card from being taken or tampered with.
+As is the case with other devices, the first line of defence for the safety of the information on your mobile phone is to physically protect the phone and its SIM card from being taken or tampered with.
 
 *   Keep your phone with you at all times and avoid leaving it out in public.
 *   Always use your phone's security lock codes or Personal Identification Numbers (PINs) and keep them secret. Always change these from the default factory settings.

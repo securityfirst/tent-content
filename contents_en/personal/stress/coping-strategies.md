@@ -4,7 +4,7 @@
 
 #  Coping strategies
 
-Everyone has natural ways of coping. Encourage people to use their own positive coping strategies, while avoiding negative strategies. This will help them feel stronger and regain a sense of control. You will need to adapt the following suggestions to take account of the person?s culture and what is possible in the particular crisis situation.
+Everyone has natural ways of coping. Encourage people to use their own positive coping strategies, while avoiding negative strategies. This will help them feel stronger and regain a sense of control. You will need to adapt the following suggestions to take account of the person's culture and what is possible in the particular crisis situation.
 
 **Encourage Positive Coping Strategies:**
 

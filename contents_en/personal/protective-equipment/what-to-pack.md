@@ -4,7 +4,7 @@
 
 A grab bag might include:
 
-*   Passport/ID ? with multi-entry visas
+*   Passport/ID - with multi-entry visas
 *   Copies of other key personal and travel documents  (e.g. driving licence)
 *   List of emergency contacts and addresses
 *   First aid kit including prescription medicines and medical prescriptions
@@ -24,7 +24,7 @@ A grab bag might include:
 *   Pen and paper
 *   Prescription glasses (if needed) and sun glasses
 *   Matches
-*   Condoms ? can be useful for keeping things dry
+*   Condoms - can be useful for keeping things dry
 *   Phrase book (for foreign language speakers)
 *   A head covering
 *   Hand-held mirror

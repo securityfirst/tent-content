@@ -6,11 +6,11 @@
 
 While using HTTPS protects your communications from other people on your network, there are some things that it does not do. When you send email using HTTPS, your email provider still gets an unencrypted copy of your communication. Governments and law enforcement may be able to access this data with a warrant.
 
-Yahoo and Hotmail, for instance, provide a secure connection only while you log in, to protect your password, but your messages themselves are sent and received insecurely. They also insert the IP address of the computer you are using into all of the messages you send. We do not recommend that you use them for secure communications. 
+Yahoo and Hotmail, for instance, provide a secure connection only while you log in, to protect your password, but your messages themselves are sent and received insecurely. They also insert the IP address of the computer you are using into all of the messages you send. We do not recommend that you use them for secure communications. 
 
 ## Gmail
 
-Gmail accounts, on the other hand, use a secure connection during log-in and all the way until you log out and, unlike Yahoo or Hotmail, Gmail avoids revealing your IP address to email recipients. One way to make Gmail (or Yahoo) even more secure is to turn on 2-step-verification. This is one of the safest and simplest computer-security measures. To break into an account with 2-Step Verification, intruders would not only have to know your username and password, they'd also have to get a hold of your phone, or codes you hold with you. Setting it up is simple: [see here](https://support.google.com/accounts/answer/185839?hl=en).
+Gmail accounts, on the other hand, use a secure connection during log-in and all the way until you log out and, unlike Yahoo or Hotmail, Gmail avoids revealing your IP address to email recipients. One way to make Gmail (or Yahoo) even more secure is to turn on 2-step-verification. This is one of the safest and simplest computer-security measures. To break into an account with 2-Step Verification, intruders would not only have to know your username and password, they'd also have to get a hold of your phone, or codes you hold with you. Setting it up is simple: [see here](https://support.google.com/accounts/answer/185839?hl=en).
 
 However, it is not recommend that you rely on Google for the total confidentiality of your sensitive email communication. Google scans and records the content of its users' messages for a wide variety of purposes and has, in the past, conceded to the demands of governments that restrict digital freedom. 
 

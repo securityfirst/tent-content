@@ -10,7 +10,7 @@ This is the person who initially alerts the rest of the surveillance team when t
 
 ### 2. 10 to 2
 
-The person carrying out the surveillance will try to stay out of a the 10 t0 2: the immediate eye line of the person they have put under surveillance
+The person carrying out the surveillance will try to stay out of a the 10 to 2: the immediate eye line of the person they have put under surveillance
 
 ### 3. 3 times
 

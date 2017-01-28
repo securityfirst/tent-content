@@ -12,11 +12,11 @@ What information could put you, your work or others at risk if were public? This
 
 ## 2. Who do you want to protect it from?
 
-This could be any person or entity that poses a threat against an your or your work, also known as an adversary. Think about who would have a motive in reading or deleting your information or disrupting your work. Examples could be a government, a company you are exposing, your boss, or a hacker.
+This could be any person or entity that poses a threat against an your or your work, also known as an adversary. Think about who would have a motive in reading or deleting your information or disrupting your work. Examples could be a government, a company you are exposing, your boss, or a hacker.
 
 ## 3. How likely is it that you will need to protect it?
 
-It is important to distinguish between threats and risks. While a threat is a bad thing that can happen, risk is the likelihood that the threat will occur. Calculating risk means figuring out the chance that a threat might actually occur ? how likely is it that a threat would be carried out? You also need to think about the capability of potential attackers. For example, your mobile phone provider has access to all of your phone records and therefore has the capability to use or share that data. A hacker on an open Wi-Fi network can access your unencrypted communications. A government might have stronger capabilities.
+It is important to distinguish between threats and risks. While a threat is a bad thing that can happen, risk is the likelihood that the threat will occur. Calculating risk means figuring out the chance that a threat might actually occur - how likely is it that a threat would be carried out? You also need to think about the capability of potential attackers. For example, your mobile phone provider has access to all of your phone records and therefore has the capability to use or share that data. A hacker on an open Wi-Fi network can access your unencrypted communications. A government might have stronger capabilities.
 
 ## 4. How bad are the consequences if you fail?
 

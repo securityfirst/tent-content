@@ -19,4 +19,4 @@ Together, these facts mean that effective use of burner phones to hide from gove
 *   Not carrying different devices together;
 *   Not creating a physical association between the places where different devices are used;
 *   And not calling or being called by the same people when using different devices.
-*   (This isn?t necessarily a complete list; for example, we haven?t considered the risk of physical surveillance of the place where the phone was sold, or the places where it's used, or the possibility of software to recognize a particular person's voice as an automated method for determining who is speaking through a particular phone.)
+*   (This isn't necessarily a complete list; for example, we haven't considered the risk of physical surveillance of the place where the phone was sold, or the places where it's used, or the possibility of software to recognize a particular person's voice as an automated method for determining who is speaking through a particular phone.)

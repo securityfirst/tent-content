@@ -4,7 +4,7 @@
 
 # Surveillance
 
-Surveillance is the monitoring of people?s behaviour, activities, or other patterns for the purpose of harming, influencing, managing, directing, or protecting them.
+Surveillance is the monitoring of people's behaviour, activities, or other patterns for the purpose of harming, influencing, managing, directing, or protecting them.
 ![image](surveillance1.png)
 
 **Why might people be interested in keeping you under physical surveillance?**
@@ -22,5 +22,5 @@ Surveillance is the monitoring of people?s behaviour, activities, or other patte
 *   Criminals
 *   Terrorists
 *   Private contractors
-*   Embassy officials of ?friendly? countries
+*   Embassy officials of 'friendly' countries
 *   Individuals (may be disgruntled with the organisation)

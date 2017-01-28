@@ -8,4 +8,4 @@
 *   Human surveillance (on foot, in a vehicle)
 *   Technical surveillance (bugs, listening devices, video cameras, number plate readers etc.)
 
-These lessons deal with how to counter human surveillance. For advice on digital surveillance see the Information and Communications lessons. For advice on how technical surveillance see the Meetings lesson and Home/Office section.
+These lessons deal with how to counter human surveillance.

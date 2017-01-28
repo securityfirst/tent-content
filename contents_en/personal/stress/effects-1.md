@@ -4,7 +4,7 @@
 
 # Effects
 
-The specific symptoms of PTSD can vary widely between individuals, but they generally fall into the categories described below. These symptoms are often severe and persistent enough to have a significant impact on the person?s day-to-day life.
+The specific symptoms of PTSD can vary widely between individuals, but they generally fall into the categories described below. These symptoms are often severe and persistent enough to have a significant impact on the person's day-to-day life.
 
 **Re-experiencing**  
 Re-experiencing is the most typical symptom of PTSD. This is when a person involuntarily and vividly re-lives the traumatic event in the form of flashbacks, nightmares or repetitive and distressing images or sensations. This can even include physical sensations such as pain, sweating and trembling or negative thoughts about their experience.
