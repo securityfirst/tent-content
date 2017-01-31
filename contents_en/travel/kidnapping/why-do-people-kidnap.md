@@ -1,4 +1,4 @@
-[Title]: # (Why do People Kidnap?)
+[Title]: # (Why do kidnappings occur?)
 [Difficulty]: # (Beginner)
 [Order]: # (7)
 
