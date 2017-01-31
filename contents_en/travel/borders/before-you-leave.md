@@ -8,8 +8,8 @@ This lesson focuses specifically on how to cross borders if travelling for sensi
 
 Sensitive or revealing information you may carry could include:
 
-*   Data on people at risk/HRDs you are meeting
-*   Travel plansPasswords/ access codes
+*   Data on people at high risk who you are meeting
+*   Travel plans, passwords, access codes
 *   Censored/ banned information
 *   Organisation sensitive information
 *   Personal information
@@ -29,5 +29,5 @@ Remember:
 *   Small, encrypted USB sticks or Micro SD cards can be useful for security and being able to hide sensitive data if necessary. See the Protecting Files lesson for advice on how to encrypt files.
 *   Bring a cheap notebook in which you can rip out the pages unnoticed
 *   Tamper proof Scotch tape can be useful for enhancing the security of your equipment, hotel safe, laptop ports etc.
-*    Check pockets, wallet, bags everything before travel
+*   Check pockets, wallet, bags everything before travel
 *   Prepare your story (More in next section)
