@@ -19,9 +19,9 @@ The main actors that carry out kidnappings are:
 *   Militia groups
 *   Regimes that use terror
 
-Factors which may encourage kidnapping:
+Factors that may encourage kidnapping:
 
-*   The state's ability to provide protection from the crime, and prosecute those who engage in such activity
+*   The state's inability to provide protection from the crime, and prosecute those who engage in such activity
 *   A lack of political, legal or military response will encourage more actors to become involved
 *   Media coverage of successful kidnap attempts
 *   High financial rewards from kidnapping
