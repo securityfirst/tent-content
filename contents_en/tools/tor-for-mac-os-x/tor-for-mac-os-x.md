@@ -2,12 +2,12 @@
 [Difficulty]: # (Beginner)
 [Order]: # (0)
 
-# TOR FOR MAC TOOL GUIDE
+# TOR FOR MACOS TOOL GUIDE
 
-## Tor for Mac Tool Guide 
+## Tor for macOS Tool Guide 
 
 **Lesson to read: [The Internet](umbrella://lesson/the-internet)**  
-**This guide outlines how to use the [Tor Browser Bundle](https://www.torproject.org/projects/torbrowser.html.en) on Mac.****Computer requirements:** An internet connection, a computer running Mac OS X  
+**This guide outlines how to use the [Tor Browser Bundle](https://www.torproject.org/projects/torbrowser.html.en) on Mac.****Computer requirements:** An internet connection, a computer running macOS  
 **Version used in this guide:** Tor Browser Bundle: 3.6.2  
 **License:** Free Software; mix of Free Software licenses  
 **Level:** Intermediate  
@@ -50,7 +50,7 @@ After the download is complete, you might get an option to open the folder where
 
 Double-click on the Tor Browser installer. This opens the .dmg file. 
 
-(On recent versions of OS X, you might get a warning that it's from an "unidentified developer" - you can get around this complaint by control-clicking and selecting "open".)  
+(On recent versions of macOS, you might get a warning that it's from an "unidentified developer" - you can get around this complaint by control-clicking and selecting "open".)  
 
 Drag the included file into your Applications folder and you will have a Tor Browser application in your chosen language that you can pin on your Dock.
 ![image](tool_torosx4.png)
