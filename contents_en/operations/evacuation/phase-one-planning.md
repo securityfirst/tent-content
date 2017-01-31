@@ -32,5 +32,4 @@ Identify which documents, such as contracts, payroll records, etc. will be neede
 During crises key staff will be fully occupied so responsibilities for evacuation should be clearly defined during the planning stage.
 
 **What will be the expected impact of evacuation on the operation?**  
-Will the office be closed and, if so, how?  What are the policies and plans for continuing operations through national staff members acting on their own?  Or through contractors, if feasible and appropriate?
-
+Will the office be closed and, if so, how?  What are the policies and plans for continuing operations? Through national staff members acting on their own? Or through contractors, if feasible and appropriate?
