@@ -14,7 +14,6 @@ Go to the Expert lesson for advice on what to do if a staff member is kidnapped.
 
 ### FURTHER READING
 
-*   [EISF Abduction Advice Note](https://www.eisf.eu/wp-content/uploads/2014/09/0541-MO-2010-Advice-Note-Abduction-Kidnapping.doc)
 *   [CARE International: Safety & Security Handbook](https://www.eisf.eu/wp-content/uploads/2014/09/0614-Macpherson-2004-CARE-International-Safety-and-Security-Handbook.pdf)
 *   [Good Practice Review Number 8: Operational security management in violent environments (Revised Ed.)](http://odihpn.org/wp-content/uploads/2010/11/GPR_8_revised2.pdf)
 *   [ECHO Generic Security Guide for Humanitarian Organisations](http://ec.europa.eu/echo/files/evaluation/watsan2005/annex_files/ECHO/ECHO12%20-%20echo_generic_security_guide_en.doc)
