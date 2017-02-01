@@ -16,8 +16,8 @@ Go to the Beginner lesson for advice on how to avoid kidnapping.[Go to Advanced 
 
 ### FURTHER READING
 
-*   [Good Practice Review Number 8: Operational security management in violent environments (Revised Ed.)](www.odihpn.org/download/gpr_8_revised2pdf)
-*   [CARE International: Safety & Security Handbook](ngolearning.org/courses/availablecourses/CARE%20Safety%20Course/Shared%20Documents/English_CARE_International_Safety_and_Security_Handbook.pdf)
+*   [Good Practice Review Number 8: Operational security management in violent environments (Revised Ed.)](http://odihpn.org/wp-content/uploads/2010/11/GPR_8_revised2.pdf )
+*   [CARE International: Safety & Security Handbook](https://www.eisf.eu/wp-content/uploads/2014/09/0614-Macpherson-2004-CARE-International-Safety-and-Security-Handbook.pdf)
 *   [EISF Abduction Advice Note](https://www.eisf.eu/wp-content/uploads/2014/09/0541-MO-2010-Advice-Note-Abduction-Kidnapping.doc)
-*   [Protection International: New Protection Manual for Human Rights Defenders (3rd Ed.)](protectioninternational.org/publication/new-protection-manual-for-human-rights-defenders-3rd-edition/)
-*   [ECHO Generic Security Guide for Humanitarian Organisations](https://www.google.co.uk/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0CCEQFjAA&url=http%3A%2F%2Fec.europa.eu%2Fecho%2Ffiles%2Fevaluation%2Fwatsan2005%2Fannex_files%2FECHO%2FECHO12%20-%20echo_generic_security_guide_en.doc&ei=kLxAVc6LOILuUP2SgbAE&usg=AFQjCNEXEOcbLeV24f3WolHmDwLq7KJzlQ&sig2=hbnI7wfdrGIHS7mmikBRWA)
+*   [Protection International: New Protection Manual for Human Rights Defenders (3rd Ed.)](http://protectioninternational.org/publication/new-protection-manual-for-human-rights-defenders-3rd-edition/)
+*   [ECHO Generic Security Guide for Humanitarian Organisations](http://ec.europa.eu/echo/files/evaluation/watsan2005/annex_files/ECHO/ECHO12%20-%20echo_generic_security_guide_en.doc)
