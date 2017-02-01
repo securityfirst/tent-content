@@ -11,7 +11,7 @@ The following procedures are useful when involved in an accident.
 *   Make site safe and visible to other traffic.
 *   Provide care and assistance as appropriate.
 *   As appropriate, contact local authorities immediately and cooperate as required.
-*   Contact the your office as soon as practical.
+*   Contact your support network, such as your organisation, family or friends as soon as practical.
 *   If feasible, take pictures of the scene and record the names and contact information of witnesses, responding authorities, and those involved.
 *   When approaching an accident involving other vehicles consider safety and security, taking care not to become involved in a second accident while responding.
 
