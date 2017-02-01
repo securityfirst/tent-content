@@ -12,5 +12,5 @@ Go to the Advanced lesson for advice on using a satelite phone securely.[Go to A
 
 ### FURTHER READING
 
-*   [Good Practice Review Number 8: Operational security management in violent environments (Revised Ed.)](www.odihpn.org/download/gpr_8_revised2pdf)
-*   [CARE International: Safety & Security Handbook](ngolearning.org/courses/availablecourses/CARE%20Safety%20Course/Shared%20Documents/English_CARE_International_Safety_and_Security_Handbook.pdf)
+*   [Good Practice Review Number 8: Operational security management in violent environments (Revised Ed.)](http://odihpn.org/wp-content/uploads/2010/11/GPR_8_revised2.pdf)
+*   [CARE International: Safety & Security Handbook](https://www.eisf.eu/wp-content/uploads/2014/09/0614-Macpherson-2004-CARE-International-Safety-and-Security-Handbook.pdf)
