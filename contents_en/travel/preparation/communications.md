@@ -8,4 +8,4 @@
 *   Bring a satellite phone if necessary (e.g. if phone lines are poor or possibility of censorship during high tensions) - check they are legal in the country you are going to
 *   Programme essential numbers into your phone, but not sensitive numbers. Put sensitive numbers into the 'notes' section of your phone but need to disguise them effectively.
 *   Additionally, ensure you have key numbers - such as embassies - stored remotely or written elsewhere (coded where necessary).
-*   Note 112/911/999 Emergency number
+*   Note 112/911/999 or equivalent Emergency number(s)
