@@ -12,5 +12,6 @@ However it is very important to note:
 
 *   Does not encrypt any pictures sent once they arrive on the phone
 *   While WhatsApp or others cannot view the content of your messages, they can still know that you are communication with someone (e.g metadata). In some cases, this may still have negative security consequences.
+* 	It is possible for someone to try to intercept your communications by changing a contact's security code. To ensure you are warned about someone trying to do this, go to Settings -> Account -> Security -> Turn on "Show security notifications" 
 
-For these reasons we still recommend that you use [Signal](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms) for secure messaging and calls.
+For these reasons we still recommend that you use Signal - available on [Android](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms) and [iPhone](https://itunes.apple.com/ie/app/signal-private-messenger/id874139669) for secure messaging and calls.
