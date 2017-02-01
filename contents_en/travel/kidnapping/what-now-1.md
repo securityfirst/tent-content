@@ -10,7 +10,7 @@ Go to the Advanced lesson for advice on survival techniques if you are kidnapped
 
 ### RELATED LESSONS/TOOLS
 
-*   [Travel Prep Lesson](umbrella://lesson/preparation)
+*   [Travel Preparation Lesson](umbrella://lesson/preparation)
 
 ### FURTHER READING
 
