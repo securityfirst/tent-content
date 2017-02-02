@@ -8,4 +8,4 @@ Satellite transmissions, while encrypted, are not entirely secure either. Many g
 
 If your satellite phone is confiscated, authorities or hostile actors can access critical information from its call log, phone book, and sent folder.
 
-*   You should routinely delete call logs and sent folders to protect your sources, and that you keep the sim card separate from the phone when not transmitting.
+*   You should routinely delete call logs and sent folders to protect your sources, and keep the SIM card separate from the phone when not transmitting.

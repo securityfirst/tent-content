@@ -1,4 +1,4 @@
-[Title]: # (Kidnaping)
+[Title]: # (Kidnapping)
 [Difficulty]: # (Expert)
 [Order]: # (13)
 

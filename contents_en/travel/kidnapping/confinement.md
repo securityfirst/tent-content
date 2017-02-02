@@ -3,7 +3,7 @@
 [Order]: # (3)
 
 *   Anticipate periods of isolation and other methods of intimidation and prepare for a long wait. Do not believe everything you are told. Try to persuade your abductors to contact your colleagues or the authorities, find reasons why this would benefit them.
-*   Try to build a relationship of respect whilst keeping your dignity, do not beg or plead; be cooperative and obey demands without being servile or aggressive; do not discuss politics, keep to mutual subjects such as family and children; encourage your abductors to view you as a person.
+*   Try to build a relationship of respect whilst keeping your dignity, do not beg or plead; be cooperative and obey demands without being servile or aggressive; do not discuss politics, keep to subjects of mutual interest such as family and children; encourage your abductors to view you as a person.
 *   Try to retain personal belongings such as clothes, identification, watch and books unless forced to hand them over; ask for practical things such as toiletries, medicines, or time to exercise; avoid an exchange of clothes with abductors - it may hinder your identification in a rescue attempt.
 *   Be aware of body language and non-verbal communication styles; do not threaten to testify against abductors; if concealing their identity, do not indicate that you recognise them.
 *   Eat and drink water even if you have no appetite or it is unpalatable; maintain a routine of rest and activity; try to exercise daily and to keep track of time; maintain personal hygiene and maintain your values.

@@ -9,7 +9,7 @@ Go to the Beginner lesson for advice on the dangers of using mobile phones.
 
 ### RELATED LESSONS/TOOLS
 
-*   [APG Guide Tool](umbrella://lesson/k9-&-apg)
+*   [APG Tool Guide](umbrella://lesson/k9-&-apg)
 
 ### FURTHER READING
 
