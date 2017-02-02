@@ -12,3 +12,4 @@
 *   Complete a risk assessment
 *   Discuss trip with regional security focal point to confirm whether trip falls within threshold of acceptable risk
 *   Where possible, organise post-arrival context/ security briefings from partners
+*   Where possible, organise post-arrival context/ security briefings from partners
