@@ -21,5 +21,6 @@ Our team:
 Friends from the past now working on new things:
 *   Mitesh Patel -> improved things
 *   Adam Schakaki -> fixed things
+
 [Licences](umbrella://licences/)  
 [Thank you](umbrella://thankyou/)
