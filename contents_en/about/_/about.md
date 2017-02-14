@@ -14,9 +14,13 @@ Our team:
 
 *   Rok Biderman -> builds things
 *   Rory Byrne -> secures things
+*  	Alex Guerrieri -> moars things
 *   Holly Kilroy -> writes things
-*   Mitesh Patel -> improves things
 *   Vesna Planko -> designs things
-*   Adam Schakaki -> fixes things
+
+Friends from the past now working on new things:
+*   Mitesh Patel -> improved things
+*   Adam Schakaki -> fixed things
+
 [Licences](umbrella://licences/)  
-[Thank you](umbrella://thankyou/)  
+[Thank you](umbrella://thankyou/)
