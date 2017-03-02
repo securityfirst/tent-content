@@ -17,16 +17,16 @@ Look out for:
 
 Surveillance teams often try to use people who would easily be overlooked. Don't disregard people such as:
 
-*   Females
+*   Women (many people expect surveillance members to be men)
 *   Couples/groups
 *   People wearing expensive clothes
 *   Young/old looking people
 *   People jogging
 *   Beggars
-*   Hotel maids, gardeners
+*   Hotel staff, gardeners
 *   Road workers
 *   Commercial outfits (e.g. electricity company)
-*   Unlikely minorities
+*   Unlikely minorities (for example, people from an ethnic group not common in the local area)
 *   People with a pram/dog/shopping bags
 
 Tells' that might give away someone who is conducting surveillance on foot include:  
