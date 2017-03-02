@@ -9,5 +9,5 @@ It is normal to experience upsetting and confusing thoughts after a traumatic ev
 PTSD can be successfully treated, even when it develops many years after a traumatic event. Treatment depends on the severity of symptoms and how soon they occur after the traumatic event. Any of the following treatment options may be recommended:
 
 *   Watchful waiting - waiting to see whether the symptoms improve without treatment
-*   Psychological treatment - such as psychotherapy or trauma-focused cognitive behavioural therapy (CBT)
+*   Psychological treatment - psychotherapy such as trauma-focused cognitive behavioural therapy (TF-CBT)
 *   Antidepressant medication

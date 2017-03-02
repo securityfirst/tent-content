@@ -4,7 +4,7 @@
 
 # Tactics: How to find the eyeball on foot
 
-The eyeball refers to the member of the surveillance team who currently has you in their sights. Firstly - don't look over your shoulder! Instead try to create situations to look observe all around you naturally - including behind you:
+The eyeball refers to the member of the surveillance team who currently has you in their sights. Firstly - don't look over your shoulder! Instead try to create situations to observe all around you naturally - including behind you:
 
 *   Try using windows - either looking through them or in their reflection - or car mirrors;
 *   Hold open doors for other people to enter and let them overtake you;

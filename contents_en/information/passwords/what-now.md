@@ -19,4 +19,4 @@ Go to the Expert lesson for advice on what to do if you think you might be force
 ### FURTHER READING
 
 *   [EFF - Creating strong passwords](https://ssd.eff.org/en/module/creating-strong-passwords)
-*   [Security in a Box - Chapter 3, Passwords](https://securityinabox.org/chapter-3)
+*   [Security in a Box - Create and maintain secure passwords](https://securityinabox.org/en/guide/passwords/)

@@ -8,9 +8,9 @@
 
 This is the person who initially alerts the rest of the surveillance team when the target is on the move. The easiest person to find.
 
-### 2. 10 to 2
+### 2. 10 to 2 O'Clock
 
-The person carrying out the surveillance will try to stay out of a the 10 to 2: the immediate eye line of the person they have put under surveillance
+The person carrying out the surveillance will try to stay out of the 10 to 2 O'Clock positions of vision: the immediate eye line of the person they have put under surveillance.
 
 ### 3. 3 times
 

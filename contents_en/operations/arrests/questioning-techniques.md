@@ -2,7 +2,7 @@
 [Difficulty]: # (Beginner)
 [Order]: # (3)
 
-# 
+# Questioning Techniques
 
 Questioning techniques to be aware of include:
 
