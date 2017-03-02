@@ -26,7 +26,7 @@ Look out for:
 
 **Identifying Teams**  
 
-If you identify one potential surveillance member, you can use that knowledge to identify others. Members of a surveillance team can cross-contaminate other members:
+If you identify one potential surveillance team member, you can use that knowledge to identify others. Members of a surveillance team can cross-contaminate other members:
 
 *   By looking in their direction
 *   By using hand signals
