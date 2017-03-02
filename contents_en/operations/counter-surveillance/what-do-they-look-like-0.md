@@ -15,10 +15,11 @@ Look out for:
 *   Rubbish in a car
 *   Parking for quick exit
 *   Windows left slightly open
-*   "Boot fit"
+*   Boot/Trunk - they may have placed a person in the rear of the vehicle to observe through a gap in the shelf of the boot/trunk
 *   One or at most two people in a vehicle
 *   Radio operator talking into a radio
 *   Two people in a stopped car talking but not apparently to each other
+*	Sun visors down to make it harder to recognise faces
 *   Leaving an engine on unnecessarily
 *   Brake lights being activated when a vehicle is stationary
 *   Don't forget taxis, rickshaws or expensive looking cars.
