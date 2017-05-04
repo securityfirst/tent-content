@@ -6,6 +6,7 @@
 
 There is a wide range of possible symptoms of negative stress, and people differ in terms of the symptoms they exhibit.
 
+Physical symptoms may include:
 
 *   Exhaustion
 *   Hyperactivity
@@ -50,8 +51,5 @@ Emotional effects may include:
 *   Nightmares or flashbacks
 *   Tendency to avoid/repress intense thoughts or feelings
 *   Questioning of major life areas
-
-
-
 
 Engaging in some of these types of behaviours are security risks in and of themselves, so it is very important to both the individual affected and your organisation that it is dealt with properly.
