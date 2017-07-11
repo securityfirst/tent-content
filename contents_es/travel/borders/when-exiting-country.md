@@ -1,6 +1,6 @@
 [Title]: # (Cuando sale del país)
 [Difficulty]: # (Principiante)
-[Order]: # (0)
+[Order]: # (3)
 
 *   Usted debe asumir que se le puede detener o registrar. Asumir que cualquier cosa que usted haya escrito podrá será copiada o leída y debe prepararse para las consecuencias.
 *   Asegúrese de que todas las notas sensibles sean sobre escritas y sean fotografiadas y encriptadas. (Véase la lección de Protección de archivos para obtener asesoramiento sobre cómo cifrar archivos.)

@@ -1,8 +1,8 @@
 [Title]: # (Casas seguras)
 [Difficulty]: # (Principiante)
-[Order]: # (0)
+[Order]: # (4)
 
-La casa segura puede adoptar muchas formas. Pueden ser una casa segura de emergencia,  que es una casa o un apartamento alquilado específicamente con este propósito o bien el refugi seguro puede ser una casa o apartamento que esté siendo ocupada por otras personas.
+La casa segura puede adoptar muchas formas. Pueden ser una casa segura de emergencia, que es una casa o un apartamento alquilado específicamente con este propósito o bien el refugi seguro puede ser una casa o apartamento que esté siendo ocupada por otras personas.
 
 Las casas o refugios seguros deben estar ubicados en un lugar que permita un grado relativo de anonimato y cuyos vecinos no sospechen qué sucede o en los que se pueda confiar que no informarán.
 
@@ -12,8 +12,10 @@ Las casa seguras que permanecen desocupadas deben ser cuidadas con regularidad. 
 
 Las casas y refugios seguros pueden necesitan:
 
-*   Provisiones de combustible, alimentos, baterías y agua para cada persona suficiente para durar 10 días.*   Generador de emergencia
-*   Radio que no requiera corriente eléctrica, e idealmente un televisor.*   Ropa apropiada para las condiciones climáticas.
+*   Provisiones de combustible, alimentos, baterías y agua para cada persona suficiente para durar 10 días.
+*   Generador de emergencia
+*   Radio que no requiera corriente eléctrica, e idealmente un televisor.
+*   Ropa apropiada para las condiciones climáticas.
 *   Advanced first aid kit with necessary medications as required
 *   Linternas con suficientes baterías extra.
 *   Mapas y planes de comunicación según sea apropiado (para planear una evacuación de emergencia)

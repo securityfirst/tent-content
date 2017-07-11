@@ -2,27 +2,20 @@
 [Difficulty]: # (Principiante)
 [Order]: # (0)
 
-La planificación y simulacros de una evacuación se deben llevar a cabo regularmente. Las situaciones que amenazan la seguridad pueden deteriorarse rápidamente, en muchas ocasiones sin previo aviso. El plan de evacuación debe estar preparado y todo el personal debe entender sus aspectos básicos. Considere los siguientes puntos al realizar el plan de evacuación.
+La planeación de una evacuación y los simulacros debe hacerse regularmente. El nivel de seguridad puede deteriorarse rápidamente, en muchas ocasiones sin previo aviso. El plan de evacuación debe estar preparado y todo el equipo debe entender sus aspectos básicos. Considere los siguientes puntos al realizar el plan de evacuación.
 
-*   **Suspendería** las actividades laborales en respuesta a problemas de seguridad;
-*   **Congelaría** manteniendo al personal donde está, pero sin llamar la atención ;
-*   **Reubicaría** moviendo al personal a otro lugar dentro del país o hacia unas instalaciones seguras para escapar de los problemas de seguridad, o;
-*   **Evacuaría** haciendo que el personal abandonara el trabajo y dejara el país debido a problemas serios de seguridad.
-
-**Quién sería evacuado** - Es esencial que todos los miembros del personal sepan claramente si ellos y sus familias - serían evacuados y si recibirían apoyo para la evacuación o la reubicación.
-
-*   **Prioridad 1** ? Familiares del personal internacional
-*   **Prioridad 2** ? Personal que está en peligro individual inminente debido a las condiciones de la crisis.
-*   **Prioridad 3** ? Individuos que no forman parte del personal esencial
-*   **Priority 4** ? Personal esencial
-
-**¿Hacia dónde se evacuará al personal?**Identifique el destiono elegido en primer término y un destino alternativo para la evacuación o reubicación. Disponga un alojamiento o refugio seguro si es necesario. Determine las necesidades de visados y la logística necesaria a la llegada.
-
-**¿Cómo se evacuaría al personal?**Establezca un sistema de notificación y un punto de encuentro. Detalle la ruta y el método de evacuación. Asegúrese de que las rutas pueden ser transitadas bajo condiciones de emergencia. Coordine los planes con embajadas, agencias de la ONU, y otras ONGs según corresponda.
-
-**¿Qué se lleva? ¿Qué se queda?**Identifique qué documentos como contratos, registros de nóminas, etc. serán necesarios para restablecer las operaciones una vez terminada la reubicación o al regreso. Otros documentos deben ser destruidos o abandonados, según corresponda. Considere como serían percibidos los documentos si son incautados por determinadas personas o grupos. Esos documentos pueden contener información que podría poner en riesgo a quienes forman parte de la evacuación, y sería mejor destruirlos.
-
-**¿Quién es responsable de las diferentes tareas durante la evacuación?** Durante las crisis, las personas clave del equipo estarán completamente ocupadas, así que las responsabilidades durante la evacuación deben ser claramente definidas en la etapa de planificación.
-
-**¿Cuál será el impacto esperado de la evacuación en las operaciones de la organización?**¿Se cerrará la oficina? Y sii ese es el caso, ¿cómo? ¿Cuáles son las políticas y planes para continuar las operaciones? ?¿mediante los miembros del personal actuando por su cuenta? ¿o a través de contratistas, si es posible y adecuado?
-
+*   **Bajo qué circunstancias realizaría la evacuación?** Haga un esquema de las situaciones y los indicadores bajo los cuales ejecutaría el plan de evacuación. Identifique las situaciones bajo las cuales:
+    *   **Suspendería**actividades laborales en reacción a preocupaciones de seguridad;
+    *   **Mantendría** el trabajo con un perfil bajo;
+    *   **Reubicaría** al equipo en otro lugar del país o hacia una casa segura, o;
+    *   **Evacuaría** junto con el equipo, detendría el trabajo y dejaría el país debido a amenazas serias a su seguridad.
+*   **Quien evacuaría** - Es esencial que todos los miembros del equipo sepan si ellos y sus familias serían evacuados y si recibirían apoyo para la reubicación.
+    *   **Prioridad 1** – Miembros de la familia del equipo internacional
+    *   **Prioridad 2** – Miembros del equipo que están en peligro inminente debido a la situación de crisis.
+    *   **Prioridad 3** – Individuos que no hacen parte del equipo principal
+    *   **Priority 4** – Equipo principal
+*   **Hacia donde irían?**Identifique el primer destino y un destino alterno para la evacuación o reunbicación. Disponga una casa segura o un refugio de emergencia. Determine los requisitos de visa y la logística necesaria al llegar.
+*   **Cómo se haría la evacuación?**Establezca un sistema de notificación y un punto de encuentro. Detalle la ruta y el método de evacuación. Asegúrese de que las rutas pueden ser transitadas bajo condiciones de emergencia. Coordine el plan con las embajadas, agencias de la ONU, y otras ONGs según corresponda.
+*   **Qué se lleva? Qué se queda?**Identique qué documentos como contratos, nóminas, etc, serán necesarios para restablecer la organización una vez terminada la reubicación o el regreso. Otros documentos deben ser destruidos o abandonados según corresponda. Considere qué tratamiento recibirían los documentos si son retenidos por una persona o un grupo en particular. Esos documentos pueden contener información que ponga en riesgo a quienes son parte de la evacuación y mejor sería destruirlos.
+*   **Quién es responsable de las diferentes tareas durante la evacuación?** Durante las crisis, personas clave del equipo pueden estar muy ocupados así que las responsabilidades durante la evacuación deben estar definidias en la etapa de planeación.
+*   **¿Cómo puede impactar la evacuación en la operación de la organización?**¿Se cerrará la oficina? Si ese es el caso, cómo? cuáles son las políticas y planes para continuar las operaciones a través de miembros del equipo que actúan por su cuenta? a través de contratistas, si es posible y apropiado?

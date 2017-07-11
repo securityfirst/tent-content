@@ -1,10 +1,7 @@
-[Title]: # (Challenging password demands)
+[Title]: # (Demandas de contraseñas desafiantes)
 [Difficulty]: # (Experto)
-[Order]: # (0)
+[Order]: # (11)
 
-# Challenging password demands
-
-In some jurisdictions, such as the United States or Belgium, you may be able to legally challenge a demand for your password. In other jurisdictions, such as the United Kingdom or India, local laws allow the government to demand information is given to them. More information on safety precautions to take while travelling can be read in the [Journeys](umbrella://lesson/journeys) lesson.
-
-Please note that intentional destruction of evidence or obstruction of an investigation can be charged as a separate crime, often with very serious consequences. In some cases, this can be easier for the government to prove and allow for more substantial punishments than the alleged crime originally being investigated.
- 
+# Demandas de contraseñas desafiantes
+n algunas jurisdicciones, como en Estados Unidos o en Bélgica, es posible que pueda impugnar legalmente la demanda de su contraseña. En otras jurisdicciones, como el Reino Unido o la India, las leyes locales permiten que el gobierno solicite que se les dé información. Se puede leer más información sobre las precauciones de seguridad durante el viaje en la lección [Preparación] (umbrella://lesson/preparation)). 
+or favor, tenga en cuenta que la destrucción intencional de pruebas u obstrucción de una investigación puede ser acusada como un crimen separado , A menudo con consecuencias muy graves. En algunos casos, esto puede ser más fácil para el gobierno probar y permitir castigos más sustanciales que el supuesto crimen originalmente investigado.

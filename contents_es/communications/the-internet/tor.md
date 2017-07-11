@@ -1,13 +1,13 @@
 [Title]: # (Tor)
 [Difficulty]: # (Avanzado)
-[Order]: # (0)
+[Order]: # (1)
 
 # Tor
 
-Tor is free and open-source software that provides anonymity as well as allowing you to circumvent censorship. When you use Tor, the information you transmit is safer because your traffic is bounced around a distributed network of servers. This can provide anonymity, since the computer with which you?re communicating will never see your IP address, but instead will see the IP address of the last Tor router through which your traffic travelled.
+Tor es un software libre y de código abierto que proporciona anonimato además de permitirle eludir la censura. Cuando usa Tor, la información que transmite es más segura porque su tráfico es rebotado por una red distribuida de servidores. Esto puede proporcionar anonimato ya que la computadora con la que se está comunicando nunca verá su dirección IP, sino que en su lugar verá la dirección IP del último router Tor a través del cual ha viajado su tráfico.
 
-One of Tor's strengths is that it does not just work with a browser but can be used with various types of Internet software. Email programs, including Mozilla Thunderbird, and instant messaging programs, including Pidgin, can operate through Tor, either to access filtered services or to hide your use of those services.
+Una de las fortalezas de Tor es que no sólo funciona con un navegador sino que se puede usar con varios tipos de software de Internet. Los programas de correo electrónico, incluyendo Mozilla Thunderbird, y programas de mensajería instantánea, incluyendo Pidgin, pueden operar a través de Tor, bien para acceder a servicios filtrados o para ocultar su uso de esos servicios.
 
-Tor is the gold standard for secure censorship circumvention. It can be slow and tricky to use. However, it also provides a reliable, secure and public means of circumvention that saves you from having to worry about whether or not you trust the individuals who operate your proxies and the websites you visit. Tor is open source and can be downloaded free online for Windows, Mac, Linux, and Android.
+Tor es el estándar oro para la elusión segura de la censura. Puede ser lento y algo enrevesado de usar. Sin embargo, también proporciona un medio de elusión fiable, seguro y público que le evita tener que preocuparse acerca si confía o no en los indiviuos que operan sus proxys y los sitios web que vista. Tor es de código abierto y se puede descargar gratuitamente para Windows, Mac, Linux, y Android.
 
-To learn how to install and use Tor, see the [Tor tool guide](umbrella://lesson/tor-for-windows).
+Para aprender cómo instalar y usar Tor, vea la [Guía de la herramienta Tor](umbrella://lesson/tor-for-windows).

@@ -1,12 +1,12 @@
 [Title]: # (Tipos de stress)
 [Difficulty]: # (Principiante)
-[Order]: # (0)
+[Order]: # (5)
 
 # Tipos de estrés
 
 El estrés es una reacción natural, y puede ser positivo y estimulante. No todo el estrés es malo. Hay distintos tipos de estrés, tanto saludable como no saludable. él estrés saludable ayuda a la gente a centrarse en la tarea que realiza, mobiliza energía y les prepara para la acción. Sin embargo, cuando el estrés ocurre demasiado a menudo, o es demasiado intenso, o dura demasiado, cambia de positivo a negativo.
 
-![](stress1.png)
+![image](stress1.png)
 
 Hay 3 tipos distintos de estrés no saludable: crónico, traumático, y también post-traumático.
 

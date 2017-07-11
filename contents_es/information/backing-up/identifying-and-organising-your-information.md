@@ -1,6 +1,6 @@
-[Title]: # (Identifying and organising your information)
+[Title]: # (Identificando y organizando tu información)
 [Difficulty]: # (Avanzado)
-[Order]: # (0)
+[Order]: # (1)
 
 # Identifying and organising your information
 

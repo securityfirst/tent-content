@@ -10,4 +10,4 @@ En muchos países, las personas están en obligación de registrar sus tarjetas 
 
 **Si es importante para mantener su presencia en la manifestación oculta, no lleve su teléfono móvil con usted.**
 
-**Si es absolutamente necesario llevar un teléfono móvil con usted, trate de traer uno que no esté registrado a su nombre.** 
+**Si es absolutamente necesario llevar un teléfono móvil con usted, trate de traer uno que no esté registrado a su nombre.**

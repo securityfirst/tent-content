@@ -1,12 +1,12 @@
 [Title]: # (Tratar con ello - Para administradores)
 [Difficulty]: # (Principiante)
-[Order]: # (0)
+[Order]: # (9)
 
 # Tratar con ello - Para directores
 
 En entornos volátiles, las espectativas de los directores a menudo pueden no ser realistas tanto en términos del volumen de tareas como del nivel de destrezas necesario para lograr realizarlas. El nivel de responsabilidad puede ser una fuente significativa de estrés, especialmente cuando no para por la noche, ni en fines de semana o vacaciones. Todo el personal necesita sentir que sus directores son fuertes, sólidos y fiables, una fuente de estabilidad. Un director que muestra signos de estrés grave, o que continúa en un puesto aunque esté quemado, es probable que se desmoralice a si mismo o a su personal. Las siguientes tácticas pueden ayudar a los directores a hacer frente a su propio estrés y reducir el de su personal.
 
-![](stress2.png)
+![image](stress2.png)
 
 *   **Reconozca sus propias limitaciones, tanto a si mismo como a su personal.** Admitir que usted tampoco es inmune al estrés no tiene por que socavar su autoridad si ejerce su dirección de acuerdo a unos principios y argumentos que sean defendibles.
 *   **Desarrolle una buena relación con su propio director.** Pídale que venga y experimente de primera mano las realidades a las que usted se enfrenta, y pídale que le proteja de presiones innecesarias desde el cuartel general.

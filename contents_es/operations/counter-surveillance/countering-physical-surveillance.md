@@ -1,12 +1,13 @@
-[Title]: # (Contrarrestar los seguimientos)
-[Difficulty]: # (Experto)
+[Title]: # (Contrarrestar la vigilancia física)
+[Difficulty]: # (Avanzado)
 [Order]: # (0)
 
-# Countering Physical Surveillance
+# Contrarrestar la vigilancia física
 
-Physical surveillance continues to be a significant danger to those working on human rights. Other than a human source, it is the only way to build detail on what is occurring at meetings. It is obviously important to know how to identify if you, your colleagues, or partners are under surveillance.
+La vigilancia física sigue siendo un peligro significativo para quienes trabajan en derechos humanos. Aparte de la información que provean fuentes humanas, es la única forma de conocer en detalle lo que sucede en reuniones. Obviamente es importante que sepa como identificar si usted, sus colegas, o asociados son objeto de vigilancia.
 
-Counter-surveillance is the process of detecting and mitigating hostile surveillance. This lesson lets you know how to practice counter-surveillance at one of the most important times ? when you are in a vehicle, such as going to a sensitive meeting.
+La contravigilancia es el proceso de detección y mitigación de la vigilancia hostil. Esta lección le permite conocer cómo practicar la contra vigilancia en uno de los momentos más importantes de su trabajo – cuando va a pie, por ejemplo, hacia una reunión sensible.
 
-For advice on how to practice counter-surveillance when on foot, go to the Advanced lesson.
-![image](surveillance4.png)
+Pasa recibir consejo sobre cómo practicar la contravigilancia al circular en un vehículo, vaya a la lección Experto.
+
+![image](surveillance2.png)

@@ -1,6 +1,6 @@
 [Title]: # (Piense acerca de lo que comparte)
 [Difficulty]: # (Principiante)
-[Order]: # (0)
+[Order]: # (4)
 
 # Piense acerca de lo que comparte
 
@@ -14,6 +14,6 @@ Hágase siempre las preguntas:
 
 Tenga cuidado acerca de dar demasiada información en las actualizaciones de su estado ? incluso si en sus redes confía en la gente. Es fácil para alguien copiar su información o compartir algo sin intención.
 
-Es fácil compartir un enlace a un sitio web y lograr la atención de sus amigos. Pero, quién más estará prestando atención?, y qué clase de reacción tendrán?
+Es fácil compartir un enlace a un sitio web y lograr la atención de sus amigos. Pero, quién más estará prestando atención?,  clase de reacción tendrán?
 
-![](socialb3.png)
+![image](socialb3.png)

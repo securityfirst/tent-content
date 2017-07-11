@@ -1,11 +1,15 @@
 [Title]: # (¿Y ahora qué?)
-[Difficulty]: # (Principiante)
-[Order]: # (0)
+[Difficulty]: # (Avanzado)
+[Order]: # (4)
 
-Swipe right for this lesson?s checklist
+Pase a la derecha de esta lección a lista de verificación
 
-Go to the Advanced lesson for advice on what protective gear to wear in combat zones or civil unrest.[Go to Advanced Lesson](umbrella://lesson/protective/1)
+Ir a la lección de principiante para los consejos sobre qué empacar en un maletín de emergencia [Ir a la Lección de Principiantes](umbrella://lesson/protective/1)
 
-### RELATED LESSONS/TOOLS
+### 
 
-*   [Evacuation lesson](umbrella://lesson/evacuation)
+*   Lección de puestos de control
+
+### Lecturas
+
+*   [Comité para la Protección de Periodistas)](https://cpj.org/reports/2012/04/armed-conflict.php)

@@ -1,11 +1,11 @@
-[Title]: # (Qué es lo que PGP no puede hacer: Metadatos)
+[Title]: # (Qué es lo que no puede hacer PGP: Metadatos)
 [Difficulty]: # (Avanzado)
-[Order]: # (0)
+[Order]: # (3)
 
-# Lo que PGP no puede hacer: metadatos
+# Qué es lo no que no puede hacer PGP: Metadatos
 
-PGP se trata de asegurarse de que el contenido de un mensaje es secreto, genuino y sin alteraciones. Pero esa no es la única preocupación a nivel de privacidad que se puede tener. PGP no protege sus metadatos, que es todo lo demás, incluyendo la línea de asunto de su correo electrónico, o con quién se está comunicando y cuándo. Los metadatos pueden proporcionar información extremadamente reveladora sobre usted incluso cuando el contenido de su comunicación sigue siendo secreto.
+Con PGP todo gira en torno a asegurar que los contenidos de un mensaje son secretos, genuinos, y que no han sido alterados. Pero esa no es la única preocupación sobre privacidad que podría tener. PGP no protege sus metadatos, que abarcan todo lo demás incluyendo la línea de asunto de su correo electrónico, o con quién se está comunicando y cuándo. Los metadatos pueden proporcionar información extremadamente reveladora acerca de usted incluso cuando el contenido de su comunicación permanezca secreto.
 
-Si está intercambiando mensajes PGP con un disidente conocido en su país, puede estar en peligro de simplemente por comunicarse con este, incluso sin que esos mensajes se decodifiquen. De hecho, en algunos países se puede enfrentar encarcelamiento simplemente por negarse a decodificar mensajes cifrados.
+Si está intercambiando mensajes PGP con un reconocido disidente en su país, puede que usted se ponga en peligro simplemente por comunicarse con este, incluso sin que esos mensajes lleguen a ser descodificados. De hecho, en algunos países puede afrontar encarcelamiento simplemente por rehusar descodificar los mensajes cifrados.
 
-La protección de los metadatos requerirá el uso de otras herramientas, como Tor, al mismo tiempo que el cifrado de extremo a extremo. Puede aprender cómo hacerlo en la [lección de Internet](umbrella://lesson/the-internet). 
+Proteger sus metadatos requerirá que use otras herramientas, tales como Tor, al mismo tiempo que el cifrado extremo-a-extremo. Puede aprender más acerca de cómo hacer esto en la [Lección sobre Internet](umbrella://lesson/the-internet).

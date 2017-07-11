@@ -1,6 +1,6 @@
 [Title]: # (Compruebe lo que sus amigos comparten sobre usted)
 [Difficulty]: # (Principiante)
-[Order]: # (0)
+[Order]: # (6)
 
 # Compruebe lo que sus amigos comparten sobre usted
 

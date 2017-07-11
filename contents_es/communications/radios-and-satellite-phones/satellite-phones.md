@@ -1,6 +1,6 @@
 [Title]: # (Teléfonos por satélite)
 [Difficulty]: # (Principiante)
-[Order]: # (0)
+[Order]: # (10)
 
 # Teléfonos por satélite
 

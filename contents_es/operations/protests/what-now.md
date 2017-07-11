@@ -1,6 +1,6 @@
 [Title]: # (¿Y ahora qué?)
 [Difficulty]: # (Avanzado)
-[Order]: # (0)
+[Order]: # (5)
 
 Pase a la derecha de esta lección a lista de verificación
 
@@ -13,4 +13,4 @@ Ir a la lección para principiantes para el asesoramiento sobre cubrir una prote
 
 ### Lecturas
 
-*   EFF Asistencia a las protestas
+*   EFF - Asistencia a las protestas

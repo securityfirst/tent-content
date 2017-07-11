@@ -1,0 +1,5 @@
+[Title]: # (Encuentro con la milicia)
+[Difficulty]: # (Avanzado)
+[Order]: # (2)
+
+Es recomendable vestir chalecos antibalas cada vez que se enfrente con las fuerzas militares. Los productos como los chalecos antibalas son actualizados periódicamente, cuando son más nuevos, suelen ser más ligeros, y se desarrollan con materiales más confiables. Tendrá que tener en cuenta los diferentes productos que pueden requerir un cuidado diferente. Las placas de cerámica pueden agrietarse o romperse si se caen. El material "Kevlar" (fibra artificial, ligera, robusta y con resistencia al calor) puede deteriorarse si se moja. El sudor humano puede degradar el Kevlar y otros productos. El chaleco antibalas usado debe ser examinado con mucho cuidado en busca de signos de desgaste o debilitamiento de la fibra. Todas las armaduras para el cuerpo deberá almacenarse adecuadamente y se inspeccionarán periódicamente.

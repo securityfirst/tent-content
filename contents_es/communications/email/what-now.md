@@ -1,18 +1,21 @@
 [Title]: # (¿Y ahora qué?)
-[Difficulty]: # (Principiante)
-[Order]: # (0)
+[Difficulty]: # (Avanzado)
+[Order]: # (5)
 
-Desliza el dedo hacia la derecha para ver la lista de comprobación de esta lección.
+Deslice hacia la derecha para ver la lista de comprobación de esta lección
 
-Vaya a la lección Avanzada para obtener consejos sobre cómo enviar correos electrónicos cifrados para obtener información confidencial.
-[Ir a la lección avanzada](umbrella://lesson/email/1)
+Ir a la lección de Principiante para recibir consejo sobre cómo mejorar la seguridad básica del correo electrónico y conocer si mi correo electrónico ha sido hackeado.
 
-### LECCIONES / HERRAMIENTAS RELACIONADAS
+[Ir a la lección de Principiante](umbrella://lesson/email/0)
 
-*   [Lección de malware] (umbrella://lesson/protecting-files)
-*   [lección de internet](umbrella://lesson/the-internet)
-*   [Lección de contraseñas] (umbrella://lesson/passwords)
+### HERRAMIENTAS/LECCIONES RELACIONADAS
 
-### OTRAS LECTURAS
+*   [Lección sobre Internet](umbrella://lesson/the-internet)
+*   [Herramienta PGP para Mac OSX](umbrella://lesson/pgp-for-mac-os-x)
+*   [Herramienta PGP para Windows](umbrella://lesson/pgp-for-windows)
+*   [Herramienta PGP para Linux](umbrella://lesson/pgp-for-linux)
+*   [Herramientas K9 y APG](umbrella://lesson/k9-&-apg)
 
-*   [Seguridad en una caja - Guía de comunicación segura] (https://securityinabox.org/en/guide/secure-communication)
+### LECTURA ADICIONAL
+
+*   [EFF - Una Introducción a la Criptografía de Llave Pública y PGP](https://ssd.eff.org/es/module/una-introducción-la-criptografía-de-llave-pública-y-pgp)

@@ -1,57 +1,40 @@
 [Title]: # (Efectos)
-[Difficulty]: # (Principiante)
-[Order]: # (0)
+[Difficulty]: # (Avanzado)
+[Order]: # (1)
 
-# Efectos 
+# Efectos
 
-Hay un amplio rango de posibles síntomas de estrés negativo, y la gente difiere en lo que se refiere a los síntomas que exhiben.
+En el momento en el que ocurre un evento traumático, la persona que lo experimenta podría sentirse limitado e incapaz de responder.
 
+Luego de un evento traumático, es común que la gente se sienta sorprendida, aturdida, o incapaz de procesar sus propios sentimientos.
 
-*   Extenuación
-*   Hiperactividad
-*   Dificultades para dormir o sueño excesivo
-*   Ligeros síntomas tipo-gripe
-*   Dolores de cabeza
-*   Presión sanguínea y pulsaciones elevadas
-*   Nauseas o vómitos
+Durante varias horas o días, el estado de shock y la negación desaparecen poco a poco, y otros pensamientos y sentimientos toman su lugar.
 
-Los síntomas conductuales pueden incluir:
+Todas las personas reaccionan de manera diferente al momento de asumir lo ocurrido tras evento traumático. Aun así, pueden ser sorprendidos por la fuerza de sus sentimientos. Es normal experimentar una mezcla de sentimientos.
 
-*   Evitar el contacto y las relaciones sociales genuinas
-*   Abuso de sustancias (cafeina/ alcohol/ drogas)
-*   Una serie de relaciones románticas/sexuales breves y casuales
-*   Toma de riesgos
-*   Síndrome de abstinencia
-*   Irritabilidad o tendencia constante a la disputa
-*   Agresión
+Puede sentir:
 
-Los síntomas relativos al trabajo pueden incluir:
+*   **temor** - que lo mismo va a suceder de nuevo, o que podría perder el control de sus acciones y .
+*   **Indefenso** que algo realmente malo sucedió y que no podía hacer nada al respecto.
+*   **Enojado** acerca de lo que ha pasado y con el que era responsable.
+*   **Culpable** por que ha sobrevivido cuando otros han sufrido o muerto
+*   **Triste** sobre todo si las personas fueron heridos o muertos, en particular con alguien que conocia
+*   **Avergonzado o incómodo** tiene reacciones fuertes que no puede controlar, especialmente cuando usted necesita de otros para apoyarlo.
+*   **Aliviado** el peligro ya paso
+*   **Esperanzado** su vida volverá a la normalidad. Las personas pueden empezar a sentirse más objetivos sobre las cosas luego de un trauma.
 
-*   Alargar mucho el horario de trabajo
-*   Retrasos y ausentismo
-*   Falta de concentración
-*   Bajo rendimiento
-*   Pérdida de perspectiva
-*   Obsesión con una idea, aunque esta sea vieja o inefectiva
-*   Deterioro en el juicio y el pensamiento lógico
-*   Reducción de la creatividad
-*   Deterioro de la comunicación
+Fuertes reacciones afectan su salud física. En las semanas posteriores a un trauma, por ello es posible que usted:
 
-Los efectos emocionales pueden incluir:
+*   No pueda dormir
+*   Se sienta muy cansado
+*   Tenga pesadillas
+*   Tenga poca concentración
+*   Tenga problemas de memoria
+*   Tenga dificultad para pensar con claridad
+*   Sufra de dolores de cabeza
+*   Experimente cambios de apetito
+*   Experimente cambios en el impulso sexual o libido
+*   Tenga dolores o molestias
+*   Sufra taticardia
 
-*   Baja moral
-*   Pesimismo y cinismo
-*   Ansiedad
-*   Culpabilidad
-*   Depresión
-*   Excitación/hiper-actividad
-*   Un sentimiento de poder e invulnerabilidad
-*   Identificación intensa con, O falta de compasión por, aquellos con los que trabaja
-*   Pesadillas o flashbacks
-*   Tendencia a evitar/reprimir pensamientos o sensaciones intensas
-*   Cuestionamiento de los aspectos principales de la vida
-
-
-
-
-Participar en algunos de estos tipos de comportamientos son riesgos de seguridad, para y de, ellos mismos, así que es muy importante para ambos, los individuos afectados y su organización que esto sea tratado adecuadamente.
+Puede tomar semanas para que algunas de estas reacciones y síntomas pasen. Recuerde que estas son reacciones normales a situaciones extremas; no son síntomas de que es débil o enfermo.

@@ -1,16 +1,25 @@
 [Title]: # (¿Y ahora qué?)
-[Difficulty]: # (Experto)
-[Order]: # (0)
+[Difficulty]: # (Principiante)
+[Order]: # (8)
 
-Deslice a la derecha para ir a la lista de chequeo de esta lección
+Haga un barrido a la derecha para ver la lista de comprobación de esta lección
 
-Ir a la lección de nivel Principiante para recomendaciones sobre los peligros de usar teléfonos móviles.
-[Ir a la lección Principiante](umbrella://lesson/mobile-phones/0)
+Vaya a la lección Experto para recibir consejo sobre cómo rootear y cifrar su teléfono.
+
+[Ir a la lección Experto](umbrella://lesson/mobile-phones/2)
 
 ### LECCIONES/HERRAMIENTAS RELACIONADAS
 
-*   [Guía de herramienta: APG](umbrella://lesson/k9-&-apg)
+*   [Lección Realizar una Llamada](umbrella://lesson/making-a-call)
+*   [Lección Enviar un Mensaje](umbrella://lesson/sending-a-message)
+*   [Lección Hacer Copia de Seguridad](umbrella://lesson/backing-up)
+*   [Lección Borrado Seguro](umbrella://lesson/safely-deleting)
+*   [Lección Malware](umbrella://lesson/malware)
+*   [Herramienta ObscuraCam](umbrella://lesson/obscuracam)
+*   [Configuración de Seguridad Básica para Android](umbrella://lesson/android)
 
-### LECTURAS COMPLEMENTARIAS
+### LECTURAS ADICIONALES
 
-*   [Security in a Box: Capítulo 10, Utilizar los teléfonos móviles de la manera más segura posible](https://securityinabox.org/es/guide/mobile-phones/)
+*   [Security in a Box ? Capítulo 10, Usar los teléfonos móviles de forma tan segura como sea posible](https://securityinabox.org/en/guide/mobile-phones)
+*   [Security in a Box ? Capítulo 11, Usar los smartphones de forma tan segura como sea posible](https://securityinabox.org/en/guide/smartphones)
+*   [EFF - El problema con los teléfonos móviles](https://ssd.eff.org/en/module/problem-mobile-phones)
