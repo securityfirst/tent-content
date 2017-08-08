@@ -1,18 +1,19 @@
 [Title]: # (¿Y ahora qué?)
-[Difficulty]: # (Principiante)
-[Order]: # (0)
+[Difficulty]: # (Avanzado)
+[Order]: # (4)
 
-Swipe right for this lesson's checklist
+Deslice a la derecha para la Lista de Comprobación de lecciones
 
-Go to the Advanced Lesson for advice on how to deal with traumatic stress.
+Ir a la lección para principiantes para el asesoramiento sobre cómo lidiar con el estrés crónico.
 
-[Go to Advanced Lesson](umbrella://lesson/stress/1)
+[Ir la Lección para Principiantes](umbrella://lesson/stress/0)
 
-Go to the Expert Lesson for advice on how to deal with post-traumatic stress.
+Ir a la lección para expertos Asesoramiento sobre la forma de lidiar con el estrés post-traumático.
 
-[Go to Expert Lesson](umbrella://lesson/stress/2)
+[Ir a la Lección para Expertos](umbrella://lesson/stress/2)
 
-### FURTHER READINGS
+### LECTURAS
 
-*   [Good Practice Review Number 8: Operational security management in violent environments (Revised Ed.)](www.odihpn.org/download/gpr_8_revised2pdf)
-*   [CARE International: Safety & Security Handbook](ngolearning.org/courses/availablecourses/CARE%20Safety%20Course/Shared%20Documents/English_CARE_International_Safety_and_Security_Handbook.pdf)
+*   [Buenas Prácticas de Revisión Número 8: gestión de la seguridad operacional en entornos violentos (Revised Ed.)](https://www.odihpn.org/download/gpr_8_revised2pdf)
+*   [ECHO Guía genérica para Organizaciones humanitarias](http://ec.europa.eu/echo/files/evaluation/watsan2005/annex_files/ECHO/ECHO12%20-%20echo_generic_security_guide_en.doc)
+*   [Protección Internacional: Nuevo Manual de Protección para Defensores de Derechos Humanos (3rd Ed.)](http://protectioninternational.org/publication/new-protection-manual-for-human-rights-defenders-3rd-edition/)

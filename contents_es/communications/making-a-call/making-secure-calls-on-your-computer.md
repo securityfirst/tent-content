@@ -1,6 +1,6 @@
 [Title]: # (Realizar llamadas seguras en su computadora)
 [Difficulty]: # (Principiante)
-[Order]: # (0)
+[Order]: # (3)
 
 # Realizar llamadas seguras en su computadora
 
@@ -19,4 +19,5 @@ Aunque no podemos recomendar Skype como una herramienta de comunicación segura,
 *   Establezca la configuración de privacidad en Skype de forma que no conserve un historial de chats.
 *   Deshabilite la preferencia de Skype que acepta automáticamente ficheros entrantes, ya que ocasionalmente esto ha sido usado para introducir malware/spyware en computadoras.
 *   Verifique siempre de forma independiente la identidad de la persona con quien se está comunicando. Es más fácil hacer esto al realizar chat de voz, especialmente si conoce a la persona con la que quiere hablar.
-*   Decida si su nombre de usuario de Skype debe identificarle o si tiene alguna relación con su nombre real, o el nombre de su organización? Tenga cuidado con lo que dice - desarrolle un sistema de código para discutir temas sensibles sin usar terminología específica.
+*   Decida si su nombre de usuario de Skype debe identificarle o si tiene alguna relación con su nombre real, o el nombre de su organización
+    ? Tenga cuidado con lo que dice - desarrolle un sistema de código para discutir temas sensibles sin usar terminología específica.

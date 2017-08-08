@@ -1,33 +1,53 @@
-[Title]: # (¿Cómo se ven los vigilantes?)
-[Difficulty]: # (Experto)
-[Order]: # (0)
+[Title]: # (¿En qué debo firjarme?)
+[Difficulty]: # (Avanzado)
+[Order]: # (1)
 
-# Para saber cómo hacer contravigilancia cuando anda a pie diríjase a la lección nivel Avanzado.
+h1>Cómo se ven los vigilantes?
 
-Hay algunos indicadores de que se está usando un vehículo para vigilarle.
+Hay algunos indicadores de que una persona está haciendo seguimientos a pie.
 
-Esté atenta a:
+Preste atención a:
 
-*   Vehículos comunes en el área – un equipo de vigilancia procurará usar los vehículos menos notables de acuerdo con las circunstancias
-*   Antenas extrañas
-*   Portaequipajes modificados
-*   Accesorios del automóvil – mapas, radios, GPS, binoculares, cámaras, etc.
-*   Basura dentro del automóvil
-*   Estacionamiento que permita una salida rápida
-*   Ventanas un poco abiertas
-*   Espacio de almacenamiento modificado
-*   Una o máximo dos personas en un vehículo
-*   Radio operador usando una radio
-*   Dos personas dentro del vehículo hablando cada una por su lado
-*   Motor encendido innecesariamente
-*   Luces de freno encendidas cuando el vehículo está estacionado.
-*   No olvide taxis y vehículos lujosos.
+*   Ropa ancha o suelta
+*   Ropa deportiva o para actividades al aire libre
+*   Relojes deportivos tipo militar
+*   Conmutadores de radio en la muñeca
+*   Audífonos cableados o inalámbricos
+*   Calzado cómodo
 
-**Identificar equipos**  
+Los equipos de vigilancia emplean personas que no despiertan tanta suspicacia:
 
-Si logra identificar un potencial miembro del equipo de vigilancia puede aprovechar ese conocimiento para identificar otros miembros. Uno de ellos puede señalar la presencia de otros:
+*   Mujeres
+*   Parejas o grupos
+*   Vestimentas costosas
+*   Personas con apariencia joven o vieja
+*   Deportistas
+*   Mendigos
+*   Empleados de hotel o jardineros
+*   Obreros
+*   Uniformes comerciales (por ejemplo, el de la compañía de electricidad)
+*   minorías
+*   Personas con cochecitos de bebé, perros o bolsas
 
-*   Dirigiendo la mirada hacia ellos
-*   Usando señales manuales
-*   Estacionando el vehículo o deteniéndose en el mismo lugar (por ejemplo, cuando hacen un relevo)
-*   Por poca disciplina, hacer ejercicio, aburrimiento o estacionar los vehículos cerca para tener una conversación innecesaria.
+Algunas señas de que alguien está haciendo un seguimiento a pie:
+
+*   Acomodar elementos personales
+*   Tocar sus audífonos
+*   Hablar hacia sus micrófonos
+*   Ojos vidriosos
+*   Comportamientos o maneras extrañas
+*   Evitar la mirada del objetivo
+*   Mirar a la vuelta de la esquina o a través de ventanas
+*   Imitar comportamientos
+*   Detenerse en lugares extraños
+
+**Identificar equipos**
+
+Si puede identificar un potencial miembro de un equipo de vigilancia, puede usar esa información para identificar otros. Un agente podría descubrir otros:
+
+*   Hablándoles directamente
+*   Haciendo contacto visual
+*   Haciendo señas con las manos
+*   Por tener una apariencia similar
+
+![image](surveillance3.png)

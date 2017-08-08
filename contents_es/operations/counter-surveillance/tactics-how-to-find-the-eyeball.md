@@ -1,6 +1,6 @@
-[Title]: # (Tácticas: cómo descubrir al oteador)
+[Title]: # (Tácticas: Cómo descubrir al oteador)
 [Difficulty]: # (Experto)
-[Order]: # (0)
+[Order]: # (20)
 
 # Tácticas: cómo descubrir al oteador
 

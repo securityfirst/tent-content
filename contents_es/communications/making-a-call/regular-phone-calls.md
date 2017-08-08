@@ -2,10 +2,12 @@
 [Difficulty]: # (Principiante)
 [Order]: # (0)
 
-# Llamadas telefónicas regulares
+# Llamadas telefónicas normales
 
-Cuando haces una llamada por un teléfono fijo o celular, esta llamada no está cifrada de extremo a extremo. Si estás utilizando un teléfono móvil, la llamada puede estar cifrada debilmente entre el dispositivo y las torres de telefonía. Sin embargo, a medida que la conversación viaja por la red telefónica, es vulnerable de ser interceptada por tu compañia telefónica y, por extensión, por cualquier gobierno u organizaciones con poder sobre esta. También existen tecnicas económicas con las cuales otras personas pudieran escuchar tus llamadas si están cerca de tu teléfono.
+Cuando realiza una llamada desde una línea terrestre o un teléfono móvil, su llamada no se cifra de extremo-a-extremo. Si está usando un teléfono móvil, su llamada puede ser cifrada débilmente entre su terminal y las antenas de telefonía celular. Sin embargo, como su conversación viaja a través de la red telefonía, es vulnerable a la intercepción por parte de su compañía, y por extensión, por parte de cualquier gobierno u organización que tenga poder sobre su compañía telefónica. También hay técnicas de bajo coste que otras personas pueden usar para escuchar sus llamadas si están cerca de su teléfono.
+
 ![image](call1.png)
 
-_Las llamadas telefónicas regulares desde y hacia tu teléfono celular no son seguras._
+_Las llamadas telefónicas normales hacia o desde su teléfono móvil no son seguras._
+
 ![image](msg1.png)

@@ -1,15 +1,17 @@
 [Title]: # (¿Y ahora qué?)
-[Difficulty]: # (Experto)
-[Order]: # (0)
+[Difficulty]: # (Avanzado)
+[Order]: # (10)
 
-Swipe right for this lesson's checklist
+Haga un gesto de barrido a la derecha para ver la lista de comprobación de esta lección
 
-Go to the Beginner Lesson for advice on how to identify and deal with surveillance of your office.
-[Go to Beginner Lesson](umbrella://lesson/counter-surveillance/1)
+Vaya a la Lección Principiante para recibir consejo sobre cómo identificar y tratar con la vigilancia en su oficina.
 
-Go to the Advanced Lesson for advice on how to practice counter-surveillance when you are out on foot.
-[Go to Advanced Lesson](umbrella://lesson/counter-surveillance/2)
+[Ir a la Lección Principiante](umbrella://lesson/counter-surveillance/1)
 
-### RELATED LESSONS/TOOLS
+Vaya a la Lección Experto para recibir consejo sobre cómo practicar la contra-vigilancia cuando se encuentre fuera en un vehículo.
 
-*   [Meetings](umbrella://lesson/meetings)
+[Ir a la Lección Experto](umbrella://lesson/counter-surveillance/3)
+
+### HERRAMIENTAS/LECCIONES RELACIONADAS
+
+*   [Reuniones](umbrella://lesson/meetings)

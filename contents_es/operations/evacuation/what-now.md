@@ -1,19 +1,17 @@
 [Title]: # (¿Y ahora qué?)
 [Difficulty]: # (Principiante)
-[Order]: # (0)
+[Order]: # (6)
 
-Haga un gesto de barrido a la derecha para ver la lista de comprobación de esta lección
+Deslice hacia la derecha para Lista de Comprobación de Lecciones
 
-### LECCIONES/HERRAMIENTAS RELACIONADAS
+### LECCIONES RELACIONADAS/HERRAMIENTAS
 
-*   [Lección de Realización de Copias de Seguridad](umbrella://lesson/backing-up)
-*   [Leccion de Borrado Seguro](umbrella://lesson/safely-deleting)
-*   [Lección de Equipo Protector](umbrella://lesson/protective-equipment)
-*   [Lección de Estrés](umbrella://lesson/stress)
+*   [Lección sobre Respado de Información](umbrella://lesson/backing-up)
+*   [Lección sobre Borrado Seguro](umbrella://lesson/safely-deleting)
+*   [Lección sobre Protección de Equipamiento](umbrella://lesson/protective-equipment)
+*   [Stress lesson](umbrella://lesson/stress)
 
-
-
-### FURTHER READING
+### OTRAS LECTURAS
 
 *   ECHO Generic Security Guide for Humanitarian Organisations
 *   Good Practice Review Number 8: Operational security management in violent environments (Revised Ed.)

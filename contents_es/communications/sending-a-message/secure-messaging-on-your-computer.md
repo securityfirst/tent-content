@@ -1,16 +1,16 @@
 [Title]: # (Mensajería segura en su computadora)
 [Difficulty]: # (Principiante)
-[Order]: # (0)
+[Order]: # (4)
 
 # Mensajería segura en su computadora
 
 ## Pidgin
 
-En lugar de usar Skype, Google Talk o MSN Messenger para enviar mensajes en su computadora, le recomendamos que en su lugar use Pidgin, una herramienta segura y gratuita de código abierto.
+En lugar de usar Skype, Google Talk o MSN Messenger para enviar mensajes en su computadora, le recomendamos que en su lugar use Pidgin, la herramienta segura y gratuita de código abierto.
 
-Pidgin es un programa de chat que le permite iniciar sesión en múltiples cuentas de diferentes redes de chat simultáneamente. Esto significa que puede estar chateando con amigos en MSN, hablar con un amigo en Google Talk, y quedarse en una sala de chat de Yahoo, todo al mismo tiempo. Pidgin es compatible con Windows, Linux, y otros sistemas operativos UNIX. 
+Pidgin es un programa de chat que le permite iniciar sesión en múltiples cuentas de diferentes redes de chat simultáneamente. Esto significa que puede estar chateando con amigos en MSN, hablar con un amigo en Google Talk, y quedarse en una sala de chat de Yahoo, todo al mismo tiempo. Pidgin se ejecuta sobre Windows, Linux, y otros sistemas operativos UNIX.
 
-Pidgin soporta muchas características de estas redes de chat, como transferencias de archivos, mensajes automatizados de ausencia, emoticonos, y  notificaciones personalizadas.
+Pidgin soporta muchas características de estas redes de chat, como transferencias de ficheros, mensajes de ausencia, emoticonos, y notificaciones personalizadas.
 
 ## Adium
 

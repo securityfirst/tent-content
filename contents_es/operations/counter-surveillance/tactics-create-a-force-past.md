@@ -1,6 +1,6 @@
 [Title]: # (Tácticas: Propice un sobrepaso obligado)
 [Difficulty]: # (Avanzado)
-[Order]: # (0)
+[Order]: # (6)
 
 # Tácticas: Propice un sobrepaso obligado
 

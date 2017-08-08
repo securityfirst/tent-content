@@ -1,12 +1,12 @@
 [Title]: # (Vigilancia)
 [Difficulty]: # (Principiante)
-[Order]: # (0)
+[Order]: # (11)
 
 # Vigilancia
 
 La vigilancia es la monitorización de comportamientos, actividades y otros patrones de las personas con el objetivo de protegerlas o dañarlas, influenciarlas, dirigirlas o controlarlas.
 
-![](surveillance1.png)
+![image](surveillance1.png)
 
 **Por qué alguien podría estar interesado en vigilarle físicamente?**
 
@@ -23,5 +23,5 @@ La vigilancia es la monitorización de comportamientos, actividades y otros patr
 *   Criminales
 *   Terroristas
 *   Contratistas privados (mercenarios)
-*   Oficiales de embajadas de países ?simpatizantes?
+*   Oficiales de embajadas de países simpatizantes?
 *   Individuos (posiblemente en desacuerdo con su organización)

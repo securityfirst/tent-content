@@ -1,6 +1,6 @@
 [Title]: # (Llegar a una reunión)
 [Difficulty]: # (Principiante)
-[Order]: # (0)
+[Order]: # (3)
 
 Si es posible, debería quitar las baterías de los teléfonos antes de viajar al lugar de la reunión, con el fin de evitar el seguimiento a distancia. (Vea la lección de teléfonos móviles para obtener más consejos sobre la mitigación de los riesgos de los teléfonos).
 

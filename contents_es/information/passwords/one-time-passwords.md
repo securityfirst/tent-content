@@ -1,6 +1,6 @@
-[Title]: # (One-time passwords)
+[Title]: # (Contraseñas de un solo uso)
 [Difficulty]: # (Avanzado)
-[Order]: # (0)
+[Order]: # (3)
 
 # One-time passwords
 
@@ -8,4 +8,4 @@ Some services, such as Google, also allow you to generate a list of one-time pas
 
 There is no way to do this by yourself if you're using a service that doesn't offer it.
 
-If you or your organization runs your own communications infrastructure, such as your own e-mail servers, there's freely available software that can be used to enable two-step authentication for accessing your systems. Ask your systems administrators to look for software offering an implementations of the open standard ?Time-Based One-Time Passwords? or RFC 6238.
+If you or your organization runs your own communications infrastructure, such as your own e-mail servers, there's freely available software that can be used to enable two-step authentication for accessing your systems. Ask your systems administrators to look for software offering an implementations of the open standard "Time-Based One-Time Passwords" or RFC 6238.

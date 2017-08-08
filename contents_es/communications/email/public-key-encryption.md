@@ -1,6 +1,6 @@
 [Title]: # (Cifrado de clave pública)
 [Difficulty]: # (Avanzado)
-[Order]: # (0)
+[Order]: # (1)
 
 PGP se basa en el concepto de cifrado de clave pública. Este es un sistema criptográfico que usa dos claves - una clave pública conocida por cualquiera y una clave privada conocida sólo por el destinatario del mensaje. Cuando Juan quiere enviar un mensaje seguro a Alicia, él usa la clave pública de Alicia para cifrar el mensaje. Luego Alicia usa su propia clave privada para descifrarlo.
 

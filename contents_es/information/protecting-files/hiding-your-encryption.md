@@ -1,10 +1,8 @@
-[Title]: # (Hiding your encryption)
+[Title]: # (Ocultando tu cifrado)
 [Difficulty]: # (Avanzado)
-[Order]: # (0)
+[Order]: # (3)
 
-# Hiding your encryption
-
-If you are concerned about encryption software being found on your computer regardless of what?s in it, there are a few tricks to help disguise VeraCrypt.
-
-*   You can rename your encrypted volume to look like a different type of file. Using the '.iso' file extension, to disguise it as a CD image, is one option that works well for large volumes of around 700 MB. Other extensions would be more realistic for smaller volumes.
-*   You can also rename the VeraCrypt program itself, assuming you have stored it as you would a regular file, rather than installing it as a program. The [VeraCrypt Guide](umbrella://lesson/truecrypt) explains how to do this.
+# Ocultar su cifrado
+i le preocupa que el software de cifrado se encuentre en su computadora, independientemente de lo que contenga, hay algunos trucos para ayudar a disfrazar VeraCrypt. 
+Puede cambiar el nombre de su volumen cifrado para que parezca un Tipo diferente de archivo. El uso de la extensión de archivo '.iso', para disfrazarla como una imagen de CD, es una opción que funciona bien para grandes volúmenes de alrededor de 700 MB. Otras extensiones serían más realistas para volúmenes más pequeños.  
+También puede cambiar el nombre del programa VeraCrypt, suponiendo que lo haya almacenado como si fuera un archivo normal, en lugar de instalarlo como un programa. La [Guía de VeraCrypt] (umbrella://lesson/veracrypt) explica cómo hacerlo.

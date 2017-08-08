@@ -10,4 +10,4 @@ Si necesita usar el SMS para algo, considere establecer un sistema de código en
 
 Los mensajes guardados en su teléfono pueden ser fácilmente accedidos por cualquiera que eche mano a su teléfono, así que considere borrar todos los mensajes recibidos y enviados enseguida.
 
-_Los mensajes SMS regulares hacia o desde su teléfono móvil no son seguros._ 
+_Los mensajes SMS regulares hacia o desde su teléfono móvil no son seguros._

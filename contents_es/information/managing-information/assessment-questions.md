@@ -1,27 +1,10 @@
-[Title]: # (Assessment questions)
+[Title]: # (Preguntas de diagnóstico)
 [Difficulty]: # (Principiante)
-[Order]: # (0)
+[Order]: # (2)
 
-# Assessment questions
-
-When carrying out an assessment, there are five main questions you should ask yourself:
-
-## 1. What do you want to protect?
-
-What information could put you, your work or others at risk if were public? This is often the kind of information kept in your emails, contact lists, messages and files. It might relate to a specific sensitive campaign you are working on.
-
-## 2. Who do you want to protect it from?
-
-This could be any person or entity that poses a threat against an your or your work, also known as an adversary. Think about who would have a motive in reading or deleting your information or disrupting your work. Examples could be a government, a company you are exposing, your boss, or a hacker.
-
-## 3. How likely is it that you will need to protect it?
-
-It is important to distinguish between threats and risks. While a threat is a bad thing that can happen, risk is the likelihood that the threat will occur. Calculating risk means figuring out the chance that a threat might actually occur ? how likely is it that a threat would be carried out? You also need to think about the capability of potential attackers. For example, your mobile phone provider has access to all of your phone records and therefore has the capability to use or share that data. A hacker on an open Wi-Fi network can access your unencrypted communications. A government might have stronger capabilities.
-
-## 4. How bad are the consequences if you fail?
-
-The motives of adversaries differ widely, as do their attacks. A company trying to prevent the spread of a video showing their illegal activity may simply want to delete the video, whereas a government may wish to gain access to the names/details of activists it sees as a threat to the state in order to arrest or harass them.
-
-## 5. How much trouble are you willing to go through in order to try to prevent those?
-
-This means figuring out which threats you are going to take seriously, and which may be too rare or too harmless (or too difficult to combat) to worry about. Many people find certain threats unacceptable no matter what the risk, because the presence of the threat at any likelihood is not worth the cost. In other cases, people disregard high risks because they don't view the threat as a problem.
+# Preguntas de evaluación
+uando realice una evaluación, hay cinco preguntas principales que debe hacerse:1 ¿Qué quieres proteger?¿Qué información podría poner a usted, a su trabajo oa otros en riesgo si fueran públicos? Esto es a menudo el tipo de información guardada en sus correos electrónicos, listas de contactos, mensajes y archivos. Puede estar relacionado con una campaña específica específica en la que está trabajando.
+# 2. ¿De quién quieres protegerlo?Esto podría ser cualquier persona o entidad que represente una amenaza contra su o su trabajo, también conocido como un adversario. Piense en quién tendría un motivo para leer o borrar su información o para interrumpir su trabajo. Ejemplos podrían ser un gobierno, una empresa que está exponiendo, su jefe o un hacker.
+# 3. ¿Qué tan probable es que necesite protegerlo?Es importante distinguir entre amenazas y riesgos. Si bien una amenaza es algo malo que puede suceder, el riesgo es la probabilidad de que ocurra la amenaza. ¿Calcular el riesgo significa calcular la posibilidad de que una amenaza pueda ocurrir realmente? ¿Qué tan probable es que se lleve a cabo una amenaza? También es necesario pensar en la capacidad de los atacantes potenciales. Por ejemplo, su proveedor de telefonía móvil tiene acceso a todos sus registros telefónicos y por lo tanto tiene la capacidad de usar o compartir esos datos. Un hacker en una red Wi-Fi abierta puede acceder a sus comunicaciones sin cifrar. Un gobierno podría tener capacidades más fuertes.
+# 4. ¿Cuán malas son las consecuencias si fallas?Los motivos de los adversarios difieren mucho, al igual que sus ataques. Una empresa que intenta impedir la propagación de un video que muestre su actividad ilegal puede simplemente querer borrar el video, mientras que un gobierno tal vez desee acceder a los nombres y detalles de los activistas que ve como una amenaza para el Estado para detener o Acosarlos
+#. ¿Cuántos problemas estás dispuesto a hacer para intentar prevenirlos?Esto significa averiguar qué amenazas se van a tomar en serio y cuáles pueden ser demasiado raras o demasiado inofensivas (o demasiado difíciles de combatir) para preocuparse. Mucha gente encuentra ciertas amenazas inaceptables sin importar el riesgo, porque la presencia de la amenaza en cualquier probabilidad no vale la pena el costo. En otros casos, las personas no tienen en cuenta los riesgos elevados porque no ven la amenaza como un problema.

@@ -1,5 +1,5 @@
-[Title]: # (PGP para Windows)
-[Difficulty]: # ()
+[Title]: # ()
+[Difficulty]: # (Principiante)
 [Order]: # (0)
 
 # PGP FOR WINDOWS PC TOOL GUIDE
@@ -8,28 +8,28 @@
 Encrypted email for Windows
 
 **Lesson to read:   
-? [Email](umbrella://lesson/email)**  
+- [Email](umbrella://lesson/email)**  
 **Download Location:**   
-? GPG4Win  
-? Mozilla Thunderbird  
-? Enigmail  
-**Computer requirements:** An internet connection, a computer running Mac OS X, an email account  
-**Version used in this guide:**  
-? Windows: Windows 7 Ultimate  
-? Mozilla Thunderbird 24.6.0  
-? Enigmail 1.7  
-? GPG4Win 2.2.1  
-**License:** Free Software; mix of Free Software licenses  
-**Level:** Advanced  
-**Time required:** 30-60 minutes
+- GPG4Win  
+- Mozilla Thunderbird  
+- Enigmail  
+**Computer requirements:** An internet connection, a computer running Mac OS X, an email account  
+**Version used in this guide:**   
+- Windows: Windows 7 Ultimate  
+- Mozilla Thunderbird 24.6.0  
+- Enigmail 1.7  
+- GPG4Win 2.2.1  
+**License:** Free Software; mix of Free Software licenses  
+**Level:** Advanced  
+**Time required:** 30-60 minutes
 
 **Using PGP will give you:**  
-? The ability to protect your email communications from being read by anyone except their intended recipients.  
-? The ability to prove that an email came from a particular person, instead of being a fake message sent by another sender (it is otherwise very easy for email to be fabricated). Both of these are important defenses if you're being targeted for surveillance or misinformation.
+- The ability to protect your email communications from being read by anyone except their intended recipients.  
+- The ability to prove that an email came from a particular person, instead of being a fake message sent by another sender (it is otherwise very easy for email to be fabricated). Both of these are important defenses if you're being targeted for surveillance or misinformation.
 
 ### 1.0 Before you start 
 
-To use Pretty Good Privacy (PGP), you will need to install some extra software that will work with your current email program. You will also need to create a private key, which you will keep private. The private key is what you will use to decrypt emails sent to you, and to digitally sign emails that you send to show they truly came from you. Finally, you'll learn how to distribute your public key?a small chunk of information that others will need to know before they can send you encrypted mail, and that they can use to verify emails you send.
+To use Pretty Good Privacy (PGP), you will need to install some extra software that will work with your current email program. You will also need to create a private key, which you will keep private. The private key is what you will use to decrypt emails sent to you, and to digitally sign emails that you send to show they truly came from you. Finally, you'll learn how to distribute your public key-a small chunk of information that others will need to know before they can send you encrypted mail, and that they can use to verify emails you send.
 
 **Note that both ends of the email conversation need to be using PGP-compatible software for it to work.**
 
@@ -39,15 +39,15 @@ People will normally use this only on their own personal devices, not on shared 
 
 To use PGP to exchange secure emails you have to bring together three programs: GPG4Win (GNU Privacy Guard for Windows known as GnuPG), Mozilla Thunderbird and Enigmail. 
 
-? GnuPG is the program that actually encrypts and decrypts the content of your mail.  
-? Mozilla Thunderbird is an email client that allows you to read and write emails without using a browser.  
-? Enigmail is an add-on to Mozilla Thunderbird that ties it all together.
+- GnuPG is the program that actually encrypts and decrypts the content of your mail.  
+- Mozilla Thunderbird is an email client that allows you to read and write emails without using a browser.  
+- Enigmail is an add-on to Mozilla Thunderbird that ties it all together.
 
 Note! What this guide teaches is how to use PGP with Mozilla Thunderbird, an email client program that performs a similar function to Outlook. You may have your own favorite email software program (or use a web mail service like Google Mail or Outlook.com). This guide won't tell you how to use PGP with these programs. You can choose either to install Thunderbird and experiment with PGP with a new email client, or you can investigate other solutions to use PGP with your customary software. We have still not found a satisfactory solution for these other programs.
 
 **Using PGP doesn't completely encrypt your email: the sender and receiver information is still unencrypted and so is the subject line!**
 
-Encrypting the sender and receiver information isn?t possible in the existing email system. What using Mozilla Thunderbird with the Enigmail add-on gives you is an easy way to encrypt the content of your email. Someone spying on your emails may still see the identities of the people you communicate with and when you email them.
+Encrypting the sender and receiver information isn't possible in the existing email system. What using Mozilla Thunderbird with the Enigmail add-on gives you is an easy way to encrypt the content of your email. Someone spying on your emails may still see the identities of the people you communicate with and when you email them.
 
 You will first download all the software needed, install it, and then end with configuration and usage.
 
@@ -60,25 +60,25 @@ You can get GnuPG (also known as GPG) on Windows by downloading the small instal
 
 Click on the most recent version of GPG4Win with GnuPG component only (Vanilla or Light) to download the GPG installer.
 
-**Note: This version of GPG is available only on a web site that offers ?http? downloads, not secure ?https? downloads. If you are concerned that you may be targeted for surveillance by an organization that can tamper with your Internet connection, you may want to investigate more drastic solutions, such as downloading and running Tails, a secure operating system that replaces Windows.**
+**Note: This version of GPG is available only on a web site that offers "http" downloads, not secure "https" downloads. If you are concerned that you may be targeted for surveillance by an organization that can tamper with your Internet connection, you may want to investigate more drastic solutions, such as downloading and running Tails, a secure operating system that replaces Windows.**
 
 Many browsers will ask you to confirm whether you want to download this file. Internet Explorer 11 shows a bar at the bottom of the browser window with an orange border.
 
-For any browser it is best to first save the file before proceeding, so _click the ?Save? button_. By default, most browsers save downloaded files in the Downloads folder.
+For any browser it is best to first save the file before proceeding, so _click the "Save" button_. By default, most browsers save downloaded files in the Downloads folder.
 
 ### 2.2 Getting Mozilla Thunderbird
 
 Go to the Mozilla Thunderbird website.
 ![image](tool_pgpwin2.png)
 
-Click on the green button labelled ?Thunderbird Free Download.?
+Click on the green button labelled "Thunderbird Free Download."
 
-The Mozilla Thunderbird website will have detected your preferred language. If you want to use Thunderbird in another language click on the ?Other Systems & Languages? link and make your selection from there.
+The Mozilla Thunderbird website will have detected your preferred language. If you want to use Thunderbird in another language click on the "Other Systems & Languages" link and make your selection from there.
 
 Many browsers will ask you to confirm if you want to download this file. Internet Explorer 11 shows a bar at the bottom of the browser window with an orange border.
 ![image](tool_pgpwin3.png)
 
-For any browser, it is best to first save the file before proceeding, so click the ?Save? button. By default, most browsers save downloaded files in the Downloads folder.
+For any browser, it is best to first save the file before proceeding, so click the "Save" button. By default, most browsers save downloaded files in the Downloads folder.
 
 ### 2.3 Getting Enigmail
 
@@ -87,7 +87,7 @@ You can get Enigmail from the Enigmail website.
 
 Many browsers will ask you to confirm if you want to download this file. Internet Explorer 11 shows a bar at the bottom of the browser window with an orange border.
 ![image](tool_pgpwin5.png)
-For any browser it is best to first save the file before proceeding, so click the ?Save? button. By default, most browsers save downloaded files in the Downloads folder.
+For any browser it is best to first save the file before proceeding, so click the "Save" button. By default, most browsers save downloaded files in the Downloads folder.
 
 
 After downloading Enigmail, GPG4Win, and Mozilla Thunderbird you should have three new files in your Downloads folder:
@@ -97,60 +97,60 @@ After downloading Enigmail, GPG4Win, and Mozilla Thunderbird you should have thr
 
 ### 3.1 Installing GPG4Win
 
-Keep the Windows Explorer window open and double-click on gpg4win-xxx-x.x.x.exe. You'll be asked if you want to allow the installation of this program. Click the ?Yes? button.
+Keep the Windows Explorer window open and double-click on gpg4win-xxx-x.x.x.exe. You'll be asked if you want to allow the installation of this program. Click the "Yes" button.
 ![image](tool_pgpwin7.png)
 
-A window will open, giving you an overview of what will be installed. Click the ?Next? button.
+A window will open, giving you an overview of what will be installed. Click the "Next" button.
 ![image](tool_pgpwin8.png)
 
-A window with the license agreement will open up. Click the ?Next? button.
+A window with the license agreement will open up. Click the "Next" button.
 ![image](tool_pgpwin9.png)
 
-The GPG4Win Vanilla package doesn't have components to select, so click the ?Next ?button again. For the GPG4Win-Light package, unselect all optional components to install GnuPG only.
+The GPG4Win Vanilla package doesn't have components to select, so click the "Next "button again. For the GPG4Win-Light package, unselect all optional components to install GnuPG only.
 ![image](tool_pgpwin10.png)
 
-Next, you'll have the ability to choose where GPG is installed. Don't change the default setting. Click the ?Next? button.
+Next, you'll have the ability to choose where GPG is installed. Don't change the default setting. Click the "Next" button.
 ![image](tool_pgpwin11.png)
 
-The next two windows will have some installation options. Click the ?Next? button and then click the "Install" button:
+The next two windows will have some installation options. Click the "Next" button and then click the "Install" button:
 ![image](tool_pgpwin12.png)![image](tool_pgpwin13.png)
 
-You will see a window with a progress bar?when it's done it will say ?Installation Complete.? Click the ?Next? button again.
+You will see a window with a progress bar-when it's done it will say "Installation Complete." Click the "Next" button again.
 ![image](tool_pgpwin14.png)
 
-Finally, you are at the last installation step. Remove the check mark next to ?Show the README file? and click the ?Finish? button.
+Finally, you are at the last installation step. Remove the check mark next to "Show the README file" and click the "Finish" button.
 ![image](tool_pgpwin15.png)
 
 That's it. Now let's move on to installing Mozilla Thunderbird.
 
 ### 3.2 Installing Mozilla Thunderbird
 
-Similar to GPG4Win, you install Mozilla Thunderbird by double-clicking the Thunderbird Setup 24.6.0.exe file. As usual, you will be asked if you want to run this file. Click the ?Run? button.
+Similar to GPG4Win, you install Mozilla Thunderbird by double-clicking the Thunderbird Setup 24.6.0.exe file. As usual, you will be asked if you want to run this file. Click the "Run" button.
 ![image](tool_pgpwin16.png)
 
-You will be asked if you want to allow Mozilla Thunderbird to make a change to your computer by installing software. Click the ?Yes? button.
+You will be asked if you want to allow Mozilla Thunderbird to make a change to your computer by installing software. Click the "Yes" button.
 ![image](tool_pgpwin17.png)
 
-You will see the Mozilla Thunderbird Setup window. Click the ?Next? button.
+You will see the Mozilla Thunderbird Setup window. Click the "Next" button.
 ![image](tool_pgpwin18.png)
 
-Next, you will get a choice between a Standard setup and a Custom setup. Keep the Standard setup selection and click the ?Next? button.
+Next, you will get a choice between a Standard setup and a Custom setup. Keep the Standard setup selection and click the "Next" button.
 ![image](tool_pgpwin18.png)
 
-You will be given a summary of where Mozilla Thunderbird's files will be installed. Click the ?Install? button.
+You will be given a summary of where Mozilla Thunderbird's files will be installed. Click the "Install" button.
 ![image](tool_pgpwin19.png)
 
-When the installation process is complete, you will see a final window that enables you to launch Mozilla Thunderbird. Click the ?Finish? button.
+When the installation process is complete, you will see a final window that enables you to launch Mozilla Thunderbird. Click the "Finish" button.
 ![image](tool_pgpwin20.png)
 
 ### 3.3. Enigmail installation
 
 **Step 1. Preparation** 
 
-When Mozilla Thunderbird launches for the first time, you will see this small confirmation window asking about some default settings. We recommend clicking the ?Set as Default? button.
+When Mozilla Thunderbird launches for the first time, you will see this small confirmation window asking about some default settings. We recommend clicking the "Set as Default" button.
 ![image](tool_pgpwin21.png)
 
-Next, you will be asked whether you would like a new email address. Click the ?Skip this and use my existing email? button. Now you will configure Mozilla Thunderbird to send and receive email. If you are used to only reading and sending email through gmail.com, outlook.com, or yahoo.com, Mozilla Thunderbird will be a new experience, but it isn't that different overall.
+Next, you will be asked whether you would like a new email address. Click the "Skip this and use my existing email" button. Now you will configure Mozilla Thunderbird to send and receive email. If you are used to only reading and sending email through gmail.com, outlook.com, or yahoo.com, Mozilla Thunderbird will be a new experience, but it isn't that different overall.
 ![image](tool_pgpwin22.png)
 
 **Step 2. Adding a mail account to Mozilla Thunderbird**
@@ -158,69 +158,69 @@ Next, you will be asked whether you would like a new email address. Click the ?S
 A new window will open.
 ![image](tool_pgpwin23.png)
 
-Enter your name, email address, and the password to your email account. Mozilla doesn't have access to your password or your email account. Click the ?Continue? button.
+Enter your name, email address, and the password to your email account. Mozilla doesn't have access to your password or your email account. Click the "Continue" button.
 ![image](tool_pgpwin24.png)
 
 In many cases Mozilla Thunderbird will automatically detect the necessary settings. In some cases Mozilla Thunderbird doesn't have complete information and you'll need to enter it yourself. Here is an example of the instructions Google provides for Gmail:
 
 Incoming Mail (IMAP) Server - Requires SSL  
-? imap.gmail.com  
-? Port: 993  
-? Requires SSL:Yes
+- imap.gmail.com  
+- Port: 993  
+- Requires SSL:Yes
 
 Outgoing Mail (SMTP) Server - Requires TLS  
-? smtp.gmail.com  
-? Port: 465 or 587  
-? Requires SSL: Yes  
-? Requires authentication: Yes  
-? Use same settings as incoming mail server
+- smtp.gmail.com  
+- Port: 465 or 587  
+- Requires SSL: Yes  
+- Requires authentication: Yes  
+- Use same settings as incoming mail server
 
 **Full Name or Display Name:** [your name or pseudonym]
 
-**Account Name or User Name:** your full Gmail address (username@gmail.com). Google Apps users, please enter username@your_domain.com
+**Account Name or User Name:** your full Gmail address (username@gmail.com). Google Apps users, please enter username@your_domain.com
 
-**Email address:** your full Gmail address (username@gmail.com) Google Apps users, please enter username@your_domain.com
+**Email address:** your full Gmail address (username@gmail.com) Google Apps users, please enter username@your_domain.com
 
 **Password:** your Gmail password
 
-**If you use two-factor authentication with Google (and depending on your threat model you probably should!) you cannot use your standard Gmail password with Thunderbird. Instead, you will need to create a new application-specific password for Thunderbird to access your Gmail account. See [Google's own guide](https://support.google.com/mail/answer/1173270?hl=en) for doing this.**
+**If you use two-factor authentication with Google (and depending on your threat model you probably should!) you cannot use your standard Gmail password with Thunderbird. Instead, you will need to create a new application-specific password for Thunderbird to access your Gmail account. See [Google's own guide](https://support.google.com/mail/answer/1173270?hl=en) for doing this.**
 
-When all the information is entered correctly, click the ?Done? button.
+When all the information is entered correctly, click the "Done" button.
 ![image](tool_pgpwin25.png)
 
 Mozilla Thunderbird will start downloading copies of your email to your computer. Try sending a test email to your friends.
 
 **Step 3. Installing Enigmail**
 
-Enigmail is installed in a different way from Mozilla Thunderbird and GPG4Win. As mentioned before, Enigmail is an Add-on for Mozilla Thunderbird. Click the ?Menu button,? also called the Hamburger button, and select ?Add Ons.?
+Enigmail is installed in a different way from Mozilla Thunderbird and GPG4Win. As mentioned before, Enigmail is an Add-on for Mozilla Thunderbird. Click the "Menu button," also called the Hamburger button, and select "Add Ons."
 ![image](tool_pgpwin26.png)
 
 You'll be taken to the Add-ons Manager tab.
 ![image](tool_pgpwin27.png)
 
-Click the cog to bring up a small menu and select ?Install add-on from file? which will bring up a file-selection window.
+Click the cog to bring up a small menu and select "Install add-on from file" which will bring up a file-selection window.
 ![image](tool_pgpwin28.png)
 
-The file selection window will very likely open to the Downloads folder. If it doesn't, go to the Downloads folder (where Enigmail was saved to) click on enigmail-1.7-tb+sm.xpi then click the ?Open? button.
+The file selection window will very likely open to the Downloads folder. If it doesn't, go to the Downloads folder (where Enigmail was saved to) click on enigmail-1.7-tb+sm.xpi then click the "Open" button.
 ![image](tool_pgpwin29.png)
 
-Now you will see a small window asking you to confirm whether you want to install Enigmail. Click the ?Install Now? button.
+Now you will see a small window asking you to confirm whether you want to install Enigmail. Click the "Install Now" button.
 ![image](tool_pgpwin30.png)
 
-After the Enigmail add-on is installed, Mozilla Thunderbird will ask to restart the browser to activate Enigmail. Click the ?Restart Now? button and Mozilla Thunderbird will restart.
+After the Enigmail add-on is installed, Mozilla Thunderbird will ask to restart the browser to activate Enigmail. Click the "Restart Now" button and Mozilla Thunderbird will restart.
 ![image](tool_pgpwin31.png)
 
-When Mozilla Thunderbird restarts, an additional window will open up that will start the process of setting up the Enigmail add-on. Keep the ?Yes, I would like the wizard to get me started? button selected and click the ?Next? button.
+When Mozilla Thunderbird restarts, an additional window will open up that will start the process of setting up the Enigmail add-on. Keep the "Yes, I would like the wizard to get me started" button selected and click the "Next" button.
 ![image](tool_pgpwin32.png)
 
-Enigmail provides you with three options for handling mail. The default option is to encrypt emails if you have the ?public key? of another person, Enigmail will encrypt the email you send but leave emails unencrypted if you don't have the public key of the recipient yet. You also have the option to encrypt emails all the time to everyone with PGP keys, which means that you will have to find the public keys for people for whom you don't have them already, or turn off automatic encryption  completely and only use PGP when directed.
+Enigmail provides you with three options for handling mail. The default option is to encrypt emails if you have the "public key" of another person, Enigmail will encrypt the email you send but leave emails unencrypted if you don't have the public key of the recipient yet. You also have the option to encrypt emails all the time to everyone with PGP keys, which means that you will have to find the public keys for people for whom you don't have them already, or turn off automatic encryption  completely and only use PGP when directed.
 ![image](tool_pgpwin33.png)
 
-We don't know what the appropriate option is for you, but believe the ?Convenient auto encryption? option to be a good choice. If you are in doubt, choose ?Don't encrypt my messages by default.? Click the ?Next? button.
+We don't know what the appropriate option is for you, but believe the "Convenient auto encryption" option to be a good choice. If you are in doubt, choose "Don't encrypt my messages by default." Click the "Next" button.
 
-Now you have an option to digitally sign all outgoing emails. Signing your email with PGP allows the recipient to check that you sent the message, and that the contents of the message were not tampered with. Click the ?Sign my messages by default? button to turn this feature on. The downside of doing this, however, is that it can also flag to anyone you send mail to that you use PGP. [In some parts of the world](www.cryptolaw.org/) (including China, Iran, Belarus, and some Middle-East states) using unlicensed encryption, even for personal use, is illegal, so you might have very good reasons to not let others know you use PGP.
+Now you have an option to digitally sign all outgoing emails. Signing your email with PGP allows the recipient to check that you sent the message, and that the contents of the message were not tampered with. Click the "Sign my messages by default" button to turn this feature on. The downside of doing this, however, is that it can also flag to anyone you send mail to that you use PGP. [In some parts of the world](www.cryptolaw.org/) (including China, Iran, Belarus, and some Middle-East states) using unlicensed encryption, even for personal use, is illegal, so you might have very good reasons to not let others know you use PGP.
 
-Click the ?Next? Button.
+Click the "Next" Button.
 ![image](tool_pgpwin34.png)
 
 Now you'll see an option to have Enigmail make some changes to the configuration of Mozilla Thunderbird.
@@ -231,13 +231,13 @@ If you click the Details button you can review what those changes are.
 
 The following options can be unchecked (reenabled), for a more seamless transition, if you use PGP/Mime by default (we'll set that later):
 
-? Disable flowed text  
-? View message body as plain text  
-? Do not compose HTML messages
-The final option prevents potential problems in the encryption and decryption of your email. Be aware that selecting this box will remove the ability to send text that is bolded, underlined or colored. After reviewing the changes, click the ?OK button.?
+- Disable flowed text  
+- View message body as plain text  
+- Do not compose HTML messages
+The final option prevents potential problems in the encryption and decryption of your email. Be aware that selecting this box will remove the ability to send text that is bolded, underlined or colored. After reviewing the changes, click the "OK button."
 
 
-The small window will close. Click the ?Next? button.
+The small window will close. Click the "Next" button.
 
 Now you will start creating your private key and public key.
 
@@ -245,16 +245,16 @@ Now you will start creating your private key and public key.
 
 Installation and setup of the Enigmail add-on is complete. Now you'll have the option of creating your public and private key pair. This assumes you have not created a private key before.
 
-Click the ?Next? button.
+Click the "Next" button.
 ![image](tool_pgpwin37.png)
 
-Unless you have already configured more than one email account, Enigmail will choose the email account you've already configured. The first thing you'll need to do is come up with a strong passphrase for your private key. See the **[Passwords lesson](umbrella://lesson/passwords)** for more information on how to do this.
+Unless you have already configured more than one email account, Enigmail will choose the email account you've already configured. The first thing you'll need to do is come up with a strong passphrase for your private key. See the **[Passwords lesson](umbrella://lesson/passwords)** for more information on how to do this.
 
 Make sure that you've written down this passphrase on paper until you have memorized it. Keep it somewhere where you can tell if it has been taken or viewed (like your wallet or purse). Just make sure you don't leave this paper lying around.
 
-Click the ?Next? button.
+Click the "Next" button.
 
-Enigmail will display some information about your private key as well as the configuration settings. We recommend creating 4096-bit length keys. Click the ?Next? button.
+Enigmail will display some information about your private key as well as the configuration settings. We recommend creating 4096-bit length keys. Click the "Next" button.
 ![image](tool_pgpwin38.png)
 
 **Your key will expire at a certain time; when that happens, other people will stop using it entirely for new emails to you, though you might not get any warning or explanation about why. So, you may want to mark your calendar and pay attention to this issue a month or so before the expiration date.**
@@ -263,18 +263,18 @@ It's possible to extend the lifetime of an existing key by giving it a new, late
 
 Enigmail will generate the key and when it is complete, a small window will open asking you to generate a revocation certificate. This revocation certificate is important to have as it allows you to make the private key and public key invalid. It is important to note that merely deleting the private key does not invalidate the public key and may lead to people sending you encrypted mail that you can't decrypt.
 
-Click the ?Generate Certificate? button.
+Click the "Generate Certificate" button.
 ![image](tool_pgpwin39.png)
 
 A window will open to provide you a place to save the revocation certificate. While you can save the file to your computer, we recommend saving the file on a USB drive that you are using for nothing else and storing the drive in a safe spot. We also recommend removing the revocation certificate from the computer with the keys, just to avoid unintentional revocation.
 
-Even better, save this file on a separate encrypted disk. Choose the location where you are saving this file and click the ?Save? button.
+Even better, save this file on a separate encrypted disk. Choose the location where you are saving this file and click the "Save" button.
 ![image](tool_pgpwin40.png)
 
-Now Enigmail will give you further information about saving the revocation certificate file again. Click the ?OK? button.
+Now Enigmail will give you further information about saving the revocation certificate file again. Click the "OK" button.
 ![image](tool_pgpwin41.png)
 
-Finally, you are done with generating the private key and public key. Click the ?Finish? button.
+Finally, you are done with generating the private key and public key. Click the "Finish" button.
 ![image](tool_pgpwin42.png)
 
 ### 5 Optional steps
@@ -317,10 +317,10 @@ Let's look at three different ways you can let people know you are using PGP.
 
 You can easily email your public key to another person by sending them a copy as an attachment.
 
-Click the ?Write? button in Mozilla Thunderbird.
+Click the "Write" button in Mozilla Thunderbird.
 ![image](tool_pgpwin48.png)
 
-Fill in an address and a subject, perhaps something like ?my public key,? click the Enigmail menu and select the ?Attach My Public Key? option.
+Fill in an address and a subject, perhaps something like "my public key," click the Enigmail menu and select the "Attach My Public Key" option.
 ![image](tool_pgpwin49.png)
 
 You can send the email and the recipient will be able to download and use the public key you sent.
@@ -336,10 +336,10 @@ Click the configuration button, then the Enigmail option, then Key Management.
 Highlight the certificate in bold, then right-click to bring up the menu and select Export keys to file.
 ![image](tool_pgpwin50.png)
 
-A small window will pop up with three buttons. Click the ?Export Public Keys Only? button.
+A small window will pop up with three buttons. Click the "Export Public Keys Only" button.
 ![image](tooL_pgpwin51.png)
 
-Make sure you don't click the ?Export Secret Keys? button because exporting the secret key could allow others to impersonate you if they are able to guess your password.
+Make sure you don't click the "Export Secret Keys" button because exporting the secret key could allow others to impersonate you if they are able to guess your password.
 
 Now a window will open so you can save the file. In order to make it easier to find in the future please save the file to the Documents folder.
 ![image](tool_pgpwin52.png)
@@ -352,7 +352,7 @@ Keyservers make it easier to search for and download public keys. Most modern ke
 
 Although uploading your public key to a keyserver might be a convenient way of letting people know that you have a public PGP certificate, you should know that due to the nature of how keyservers work, there is no way to delete public keys once they are uploaded, you can only mark them as revoked.
 
-**Before uploading your public key to a keyserver, it is good to take a moment to consider whether you want the whole world to know that you have a public key without the ability to remove this information at a later time.**
+**Before uploading your public key to a keyserver, it is good to take a moment to consider whether you want the whole world to know that you have a public key without the ability to remove this information at a later time.**
 
 If you choose to upload your public key to keyservers, you will go back to the Enigmail Key Management window.
 
@@ -366,7 +366,7 @@ Click the Keyserver menu item and select the Upload Public Keys option.
 You might get a public key sent to you as en email attachment.
 ![image](tool_pgpwin54.png)
 
-Double-click on the new message, and it'll open a new tab. Notice the attachment at the bottom of the window. Right-click on the attachment and select ?Import OpenPGP Key.? A small window will open giving you the results of the import. Click the OK button.
+Double-click on the new message, and it'll open a new tab. Notice the attachment at the bottom of the window. Right-click on the attachment and select "Import OpenPGP Key." A small window will open giving you the results of the import. Click the OK button.
 ![image](tool_pgpwin55.png)
 
 If you open up the Enigmail key management window again, you can check the result. Your PGP key is in bold because you have both the private key and the public key. The public key you just imported is not bold because it doesn't contain the private key.
@@ -376,21 +376,21 @@ If you open up the Enigmail key management window again, you can check the resul
 
 It's possible that you get a public key by downloading it from a website or someone might have sent it through chat software. In a case like this, you will assume you downloaded the file to the Downloads folder.
 
-Open the Enigmail Key Manager and click on the ?File? menu. Select ?Import Keys from File.?
+Open the Enigmail Key Manager and click on the "File" menu. Select "Import Keys from File."
 ![image](tool_pgpwin57.png)
 
-The public key might have very different file name endings such as .asc, .pgp, or .gpg. Select the file and click the ?Open? button.
+The public key might have very different file name endings such as .asc, .pgp, or .gpg. Select the file and click the "Open" button.
 ![image](tool_pgpwin58.png)
 
-A small window will open, giving you the results of the import. Click the ?OK? button.
+A small window will open, giving you the results of the import. Click the "OK" button.
 ![image](tool_pgpwin59.png)
 
 **c) Getting a public key from a key server**
 
-Keyservers can be a very useful way of getting public keys. Try looking for a public key. Open up the key manager then click the ?Keyserver? menu and select ?Search for Keys.?
+Keyservers can be a very useful way of getting public keys. Try looking for a public key. Open up the key manager then click the "Keyserver" menu and select "Search for Keys."
 ![image](tool_pgpwin60.png)
 
-A small window will pop up with a search field. You can search by a complete email address, a partial email address, or a name. In this case, you will search for certificates containing ?eff.org.?
+A small window will pop up with a search field. You can search by a complete email address, a partial email address, or a name. In this case, you will search for certificates containing "eff.org."
 ![image](tool_pgpwin61.png)
 
 A larger window will pop up with many options. If you scroll down you'll notice some certificates are italicized and grayed out. These are certificates that have either been revoked or expired on their own.
@@ -409,17 +409,17 @@ The Enigmail Key Manager will now show you the added certificates:
 
 ### 7.1 Sending PGP encrypted mail
 
-Now you will send your first encrypted email to a recipient. In the main Mozilla Thunderbird window click the ?Write? button. A new window will open.
+Now you will send your first encrypted email to a recipient. In the main Mozilla Thunderbird window click the "Write" button. A new window will open.
 ![image](tool_pgpwin66.png)
 
 Write your message, and enter a recipient. For this test, select a recipient whose public key you already have. Enigmail will detect this and automatically encrypt the email.
 ![image](tool_pgpwin67.png)
 
-_Note that the subject line won't be encrypted, so choose something innocuous, like ?hello.?_
+_Note that the subject line won't be encrypted, so choose something innocuous, like "hello."_
 
-When you click the ?Send? button, you'll be given a window to enter the password to your PGP Key. Remember this is different from your email password!
+When you click the "Send" button, you'll be given a window to enter the password to your PGP Key. Remember this is different from your email password!
 
-Enter your password then click the ?OK? button and your email will be encrypted and sent.
+Enter your password then click the "OK" button and your email will be encrypted and sent.
 ![image](tool_pgpwin68.png)
 
 The body of the email was encrypted and transformed. For example this text:
@@ -433,7 +433,7 @@ Will be transformed into:
 Let's go through what happens when you receive encrypted email. Notice that that Mozilla Thunderbird is letting you know you have new mail. Click on the message.
 ![image](too.png;_pgpwin71)
 
-A small window opens asking you for the password to the PGP key. Remember: Don't enter your email password. Click the ?OK? button.
+A small window opens asking you for the password to the PGP key. Remember: Don't enter your email password. Click the "OK" button.
 ![image](tool_pgpwin72.png)
 
 Now the message will show up decrypted
@@ -448,16 +448,16 @@ The PGP keys generated by Enigmail automatically expire after five years. So if 
 You might have a good reason to disable the PGP key before it expires. Perhaps you want to generate a new, stronger PGP key. The easiest way to revoke your own PGP key in Enigmail is through the Enigmail Key Manager.
 ![image](tool_pgpwin74.png)
 
-Right-click on your PGP key (it's in bold), and select the ?Revoke Key? option.
+Right-click on your PGP key (it's in bold), and select the "Revoke Key" option.
 ![image](tool_pgpwin75.png)
 
-A window will pop up letting you know what happens and asking for your confirmation. Click the ?Revoke Key? button.
+A window will pop up letting you know what happens and asking for your confirmation. Click the "Revoke Key" button.
 ![image](tool_pgpwin76.png)
 
-The password window opens, enter your password for the PGP key and click the ?OK? button.
+The password window opens, enter your password for the PGP key and click the "OK" button.
 ![image](tool_pgpwin77.png)
 
-Now a new window will open up letting you know you succeeded. Click the ?OK? button.
+Now a new window will open up letting you know you succeeded. Click the "OK" button.
 ![image](tool_pgpwin78.png)
 
 When you go back to the Enigmail Key Management window you'll notice a change to your PGP key. It is now grayed out and italicized.
@@ -475,16 +475,16 @@ You might get sent revocation certificates from friends as a notice that they wa
 
 In the previous section you might have noticed that Enigmail generates and imports a revocation certificate internally when you use the Enigmail Key Manager to revoke a key. Since you already have a revocation certificate, you will use the one you generated earlier to revoke your own key.
 
-Start with the Enigmail Key Manager and click the ?File? menu and select ?Import Keys from File.?
+Start with the Enigmail Key Manager and click the "File" menu and select "Import Keys from File."
 ![image](tool_pgpwin80.png)
 
-A window will open up so you can select the revocation certificate. Click on the file, and click the ?Open? button.
+A window will open up so you can select the revocation certificate. Click on the file, and click the "Open" button.
 ![image](tool_pgpwin81.png)
 
-You'll get a notification that the certificate was imported successfully and that a key was revoked. Click the ?OK? button.
+You'll get a notification that the certificate was imported successfully and that a key was revoked. Click the "OK" button.
 ![image](tool_pgpwin82.png)
 
-Once you click the ?OK? button, you'll be taken back to the Enigmail Key Manager and you see the certificate you revoked greyed out and italicized.
+Once you click the "OK" button, you'll be taken back to the Enigmail Key Manager and you see the certificate you revoked greyed out and italicized.
 ![image](tool_pgpwin83.png)
 
 If the key you revoked is your own, and you previously uploaded your public key to the key servers, you will want to re-upload the now-revoked key to the key servers, so that others see not to use it anymore.

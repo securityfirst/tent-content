@@ -1,6 +1,6 @@
 [Title]: # (Estrés crónico - Causas)
 [Difficulty]: # (Principiante)
-[Order]: # (0)
+[Order]: # (6)
 
 # Estrés crónico - Causas
 

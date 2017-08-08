@@ -1,11 +1,11 @@
 [Title]: # (Técnicas de vigilancia)
 [Difficulty]: # (Principiante)
-[Order]: # (0)
+[Order]: # (12)
 
-# ¿Qué técnicas de vigilancia existen?
+# De qué técnicas se dispone para llevar a cabo la vigilancia?
 
-*   Vigilancia digital (monitoreo de las comunicaciones digitales, de los teléfonos móviles, etc.)
-*   Seguimiento (a pie, en vehículos)
-*   Vigilancia técnica (micrófonos ocultos y otros dispositivos de escucha, cámaras, lectores de mátricula de vehículos, etc.)
+*   Vigilancia digital (monitorización de las comunicaciones digitales, teléfonos móviles, etc.).
+*   Vigilancia humana (a pie, en vehículos)
+*   Vigilancia técnica (fallos, dispositivos de escucha, cámaras, lectores de matrícula de vehículos, etc.).
 
-Estas lecciones tratan sobre cómo contrarrestar los seguimientos. Para saber sobre vigilancia digital, vea las lecciones sobre Información y Comunicaciones. Para saber sobre vigilancia técnica, vea las lecciones sobre Reuniones y la sección Hogar/Oficina.
+Estas lecciones abordan cómo contrarrestar la vigilancia humana. Para recibir consejo sobre vigilancia digital, vea las lecciones Información y Comunicaciones. Para asesoramiento sobre vigilancia técnica, vea la lección de Reuniones y la sección Hogar/Oficina.

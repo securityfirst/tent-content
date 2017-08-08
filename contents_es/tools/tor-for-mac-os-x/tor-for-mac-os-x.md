@@ -1,5 +1,5 @@
-[Title]: # (Tor para Mac OS X)
-[Difficulty]: # ()
+[Title]: # ()
+[Difficulty]: # (Principiante)
 [Order]: # (0)
 
 # TOR FOR MAC TOOL GUIDE
@@ -7,17 +7,17 @@
 ## Tor for Mac Tool Guide 
 
 **Lesson to read: [The Internet](umbrella://lesson/the-internet)**  
-**This guide outlines how to use the [Tor Browser Bundle](https://www.torproject.org/projects/torbrowser.html.en) on Mac.****Computer requirements:** An internet connection, a computer running Mac OS X  
+**This guide outlines how to use the [Tor Browser Bundle](https://www.torproject.org/projects/torbrowser.html.en) on Mac.****Computer requirements:** An internet connection, a computer running Mac OS X  
 **Version used in this guide:** Tor Browser Bundle: 3.6.2  
-**License:** Free Software; mix of Free Software licenses  
-**Level:** Intermediate  
-**Other reading:** [https://tor.stackexchange.com/](https://tor.stackexchange.com/)  
+**License:** Free Software; mix of Free Software licenses  
+**Level:** Intermediate  
+**Other reading:** [https://tor.stackexchange.com/](https://tor.stackexchange.com/)  
 Time required:
- 15-30 minutes
+ 15-30 minutes
 
 **Using Tor will give you:**  
-? The ability to get around internet censorship  
-? The ability to get online anonymously
+- The ability to get around internet censorship  
+- The ability to get online anonymously
 
 ### 1.0 Before you start 
 
@@ -31,7 +31,7 @@ The easiest way to use the Tor network is to use the Tor Browser Bundle, which c
 
 # 2.0 Getting Tor Browser Bundle
 
-Open a browser like Mozilla Firefox or Internet Explorer and type: [https://www.torproject.org/projects/torbrowser.html.en](https://www.torproject.org/projects/torbrowser.html.en) in the URL bar. If you are using a search engine to look for the Tor Browser Bundle, make sure that the URL is correct.
+Open a browser like Mozilla Firefox or Internet Explorer and type: [https://www.torproject.org/projects/torbrowser.html.en](https://www.torproject.org/projects/torbrowser.html.en) in the URL bar. If you are using a search engine to look for the Tor Browser Bundle, make sure that the URL is correct.
 ![image](tool_torosx1.png)
 
 Click the big purple download button to get the installation program for Tor Browser Bundle.
@@ -50,7 +50,7 @@ After the download is complete, you might get an option to open the folder where
 
 Double-click on the Tor Browser installer. This opens the .dmg file. 
 
-(On recent versions of OS X, you might get a warning that it's from an "unidentified developer" ? you can get around this complaint by control-clicking and selecting "open".)  
+(On recent versions of OS X, you might get a warning that it's from an "unidentified developer" - you can get around this complaint by control-clicking and selecting "open".)  
 
 Drag the included file into your Applications folder and you will have a Tor Browser application in your chosen language that you can pin on your Dock.
 ![image](tool_torosx4.png)

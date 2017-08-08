@@ -1,20 +1,22 @@
 [Title]: # (¿Y ahora qué?)
-[Difficulty]: # (Experto)
-[Order]: # (0)
+[Difficulty]: # (Avanzado)
+[Order]: # (4)
 
 Swipe right for this lesson's checklist
 
 Go to the Beginner lesson for advice on how to create a strong password.
 [Go to Beginner Lesson](umbrella://lesson/passwords/0)
 
-Go to the Advanced lesson for advice on how to manage your passwords.
-[Go to Advanced Lesson](umbrella://lesson/passwords/1)
+Go to the Expert lesson for advice on what to do if you think you might be forced to hand over your password.
+[Go to Expert Lesson](umbrella://lesson/passwords/2)
 
 ### RELATED LESSONS/TOOLS
 
-*   [Protecting Files lesson](umbrella://lesson/protecting-files)
-*   [Journeys lesson](umbrella://lesson/journeys) 
+*   [Backing Up lesson](umbrella://lesson/backing-up)
+*   [Malware lesson](umbrella://lesson/malware)
+*   [KeePass tool guide](umbrella://tools/keepassx)
 
 ### FURTHER READING
 
-*   [EFF - Defending Privacy at the U.S. Border guide](https://www.eff.org/wp/defending-privacy-us-border-guide-travelers-carrying-digital-devices)
+*   [EFF - Creating strong passwords](https://ssd.eff.org/en/module/creating-strong-passwords)
+*   [Security in a Box - Chapter 3, Passwords](https://securityinabox.org/chapter-3)

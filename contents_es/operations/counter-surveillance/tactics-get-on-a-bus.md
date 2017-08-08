@@ -1,6 +1,6 @@
 [Title]: # (Tácticas: tome un bus)
 [Difficulty]: # (Avanzado)
-[Order]: # (0)
+[Order]: # (8)
 
 # Tácticas: tome un bus
 

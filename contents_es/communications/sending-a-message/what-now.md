@@ -1,17 +1,17 @@
 [Title]: # (¿Y ahora qué?)
 [Difficulty]: # (Principiante)
-[Order]: # (0)
+[Order]: # (5)
 
-Deslice a la derecha para ver la lista de chequeo de esta lección
+Haga un barrido a la derecha para ver la lista de comprobación de esta lección
 
 ### LECCIONES/HERRAMIENTAS RELACIONADAS
 
-*   [Guía de heramienta: TextSecure](umbrella://lesson/textsecure)
-*   [Guía de herramienta: ChatSecure](umbrella://lesson/chatsecure)
-*   [Guía de herramienta: Pidgin](umbrella://lesson/pidgin)
-*   [Guía de herramienta: Adium](umbrella://lesson/adium)
+*   [Guía de la herramienta TextSecure](umbrella://lesson/textsecure)
+*   [Guía de la herramienta ChatSecure](umbrella://lesson/chatsecure)
+*   [Guía de la herramienta Pidgin](umbrella://lesson/pidgin)
+*   [Guía de la herramienta Adium](umbrella://lesson/adium)
 
-### FURTHER READING
+### LECTURA ADICIONAL
 
-*   [EFF - Lección: Comunicarse con otros](https://ssd.eff.org/en/module/communicating-others)
-*   [Security in a Box - Mantener privada tu comunicación en internet](https://securityinabox.org/es/guide/secure-communication/)
+*   [EFF - Communicating with others](https://ssd.eff.org/en/module/communicating-others)
+*   [Security in a Box - Secure communication guide](https://securityinabox.org/en/guide/secure-communication)

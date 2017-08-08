@@ -1,21 +1,19 @@
 [Title]: # (¿Y ahora qué?)
-[Difficulty]: # (Principiante)
-[Order]: # (0)
+[Difficulty]: # (Avanzado)
+[Order]: # (3)
 
-Haga un barrido a la derecha para ver la lista de comprobación de esta lección
+Desliza hacia la derecha para ver la lista de lecciones de esta lección. 
 
-Vaya a la lección avanzada para recibir consejo sobre cómo asegurarse de que permanece anónimo en línea.
+Ve a la lección de principiante para obtener consejos sobre cómo evitar la censura. 
+[Ir a la lección para principiantes](umbrella://lesson/the-internet/0) 
 
-[Ir a la lección avanzada](umbrella://lesson/the-internet/1)
+## LECCIONES / HERRAMIENTAS RELACIONADAS 
 
-### LECCIONES/HERRAMIENTAS RELACIONADAS
+*	[Tor para la guía de herramientas de Mac](umbrella://lesson/tor-for-mac-os-x)  
+*	[Guía de herramientas de Tor para Windows](umbrella://lesson/tor-for-windows)) 
+*	[Guía de herramientas Orbot](umbrella://lesson/orbot-&-orweb) 
+*	[Guía de herramientas Orweb](umbrella://lesson/orbot-&-orweb) 
 
-*   Lección [Administrar información](umbrella://lesson/managing-information)
-*   [Guía de la herramienta Psiphon3](umbrella://lesson/psiphon)
-*   [Guía de la herramienta Proxy Mobile](umbrella://lesson/proxy-mobile)
+## LECTURA ADICIONAL 
 
-### LECTURA ADICIONAL
-
-*   [EFF - Cómo eludir la censura en línea](https://ssd.eff.org/en/module/how-circumvent-online-censorship)
-*   [Manuales FLOSS - Eludir la censura](https://en.flossmanuals.net/bypassing-censorship/)
-*   [OpenNet - Perfilando las restricciones de Internet](https://opennet.net)
+*	[Seguridad en un recuadro - Anonimato y elusión](https://securityinabox.org/en/guide/anonymity-and-circumvention)

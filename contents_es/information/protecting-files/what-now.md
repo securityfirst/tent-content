@@ -1,13 +1,12 @@
 [Title]: # (¿Y ahora qué?)
 [Difficulty]: # (Avanzado)
-[Order]: # (0)
+[Order]: # (5)
 
 Swipe right for this lesson's checklist
 
 ### RELATED LESSONS/TOOLS
 
 *   [Managing Information Lesson](umbrella://lesson/managing-information)
-*   [Office Lesson](umbrella://lesson/office)
 *   [Malware Lesson](umbrella://lesson/malware)
 *   [TrueCrypt Tool Guide](umbrella://lesson/truecrypt)
 

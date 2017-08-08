@@ -1,6 +1,6 @@
 [Title]: # (WhatsApp)
 [Difficulty]: # (Principiante)
-[Order]: # (0)
+[Order]: # (3)
 
 # WhatsApp
 
@@ -15,4 +15,4 @@ Sin embargo, es muy importante hacer notar que:
 *   No cifra ninguna fotografía enviada una vez llega al teléfono
 *   Aunque WhatsApp u otros no pueden ver el contenido de sus mensajes, aún pueden saber que está en comunicación con alguien (ej. a través de los metadatos). En algunos casos, esto todavía puede tener consecuencias negativas de seguridad.
 
-Por estas razones todavía recomendamos que use [Signal](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms&hl=es) para mensajería y llamadas seguras.
+Por estas razones todavía recomendamos que use [Signal](\"https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms&hl=es\") para mensajería y llamadas seguras.

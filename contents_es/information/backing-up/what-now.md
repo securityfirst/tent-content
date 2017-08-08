@@ -1,6 +1,6 @@
 [Title]: # (¿Y ahora qué?)
 [Difficulty]: # (Avanzado)
-[Order]: # (0)
+[Order]: # (6)
 
 Swipe right for this lesson's checklist
 
@@ -11,7 +11,7 @@ Swipe right for this lesson's checklist
 *   [TrueCrypt Tool Guide](umbrella://lesson/truecrpyt)
 *   [Thunderbird Tool Guide](umbrella://lesson/thunderbird)
 *   [Cobian Backup Tool Guide](umbrella://lesson/cobian-backup)
-*   [Recuva ? File Recovery Tool Guide](umbrella://lesson/recuva)
+*   [Recuva - File Recovery Tool Guide](umbrella://lesson/recuva)
 
 ### FURTHER READING
 

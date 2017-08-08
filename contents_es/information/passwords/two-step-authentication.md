@@ -1,6 +1,6 @@
-[Title]: # (Two-step authentication)
+[Title]: # (Autenticación en dos pasos)
 [Difficulty]: # (Avanzado)
-[Order]: # (0)
+[Order]: # (2)
 
 # Two-step authentication
 

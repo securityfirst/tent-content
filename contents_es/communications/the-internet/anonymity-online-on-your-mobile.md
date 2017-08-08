@@ -1,14 +1,9 @@
-[Title]: # (Anonymity online on your mobile)
+[Title]: # (Anonimato online en tu equipo móvil)
 [Difficulty]: # (Avanzado)
-[Order]: # (0)
+[Order]: # (2)
 
-# Anonymity online on your mobile
-
-## Orbot and Orweb
-
-Orbot is a free proxy app that enables other apps to use the internet more securely. It uses Tor to encrypt your Internet traffic and then hides it by bouncing through a series of computers around the world. This process takes a little longer, but the strongest privacy and identity protection available is worth the wait.  
-To learn how to install and use Orbot, see the [Orbot tool guide](umbrella://lesson/orbot-&-orweb). 
-
-Orweb is the safest browser on Android. Orbot and Orweb together circumvent web filters and firewalls, and offer a truly private internet connection. Both apps are available for Android and iPhone.To learn how to install and use Orweb, see the [Orweb tool guide](umbrella://lesson/orbot-&-orweb). 
-
-**Remember, these tools can only protect your anonymity if you do not log in to sites or post something online that could identify you!**
+# Anonimato en línea en tu móvil
+# Orbot y Orweb
+rbot es una aplicación de proxy gratuita que permite a otras aplicaciones utilizar Internet con mayor seguridad. Utiliza Tor para cifrar el tráfico de Internet y luego lo oculta rebotando a través de una serie de computadoras en todo el mundo. Este proceso toma un poco más de tiempo, pero la privacidad más fuerte y la protección de identidad disponible vale la pena esperar.Para aprender a instalar y usar Orbot, consulte la [Orbot tool guide] ("umbrella://lesson/orbot-&-orweb").
+rweb es el navegador más seguro de Android. Orbot y Orweb juntos evitan los filtros web y firewalls, y ofrecen una verdadera conexión a Internet privada. Ambas aplicaciones están disponibles para Android y iPhone. Para aprender a instalar y usar Orweb, consulte la [Guía de herramientas de Orweb] ("umbrella://lesson/orbot-&-orweb").
+* Recuerde que estas herramientas sólo pueden proteger su anonimato si no se conecta a sitios o publica algo en línea que podría identificarlo **
