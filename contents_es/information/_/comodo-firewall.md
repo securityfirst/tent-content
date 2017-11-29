@@ -3,4 +3,5 @@
 [Order]: # (24)
 
 # Comodo Firewall 
-na herramienta de firewall freeware
+
+Una herramienta de firewall freeware

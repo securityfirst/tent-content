@@ -3,4 +3,5 @@
 [Order]: # (15)
 
 # Booting
-l acto de iniciar una computadora
+
+El acto de iniciar una computadora
