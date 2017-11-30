@@ -3,4 +3,5 @@
 [Order]: # (77)
 
 # Dispositivo mnemónico 
-n simple truco que puede ayudarte a recordar contraseñas complejas
+
+Un simple truco que puede ayudarte a recordar contraseñas complejas
