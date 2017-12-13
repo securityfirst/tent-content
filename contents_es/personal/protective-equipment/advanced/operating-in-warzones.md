@@ -1,0 +1,6 @@
+[Title]: # (Operando en zonas de guerra)
+[Order]: # (1)
+
+Personas defensoras de los derechos humanos que requieren protección corporal debe elegir un chaleco de acuerdo a la amenaza que se espera. El Instituto Nacional de Justicia de EE.UU. ha desarrollado un sistema de clasificación de seis niveles utilizado por la mayoría de fabricantes de todo el mundo. Si usted está cubriendo los conflictos armados, debe elegir un chaleco de puntuación para detener balas de alta velocidad disparadas por fusiles militares. Tenga en cuenta, sin embargo, que estos chalecos no son completamente a prueba de balas. Aún se pueden tener fuertes heridas o muerte por trauma debido al impacto contundente, incluso si la armadura para el cuerpo hace detener el proyectil. Considere la posibilidad de diseños específicos de género y si usted requiere opciones tales como protectores laterales o para su ingle.
+
+Los cascos también se recomiendan para los y las periodistas o las personas en trabajos humanitarios en zonas de guerra. Debemos reconocer, sin embargo, que incluso un casco con una alta puntuación apenas da la protección contra una metralla, y es muy probable que sea penetrado por cualquier impacto directo de una bala disparada por un rifle de asalto o de francotirador.

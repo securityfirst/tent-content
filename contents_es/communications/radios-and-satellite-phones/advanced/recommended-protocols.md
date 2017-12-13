@@ -1,0 +1,4 @@
+[Title]: # (Protocolos recomendados)
+[Order]: # (2)
+
+Los expertos recomiendan protocolos estrictos cuando se utilizan teléfonos satelitales en un entorno hostil: Evite el uso de un teléfono satelital (o cualquier dispositivo basado en la frecuencia de radio) desde un mismo lugar más de una vez. Evite el uso del teléfono satelitar o un dispositivo similar desde una ubicación en la que no pueda ser fácilmente evacuado o evacuada en caso de ataque. Mantenga un máximo de transmisión de 10 minutos. (Algunos expertos advierten que incluso esto podría ser demasiado largo, con el seguimiento instantáneo es al menos posible.) Apague la máquina y retire la batería tan pronto como la transmisión haya terminado y antes de viajar. Evite que hayan múltiples transmisiones desde la misma ubicación.
