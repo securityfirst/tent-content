@@ -2,24 +2,25 @@
 [Difficulty]: # (Avanzado)
 [Order]: # (1)
 
-# Identifying and organising your information
+# Identificar y organizar su información
 
-The first step to formulating a backup policy is to figure out where all your personal and work information is currently located. This may include the following:
+El primer paso para formular una política de respaldo es averiguar dónde se encuentra actualmente toda su información personal y de trabajo. Esto puede incluir lo siguiente:
 
-*   Email may be stored on the provider's mail server, on your own computer, or both.
-*   Documents, address books, or chat histories on the computers you use, which may be in the office or at home.
-*   Information may also be stored on USB sticks, portable hard drives, or CDs.
-*   Contacts and important text messages on your mobile phone.
-*   Your website may contain important information or collection of work.
-*   Don't forget your non-digital information, such as paper notebooks, diaries and letters.
+* El correo electrónico se puede almacenar en el servidor de correo del proveedor, en su propio ordenador o en ambos.
+* Documentos, libretas de direcciones o historiales de chat en los ordenadores que utilice, que pueden estar en la oficina o en casa.
+* La información también puede almacenarse en lápices USB, discos duros portátiles o CD.
+* Contactos y mensajes de texto importantes en su teléfono móvil.
+* Su sitio web puede contener información importante o colección de trabajo.
+* No olvide su información no digital, como cuadernos de papel, diarios y cartas.
 
-Next, you need to work out which of these files are 'master copies,' and which are duplicates. The master copy is generally the most up-to-date version of a file and is the one you will want to back-up.
+A continuación, debe determinar cuáles de estos archivos son 'copias maestras' y cuáles son duplicados. La copia maestra es generalmente la versión más actualizada de un archivo y es la que desea respaldar.
 
-You should make a table of all the information types you identified above and for each of them note:
+Debe hacer una tabla de todos los tipos de información que identificó anteriormente y para cada uno de ellos tenga en cuenta:
 
-*   Whether that information is master copy or duplicate;
-*   The device or devices they are stored on;
-*   The physical location that the device is usually kept.
+* Si esa información es copia maestra o duplicado;
+* El dispositivo o dispositivos en los que están almacenados;
+* La localización física que el dispositivo se guarda generalmente.
 
-This table will help you see which of your information (or master copies) is only in one location and therefore vulnerable.
-![image](backing1.png)
+Esta tabla le ayudará a ver cuál de sus datos (o copias maestras) es sólo en un lugar y, por lo tanto, vulnerable.
+
+! [] (Backing1.png)
