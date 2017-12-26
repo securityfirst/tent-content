@@ -23,4 +23,4 @@ Debe hacer una tabla de todos los tipos de información que identificó anterior
 
 Esta tabla le ayudará a ver cuál de sus datos (o copias maestras) es sólo en un lugar y, por lo tanto, vulnerable.
 
-! [] (Backing1.png)
+![image](backing1.png)

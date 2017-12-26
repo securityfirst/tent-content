@@ -10,5 +10,5 @@ Desliza el dedo hacia la derecha para ver la lista de comprobación de esta lecc
 
 ### LECTURA ADICIONAL 
 
-* [EFF - Cómo borrar los datos de forma segura] (https://ssd.eff.org/en/module/how-delete-your-data-securely)
-* [Seguridad en una caja - Capítulo 6, Eliminación segura] (https://securityinabox.org/chapter-6)
+* [EFF - Cómo borrar los datos de forma segura](https://ssd.eff.org/en/module/how-delete-your-data-securely)
+* [Seguridad en una caja - Capítulo 6, Eliminación segura](https://securityinabox.org/chapter-6)

@@ -2,14 +2,14 @@
 [Difficulty]: # (Avanzado)
 [Order]: # (0)
 
-# Why back-up?
+# ¿Por qué realizar copias de seguridad?
 
-Backing up is the copying and archiving of computer data so it can retrieve it if something happens to the original. Years of work can disappear in an instant as a result of theft, carelessness, confiscation, or breakage, so it is extremely important to have an up-to-date backup and a well-tested means of restoring it.
+La copia de seguridad es la copia y el archivado de los datos de la computadora para que pueda recuperarla si algo sucede con el original. Los años de trabajo pueden desaparecer en un instante como resultado de robo, descuido, confiscación o rotura, por lo que es extremadamente importante tener una copia de seguridad actualizada y un medio bien probado para restaurarla.
 
-Creating an effective backup policy can be tricky for a few reasons:
+Crear una política de copias de seguridad eficaz puede ser difícil por varias razones:
 
-*   The need to store original data and backups in different physical locations;
-*   The importance of keeping backups confidential;
-*   The challenge of coordinating among different people who share information with one another using their own portable storage devices.
+*   La necesidad de almacenar datos originales y copias de seguridad en diferentes ubicaciones físicas;
+*   La importancia de mantener copias de seguridad confidenciales;
+*   El desafío de coordinar entre diferentes personas que comparten información entre sí usando sus propios dispositivos de almacenamiento portátil. 
 
-In addition to backup and file-recovery tactics, this lesson addresses two specific tools, Cobian Backup and Recuva.
+Además de las tácticas de copia de seguridad y recuperación de archivos, Esta lección aborda dos herramientas específicas, Cobian Backup y Recuva.

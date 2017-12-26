@@ -2,17 +2,16 @@
 [Difficulty]: # (Avanzado)
 [Order]: # (6)
 
-Swipe right for this lesson's checklist
+Haga un barrido a la derecha para ver la lista de comprobación de esta lección
 
-### RELATED LESSONS/TOOLS
+### LECCIONES/HERRAMIENTAS RELACIONADAS
 
-*   [Protecting Files lesson](umbrella://lesson/protecting-files)
-*    [Deleting Lesson](umbrella://lesson/safely-deleting)
-*   [TrueCrypt Tool Guide](umbrella://lesson/truecrpyt)
-*   [Thunderbird Tool Guide](umbrella://lesson/thunderbird)
-*   [Cobian Backup Tool Guide](umbrella://lesson/cobian-backup)
-*   [Recuva - File Recovery Tool Guide](umbrella://lesson/recuva)
+* [Lección de teléfonos móviles](umbrella://lesson/mobile-phones)
+* [Guía de herramientas de RedPhone](umbrella://lesson/redphone)
+* [Guía de la herramienta Signal](umbrella://lesson/signal)
+* [Guía de la herramienta Jitsi](umbrella://lesson/jitsi)
 
-### FURTHER READING
+### LECTURAS ADICIONALES
 
-*   [Security in a Box - Chapter 6, Backing up](https://securityinabox.org/chapter-6)
+* [EFF - Comunicarse con otros](https://ssd.eff.org/en/module/communicating-others)
+* [Security in a Box - Guía de comunicación segura](https://securityinabox.org/en/guide/secure-communication)

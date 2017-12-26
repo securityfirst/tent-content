@@ -4,7 +4,7 @@
 
 # Software de copia de seguridad
 
-Cobian Backup es una herramienta fácil de usar que se puede configurar para que se ejecute automáticamente, a intervalos regulares e incluir sólo los archivos que han cambiado desde la última copia de seguridad. También puede comprimir copias de seguridad para hacerlas más pequeñas. Puede aprender cómo instalarlo y ejecutarlo en nuestra Guía [Cobian Backup] (umbrella: // lesson / cobian-backup).
+Cobian Backup es una herramienta fácil de usar que se puede configurar para que se ejecute automáticamente, a intervalos regulares e incluir sólo los archivos que han cambiado desde la última copia de seguridad. También puede comprimir copias de seguridad para hacerlas más pequeñas. Puede aprender cómo instalarlo y ejecutarlo en nuestra Guía [Cobian Backup](umbrella://lesson/cobian-backup).
 
 Cuando utilice estas herramientas de copia de seguridad, hay algunas cosas que puede hacer para que su sistema de respaldo funcione sin problemas:
 

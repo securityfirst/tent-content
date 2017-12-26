@@ -2,7 +2,7 @@
 [Difficulty]: # (Principiante)
 [Order]: # (5)
 
-Passwords are often the first and only barrier between your information and anyone who might want to read, use or destroy it without your permission.
+Las contraseñas son a menudo la primera y única barrera entre su información y cualquier persona que pueda querer leer, usar o destruirlo sin su permiso.
 
-In general, when you want to protect something - whether a house or an email account - you lock it up with a key. All keys, physical and electronic, have one thing in common: they open their locks just as effectively in the hands of somebody else. You can use the most advanced security tools, but if your password is weak, or if you allow it to fall into the wrong hands, they will not do you any good.
+En general, cuando se quiere proteger algo - si una casa O una cuenta de correo electrónico - se bloquea con una clave. Todas las claves, físicas y electrónicas, tienen una cosa en común: abren sus cerraduras con la misma eficacia en manos de otra persona. Puede utilizar las herramientas de seguridad más avanzadas, pero si su contraseña es débil, o si le permite caer en las manos equivocadas, no le hará ningún bien. 
 ![image](password1.png)
