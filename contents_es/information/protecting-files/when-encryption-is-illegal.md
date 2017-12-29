@@ -2,13 +2,13 @@
 [Difficulty]: # (Avanzado)
 [Order]: # (4)
 
-# When encryption is illegal
+# Cuando el cifrado es ilegal 
 
-Encryption is illegal in some countries, which means that downloading, installing or using software of this sort might be a crime in its own right. Any time that merely being associated with encryption software would be enough to expose you to accusations of criminal activity or espionage (regardless of what is actually inside your encrypted volumes), then you will have to think carefully about whether or not such tools are appropriate for your situation.
+La encriptación es ilegal en algunos países, lo que significa que la descarga, instalación o uso de software de este tipo podría ser un delito en sí mismo. En cualquier momento en el que meramente estar asociado con un software de cifrado sea suficiente para exponerlo a acusaciones de actividad criminal o espionaje (independientemente de lo que realmente esté dentro de sus volúmenes encriptados), tendrá que pensar cuidadosamente si esas herramientas son apropiadas o no. su situación.
 
-If that is the case, you have a few options:
+Si ese es el caso, tiene algunas opciones: 
 
-*   Store only non-confidential information
-*   Use a system of code words to protect key elements of your sensitive files
-*   Store all of your sensitive information in a secure webmail account - you would need a reliable network connection and an advanced understanding of computers and Internet services
-*   Keep sensitive information off of your computer by storing it on a USB stick or portable hard drive - carrying around sensitive, unencrypted information is usually a very bad idea so you would need to keep the device in a very secure place
+*	Almacenar solo información no confidencial 
+*	Usar un sistema de palabras clave para proteger los elementos clave de sus archivos confidenciales 
+*	Almacenar toda su información confidencial en una cuenta segura de correo web: necesitaría una conexión de red confiable y una comprensión avanzada de computadoras y servicios de Internet. 
+*	Mantenga la información confidencial fuera de su computadora guardándola en una memoria USB o en un disco rígido portátil. en general, la información confidencial no encriptada es una muy mala idea, por lo que deberá mantener el dispositivo en un lugar seguro
