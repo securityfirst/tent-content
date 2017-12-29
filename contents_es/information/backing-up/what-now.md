@@ -4,14 +4,15 @@
 
 Haga un barrido a la derecha para ver la lista de comprobación de esta lección
 
-### LECCIONES/HERRAMIENTAS RELACIONADAS
+### LECCIONES / HERRAMIENTAS RELACIONADAS 
 
-* [Lección de teléfonos móviles](umbrella://lesson/mobile-phones)
-* [Guía de herramientas de RedPhone](umbrella://lesson/redphone)
-* [Guía de la herramienta Signal](umbrella://lesson/signal)
-* [Guía de la herramienta Jitsi](umbrella://lesson/jitsi)
+* [Lección de Protección de archivos] (umbrella://lesson/protecting-files) 
+* [Lección sobre Eliminación] (umbrella://lesson/safely-deleting) 
+* [Guía de TrueCrypt] (umbrella://lesson/truecrpyt) 
+* [Guía de Thunderbird ] (lesson://lesson/thunderbird) 
+* [Guía de Cobian Backup Tool] (lesson://lesson/cobian-backup) 
+* [Recuva - Guía de la herramienta de recuperación de archivos] (umbrella://lesson/recuva) 
 
 ### LECTURAS ADICIONALES
 
-* [EFF - Comunicarse con otros](https://ssd.eff.org/en/module/communicating-others)
-* [Security in a Box - Guía de comunicación segura](https://securityinabox.org/en/guide/secure-communication)
+* [Seguridad en un recuadro - Capítulo 6, Copia de seguridad] (https://securityinabox.org/chapter-6)
