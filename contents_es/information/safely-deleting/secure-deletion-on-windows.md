@@ -2,20 +2,20 @@
 [Difficulty]: # (Principiante)
 [Order]: # (1)
 
-# Secure deletion on Windows
+# Eliminación segura en Windows 
 
-On Windows, we suggest using Eraser. Eraser is a free/open source secure deletion tool for Windows, and is much better than the built-in tools. To use Eraser, first [download the installer](http://eraser.heidi.ie/download/) from its website; make sure to choose a "stable" build. After the file downloads, double-click on it to launch it and Run the file.
+En Windows, le sugerimos que use Eraser. Eraser es una herramienta de eliminación segura / de código abierto para Windows, y es mucho mejor que las herramientas integradas. Para usar Eraser, primero [descargue el instalador](http://eraser.heidi.ie/download/) desde su sitio web; asegúrese de elegir una compilación "estable". Después de descargar el archivo, haga doble clic en él para ejecutarlo y ejecutar el archivo. 
 
-Once Eraser is installed, if you want to securely delete a single file or folder, simply:
+Una vez que se haya instalado el borrador, si desea eliminar de forma segura un solo archivo o carpeta, simplemente: 
 
-*    Right-click on the file or folder and choose Eraser > Erase from the right-click menu.
+*  Haga clic con el botón derecho archivo o carpeta y elija Borrador Borrar del menú del botón derecho.
 
-Alternatively, you may want to securely erase all the previously deleted data from your computer.
-
-*   Launch Eraser.
-*   Click the downward-pointing arrow next to "Erase Schedule" and choose "New Task."
-*   In the "Task Properties" dialog that pops up, set the "Task Type" to "Run immediately."
-*   Then click the "Add Data" button near the bottom of the dialog.
-*   In the new "Select Data to Erase" dialog that pops up, choose "Unused disk space" and make sure the correct disk drive is selected in the drop down box (most likely the "(C:)" drive).
-*   Click "OK" to exit both dialogs, and Eraser should start erasing.
-*   Once it's done erasing, the task will disappear from the list of tasks in the "Erase Schedule."
+ Alternativamente, puede borrar de forma segura todos los datos eliminados previamente de su computadora.
+ 
+*  Inicie el Borrador. 
+*  Haga clic en el botón hacia abajo -flecha de puntero al lado de \ "Borrar programa " y elegir \ "Nueva tarea. " 
+*  En el cuadro de diálogo "Propiedades de tarea" que aparece, configure "Tipo de tarea" en "Ejecutar inmediatamente. 
+*  Luego haga clic en el botón " Agregar datos" cerca de la parte inferior del cuadro de diálogo. 
+*  En el cuadro de diálogo " Seleccionar datos para borrar "que aparece, seleccione " Espacio en disco no utilizado" y asegúrese de que esté seleccionada la unidad de disco correcta en el cuadro desplegable (muy probablemente la unidad "(C:)"). 
+*  Haga clic en "Aceptar" para salir de ambos cuadros de diálogo, y Eraser debería comenzar a borrarse. 
+*  Una vez que se haya borrado, la tarea desaparecerá de la lista de tareas en el "Erase Schedule. "
