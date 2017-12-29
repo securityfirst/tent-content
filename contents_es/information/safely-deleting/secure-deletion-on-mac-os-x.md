@@ -2,15 +2,15 @@
 [Difficulty]: # (Principiante)
 [Order]: # (2)
 
-# Secure deletion on Mac OS X
+# Borrado seguro en Mac OS X
 
-On OS X 10.4 and above, you can securely delete individual files by simply:
+En OS X 10.4 y superior, puede eliminar archivos individuales de forma segura simplemente:
 
-*   Moving them to the Trash;
-*   Then selecting Finder > Secure Empty Trash.
+*	Trasladarlos a la Papelera; 
+*	Luego, seleccione Finder "Secure Empty Trash."  
 
-Alternatively, you may want to securely erase all the previously deleted data from your computer. Apple's advice on this is to:
+Alternativamente, es posible que desee borrar de forma segura todos los datos eliminados previamente de su computadora. El consejo de Apple sobre esto es: 
 
-*   Open Disk Utility (in Applications/Utilities);
-*   Choose Help > Disk Utility Help;
-*   Search for help on erasing free disk space.
+*	Abrir la Utilidad de Discos (en Aplicaciones / Utilidades); 
+*	Seleccionar la Ayuda de la Utilidad de Discos; 
+*	Buscar ayuda para borrar el espacio libre en el disco.
