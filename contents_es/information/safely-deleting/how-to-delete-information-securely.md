@@ -2,13 +2,13 @@
 [Difficulty]: # (Principiante)
 [Order]: # (0)
 
-# How to delete information securely
+# Cómo borrar información de forma segura
 
-Most of us think that a file on our computer is deleted once we put the file in our computer's trash folder and empty the trash; in reality, this does not actually delete files - it just makes them invisible to the user until the space they took up on your computer is overwritten with something else. This means that, with the right tools, your "deleted" files can often be retrieved.
-![image](deleting1.png)
+La mayoría de nosotros cree que un archivo en nuestra computadora se elimina una vez que colocamos el archivo en la carpeta de la papelera de nuestra computadora y lo desechamos; en realidad, esto no elimina los archivos, sino que los hace invisibles para el usuario hasta que el espacio que ocupan en su computadora se sobrescribe con otra cosa. Esto significa que, con las herramientas adecuadas, sus archivos "eliminados" a menudo se pueden recuperar. 
+![image](deleting1.png) 
 
-The best way to delete a file forever, then, is to make sure it gets overwritten immediately.  
-This can be done easily using Eraser (for Windows) or Secure Delete (for Mac OS X), both of which are described below. Users of Linux and other open-source operating systems can use GNU shred, but this requires a more advanced technical proficiency.
+La mejor manera de borrar un archivo para siempre es asegurarse se sobrescribe de inmediato. 
+Esto se puede hacer fácilmente usando Eraser (para Windows) o Secure Delete (para Mac OS X), que se describen a continuación. Los usuarios de Linux y otros sistemas operativos de código abierto pueden usar GNU shred, pero esto requiere una competencia técnica más avanzada. 
 ![image](deleting2.png)
 
-Note that securely deleting data from solid state drives (SSDs), USB flash drives, and SD cards is very hard! The instructions below apply only to traditional disk drives. If you're using an SSD or a USB flash drive, you can skip to the section about it below.
+Tenga en cuenta que se eliminan datos de forma segura de unidades de estado sólido (SSD) , Unidades flash USB y tarjetas SD es muy difícil! Las instrucciones a continuación se aplican solo a las unidades de disco tradicionales. Si está utilizando una SSD o una unidad flash USB, puede pasar a la sección a continuación.
