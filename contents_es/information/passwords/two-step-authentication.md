@@ -2,9 +2,10 @@
 [Difficulty]: # (Avanzado)
 [Order]: # (2)
 
-# Two-step authentication
+# Autenticación en dos pasos 
+Muchos servicios y herramientas de software le permiten usar la autenticación en dos pasos. Aquí la idea es que para iniciar sesión, debe estar en posesión de un determinado objeto físico: generalmente un teléfono móvil, pero, en algunas versiones, un dispositivo especial llamado token de seguridad. El uso de la autenticación en dos pasos garantiza que incluso si su contraseña para el servicio es pirateada o robada, el ladrón no podrá iniciar sesión a menos que también tenga el control de un segundo dispositivo, como su teléfono, y los códigos especiales que solo puede crear. 
+![image](password_adv2.png) 
 
-Many services and software tools let you use two-step authentication. Here the idea is that in order to log in, you need to be in possession of a certain physical object: usually a mobile phone, but, in some versions, a special device called a security token. Using two-step authentication ensures that even if your password for the service is hacked or stolen, the thief won't be able to log in unless they also have control of a second device, such as your phone, and the special codes that only it can create.
-![image](password_adv2.png)
-
-Two-step authentication using a mobile phone can be done in two ways: the service can send you an SMS text message to your phone whenever you try to log in which provides an extra security code that you need to type in. Alternatively, your phone can run an authenticator application, such as [Google Authenticator](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2), that generates security codes from inside the phone itself. This will help protect your account in situations where an attacker has your password but does not have physical access to your mobile phone.
+La autenticación de dos pasos con un teléfono móvil se puede hacer de dos maneras: el servicio puede enviarle un mensaje de texto a su teléfono cada vez que intente iniciar sesión en el que se proporciona un código de seguridad adicional que debe ingresar. Alternativamente, su teléfono puede ejecutar una aplicación de autentificación, como 
+[Google Authenticator](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2), 
+que genera códigos de seguridad desde el interior del teléfono. Esto ayudará a proteger su cuenta en situaciones donde un atacante tiene su contraseña pero no tiene acceso físico a su teléfono móvil.
