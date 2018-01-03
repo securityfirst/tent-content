@@ -2,167 +2,167 @@
 [Difficulty]: # (Principiante)
 [Order]: # (0)
 
-# OBSCURACAM TOOL GUIDE
+# GUÍA DE HERRAMIENTAS DE OBSCURACAM
 
-## ObscuraCam Tool Guide
+## Guía de herramientas de ObscuraCam
 
-**Lesson to read:**   
-- [Mobile Phones](umbrella://lesson/mobile-phones)  
-- [Social Media](umbrella://lesson/social-media)  
-**Download Location:** [ObscuraCam homepage](https://guardianproject.info/apps/obscuracam/)  
-**Phone requirements:** Android 2.3.3 and up  
-**Version used in this guide:** 2.0-RC2b  
-**License:** Free and Open Source Software (GPL v3)  
-**Level:** Basic  
-**Time required:** 5 minutes
+**Lección para leer:**
+- [Teléfonos móviles](umbrella://lesson/mobile-phones)
+- [Redes sociales](umbrella://lesson/social-media)
+**Ubicación de descarga:** [Página de inicio de ObscuraCam](https://guardianproject.info/apps/obscuracam/)
+**Requisitos del teléfono:** Android 2.3. 3 y versiones superiores
+**Versión utilizada en esta guía:** 2.0-RC2b
+**Licencia:** Software libre y de código abierto (GPL v3)
+**Nivel:** Básico
+**Tiempo requerido:** 5 minutos
 
-**Using ObscuraCam will give you:**  
-- The ability to obscure identities by hiding faces in photos taken with your Android device  
-- An easy way to share or save these "obscured" photos
+**El uso de ObscuraCam te dará:**
+- La capacidad de ocultar identidades ocultando rostros en fotos tomadas con tu dispositivo Android
+- Una manera fácil de compartir o guardar estos " oscuras "photos
 
-### 1.1 Things you should know about this tool before you start
+### 1.1 Cosas que debe saber sobre esta herramienta antes de comenzar
 
-- ObscuraCam's automatic face-recognition does not _always_ work, but you can easily select and obscure faces manually.  
-- On some versions of the Android operating system, the option to delete the original media file does not work. If you rely on this option, please check to make sure that you do not have ObscuraCam photos (with visible faces!) somewhere on your device.  
-- If you use ObscuraCam to send photos to yourself or to someone else, the tool does not provide additional protection (such as end-to-end encryption) for the photo in transit.  
-- A tag is an area in the photo which has been obscured by one of several methods ObscuraCam can use.
+- El reconocimiento automático de rostros de ObscuraCam no siempre funciona, pero puede seleccionar y oscurecer rostros fácilmente de forma manual.
+- En algunas versiones del sistema operativo Android, la opción para eliminar el archivo multimedia original no funciona. Si confía en esta opción, verifique que no tenga fotografías de ObscuraCam (¡con caras visibles!) En algún lugar de su dispositivo.
+- Si usa ObscuraCam para enviar fotos a usted o a otra persona, la herramienta no brinda protección adicional (como encriptación de extremo a extremo) para la fotografía en tránsito.
+- Una etiqueta es un área en la foto que ha sido oscurecida por uno de varios métodos que ObscuraCam puede usar.
 
-### 2.0 How to Install ObscuraCam
+### 2.0 Cómo instalar ObscuraCam
 
-**Step 1.** On your Android device, download and install the app from the [Google Play store here](https://play.google.com/store/apps/details?id=org.witness.sscphase1) by tapping "Install".
+**Paso 1.** En tu Android dispositivo, descargue e instale la aplicación desde [Google Play store here](https://play.google.com/store/apps/details?id=org.witness.sscphase1) tocando "Instalar ".
 ![image](tool_obscura1.png)
 
-**Step 2:** Before the installation process begins, you will be prompted to review the access that the application will have on your phone. Review this carefully. Once you are happy with the permissions that will be granted, press "Accept" and the installation will complete. If you do not agree with the permissions that will be granted, press the back button and the installation will be cancelled.
+**Paso 2:** Antes de que comience el proceso de instalación, se le pedirá que revise el acceso que la aplicación tendrá en su teléfono. Revisa esto cuidadosamente. Una vez que esté satisfecho con los permisos que se le otorgarán, presione "Aceptar " y la instalación se completará. Si no está de acuerdo con los permisos que se le otorgarán, presione el botón Atrás y se cancelará la instalación.
 
-**Step 3. Tap** Open to run the app for the first time
+**Paso 3** **Pulse** Abrir para ejecutar la aplicación por primera vez
 
-**Step 4:** Review the Terms of use and if you are happy with them press "Accept" to be brought to the main screen of ObscuraCam. 
+**Paso 4:** Revise los Términos de uso y si está satisfecho con ellos, presione "Aceptar " para acceder a la pantalla principal de ObscuraCam.
 
-### 2.1 Using ObscuraCam to obscure photos
+### 2.1 Uso de ObscuraCam para ocultar fotos
 
-You can use ObscuraCam to hide some or all of the faces that appear in your photos. It works on pictures that you take with the ObscuraCam app itself, but you can also blur faces in other photos, as long as you have a way to copy or move the image files onto your Android device.
+Puede usar ObscuraCam para ocultar algunas o todas las caras que aparecen en sus fotos. Funciona en las imágenes que toma con la aplicación ObscuraCam, pero también puede difuminar caras en otras fotos, siempre que tenga una forma de copiar o mover los archivos de imagen a su dispositivo Android.
 
-### 2.1 Taking And Obscuring New Photos
+### 2.1 Tomando y ocultando nuevas fotos
 
-To take a photo on your Android device without showing your subjects' faces, perform the following steps:
+Para tomar una foto en su dispositivo Android sin mostrar las caras de sus sujetos, realice los siguientes pasos:
 
-**Step 1:** From the main screen of ObscuraCam tap "New Picture".
+**Paso 1:** Desde la pantalla principal de ObscuraCam, toque "Imagen nueva ".
 ![image](tool_obscura2.png)
 
-**Step 2:** Your phone's camera app will open, take a photo as you normally would.
+**Paso 2:** Se abrirá la aplicación de la cámara de su teléfono, tome una foto como lo haría normalmente.
 
-**Step 3:** A screen with a preview of the photo you took will be displayed. Tap the tick to proceed with obscuring the photo, otherwise tap the x to discard the current photo and take another.
+**Paso 3:** Aparecerá una pantalla con una vista previa de la foto que tomó. Toque la marca para continuar con el ocultamiento de la foto, de lo contrario toque la x para descartar la foto actual y tome otra.
 
-**Step 4:** ObscuraCam** will attempt to identify faces automatically.
+**Paso 4:** **ObscuraCam** intentará identificar las caras automáticamente.
 
-**Step 5:** If ObscuraCam can detect faces in the photo it will add an image "tag" (a rectangle used to select content that should be hidden) over the face and pixelate it. If ObscuraCam did not detect any faces or you need to obscure additional areas on the photo, tap on the area to add additional tags.
-![image](tool_obscura3.png)
+**Paso 5:** Si ObscuraCam puede detectar rostros en la foto, agregará una imagen "etiqueta " (un rectángulo utilizado para seleccionar el contenido que debería estar oculto) sobre la cara y lo pixelará. Si ObscuraCam no detectó ninguna cara o si necesita ocultar áreas adicionales en la foto, toque el área para agregar etiquetas adicionales.
+![Image](tool_obscura3.png)
 
-**Step 6:** To see a preview of the photo you can tap the eye icon, to return to the edit screen tap anywhere on the preview image.
+**Paso 6:** A vea una vista previa de la foto, puede tocar el ícono de ojo, para regresar a la pantalla de edición, toque en cualquier parte de la imagen de vista previa.
 
-**Step 7:** To share the obscured photo via an existing application on your phone such as K-9 Mail or TextSecure tap the icon made up of a dot with arrows. 
+**Paso 7:** Compartir la foto oscurecida a través de una aplicación existente en su teléfono como K-9 Mail o TextSecure, toque el icono formado por un punto con flechas.
 
-**Step 8:** To save the blurred photo to your phone tap the save icon. You will be asked whether you want to delete the original, unblurred, image from your phone, if you no longer need the original photo tap "Yes" otherwise tap "No" to save a copy of both the obscured and unobscured photo.
+**Paso 8:** Para guardar la foto borrosa en su teléfono, toque el icono de guardar. Se le preguntará si desea eliminar la imagen original, no difuminada de su teléfono, si ya no necesita la foto original, toque "Sí ", de lo contrario toque "No " para guardar una copia de ambos, el oculto y el no oculto foto.
 
-### 2.1.2 Obscuring Existing Photos
+### 2.1.2 Obscurecer fotos existentes
 
-As well as obscuring photos as you take them, ObscuraCam can also obscure any old photos on your phone or that you copy to your phone.
+Asimismo de oscurecer fotos a medida que las toma, ObscuraCam también puede oscurecer las fotos antiguas en su teléfono o las copias en su teléfono.
 
-**Step 1:** From the main screen of ObscuraCam tap "Obscure Photo".
+**Paso 1:** En la pantalla principal de ObscuraCam, toque "Foto oscura ".
 
-**Step 2:** Browse to the file on your phone that you want to obscure.
+**Paso 2:** Busque el archivo en su teléfono que desea ocultar.
 
-**Step 3:** ObscuraCam will attempt to detect any faces in the image and pixelate them.
+* * Paso 3:** ObscuraCam intentará detectar las caras en la imagen y pixelarlas.
 
-**Step 4:** If ObscuraCam did not detect any faces or you want to obscure additional faces or items in the photo tap the relevant area to add additional pixelation.
+**Paso 4:** Si ObscuraCam no detectó ninguna cara o si desea ocultar rostros o elementos adicionales en la foto toque el área correspondiente para agregar pixelación adicional.
 
-**Step 5:** To see a preview of the photo you can tap the eye icon, to return to the edit screen tap anywhere on the preview image.
+**Paso 5:** Para ver una vista previa de la foto, puede tocar el ícono de ojo, para regresar a la pantalla de edición, toque en cualquier parte de la imagen de vista previa.
 
-**Step 6:** To share the obscured photo via an existing application on your phone such as K-9 Mail or TextSecure tap the icon made up of a dot with arrows. 
+**Paso 6:** Para compartir la foto oscurecida a través de un existente g aplicación en su teléfono, como K-9 Mail o TextSecure, toque el icono formado por un punto con flechas.
 
-**Step 7:** To save the blurred photo to your phone tap the save icon. You will be asked whether you want to delete the original, unblurred, image from your phone, if you no longer need the original photo tap "Yes" otherwise tap "No" to save a copy of both the obscured and unobscured photo.
+**Paso 7:** Para guardar la foto borrosa en su teléfono, toque el icono de guardar. Se le preguntará si desea eliminar la imagen original, no difuminada de su teléfono, si ya no necesita la foto original, toque "Sí ", de lo contrario toque "No " para guardar una copia de ambos, el oculto y el no oculto foto.
 
-### 2.3 Modifying the "blur" mode
+### 2.3 Modificación del modo "desenfoque "
 
-### 2.3.1 Resize or move the tag
+### 2.3.1 Cambiar el tamaño o mover la etiqueta
 
-While editing a photo in ObscuraCam, if you need to resize the tag, touch one of the four corners of the white outline box so that it turns green and drag it to make it larger or smaller.
+Mientras se edita una fotografía en ObscuraCam, si necesita cambiar el tamaño de la etiqueta , toque una de las cuatro esquinas del cuadro de contorno blanco para que se vuelva verde y arrástrelo para agrandarlo o agrandarlo.
 
-If you need to move the tag so that it is in a better position on the photo, touch the centre of the pixelated area so that the surrounding white box turns green, then drag the box to the location you want.
+Si necesita mover la etiqueta para que esté en una mejor posición en la foto, toque el centro del área pixelada para que el recuadro blanco que lo rodea se vuelva verde, luego arrastre el recuadro a la ubicación que desee.
 ![image](tool_obscura4.png)
 
-### 2.3.2 Change the obscure type
+### 2.3.2 Cambie el tipo oscuro
 
-ObscuraCam gives you a few options on how to obscure a photo. From the edit screen tap on an existing obscured area to bring up the obscuring options:
-![image](tool_obscura5.png)
+ObscuraCam te brinda algunas opciones sobre cómo ocultar una foto. Desde la pantalla de edición, toque en un área oscurecida existente para que aparezcan las opciones de ocultación:
+![Image](tool_obscura5.png)
 
-**Pixelate** will obscure any part of the photo inside the tag by pixelating it
+** Pixelate ** oscurecerá cualquier parte de la foto dentro de la etiqueta al pixelarla
 ![image](tool_obscura6.png)
 
-**Redact** will obscure any part of the photo inside the tag by placing a black box over it
+** Redactar ** oscurecerá cualquier parte de la foto dentro de la etiqueta colocando una caja negra sobre ella
 ![image](tool_obscura7.png)
 
-**Mask** will obscure any part of the photo inside the tag by placing a funny mask over the person
+** Máscara ** oscurecerá cualquier parte de la foto dentro de la etiqueta colocando una máscara divertida sobre la persona
 ![image](tool_obscura8.png)
 
-**Crowd Pixel** will obscure any part of the photo _outside_ the tag by pixelating the rest of it.
+** Crowd Pixel ** oscurecerá cualquier parte de la foto _outide_ la etiqueta pixelando el resto.
 ![image](tool_obscura9.png)
 
-**Clear Tag** will remove the selected tag from the photo.
+** Clear Tag ** eliminará la etiqueta seleccionada de la foto.
 
-### 2.3 Obscuring Videos
+### 2.3 Obscurecer videos
 
-Obscuracam can also obscure faces or objects in videos, however unlike with photos it can only obscure existing photos that you took with your phone or copied to your phone
+Obscuracam también puede oscurecer rostros u objetos en videos, sin embargo, a diferencia de las fotos, solo puede oscurecer las fotos existentes que tomó con su teléfono o copiar en su teléfono
 
-### 2.3.1 Automatic Obscuring of Videos
+### 2.3.1 Obscurecimiento automático de Videos
 
-**Step 1:** From the main screen of Obscuracam tap "Obscure Video".
+**Paso 1:** En la pantalla principal de Obscuracam, toca "Video oscuro ".
 
-**Step 2:** Select the video you with to obscure from your phones storage
+**Paso 2:** Seleccione el video con el que oculte el almacenamiento de su teléfono
 
-**Step 3:** Tap "Yes" when asked _Would you like to detect faces in this video_.
+**Paso 3:** Toque "Sí " cuando se le pregunte _¿Desea detectar caras en este video_.
 
-**Step 3:** The video will begin to play and ObscuraCam will attempt to detect faces. The process for detecting faces takes approximately _4 seconds_ for every _1 second_ of the video.
+**Paso 3:** El video comenzará a reproducirse y ObscuraCam intentará detectar rostros. El proceso para detectar rostros toma aproximadamente _4 segundos_ por cada _1 segundo_ del video.
 
-**Step 4:** Once the face detection has completed, you can tap Play to review the video. This will show you the pixelated tags over the faces as well as a green trail showing the path the tag takes through the video as the face moves.
-![image](tool_obscura10.png)
+**Paso 4:** Una vez que la detección de rostros se haya completado, puedes tocar Play para revisar el video. Esto le mostrará las etiquetas pixeladas sobre las caras, así como un camino verde que muestra la ruta que toma la etiqueta a través del video a medida que se mueve la cara.
+![Image](tool_obscura10.png)
 
-**Step 5:** After reviewing the video and you are happy that all faces are obscured, tap the save icon at the top of the screen to save the video to your phones storage.
-![image](tool_obscura11.png)
+**Paso 5:** Después de revisar el video y le alegra que todas las caras estén oscurecidas, toque el icono de guardar en la parte superior de la pantalla para guardar el video en el almacenamiento de su teléfono.
+![Image](tool_obscura11.png)
 
-**Note:** If ObscuraCam did not properly obscure faces or failed to detect some, you can see how to manually obscure them in section below.
+**Nota:** Si ObscuraCam no ocultó correctamente las caras o no detectó algunas, puede ver cómo ocultarlas manualmente en la sección siguiente.
 
-### 2.3.2 Manual Obscuring of Videos
+### 2.3.2 Obscurecimiento manual de videos
 
-If ObscuraCam was not able to detect faces properly during the automatic process or you would like more process over the obscuring process you can manually obscure video.
+Si ObscuraCam no fue capaz de detectar las caras correctamente durante el proceso automático o si desea obtener más proceso durante el proceso de ocultación, puede ocultarlo manualmente.
 
-**Step 1:** From the main screen of Obscuracam tap "Obscure Video".
+**Paso 1:** Desde la pantalla principal de Obscuracam, toque "Video oscuro ".
 
-**Step 2:** Select the video you with to obscure from your phones storage.
+**Paso 2:** Seleccione el video con el que oculte el almacenamiento de sus teléfonos.
 
-**Step 3:** Tap "No" when asked _Would you like to detect faces in this video_.
+**Paso 3:** Toque " No "cuando se le pregunte _Desea detectar caras en este video_.
 
-**Step 4:** Tap the play icon to start playing the video
+**Paso 4:** Toca el juego para comenzar a reproducir el video
 
-**Step 5:** While the video plays, touch and hold your finger on a face in the video to add a tag over it, drag the tag around the screen with your finger following the movement of the face. Lift your finger off the screen to stop obscuring the video.
+**Paso 5:** Mientras se reproduce el video, toque y mantenga el dedo sobre una cara del video para agregar una etiqueta sobre él, arrastre la etiqueta alrededor de la pantalla con el dedo siguiendo el movimiento de la cara. Levanta el dedo de la pantalla para no oscurecer el video.
 
-**Note:** As you follow the face on the screen you will see a green trail being left behind, this is the path the pixelated tag will take once the video is saved.
+**Nota:** A medida que sigas la imagen en la pantalla, verás un rastro verde que queda atrás, esta es la ruta que tomará la etiqueta pixelada una vez el video está guardado.
 
-**Step 6:** If there are additional faces in the video that you wish to obscure, touch and hold the blue circle and move the slider back to the time point where the next face appears on video and repeat _step 5_ above.
+**Paso 6:** Si hay caras adicionales en el video que desea ocultar, toque y mantenga presionado el círculo azul y mueva el deslizador nuevamente al punto donde aparece la siguiente cara en video y repita _pasos 5_ arriba.
 
-**Step 7:** Once you have finished manually obscuring faces, you can tap the play icon to review the video. This will show you the pixelated tags over the faces as well as a green trail showing the path the tag takes through the video as the face moves.
+**Paso 7:** Una vez que haya terminado de oscurecer las caras manualmente, puede tocar el icono de reproducción para revisar el video. Esto le mostrará las etiquetas pixeladas sobre las caras, así como un camino verde que muestra la ruta que la etiqueta toma a través del video a medida que se mueve la cara.
 
-**Step 8:** After reviewing the video and you are happy that all faces are obscured, tap the save icon at the top of the screen to save the video to your phones storage.
+**Paso 8:** Después de revisar el video, está contento de que todas las caras están oscurecidas, toque el icono de guardar en la parte superior de la pantalla para guardar el video en el almacenamiento de su teléfono.
 
-### 2.3.3 Changing Output Video Quality
+### 2.3.3 Cambiar la calidad del video de salida
 
-ObscuraCam chooses a default video quality when saving that make the video small enough to easily share via email or other methods but does reduce resolution and quality of the video.
+ObscuraCam elige una calidad de video predeterminada al guardar esa haga que el video sea lo suficientemente pequeño como para compartirlo fácilmente por correo electrónico u otros métodos, pero reduce la resolución y la calidad del video.
 
-To keep the obscured video in a higher resolution:
+Para mantener el video oculto en una resolución mayor:
 
-**Step 1:** After either automatically or manually detecting faces and before saving the video, tap the three vertical dots icon to bring up the menu and select "Preferences".
+**Paso 1:** Después de cualquiera o detectando caras manualmente y antes de guardar el video, toque el ícono de tres puntos verticales para que aparezca el menú y seleccione "Preferencias ".
 
-**Step 2:** Review and change the settings you want, where possibly ObscuraCam will give you the range by which each setting can be changed.
-![image](tool_obscura12.png)
+**Paso 2:** Revise y cambie la configuración que desee, donde posiblemente ObscuraCam le dará el rango por el que se puede cambiar cada ajuste.
+![Image](tool_obscura12.png)
 
- **Step 3:** Once you have made the desired output changes, tap the back button on your phone and save the video.
+**Paso 3:** Una vez que haya realizado el des Si se producen cambios en la salida, toque el botón Atrás en su teléfono y guarde el video.

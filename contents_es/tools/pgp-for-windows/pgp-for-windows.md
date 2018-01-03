@@ -2,491 +2,490 @@
 [Difficulty]: # (Principiante)
 [Order]: # (0)
 
-# PGP FOR WINDOWS PC TOOL GUIDE
+# PGP PARA WINDOWS GUÍA DE HERRAMIENTAS PARA PC
 
-## PGP for Windows PC Tool Guide   
-Encrypted email for Windows
+## PGP para Windows PC Guía de herramientas
+Email encriptado para Windows
 
-**Lesson to read:   
-- [Email](umbrella://lesson/email)**  
-**Download Location:**   
-- GPG4Win  
-- Mozilla Thunderbird  
-- Enigmail  
-**Computer requirements:** An internet connection, a computer running Mac OS X, an email account  
-**Version used in this guide:**   
-- Windows: Windows 7 Ultimate  
-- Mozilla Thunderbird 24.6.0  
-- Enigmail 1.7  
-- GPG4Win 2.2.1  
-**License:** Free Software; mix of Free Software licenses  
-**Level:** Advanced  
-**Time required:** 30-60 minutes
+**Lección para leer:**
+- **[Correo electrónico](umbrella://lesson/email)**
+**Ubicación de descarga:**
+- GPG4Win
+- Mozilla Thunderbird
+- Enigmail
+**Requisitos de computadora:** Una conexión a Internet, una computadora con Mac OS X, una cuenta de correo electrónico
+**Versión utilizada en esta guía:**
+- Windows: Windows 7 Ultimate
+- Mozilla Thunderbird 24.6.0
+- Enigmail 1.7
+- GPG4Win 2.2.1
+**Licencia:** Software libre; combinación de licencias de Software Libre
+**Nivel:** Avanzado
+**Tiempo requerido:** 30-60 minutos
 
-**Using PGP will give you:**  
-- The ability to protect your email communications from being read by anyone except their intended recipients.  
-- The ability to prove that an email came from a particular person, instead of being a fake message sent by another sender (it is otherwise very easy for email to be fabricated). Both of these are important defenses if you're being targeted for surveillance or misinformation.
+**El uso de PGP le dará:**
+- La capacidad de proteger su correo electrónico comunicaciones de ser leído por cualquier persona, excepto sus destinatarios previstos.
+- La capacidad de demostrar que un correo electrónico provino de una persona en particular, en lugar de ser un mensaje falso enviado por otro remitente (de lo contrario, es muy fácil que se fabrique el correo electrónico). Ambas son defensas importantes si está siendo objeto de vigilancia o desinformación.
 
-### 1.0 Before you start 
+### 1.0 Antes de comenzar
 
-To use Pretty Good Privacy (PGP), you will need to install some extra software that will work with your current email program. You will also need to create a private key, which you will keep private. The private key is what you will use to decrypt emails sent to you, and to digitally sign emails that you send to show they truly came from you. Finally, you'll learn how to distribute your public key-a small chunk of information that others will need to know before they can send you encrypted mail, and that they can use to verify emails you send.
+Para usar Pretty Good Privacy (PGP), deberá instalar algún software adicional que lo trabaja con tu programa de correo electrónico actual. También necesitarás crear una clave privada, que mantendrás en privado. La clave privada es lo que usará para descifrar los correos electrónicos que se le envían, y para firmar digitalmente correos electrónicos que envíe para mostrar que realmente provienen de usted. Finalmente, aprenderá cómo distribuir su clave pública, una pequeña porción de información que otros necesitarán saber antes de poder enviarle correos encriptados, y que pueden usar para verificar los correos electrónicos que envíe.
 
-**Note that both ends of the email conversation need to be using PGP-compatible software for it to work.**
+**Nota que ambos extremos de la conversación por correo electrónico deben estar usando un software compatible con PGP para que funcione.**
 
-People will normally use this only on their own personal devices, not on shared devices. Fortunately, PGP is available for most desktop computers and mobile devices, and you can point them to these guides to help them set up their own version. This guide is for Windows users.
+La gente normalmente usará esto solo en sus propios dispositivos personales, no en dispositivos compartidos. Afortunadamente, PGP está disponible para la mayoría de las computadoras de escritorio y dispositivos móviles, y puede indicarles estas guías para ayudarlos a configurar su propia versión. Esta guía es para usuarios de Windows.
 
-### 1.1 Overview
+### 1.1 Información general
 
-To use PGP to exchange secure emails you have to bring together three programs: GPG4Win (GNU Privacy Guard for Windows known as GnuPG), Mozilla Thunderbird and Enigmail. 
+Para usar PGP para intercambiar correos electrónicos seguros, debe unir tres programas: GPG4Win (GNU Privacy Guard para Windows conocido como GnuPG), Mozilla Thunderbird y Enigmail. .
 
-- GnuPG is the program that actually encrypts and decrypts the content of your mail.  
-- Mozilla Thunderbird is an email client that allows you to read and write emails without using a browser.  
-- Enigmail is an add-on to Mozilla Thunderbird that ties it all together.
+- GnuPG es el programa que realmente encripta y descifra el contenido de su correo.
+- Mozilla Thunderbird es un cliente de correo electrónico que le permite leer y escribir correos electrónicos sin usar un navegador.
+- Enigmail es un complemento de Mozilla Thunderbird que lo une todo.
 
-Note! What this guide teaches is how to use PGP with Mozilla Thunderbird, an email client program that performs a similar function to Outlook. You may have your own favorite email software program (or use a web mail service like Google Mail or Outlook.com). This guide won't tell you how to use PGP with these programs. You can choose either to install Thunderbird and experiment with PGP with a new email client, or you can investigate other solutions to use PGP with your customary software. We have still not found a satisfactory solution for these other programs.
+Nota! Lo que esta guía enseña es cómo usar PGP con Mozilla Thunderbird, un programa cliente de correo electrónico que realiza una función similar a la de Outlook. Puede tener su propio programa de software de correo electrónico favorito (o utilizar un servicio de correo web como Google Mail o Outlook.com). Esta guía no le dirá cómo usar PGP con estos programas. Puede optar por instalar Thunderbird y experimentar con PGP con un nuevo cliente de correo electrónico, o puede investigar otras soluciones para usar PGP con su software habitual. Todavía no hemos encontrado una solución satisfactoria para estos otros programas.
 
-**Using PGP doesn't completely encrypt your email: the sender and receiver information is still unencrypted and so is the subject line!**
+**El uso de PGP no encripta completamente su correo electrónico: la información del remitente y del receptor aún no está encriptada, al igual que la línea de asunto.**
 
-Encrypting the sender and receiver information isn't possible in the existing email system. What using Mozilla Thunderbird with the Enigmail add-on gives you is an easy way to encrypt the content of your email. Someone spying on your emails may still see the identities of the people you communicate with and when you email them.
+Encifrado la información del remitente y del receptor no es posible en el sistema de correo electrónico existente. Lo que le ofrece el uso de Mozilla Thunderbird con el complemento Enigmail es una manera fácil de encriptar el contenido de su correo electrónico. Alguien que espíe sus correos electrónicos puede ver las identidades de las personas con las que se comunica y cuando las envía por correo electrónico.
 
-You will first download all the software needed, install it, and then end with configuration and usage.
+Primero descargará todo el software necesario, lo instalará y luego finalizará con la configuración y el uso.
 
-### 2 Downloading the software
+### 2 Descarga del software
 
-### 2.1 Getting GPG4Win
+### 2.1 Obtención de GPG4Win
 
-You can get GnuPG (also known as GPG) on Windows by downloading the small installer from the GPG4Win download page.
+Puede obtener GnuPG (también conocido como GPG) en Windows descargando el instalador pequeño desde la página de descarga de GPG4Win.
 ![image](tool_pgpwin1.png)
 
-Click on the most recent version of GPG4Win with GnuPG component only (Vanilla or Light) to download the GPG installer.
+Haga clic en la versión más reciente de GPG4Win con el componente GnuPG solamente (Vanilla o Light) para descargar el instalador GPG.
 
-**Note: This version of GPG is available only on a web site that offers "http" downloads, not secure "https" downloads. If you are concerned that you may be targeted for surveillance by an organization that can tamper with your Internet connection, you may want to investigate more drastic solutions, such as downloading and running Tails, a secure operating system that replaces Windows.**
+**Nota: Esta versión de GPG está disponible solo en un sitio web que ofrece "http" descargas, no seguras "https" descargas. Si le preocupa que una organización que puede alterar su conexión a Internet pueda vigilarlo, puede investigar soluciones más drásticas, como descargar y ejecutar Tails, un sistema operativo seguro que reemplaza a Windows.**
 
-Many browsers will ask you to confirm whether you want to download this file. Internet Explorer 11 shows a bar at the bottom of the browser window with an orange border.
+Muchos navegadores le solicitarán que confirme si desea descargar este archivo. Internet Explorer 11 muestra una barra en la parte inferior de la ventana del navegador con un borde naranja.
 
-For any browser it is best to first save the file before proceeding, so _click the "Save" button_. By default, most browsers save downloaded files in the Downloads folder.
+Para cualquier navegador, lo mejor es guardar primero el archivo antes de continuar, por lo que _haga clic en el botón "Guardar"_. De forma predeterminada, la mayoría de los navegadores guardan los archivos descargados en la carpeta de Descargas.
 
-### 2.2 Getting Mozilla Thunderbird
+### 2.2 Obteniendo Mozilla Thunderbird
 
-Go to the Mozilla Thunderbird website.
+Vaya al sitio web de Mozilla Thunderbird.
 ![image](tool_pgpwin2.png)
 
-Click on the green button labelled "Thunderbird Free Download."
+Haga clic en el botón verde etiquetado "Descarga gratuita de Thunderbird. "
 
-The Mozilla Thunderbird website will have detected your preferred language. If you want to use Thunderbird in another language click on the "Other Systems & Languages" link and make your selection from there.
+El sitio web de Mozilla Thunderbird habrá detectado su idioma preferido. Si desea utilizar Thunderbird en otro idioma, haga clic en el enlace "Other Systems & Languages" y realice su selección desde allí.
 
-Many browsers will ask you to confirm if you want to download this file. Internet Explorer 11 shows a bar at the bottom of the browser window with an orange border.
+Muchos navegadores le solicitarán que confirme si desea descargar este archivo. Internet Explorer 11 muestra una barra en la parte inferior de la ventana del navegador con un borde naranja.
 ![image](tool_pgpwin3.png)
 
-For any browser, it is best to first save the file before proceeding, so click the "Save" button. By default, most browsers save downloaded files in the Downloads folder.
+Para cualquier navegador, es mejor guardar primero el archivo antes de continuar, haga clic en "Guardar" botón. De forma predeterminada, la mayoría de los navegadores guardan los archivos descargados en la carpeta Descargas.
 
-### 2.3 Getting Enigmail
+### 2.3 Obtención de Enigmail
 
-You can get Enigmail from the Enigmail website.
+Puede obtener Enigmail del sitio web de Enigmail.
 ![image](tool_pgpwin4.png)
 
-Many browsers will ask you to confirm if you want to download this file. Internet Explorer 11 shows a bar at the bottom of the browser window with an orange border.
+Many los navegadores le pedirán que confirme si desea descargar este archivo. Internet Explorer 11 muestra una barra en la parte inferior de la ventana del navegador con un borde naranja.
 ![image](tool_pgpwin5.png)
-For any browser it is best to first save the file before proceeding, so click the "Save" button. By default, most browsers save downloaded files in the Downloads folder.
+Para cualquier navegador, lo mejor es guardar primero el archivo antes de continuar, haga clic en el botón "Guardar "botón. De forma predeterminada, la mayoría de los navegadores guardan los archivos descargados en la carpeta de descargas.
 
 
-After downloading Enigmail, GPG4Win, and Mozilla Thunderbird you should have three new files in your Downloads folder:
+Después de descargar Enigmail, GPG4Win y Mozilla Thunderbird debe tener tres archivos nuevos en su carpeta de descargas:
 ![image](tool_pgpwin6.png)
 
-### 3 Installing the software
+### 3 Instalación del software
 
-### 3.1 Installing GPG4Win
+### 3.1 Instalación de GPG4Win
 
-Keep the Windows Explorer window open and double-click on gpg4win-xxx-x.x.x.exe. You'll be asked if you want to allow the installation of this program. Click the "Yes" button.
+Mantenga abierta la ventana del Explorador de Windows y haga doble clic en gpg4win-xxx-xxxexe. Se le preguntará si desea permitir la instalación de este programa. Haga clic en el botón "Sí".
 ![image](tool_pgpwin7.png)
 
-A window will open, giving you an overview of what will be installed. Click the "Next" button.
+Se abrirá una ventana que le brinda una visión general de lo que se instalará. Haga clic en el botón "Siguiente".
 ![image](tool_pgpwin8.png)
 
-A window with the license agreement will open up. Click the "Next" button.
+Se abrirá una ventana con el acuerdo de licencia. Haga clic en el botón "Siguiente".
 ![image](tool_pgpwin9.png)
 
-The GPG4Win Vanilla package doesn't have components to select, so click the "Next "button again. For the GPG4Win-Light package, unselect all optional components to install GnuPG only.
+El paquete GPG4Win Vanilla no tiene componentes para seleccionar, entonces haga clic en el botón "Siguiente" otra vez. Para el paquete GPG4Win-Light, desmarque todos los componentes opcionales para instalar solo GnuPG.
 ![image](tool_pgpwin10.png)
 
-Next, you'll have the ability to choose where GPG is installed. Don't change the default setting. Click the "Next" button.
+Siguiente, tendrá la posibilidad de elegir dónde está instalado GPG. No cambie la configuración predeterminada. Haga clic en el botón "Siguiente".
 ![image](tool_pgpwin11.png)
 
-The next two windows will have some installation options. Click the "Next" button and then click the "Install" button:
-![image](tool_pgpwin12.png)![image](tool_pgpwin13.png)
+Las siguientes dos ventanas tendrán algunas opciones de instalación. Haga clic en el botón "Siguiente" y luego haga clic en el botón "Instalar ":
+![Imagen](herramienta_pgpwin12.png)![Imagen](herramienta_pgpwin13.png)
 
-You will see a window with a progress bar-when it's done it will say "Installation Complete." Click the "Next" button again.
+Verá una ventana con un progreso bar: cuando termine, dirá "Instalación completa." Haga clic nuevamente en el botón "Siguiente".
 ![image](tool_pgpwin14.png)
 
-Finally, you are at the last installation step. Remove the check mark next to "Show the README file" and click the "Finish" button.
+Finalmente, se encuentra en el último paso de instalación. Quite la marca de verificación junto a "Mostrar el archivo README" y haga clic en el botón "Finish".
 ![image](tool_pgpwin15.png)
 
-That's it. Now let's move on to installing Mozilla Thunderbird.
+Eso es todo. Ahora pasemos a la instalación de Mozilla Thunderbird.
 
-### 3.2 Installing Mozilla Thunderbird
+### 3.2 Instalación de Mozilla Thunderbird
 
-Similar to GPG4Win, you install Mozilla Thunderbird by double-clicking the Thunderbird Setup 24.6.0.exe file. As usual, you will be asked if you want to run this file. Click the "Run" button.
+De forma similar a GPG4Win, instale Mozilla Thunderbird haciendo doble clic en el archivo Thunderbird Setup 24.6.0.exe. Como de costumbre, se le preguntará si desea ejecutar este archivo. Haga clic en el botón "Ejecutar".
 ![image](tool_pgpwin16.png)
 
-You will be asked if you want to allow Mozilla Thunderbird to make a change to your computer by installing software. Click the "Yes" button.
+Se le preguntará si desea permitir que Mozilla Thunderbird realice un cambio en su computadora mediante la instalación de software. Haga clic en el botón "Sí".
 ![image](tool_pgpwin17.png)
 
-You will see the Mozilla Thunderbird Setup window. Click the "Next" button.
+Verá la ventana de configuración de Mozilla Thunderbird. Haga clic en el botón "Siguiente".
 ![image](tool_pgpwin18.png)
 
-Next, you will get a choice between a Standard setup and a Custom setup. Keep the Standard setup selection and click the "Next" button.
+Siguiente, podrá elegir entre una configuración estándar y una configuración personalizada. Mantenga la selección de configuración estándar y haga clic en el botón "Siguiente".
 ![image](tool_pgpwin18.png)
 
-You will be given a summary of where Mozilla Thunderbird's files will be installed. Click the "Install" button.
+Se le dará un resumen de dónde se instalarán los archivos de Mozilla Thunderbird. Haga clic en el botón "Instalar".
 ![image](tool_pgpwin19.png)
 
-When the installation process is complete, you will see a final window that enables you to launch Mozilla Thunderbird. Click the "Finish" button.
+Cuando se complete el proceso de instalación, verá una ventana final que le permite iniciar Mozilla Thunderbird. Haga clic en el botón "Finish".
 ![image](tool_pgpwin20.png)
 
-### 3.3. Enigmail installation
+### 3.3. Instalación de Enigmail
 
-**Step 1. Preparation** 
+**Paso 1. Preparación**
 
-When Mozilla Thunderbird launches for the first time, you will see this small confirmation window asking about some default settings. We recommend clicking the "Set as Default" button.
+Cuando Mozilla Thunderbird se inicie por primera vez, verá esta pequeña ventana de confirmación preguntándole sobre algunas configuraciones predeterminadas. Recomendamos hacer clic en el botón "Establecer como predeterminado".
 ![image](tool_pgpwin21.png)
 
-Next, you will be asked whether you would like a new email address. Click the "Skip this and use my existing email" button. Now you will configure Mozilla Thunderbird to send and receive email. If you are used to only reading and sending email through gmail.com, outlook.com, or yahoo.com, Mozilla Thunderbird will be a new experience, but it isn't that different overall.
+Siguiente, se le preguntará si desea una nueva dirección de correo electrónico. Haga clic en el botón "Omitir esto y usar mi correo electrónico existente". Ahora configurará Mozilla Thunderbird para enviar y recibir correos electrónicos. Si solo está acostumbrado a leer y enviar correos electrónicos a través de gmail.com, outlook.com o yahoo.com, Mozilla Thunderbird será una experiencia nueva, pero en general no es tan diferente.
 ![image](tool_pgpwin22.png)
 
-**Step 2. Adding a mail account to Mozilla Thunderbird**
+**Paso 2. Agregar una cuenta de correo a Mozilla Thunderbird**
 
-A new window will open.
+Se abrirá una nueva ventana.
 ![image](tool_pgpwin23.png)
 
-Enter your name, email address, and the password to your email account. Mozilla doesn't have access to your password or your email account. Click the "Continue" button.
+Ingrese su nombre, dirección de correo electrónico, y la contraseña de tu cuenta de correo electrónico Mozilla no tiene acceso a su contraseña ni a su cuenta de correo electrónico. Haga clic en el botón "Continuar".
 ![image](tool_pgpwin24.png)
 
-In many cases Mozilla Thunderbird will automatically detect the necessary settings. In some cases Mozilla Thunderbird doesn't have complete information and you'll need to enter it yourself. Here is an example of the instructions Google provides for Gmail:
+En muchos casos, Mozilla Thunderbird detectará automáticamente las configuraciones necesarias. En algunos casos, Mozilla Thunderbird no tiene información completa y deberá ingresarla usted mismo. A continuación, se incluye un ejemplo de las instrucciones que Google proporciona para Gmail:
 
-Incoming Mail (IMAP) Server - Requires SSL  
-- imap.gmail.com  
-- Port: 993  
-- Requires SSL:Yes
+Servidor de correo entrante (IMAP): requiere SSL
+- imap.gmail.com
+- Puerto: 993
+- Requiere SSL: Sí
 
-Outgoing Mail (SMTP) Server - Requires TLS  
-- smtp.gmail.com  
-- Port: 465 or 587  
-- Requires SSL: Yes  
-- Requires authentication: Yes  
-- Use same settings as incoming mail server
+Correo saliente (SMTP) Servidor: requiere TLS
+- smtp.gmail.com
+- Puerto: 465 o 587
+- Requiere SSL: Sí
+- Requiere autenticación: Sí
+- Use la misma configuración que el servidor de correo entrante
 
-**Full Name or Display Name:** [your name or pseudonym]
+**Nombre completo o nombre para mostrar:** [su nombre o seudónimo]
 
-**Account Name or User Name:** your full Gmail address (username@gmail.com). Google Apps users, please enter username@your_domain.com
+**Nombre de la cuenta o nombre de usuario:** su dirección completa de Gmail (username@gmail.com). Usuarios de Google Apps, ingresen username@your_domain.com
 
-**Email address:** your full Gmail address (username@gmail.com) Google Apps users, please enter username@your_domain.com
+**Dirección de correo electrónico:** su dirección completa de Gmail (username@gmail.com) Usuarios de Google Apps, ingresen username@your_domain.com
 
-**Password:** your Gmail password
+**Contraseña:** su contraseña de Gmail
 
-**If you use two-factor authentication with Google (and depending on your threat model you probably should!) you cannot use your standard Gmail password with Thunderbird. Instead, you will need to create a new application-specific password for Thunderbird to access your Gmail account. See [Google's own guide](https://support.google.com/mail/answer/1173270?hl=en) for doing this.**
+**Si usa la autenticación de dos factores con Google (y dependiendo de su modelo de amenaza, probablemente debería hacerlo) no puede usar su contraseña estándar de Gmail con Thunderbird. En su lugar, deberá crear una nueva contraseña específica de la aplicación para que Thunderbird acceda a su cuenta de Gmail. Consulte [Guía propia de Google](https://support.google.com/mail/answer/1173270?hl=en) para hacer esto.**
 
-When all the information is entered correctly, click the "Done" button.
+Cuando toda la información se ingrese correctamente, haga clic en "Hecho" "button.
 ![image](tool_pgpwin25.png)
 
-Mozilla Thunderbird will start downloading copies of your email to your computer. Try sending a test email to your friends.
+Mozilla Thunderbird comenzará a descargar copias de su correo electrónico a su computadora. Intenta enviar un correo electrónico de prueba a tus amigos.
 
-**Step 3. Installing Enigmail**
+**Paso 3. Instalar Enigmail**
 
-Enigmail is installed in a different way from Mozilla Thunderbird and GPG4Win. As mentioned before, Enigmail is an Add-on for Mozilla Thunderbird. Click the "Menu button," also called the Hamburger button, and select "Add Ons."
+Enigmail se instala de forma diferente a Mozilla Thunderbird y GPG4Win. Como se mencionó anteriormente, Enigmail es un complemento para Mozilla Thunderbird. Haga clic en el "Botón de menú," también llamado botón Hamburger, y seleccione "Agregar Ons. "
 ![image](tool_pgpwin26.png)
 
-You'll be taken to the Add-ons Manager tab.
+Se lo llevará a la pestaña del Administrador de Complementos .
 ![image](tool_pgpwin27.png)
 
-Click the cog to bring up a small menu and select "Install add-on from file" which will bring up a file-selection window.
-![image](tool_pgpwin28.png)
+Haga clic en el engranaje para abrir un pequeño menú y seleccione "Instalar add-on desde el archivo" que abrirá una ventana de selección de archivos.
+![ imagen](tool_pgpwin28.png)
 
-The file selection window will very likely open to the Downloads folder. If it doesn't, go to the Downloads folder (where Enigmail was saved to) click on enigmail-1.7-tb+sm.xpi then click the "Open" button.
+Es muy probable que la ventana de selección de archivos se abra en la carpeta Descargas. Si no lo hace, vaya a la carpeta de Descargas (donde se guardó Enigmail) haga clic en enigmail-1.7-tb + sm.xpi y luego haga clic en el botón "Abrir".
 ![image](tool_pgpwin29.png)
 
-Now you will see a small window asking you to confirm whether you want to install Enigmail. Click the "Install Now" button.
+Ahora verá una pequeña ventana que le pedirá que confirme si desea instalar Enigmail. Haga clic en el botón "Instalar ahora".
 ![image](tool_pgpwin30.png)
 
-After the Enigmail add-on is installed, Mozilla Thunderbird will ask to restart the browser to activate Enigmail. Click the "Restart Now" button and Mozilla Thunderbird will restart.
+Después de instalar el complemento Enigmail, Mozilla Thunderbird le pedirá que reinicie el navegador para activar Enigmail. Haga clic en el botón "Reiniciar ahora" y Mozilla Thunderbird se reiniciará.
 ![image](tool_pgpwin31.png)
 
-When Mozilla Thunderbird restarts, an additional window will open up that will start the process of setting up the Enigmail add-on. Keep the "Yes, I would like the wizard to get me started" button selected and click the "Next" button.
-![image](tool_pgpwin32.png)
+Cuando se reinicie Mozilla Thunderbird, se abrirá una ventana adicional que iniciará el proceso de configuración de Enigmail Añadir. Mantenga el botón "Sí, me gustaría que el asistente me haga funcionar" y haga clic en el botón "Siguiente".
+![Imagen](tool_pgpwin32.png)
 
-Enigmail provides you with three options for handling mail. The default option is to encrypt emails if you have the "public key" of another person, Enigmail will encrypt the email you send but leave emails unencrypted if you don't have the public key of the recipient yet. You also have the option to encrypt emails all the time to everyone with PGP keys, which means that you will have to find the public keys for people for whom you don't have them already, or turn off automatic encryption  completely and only use PGP when directed.
+Enigmail le proporciona tres opciones para manejo de correo. La opción predeterminada es cifrar los correos electrónicos si tiene la "clave pública" de otra persona, Enigmail cifrará el correo electrónico que envía pero dejará los correos electrónicos sin cifrar si todavía no tiene la clave pública del destinatario. También tiene la opción de encriptar correos electrónicos todo el tiempo a todos con las llaves PGP, lo que significa que tendrá que encontrar las claves públicas para las personas para las que aún no las tiene, o desactivar por completo el cifrado automático y solo usar PGP cuando se lo indique.
 ![image](tool_pgpwin33.png)
 
-We don't know what the appropriate option is for you, but believe the "Convenient auto encryption" option to be a good choice. If you are in doubt, choose "Don't encrypt my messages by default." Click the "Next" button.
+No sabemos cuál es la opción adecuada para usted, pero creemos que la opción "Convenient auto encryption" es una buena opción. Si tiene dudas, elija "No cifre mis mensajes de forma predeterminada." Haga clic en el botón "Siguiente".
 
-Now you have an option to digitally sign all outgoing emails. Signing your email with PGP allows the recipient to check that you sent the message, and that the contents of the message were not tampered with. Click the "Sign my messages by default" button to turn this feature on. The downside of doing this, however, is that it can also flag to anyone you send mail to that you use PGP. [In some parts of the world](www.cryptolaw.org/) (including China, Iran, Belarus, and some Middle-East states) using unlicensed encryption, even for personal use, is illegal, so you might have very good reasons to not let others know you use PGP.
+Ahora tiene la opción de firmar digitalmente todos los correos electrónicos salientes. Firmar su correo electrónico con PGP le permite al destinatario verificar que haya enviado el mensaje y que no haya alterado el contenido del mensaje. Haga clic en el botón "Firmar mis mensajes por defecto" para activar esta característica. La desventaja de hacer esto, sin embargo, es que también puede marcar a cualquiera a quien le envíe correo que use PGP. [En algunas partes del mundo](www.cryptolaw.org/) (incluidos China, Irán, Bielorrusia y algunos estados del Medio Oriente) el uso de encriptación sin licencia, incluso para uso personal, es ilegal, por lo que puede tener muy buenas razones para que los demás no sepan que usa PGP.
 
-Click the "Next" Button.
+Haga clic en el botón "Siguiente".
 ![image](tool_pgpwin34.png)
 
-Now you'll see an option to have Enigmail make some changes to the configuration of Mozilla Thunderbird.
+Ahora verá una opción para que Enigmail realice algunos cambios en el configuración de Mozilla Thunderbird.
 ![image](tool_pgpwin35.png)
 
-If you click the Details button you can review what those changes are.
+Si hace clic en el botón Detalles, puede revisar cuáles son esos cambios.
 ![image](tool_pgpwin36.png)
 
-The following options can be unchecked (reenabled), for a more seamless transition, if you use PGP/Mime by default (we'll set that later):
+Las siguientes opciones puede ser desmarcado (reactivado), para una transición más fluida, si usa PGP / Mime de manera predeterminada (lo configuraremos más adelante):
 
-- Disable flowed text  
-- View message body as plain text  
-- Do not compose HTML messages
-The final option prevents potential problems in the encryption and decryption of your email. Be aware that selecting this box will remove the ability to send text that is bolded, underlined or colored. After reviewing the changes, click the "OK button."
+- Deshabilitar texto circulado
+- Ver el cuerpo del mensaje como texto sin formato
+- No redacte mensajes HTML.
+La opción final evita posibles problemas en el cifrado y descifrado de su correo electrónico. Tenga en cuenta que al seleccionar esta casilla se eliminará la posibilidad de enviar texto en negrita, subrayado o coloreado. Después de revisar los cambios, haga clic en el botón "Aceptar. "
 
 
-The small window will close. Click the "Next" button.
+La pequeña ventana se cerrará. Haga clic en el botón "Siguiente".
 
-Now you will start creating your private key and public key.
+Ahora comenzará a crear su clave privada y clave pública.
 
-### 4 Creating a public key and private key
+### 4 Creando una clave pública y una clave privada
 
-Installation and setup of the Enigmail add-on is complete. Now you'll have the option of creating your public and private key pair. This assumes you have not created a private key before.
+Instalación y configuración de Enigmail add- encendido está completo. Ahora tendrá la opción de crear su par de claves pública y privada. Esto supone que no ha creado una clave privada antes.
 
-Click the "Next" button.
-![image](tool_pgpwin37.png)
+Haga clic en el botón "Siguiente".
+![Imagen](tool_pgpwin37.png)
 
-Unless you have already configured more than one email account, Enigmail will choose the email account you've already configured. The first thing you'll need to do is come up with a strong passphrase for your private key. See the **[Passwords lesson](umbrella://lesson/passwords)** for more information on how to do this.
+A menos que haya configurado más de una cuenta de correo electrónico, Enigmail elija la cuenta de correo electrónico que ya ha configurado. Lo primero que tendrá que hacer es crear una contraseña segura para su clave privada. Consulte la ** [lección de contraseñas](paraguas: // lección / contraseñas) ** para obtener más información sobre cómo hacer esto.
 
-Make sure that you've written down this passphrase on paper until you have memorized it. Keep it somewhere where you can tell if it has been taken or viewed (like your wallet or purse). Just make sure you don't leave this paper lying around.
+Asegúrese de haber anotado esta frase de contraseña en papel hasta que la haya memorizado. Guárdelo en algún lugar donde pueda saber si se lo tomaron o vieron (como su billetera o cartera). Solo asegúrese de no dejar este documento por ahí.
 
-Click the "Next" button.
+Haga clic en el botón "Siguiente".
 
-Enigmail will display some information about your private key as well as the configuration settings. We recommend creating 4096-bit length keys. Click the "Next" button.
+Enigmail mostrará información sobre su clave privada y sobre la configuración. Recomendamos crear claves de longitud de 4096 bits. Haga clic en el botón "Siguiente".
 ![image](tool_pgpwin38.png)
 
-**Your key will expire at a certain time; when that happens, other people will stop using it entirely for new emails to you, though you might not get any warning or explanation about why. So, you may want to mark your calendar and pay attention to this issue a month or so before the expiration date.**
+**Su clave caducará en un momento determinado; cuando eso sucede, otras personas dejarán de usarlo por completo para recibir correos electrónicos nuevos, aunque es posible que no reciba ninguna advertencia o explicación sobre por qué. Por lo tanto, es posible que desee marcar su calendario y prestar atención a este problema aproximadamente un mes antes de la fecha de vencimiento.**
 
-It's possible to extend the lifetime of an existing key by giving it a new, later expiration date, or it's possible to replace it with a new key by creating a fresh one from scratch. Both processes might require contacting people who email you and making sure that they get the updated key; current software isn't very good at automating this. So make a reminder for yourself; if you don't think you'll be able to manage it, you can consider setting the key so that it never expires, though in that case other people might try to use it when contacting you far in the future even if you no longer have the private key or no longer use PGP.
+Es posible prolongar el período de vigencia de una clave existente dándole una nueva fecha de vencimiento posterior o es posible reemplazarlo con una nueva clave creando uno nuevo desde cero. Ambos procesos pueden requerir el contacto con personas que le envían correos electrónicos y se aseguran de que obtengan la clave actualizada; el software actual no es muy bueno para automatizar esto. Así que haz un recordatorio por ti mismo; si no crees que puedas gestionarlo, puedes considerar configurar la clave para que nunca caduque, aunque en ese caso otras personas podrían tratar de usarlo cuando te contacten en el futuro, incluso si ya no lo haces. tiene la clave privada o ya no usa PGP.
 
-Enigmail will generate the key and when it is complete, a small window will open asking you to generate a revocation certificate. This revocation certificate is important to have as it allows you to make the private key and public key invalid. It is important to note that merely deleting the private key does not invalidate the public key and may lead to people sending you encrypted mail that you can't decrypt.
+Enigmail generará la clave y, cuando se complete, se abrirá una pequeña ventana que le pedirá que genere un certificado de revocación. Es importante tener este certificado de revocación, ya que le permite hacer que la clave privada y la clave pública no sean válidas. Es importante tener en cuenta que simplemente eliminar la clave privada no invalida la clave pública y puede hacer que las personas le envíen mensajes encriptados que no puede descifrar.
 
-Click the "Generate Certificate" button.
-![image](tool_pgpwin39.png)
+Haga clic en el botón "Generar certificado".
+![ imagen](tool_pgpwin39.png)
 
-A window will open to provide you a place to save the revocation certificate. While you can save the file to your computer, we recommend saving the file on a USB drive that you are using for nothing else and storing the drive in a safe spot. We also recommend removing the revocation certificate from the computer with the keys, just to avoid unintentional revocation.
+Se abrirá una ventana para proporcionarle un lugar donde guardar el certificado de revocación. Mientras puede guardar el archivo en su computadora, le recomendamos que guarde el archivo en una unidad USB que está utilizando para nada más y que guarde la unidad en un lugar seguro. También recomendamos eliminar el certificado de revocación de la computadora con las claves, solo para evitar la revocación involuntaria.
 
-Even better, save this file on a separate encrypted disk. Choose the location where you are saving this file and click the "Save" button.
+Incluso mejor, guarde este archivo en un disco cifrado diferente. Elija la ubicación donde está guardando este archivo y haga clic en el botón "Guardar".
 ![image](tool_pgpwin40.png)
 
-Now Enigmail will give you further information about saving the revocation certificate file again. Click the "OK" button.
+Ahora, Enigmail le dará más información sobre cómo guardar nuevamente el archivo de certificado de revocación. Haga clic en el botón "Aceptar".
 ![image](tool_pgpwin41.png)
 
-Finally, you are done with generating the private key and public key. Click the "Finish" button.
+Finalmente, ha terminado de generar la clave privada y la clave pública. Haga clic en el botón "Finish".
 ![image](tool_pgpwin42.png)
 
-### 5 Optional steps
+### 5 Pasos opcionales
 
-### 5.1 Display long key-IDs
+### 5.1 Mostrar long-key IDs
 
-The next steps are completely optional but they can be helpful when using OpenPGP and Enigmail. Briefly, the Key ID is a small part of the fingerprint. When it comes to verifying that a public key belongs to a particular person the fingerprint is the best way. Changing the default display makes it easier to read the fingerprints of the certificates you know about. Click the configuration button, then the Enigmail option, then Key Management.
+Los siguientes pasos son completamente opcional pero pueden ser útiles al usar OpenPGP y Enigmail. En resumen, el ID de clave es una pequeña parte de la huella digital. Cuando se trata de verificar que una clave pública pertenece a una persona en particular, la huella dactilar es la mejor manera. Cambiar la pantalla predeterminada facilita la lectura de las huellas dactilares de los certificados que conoce. Haga clic en el botón de configuración, luego en la opción Enigmail y luego en Gestión de claves.
 ![image](tool_pgpwin43.png)
 
-A window will open showing two columns: Name and Key ID.
+Se abrirá una ventana que muestra dos columnas: Nombre e ID de clave.
 ![image](tool_pgpwin43.png)
 
-On the far right there is a small button. Click that button to configure the columns. Unclick the Key ID option and click the Fingerprint option.
+En el extremo derecho hay un pequeño botón. Haga clic en ese botón para configurar las columnas. Desmarque la opción ID de clave y haga clic en la opción Huella digital.
 ![image](tool_pgpwin44.png)
 
-Now the columns will look like this:
+Ahora las columnas se verán así:
 ![image](tool_pgpwin45.png)
 
-Now you are set up to send and receive regular and encrypted email. Next you will go through the steps of actually finding the people to exchange encrypted mail with.
+Ahora usted está configurado para enviar y recibir correo electrónico regular y encriptado. A continuación, realizará los pasos para encontrar realmente a las personas con las que intercambiar correo cifrado.
 
-### 5.2 Using PGP/MIME
+### 5.2 Utilizar PGP / MIME
 
-There is a final optional configuration step is to enable PGP/MIME which makes sending encrypted and signed attachments easier.
+Hay un último paso de configuración opcional para habilitar PGP / MIME, lo que hace que el envío se encripte y los archivos adjuntos firmados son más fáciles.
 
-You can find this setting by clicking on the Menu Button, hovering over Options, then clicking Account Settings. The Account Settings window will open.
-![image](tool_pgpwin46.png)
+Puede encontrar esta configuración haciendo clic en el botón de menú, al pasar el mouse sobre Opciones y luego hacer clic en Configuración de la cuenta. Se abrirá la ventana Configuración de la cuenta.
+![Imagen](herramienta_pgpwin46.png)
 
-When the Account Settings window opens click the OpenPGP Security tab then click the checkbox next to Use PGP/MIME by default. Next click the OK button. Now Enigmail will use PGP/MIME by default.
+Cuando se abra la ventana Configuración de la cuenta, haga clic en la pestaña Seguridad OpenPGP y luego haga clic en la casilla de verificación junto a Usar PGP / MIME. Luego haz clic en el botón Aceptar. Ahora Enigmail usará PGP / MIME de forma predeterminada.
 ![image](tool_pgpwin47.png)
 
-**Using PGP doesn't completely encrypt your email so that the sender and received information is encrypted. Encrypting the sender and receiver information would break email. Using Thunderbird with the Enigmail add-on gives you an easy way to encrypt and decrypt the content of your email.**
+**El uso de PGP no encripta completamente su correo electrónico para que el remitente y la información recibida estén encriptados. Encriptar la información del remitente y del receptor rompería el correo electrónico. El uso de Thunderbird con el complemento Enigmail le brinda una forma fácil de encriptar y descifrar el contenido de su correo electrónico.**
 
-### 6.1 Letting others know you are using PGP
+### 6.1 Informar a otras personas que está usando PGP
 
-Now that you have PGP, you want to let others know that you are using it so they can also send you encrypted messages using PGP.
+Ahora que tenga PGP, usted desea que los demás sepan que lo está usando para que también puedan enviarle mensajes cifrados con PGP.
 
-Let's look at three different ways you can let people know you are using PGP.
+Examinemos tres maneras diferentes para que las personas sepan que está utilizando PGP.
 
-**a) Let people know you are using PGP with an email**
+**a) Permita que las personas sepa que está utilizando PGP con un correo electrónico**
 
-You can easily email your public key to another person by sending them a copy as an attachment.
+Puede enviar fácilmente una clave pública a otra persona enviándole una copia como archivo adjunto.
 
-Click the "Write" button in Mozilla Thunderbird.
+Haga clic en el botón "Escribir" en Mozilla Thunderbird.
 ![image](tool_pgpwin48.png)
 
-Fill in an address and a subject, perhaps something like "my public key," click the Enigmail menu and select the "Attach My Public Key" option.
+Resuma en una dirección y un asunto, tal vez algo como "mi clave pública," haz clic en el menú Enigmail y selecciona la opción "Adjuntar mi clave pública".
 ![image](tool_pgpwin49.png)
 
-You can send the email and the recipient will be able to download and use the public key you sent.
+Puede enviar el correo electrónico y el destinatario podrá descargar y usar la clave pública que envió.
 
-If this method is used, it's a good idea to have the recipient verify your public key's fingerprint over some other form of communication, in case email is already being intercepted and tampered with.
+Si se utiliza este método, es una buena idea que el destinatario verifique la huella dactilar de tu llave pública int sobre alguna otra forma de comunicación, en caso de que el correo electrónico ya esté siendo interceptado y manipulado.
 
-**b) Let people know you are using PGP on your website**
+**b) Haga saber a la gente que está usando PGP en su sitio web**
 
-In addition to letting people know via email, you can post your public key on your website. The easiest way is to upload the file and link to it. This guide won't go into how to do those things, but you should know how to export the certificate as a file to use in the future.
+Además de informar a la gente por correo electrónico , puede publicar su clave pública en su sitio web. La forma más fácil es subir el archivo y vincularlo. Esta guía no explicará cómo hacer esas cosas, pero debe saber cómo exportar el certificado como un archivo para usar en el futuro.
 
-Click the configuration button, then the Enigmail option, then Key Management.
+Haga clic en el botón de configuración, luego en la opción Enigmail y luego en Administración de claves.
 
-Highlight the certificate in bold, then right-click to bring up the menu and select Export keys to file.
+Resalte el certificado en negrita, luego haga clic con el botón derecho para abrir el menú y seleccione Exportar claves al archivo.
 ![image](tool_pgpwin50.png)
 
-A small window will pop up with three buttons. Click the "Export Public Keys Only" button.
-![image](tooL_pgpwin51.png)
+Una ventana pequeña aparecerá con tres botones. Haga clic en el botón "Exportar solo claves públicas".
+![Imagen](tooL_pgpwin51.png)
 
-Make sure you don't click the "Export Secret Keys" button because exporting the secret key could allow others to impersonate you if they are able to guess your password.
+Asegúrese de no hacer clic en el botón "Exportar claves secretas" porque exportar la clave secreta podría permitir que otros para suplantarlo si pueden adivinar su contraseña.
 
-Now a window will open so you can save the file. In order to make it easier to find in the future please save the file to the Documents folder.
+Ahora se abrirá una ventana para que pueda guardar el archivo. Para que sea más fácil encontrarlo en el futuro, guarde el archivo en la carpeta Documentos.
 ![image](tool_pgpwin52.png)
 
-Now you can use this file as you wish.
+Ahora puede usar este archivo como lo desee.
 
-**c) Uploading to a keyserver**
+**c) Carga en un servidor de claves**
 
-Keyservers make it easier to search for and download public keys. Most modern keyservers are synchronizing, meaning that a public key uploaded to one server will eventually reach all servers.
+Los servidores de servidores hacen que sea más fácil buscar y descargar claves públicas. La mayoría de los servidores de claves modernos se sincronizan, lo que significa que una clave pública cargada en un servidor llegará eventualmente a todos los servidores.
 
-Although uploading your public key to a keyserver might be a convenient way of letting people know that you have a public PGP certificate, you should know that due to the nature of how keyservers work, there is no way to delete public keys once they are uploaded, you can only mark them as revoked.
+Aunque subir tu clave pública a un servidor de claves podría ser una manera conveniente de hacerles saber que tienes un certificado público de PGP, debe saber que debido a la naturaleza de cómo funcionan los servidores de claves, no hay forma de eliminar las claves públicas una vez que se cargan, solo puede marcarlas como revocadas.
 
-**Before uploading your public key to a keyserver, it is good to take a moment to consider whether you want the whole world to know that you have a public key without the ability to remove this information at a later time.**
+**Antes de cargar su clave pública a un servidor de claves, es Es bueno tomarse un momento para considerar si desea que todo el mundo sepa que tiene una clave pública sin la capacidad de eliminar esta información en un momento posterior.**
 
-If you choose to upload your public key to keyservers, you will go back to the Enigmail Key Management window.
+Si elige subir su clave pública a los servidores de claves, volverá a la ventana Administración de claves Enigmail.
 
-Click the Keyserver menu item and select the Upload Public Keys option.
+Haga clic en el elemento del menú Keyserver y seleccione la opción Cargar claves públicas.
 ![image](tool_pgpwin53.png)
 
-### 6.2 Finding other people who are using PGP
+### 6.2 Encontrar a otras personas que estén utilizando PGP
 
-**a) Getting a public key by email**
+**a) Obteniendo una clave pública por correo electrónico**
 
-You might get a public key sent to you as en email attachment.
+Es posible que obtenga una clave pública que se envía t o usted como adjunto de correo electrónico.
 ![image](tool_pgpwin54.png)
 
-Double-click on the new message, and it'll open a new tab. Notice the attachment at the bottom of the window. Right-click on the attachment and select "Import OpenPGP Key." A small window will open giving you the results of the import. Click the OK button.
+Haga doble clic en el nuevo mensaje y se abrirá una nueva pestaña. Observe el archivo adjunto en la parte inferior de la ventana. Haga clic derecho en el archivo adjunto y seleccione "Importar clave OpenPGP." Se abrirá una pequeña ventana que le dará los resultados de la importación. Haga clic en el botón Aceptar.
 ![image](tool_pgpwin55.png)
 
-If you open up the Enigmail key management window again, you can check the result. Your PGP key is in bold because you have both the private key and the public key. The public key you just imported is not bold because it doesn't contain the private key.
+Si vuelve a abrir la ventana de administración de claves Enigmail, puede verificar el resultado. Su clave PGP está en negrita porque tiene tanto la clave privada como la pública. La clave pública que acaba de importar no está en negrita porque no contiene la clave privada.
 ![image](tool_pgpwin56.png)
 
-**b) Getting a public key as a file**
+**b) Obtener una clave pública como un archivo**
 
-It's possible that you get a public key by downloading it from a website or someone might have sent it through chat software. In a case like this, you will assume you downloaded the file to the Downloads folder.
+Es posible que obtenga una clave pública descargándola de un sitio web o que alguien la haya enviado a través del software de chat. En un caso como este, supondrá que ha descargado el archivo en la carpeta Descargas.
 
-Open the Enigmail Key Manager and click on the "File" menu. Select "Import Keys from File."
+Abra el Enigmail Key Manager y haga clic en el menú "Archivo". Seleccione "Importar claves del archivo. "
 ![image](tool_pgpwin57.png)
 
-The public key might have very different file name endings such as .asc, .pgp, or .gpg. Select the file and click the "Open" button.
+La clave pública puede tener terminaciones de nombre de archivo muy diferentes, como .asc, .pgp o .gpg. Seleccione el archivo y haga clic en el botón "Abrir".
 ![image](tool_pgpwin58.png)
 
-A small window will open, giving you the results of the import. Click the "OK" button.
+Se abrirá una pequeña ventana que le mostrará los resultados de la importación. Haga clic en el botón "Aceptar".
 ![image](tool_pgpwin59.png)
 
-**c) Getting a public key from a key server**
+**c) Obtener una clave pública de un servidor de claves**
 
-Keyservers can be a very useful way of getting public keys. Try looking for a public key. Open up the key manager then click the "Keyserver" menu and select "Search for Keys."
+Seriedores de servidores puede ser una forma muy útil de obtener claves públicas Intenta buscar una clave pública. Abra el administrador de claves y luego haga clic en el menú "Keyserver" y seleccione "Search for Keys. "
 ![image](tool_pgpwin60.png)
 
-A small window will pop up with a search field. You can search by a complete email address, a partial email address, or a name. In this case, you will search for certificates containing "eff.org."
+Una ventana pequeña aparecerá con un campo de búsqueda. Puede buscar por una dirección de correo electrónico completa, una dirección de correo electrónico parcial o un nombre. En este caso, buscará certificados que contengan "eff.org. "
 ![image](tool_pgpwin61.png)
 
-A larger window will pop up with many options. If you scroll down you'll notice some certificates are italicized and grayed out. These are certificates that have either been revoked or expired on their own.
+Una ventana más grande aparecerá con muchas opciones. Si se desplaza hacia abajo notará que algunos certificados están en cursiva y atenuados. Estos son certificados que han sido revocados o caducados por su cuenta.
 ![image](tool_pgpwin62.png)
 
-Let's take the public keys of Danny O'Brien for example, he has one expired or revoked certificate and one valid certificate. Select the valid certificate by clicking the box on the left then press the OK button.
+Llevamos las claves públicas de Danny O'Brien por ejemplo, él tiene un certificado caducado o revocado y uno certificado válido Seleccione el certificado válido haciendo clic en el cuadro de la izquierda y luego presione el botón OK.
 ![image](tool_pgpwin63.png)
 
-In some cases a person may have more than one certificate, all appearing valid. Note that it's possible for anyone to upload a public certificate for anyone else, and that one of these keys may not belong to the person that owns the email address associated with it. In this case, verifying the fingerprint is extremely important.
+En algunos casos, una persona puede tener más de un certificado, y todos son válidos. Tenga en cuenta que es posible que cualquier persona cargue un certificado público para cualquier otra persona, y que una de estas claves puede no pertenecer a la persona propietaria de la dirección de correo electrónico asociada. En este caso, la verificación de la huella dactilar es extremadamente importante.
 
-A small notification window will pop up letting you know if you succeeded:
+Aparecerá una pequeña ventana de notificación que le informará si tuvo éxito:
 ![image](tool_pgpwin64.png)
 
-The Enigmail Key Manager will now show you the added certificates:
+El Enigmail Key Manager ahora le mostrará los certificados agregados:
 ![image](tool_pgpwin65.png)
 
-### 7.1 Sending PGP encrypted mail
+### 7.1 Envío de correo cifrado PGP
 
-Now you will send your first encrypted email to a recipient. In the main Mozilla Thunderbird window click the "Write" button. A new window will open.
+Ahora enviará su primer correo cifrado a un destinatario. En la ventana principal de Mozilla Thunderbird, haga clic en el botón "Escribir". Se abrirá una nueva ventana.
 ![image](tool_pgpwin66.png)
 
-Write your message, and enter a recipient. For this test, select a recipient whose public key you already have. Enigmail will detect this and automatically encrypt the email.
+Escriba su mensaje e ingrese un destinatario. Para esta prueba, seleccione un destinatario cuya clave pública ya tiene. Enigmail detectará esto y encriptará automáticamente el correo electrónico.
 ![image](tool_pgpwin67.png)
 
-_Note that the subject line won't be encrypted, so choose something innocuous, like "hello."_
+Note que la línea de asunto no estará encriptada, así que elige algo inocuo, como "hello." _
 
-When you click the "Send" button, you'll be given a window to enter the password to your PGP Key. Remember this is different from your email password!
+Cuando hace clic en el botón "Enviar ", se le dará una ventana para ingresar la contraseña de su clave PGP. ¡Recuerde que esto es diferente de su contraseña de correo electrónico!
 
-Enter your password then click the "OK" button and your email will be encrypted and sent.
+Ingrese su contraseña y luego haga clic en el botón "OK" y su correo electrónico será encriptado y enviado.
 ![image](tool_pgpwin68.png)
 
-The body of the email was encrypted and transformed. For example this text:
+El cuerpo de el correo electrónico fue encriptado y transformado. Por ejemplo, este texto:
 ![image](tool_pgpwin69.png)
 
-Will be transformed into:
+Se transformará en:
 ![image](tool_pgpwin70.png)
 
-### 7.2 Receiving PGP encrypted mail
+### 7.2 Recepción de correo cifrado PGP
 
-Let's go through what happens when you receive encrypted email. Notice that that Mozilla Thunderbird is letting you know you have new mail. Click on the message.
-![image](too.png;_pgpwin71)
+Pasemos por lo que sucede cuando recibe correos electrónicos encriptados. Tenga en cuenta que Mozilla Thunderbird le informa que tiene correo nuevo. Haga clic en el mensaje.
+![image](too.png; _pgpwin71)
 
-A small window opens asking you for the password to the PGP key. Remember: Don't enter your email password. Click the "OK" button.
+Se abre una pequeña ventana que le solicita la contraseña de la clave PGP. Recuerde: no ingrese su contraseña de correo electrónico. Haga clic en el botón "Aceptar".
 ![image](tool_pgpwin72.png)
 
-Now the message will show up decrypted
+Now el mensaje aparecerá descifrado
 ![image](tool_pgpwin73.png)
 
-### 8 Revoking the PGP Key
+### 8 Revocando la clave PGP
 
-**a) Revoking your PGP Key through the Enigmail interface**
+**a) Revocar su clave PGP a través de la interfaz Enigmail**
 
-The PGP keys generated by Enigmail automatically expire after five years. So if you lose all your files, you can hope that people will know to ask you for another key once the key has expired.
+Las claves PGP generadas por Enigmail expiran automáticamente después de cinco años. Por lo tanto, si pierde todos sus archivos, puede esperar que la gente sepa pedirle otra clave una vez que la clave haya expirado.
 
-You might have a good reason to disable the PGP key before it expires. Perhaps you want to generate a new, stronger PGP key. The easiest way to revoke your own PGP key in Enigmail is through the Enigmail Key Manager.
+Podría tener una buena razón para desactivar la clave PGP antes de que caduque. Quizás desee generar una clave PGP nueva y más sólida. La forma más fácil de revocar su propia clave PGP en Enigmail es a través del Enigmail Key Manager.
 ![image](tool_pgpwin74.png)
 
-Right-click on your PGP key (it's in bold), and select the "Revoke Key" option.
+Haga clic con el botón derecho en su clave PGP (está en negrita) y seleccione la" Revoque la opción "clave
 ![image](tool_pgpwin75.png)
 
-A window will pop up letting you know what happens and asking for your confirmation. Click the "Revoke Key" button.
+Aparecerá una ventana que le informará qué sucede y le pedirá confirmación. Haga clic en el botón "Revocar clave".
 ![image](tool_pgpwin76.png)
 
-The password window opens, enter your password for the PGP key and click the "OK" button.
-![image](tool_pgpwin77.png)
+Se abre la ventana de contraseña, ingrese su contraseña para la clave PGP y haga clic en el botón "OK".
+![ image](tool_pgpwin77.png)
 
-Now a new window will open up letting you know you succeeded. Click the "OK" button.
+Ahora se abrirá una nueva ventana que le informa que tuvo éxito. Haga clic en el botón "OK".
 ![image](tool_pgpwin78.png)
 
-When you go back to the Enigmail Key Management window you'll notice a change to your PGP key. It is now grayed out and italicized.
+Cuando regrese a la ventana Enigmail Key Management notará un cambio en su clave PGP. Ahora está en gris y en cursiva.
 ![image](tool_pgpwin79.png)
 
-**b) Revoking a PGP Key with a revocation certificate**
+**b) Revocación de una clave PGP con un certificado de revocación**
 
-As mentioned before, the PGP keys generated by Enigmail automatically expire after five years. So if you lose all your files you can be sure that people will know to ask you for another key once the key has expired.
+Como se mencionó anteriormente, las claves PGP generadas por Enigmail caduca automáticamente después de cinco años. Entonces, si pierde todos sus archivos, puede estar seguro de que la gente sabrá pedirle otra clave una vez que la llave haya expirado.
 
-Like we mentioned before, you might have a good reason to disable the PGP key before it expires.
+Como mencionamos anteriormente, es posible que tenga una buena razón para desactivar la clave PGP antes de que caduque.
 
-Similarly, others might have good reasons to revoke an existing key.
+De forma similar, otros podrían tener buenas razones para revocar una clave existente.
 
-You might get sent revocation certificates from friends as a notice that they want to revoke their key.
+Es posible que recibas certificados de revocación de amigos como un aviso de que quieren revocar su clave.
 
-In the previous section you might have noticed that Enigmail generates and imports a revocation certificate internally when you use the Enigmail Key Manager to revoke a key. Since you already have a revocation certificate, you will use the one you generated earlier to revoke your own key.
+En la sección anterior, habrás notado que Enigmail genera e importa un certificado de revocación internamente cuando utiliza Enigmail Key Manager para revocar una clave. Como ya tiene un certificado de revocación, usará el que generó anteriormente para revocar su propia clave.
 
-Start with the Enigmail Key Manager and click the "File" menu and select "Import Keys from File."
-![image](tool_pgpwin80.png)
+Comience con Enigmail Key Manager y haga clic en el menú "Archivo" y seleccione "Importar claves del archivo. "\ n![image](tool_pgpwin80.png)
 
-A window will open up so you can select the revocation certificate. Click on the file, and click the "Open" button.
+Se abrirá una ventana para que pueda seleccionar el certificado de revocación. Haga clic en el archivo y haga clic en el botón "Abrir".
 ![image](tool_pgpwin81.png)
 
-You'll get a notification that the certificate was imported successfully and that a key was revoked. Click the "OK" button.
+Recibirá una notificación de que el certificado se importó con éxito y que una clave fue revocada. Haga clic en el botón "OK".
 ![image](tool_pgpwin82.png)
 
-Once you click the "OK" button, you'll be taken back to the Enigmail Key Manager and you see the certificate you revoked greyed out and italicized.
+Una vez que haga clic en el botón "OK ", volverá al Enigmail Key Manager y verá el certificado. revocado en gris y en cursiva.
 ![image](tool_pgpwin83.png)
 
-If the key you revoked is your own, and you previously uploaded your public key to the key servers, you will want to re-upload the now-revoked key to the key servers, so that others see not to use it anymore.
+Si la clave que revocó es la suya, y anteriormente ha cargado su clave pública en los servidores de claves, querrá volver a cargar el archivo. ahora, la clave revocada para los servidores de claves, para que otros vean que ya no la usan más.
 
-Now that you have all the proper tools, try sending your own PGP-encrypted email.
+Ahora que tiene todas las herramientas adecuadas, intente enviar su propio correo electrónico cifrado con PGP.

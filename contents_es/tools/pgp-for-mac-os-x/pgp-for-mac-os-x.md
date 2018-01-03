@@ -1,193 +1,194 @@
-[Title]: # ()
-[Difficulty]: # (Principiante)
-[Order]: # (0)
+[Title]: #()
+[Difficulty]: #(Principiante)
+[Order]: #(0)
 
-# PGP FOR MAC O SX TOOL GUIDE
+# PGP PARA LA GUÍA DE HERRAMIENTAS MAC O SX
 
-## PGP for Mac O SX Tool Guide   
-Encrypted email for Mac
+## PGP para Mac O SX Guía de herramientas
+Email encriptado para Mac
 
-**Lesson to read:   
-- [Email](umbrella://lesson/email)**  
-**Download Location:**  
- - [GPG Suite](https://gpgtools.org/)   
-- [Mozilla Thunderbird](https://www.mozilla.org/thunderbird/)   
-- [Enigmail](https://www.enigmail.net/home/index.php)  
-**Computer requirements:** An internet connection, a computer running Mac OS X, an email account  
-**Version used in this guide:** - GPG Suite Beta 4  
-- Mozilla Thunderbird 31.2.0  
-- Enigmail 1.7.2  
-**License:** Free Software; mix of Free Software licenses  
-**Level:** Advanced  
-**Other reading:** [http://support.gpgtools.org/](http://support.gpgtools.org/)  
-**Time required:** 30-60 minutes
+**Lección para leer:**
+- **[Correo electrónico](umbrella://lesson/email)**
+**Ubicación de descarga:**
+- [GPG Suite](https://gpgtools.org/)
+- [Mozilla Thunderbird](https://www.mozilla.org/thunderbird/)
+- [Enigmail](https://www.enigmail.net/home/index.php)
+**Requisitos de computadora:** Una conexión a Internet, una computadora con Mac OS X, una cuenta de correo electrónico
+**Versión utilizada en esta guía:** 
+- GPG Suite Beta 4
+- Mozilla Thunderbird 31.2.0
+- Enigmail 1.7.2
+**Licencia:** Software Libre; combinación de licencias de Software Libre
+**Nivel:** Avanzado
+**Otra lectura:** [http://support.gpgtools.org/](http://support.gpgtools.org/)
+** Tiempo requerido:** 30-60 minutos
 
-**Using PGP will give you:**  
-- The ability to protect your email communications from being read by anyone except their intended recipients.  
-- The ability to prove that an email came from a particular person, instead of being a fake message sent by another sender (it is otherwise very easy for email to be fabricated). Both of these are important defenses if you're being targeted for surveillance or misinformation.
+**El uso de PGP le dará:**
+- La capacidad de proteger sus comunicaciones de correo electrónico para que nadie las lea, excepto sus destinatarios.
+- La capacidad de demostrar que un correo electrónico provino de una persona en particular, en lugar de ser un mensaje falso enviado por otro remitente(de lo contrario, es muy fácil que se fabrique el correo electrónico). Ambas son defensas importantes si está siendo objeto de vigilancia o desinformación.
 
-### 1.0 Before you start 
+### 1.0 Antes de comenzar
 
-To use Pretty Good Privacy (PGP), you will need to install some extra software that will work with your current email program. You will also need to create a private key, which you will keep private. The private key is what you will use to decrypt emails sent to you, and to digitally sign emails that you send to show they truly came from you. Finally, you'll learn how to distribute your public key-a small chunk of information that others will need to know before they can send you encrypted mail, and that they can use to verify emails you send.
+Para usar Pretty Good Privacy(PGP), deberá instalar algún software adicional que lo trabaja con tu programa de correo electrónico actual. También necesitarás crear una clave privada, que mantendrás en privado. La clave privada es lo que usará para descifrar los correos electrónicos que se le envían, y para firmar digitalmente correos electrónicos que envíe para mostrar que realmente provienen de usted. Finalmente, aprenderá cómo distribuir su clave pública, una pequeña porción de información que otros necesitarán saber antes de poder enviarle correos encriptados, y que pueden usar para verificar los correos electrónicos que envía.
 
-This guide will show you how to use PGP with an Apple Mac (but not iPad or iPhone), with either the Mac's built-in Mail program, or with Mozilla Thunderbird, a popular alternative email program.
+Esta guía mostrará cómo usar PGP con una Mac de Apple(pero no con iPad o iPhone), ya sea con el programa de correo incorporado de la Mac o con Mozilla Thunderbird, un popular programa alternativo de correo electrónico.
 
-You can't currently use PGP directly with a web email service like Gmail, Hotmail, Yahoo! Mail, or Outlook Live. You can still use your webmail address; you'll just have to configure it with the Thunderbird program on your computer.
+No puede usar PGP directamente con un servicio de correo electrónico web como Gmail, Hotmail, Yahoo! Correo o Outlook Live. Aún puede usar su dirección de correo web; solo tendrá que configurarlo con el programa Thunderbird en su computadora.
 
-**Note that both ends of the email conversation need to be using PGP-compatible software for it to work.**
+**Tenga en cuenta que ambos extremos de la conversación por correo electrónico deben estar usando un software compatible con PGP para que funcione.**
 
-People will normally use this only on their own personal devices, not on shared devices. Fortunately, PGP is available for most desktop computers and mobile devices, and you can point them to these guides to help them set up their own version. This guide is for Mac users.
+La gente lo hará Normalmente, use esto solo en sus dispositivos personales, no en dispositivos compartidos. Afortunadamente, PGP está disponible para la mayoría de las computadoras de escritorio y dispositivos móviles, y puede indicarles estas guías para ayudarlos a configurar su propia versión. Esta guía es para usuarios de Mac.
 
-### 2.0 Installing GPGTools on your Mac 
+### 2.0 Instalar GPGTools en su Mac
 
-PGP is an open standard, which means that more than one piece of software can use it. The software we're going to use for PGP is called the GPG Suite, from GPG Tools, because it works on Macs, is free for anyone to use, and it's open source: the underlying source code is available for anyone to check for bugs and backdoors.
+PGP es un estándar abierto, lo que significa que puede usarlo más de un software. El software que vamos a usar para PGP se llama GPG Suite, de GPG Tools, porque funciona en Mac, es gratis para que cualquiera lo use, y es de código abierto: el código fuente subyacente está disponible para que cualquiera pueda verificar si hay errores. y puertas traseras.
 
-Once the GPG Suite is installed, you can set up your keys for the first time, and then enable PGP on Apple Mail and, optionally, Thunderbird.
+Una vez instalado GPG Suite, puede configurar sus llaves por primera vez y luego habilitar PGP en Apple Mail y, opcionalmente, Thunderbird.
 
-**Step 1: Install the program.**
+**Paso 1: Instalar el programa.**
 
-First, go to [https://www.gpgtools.org/](https://www.gpgtools.org/) in your browser and choose "Download GPG Suite.
+Primero, vaya a [https://www.gpgtools.org/](https://www.gpgtools.org/) en su navegador y seleccione "Descargar GPG Suite".
 ![image](tool_pgposx1.png)
 
-You'll end up with a disk image that you can click on to install the software. If you're not accustomed to installing third-party software on your computer, ask a nearby Mac expert - this is a step most techies can help you with, even if they don't know PGP or encryption.
+Tienes una imagen de disco en la que puedes hacer clic para instalar el software. Si no estás acostumbrado a instalar software de terceros en tu computadora, pregúntale a un experto en Mac cercano: es un paso que la mayoría de los expertos en tecnología pueden ayudarlo, incluso si no conocen PGP o el cifrado.
 ![image](tool_pgposx2.png)
 
-Clicking on install will give you a list of tools that will be added to your computer.
+Haciendo clic en instalar le dará una lista de las herramientas que se agregarán a su computadora.
 ![image](tool_pgposx3.png)
 
-**_What exactly am I installing here?_**
+**_¿Es exactamente que estoy instalando aquí?_**
 
-These are tools will mostly work behind the scenes so that more than one program on your Mac can use PGP. Think of them as programs that other programs can use, rather than applications that you will use directly. GPGMail lets Apple Mail send and read PGP emails, GPG Keychain Access lets you keep your private and public keys in the same manner as you can save other passwords on your Mac.
+Estas son herramientas que en su mayoría funcionarán detrás de escena para que más de un programa en su Mac pueda usar PGP. Piense en ellos como programas que otros programas pueden usar, en lugar de aplicaciones que usará directamente. GPGMail permite que Apple Mail envíe y lea correos electrónicos de PGP, GPG Keychain Access le permite mantener sus claves privadas y públicas de la misma manera que puede guardar otras contraseñas en su Mac.
 
-GPGServices optionally adds a feature to OS X to let you use PGP directly in programs other than email (for instance, in a word processor). GPGPreferences is for changing PGP settings in Apple's preferences. Finally, MacGPG2 is the basic tool that any program needs to use to do encryption or signing.
+GPGServices opcionalmente agrega una función a OS X para permitirle usar PGP directamente en programas distintos al correo electrónico (por ejemplo, en un procesador de textos). GPGPreferences es para cambiar la configuración de PGP en las preferencias de Apple. Finalmente, MacGPG2 es la herramienta básica que cualquier programa necesita usar para cifrar o firmar.
 
-In October 2014, the GPG Tools team announced that they would soon be charging for GPGMail, the part of their package that lets you use GPG with Apple's Mail application. This tutorial is about using GPG with Thunderbird, so it doesn't use that component. You can just use the zero-cost part of the GPG Suite, as outlined here, if you like. This option has the added benefit that all of these tools are "free software" meaning you are still allowed to freely examine, edit and redistribute GPG Mail's underlying source code, so they are even more secure. For more information, see GPG Tools' [own FAQ](https://gpgtools.org/news.html) on their decision. 
+En octubre de 2014, el equipo de GPG Tools anunció que pronto cobrarían por GPGMail, la parte de su paquete que le permite usar GPG con la aplicación de correo de Apple. Este tutorial trata de usar GPG con Thunderbird, por lo que no usa ese componente. Solo puede usar la parte de costo cero de GPG Suite, como se describe aquí, si lo desea. Esta opción tiene el beneficio adicional de que todas estas herramientas son "software libre ", lo que significa que todavía puede examinar, editar y redistribuir libremente el código fuente subyacente de GPG Mail, por lo que son aún más seguras. Para obtener más información, consulte las [Preguntas frecuentes de GPG Tools](https://gpgtools.org/news.html) sobre su decisión.
 
 
-Click "Continue" to install GPG Suite.
+Haga clic en "Continuar" para instalar GPG Suite.
 ![image](tool_pgposx4.png)
 
-When the installation is complete, open GPG Keychain (found in your applications folder) if it doesn't automatically open and prompt you to generate your PGP keys after installation.  Click "New" to generate your PGP keys.
+Cuando la instalación esté completa, abra GPG Keychain(que se encuentra en su carpeta de aplicaciones) si no lo hace t se abre automáticamente y le solicita que genere sus claves PGP después de la instalación. Haga clic en "Nuevo" para generar sus claves PGP.
 ![image](tool_pgposx5.png)
 
-**Step 2: Create your PGP key**
+**Paso 2: Cree su clave PGP**
 
-Sometimes when you install new software, your computer will pester you with questions that have no obvious answer, without actually giving you any advice on how to reply. This is one of those times.
+A veces, cuando instala un nuevo software, su computadora le molestará con preguntas que no tienen una respuesta obvia, sin darle ningún consejo sobre cómo responder. Esta es una de esas veces.
 
-It's important to spend a little time thinking about the answers you'll give here, because changing your PGP key details can be difficult later, and if you've chosen to publish your key somewhere, you won't be able to unpublish it. (There are still thousands of old public keys from the 1990's floating around, with the names and old email addresses of the people who made them back then.)
+Es importante que dediques un poco de tiempo a pensar en las respuestas que darás aquí, porque cambiar los detalles de tu clave PGP puede ser difícil más adelante, y si has elegido publicar tu clave en alguna parte, no podrás anular la publicación.(Todavía hay miles de claves públicas antiguas de la década de 1990 flotando, con los nombres y las antiguas direcciones de correo electrónico de las personas que las crearon en ese momento).
 
-PGP keys contain a name and an email address that link the key to you. The email address will be one of the ways others can discover which key to use when they are encrypting a message to you.
+Las claves PGG contienen un nombre y una dirección de correo electrónico que vinculan la clave. . La dirección de correo electrónico será una de las formas en que otros podrán descubrir qué clave usar cuando encripten un mensaje para usted.
 
-**_When should I not put my real name or email address on my PGP key? When shouldn't I upload my key?_**
+**_¿Cuándo no debería poner mi nombre real o dirección de correo electrónico en mi clave PGP? ¿Cuándo no debería subir mi llave?_**
 
-For most people, it makes sense to add a real email address to your key, and upload it to the public keyservers - it's how people will match the right key to you. They can send you an email directly, and know it will be encrypted with the right key, and when they receive a signed email from you, the digital signature will be marked with your name.
+Para la mayoría de las personas, tiene sentido agregar una dirección de correo electrónico real a su llave y cargarla en los servidores de llaves públicas; así es como las personas encontrarán la llave correcta para usted . Pueden enviarle un correo electrónico directamente, y saber que se cifrará con la clave correcta, y cuando reciban un correo electrónico firmado por usted, la firma digital se marcará con su nombre.
 
-For some people, though, it will not make sense to add your real name to your key, for instance if your threat model means that having your identity publicly attached to your key (and the linked email address) is not a good idea. Edward Snowden communicated with journalists using PGP and an anonymous email address before he revealed his identity; his PGP key certainly wasn't marked with his name.
+Para algunas personas, sin embargo, lo hará No tiene sentido agregar tu nombre real a tu clave, por ejemplo, si tu modelo de amenaza significa que tener tu identidad adjuntada públicamente a tu clave(y la dirección de correo electrónico vinculada) no es una buena idea. Edward Snowden se comunicó con los periodistas que usaban PGP y una dirección de correo electrónico anónima antes de revelar su identidad; su clave PGP ciertamente no estaba marcada con su nombre.
 
-**Uploading your key is normal practice, but it can reveal that you're using encryption, even if you don't use your own name. Also, as we'll see, others might upload your key and associate their own key with it, implying that you and they have a connection. That can be harmful if you are communicating and don't want people to know it. It can also be troublesome if you're not communicating, but your attacker wants people to think that you are associated.**
+**Cargar su clave es una práctica normal, pero puede revelar que está usando cifrado, incluso si no usa su propio nombre. Además, como veremos, otros pueden subir su clave y asociar su propia clave con ella, lo que implica que usted y ellos tienen una conexión. Eso puede ser dañino si te estás comunicando y no quieres que la gente lo sepa. También puede ser problemático si no te estás comunicando, pero tu atacante quiere que la gente piense que estás asociado.**
 
-Here's a rough guideline: if you're thinking about using a pseudonym generally, use that pseudonym (and alternative email) when labeling your key. If you are in a more dangerous environment, when you don't want people to know you're using PGP at all, or know who you are communicating with, don't upload your key to the public keyservers - and make sure the small group of people you're communicating with know not to upload your key either. There are other ways of verifying keys that don't rely on them being available on the public key server - see EFF's guide to [Key Verification](https://ssd.eff.org/en/module/key-verification#overlay=en/node/37/) for more information.
+Es una guía aproximada: si estás pensando en usar un seudónimo en general, usa ese seudónimo(y correo electrónico alternativo) al etiquetar su clave. Si se encuentra en un entorno más peligroso, cuando no desea que la gente sepa que está utilizando PGP, o sabe con quién se está comunicando, no cargue su clave en los servidores de llaves públicos, y asegúrese de que la pequeña El grupo de personas con el que se está comunicando también sabe que no debe cargar su clave. Existen otras maneras de verificar las claves que no se basan en que estén disponibles en el servidor de claves públicas: consulte la guía de EFF para [Verificación de claves](https://ssd.eff.org/es/module/key-verification#overlay=en/node/37/) para obtener más información.
 
-Click the "Upload public key after generation" box if you'd like to let others find your key quickly so that they can send you encrypted messages. It's like adding your phone number to a public phone directory: you don't need it, but it's convenient for others.
+Haga clic en el cuadro "Cargar clave pública después de la generación" si desea permitir que otros encuentren su clave rápidamente para que puedan enviarle mensajes encriptados. Es como agregar su número de teléfono a un directorio telefónico público: no lo necesita, pero es conveniente para otros.
 
-Before generating the key, expand "Advanced options." You can leave the comment blank, and leave the key type "RSA and RSA (default)." But make sure to change the Length field to 4096.
+Antes de generar la clave, expanda "Opciones avanzadas." Puede dejar el comentario en blanco y salir el tipo de clave "RSA y RSA(predeterminado)." Pero asegúrese de cambiar el campo Longitud a 4096.
 ![image](tool_pgposx6.png)
 
-**Your key will expire at a certain time; when that happens, other people will stop using it entirely for new emails to you, though you might not get any warning or explanation about why. So, you may want to mark your calendar and pay attention to this issue a month or so before the expiration date.**
+**Su clave caducará en un momento determinado ; cuando eso sucede, otras personas dejarán de usarlo por completo para recibir correos electrónicos nuevos, aunque es posible que no reciba ninguna advertencia o explicación sobre por qué. Por lo tanto, es posible que desee marcar su calendario y prestar atención a este problema aproximadamente un mes antes de la fecha de vencimiento.**
 
-It's possible to extend the lifetime of an existing key by giving it a new, later expiration date, or it's possible to replace it with a new key by creating a fresh one from scratch. Both processes might require contacting people who email you and making sure that they get the updated key; current software isn't very good at automating this. So make a reminder for yourself; if you don't think you'll be able to manage it, you can consider setting the key so that it never expires, though in that case other people might try to use it when contacting you far in the future even if you no longer have the private key or no longer use PGP.
+Es posible prolongar el período de vigencia de una clave existente dándole una nueva fecha de vencimiento posterior o es posible reemplazarlo con una nueva clave creando uno nuevo desde cero. Ambos procesos pueden requerir el contacto con personas que le envían correos electrónicos y se aseguran de que obtengan la clave actualizada; el software actual no es muy bueno para automatizar esto. Así que haz un recordatorio por ti mismo; si no crees que puedas gestionarlo, puedes considerar configurar la clave para que nunca caduque, aunque en ese caso otras personas podrían tratar de usarlo cuando te contacten en el futuro, incluso si ya no lo haces. tiene la clave privada o ya no usa PGP.
 
-When you're ready, click the "Generate key" button.
+Cuando esté listo, haga clic en el botón "Generar clave ".
 
-You computer will start generating both your public and private key. It shouldn't take any more than a couple of minutes to finish (it takes a while because to create your keys, your computer needs to gather random numbers. Think of it as your computer throwing a pair of dice many, many, many times.)
+La computadora comenzará a generar su clave pública y privada. No debe tomar más de un par de minutos para terminar (lleva un tiempo porque para crear sus claves, su computadora necesita reunir números aleatorios. Piense en ello como si su computadora arrojara un par de dados muchas, muchas, muchas veces .)
 ![image](tool_pgposx7.png)
 
-When you're done generating your key, you'll see it key listed in GPG Keychain Access. You can double-click on your key to see information about it, including its "fingerprint "-a unique way to identify your PGP key.
+Cuando haya terminado de generar su clave, la verá en la lista de acceso de llavero de GPG. Puede hacer doble clic en su clave para ver información al respecto, incluida su "huella digital ", una forma única de identificar su clave PGP.
 
-Now is a good time to generate a revocation certificate. (A revocation certificate is a file that you can generate that announces that you no longer trust that key. You generate it when you still have the secret key, and keep it for any future disaster.) In the future, if you ever worry that your private key has been copied by someone, you accidentally delete or lose your private key, or you forget your passphrase, you can tell everyone it has been revoked, or cancelled, by using a revocation certificate. 
+Ahora es un buen momento para generar un certificado de revocación.(Un certificado de revocación es un archivo que puede generar que anuncia que ya no confía en esa clave. La genera cuando todavía tiene la clave secreta y la guarda para cualquier desastre futuro). En el futuro, si alguna vez se preocupa de que su clave privada ha sido copiada por alguien, accidentalmente elimina o pierde su clave privada, o usted olvida su frase de contraseña, puede decir a todos que ha sido revocada, o cancelada, mediante el uso de un certificado de revocación.
 
-It's better to create one now, because you need the private key and passphrase to create a revocation certificate. If you leave it until later, you might lose one or the other, and then it will be too late. So create a certificate by clicking on your key, choosing the "Key" menu entry, and then "Create Revocation Certificate." You'll be prompted for somewhere to save the file. You might want to keep it with a backup copy of the key (see next step).
+Es mejor crear uno ahora, porque necesita la clave privada y la frase de contraseña para crear un certificado de revocación. Si lo deja hasta más tarde, puede perder uno u otro, y entonces será demasiado tarde. Así que cree un certificado haciendo clic en su clave, seleccionando la entrada del menú "Clave ", y luego "Crear certificado de revocación." Se le pedirá que guarde el archivo en algún lugar. Es posible que desee conservarlo con una copia de seguridad de la clave(consulte el siguiente paso).
 
-**Step 3: Back up your PGP key**
+**Paso 3: haga una copia de seguridad de su clave PGP**
 
-If you lose access to your private key, you won't be able to decrypt any incoming PGP mail, or your old mail. On the other hand, you want to keep your private key as securely as you can.
+Si pierde el acceso a su clave privada, ganó ' t podrá descifrar cualquier correo PGP entrante o su correo anterior. Por otro lado, desea mantener su clave privada lo más segura posible.
 
-You might want to save a backup copy to a USB key, which you keep safely hidden. You will only need it if you lose your original key, but for safety you will want to keep it out of the hands of your potential attackers.
+Es posible que desee guardar una copia de seguridad en una llave USB, que se mantiene oculta de forma segura. Solo lo necesitarás si pierdes tu llave original, pero para tu seguridad querrás mantenerla fuera de las manos de tus posibles atacantes.
 
-**_Is everything lost if my attackers get hold of my PGP private key?_**
+**_¿Se pierde todo si mis atacantes se apoderan de mi llave privada PGP?_**
 
-What if you get your Mac stolen, or your backup key is taken from you? Does that mean your PGP messages are vulnerable? No: if you've chosen a good passphrase and nobody has been able to learn what it is, you should still be mostly protected. To be safe, you may want to revoke your old key, and create a new PGP key. This won't stop your old key from being able to decrypt your old email, but it will discourage other people from using the old key for their new emails to you.
+¿Qué sucede si le roban su Mac o le quitan la clave de respaldo? ¿Eso significa que sus mensajes PGP son vulnerables? No: si ha elegido una buena frase de contraseña y nadie ha podido saber de qué se trata, aún debería estar protegido en su mayoría. Para estar seguro, es posible que desee revocar su clave anterior y crear una nueva clave PGP. Esto no impedirá que su clave antigua pueda descifrar su correo electrónico anterior, pero desalentará a otras personas de usar la clave anterior para sus nuevos correos electrónicos.
 
 
-To backup your key, open GPG Keychain Access. Select your key, and click "Export" in the toolbar. Put your USB drive into the machine, and choose it in the "Where" part of the "Save As..." dialog. Check the "Allow secret key export" checkbox.
+Para hacer una copia de seguridad de su clave, abra el Acceso llavero GPG. Seleccione su clave y haga clic en "Exportar" en la barra de herramientas. Coloque su unidad USB en la máquina y selecciónela en la parte "Where" del diálogo "Guardar como ... ". Marca la casilla de verificación "Permitir exportación de clave secreta ".
 
-**OPTION A) Configuring Apple Mail**
+**OPCIÓN A) Configuración de Apple Mail**
 
-When you first open Apple Mail, you'll see a first run wizard that helps you set up your email address. Fill out your name, email address, and your email password and click "Create."
+Cuando abres Apple Mail por primera vez, verás un asistente de primera ejecución que te ayuda a configurar tu dirección de correo electrónico. Complete su nombre, dirección de correo electrónico y contraseña de su correo electrónico y haga clic en "Crear ".
 ![image](tool_pgposx8.png)
 
-**Mail account setup wizard**
+**Asistente de configuración de la cuenta de correo**
 
-If you use popular free email services like Gmail, Mail should be able to automatically detect your email settings when you click Continue. If it doesn't, you may need to manually configure your IMAP and SMTP settings. Talk to the company you use for email, or ask someone technical who is familiar with your email provider (so, an IT person at work, or a technical friend who uses the same ISP as you. They don't need to know about PGP, but you can ask them "Can you set up Apple Mail for me?").
+Si usa los recursos populares servicios gratuitos de correo electrónico como Gmail, Mail debe poder detectar automáticamente su configuración de correo electrónico cuando hace clic en Continuar. Si no es así, es posible que deba configurar manualmente sus configuraciones de IMAP y SMTP. Hable con la empresa que utiliza para el correo electrónico, o pregúntele a alguien técnico que esté familiarizado con su proveedor de correo electrónico(por lo tanto, una persona de TI en el trabajo o un amigo técnico que use el mismo ISP que usted. No necesitan saber acerca de PGP , pero puede preguntarles "¿Pueden configurar Apple Mail para mí? ").
 ![image](tool_pgposx9.png)
 
-**Mail account setup auto-detect
+**Configuración automática de cuenta de correo**
 
 
 
-When you're composing a new message, there are two icons just beneath the Subject field. There's a padlock (encrypt email) and a star (digitally sign email). If the padlock is closed it means this email will be encrypted, and if the star has a check in it, it means this email will be digitally signed.
+Cuando redacta un mensaje nuevo, hay dos iconos justo debajo del campo Asunto. Hay un candado(encriptar el correo electrónico) y una estrella(firmar digitalmente el correo electrónico). Si el candado está cerrado significa que este correo electrónico estará encriptado, y si la estrella tiene un cheque, significa que este correo electrónico se firmará digitalmente.
 
 
-Sending PGP Signed or Encrypted Email**
+**Envío de correo electrónico firmado o cifrado de PGP**
 ![image](tool_pgposx10.png)
 
-You can always sign your email, even if the recipient doesn't use PGP. Because digitally signing emails requires your secret key, Mail will pop up a window asking for your passphrase when you first sign an email.
+Puede siempre firmar su correo electrónico, incluso si el destinatario no usa PGP. Debido a que la firma digital de correos electrónicos requiere su clave secreta, Mail abrirá una ventana que le pedirá su frase de contraseña la primera vez que firme un correo electrónico.
 
-You can only encrypt emails if the person you're emailing uses PGP and you have that person's public key. If the encryption padlock icon is unlocked and greyed out so you can't click on it, this means you first need to import the recipient's public key. Either ask them to send it to you, or use the GPG Keychain Access app to find the key to from a public keyserver.
+Sólo puede cifrar correos electrónicos si la persona que está enviando utiliza PGP y usted tiene la clave pública de esa persona . Si el icono del candado de cifrado está desbloqueado y atenuado para que no pueda hacer clic en él, significa que primero debe importar la clave pública del destinatario. O solicíteles que se lo envíen, o use la aplicación de Acceso a Llaveros GPG para encontrar la llave de un servidor de llaves público.
 
-To be absolutely safe, you'll need to verify the keys you get from the keyserver or your colleague. See EFF's guide to [Key Verification](https://ssd.eff.org/en/module/key-verification#overlay=en/node/37/) for more information.
+Para estar absolutamente seguro, deberá verificar las llaves que obtiene del servidor de llaves o de su colega . Consulte la guía de EFF para [Verificación de clave](https://ssd.eff.org/en/module/key-verification#overlay=en/node/37/) para obtener más información.
 
-**OPTION B) Using PGP with Mozilla Thunderbird**
+**OPCIÓN B) Uso de PGP con Mozilla Thunderbird**
 
-This walkthrough shows how to use GPG with the free, open source, Thunderbird mail client from Mozilla, together with the Enigmail plugin for email encryption.
+Este tutorial muestra cómo usar GPG con el cliente de correo Thunderbird gratuito y de código abierto de Mozilla, junto con el complemento Enigmail para el cifrado del correo electrónico.
 
-First, download Thunderbird from [https://www.mozilla.org/thunderbird](https://www.mozilla.org/thunderbird), mount the disk image as you did with GPG Tools, and drag the Thunderbird into Applications. When you open it for the first time it will ask if you want to set it as your default email client. Go ahead and click "Set as Default."
+Primero, descargue Thunderbird de [https://www.mozilla.org/thunderbird](https://www.mozilla.org/thunderbird), monte la imagen de disco como lo hizo con las Herramientas de GPG, y arrastre el Thunderbird a Aplicaciones. Cuando lo abra por primera vez, le preguntará si desea configurarlo como su cliente de correo electrónico predeterminado. Continúe y haga clic en "Establecer como predeterminado. "
 ![image](tool_pxposx11.png)
 
-Then you will see the first run wizard. To set up your existing email address, click "Skip this and use my existing email." Then enter your name, email address, and the password to your email account.
+A continuación, verá el asistente de la primera ejecución. Para configurar su dirección de correo electrónico existente, haga clic en "Omitir esto y use mi correo electrónico existente." Luego ingrese su nombre, dirección de correo electrónico y contraseña en su cuenta de correo electrónico.
 ![image](tool_pgposx12.png)
 
-If you use popular free email services like Gmail, Thunderbird should be able to automatically detect your email settings when you click Continue. If it doesn't, you may need to manually configure your IMAP and SMTP settings-ask your ISP, or a technical friend who knows about setting up email, to help. Sometimes, Thunderbird can just guess the correct settings.
+Si utiliza servicios populares de correo electrónico gratuito como Gmail, Thunderbird debería poder detectar automáticamente su configuración de correo electrónico al hacer clic en Continuar. Si no es así, es posible que deba configurar manualmente sus configuraciones de IMAP y SMTP; solicite ayuda a su ISP o a un amigo técnico que sepa cómo configurar el correo electrónico. A veces, Thunderbird solo puede adivinar la configuración correcta.
 
-**If you use two-factor authentication with Google (and depending on your threat model you probably should!) you cannot use your standard Gmail password with Thunderbird. Instead, you will need to create a new application-specific password for Thunderbird to access your Gmail account. See [Google's own guide](https://support.google.com/mail/answer/1173270?hl=en) for doing this.** 
+**Si usa la autenticación de dos factores con Google(¡y según su modelo de amenaza probablemente debería hacerlo!) No puede usar su contraseña estándar de Gmail con Thunderbird. En su lugar, deberá crear una nueva contraseña específica de la aplicación para que Thunderbird acceda a su cuenta de Gmail. Consulte [la propia guía de Google](https://support.google.com/mail/answer/1173270?hl=en) para hacer esto.**
 ![image](tool_pgposx13.png)
 
-After you're done configuring Thunderbird to check your email, click "Done." Then click on "Inbox" in the top left to load your emails.
+Después de usted ' Terminó de configurar Thunderbird para revisar su correo electrónico, haga clic en "Listo." Luego haga clic en "Bandeja de entrada" en la parte superior izquierda para cargar sus correos electrónicos.
 
-Now that you've installed and configured Thunderbird to work with your email, you need to install [Enigmail](https://www.enigmail.net/home/index.php), the GPG add-on for Thunderbird. In Thunderbird, click the menu icon in the top-right, and choose Add-ons.
+Ahora que ha instalado y configurado Thunderbird para trabajar con su correo electrónico , debe instalar [Enigmail](https://www.enigmail.net/home/index.php), el complemento GPG para Thunderbird. En Thunderbird, haga clic en el ícono de menú en la esquina superior derecha y elija Complementos.
 ![image](tool_pgposx14.png)
 
-Search for "enigmail" in the search box in the top right.
+Busque \ enigmail \ en el cuadro de búsqueda en la esquina superior derecha.
 ![image](tooL_pgposx15.png)
 
-Click the Install button next to the Enigmail extension to download and install Enigmail. When it's done, click "Restart Now" to restart Thunderbird.
+Haga clic en el botón Instalar al lado de la extensión Enigmail para descargar e instalar Enigmail. Cuando termine, haga clic en "Reiniciar ahora" para reiniciar Thunderbird.
 
-The first time you run Thunderbird with Enigmail enabled it opens the OpenPGP Setup Wizard. Click "Cancel." We will manually configure Enigmail instead.
+La primera vez que ejecute Thunderbird con Enigmail habilitado, se abre el Asistente de configuración de OpenPGP. Haga clic en "Cancelar". En su lugar, configuraremos manualmente Enigmail.
 
-Click the menu button, hover over Preferences, and choose Account Settings.
+Haga clic en el botón de menú, desplace el mouse sobre Preferencias y seleccione Configuración de la cuenta.
 ![image](tool_pgposx16.png)
 
-Go to the OpenPGP Security tab. Make sure "Enable OpenPGP support (Enigmail) for this identity" is checked. "Use specific OpenPGP key ID" should be selected, and if your key isn't already selected you can click "Select Key" to select it.
+Vaya a OpenPGP Security lengüeta. Asegúrese de que "Habilite el soporte de OpenPGP(Enigmail) para esta identidad" esté marcado. "Usar ID de clave de OpenPGP específico" debe seleccionarse, y si su clave no está ya seleccionada, puede hacer clic en "Seleccionar clave" para seleccionarla.
 
-You should also check "Sign non-encrypted message by default," "Sign encrypted messages by default," and "Use PGP/MIME by default," but not (for most people) "Encrypt messages by default."
+También debe marcar "Firmar mensaje no cifrado por predeterminado, "" Firme mensajes cifrados de forma predeterminada, "y" Use PGP/MIME de forma predeterminada, "pero no(para la mayoría de la gente)" Cifre los mensajes por defecto. "
 
-If most of the people that you email use PGP (or you would like to encourage them to do so), you may wish to encrypt by default. It would be ideal to encrypt all the emails you send, but that is not always possible. Remember that you can only send encrypted email to other people who use PGP, and you need to have their public keys in your keychain. For most people, manually choosing to encrypt each email you send will probably work best.
+Si la mayoría de las personas que el correo electrónico use PGP(o le gustaría animarlos a que lo hagan), es posible que desee encriptar de forma predeterminada. Sería ideal cifrar todos los correos electrónicos que envíe, pero eso no siempre es posible. Recuerde que solo puede enviar correos electrónicos cifrados a otras personas que usan PGP, y necesita tener sus claves públicas en su llavero. Para la mayoría de las personas, la elección manual de encriptar cada correo electrónico que envíe probablemente funcione mejor.
 ![image](tool_pgposx17.png)
 
-Then click "OK" to save all of the settings.
+A continuación, haga clic en "OK" para guardar todas las configuraciones.
 
-Congratulations, you now have Thunderbird and Enigmail set up! Here are a couple of quick pointers:
+Felicitaciones, ¡ahora tienes configurados Thunderbird y Enigmail! Aquí hay un par de consejos rápidos:
 
-- You can click the menu button, hover over OpenPGP, and open Key Management to see the PGP key manager that's build-in to Enigmail. It's very similar to GPG Keychain Access, and it's your choice which you use.  
-- When you're composing a new message, there are two icons in the bottom right corner of the window: a pen (digitally sign email) and a key (encrypt email). If the icons are gold it means they are selected, and if they're silver it means they're not selected. Click on them to toggle signing and encrypting the email you're writing.
+- Puede hacer clic en el botón de menú, colocar el puntero sobre OpenPGP y abrir Key Management para ver el administrador de claves de PGP que está incorporado en Enigmail. Es muy similar al acceso llavero GPG, y es tu elección la que utilizas.
+- Cuando redacta un mensaje nuevo, hay dos iconos en la esquina inferior derecha de la ventana: un lápiz(correo electrónico de firma digital) y una clave(cifra de correo electrónico). Si los íconos son dorados, significa que están seleccionados, y si son plateados significa que no están seleccionados. Haga clic en ellos para alternar la firma y el cifrado del correo electrónico que está escribiendo.
 ![image](tool_pgposx18.png)

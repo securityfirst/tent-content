@@ -14,7 +14,8 @@ Encrypted email for Mac
 - [Mozilla Thunderbird](https://www.mozilla.org/thunderbird/)   
 - [Enigmail](https://www.enigmail.net/home/index.php)  
 **Computer requirements:** An internet connection, a computer running Mac OS X, an email account  
-**Version used in this guide:** - GPG Suite Beta 4  
+**Version used in this guide:** 
+- GPG Suite Beta 4  
 - Mozilla Thunderbird 31.2.0  
 - Enigmail 1.7.2  
 **License:** Free Software; mix of Free Software licenses  
@@ -131,14 +132,14 @@ When you first open Apple Mail, you'll see a first run wizard that helps you set
 If you use popular free email services like Gmail, Mail should be able to automatically detect your email settings when you click Continue. If it doesn't, you may need to manually configure your IMAP and SMTP settings. Talk to the company you use for email, or ask someone technical who is familiar with your email provider (so, an IT person at work, or a technical friend who uses the same ISP as you. They don't need to know about PGP, but you can ask them "Can you set up Apple Mail for me?").
 ![image](tool_pgposx9.png)
 
-**Mail account setup auto-detect
+**Mail account setup auto-detect**
 
 
 
 When you're composing a new message, there are two icons just beneath the Subject field. There's a padlock (encrypt email) and a star (digitally sign email). If the padlock is closed it means this email will be encrypted, and if the star has a check in it, it means this email will be digitally signed.
 
 
-Sending PGP Signed or Encrypted Email**
+**Sending PGP Signed or Encrypted Email**
 ![image](tool_pgposx10.png)
 
 You can always sign your email, even if the recipient doesn't use PGP. Because digitally signing emails requires your secret key, Mail will pop up a window asking for your passphrase when you first sign an email.

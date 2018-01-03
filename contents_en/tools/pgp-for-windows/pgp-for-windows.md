@@ -7,8 +7,8 @@
 ## PGP for Windows PC Tool Guide   
 Encrypted email for Windows
 
-**Lesson to read:   
-- [Email](umbrella://lesson/email)**  
+**Lesson to read:**
+- **[Email](umbrella://lesson/email)**  
 **Download Location:**   
 - GPG4Win  
 - Mozilla Thunderbird  
