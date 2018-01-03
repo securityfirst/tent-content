@@ -2,86 +2,86 @@
 [Difficulty]: # (Principiante)
 [Order]: # (0)
 
-# ADIUM TOOL GUIDE
+# GUÍA DE LA HERRAMIENTA ADIUM
 
-## Adium & OTR  
-Secure instant messaging for Mac
+## Adium & OTR 
+Seguridad de mensajería instantánea para Mac 
 
-**Lesson to read: [Sending a Message](umbrella://lesson/sending-a-message)**  
-**Download Location:** [https://adium.im/](https://adium.im/)  
-**Computer requirements** (Adium 1.5 or later): Mac OS X 10.6.8 or newer, an Apple-branded Macintosh computer.  
-**Version used in this guide:** Adium 1.5.9  
-**License:** GNU GPL  
-**Other reading:** [https://pressfreedomfoundation.org/encryption-works](https://pressfreedomfoundation.org/encryption-works);[https://adium.im/help/](https://adium.im/help/)  
-**Level:** Beginner-Intermediate  
-**Time required:** 15-20 minutes
+**Lección para leer: [Enviar un mensaje](umbrella://lesson/sending-a-message)** 
+**Ubicación de descarga:** [https://adium.im/](https://adium.im/) 
+**Requisitos de computadora** (Adium 1.5 o posterior): Mac OS X 10.6.8 o más reciente, una computadora Macintosh de marca Apple. 
+**Versión utilizada en esta guía:** Adium 1.5.9 
+**Licencia:** GNU GPL 
+**Otra lectura:** [https://pressfreedomfoundation.org/encryption-works](https://pressfreedomfoundation.org/encryption-works);[https://adium.im/help/](https://adium.im/help/) 
+**Nivel:** Beginner-Intermediate 
+**Tiempo requerido:** 15-20 minutos 
 
-Adium is a free and open source instant messaging client for OS X that allows you to chat with individuals across multiple chat protocols, including Google Hangouts, Yahoo! Messenger, Facebook chat, Windows Live Messenger, AIM, ICQ, and XMPP.
+Adium es un cliente de mensajería instantánea de código abierto para OS X que le permite chatear con personas a través de múltiples protocolos de chat, incluidos Google Hangouts, Yahoo! Messenger, chat de Facebook, Windows Live Messenger, AIM, ICQ y XMPP. 
 
-OTR  (Off-the-record) is a protocol that allows people to have confidential conversations using the messaging tools they're already familiar with. This should not be confused with Google's "Off the record," which merely disables chat logging, and does not have encryption or verification capabilities. For Mac users, OTR comes built-in with the Adium client.
+OTR (Off-the-record) es un protocolo que permite a las personas mantener conversaciones confidenciales utilizando las herramientas de mensajería con las que ya están familiarizados. Esto no debe confundirse con "Off the record" de Google, que simplemente deshabilita el registro de chat, y no tiene capacidades de cifrado o verificación. Para los usuarios de Mac, OTR viene incorporado con el cliente Adium. 
 
-OTR employs end-to-end encryption. This means that you can use it to have conversations over services like Google Hangouts or Facebook without those companies ever having access to the contents of the conversations. This is different from the way in which Google and AOL use the term "off the record" to mean that a conversation is not being logged; that option does not encrypt your conversation.
+OTR emplea cifrado de extremo a extremo. Esto significa que puede usarlo para tener conversaciones sobre servicios como Google Hangouts o Facebook sin que esas compañías tengan acceso a los contenidos de las conversaciones. Esto es diferente de la forma en que Google y AOL usan el término "fuera del registro" para indicar que una conversación no se está registrando; esa opción no encripta tu conversación. 
 
-### Why should I use Adium + OTR?
+### ¿Por qué debería usar Adium + OTR? 
 
-When you have a chat conversation using Google Hangouts or Facebook chat on the Google or Facebook websites, that chat is encrypted using HTTPS , which means the content of your chat is protected from hackers and other third parties while it's in transit. It is not, however, protected from Google or Facebook, which have the keys to your conversations and can hand them over to authorities.
+Cuando tienes una conversación de chat con Google Hangouts o chat de Facebook en los sitios web de Google o Facebook, ese chat se cifra usando HTTPS, lo que significa que el contenido de su chat está protegido de los piratas informáticos y otros terceros mientras está en tránsito. Sin embargo, no está protegido de Google o Facebook, que tienen las claves de sus conversaciones y puede entregarlas a las autoridades. 
 
-After you have installed Adium, you can sign in to it using multiple accounts at the same time. For example, you could use Google Hangouts, Facebook, and XMPP simultaneously. Adium also allows you to chat using these tools without OTR. Since OTR only works if both people are using it, this means that even if the other person does not have it installed, you can still chat with them using Adium.
+Después de haber instalado Adium, puede iniciar sesión usando múltiples cuentas al mismo tiempo. Por ejemplo, puede usar Google Hangouts, Facebook y XMPP simultáneamente. Adium también te permite chatear usando estas herramientas sin OTR. Como OTR solo funciona si las dos personas lo están usando, esto significa que incluso si la otra persona no lo tiene instalado, puedes chatear con ellos utilizando Adium. 
 
-Adium also allows you to do out-of-band verification to make sure that you're talking to the person you think you're talking to and you are not being subject to a MITM attack. For every conversation, there is an option that will show you the key fingerprints it has for you and the person with whom you are chatting. A "key fingerprint" is a string of characters like "342e 2309 bd20 0912 ff10 6c63 2192 1928," that's used to verify a longer public key. Exchange your fingerprints through another communications channel, such as Twitter DM or email, to make sure that no one is interfering with your conversation.
+Adium también te permite hacer una verificación fuera de banda. asegúrese de estar hablando con la persona con la que cree que está hablando y de que no está siendo sujeto a un ataque MITM. Para cada conversación, hay una opción que le mostrará las huellas dactilares clave que tiene para usted y la persona con la que está chateando. Una "huella dactilar de clave " es una cadena de caracteres como "342e 2309 bd20 0912 ff10 6c63 2192 1928, " que se usa para verificar una clave pública más larga. Intercambie sus huellas dactilares a través de otro canal de comunicación, como Twitter DM o correo electrónico, para asegurarse de que nadie interfiera con su conversación. 
 
-### Limitations: When should I not use Adium + OTR?
+### Limitaciones: ¿Cuándo no debería usar Adium + OTR? 
 
-Technologists have a term to describe when a program or technology might be vulnerable to external attack: they say it has a large "attack surface." Adium has a large attack surface. It is a complex program, which has not been written with security as a top priority. It almost certainly has bugs, some of which might be used by governments or even big companies to break into computers that are using it. Using Adium to encrypt your conversations is a great defense against the kind of untargeted dragnet surveillance that is used to spy on everyone's Internet conversations, but if you think you will be personally targeted by a well-resourced attacker (like a nation-state), you should consider stronger precautions, such as PGP -encrypted email.
+Los tecnólogos tienen un término para describir cuándo un programa o tecnología podría ser vulnerable a un ataque externo: dicen que tiene una gran "superficie de ataque". Adium tiene una gran superficie de ataque. Es un programa complejo, que no se ha escrito con la seguridad como una prioridad principal. Es casi seguro que tiene errores, algunos de los cuales podrían ser utilizados por los gobiernos o incluso las grandes empresas para entrar en las computadoras que lo están usando. Usar Adium para encriptar sus conversaciones es una gran defensa contra el tipo de vigilancia de redirección no focalizada que se usa para espiar las conversaciones de Internet de todos, pero si cree que será atacado personalmente por un atacante con recursos suficientes (como un estado-nación), debería considerar precauciones más estrictas, como el correo electrónico PGP encriptado. 
 
-### Installing Adium + OTR On Your Mac
+### Instalación de Adium + OTR en su Mac 
 
-Step 1: Install the program
+Paso 1: Instale el programa 
 
-First, go to [https://adium.im/](https://adium.im/) in your browser. Choose "Download Adium 1.5.9." The file will download as a .dmg, or disk image, and will probably be saved to your "downloads" folder.
+Primero, vaya a [https: // adium. im /](https://adium.im/) en su navegador. Elija "Descargar Adium 1.5.9. " El archivo se descargará como .dmg, o imagen de disco, y probablemente se guardará en su carpeta "downloads". 
 
-Double-click on the file; that will open up a window that looks like this:
-![image](tool_adium1.png)
+Haga doble clic en el archivo; eso abrirá una ventana que se ve así: 
+![image](tool_adium1.png) 
 
-Move the Adium icon into the "Applications" folder to install the program. Once the program is installed, look for it in your Applications folder and double-click to open it.
+Mueve el icono de Adium en la carpeta "Aplicaciones " para instalar el programa. Una vez que el programa esté instalado, búsquelo en su carpeta Aplicaciones y haga doble clic para abrirlo. 
 
-Step 2: Set up your account(s)
+Paso 2: configure su(s) cuenta(s) 
 
-First, you will need to decide what chat tools or protocols you want to use with Adium. The setup process is similar, but not identical, for each type of tool. You will need to know your account name for each tool or protocol, as well as your password for each account.
+En primer lugar, deberá decidir qué herramientas de chat o protocolos quiero usar con Adium. El proceso de instalación es similar, pero no idéntico, para cada tipo de herramienta. Tendrá que saber el nombre de su cuenta para cada herramienta o protocolo, así como su contraseña para cada cuenta. 
 
-To set up an account, go to the Adium menu at the top of your screen and click "Adium" and then "Preferences." This will open a window with another menu at the top. Select "Accounts," then click the "+" sign at the bottom of the window. You will see a menu that looks like this:
-![image](tool_adium2.png)
+Para configurar una cuenta, vaya al menú de Adium en la parte superior de la pantalla y haga clic en "Adium" y luego "Preferencias". Esto abrirá una ventana con otro menú en la parte superior. Seleccione "Cuentas", luego haga clic en el signo "+" en la parte inferior de la ventana. Verá un menú que se ve así: 
+![image](tool_adium2.png) 
 
-Select the program that you wish to sign in to. From here, you will be prompted either to enter your username and password, or to use Adium's authorization tool to sign in to your account. Follow Adium's instructions carefully.
+Seleccione el programa al que desea iniciar sesión. Desde aquí, se le pedirá que ingrese su nombre de usuario y contraseña, o que use la herramienta de autorización de Adium para iniciar sesión en su cuenta. Siga las instrucciones de Adium cuidadosamente. 
 
-### How to Initiate an OTR Chat
+### Cómo iniciar un chat OTR 
 
-Once you have signed in to one or more of your accounts, you can start using OTR.
+Una vez que haya iniciado sesión en una o más de sus cuentas, puede comenzar a usar OTR. 
 
-**Remember: In order to have a conversation using OTR, both people need to be using a chat program that supports OTR.**
+**Recuerde: en orden para tener una conversación usando OTR, ambas personas deben usar un programa de chat que admita OTR.** 
 
-Step 1: Initiate an OTR chat
+Paso 1: Iniciar un chat OTR 
 
-First, identify someone who is using OTR, and initiate a conversation with them in Adium by double-clicking on their name. Once you have opened the chat window, you will see a small, open lock in the upper left-hand corner of the chat window. Click on the lock and select "Initiate Encrypted OTR Chat."
+Primero, identificar a alguien que esté usando OTR e iniciar una conversación con ellos en Adium haciendo doble clic en su nombre. Una vez que haya abierto la ventana de chat, verá un pequeño candado abierto en la esquina superior izquierda de la ventana de chat. Haga clic en el candado y seleccione "Iniciar chat OTR cifrado".
 
-Step 2: Verify your connection
+Paso 2: verificar su conexión 
 
-Once you have initiated the chat and the other person has accepted the invitation, you will see the lock icon close; this is how you know that your chat is now encrypted (congratulations!) - But wait, there's still another step!
+Una vez que haya iniciado el chat y la otra persona haya aceptado la invitación, verá el icono de candado cerrado; así es como usted sabe que su chat ahora está encriptado (¡enhorabuena!) - ¡Pero espere, todavía hay otro paso! 
 
-At this time, you have initiated an unverified, encrypted chat. This means that while your communications are encrypted, you have not yet determined and verified the identity of the person you are chatting with. Unless you are in the same room and can see each other's screens, it is important that you verify each other's identities. (For more information, read the EFF module on [Key Verification](https://ssd.eff.org/en/module/key-verification#overlay=en/node/37/).)
+En este momento, ha iniciado un chat cifrado sin verificar. Esto significa que mientras sus comunicaciones están encriptadas, aún no ha determinado y verificado la identidad de la persona con la que está chateando. A menos que esté en la misma habitación y pueda ver las pantallas de los demás, es importante que verifique las identidades de los demás. (Para obtener más información, lea el módulo EFF en [Verificación de clave](https://ssd.eff.org/en/module/key-verification#overlay=en/node/37/).) 
 
-To verify another user's identity using Adium, click again on the lock, and select "Verify." You will be shown a window that displays both your key and the key of the other user. Some versions of Adium only support manual fingerprint verification. This means that, using some method, you and the person with whom you're chatting will need to check to make sure that the keys that you are being shown by Adium match precisely.
+Para verificar otro la identidad del usuario usando Adium, haga clic de nuevo en el candado y seleccione "Verificar". Se le mostrará una ventana que muestra su clave y la del otro usuario. Algunas versiones de Adium solo admiten la verificación manual de huellas digitales. Esto significa que, utilizando algún método, usted y la persona con la que está chateando deberán verificar que las claves que le muestra Adium coincidan con precisión. 
 
-The easiest way to do this is to read them aloud to one another in person, but that's not always possible. There are different ways to accomplish this with varying degrees of trustworthiness. For example, you can read your keys aloud to one another on the phone if you recognize each other's voices or send them using another verified method of communication such as PGP. Some people publicise their key on their website, Twitter account, or business card.
+La manera más fácil de hacerlo es leer en voz alta el uno al otro en persona, pero eso no siempre es posible. Hay diferentes maneras de lograr esto con diversos grados de confiabilidad. Por ejemplo, puede leer sus claves en voz alta entre sí en el teléfono si reconoce las voces de los demás o las envía utilizando otro método verificado de comunicación, como PGP. Algunas personas publican su clave en su sitio web, cuenta de Twitter o tarjeta de presentación. 
 
-**The most important thing is that you verify that every single letter and digit matches perfectly.**
+**Lo más importante es que verifique que cada letra y dígito coincidan perfectamente.** 
 
-Now that you have initiated an encrypted chat and verified your chat partner's identity, there's one more thing you need to do. Unfortunately, Adium logs your OTR-encrypted chats by default, saving them to your hard drive. This means that, despite the fact that they're encrypted, they are being saved in plain text on your hard drive.
+Ahora que ha iniciado una chat encriptado y verificado la identidad de su compañero de chat, hay una cosa más que debe hacer. Desafortunadamente, Adium registra sus chats cifrados OTR de forma predeterminada, guardándolos en su disco duro. Esto significa que, a pesar de que están encriptados, se guardan en texto sin formato en su disco duro. 
 
-To disable logging, click "Adium" in the menu at the top of your screen, then "Preferences." In the new window, select "General" and then disable "Log messages" and "Log OTR-secured chats." Your settings should now look like this:
-![image](tool_adium3.png)
+Para desactivar el registro, haga clic en "Adium" en el menú en la parte superior de la pantalla, luego "Preferencias". En la nueva ventana, seleccione "General" y luego desactive "Registrar mensajes" y "Registrar chats asegurados por OTR". Su configuración debería verse así: 
+![image](tool_adium3.png) 
 
-Also, when Adium displays notifications of new messages, the contents of those messages may be logged by the OS X Notification Center. This means that while Adium leaves no trace of your communications on your own computer or your correspondent's, either your or their computer's version of OS X may preserve a record. To prevent this, you may want to disable notifications.
+También, cuando Adium muestra notificaciones de mensajes nuevos, el contenido de esos mensajes puede ser registrado por el Centro de notificaciones OS X. Esto significa que, si bien Adium no deja rastros de sus comunicaciones en su propia computadora o la de su corresponsal, la versión de OS X, o la de su computadora, puede conservar un registro. Para evitar esto, es posible que desee deshabilitar las notificaciones. 
 
-To do this, select "Events" in the Preferences window, and look for any entries that say "Display a notification." For each entry, expand it by clicking the gray triangle, and then click the newly-exposed line that say "Display a notification," then click the minus icon ("-") at the lower left to remove that line." If you are worried about records left on your computer, you should also turn on full-disk encryption, which will help protect this data from being obtained by a third party without your password.
+Para ello, seleccione "Eventos" en la ventana de Preferencias, y busque las entradas que digan "Mostrar una notificación". Para cada entrada, amplíela haciendo clic en el triángulo gris, y luego haz clic en la línea recién expuesta que dice "Mostrar una notificación", luego haz clic en el ícono de menos ("-") en la esquina inferior izquierda para quitar esa línea. Si eres preocupado por los registros que quedan en su computadora, también debe activar el cifrado de disco completo, lo que ayudará a proteger esta información de terceros sin su contraseña. 
 ![image](tool_adium4.png)

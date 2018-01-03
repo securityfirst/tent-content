@@ -2,53 +2,53 @@
 [Difficulty]: # (Principiante)
 [Order]: # (0)
 
-# BASIC SECURITY SETUP FOR ANDROID GUIDE
+# CONFIGURACIÓN BÁSICA DE SEGURIDAD PARA GUÍA ANDROID
 
-## Basic Security Setup for Android guide
+## Configuración de seguridad básica para la guía de Android
 
-**Lesson to read: [Mobile Phones](umbrella://lesson/mobile-phones)**  
-**Phone requirements:** Android 4.4  
-**Level:** Beginner  
-**Time required:** 5 minutes
+**Lección para leer: [Teléfonos móviles](umbrella://lesson/mobile-phones** 
+**Requisitos del teléfono:** Android 4.4
+**Nivel:** Principiante
+**Tiempo requerido:** 5 minutos
 
-### 1.0 Basic Setup
+### 1.0 Configuración básica
 
-### 1.1 Access to your phone
+### 1.1 Acceso a su teléfono
 
-**Enable** _Lock SIM card_, found under _Settings -> Personal -> Security -> Set up SIM card lock_. This will mean that you must enter a PIN number in order to unlock your SIM card each time your phone is switched on, with out the PIN no phone calls can be made.
+**Habilita** _Lock SIM card_, encontrado en _Configuración -> Personal -> Seguridad -> Configurar tarjeta SIM lock_. Esto significa que debe ingresar un número de PIN para desbloquear su tarjeta SIM cada vez que encienda su teléfono, sin el PIN no se pueden hacer llamadas telefónicas.
 
-**Set up** a _Screen Lock_, found under _Settings -> Personal -> Security -> Screen Lock_, which will ensure that a code, pattern or password needs to be entered in order to unlock the screen once it has been locked. We recommended using the PIN or Password option, as these are not restricted by length. You can find more information on creating strong passwords in the [Passwords lesson](umbrella://lesson/passwords).
+**Configure** a _Screen Lock_, que se encuentra en _Configuración -> Personal -> Seguridad -> Bloqueo de pantalla_, que asegurará que se debe ingresar un código, patrón o contraseña para desbloquear la pantalla una vez que se ha bloqueado. Recomendamos usar la opción PIN o Contraseña, ya que no están restringidas por la longitud. Puede encontrar más información sobre cómo crear contraseñas seguras en la [lección Contraseñas] (paraguas: // lección / contraseñas).
 
-**Set** the _security lock timer_, which will automatically lock your phone after a specified time. You can specify a value which suits you, depending on how regularly you are willing to have to unlock your phone.
+**Configure** el _security lock timer_, que bloqueará automáticamente su teléfono después de un tiempo especificado. Puede especificar el valor que más le convenga, dependiendo de la frecuencia con que esté dispuesto a desbloquear su teléfono.
 
-### 1.2 Device Encryption
+### 1.2 Cifrado del dispositivo
 
-If your device uses Android version 4.0 or newer, you should **turn on** _device encryption_. This can be done in _Settings -> Personal -> Security -> Encryption_. Before you can utilise device encryption, however, you will be required to set a screen lock password (described above).
+Si su dispositivo usa Android versión 4.0 o posterior, debe ** activar ** _device encryption_. Esto se puede hacer en _Configuración -> Personal -> Seguridad -> Encriptación_. Sin embargo, antes de poder utilizar el cifrado del dispositivo, se le solicitará que configure una contraseña de bloqueo de pantalla (descrita anteriormente).
 
-**Note:** Before starting the encryption process, ensure the phone is fully charged and plugged into a power source.
+** Nota: ** Antes de comenzar el proceso de encriptación, asegúrese de que el teléfono esté completamente cargado y conectado a una fuente de alimentación.
 
-### 1.3 Network settings
+### 1.3 Configuración de red
 
-**Turn off** Wi-Fi and Bluetooth by default. Ensure that _Tethering_ and _Portable Hotspots_, under Wireless and Network Settings, are switched off when not in use. _Settings -> Wireless & Networks -> More -> Tethering & Mobile hotspot_
+**Desactive** Wi-Fi y Bluetooth de manera predeterminada. Asegúrese de que _Tethering_ y _Potsable Hotspots_, en Configuración inalámbrica y de red, estén apagados cuando no estén en uso. _Configuración -> Conexiones inalámbricas y redes -> Más -> Anclaje a red y zona móvil_
 
-If your device supports _Near Field Communication (NFC)_, this will be switched on by default, and so must be switched off manually.
+Si su dispositivo admite _Near Field Communication (NFC)_, esto se encenderá de manera predeterminada, por lo que debe desactivarse manualmente.
 
-### 1.4 Location settings
+### 1.4 Configuración de ubicación
 
-**Switch off** _Wireless_ and _GPS_ location (under _Location Services_) and mobile data (this can be found under _Settings -> Personal -> Location_).
+**Desactivar** _Wireless_ y _GPS_ location (en _Location Services_) y datos móviles (esto se puede encontrar en _Settings -> Personal -> Location_).
 
-**Note:** Only turn on location settings as you need them. It is important not have these services running by default in the background as it reduces the risk of location tracking, saves battery power and reduces unwanted data streams initiated by applications running in the background or remotely by your mobile carrier.
+**Nota:** Solo active las configuraciones de ubicación cuando las necesite. Es importante que estos servicios no se ejecuten de forma predeterminada en segundo plano, ya que reduce el riesgo de seguimiento de ubicación, ahorra energía de la batería y reduce los flujos de datos no deseados iniciados por aplicaciones que se ejecutan en segundo plano o de forma remota por su operador de telefonía móvil.
 
-### 1.5 Caller Identity
+### 1.5 Identidad de llamada
 
-If you want to hide your caller-ID, go to _Phone Dialler -> settings -> Additional Settings -> Caller ID -> hide number_.
+Si desea ocultar su identificador de llamadas, vaya a _Phone Dialer -> configuración -> Configuración adicional -> ID de llamada -> ocultar número_.
 
-### 1.6 Software Updates
+### 1.6 Actualizaciones de software
 
-To ensure that you phone remains secure it is strongly recommended to keep your software updated. There are two types of updates that need to be checked
+Para garantizar que su teléfono permanezca seguro, se recomienda encarecidamente mantener actualizado su software. Hay dos tipos de actualizaciones que deben verificarse
 
-The phone operating system: go to: _settings -> About phone -> updates -> check for updates_
+El sistema operativo del teléfono: vaya a: _ ajustes -> Acerca del teléfono -> actualizaciones -> busque actualizaciones_
 
-Apps you have installed: Open the **Play store** app, from the _side menu_ select **My Apps**.
+Aplicaciones que ha instalado: abra la aplicación **Play store**, del _side menu_ select **My Apps**.
 
-**Note:** When updating your phones software it is important to do it from a trusted location such as your internet connection at home instead of somewhere like an internet cafe or coffee shop.
+**Nota:** Al actualizar el software de su teléfono, es importante hacerlo desde una ubicación confiable, como su conexión a Internet en su casa, en lugar de hacerlo en un lugar como un cibercafé o una cafetería.
