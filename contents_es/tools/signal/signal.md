@@ -2,55 +2,55 @@
 [Difficulty]: # (Principiante)
 [Order]: # (0)
 
-# SIGNAL TOOL GUIDE
+##GUÍA DE HERRAMIENTAS DE SIGNAL
 
-## Signal Tool Guide   
-Encrypted phone calls for iPhones 
+Guía de herramientas de señal 
+Llamadas cifradas para iPhones & Android
 
-**Lesson to read:   
-- [Making a Call](umbrella://lesson/making-a-call)**  
-**Download Location:** The app can be downloaded from the [Apple App Store](https://itunes.apple.com/us/app/signal-private-messenger/id874139669?mt=8)  
-**Computer requirements:** Requires iOS 7.0 or later. Compatible with iPhone, iPad, and iPod touch.  
-**Version used in this guide:** Signal - Private Messenger 1.0.5  
-**License:** GPLv3  
-**Level:** Beginner-Intermediate  
-**Other reading:**  
-- [https://whispersystems.org/blog/signal/](https://whispersystems.org/blog/signal/)  
-- [http://support.whispersystems.org/](http://support.whispersystems.org/)  
-**Time required:** 15-20 minutes
+**Lección para leer:** [Hacer una llamada](umbrella://lesson/making-a-call) 
+**Descargar ubicación:** [Google Play Store](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms), [Apple App Store](https://itunes.apple.com/us/app/signal-private-messenger/id874139669?mt=8) 
+**Requisitos informáticos:** Compatible con iPhone, iPad y iPod touch, Android. 
+**Licencia:** GPLv3 
+**Nivel:** Beginner-Intermediate 
+**Otra lectura:** 
+- [https://whispersystems.org/blog/signal/](https://whispersystems.org/blog/signal/) 
+- [http://support.whispersystems.org/](http://support.whispersystems.org/) 
+**Tiempo requerido:** 15-20 minutos
 
-**Using Signal will give you:**  
-- The ability to make encrypted voice calls over a Wi-Fi or data connection using your normal phone number
+**El uso de Signal le dará:** 
+? La capacidad de hacer llamadas de voz cifradas a través de una conexión de Wi-Fi o de datos usando su número de teléfono normal**
 
-NOTE:   
-- Although it uses telephone numbers as contacts, calls actually use your data connection; therefore both parties to the conversation must have Internet access on their mobile devices.  
-- Signal only encrypts calls that are between two Signal users, or between users of Signal and RedPhone, the app for Androids. (See **[RedPhone Tool Guide](umbrella://lesson/redphone)** for instructions for Androids)
+**NOTA:** 
+Aunque utiliza números de teléfono como contactos, las llamadas realmente usan su conexión de datos; por lo tanto, ambas partes de la conversación deben tener acceso a Internet en sus dispositivos móviles. 
 
-### 1.0 How to install Signal 
 
-**Step 1:** Download and Install Signal - Private Messenger
 
-On your iOS device, enter the App Store and search for "Signal." Select the app "Signal - Private Messenger" by Open Whisper Systems.
+### 1.0 Cómo instalar Signal
 
-Click to download the app and accept the iTunes Store Terms & Conditions by selecting "Accept." The app will download and install automatically. Click "Open" to launch the app.
+**Paso 1: Descargar e instalar la señal? Private Messenger**
 
-**Step 2:** Register and Verify your Phone Number
+En su dispositivo iOS, ingrese a App Store y busque? Signal.? Seleccione la aplicación? Señal? ¿Messenger privado? por Open Whisper Systems.**
 
-You will see a screen that looks like this:
-![image](tool_signal1.png)
+Haga clic para descargar la aplicación y acepte los Términos y condiciones de iTunes Store seleccionando "Aceptar". La aplicación se descargará e instalará automáticamente. Haga clic en? Abrir? para iniciar la aplicación.
 
-Enter your mobile phone number and click "Register." In order to verify your phone number, you will be sent an SMS text with a six-digit code; enter the code in the space provided. If you are unable to receive SMS texts, you have the option of receiving a phone call to verify your phone number. Click "Verify."
+**Paso 2: Registrarse y verificar su número de teléfono**
 
-### 2.0 Using Signal
+Verá una pantalla que se ve así: 
 
-In order to use Signal, the person that you are calling must have either Signal or RedPhone (for Android devices) installed. If you try to call someone using the Signal app and they do not have Signal or RedPhone installed, the app will ask if you would like to invite them via SMS, but it will not allow you to complete your call from inside the app.
-![image](tool_signal2.png)
+![](tool_signal1.png)
 
-### 2.1 How to Initiate an encrypted call
+Ingrese su número de teléfono móvil y haga clic en? Registrarse? Para verificar su número de teléfono, se le enviará un mensaje de texto con un código de seis dígitos; ingrese el código en el espacio provisto. Si no puede recibir mensajes de texto, tiene la opción de recibir una llamada telefónica para verificar su número de teléfono. Haga clic en? Verificar.?
 
-To initiate an encrypted call to a contact, you must use the dialer within the Signal app. (This differs from RedPhone for Android, which also allows you to use the default system dialer.)
+### 2.0 Usar Signal
 
-Once a call is established, both parties to the call will be shown a random pair of words. This word pair will allow you to verify your identity and keys with the other user-also known as key verification.
-![image](tool_signal3.png)
+Para usar Signal, la persona a la que llama debe tener instalado Signal. Si intentas llamar a alguien que usa la aplicación Signal y no tienen instalados Signal, la aplicación te preguntará si deseas invitarlos por SMS, pero no te permitirá completar tu llamada desde el interior de la aplicación. 
 
-The most trustworthy way to verify the identity of a caller is to use out-of-band authentication to verify the word pair. You can also read the words aloud if you recognize the caller's voice, although very sophisticated attackers might be able to defeat this if they needed to. The word pair must be identical.
+![](tool_signal2.png)
+
+### 2.1 Cómo iniciar una llamada encriptada
+
+Para iniciar una llamada encriptada a un contacto, debe usar el marcador dentro de la aplicación Signal. (Esto difiere de RedPhone para Android, que también le permite usar el marcador predeterminado del sistema.)
+
+Una vez que se establece una llamada, a ambas partes de la llamada se les mostrarán un par de palabras al azar. Este par de palabras le permitirá verificar su identidad y claves con el otro usuario, también conocido como verificación de clave. ![](tool_signal3.png)
+
+La forma más confiable de verificar la identidad de un el que llama debe usar la autenticación fuera de banda para verificar el par de palabras. También puede leer las palabras en voz alta si reconoce la voz de la persona que llama, aunque los atacantes muy sofisticados podrían ser capaces de vencer esto si lo necesitaran. El par de palabras debe ser idéntico.

@@ -2,67 +2,66 @@
 [Difficulty]: # (Principiante)
 [Order]: # (0)
 
-# TOR FOR MAC TOOL GUIDE
+# TOR FOR MAC TOOL GUIDE 
 
-## Tor for Mac Tool Guide 
+## Tor para Mac Tool Guide 
 
-**Lesson to read: [The Internet](umbrella://lesson/the-internet)**  
-**This guide outlines how to use the [Tor Browser Bundle](https://www.torproject.org/projects/torbrowser.html.en) on Mac.****Computer requirements:** An internet connection, a computer running Mac OS X  
-**Version used in this guide:** Tor Browser Bundle: 3.6.2  
-**License:** Free Software; mix of Free Software licenses  
-**Level:** Intermediate  
-**Other reading:** [https://tor.stackexchange.com/](https://tor.stackexchange.com/)  
-Time required:
- 15-30 minutes
+**Lección para leer:** [Internet](umbrella://lesson/the-internet) 
+**Esta guía describe cómo usar el [Tor Browser Bundle](https://www.torproject.org/projects/torbrowser.html.en) en Mac.** 
+**Requisitos de la computadora:** Una conexión a Internet, una computadora con Mac OS X 
+**Versión utilizada en esta guía:** Paquete del navegador Tor: X.X.X 
+**Licencia:** Software libre; combinación de licencias de Software Libre 
+**Nivel:** Intermedio 
+**Otra lectura:** [https://tor.stackexchange.com/](https://tor.stackexchange.com/) 
+**El tiempo requerido:** 15-30 minutos 
+**El uso de Tor le dará:** 
+- La capacidad de evitar la censura en Internet 
+- La capacidad de conectarse en línea anónimamente 
 
-**Using Tor will give you:**  
-- The ability to get around internet censorship  
-- The ability to get online anonymously
+### 1.0 Antes que usted start 
 
-### 1.0 Before you start 
+Tor es un servicio administrado por voluntarios que proporciona privacidad y anonimato en línea al enmascarar quién es usted y dónde se está conectando. El servicio también lo protege de la red Tor en sí misma. 
 
-Tor is a volunteer-run service that provides both privacy and anonymity online by masking who you are and where you are connecting. The service also protects you from the Tor network itself.
+Para las personas que pueden necesitar anonimato y privacidad ocasionales cuando acceden a sitios web, Tor Browser proporciona una manera rápida y fácil de usar la red Tor. 
 
-For people who might need occasional anonymity and privacy when accessing websites, Tor Browser provides a quick and easy way to use the Tor network.
+La forma más fácil de usar el La red Tor utilizará el Tor Browser Bundle, que combina un navegador web, el software Tor y otro software útil que le proporcionará una forma de acceder de forma más segura a la web. 
 
-The easiest way to use the Tor network is to use the Tor Browser Bundle, which combines a web browser, the Tor software, and other helpful software that will give you a way of more securely accessing the web.
+**El navegador Tor funciona igual que otros navegadores web, excepto que envía sus comunicaciones a través de Tor, lo que hace más difícil para las personas que lo monitorean saber exactamente lo que está haciendo en línea, y más difícil para las personas que monitorean los sitios que utiliza saber de dónde se está conectando. Tenga en cuenta que solo las actividades que realice dentro de Tor Browser serán anonimizadas. Tener el navegador Tor instalado en su computadora no hace que las cosas que hace en la misma computadora utilizando otro software (como su navegador web normal) sean anónimas.** 
 
-**The Tor Browser works just like other web browsers, except that it sends your communications through Tor, making it harder for people who are monitoring you to know exactly what you're doing online, and harder for people monitoring the sites you use to know where you're connecting from. Keep in mind that only activities you do inside of Tor Browser itself will be anonymised. Having Tor Browser installed on your computer does not make things you do on the same computer using other software (such as your regular web browser) anonymous.**
+# 2.0 Obtención del paquete del navegador Tor 
+Abra un navegador como Mozilla Firefox o Internet Explorer y escriba: [https://www.torproject.org/projects/torbrowser.html.en](https://www.torproject.org/projects/torbrowser.html.en) en la barra de URL. Si está utilizando un motor de búsqueda para buscar el paquete del navegador Tor, asegúrese de que la URL sea correcta. ![Image](tool_torosx1.png) 
 
-# 2.0 Getting Tor Browser Bundle
+Haga clic en el botón grande de descarga púrpura para obtener el programa de instalación de Tor. Browser Bundle. ![Image](tool_torosx2.png) 
 
-Open a browser like Mozilla Firefox or Internet Explorer and type: [https://www.torproject.org/projects/torbrowser.html.en](https://www.torproject.org/projects/torbrowser.html.en) in the URL bar. If you are using a search engine to look for the Tor Browser Bundle, make sure that the URL is correct.
-![image](tool_torosx1.png)
+El sitio web habrá detectado su sistema operativo y obtendrá el archivo correcto para Windows. Si, por algún motivo, desea un archivo de instalación diferente, puede desplazarse hacia abajo a la sección Descargas del navegador Tor. 
 
-Click the big purple download button to get the installation program for Tor Browser Bundle.
-![image](tool_torosx2.png)
+![Image](tool_torosx3.png) 
 
-The website will have detected your operating system and you'll get the correct file for Windows. If, for any reason, you want a different installer file you can scroll down to the Tor Browser Downloads section.
-![image](tool_torosx3.png)
+Muchos navegadores le solicitarán que confirme si desea descargar este archivo. archivo. 
 
-Many browsers will ask you to confirm whether you want to download this file. 
+Para cualquier navegador, es mejor guardar el archivo primero antes de continuar. Entonces haz clic en el botón Guardar. 
 
-For any browser, it is best to save the file first before proceeding. So click the Save button. 
+### 2.1 Instalación del paquete del navegador Tor 
+Después de que se complete la descarga, es posible que tenga la opción de abrir la carpeta donde se descargó el archivo. La ubicación predeterminada es la carpeta Descargas. 
 
-### 2.1 Installing Tor Browser Bundle
+Haga doble clic en el instalador Tor Browser. Esto abre el archivo .dmg. 
 
-After the download is complete, you might get an option to open the folder where the file was downloaded to. The default location is the Downloads folder.
+(En versiones recientes de OS X, es posible que reciba una advertencia de que es de un "desarrollador no identificado"; puede evitar esta queja haciendo clic y seleccionando "abrir".) 
 
-Double-click on the Tor Browser installer. This opens the .dmg file. 
+Deslice el archivo incluido en su carpeta Aplicaciones y tendrá una aplicación Tor Browser en su idioma elegido que puede fijar en su Dock. 
 
-(On recent versions of OS X, you might get a warning that it's from an "unidentified developer" - you can get around this complaint by control-clicking and selecting "open".)  
+![image](tool_torosx4.png) 
 
-Drag the included file into your Applications folder and you will have a Tor Browser application in your chosen language that you can pin on your Dock.
-![image](tool_torosx4.png)
+**Iniciando Tor Browser para el primera vez** 
 
-**Starting Tor Browser for the first time**
+**Abra la carpeta del navegador Tor desde su carpeta Aplicaciones y haga doble clic en el archivo llamado Navegador Tor.**
 
-Open the Tor Browser folder from your Applications folder and double click on the file called Tor Browser.
+La primera vez que inicia el Navegador Tor, puede obtener una ventana que le permite modificar algunas configuraciones si es necesario . Es posible que deba volver y cambiar algunas configuraciones, pero continúe e intente conectarse a la red Tor haciendo clic en el botón Conectar. 
 
-The first time Tor Browser starts, you may get a window that allows you to modify some settings if necessary. You might have to come back and change some configuration settings, but go ahead and try to connect to the Tor network by clicking the Connect button.
+Después de hacer clic en el botón Conectar, se abrirá una nueva ventana con una barra verde que se mientras el software Tor se inicie. 
 
-After clicking the connect button, a new window will open with a green bar that will get longer as the Tor software starts up.
-![image](tool_torosx5.png)
+![image](tool_torosx5.png) 
 
-The first time Tor Browser starts it might take a bit longer than usual, but be patient, within a few minutes Tor Browser will be done and a web browser opens up congratulating you.
+La primera vez que Tor Browser se inicia puede tardar un poco más de lo normal, pero tenga paciencia, dentro de unos minutos el navegador Tor estará listo y se abre un navegador web felicitándolo. 
+
 ![image](tool_torosx6.png)

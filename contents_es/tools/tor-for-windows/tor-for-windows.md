@@ -2,85 +2,85 @@
 [Difficulty]: # (Principiante)
 [Order]: # (0)
 
-# TOR FOR WINDOWS TOOL GUIDE
+##TOR GUÍA DE HERRAMIENTAS PARA WINDOWS
 
-## Tor for Windows Tool Guide  
-Online Anonymity and Circumvention
+Guía de herramientas de Tor para Windows 
+Anonimato y elusión en línea
 
-**Lesson to read: [The Internet](umbrella://lesson/the-internet)**  
-**This guide outlines how to use the [Tor Browser Bundle](https://www.torproject.org/projects/torbrowser.html.en) on Windows.****Computer requirements:** An internet connection, a computer running Windows  
-**Version used in this guide:** Windows: Windows 7 Ultimate; Tor Browser Bundle: 3.6.2  
-**License:** Free Software; mix of Free Software licenses  
-**Level:** Intermediate  
-**Other reading:** [https://tor.stackexchange.com/](https://tor.stackexchange.com/)  
-Time required:
- 15-30 minutes
+**Lección para leer: [Internet](umbrella://lesson/the-internet) 
+**Esta guía describe cómo usar el [Tor Browser Bundle]( https://www.torproject.org/projects/torbrowser.html .en ) en Windows. 
+**Requisitos informáticos: una conexión a Internet, una computadora con Windows 
+**Versión utilizada en esta guía: Windows: Windows 7 Ultimate; Tor Browser Bundle: 3.6.2 
+**Licencia: Software gratuito; combinación de licencias de Software Libre 
+**Nivel: Intermedio 
+**Otra lectura: [https: //tor.stackexchange.com/](https://tor.stackexchange.com/) 
+Tiempo requerido:** 15-30 minutos 
+**El uso de Tor le dará:** 
+-La capacidad de evitar la censura de Internet 
+-La capacidad de conectarse en línea anónimamente
 
-**Using Tor will give you:**  
-- The ability to get around internet censorship  
-- The ability to get online anonymously
 
-### 1.0 Before you start 
+### 1.0 Antes de comenzar
 
-Tor is a volunteer-run service that provides both privacy and anonymity online by masking who you are and where you are connecting. The service also protects you from the Tor network itself.
+Tor es un servicio administrado por voluntarios que brinda privacidad y anonimato en línea al enmascarar quién es usted y dónde se está conectando. El servicio también lo protege de la red Tor en sí.
 
-For people who might need occasional anonymity and privacy when accessing websites, Tor Browser provides a quick and easy way to use the Tor network.
+Para las personas que puedan necesitar anonimato y privacidad ocasionales cuando acceden a sitios web, Tor Browser proporciona una manera rápida y fácil de usar la red Tor. 
 
-The easiest way to use the Tor network is to use the Tor Browser Bundle, which combines a web browser, the Tor software, and other helpful software that will give you a way of more securely accessing the web.
+La forma más sencilla de usar la red Tor es utilizar el paquete del navegador Tor, que combina un navegador web, el software Tor y otro software útil que le proporcionará una forma de acceder de forma más segura a la web. 
 
-**The Tor Browser works just like other web browsers, except that it sends your communications through Tor, making it harder for people who are monitoring you to know exactly what you're doing online, and harder for people monitoring the sites you use to know where you're connecting from. Keep in mind that only activities you do inside of Tor Browser itself will be anonymised. Having Tor Browser installed on your computer does not make things you do on the same computer using other software (such as your regular web browser) anonymous.**
+**El navegador Tor funciona igual que otros navegadores web, excepto que envía tus comunicaciones a través de Tor, lo que dificulta que las personas que lo monitorean puedan saber exactamente lo que estás haciendo en línea y más difícil para las personas que monitorean los sitios Usas para saber de dónde te estás conectando. Tenga en cuenta que solo las actividades que realice dentro de Tor Browser serán anonimizadas. Tener el navegador Tor instalado en su computadora no hace que las cosas que hace en la misma computadora utilizando otro software (como su navegador web normal) sean anónimas.**
 
-### 2.0 Getting Tor Browser Bundle
+### 2.0 Obtención del paquete del navegador Tor
 
-Open a browser like Mozilla Firefox or Internet Explorer and type: [https://www.torproject.org/projects/torbrowser.html.en](https://www.torproject.org/projects/torbrowser.html.en) in the URL bar. If you are using a search engine to look for the Tor Browser Bundle, make sure that the URL is correct.
+Abra un navegador como Mozilla Firefox o Internet Explorer y escriba: [https://www.torproject.org/projects /torbrowser.html.en](https://www.torproject.org/projects/torbrowser.html.en) en la barra de URL. Si está utilizando un motor de búsqueda para buscar el paquete del navegador Tor, asegúrese de que la URL sea correcta.
 ![image](tool_torwin1.png)
 
-Click the big purple download button to get the installation program for Tor Browser Bundle.
+Haga clic en el botón grande de descarga púrpura para obtener la instalación programa para el paquete del navegador Tor.
 ![image](tool_torwin2.png)
 
-The website will have detected your operating system and you'll get the correct file for Windows. If, for any reason, you want a different installer file you can scroll down to the Tor Browser Downloads section.
+El sitio web habrá detectado su sistema operativo y obtendrá el archivo correcto para Windows. Si, por algún motivo, desea un archivo de instalación diferente, puede desplazarse hacia abajo a la sección Descargas del navegador Tor.
 ![image](tool_torwin3.png)
 
-Many browsers will ask you to confirm whether you want to download this file. Internet Explorer 11 shows a bar at the bottom of the browser window with an orange border.
+Muchos navegadores le solicitarán que confirme si desea para descargar este archivo Internet Explorer 11 muestra una barra en la parte inferior de la ventana del navegador con un borde naranja.
 ![image](tool_torwin4.png)
 
-For any browser, it is best to save the file first before proceeding. So click the Save button. This example shows Tor Browser Bundle version 3.6.2, which was the current version at the time we wrote this. There will probably be a more recent version available for download by the time you read this.
+Para cualquier navegador, lo mejor es guardar primero el archivo antes de continuar. Entonces haz clic en el botón Guardar. Este ejemplo muestra Tor Browser Bundle versión 3.6.2, que era la versión actual en el momento en que escribimos esto. Probablemente haya una versión más reciente disponible para descargar en el momento de leer esto.
 
-### 2.1 Installing Tor Browser Bundle
+### 2.1 Instalación del paquete del navegador Tor
 
-After the download is complete, you might get an option to open the folder where the file was downloaded to. The default location is the Downloads folder. Double-click on the file _torbrowser-install-3.6.2_en-US.exe_
-![image](tool_torwin5.png)
+Una vez que se complete la descarga, es posible que tenga una opción para abrir la carpeta donde se descargó el archivo La ubicación predeterminada es la carpeta Descargas. Haga doble clic en el archivo _torbrowser-install-X.X.X_en-US.exe_
+![image](tool_torwin5.png) 
 
-After double-clicking on the Tor Browser installer, a window will open with a warning about the origin of the software. You should always take these warnings seriously and make sure you trust the software you want to install and that you got an authentic copy from the official site over a secure connection. Since you know what you want, and you know where to get the software, and the download was from the Tor Project's secure HTTPS site, go ahead and click Run.
+Después de hacer doble clic en el instalador Tor Browser , se abrirá una ventana con una advertencia sobre el origen del software. Siempre debe tomar estas advertencias en serio y asegurarse de que confía en el software que desea instalar y de que obtuvo una copia auténtica del sitio oficial a través de una conexión segura. Como sabe lo que quiere, y sabe dónde obtener el software, y la descarga fue del sitio HTTPS seguro de Tor Project, vaya y haga clic en Ejecutar.
 ![image](tool_torwin6.png)
 
-A small window will open asking what language you want to use for the Tor Browser Bundle. There are several to choose from. Pick the language you want and click the OK button.
-![image](tool_torwin7.png)
+Se abrirá una pequeña ventana preguntando qué idioma desea usar para el paquete del navegador Tor. Hay varios para elegir. Elija el idioma que desee y haga clic en el botón Aceptar.
+![image](tool_torwin7.png) 
 
-You'll find a new window that will tell you where the Tor Browser Bundle will be installed. The default location is your desktop. You can change this to be a different location if you want, but for now keep the default.
-![image](tool_torwin8.png)
+Encontrará una nueva ventana que le indicará dónde se instalará el paquete del navegador Tor. La ubicación predeterminada es tu escritorio. Puedes cambiar esto para que sea una ubicación diferente si lo deseas, pero por ahora conserva el valor predeterminado.
+![image](tool_torwin8.png) 
 
-The installation process is complete when you see a window that says you have completed the installation process. If you click the Finish button, the Tor Browser will start immediately. For now, uncheck the box by "Run Tor Browser Bundle." We'll come back to using Tor Browser Bundle in a bit. If you missed unchecking the checkbox and Tor Browser starts, just close the window for now.
-![image](tool_torwin9.png)
+El proceso de instalación se completa cuando ves una ventana que te dice ha completado el proceso de instalación. Si hace clic en el botón Finalizar, el Navegador Tor comenzará de inmediato. Por ahora, desmarque la casilla por? Ejecutar el paquete del navegador Tor.? Volveremos a usar el paquete del navegador Tor en un momento. Si no seleccionó la casilla de verificación y se inicia Tor Browser, simplemente cierre la ventana por ahora.
+![image](tool_torwin9.png) 
 
-Tor Browser Bundle will not be installed with other programs and will not show up in your start menu.
-![image](tool_torwin10.png)
+El paquete del navegador Tor no se instalará con otros programas y no aparecerá. en el menú de inicio.
+![image](tool_torwin10.png) 
 
-### 3.0 Using Tor Browser Bundle
+### 3.0 Usando el paquete del navegador Tor
 
-**Starting Tor Browser for the first time**
+**Iniciando el navegador Tor por primera vez**
 
-You chose not to start Tor Browser when you finished with the installer, so now go ahead and start Tor Browser for the first time. If you followed all the default settings from the installation you'll see a folder on your desktop called Tor Browser.
-![image](tool_torwin11.png)
+-Decidió no iniciar Tor Browser cuando terminó con el instalador, por lo tanto, ahora inicie Tor Browser por primera vez. Si siguió todas las configuraciones predeterminadas de la instalación, verá una carpeta en su escritorio llamada Tor Browser.
+![image](tool_torwin11.png) 
 
-Open the Tor Browser folder and double click on the file called Start Tor Browser.
-![image](tool_torwin12.png)
+-Abra la carpeta Tor Browser y haga doble clic en el archivo llamado Start Tor Browser.
+![image](tool_torwin12.png)** 
 
-The first time Tor Browser starts, you'll get a window that allows you to modify some settings if necessary. You might have to come back and change some configuration settings, but go ahead and try to connect to the Tor network by clicking the Connect button.
-![image](tool_torwin13.png)
+-La primera vez que se inicia Tor Browser, obtendrá una ventana que le permite modificar algunos ajustes si es necesario. Es posible que deba volver y cambiar algunas configuraciones, pero continúe e intente conectarse a la red Tor haciendo clic en el botón Conectar.
+![image](tool_torwin13.png) 
 
-After clicking the connect button, a new window will open with a green bar that will get longer as the Tor software starts up.
+-Después de hacer clic en Conectar, se abrirá una nueva ventana con una barra verde que se alargará a medida que se inicie el software Tor.
 ![image](tool_torwin14.png)
 
-The first time Tor Browser starts it might take a bit longer than usual, but be patient, within a few minutes Tor Browser will be done and a web browser opens up congratulating you.
+-La primera vez que arranca el Navegador Tor puede llevar un poco más tiempo de lo habitual, pero tenga paciencia, en pocos minutos Tor Browser estará listo y se abrirá un navegador web felicitándolo.
 ![image](tool_torwin14.png)

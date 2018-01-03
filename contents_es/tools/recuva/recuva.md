@@ -2,325 +2,334 @@
 [Difficulty]: # (Principiante)
 [Order]: # (0)
 
-# RECUVA TOOL GUIDE
+##GUÍA DE HERRAMIENTAS RECUVA
 
-## Recuva Tool Guide   
-Data recovery and secure deletion
+Recuva Tool Guide 
+Recuperación de datos y eliminación segura
 
-**Lesson to read:   
-- [Backing Up](umbrella://lesson/backing-up)**  
-**Download Location:** [http://www.piriform.com/recuva/builds](http://www.piriform.com/recuva/builds)    
-**Computer requirements:** Any version of Windows   
-**Version used in this guide:** Recuva 1.3  
-**License:** Freeware  
-**Level:** Intermediate   
-**Time required:** 20 minutes
+**Lección para leer: [Copia de seguridad](umbrella://lesson/backing-up)**
+**Ubicación de descarga: [http://www.piriform.com/recuva/builds](http://www.piriform.com/recuva/builds)** 
+**Requisitos informáticos:** Cualquier versión de Windows 
+**Version usado en esta guía:** Recuva 1.3 
+**Licencia:** Freeware 
+**Nivel:** Intermedio 
+**Tiempo requerido:** 20 minutos.
 
-**Using Recuva will give you:**  
-- The ability to perform different scanning techniques  
-- The ability to recover previously deleted files on your computer, including emails, images and videos  
-- The ability to securely delete private or sensitive information
+**El uso de Recuva le dará:**
+-La capacidad de realizar diferentes técnicas de escaneo 
+-La capacidad de recuperar archivos previamente eliminados en su computadora, incluidos correos electrónicos, imágenes y videos 
+-La capacidad de eliminar de forma segura información privada o confidencial 
 
-Mac OS users could use [TestDisk and PhotoRec](www.cgsecurity.org/), as an alternative, which are also compatible with Microsoft Windows and GNU Linux.
+Los usuarios de Mac OS podrían usar [TestDisk y PhotoRec](www.cgsecurity.org/), como alternativa, que también son compatibles con Microsoft Windows y GNU Linux.**
 
-### 1.1 Before you start
 
-In situations where private or sensitive files may have been mistakenly deleted, Recuva can help you to scan for and restore some of them. As discussed in the **[Deleting lesson](umbrella://lesson/safely-deleting)**, a file deleted using the standard Windows operating system Delete function, even after the Recycle Bin has been emptied, might still exist on the computer.
+### 1.1 Antes de comenzar
 
-However, there are circumstances under which Recuva cannot retrieve information. If you have permanently deleted or wiped any temporary files by running CCleaner with the Secure file deletion (Slower) option enabled, those files are virtually unrecoverable. Recuva cannot recover files after programs like CCleaner or Eraser have been used to wipe free disk space or if Windows itself has already overwritten any previously occupied space. Recuva also cannot recover damaged documents and files.
+En situaciones donde archivos privados o confidenciales pueden haber sido borrados por error, Recuva puede ayudarlo a escanear y restaurar algunos de ellos. Como se explica en la **[lección de eliminación](umbrella://lesson/safely-deleting)**, se borró un archivo con la función de eliminación del sistema operativo estándar de Windows, incluso después del reciclaje. Bin se ha vaciado, puede que aún exista en la computadora.
 
-Recuva can also be used to securely overwrite your private or sensitive data.
+Sin embargo, existen circunstancias bajo las cuales Recuva no puede recuperar información. Si ha eliminado o borrado permanentemente cualquier archivo temporal ejecutando CCleaner con la opción de eliminación segura de archivos (Más lenta) habilitada, esos archivos son prácticamente irrecuperables. Recuva no puede recuperar archivos después de que se hayan utilizado programas como CCleaner o Eraser para borrar el espacio libre en el disco o si Windows ya sobrescribió un espacio previamente ocupado. Recuva tampoco puede recuperar documentos y archivos dañados.**
 
-### How to Install Recuva
+**Recuva también se puede utilizar para sobrescribir de manera segura sus datos privados o confidenciales.**
 
-### 2.0 How to Install Recuva
+### Cómo instalar Recuva
 
-**Step 1.** Double click "rcsetup138.exe"; the _Open File - Security Warning_ dialog box may appear. If it does, click "Run" to activate the language box.
+### 2.0 Cómo para instalar Recuva
 
-**Step 2.** Click "OK" to activate the Welcome to the _Recuva Setup Wizard_ screen.
+**Paso 1.** Haga doble clic en "rcsetup138.exe"; el cuadro de diálogo _Abrir archivo_ Advertencia de seguridad puede aparecer. Si lo hace, haga clic en "Ejecutar" para activar el cuadro 1de idioma.
 
-**Step 3.** Click "Next" to activate the _License Agreement_ screen. Please read the _License Agreement_ before proceeding with the rest of the installation process.
+**Paso 2.** Haga clic en "Aceptar" para activar la pantalla Bienvenido al _Asistente de configuración de Recuva._
 
-**Step 4.** Click "I Agree" to activate the _Choose Install_ Location screen.
+**Paso 3.** Haga clic en "Siguiente" para activar la pantalla _Acuerdo de licencia . Lea el _Acuerdo de licencia antes_ de continuar con el resto del proceso de instalación.
 
-**Step 5.** Click "Next" to activate the _Install Options_ screen.
+**Paso 4.** Haga clic en "Acepto" para activar la pantalla de ubicación _Elegir instalar_.
 
-**Note:** The _Install Options_ screen appears with the _Install optional Yahoo! toolbar_ option enabled. Do _not_ install the Yahoo! toolbar, which may compromise your Internet privacy and security.
+**Paso 5.** Haga clic en "Siguiente" para activar la pantalla _Instalar opciones_.
 
-**Step 6.** Check the _Install optional Yahoo! toolbar_ check box to disable it as shown below:
-![image](tool_recuva1.png)
+Nota: aparece la pantalla _Instalar opciones con la_ Instalar Yahoo opcional ! barra de herramientas opción habilitada. No _no instalo el Yahoo! barra de herramientas_, que puede comprometer su privacidad y seguridad en Internet.
 
-**Step 7.** Click "Install" to begin installing Recuva. This will activate the installation progress bar that will disappear after the installation has completed itself in a few minutes.
+**Paso 6.** Compruebe la Instale Yahoo! opcional barra de herramientas para desactivarlo como se muestra a continuación: 
+![image](tool_recuva1.png) 
 
-**Step 8.** Click "Finish" to complete installing Recuva.
+**Paso 7.** Haga clic en? Instalar? para comenzar a instalar Recuva. Esto activará la barra de progreso de la instalación que desaparecerá después de que la instalación se haya completado en unos minutos.
 
-Now that you have successfully installed Recuva, you are ready to begin recovering and/or overwriting private and sensitive information. 
+**Paso 8.** Haga clic en? ¿Fin? para completar la instalación de Recuva.
 
-### How to Perform Different Scans Using Recuva
+Ahora que ha instalado Recuva correctamente, está listo para comenzar a recuperar y / o sobrescribir información confidencial y privada._
 
-### 3.0 Before You Begin
+### Cómo realizar diferentes escaneos usando Recuva
 
-In this section, you will learn how to perform different types of scans, and be introduced to the _General_ and _Actions_ tabs in the _Options_ screen. **Note:** A scan will simply retrieve and display the files which are potentially recoverable. The actual recovery procedures are discussed in the next section.
+### 3.0 antes de comenzar
 
-### 3.1 How to Perform a Scan Using the Recuva Wizard
+En esta sección, aprenderá cómo realizar diferentes tipos de escaneos, y se le presentará a las pestañas _General y_ Acciones en la pantalla _Opciones_. 
 
-The Recuva _Wizard_ is recommended in situations where neither the full nor partial name of the file you would like to recover is known. It is also recommended if this is the first time you are using Recuva. The Recuva _Wizard_ lets you set the scan parameters by letting you specify the file type and/or from where the file was deleted.
+**Nota:** Un escaneo simplemente recuperará y mostrará los archivos que son potencialmente recuperables. Los procedimientos de recuperación reales se discuten en la siguiente sección.
 
-To begin scanning for deleted files, perform the following steps:
+### 3.1 Cómo realizar un escaneo con el Asistente de Recuva
 
-**Step 1.** Click the Recuva icon or select Start > Programs > Recuva > Recuva to launch the program, and activate the following screen:
+El Asistente de Recuva se recomienda en situaciones donde ni el nombre completo ni parcial del archivo que desea recuperar se conoce. También se recomienda si es la primera vez que usa Recuva. El Asistente de Recuva le permite configurar los parámetros de escaneo permitiéndole especificar el tipo de archivo y / o desde donde se borró el archivo.
+
+Para comenzar a escanear los archivos eliminados, realice lo siguiente pasos:
+
+**Paso 1.** Haga clic en el icono Recuva o seleccione Inicio> Programas> Recuva> Recuva para iniciar el programa y active la siguiente pantalla: 
 ![image](tool_recuva2.png)
 
-**Tip:** If you know the exact or even partial name of a file you would like to recover, click "Cancel" to go to the _Piriform Recuva_ main user interface, and then follow the steps in section 3.2 How to Perform a Scan without Using the Recuva Wizard.
+Sugerencia: si conoce el nombre exacto o parcial de un archivo que desea recuperar, haga clic en "Cancelar" ir a la interfaz de usuario principal de _Piriform Recuva_ y luego seguir los pasos de la sección 3.2 Cómo realizar un escaneo sin usar el Asistente de Recuva.
 
-**Step 2.** Click "Next" to activate the following screen:
+**Paso 2.** Haga clic en "Siguiente" para activar la siguiente pantalla: 
+
 ![image](tool_recuva3.png)
 
-The _Recuva Wizard File type_ displays a list of different file types, and describes what files might be recovered when each option is enabled.
+El tipo de archivo de Asistente de Recuva muestra una lista de diferentes tipos de archivos y describe qué archivos pueden recuperarse cuando cada opción está habilitada.
 
-**Step 3.** Check the _Other_ option, and then click "Next" to activate the following screen:
-![image](tool_recuva4.png)
+**Paso 3.** Compruebe la opción _Otro_ , y luego haga clic en "Siguiente" para activar la siguiente pantalla: 
+![image](tool_recuva4.png) 
 
-**Note:** The default setting for the _Recuva Wizard File Location_ screen is the _I'm not sure option_. This option will extend the scan to all drives as well as removable media, except CDs, DVDs and optical media. It may, therefore, require a longer time to generate results.
+**Nota:** la configuración predeterminada para la pantalla _Recuva Wizard Ubicación del archivo es la opción_ No estoy seguro. Esta opción extenderá el escaneo a todas las unidades así como a los medios extraíbles, excepto CD, DVD y medios ópticos. Por lo tanto, puede requerir más tiempo para generar resultados.
 
-Files are most frequently deleted from Recycle Bin in the Windows operating systems, to minimize the chance of your accidentally deleting private or sensitive information.
+Los archivos se eliminan con mayor frecuencia de la Papelera de reciclaje en los sistemas operativos Windows, para minimizar la posibilidad de eliminar accidentalmente información privada o confidencial.
 
-**Step 4.** Check the _In the Recycle Bin_ option as shown above, and then click "Next" to activate the following screen:
+**Paso 4.** Compruebe la opción En la papelera de reciclaje como se muestra arriba, y luego haga clic en "Siguiente" para activar la siguiente pantalla: 
 ![image](tool_recuva5.png)
 
-**Note:** For this exercise, do not enable the _Deep Scan_ option. This scanning technique will be discussed in section 3.3 How to Perform a Deep Scan.
+**Nota:** para este ejercicio, no habilite la opción Deep Scan. Esta técnica de escaneo se analizará en la sección 3.3 Cómo realizar un escaneo profundo.
 
-**Step 5.** Click "Start" to begin recovering your deleted files.
+**Paso 5.** Haga clic en? Comenzar? para comenzar a recuperar los archivos eliminados.
 
-During the file recovery process, two progress status bars appear in quick succession. The _Scanning the drive for deleted files_ progress bar lists the deleted files. The _Analyzing the file contents_ progress bar groups and sorts the deleted files into file types and degree of recoverability. They also display the duration of the scanning and analysis processes. Your _Piriform Recuva_ main user interface may then resemble the following screen:
+Durante el proceso de recuperación de archivos, aparecen dos barras de estado de progreso en rápida sucesión. La barra de progreso _Escaneo de la unidad para archivos eliminados_ enumera los archivos eliminados. Los grupos de barra de progreso_ Analizar el contenido del archivo_ clasifican los archivos eliminados en tipos de archivos y el grado de capacidad de recuperación. También muestran la duración de los procesos de análisis y análisis. Su interfaz de usuario principal de _Piriform Recuva_ puede parecerse a la siguiente pantalla: 
 ![image](tool_revua6.png)
 
-The _Piriform Recuva_ main user interface lists information about each deleted file, arranged in six columns. Each column is described as follows:
+La interfaz de usuario Piriform Recuva enumera información sobre cada archivo eliminado, organizado en seis columnas. Cada columna se describe de la siguiente manera:
 
-**Filename** This displays the name and file extension of the deleted file. Click the _Filename_ title to arrange the deleted files in alphabetical order.
+**Nombre de archivo:** Muestra el nombre y la extensión de archivo del archivo eliminado. Haga clic en el título _Nombre de archivo para organizar los archivos eliminados en orden alfabético._
 
-**Path:** This displays where the deleted file was found. Given that the _In the Recycle Bin_ option was enabled in this example, the file path is _C:RECYCLER_ for all the deleted files. Click the _Path_ title to view all the files listed under a particular directory or file path.
+**Ruta:** Esto muestra dónde se encontró el archivo eliminado. Dado que la opción _En la Papelera de reciclaje se habilitó en este ejemplo, la ruta del archivo es C: RECYCLER para todos los archivos eliminados. Haga clic en el título _Ruta_ para ver todos los archivos enumerados en un directorio o ruta de archivo en particular.
 
-**Last modified:** This displays the last time the file was modified before it was deleted, and can be useful in helping to identify the file you would like to recover. Click _Last modified_ to list the deleted files according to the oldest or most recent.
+**Última modificación:** Muestra la última vez que se realizó el archivo modificado antes de su eliminación, y puede ser útil para ayudar a identificar el archivo que desea recuperar. Haga clic en _Última modificación_ para mostrar los archivos eliminados según el formato más antiguo o más reciente.
 
-**Size:** This displays the size of the file. Click _Size_ to list the deleted files beginning with the largest or smallest deleted file.
+**Tamaño:** Esto muestra el tamaño del archivo. Haga clic en Tamaño para mostrar los archivos eliminados comenzando con el archivo eliminado más grande o más pequeño.
 
-**Status:** This displays the extent to which the file is recoverable, and corresponds to the file status icons discussed below. Click _Status_ to sort the deleted files into the three basic categories, and list them from _Excellent_ to _Unrecoverable_.
+**Estado:** Esto muestra hasta qué punto es recuperable el archivo, y corresponde a los iconos de estado del archivo que se describen a continuación. Haga clic enEstado para ordenar los archivos eliminados en las tres categorías básicas y enumerarlos de Excelente aIncumplible.
 
-**Comment:** This displays why a given file may or may not be recoverable, and the extent to which a deleted file has been overwritten in the Windows Master File Table. Click _Comment_ to view the extent to which a file or group of files have been overwritten.
+**Comentario:** Esto muestra por qué un archivo dado puede o no ser recuperable, y el grado en que se sobrescribió un archivo eliminado en la Tabla principal de archivos de Windows. Haga clic en _Comentario_ para ver en qué medida se sobrescribió un archivo o grupo de archivos.
 
-Each file is associated with a coloured status icon which indicates the extent to which each file can be successfully recovered:
+Cada archivo está asociado a un icono de estado de color que indica el grado en que cada archivo puede recuperarse con éxito:
 
-The following list describes each status icon:
+La siguiente lista describe cada icono de estado:
 
-- Green: The chances for a full recovery are excellent.  
-- Orange: The chances for recovery are acceptable.  
-- Red: The chances for recovery are unlikely.
+- Verde: las posibilidades de una recuperación completa son excelentes. 
+- Naranja: las posibilidades de recuperación son aceptables. 
+- Rojo: las posibilidades de recuperación son poco probables.*
 
-### 3.2 How to Perform a Scan without Using the Recuva Wizard
+### 3.2 Cómo realizar un escaneo sin utilizar el Asistente de Recuva
 
-To access the Recuva main user interface directly, (that is, not use the _Recuva Wizard_), perform the following steps:
+Para acceder directamente a la interfaz de usuario principal de Recuva, (es decir, no usar el _Recuva Wizard_), realice los siguientes pasos:
 
-**Step 1.** Click the Recuva icon or select Start > Programs > Recuva > Recuva.
+**Paso 1. Haga clic en el icono Recuva o seleccione Inicio> Programas> Recuva> Recuva.**_
 
-**Step 2.** Check the _Do not show this Wizard on startup_ option, then click "Cancel" to activate the following screen:
+****Paso 2.** Compruebe la opción No mostrar este asistente al inicio , luego haga clic en "Cancelar" para activar la siguiente pantalla: 
 ![image](tool_recuva7.png)
 
-The _Piriform Recuva_ main user interface is divided into the results pane on the left and the _Preview_, _Info_ and _Header_ tabs in which to sort and view information about a specific deleted file. It lets you set certain scan options, similar to those in the _Recuva Wizard_.
+La interfaz de usuario principal de Piriform Recuva está dividida en el panel de resultados a la izquierda y el Obtenga una vista previa de las pestañas, Información y Encabezado para ordenar y ver información sobre un archivo eliminado específico. Le permite establecer ciertas opciones de escaneo, similares a las del Asistente de Recuva.
 
-**Step 3.** Click to activate the drop-down list and select the drive to be scanned; the _Local Disk (C:)_ is the default and used in this example as follows:
-![image](tool_recuva8.png)
+**Paso 3.** Haga clic para activar la lista desplegable y seleccione el disco a escanear; el _Disco local (C:)_ es el predeterminado y se usa en este ejemplo de la siguiente manera: 
+![image](tool_recuva8.png) 
 
-The _Filename_ or _path_ drop-down list lets you specify the kind of file you are looking for, and loosely corresponds to the _Recuva Wizard File type_ screen.
-![image](tool_recuva9.png)
+El _Nombre de archivo o _ruta lista desplegable que le permite especificar el tipo de archivo que está buscando, y se corresponde libremente con la pantalla _Recuva Wizard File type_. 
+![image](tool_recuva9.png) 
 
-The _Filename_ or _path_ feature is a combination of a text box and drop-down list. It has two main uses: To let you directly search for a specific file, and/or to sort through a list of deleted files, according to file type.
+La función Nombre de archivo o ruta es una combinación de un cuadro de texto y una lista desplegable. Tiene dos usos principales: permitirle buscar directamente un archivo específico y / o ordenar a través de una lista de archivos eliminados, de acuerdo con el tipo de archivo.
 
-Alternatively, the _Filename_ or _path_ feature can be used to search for files of a specific type, or to sort through a general list of deleted files in the results pane.
+Alternativamente, el _Nombre de archivo_ o _ruta_ se puede utilizar para buscar archivos de un tipo específico, o para ordenar a través de una lista general de archivos eliminados en el panel de resultados.
 
-To begin scanning for a file of which all or part of the name is known, perform the following steps:
+Para comenzar a buscar un archivo del que se conoce todo o parte del nombre, realice los siguientes pasos:
 
-**Step 1.** Type in the name or partial name of a file you would like to recover as follows (in this example, the file _triangle.png_ is being scanned):
+**Paso 1.** Escriba el nombre o el nombre parcial de un archivo que desea recuperar como sigue (en este ejemplo, se está escaneando el archivo _triangle.png_): 
 ![image](tool_recuva10.png)
 
-Tip: **Click X to reset the _File name and path_ (which appear greyed out).
+**Consejo:** Haga clic en X para reiniciar _Nombre de archivo y ruta_ (que aparecen atenuados).
 
+**Paso 2.** Haga clic en? Explorar? para comenzar a buscar sus archivos borrados; poco después, aparecerá una pantalla similar a la siguiente: 
+![image](tool_recuva11.png) 
 
-Step 2.** Click "Scan" to begin scanning for your deleted file(s); shortly thereafter, a screen will appear resembling the following:
-![image](tool_recuva11.png)
+### 3.3 Cómo realizar una exploración profunda usando Recuva
 
-### 3.3 How to Perform a Deep Scan Using Recuva
+El Enable Deep La opción Escanear le permite realizar un escaneo más completo; naturalmente, una exploración profunda lleva más tiempo, según la velocidad de su computadora y la cantidad de archivos que tenga. Esta opción puede resultar útil si su exploración inicial no muestra los archivos que le gustaría recuperar. Aunque un escaneo profundo puede incluso tomar horas dependiendo de la cantidad de datos almacenados en su computadora, puede mejorar sus posibilidades de recuperar los archivos que necesita.
 
-The _Enable Deep Scan_ option lets you conduct a more thorough scan; naturally, a deep scan takes a longer time, depending on your computer speed and the number of files you have. This option might prove useful if your initial scan does not display the files you would have liked to recover. Although a deep scan may even take hours depending on the amount of data stored on your computer, it may improve your chances of recovering the files you require.
+La opción Recuva Deep Scan se puede habilitar al marcar la opción Habilitar exploración profunda en el Asistente de Recuva.
 
-The Recuva _Deep Scan_ option can be enabled either through checking the _Enable Deep Scan_ option in the _Recuva Wizard_.
+**Paso 1.** Hacer clic "Opciones" para activar la pantalla Opciones, luego haga clic en la pestaña _Acciones_ de la siguiente manera: 
+![image](tool_recuva12.png) 
 
-**Step 1.** Click "Options" to activate the _Options_ screen, then click the _Actions_ tab as follows:
-![image](tool_recuva12.png)
+**Paso 2** Compruebe la opción Exploración profunda (aumenta el tiempo de exploración), luego haga clic en "Aceptar".
 
-**Step 2.** Check the _Deep Scan (increases scan time)_ option, then click "OK".
-
-**Step 3.** Click "Scan" to begin scanning for deleted files using the _Deep Scan_ option. As mentioned earlier, a deep scan can potentially take a few hours, depending on the size of your hard disk and computer speed:
+**Paso 3.** ¿Haga clic en Explorar? para comenzar a buscar archivos eliminados usando la opción _Exploración profunda_. Como se mencionó anteriormente, un escaneo profundo puede tomar unas horas, dependiendo del tamaño del disco duro y la velocidad de la computadora: 
 ![image](tool_recuva13.png)
 
-### 3.4 An Introduction to the Options Screen
+### 3.4 Una Introducción a la Pantalla de Opciones
 
-In this section, you will learn how to use the different settings to successfully recover and overwrite your private or sensitive information in the _Options_ screen. To configure these settings, perform the following steps:
+En esta sección, aprenderá a usar las diferentes configuraciones para recuperar y sobrescribir su información confidencial o privada en la pantalla Opciones. Para configurar estos ajustes, realice los siguientes pasos:
 
-**Step 1:** Click "Options" to activate the following screen:
-![image](tool_recuva14.png)
+**Paso 1:** Haga clic en? Opciones? para activar la siguiente pantalla: 
+![image](tool_recuva14.png) 
 
-The _Options_ screen is divided into the _General_, _Actions_ and _About_ tabs.
+La pantalla Opciones se divide en General, Acciones y Acerca de pestañas.
 
-The _General_ tab lets you define a number of important settings, including _Language_ (Recuva supports 37 languages), _View mode_ and disabling or enabling the _Recuva Wizard_.
-![image](tool_recuva15.png)
+La pestaña General le permite definir una cantidad de configuraciones importantes, que incluyen Idioma (Recuva admite 37 idiomas), Modo de visualización y deshabilitar o habilitar el Asistente de Recuva. 
+![image](tool_recuva15.png) 
 
-The View Mode lets you select how you would like to view the deleted files, and can also be enabled whenever you right click a file in the _Piriform Recuva_.
+The View Mode le permite seleccionar cómo le gustaría ver los archivos eliminados, y también se puede habilitar cada vez que haga clic derecho en un archivo en el _Piriform Recuva_.
 
-- **List:** This option lets you view the deleted files in a list  
-- **Tree:** This option lets you view the directory path of deleted files in the form of an expandable tree.  
-- **Thumbnails:** This option lets you view the deleted files as graphics or images where possible.
+**Lista:** Esta opción le permite ver los archivos eliminados en una lista 
+**Árbol:** Esta opción le permite ver la ruta del directorio de los archivos eliminados en forma de un árbol expandible. 
+**Miniaturas:** Esta opción le permite ver los archivos eliminados como gráficos o imágenes siempre que sea posible.
 
-Most importantly perhaps, the _Advanced_ section of the _General_ tab lets you set the number of times your data can be overwritten by random data to protect it from recovery by hostile or malicious parties.
+Lo más importante es quizás, la sección Avanzado de La pestaña General le permite establecer el número de veces que sus datos pueden ser sobrescritos por datos aleatorios para protegerlos de la recuperación por parte de terceros hostiles o malintencionados.
 
-The _Secure overwriting_ drop-down list displays four options for overwriting your private information. Its default mode is _Simple Overwrite (1 pass)_. A pass refers to the number of times your document, file or folder will be overwritten with random data to render it completely unreadable.
+La sobrescritura segura lista desplegable muestra cuatro opciones para sobrescribir su información privada. Su modo predeterminado es Sobrescribir simple (1 pase) . Un pase se refiere a la cantidad de veces que su documento, archivo o carpeta se sobrescribirá con datos aleatorios para volverlo completamente ilegible.
 
-**Step 2: Select** the _DOD 5220.22-M (3 passes)_ option as follows:
+**Paso 2:** Seleccione el _DOD 5220.22_ M (3 pasos) opción de la siguiente manera: 
 ![image](tool_recuva16.png)
 
-A single pass may prove quite effective in overwriting a given document, file or folder; however, there are parties with the resources and skills to recover a relatively light secure overwrite. Three passes is a solid balance between the time required to perform a secure overwrite, and the ability to recover that document, file or folder.
+Una sola pasada puede resultar bastante efectiva para sobrescribir un documento, archivo o carpeta; sin embargo, hay partes con los recursos y las habilidades para recuperar una sobrescritura segura relativamente ligera. Tres pasos es un sólido equilibrio entre el tiempo requerido para realizar una sobrescritura segura y la capacidad de recuperar ese documento, archivo o carpeta.
 
-**Step 3.** Click "OK" to save your _General_ tab configuration options.
+**Paso 3.** 
+Haga clic en "Aceptar" para guardar las opciones de configuración de la pestaña _General_. 
 ![image](tool_recuva17.png)
 
-- **Show files found in hidden system directories:** This option lets you display files in hidden system directories.
+**Mostrar los archivos encontrados en los directorios ocultos del sistema:** Esta opción le permite visualizar archivos en directorios ocultos del sistema.
 
-- **Show zero-byte files:** This option lets you show you files that have little to no content, and which are basically irrecoverable.Show securely deleted files: This option lets you display files that have been securely deleted in the results pane.
+**Mostrar archivos de cero bytes:** Esta opción le permite mostrar archivos que tienen poco o ningún contenido, y que son básicamente irrecuperables. Mostrar archivos borrados de forma segura: esta opción le permite visualizar archivos que se han eliminado de forma segura en el panel de resultados.
 
-**Note:** If you have already used CCleaner or a similar program, it changes the filename to ZZZZZZZ.ZZZ when it securely deletes a file, for security reasons.
+**Nota:** Si ya usó CCleaner o un programa similar, cambia el nombre de archivo a ZZZZZZZ.ZZZ cuando borra de manera segura un archivo, por razones de seguridad.
 
-- **Deep Scan:** This option lets you scan the entire drive for the deleted document or file; if previous scans have proven ineffective in locating your file, the Deep Scan may prove useful. However, it does require more time. Please refer to section 3.3 How to Perform a Deep Scan Using Recuva.
+**Exploración profunda:** Esta opción le permite escanear todo el disco en busca del documento o archivo eliminado; si los escaneos anteriores han demostrado ser ineficaces para localizar su archivo, el escaneo profundo puede resultar útil. Sin embargo, requiere más tiempo. Consulte la sección 3.3 ¿Cómo realizar un escaneo profundo usando Recuva.
 
-- **Scan for non-deleted files (for recovery from damaged or reformatted disks):** This option lets you attempt to recover files from disks that may have sustained physical damage or software-related corruption.
+**Buscar archivos no eliminados (para recuperación de discos dañados o reformateados):** Esta opción le permite intentar recuperar archivos de discos que pueden haber sufrido daños físicos o daños relacionados con el software. 
 
-The _About_ tab displays version information, as well as links to the Piriform web site.
+La pestaña _Acerca de_ muestra información de la versión, así como enlaces al sitio web de Piriform.
 
-Now that you are more confident about performing different scans and familiar with the settings in the _General_ and _Actions_ tabs in the Options screen, you are ready to learn how to actually recover and/or securely overwrite your private or sensitive information.
+Ahora que tiene más confianza en realizar diferentes escaneos y está familiarizado con la configuración en el Las pestañas General y Acciones en la pantalla Opciones, usted está listo para aprender cómo recuperar realmente y / o sobrescribir de forma segura su información privada o confidencial.
 
-### How to Recover and Securely Overwrite Files Using Recuva
+### Cómo recuperar y sobrescribir de manera segura los archivos mediante Recuva
 
-### 4.0 Before You Begin
+### 4.0 Antes de comenzar
 
-In this section, you will learn how to recover a previously deleted file, as well as how to securely overwrite any private or sensitive information.
+En esta sección, aprenderá cómo recuperar un archivo eliminado previamente, y cómo sobrescribir de forma segura cualquier información privada o confidencial.
 
-Recuva lets you create a new folder for storing your recovered files. Although Recuva does let you use existing folders, for reasons of safety and security, we recommend that you copy your recovered files to a removable device like a backup drive or USB memory stick.
+Recuva le permite crear una nueva carpeta para almacenar sus archivos recuperados. Aunque Recuva le permite usar carpetas existentes, por razones de seguridad, le recomendamos que copie los archivos recuperados en un dispositivo extraíble, como una unidad de copia de seguridad o una memoria USB.
 
-**Important:** Although Recuva does an excellent job of securely overwriting information, it may leave a file marker indicating the existence of such a file. To protect your privacy and security, it makes sense to save any important, private or sensitive information to a removable device, and not to the original location or path.
+**Importante:** Aunque Recuva hace un excelente trabajo al sobrescribir información de forma segura, puede dejar un marcador de archivo que indique la existencia de dicho archivo. Para proteger su privacidad y seguridad, tiene sentido guardar cualquier información importante, privada o confidencial en un dispositivo extraíble, y no en la ubicación o ruta original.**
 
-### 4.1 How to Recover a Deleted File
+### 4.1 Cómo recuperar un archivo eliminado
 
-To begin recovering a deleted file, perform the following steps:
+Para comenzar a recuperar un archivo eliminado, realice los siguientes pasos:
 
-**Step 1.** Connect your removable disk or a USB memory stick to your computer.
+**Paso 1. Conecte su disco extraíble o una memoria USB a su computadora.**
 
-**Step 2.** Check the check box next to a file you want to recover to enable the Recover... button or double click that file to both check and highlight that file.
+**Paso 2.** Marque la casilla de verificación junto al archivo que desea recuperar para habilitar el botón Recuperar ... o haga doble clic en ese archivo para verificar y resaltar ese archivo.
 
-**Step 3.** Click "Recover..." to activate the _Browse For Folder_ screen.
+**Paso 3.** Haga clic en? ¿Recuperar? para activar la pantalla Buscar carpeta.
 
-**Step 4.** Select a destination and then click "Make New Folder" to create your recovery folder as shown below.
+**Paso 4.** Seleccione un destino y luego haga clic en? Crear nueva carpeta? para crear su carpeta de recuperación como se muestra a continuación. 
 ![image](tool_recuva18.png)
 
-**Note:** In this example, the folder for storing your recovered documents and files has been given an obvious label. However, keeping your digital privacy and security in mind, we encourage you to be more careful in labelling your own folder.
+**Nota:** En este ejemplo, la carpeta para almacenar sus documentos y archivos recuperados ha sido dada una etiqueta obvia. Sin embargo, teniendo en cuenta su privacidad y seguridad digital, le recomendamos que tenga más cuidado al etiquetar su propia carpeta.
 
-**Step 5.** Click "Yes" to begin the file recovery process; a progress status screen appears as follows:
+**Paso 5.** Haga clic en? Sí? para comenzar el proceso de recuperación de archivos; Aparecerá una pantalla de estado de progreso de la siguiente manera: 
 ![image](tool_recuva19.png)
 
-After the files have been recovered, a confirmation will appear resembling the following screen:
+Una vez recuperados los archivos, aparecerá una confirmación similar a la siguiente pantalla: 
 ![image](tool_recuva20.png)
 
-**Note:** Recuva supports multiple file recovery. Simply check the check boxes of the files you would like to recover and perform steps **3** to **5**.
+Ahora que se siente cómodo recuperando un archivo previamente borrado, está listo para aprender a usar el menú emergente para realizar múltiples recuperaciones de archivos y sobrescribir de manera segura los archivos.
 
-Now that you are comfortable with recovering a previously deleted file, you are ready to learn how to use the pop-up menu to perform multiple file recoveries and secure overwriting of files.
+### 4.2 Cómo usar el menú emergente
 
-### 4.2 How to Use the Pop-up Menu
+Recuva ofrece diferentes opciones para seleccionar los documentos, archivos o carpetas que desea eliminar o sobrescribir de forma segura.
 
-Recuva offers different options for selecting the documents, files or folders you would like to delete or securely overwrite.
+**La comprobación** generalmente se usa para seleccionar rápidamente varios archivos no contiguos o separados para recuperación o sobrescritura segura. 
 
-- **Checking** is generally used to quickly select several non-contiguous or separate files for recovery or secure overwriting.  
-- **Highlighting** is generally used to quickly select contiguous multiple files in a block or group for recovery or secure overwriting.
+**Resaltar** generalmente se utiliza para seleccionar rápidamente múltiples archivos contiguos en un bloque o grupo para recuperación o sobreescritura segura.**
 
-Right click on a deleted file displayed in the Recuva main to activate the following pop-up menu:
+Haga clic derecho en un archivo eliminado que se muestra en Recuva para activar el siguiente Menú emergente: 
 ![image](tool_recuva21.png)
 
-**Recover Highlighted:** This item lets you recover all or any highlighted deleted file(s).
+**Recuperar resaltado:** Este elemento le permite recuperar todos o cualquier archivo borrado resaltado.
 
-**Recover Checked:** This item lets you recover a checked deleted file.
+**Recuperar comprobado:** Este elemento le permite recuperar un archivo borrado verificado.
 
-**Check Highlighted:** This item lets you check a highlighted deleted file.
+**Marcar resaltado:** Este elemento le permite verificar un archivo borrado resaltado
 
-**Uncheck Highlighted:** This item lets you uncheck a highlighted deleted file.
+**Desmarcar resaltado:** Este elemento le permite desmarcar un archivo borrado resaltado.
 
-As you recall, the View Mode can also be set in the _General_ tab in the _Options_ screen. This item lets you select how you would like to view the deleted files.
+Como recordará, el Modo de visualización también se puede configurar en Pestaña General en la pantalla Opciones . Este elemento le permite seleccionar cómo le gustaría ver los archivos eliminados.
 
-- **List:** This option lets you view the deleted files in a list as in Figure 5  
-- **Tree:** This option lets you view the directory path of deleted files in the form of an expandable tree.  
-- **Thumbnails:** This option lets you view the deleted files as graphics or images where possible.
+**Lista:** Esta opción le permite ver los archivos eliminados en una lista como en la Figura 5
 
-**Highlight Folder:** This option lets you select multiple deleted files according to their directory path, and lets you perform the actions listed in the pop-up menu on them.
+**Árbol:** Esta opción le permite ver la ruta del directorio de los archivos eliminados en forma de un árbol expandible. 
 
-**Secure Overwrite Highlighted:** This option lets you securely overwrite a highlighted deleted file.
+**Miniaturas:** Esta opción le permite ver los archivos eliminados como gráficos o imágenes siempre que sea posible.
 
-**Secure Overwrite Checked:** This option lets you securely overwrite a checked deleted file, changing its status icon to red.
+**Carpeta resaltada:** Esta opción le permite seleccionar varios archivos eliminados de acuerdo a su ruta de directorio, y le permite realizar las acciones enumeradas en el menú emergente en ellas.
 
-### 4.3 How to Securely Overwrite a Deleted File
+**Sobrescritura segura resaltada:** Esta opción le permite sobrescribir de forma segura un archivo borrado resaltado.
 
-To securely overwrite a deleted file, perform the following steps:
+**Comprobación de sobrescritura segura:** Esta opción le permite sobrescribir de forma segura un archivo borrado, cambiando su icono de estado a rojo.
 
-**Step 1.** Check the individual file you would like to have securely overwritten, and then right click the check box it to activate the pop-up menu.
+### 4.3 Cómo sobrescribir de manera segura un archivo eliminado Archivo
 
-**Step 2.** Select "Secure Overwrite Checked" to activate the following confirmation dialog box:
-![image](tool_recuva22.png)
+Para sobrescribir de manera segura un archivo eliminado, realice los siguientes pasos:
 
-**Step 3.** Click "Yes" to begin the overwriting process; depending on the size and status of the file as well as the _Secure overwriting_ option you selected in the _General_ tab in the _Options_ screen, this could take some time. After the overwriting process has been completed, a screen resembling the following appears:
+**Paso 1.** 
+Compruebe el archivo individual que desea que se sobrescriba de forma segura, y a continuación, haga clic con el botón derecho en la casilla de verificación para activar el menú emergente.
+
+**Paso 2.** 
+Seleccione? Seguro Sobrescribir comprobado? para activar el siguiente cuadro de diálogo de confirmación: 
+![image](tool_recuva22.png) 
+
+**Paso 3.** 
+Haga clic en? Sí? para comenzar el proceso de sobreescritura; dependiendo del tamaño y el estado del archivo, así como de la opción Sobreescritura segura que seleccionó en la pestaña General en la pantalla _Opciones_ , esto podría Tómate un tiempo. Después de que se haya completado el proceso de sobrescritura, aparecerá una pantalla similar a la siguiente: 
+
 ![image](tool_recuva23.png)
 
-You have successfully completed recovering and securely overwriting files using Recuva previously deleted files.
+Ha finalizado satisfactoriamente la recuperación y la sobrescritura segura de archivos con Recuva archivos eliminados previamente.
 
-### 5 PORTABLE RECUVA
+### 5 RECUVA PORTÁTIL
 
-### 5.1 Differences between the Installed and Portable Versions of Recuva
+### 5.1 Diferencias entre las versiones instaladas y portátiles de Recuva
 
-Given that portable tools are not installed on a local computer, their existence and use may remain undetected. However, keep in mind that your external device or USB memory stick, and portable tools are only as safe as the computer you are using, and may risk being exposed to adware, malware, spyware and viruses.
+Dado que las herramientas portátiles no están instaladas en una computadora local, su existencia y uso pueden permanecer sin detectar . Sin embargo, tenga en cuenta que su dispositivo externo o dispositivo de memoria USB, y las herramientas portátiles son solo tan seguras como la computadora que está utilizando, y puede correr el riesgo de estar expuesto a adware, malware, spyware y virus.
 
-There are no other differences between Portable Recuva and the version designed to be installed.
+Allí no hay otras diferencias entre Portable Recuva y la versión diseñada para ser instalada.
 
-### 5.2 How to Download and Extract Recuva Portable
+### 5.2 Cómo descargar y extraer Recuva Portable
 
-To begin downloading and extracting Recuva Portable, perform the following steps:
+Para comenzar a descargar y extraer Recuva Portable, realice los siguientes pasos:
 
-**Step 1.** Click [http://www.piriform.com/recuva/download/portable](http://www.piriform.com/recuva/download/portable) to be directed to the appropriate download site, and automatically activate the following screen:
+**Paso 1.** Haga clic en [http://www.piriform.com/ recuva / download / portable](http://www.piriform.com/recuva/download/portable) para ser dirigido al sitio de descarga apropiado, y active automáticamente la siguiente pantalla:**
 
-**Step 2.** Click "OK" to save the _rcsetup140.zip_ installation file to your computer; and then navigate to it.
+**Paso 2.** Haga clic en? OK? para guardar el archivo de instalación_rcsetupXXX.zip en su computadora; y luego vaya a él.
 
-**Step 3.** Right click to activate the Windows pop-up menu, and then select the Extract files... item as shown below:
+**Paso 3.** Haga clic con el botón derecho para activar el menú emergente de Windows y luego seleccione el elemento Extraer archivos ... como se muestra a continuación: 
 ![image](tool_recuva24.png)
 
-**Step 4.** Navigate to the removable drive or USB memory stick as shown below, and then click "New Folder" to create a new folder in which to extract the installation file.
+**Paso 4.** Navegue hasta la unidad extraíble o la memoria USB como se muestra a continuación, y luego haga clic en? Nueva carpeta? para crear una nueva carpeta en la que extraer el archivo de instalación. 
 ![image](tool_recuva25.png)
 
-**Step 5.** Enter a name for the new folder in the document tree as shown below:
-![image](tool_recuva26.png)
+**Paso 5.** Introduzca un nombre para la nueva carpeta en el documento árbol como se muestra a continuación: 
+![image](tool_recuva26.png)**
 
-Alternatively, you may type in a folder name in the accompanying drop-down list: 
+Alternativamente, puede escribir un nombre de carpeta en la lista desplegable adjunta: 
 ![image](tool_recuva27.png)
 
-**Note:** Although for the purposes of this example, the new folder is entitled Recuva Portable, users may choose different name.
+**Nota:** Aunque a los fines de este ejemplo, la nueva carpeta se titula Recuva Portable, los usuarios pueden elegir un nombre diferente.**
 
-**Step 6.** Click "OK" to begin extracting its contents to newly created folder.
+**Paso 6.** Haga clic en "Aceptar" para comenzar a extraer su contenido a la carpeta recién creada.
 
-**Step 7.** Navigate to your destination external drive or USB memory stick, as shown below, then open it to confirm that the Portable Recuva program was successfully extracted.
+**Paso 7.** Navegue hasta su unidad externa de destino o memoria USB, como se muestra a continuación, luego ábralo para confirmar que el Portable El programa Recuva se extrajo con éxito. 
 ![image](tool_recuva28.png)
 
-**Step 8.** Double click _Recuva.exe_ to activate the Portable Recuva wizard.
+**Paso 8.** Haga doble clic en _Recuva.exe_ para activar el Recuva portátil asistente.
 
-Please refer to the rest of the Recuva tool guide above to begin configuring and using it.
+Consulte el resto de la guía de la herramienta Recuva anterior para comenzar a configurarlo y usarlo.
+
