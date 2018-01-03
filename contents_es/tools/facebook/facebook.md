@@ -2,154 +2,156 @@
 [Difficulty]: # (Principiante)
 [Order]: # (0)
 
-# HOW TO CHANGE YOUR FACEBOOK PRIVACY SETTINGS
+# CÓMO CAMBIAR LA CONFIGURACIÓN DE PRIVACIDAD DE FACEBOOK
 
-## How to change your Facebook privacy settings
+## Cómo cambiar la configuración de privacidad de Facebook
 
-**Lesson to read: [Social Media](umbrella://lesson/social-media)**  
-**Level:** Beginner  
-**Time required:** 10 minutes
+**Lección para leer: [Redes sociales](umbrella://lesson/social-media)**
+**Nivel:** Principiante
+**Tiempo requerido:** 10 minutos
 
-### How to Protect Your Privacy from Facebook's Graph Search
+### Cómo proteger su privacidad de la búsqueda de gráficos de Facebook
 
-Facebook now has a feature-Graph Search-that has been the subject of many privacy concerns. Graph Search allows users to make structured searches to filter through friends, friends of friends, and strangers. This feature relies on your profile information being made widely or publicly available, yet there are some Likes, photos, or other pieces of information that you might not want out there.
+Facebook ahora tiene una función-Búsqueda de gráficos-que ha sido la tema de muchas preocupaciones de privacidad. La búsqueda de gráficos permite a los usuarios realizar búsquedas estructuradas para filtrar a través de amigos, amigos de amigos y desconocidos. Esta función depende de que la información de tu perfil se publique ampliamente o esté disponible públicamente, aunque hay algunos "Me gusta", fotos u otros datos que no te interesan.
 
-Since Facebook removed the ability to remove yourself from search results altogether, the Electronic Frontier Foundation put together a quick how-to guide to help you take control over what is featured on your Facebook profile and on Graph Search results - we have outlined it below. (Facebook also has a new [video](https://www.youtube.com/watch?v=bSji6Y66aKo) explaining how to control what shows up in Graph Search.)
+Ya que Facebook eliminó la posibilidad de retirarte de los resultados de búsqueda , la Electronic Frontier Foundation elaboró ​​una guía práctica rápida para ayudarlo a tomar el control de lo que aparece en su perfil de Facebook y en los resultados de la búsqueda de gráficos, que hemos resumido a continuación. (Facebook también tiene un nuevo [video](https://www.youtube.com/watch?v=bSji6Y66aKo) explicando cómo controlar lo que aparece en Graph Search.)
 
-### What's public on my profile?
+### Lo que es público en mi perfil ?
 
-Click on the lock in the top menu bar, and under "Who can see my stuff?" click "View As." This will take you to the public view of your profile. Here you can see exactly what information, photos, and posts are available to the public. If there's anything you don't want the whole Facebook universe to be able to see, you can change individual settings to hide particular items.
-![image](tool_facebook1.png)
+Haga clic en el candado de la barra de menú superior, y debajo de "¿Quién puede ver mis cosas? ", haga clic en "Ver como. " Esto lo llevará a la vista pública de su perfil. Aquí puede ver exactamente qué información, fotos y publicaciones están disponibles para el público. Si hay algo que no desea que todo el universo de Facebook pueda ver, puede cambiar las configuraciones individuales para ocultar elementos particulares.
+![Image](tool_facebook1.png)
 
-### How do I hide my general information?
+### ¿Cómo me escondo? ¿Mi información general?
 
-Go to your profile page and click "Update Info." You can control who is able to see what personal information you've listed-and if they're able to see it, they're able to search it.
+Vaya a su página de perfil y haga clic en "Actualizar información." Puede controlar quién puede ver qué información personal ha enumerado, y si pueden verla, están capaz de buscarlo.
 ![image](tool_facebook2.png)
 
-### Who can see my posts, both past and future?
+### ¿Quién puede ver mis publicaciones, pasadas y futuras?
 
-You can access your [privacy settings](https://www.facebook.com/settings?tab=privacy) by clicking on the lock in the top menu bar, then clicking "See More Settings." From here, you can choose your audience for future posts (including photos), and you can also limit who has access to previous posts that were more widely accessible.
+Puedes acceder a tu [configuración de privacidad](https://www.facebook.com/settings?tab=privacy) haciendo clic en el candado en la barra de menú superior, luego haga clic en "Ver más configuraciones. " Desde aquí, puede elegir su público para futuras publicaciones (incluidas fotos), y también puede limitar quién tiene acceso a publicaciones anteriores que fueron más ampliamente accesibles.
 ![image](tool_facebook3.png)
 
-### How do I hide my photo albums?
+### ¿Cómo oculto mis álbumes de fotos?
 
-Go to your profile page and click on "Photos," then "Albums." You can configure who has access to each album.
+Vaya a su página de perfil y haga clic en "Fotos", luego "Álbumes". Puede configurar quién tiene acceso a eac h album.
 ![image](tool_facebook4.png)
 
-Note that tagging others in a photo by default gives their friends the ability to see that photo. Also note that removing a photo from your Timeline does not remove it from being searched, especially if it is someone else's photo.
+Tenga en cuenta que etiquetar a otros en una foto de manera predeterminada les da a sus amigos la posibilidad de ver esa foto. También tenga en cuenta que eliminar una foto de su línea de tiempo no elimina su búsqueda, especialmente si se trata de la fotografía de otra persona.
 
-In order to make sure that photo is not searchable, you must detag yourself or report the photo. Facebook has another [great video](https://www.youtube.com/watch?v=CaJYQXiu3PY) about how to do just this.
+Para asegurarse de que no se pueda buscar en la foto, debe separarse o informar la foto. Facebook tiene otro [gran video](https://www.youtube.com/watch?v=CaJYQXiu3PY) acerca de cómo hacer esto.
 
-To detag yourself, click on a photo, and on the bottom of the picture click on "Options." Next, click "Report/Remove Tag." This gives you the option to remove your tag, as well as to notify the poster that you'd like the photo to be taken down.
+Para disgregarse, haga clic en una foto y en la parte inferior de la imagen haga clic en "Opciones." A continuación, haga clic en "Informar/Eliminar etiqueta. " Esto le da la opción de eliminar su etiqueta, así como también notificar al póster que desea que se elimine la foto.
 ![image](tool_facebook6.png)![image](tool_facebook5.png)
 
-### How do I hide my "Likes"?
+### ¿Cómo oculto mis "Me gusta "?
 
-Go to your profile page and click on "Likes." Click "Edit" on the top right. From there, you can edit who can see your liked pages in each individual category.
-![image](tool_facebook7.png)
+Voy a su página de perfil y hago clic en "Me gusta." Haga clic "Editar" en la parte superior derecha. Desde allí, puede editar quién puede ver sus páginas favoritas en cada categoría individual.
+![Image](tool_facebook7.png)
 
-### Do I actually "Like" these things?
+### ¿De verdad "Me gusta " estas cosas?
 
-While you are configuring your "Likes," we encourage you to take a moment to reassess the pages you have listed. A few years later, you may not like "Free Booze Fridays" anymore. Unliking is as simple as going to a particular page, hovering your mouse over "Liked," and clicking "Unlike."
-![image](tool_facebook8.png)
+While está configurando sus "Me gusta", le recomendamos que se tome un momento para volver a evaluar las páginas que ha enumerado. Unos años más tarde, puede que ya no te gusten "Free Booze Friday ". No simpatizar es tan simple como ir a una página en particular, colocando el mouse sobre "Me gustó " y haciendo clic en "A diferencia
 
-### How do I hide my friends and relationships?
 
-Besides locking down your own personal information, it turns out that your friends and relationships can appear in searches associated with you. Because [they have no control](https://www.eff.org/deeplinks/2013/01/facebook-graph-search-privacy-control-you-still-dont-have) over how they appear in such searches, we strongly encourage you to do the altruistic thing and lock down your friendship settings. Here's how to set your privacy settings to keep your friendships and relationships-and therefore related search results-limited in visibility to only whom you want.
+![Image](tool_facebook8.png)
 
-First, go to your profile and click on "Friends." On the top right of the page, click on the "Edit" button. This allows you to select who can see your friend list.
-![image](tool_facebook9.png)
+### ¿Cómo hago? ¿esconder a mis amigos y relaciones?
 
-Next, you should adjust the settings of your relationships and family associations. Go to your profile and click "Update Info," then scroll down to "Family" on the bottom left. When you click "Edit," you can choose the specific privacy settings for each relationship.
-![image](tool_facebook10.png)
+Además de bloquear tu propia información personal, tus amigos y tus relaciones pueden aparecer en búsquedas asociadas contigo. Porque [no tienen control](https://www.eff.org/deeplinks/2013/01/facebook-graph-search-privacy-control-you-still-dont-have) sobre cómo aparecen en dichas búsquedas, lo alentamos encarecidamente a que haga lo altruista y bloquee la configuración de su amistad. A continuación, le mostramos cómo establecer su configuración de privacidad para mantener sus amistades y relaciones, y por lo tanto los resultados de búsqueda relacionados, con visibilidad limitada solo para quien desee.
 
-### Keep it up!
+Primero, acceda a su perfil y haga clic en "Amigos". Arriba derecha de la página, haga clic en el botón "Editar". Esto le permite seleccionar quién puede ver su lista de amigos.
+![Image](tool_facebook9.png)
 
-The most important think you can do is to check your privacy settings often-especially after new features are released. Facebook has done a better job of making new privacy settings more accessible while also notifying users of any changes. Their explanations, however, can lose sight of bigger picture concerns.
+Siguiente, debe ajustar la configuración de sus relaciones y asociaciones familiares. Vaya a su perfil y haga clic en "Actualizar información", y desplácese hacia abajo a "Familia" en la parte inferior izquierda. Cuando haces clic en "Editar", puedes elegir la configuración de privacidad específica para cada relación.
+![Image](tool_facebook10.png)
 
-# HOW TO HOW TO OPT-OUT OF FACEBOOK'S DATA BROKER RELATIONSHIPS
+### ¡Continúa!
 
-## How to opt-out of Facebook's data broker relationships
+Lo más importante te parece puede hacer es verificar su configuración de privacidad a menudo, especialmente después de que se lanzan nuevas características. Facebook ha hecho un mejor trabajo al hacer que las nuevas configuraciones de privacidad sean más accesibles y al mismo tiempo notificar a los usuarios sobre cualquier cambio. Sus explicaciones, sin embargo, pueden perder de vista las preocupaciones de una imagen más grande.
 
-**Lesson to read: [Social Media](umbrella://lesson/social-media)**  
-**Other reading:** [https://www.eff.org/deeplinks/2012/04/4-simple-changes-protect-your-privacy-online](https://www.eff.org/deeplinks/2012/04/4-simple-changes-protect-your-privacy-online)  
-**Level:** Beginner  
-**Time required:** 30 minutes
+# CÓMO DESACOPLAR LAS RELACIONES DE BROKER DE DATOS DE FACEBOOK
 
-Facebook is teaming up with four of the world's largest corporate data brokers to "enhance" the ad experience for users. Datalogix, Epsilon, Acxiom, and BlueKai obtain information gathered about users through online means (such as through cookies when users surf the web) as well as through offline means (such as through loyalty cards at supermarkets and product warranty cards).  Facebook will use this information to tailor its ads. The Electronic Frontier Foundation describes what this means and how you can avoid it.
+## Cómo inhabilitar las relaciones con los intermediarios de datos de Facebook
 
-In practical terms, this means that limiting how much information you put on Facebook is not enough to limit how ads are targeted to you on Facebook. Your interests, age, shopping history (including offline), web browsing, location, and much more could be stored by these data brokers and utilized to market to you - even if you've been careful not to share this type of information with Facebook.
+**Lección para leer: [Redes sociales](umbrella://lesson/social-media)**
+**Otra lectura:** [https://www.eff.org/deeplinks/2012/04/4 -simple-changes-protect-your-privacy-online](https://www.eff.org/deeplinks/2012/04/4-simple-changes-protect-your-privacy-online)
+**Nivel:** Principiante
+**Tiempo requerido:** 30 minutos
 
-So, what can users do? If you're concerned about this practice, you can opt out of the targeted advertisements by individually visiting each of the data broker partners currently working with Facebook. We've got directions below for opting out of each site.
+Facebook se está asociando con cuatro de los intermediarios de datos corporativos más grandes del mundo para "mejorar" la experiencia publicitaria de los usuarios. Datalogix, Epsilon, Acxiom y BlueKai obtienen información recopilada sobre los usuarios a través de medios en línea (como cookies cuando los usuarios navegan en la web) y también a través de medios fuera de línea (como tarjetas de fidelidad en supermercados y tarjetas de garantía de productos). Facebook usará esta información para adaptar sus anuncios. Electronic Frontier Foundation describe lo que esto significa y cómo puede evitarlo.
 
-We also have two general tips:
+En términos prácticos, esto significa que limitar la cantidad de información que coloca en Facebook no es suficiente para limitar la orientación de los anuncios en Facebook. Sus intereses, edad, historial de compras (incluso fuera de línea), navegación web, ubicación y mucho más podrían ser almacenados por estos intermediarios de datos y utilizados para comercializar para usted, incluso si ha tenido cuidado de no compartir este tipo de información con Facebook. .
 
-**1.  Install an add-on to protect your privacy online.** Facebook is using "blind cookie-matching" to match up users of online marketer BlueKai with specific Facebook accounts. Blocking trackers is a good general practice for stopping this type of tracking. We recommend you use a tool such as [Ghostery](http://www.ghostery.com/) (now available on Firefox, Safari, Chrome, Opera and Internet Explorer).
+Entonces, ¿qué pueden hacer los usuarios? Si le preocupa esta práctica, puede optar por excluirse de los anuncios dirigidos al visitar individualmente cada uno de los socios de los intermediarios de datos que actualmente trabajan con Facebook. A continuación, incluimos instrucciones para inhabilitar cada sitio.
 
-**2. Avoid giving your phone number and email address to companies when possible.** Facebook and these companies are primarily using hashed email addresses to match users between databases, though they may also use hashed phone numbers. If you're filling out a survey or signing up to receive email updates from a website, consider creating and using a different email address than the one you associate with your Facebook account. Similarly, consider setting up an alternate phone number you can give to companies apart from the phone number you connect with your social media accounts.
+También tenemos dos sugerencias generales:
 
-### Opt Out Instructions:
+**1. Instale un complemento para proteger su privacidad en línea.** Facebook está usando "compatibilidad de cookies a ciegas " para hacer coincidir a los usuarios del vendedor en línea BlueKai con cuentas específicas de Facebook. El bloqueo de rastreadores es una buena práctica general para detener este tipo de rastreo. Le recomendamos que utilice una herramienta como [Ghostery](http://www.ghostery.com/) (ahora disponible en Firefox, Safari, Chrome, Opera e Internet Explorer).
 
-Note that in general, opting out of data brokers will not necessarily result in your data being removed from their lists. Instead, these companies will generally 'suppress' your information from certain uses -- including, hopefully, in the batches of data sent to Facebook. The process below takes a bit of effort, but you really do need to opt out of all four data brokers separately to get out of this program.
+**2. Evite dar su número de teléfono y dirección de correo electrónico a las empresas cuando sea posible.** Facebook y estas empresas utilizan principalmente direcciones de correo electrónico hash para hacer coincidir los usuarios entre bases de datos, aunque también pueden usar números de teléfono hash. Si va a completar una encuesta o registrarse para recibir actualizaciones por correo electrónico de un sitio web, considere la posibilidad de crear y utilizar una dirección de correo electrónico diferente de la que asocia con su cuenta de Facebook. Del mismo modo, considere configurar un número de teléfono alternativo que pueda proporcionar a las empresas además del número de teléfono que conecta con sus cuentas de redes sociales.
+
+### Instrucciones de exclusión:
+
+Tenga en cuenta que, en general, se excluyen los datos los corredores no necesariamente harán que sus datos sean eliminados de sus listas. En cambio, estas compañías generalmente "suprimen" su información de ciertos usos, incluso, con suerte, en los lotes de datos enviados a Facebook. El proceso siguiente requiere un poco de esfuerzo, pero realmente necesita optar por no participar de los cuatro intermediarios de datos por separado para salir de este programa.
 
 **Acxiom**
 
-1. To get started, visit Acxiom's [Opt Out Form](https://isapps.acxiom.com/optout/optout.aspx). Then scroll down until you see your "opt-out choices." Here there will be a list of the types of media you would like to opt out of (mail, telemarketing, email, and online advertising).  You can check all four, though note that their online advertising opt-out is cookie-based, meaning it will disappear every time you clear your cookies. 
+1. Para comenzar, visite el [Formulario de exclusión] de Acxiom (https://isapps.acxiom.com/optout/optout.aspx). Luego desplácese hacia abajo hasta que vea sus "opciones de exclusión voluntaria ". Aquí encontrará una lista de los tipos de medios de comunicación a los que le gustaría optar (correo, telemarketing, correo electrónico y publicidad en línea). Puede verificar los cuatro, aunque tenga en cuenta que su opción de exclusión de publicidad en línea está basada en cookies, lo que significa que desaparecerá cada vez que borre sus cookies.
 ![image](tool_facebook11.png)
 
-2. Certify that you are just a single person.
-![image](tool_facebook12.png)
+2. Certifique que es solo una persona.
+![Image](tool_facebook12.png)
 
-3. Fill out the form with your personal information. In order to be sure that Acxiom doesn't target advertisements at you through Facebook, you'll want to provide Acxiom with the phone number and email address associated with your Facebook profile. Use the green + signs on the form to add information.
-![image](tool_facebook13.png)
+3. Complete el formulario con su información personal. Para asegurarse de que Acxiom no apunte anuncios a usted a través de Facebook, deberá proporcionar a Acxiom el número de teléfono y la dirección de correo electrónico asociados con su perfil de Facebook. Use los signos verdes + en el formulario para agregar información.
+![Image](tool_facebook13.png)
 
-4. Click submit. After you hit submit (and get through a CAPTCHA), you'll be offered a chance to install Acxiom's opt out cookie. You can choose to do this or not, but remember that this is not a persistent method of protecting your privacy: the opt out cookie will disappear as soon as you clear your cookies. See instructions below for opting out of BlueKai for advice on dealing with web tracking.
-![image](tool_facebook14.png)
+4. Haga clic en enviar. Después de presionar Enviar (y obtener un CAPTCHA), se le ofrecerá la oportunidad de instalar la cookie de exclusión voluntaria de Acxiom. Puede elegir hacer esto o no, pero recuerde que este no es un método persistente para proteger su privacidad: la cookie de exclusión desaparecerá tan pronto como borre sus cookies. Consulte las instrucciones a continuación para rechazar BlueKai en busca de asesoramiento sobre el seguimiento web.
+![Image](tool_facebook14.png)
 
-5.  You will then receive an email with a link in it from Acxiom. You can click on this link or else copy and paste it into a new browser window. Visiting this page will take you to another CAPTCHA. Fill this out.
+5. A continuación, recibirá un correo electrónico con un enlace de Acxiom. Puede hacer clic en este enlace o bien copiarlo y pegarlo en una nueva ventana del navegador. Visitar esta página lo llevará a otro CAPTCHA. Complete esto.
 
-Congratulations - you've opted out of Acxiom!
+Felicidades: ¡ha optado por salir de Acxiom!
 
 **Datalogix**
 
-1. To opt out of this program, visit the Datalogix.com [privacy page](https://www.datalogix.com/privacy/). Scroll down to the word "Choice" and the last sentence in the first paragraph says:
+1. Para optar por no participar en este programa, visite la página de privacidad [Datalogix.com](https://www.datalogix.com/privacy/). Desplácese hasta la palabra "Elección " y la última oración del primer párrafo dice:
 
-_"If you wish to opt out of all Datalogix-enabled advertising across channels including direct mail, online, mobile and analytic products, click here."_
+_ "Si desea inhabilitar toda la publicidad compatible con Datalogix en todos los canales, incluidos el correo directo, en línea, móvil y productos analíticos , haz clic aquí. "_
 
-2. Click there and a form will pop up that asks for your name, address, and email address. Fill this out and click submit.
-![image](tool_facebook15.png)
+2. Haga clic allí y aparecerá un formulario que le pedirá su nombre, dirección y dirección de correo electrónico. Complete esto y haga clic en enviar.
+![Image](tool_facebook15.png)
 
-Datalogix promises that the opt-out will take effect within 30 days. Once you've been opted out, Datalogix will no longer include your information in the hashed data they provide to Facebook. 
+Datalogix promete que la exclusión tendrá efecto dentro de los 30 días. Una vez que haya sido excluido, Datalogix ya no incluirá su información en los datos hash que proporcionan a Facebook.
 
 **Epsilon**
 
-As Epsilon explains on their [Consumer Preference Center](www.epsilon.com/consumer-preference-center) page, there are several ways to opt out of the Epsilon marketing database: 
+Como explica Epsilon en su página [Consumer Preference Center](www.epsilon.com/consumer-preference-center), hay varias formas de optar por no participar en la base de datos de marketing de Epsilon:
 
-**EMAIL:** Email [optout@epsilon.com](mailto:optout@epsilon.com) and include the following information:  
-- full name (including middle initial)  
-- current address  
-- previous address if you have been at your current address fewer than six months
+**CORREO ELECTRÓNICO: ** Envíe un correo electrónico [optout@epsilon.com](mailto: optout@epsilon.com) e incluya la siguiente información:
+- nombre completo (incluida la inicial del segundo nombre)
+- dirección actual
+- dirección anterior si ha estado en su dirección actual menos de seis meses
 
-**PHONE:** Phone 1.888.780.3869 and leave the above information.
+**TELÉFONO:** Teléfono 1.888.780.3869 y deje la información anterior.
 
-**MAIL:** Mail the above information to the below addresses:  
-**U.S. Consumers:** Epsilon  
-?P.O. Box 1478  
-?Broomfield, CO 80036  
-**Canadian Consumers:** Epsilon?  
-41 Metropolitan Rd.?  
-Toronto, Ontario  
-?M1R 2T5
+**CORREO: ** Envíe la información anterior a las siguientes direcciones:
+**US Consumidores: ** Epsilon
+? P.O. Cuadro 1478
+? Broomfield, CO 80036
+**Consumidores canadienses:** Epsilon?
+41 Metropolitan Rd.?
+Toronto, Ontario
+? M1R 2T5
 
-We note that not all of these methods require you to provide an email address.  Epsilon may have methods to match your name with your email, but you can also provide your email address to be sure.
+Notamos que no todos estos métodos requieren que proporcione una dirección de correo electrónico. Epsilon puede tener métodos para hacer coincidir su nombre con su correo electrónico, pero también puede proporcionar su dirección de correo electrónico para estar seguro.
 
-Note that opting out doesn't actually remove the data from Epsilon's database but rather just marks it as "suppressed" to they will stop sharing it for marketing purposes. This means that if the information is ever re-submitted, you won't be added back to the list.
+Tenga en cuenta que la exclusión no elimina los datos de la base de datos de Epsilon, sino que simplemente los marca como "suprimidos". "para que dejen de compartirlo con fines de marketing. Esto significa que si la información alguna vez se vuelve a enviar, no se volverá a agregar a la lista.
 
 **BlueKai**
 
-Unlike the other data brokers Facebook is working with on this new project, BlueKai does not directly collect data from your offline activities. Instead, they use tracking cookies that collect data about your online browsing habits and then use that information to infer what types of products you might like to buy.
+A diferencia de los otros intermediarios de datos con los que Facebook está trabajando en este nuevo proyecto, BlueKai no recopila directamente los datos de sus actividades fuera de línea. En su lugar, usan cookies de seguimiento que recopilan datos sobre sus hábitos de navegación en línea y luego usan esa información para inferir qué tipos de productos le gustaría comprar.
 
-**The best way to opt out of this is to use a browser add-on to block third-party tracking.**  
-Rather than try to block only BlueKai, we recommend you block all third-party trackers. You can use a tool such as [Ghostery](http://www.ghostery.com/) (now available on Firefox, Safari, Chrome, Opera and Internet Explorer) as noted earlier.
+**La mejor manera de optar por no participar es usar un navegador add-on para bloquear el seguimiento de terceros.**
+En lugar de intentar bloquear solo BlueKai, recomendamos que bloquees todos los rastreadores de terceros. Puede usar una herramienta como [Ghostery](http://www.ghostery.com/) (ahora disponible en Firefox, Safari, Chrome, Opera e Internet Explorer) como se indicó anteriormente.
 
-**CONGRATULATIONS** -- you've managed to get out of Facebook's new data broker-driven targeted marketing, and helped protect yourself from several important data brokers.
+**FELICITACIONES** - Logró salir del nuevo marketing dirigido por intermediarios de datos de Facebook y ayudó a protegerse de varios corredores de datos importantes.

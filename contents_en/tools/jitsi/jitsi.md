@@ -108,7 +108,7 @@ Facebook has two settings that you may need to change before Jitsi can connect t
 
 - **Facebook Username**
 
-Facebook requires a username for Jitsi to connect to Facebook chat. Many Facebook users already have a username. To check your username, log in to your Facebook account: your username is what appear in the location bar of your browser after _https://www.facebook.com/_ when you view your Timeline or Page. Your username is also in your Facebook email address for your personal account (ex: username@facebook.com). You can see or change the username or get one by going to your _Account Settings > General_ section or by visiting [https://www.facebook.com/username](https://www.facebook.com/username). To set username Facebook may ask you for your account verification which may require sending SMS to a mobile phone number which you will need to provide to Facebook in the process of verification.
+Facebook requires a username for Jitsi to connect to Facebook chat. Many Facebook users already have a username. To check your username, log in to your Facebook account: your username is what appear in the location bar of your browser after _https://www.facebook.com/_ when you view your Timeline or Page. Your username is also in your Facebook email address for your personal account (ex: username@facebook.com). You can see or change the username or get one by going to your _Account Settings > General_ section or by visiting [https://www.facebook.com/username](https://www.facebook.com/username). To set username Facebook may ask you for your account verification which may require sending SMS to a mobile phone number which you will need to provide to Facebook in the **Note** that that turning Facebook's "application platform" opens up much of your Facebook data to third-party application developersprocess of verification.
 
 - **App Settings**
 
@@ -131,8 +131,7 @@ It is important element of security to know how to change the password for each 
 
 **Step 2.** Click on **_Edit_** button on the bottom to activate a new window.
 
-**Step 3.** Click on **_Change account password_
- to activate _Change account password_ window.
+**Step 3.** Click on **_Change account password_** to activate _Change account password_ window.
 
 
 Step 4.** Enter new password and Re-enter password and click on **_OK_** button to close this window.
@@ -173,7 +172,7 @@ Your changes will take effect after you restart Jitsi.
 - Mac OS X: from your home folder _~/Library/Application Support/Jitsi/history_ver1.0_  
 - Linux: from your home folder _~/.jitsi/history_ver1.0_
 
-See the [Secure Deleting lesson](umbrealla://lesson/safely-deleting) for more on how to dispose of information securely.
+See the [Secure Deleting lesson](umbrella://lesson/safely-deleting) for more on how to dispose of information securely.
 
 ### 2.4.2 Require private messaging when text chatting
 
@@ -188,12 +187,11 @@ It is best not to let Jitsi remember passwords to your accounts. If you decide o
 
 **Step 2.** In the new window, type in your password. For more on creating a strong password, see the **[Password lesson](umbrella://lesson/passwords)**.
 
-**Step 3. Click _OK_** to confirm the password and activate a new window which should say **_Master Password successfully set up_**. Click "**OK
-" to close it and come back to the _Options_ window which should resemble below:
+**Step 3. Click _OK_** to confirm the password and activate a new window which should say **_Master Password successfully set up_**. Click "**OK**" to close it and come back to the _Options_ window which should resemble below:
 ![image](tool_jitsi12.png)
 
 
-Note:** The **_Change Master Password_** button lets you change the master password and the **_Saved Passwords..._** button lets you access the list of passwords remembered by Jitsi and remove them if need be.
+**Note:** The **_Change Master Password_** button lets you change the master password and the **_Saved Passwords..._** button lets you access the list of passwords remembered by Jitsi and remove them if need be.
 
 ### Jitsi - Add contacts and communicate text & voice
 
@@ -208,7 +206,7 @@ After adding at least one account to Jitsi and logging in, you are ready to add 
 
 **Step 2.** Select which of your accounts you would like to add this contact to (for example _terance.the.tester@jit.si_).
 
-**Optional:** You may also add the contact to a group among your other contacts. However, first you must create the group. You can do this by selecting **_File > Create group...**_ from the menu).
+**Optional:** You may also add the contact to a group among your other contacts. However, first you must create the group. You can do this by selecting **_File > Create group..._** from the menu).
 
 Type in your contact's user name or address into the **_ID or Number_** field (for example, _sally.the.doer@jit.si_).
 
@@ -240,7 +238,7 @@ Now you are ready to communicate:
 
 Note the _Encrypt chat with OTR_ icon, the open padlock on the right-top side of the window. This inconspicuous symbol informs you whether the chat is encrypted or not. Now the lock is open (there is a tiny space between handle and the body of the lock!).
 
-**Step 4.** Click on the **_Encrypt chat with OTR**_ icon. Note the changes in the window:
+**Step 4.** Click on the **_Encrypt chat with OTR_** icon. Note the changes in the window:
 ![image](tool_jitsi18.png)
 
 
