@@ -1,6 +1,6 @@
-[Title]: #(_)
-[Difficulty]: #(Principiante)
-[Order]: #(0)
+[Title]: # ()
+[Difficulty]: # (Principiante)
+[Order]: # (0)
 
 # PGP PARA LA GUÍA DE HERRAMIENTAS MAC O SX
 
