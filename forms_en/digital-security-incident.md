@@ -39,8 +39,8 @@
 [Options]: # (Outside access to data;Loss of access to account;Phishing / Malware attacks on contacts;Loss / Compromise of Data;Damage to Systems;Website down;Financial Loss;Other Organizations’ Systems/ Data Affected;Damage to the Integrity or Delivery of Critical Services or Information;Unknown at this time;Public;Internal Use Only;Restricted / Confidential (Privacy violation);Unknown / Other – please describe:)
 
 [Type]: # (text_area)
-[Name]: # (provide-brief-description)
-[Label]: # (provide-brief-description-2)
+[Name]: # (provide-brief-description-2)
+[Label]: # ()
 
 [Type]: # (screen)
 [Name]: # (Sensitivity of Data/Information Involved Check all of the following that apply to this incident.)
@@ -84,8 +84,8 @@
 [Options]: # (No action taken;System/ Device Disconnected from network & taken offline;Updated virus definitions & scanned system;Contacts alerted;Restored backup;Log files examined (saved & secured);Account passwords of all on network changed;Other – please describe:)
 
 [Type]: # (text_area)
-[Name]: # (provide-brief-description)
-[Label]: # (provide-brief-description-3)
+[Name]: # (provide-brief-description-3)
+[Label]: # ()
 
 [Type]: # (screen)
 [Name]: # (Incident Details)
