@@ -53,15 +53,15 @@
 [Name]: # (Response Steps Taken?)
 
 [Type]: # (text_area)
-[Name]: # (provide-brief-description)
-[Label]: # (provide-brief-description-2)
+[Name]: # (provide-brief-description-2)
+[Label]: # ()
 
 [Type]: # (screen)
 [Name]: # (Motive Or Perpetrators?)
 
 [Type]: # (text_area)
-[Name]: # (provide-brief-description)
-[Label]: # (provide-brief-description-3)
+[Name]: # (provide-brief-description-3)
+[Label]: # ()
 
 [Type]: # (screen)
 [Name]: # (Who Has The Incident Been Reported To Locally?)
