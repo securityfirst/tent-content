@@ -19,34 +19,34 @@
 [Name]: # ()
 
 [Type]: # (text_input)
-[Name]: # (question)
-[Label]: # (question-2)
+[Name]: # (question-2)
+[Label]: # ()
 
 [Type]: # (text_input)
-[Name]: # (answer)
-[Label]: # (answer-2)
+[Name]: # (answer-2)
+[Label]: # ()
 
 [Type]: # (screen)
 [Name]: # ()
 
 [Type]: # (text_input)
-[Name]: # (question)
-[Label]: # (question-3)
+[Name]: # (question-3)
+[Label]: # ()
 
 [Type]: # (text_input)
-[Name]: # (answer)
-[Label]: # (answer-3)
+[Name]: # (answer-3)
+[Label]: # ()
 
 [Type]: # (screen)
 [Name]: # ()
 
 [Type]: # (text_input)
-[Name]: # (question)
-[Label]: # (question-4)
+[Name]: # (question-4)
+[Label]: # ()
 
 [Type]: # (text_input)
-[Name]: # (answer)
-[Label]: # (answer-4)
+[Name]: # (answer-4)
+[Label]: # ()
 
 [Type]: # (screen)
 [Name]: # ()
