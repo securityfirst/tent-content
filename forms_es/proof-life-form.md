@@ -54,21 +54,3 @@
 [Type]: # (text_input)
 [Name]: # (personal-duress-word)
 [Label]: # (Palabra de coacción personal)
-
-[Type]: # (screen)
-[Name]: # ()
-
-[Type]: # (text_input)
-[Name]: # (question-4)
-[Label]: # ()
-
-[Type]: # (text_input)
-[Name]: # (answer-4)
-[Label]: # ()
-
-[Type]: # (screen)
-[Name]: # ()
-
-[Type]: # (text_input)
-[Name]: # (personal-duress-word)
-[Label]: # (Personal Duress Word)
