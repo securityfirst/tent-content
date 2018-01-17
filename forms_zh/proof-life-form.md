@@ -9,11 +9,11 @@
 
 [Type]: # (text_input)
 [Name]: # (question)
-[Label]: # (Question 1:)
+[Label]: # (问题1:)
 
 [Type]: # (text_input)
 [Name]: # (answer)
-[Label]: # (Answer 1:)
+[Label]: # (答案1:)
 
 [Type]: # (screen)
 [Name]: # ()
@@ -53,4 +53,4 @@
 
 [Type]: # (text_input)
 [Name]: # (personal-duress-word)
-[Label]: # (Personal Duress Word)
+[Label]: # (个人胁迫词)
