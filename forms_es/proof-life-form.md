@@ -5,15 +5,15 @@
 
 [Type]: # (label)
 [Name]: # (write-questions-known-close)
-[Label]: # (Write down four questions known only to you or someone close to you)
+[Label]: # (Escriba cuatro preguntas conocidas solo por usted o alguien cercano a usted)
 
 [Type]: # (text_input)
 [Name]: # (question)
-[Label]: # (Question 1:)
+[Label]: # (Pregunta 1:)
 
 [Type]: # (text_input)
 [Name]: # (answer)
-[Label]: # (Answer 1:)
+[Label]: # (Respuesta 1:)
 
 [Type]: # (screen)
 [Name]: # ()
@@ -36,6 +36,24 @@
 [Type]: # (text_input)
 [Name]: # (answer-3)
 [Label]: # ()
+
+[Type]: # (screen)
+[Name]: # ()
+
+[Type]: # (text_input)
+[Name]: # (question-4)
+[Label]: # ()
+
+[Type]: # (text_input)
+[Name]: # (answer-4)
+[Label]: # ()
+
+[Type]: # (screen)
+[Name]: # ()
+
+[Type]: # (text_input)
+[Name]: # (personal-duress-word)
+[Label]: # (Palabra de coacción personal)
 
 [Type]: # (screen)
 [Name]: # ()
