@@ -1,14 +1,13 @@
 [Title]: # (Borrado seguro al desechar equipos)
 [Order]: # (4)
 
-# Computers and hard-drives
+# Computadoras y discos duros 
 
-If you want to finally throw a piece of hardware away or sell it on eBay, you'll want to make sure no one can retrieve your data from it. And even if you're not getting rid of it right away, if you have a computer that has reached the end of its life and is no longer in use, it's also safer to wipe the hard drive before stashing the machine in a corner or a closet. This can be done easily with a tool such as as Darik's Boot and Nuke - there are a variety of tutorials on how to use it across the web, (including here).
+Si desea finalmente tirar una pieza de hardware o venderla en eBay, querrá asegurarse de que nadie pueda recuperar sus datos. E incluso si no se deshace de él de inmediato, si tiene una computadora que ha llegado al final de su vida útil y ya no está en uso, también es más seguro limpiar el disco duro antes de guardar la máquina en una esquina o un armario. Esto se puede hacer fácilmente con una herramienta como Darik's Boot y Nuke; hay una variedad de tutoriales sobre cómo usarla en la web (incluso aquí). 
 
-# Discarding CD-ROMS
+# Descartando CD-ROMS 
+Cuando viene a los CD-ROM, ¿debería hacer lo mismo que hace con el papel? tritúrelos. Hay trituradoras de bajo costo que masticarán CD-ROM. Nunca arroje un CD-ROM en la basura a menos que esté absolutamente seguro de que no tiene nada de sensible. 
 
-When it comes to CD-ROMs, you should do the same thing you do with paper?shred them. There are inexpensive shredders that will chew up CD-ROMs. Never just throw a CD-ROM out in the rubbish unless you're absolutely sure there's nothing sensitive on it.
-
-# Secure deletion on solid-state disks (SSDs), USB flash drives, and SD cards
-
-Unfortunately due to the way SSDs, USB flash drives, and SD cards work, it is difficult, if not impossible, to securely delete both individual files and free space. As a result your best bet in terms of protection is to use encryption-that way, even if the file is still on the disk, it will at least look like code to anyone who gets ahold of it and can't force you to decrypt it. You can learn about how to use encryption in the [Protecting Files lesson](umbrella://lesson/protecting-files).
+# Borrado seguro en discos de estado sólido (SSD), unidades flash USB y tarjetas SD 
+Lamentablemente Debido a la forma en que funcionan las unidades SSD, unidades flash USB y tarjetas SD, es difícil, si no imposible, eliminar de forma segura archivos individuales y espacio libre. Como resultado, su mejor apuesta en términos de protección es usar encriptación; de esa manera, incluso si el archivo aún está en el disco, al menos se verá como código para cualquiera que se atenga y no lo forzará a descifrarlo eso. Puede aprender sobre cómo usar el cifrado en la lección 
+[Archivo de protección](umbrella://lesson/protecting-files).

@@ -142,7 +142,7 @@ To begin scanning for a file of which all or part of the name is known, perform 
 **Step 1.** Type in the name or partial name of a file you would like to recover as follows (in this example, the file _triangle.png_ is being scanned):
 ![image](tool_recuva10.png)
 
-Tip: **Click X to reset the _File name and path_ (which appear greyed out).
+**Tip:** Click X to reset the _File name and path_ (which appear greyed out).
 
 
 Step 2.** Click "Scan" to begin scanning for your deleted file(s); shortly thereafter, a screen will appear resembling the following:

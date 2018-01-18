@@ -1,10 +1,10 @@
 [Title]: # (Un secreto seguro dentro de una caja fuerte)
 [Order]: # (2)
 
-# A secret safe within a safe
+# Una caja fuerte secreta dentro de una caja fuerte 
 
-One of the weaknesses with some encryption tools is their visibility - you may be worried that someone could find the encrypted volume, see that you were trying to conceal information, and use intimidation, blackmail or interrogation to force you into opening it.
+Una de las debilidades de algunas herramientas de cifrado es su visibilidad: puede estar preocupado de que alguien pueda encontrar el volumen cifrado, ver que estaba tratando de ocultar información y usar intimidación, chantaje o interrogación para forzarte a abrirlo. 
 
-However VeraCrypt allows you to create a secret volume, inside your regular encrypted volume, to hide your most sensitive information. It is similar to installing a secret 'false bottom' inside your office safe. If an intruder steals your key, or intimidates you into giving them the safe's combination, they will find some convincing decoy material, but not the information that you truly care about protecting.
+Sin embargo, VeraCrypt te permite crear un volumen secreto, dentro de tu volumen cifrado normal, para ocultar tu información más sensible. Es similar a instalar un "falso fondo" secreto dentro de la caja fuerte de su oficina. Si un intruso te roba la llave o te intimida para que les dé la combinación de la caja fuerte, encontrará algún material de señuelo convincente, pero no la información que realmente te importa proteger. 
 
-You open this secret volume by providing an alternate password that is different from the one you would normally use. Even if a technically sophisticated intruder gains access to the standard volume, he will be unable to prove that a hidden one exists.
+Abre este volumen secreto proporcionando una contraseña alternativa que es diferente de la que normalmente usarías Incluso si un intruso técnicamente sofisticado accede al volumen estándar, no podrá demostrar que existe un intruso oculto.

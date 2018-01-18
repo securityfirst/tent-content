@@ -1,8 +1,8 @@
 [Title]: # (Preguntas de seguridad)
 [Order]: # (8)
 
-# Security Questions
+# Preguntas de seguridad
 
-Be aware of the "security questions" (such as "What is your mother's maiden name?" or "What was your first pet's name?") that websites use to confirm your identity if you do forget your password.
+Esté al tanto de las preguntas de seguridad? (Como "¿Cuál es el nombre de soltera de tu madre?" O "¿Cuál era el nombre de tu primera mascota?") Que usan los sitios web para confirmar tu identidad si olvidas tu contraseña. 
 
-Honest answers to many security questions are publicly discoverable facts that a can be easily found, and therefore bypass your password entirely. Instead, give fictional answers that, like your password, no one knows but you. For example, if the password question asks you your pet's name, you may have posted photos to photo sharing sites with captions such as "Here is a photo of my cute cat, Spot!" Instead of using "Spot" as your password recovery answer, you might choose "Rumplestiltskin."
+Respuestas honestas a muchas preguntas de seguridad son hechos públicamente descubiertos que pueden ser fácilmente encontrados, y por lo tanto, pasar por alto su contraseña por completo. En su lugar, dar respuestas ficticias que, al igual que su contraseña, nadie sabe sino usted. Por ejemplo, si la pregunta de contraseña le pregunta el nombre de su mascota, es posible que haya publicado fotos en sitios de fotos compartidas con subtítulos como "Aquí hay una foto de mi lindo gato, Spot!" En lugar de usar "Spot?" Como su respuesta de recuperación de contraseña, puede elegir "Rumplestiltskin".

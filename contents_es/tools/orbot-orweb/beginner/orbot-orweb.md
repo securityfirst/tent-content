@@ -1,201 +1,201 @@
 [Title]: # ()
 [Order]: # (0)
 
-# ORBOT AND ORWEB TOOL GUIDE
+# GUÍA DE HERRAMIENTAS ORBOT Y ORWEB
 
-## Orbot & Orweb Tool Guide  
-Circumvention and anonymity online for Android
+## Orbot & Guía de herramientas de Orweb
+Atención y anonimato en línea para Android
 
-**Lesson to read: [The Internet](umbrella://lesson/the-internet)**
+**Lección para leer: [Internet](paraguas: // lección / Internet)**
 
-**Download Location:**   
-- Orbot: [https://guardianproject.info/apps/](https://guardianproject.info/apps/) or from [Google Play](https://play.google.com/store/apps/details?id=org.torproject.android)  
-- Orweb: [https://guardianproject.info/apps/](https://guardianproject.info/apps/) or from [Google Play](https://market.android.com/details?id=info.guardianproject.browser)  
-**Phone requirements:**   
-- Android 2.3 and up (Android 1.6 and up for Orweb)  
-**Version used in this guide:**   
-- Orbot: 14.0.4.3  
-- Orweb: 0.6.1  
-**License:**   
-- Orbot: Freeware - BSD  
-- Orweb: Free and Open Source Software (GPL v3)  
-**Level:** Advanced  
-**Time required:** 30-40 minutes
+**Ubicación de descarga:**
+- Orbot: [https://guardianproject.info/apps/](https://guardianproject.info/apps/) o desde [Google Play](https://play.google.com/store/apps/details?id=org.torproject.android)
+- Orweb: [https://guardianproject.info/apps/](https://guardianproject.info/apps /) o desde [Google Play](https://market.android.com/details?id=info.guardianproject.browser)
+**Requisitos del teléfono:**
+- Android 2.3 y versiones posteriores (Android 1.6 y hasta para Orweb)
+**Versión utilizada en esta guía:**
+- Orbot: 14.0.4.3
+- Orweb: 0.6.1
+**Licencia:**
+- Orbot: Freeware - BSD
+- Orweb: Software gratuito y de código abierto (GPL v3)
+**Nivel:** Avanzado
+**Tiempo requerido:** 30-40 minutos
 
-**Using Orbot & Orweb combined will give you:**  
-- The ability to conceal your digital identity from the websites that you visit.  
-- The ability to conceal the websites you visit from Internet Service Providers (ISPs) and other surveillance mechanisms.  
-- The ability to bypass Internet censorship and filtering rules.
+**El uso de Orbot & Orweb combinado le dará:**
+- La capacidad de ocultar su identidad digital de los sitios web que visitas
+- La capacidad de ocultar los sitios web que visita de los proveedores de servicios de Internet (ISP) y otros mecanismos de vigilancia.
+- La capacidad de eludir la censura de Internet y las reglas de filtrado.
 
 **ORBOT**
 ![image](tool_orbot1.png)
 
-### 1.1 Things you should know about this tool before you start
+### 1.1 Cosas que debe saber sobre esta herramienta antes que usted start
 
-Orbot provides Android devices with access to the Tor Network. Form more information see the **[Internet lesson](umbrella://lesson/the-internet)**
+Orbot proporciona a los dispositivos Android acceso a Tor Network. Para obtener más información, consulte **[Lección de Internet](umbrella://lesson/the-internet)**
 
-### 2.0 How to Install Orbot
+### 2.0 Cómo instalar Orbot
 
-**Step 1:** On your Android device, download and install the app from the [Google Play store here](https://play.google.com/store/apps/details?id=org.torproject.android).
- ![image](tool_orbot2.png)
+**Paso 1:** En su Android dispositivo, descargue e instale la aplicación desde [Google Play store here](https://play.google.com/store/apps/details?id=org.torproject.android).
+![image](tool_orbot2.png)
 
-**Step 2:** Before the installation process begins, you will be prompted to review the access the application will have on your phone. Review this carefully. Once you are happy with the permissions that will be granted, press "Accept" and the installation will complete. If you do not agree with the permissions that will be granted, press the back button and the installation will be cancelled.
+**Paso 2:** Antes de que comience el proceso de instalación, se le pedirá que revise el acceso que tendrá la aplicación en su teléfono. Revisa esto cuidadosamente. Una vez que esté satisfecho con los permisos que se le otorgarán, presione "Aceptar" y la instalación se completará. Si no está de acuerdo con los permisos que se otorgarán, presione el botón Atrás y la instalación se cancelará.
 
-### 2.1 How to Configure Orbot
+### 2.1 Cómo configurar Orbot
 
-Using Orbot for the first time
+Uso de Orbot por primera vez
 
-**Step 1:** To open Orbot you tap the application's icon.
+**Paso 1:** Para abrir Orbot, toca el ícono de la aplicación.
 ![image](tool_orbot3.png)
 
-**Step 2:** Tap the language that you want and then tap "Next".
+**Paso 2:** Toca el idioma que quieras y luego toca "Siguiente".
 
-**Step 3:** A configuration wizard will appear with a description of Orbot. Read it and tap "Next".
+**Paso 3:** Aparecerá un asistente de configuración con una descripción de Orbot. Léelo y pulse "Siguiente".
 
-**Step 4:** You will then be presented with a warning screen. Once you have read this and understand the requirements tap "Next".
+**Paso 4:** Luego se le mostrará una pantalla de advertencia. Una vez que hayas leído esto y entiendas los requisitos, toca "Siguiente".
 ![image](tool_orbot4.png)
 
-**Step 5:** A screen will appear asking you to grant Orbot Superuser access. Superuser access requires that your device is rooted if you want to make use of Orbot's Transparent Proxy features - we will not explore this feature in the Orbot guide. (For information about rooting your phone, see the **[Mobile Phones, Expert lesson](umbrella://lesson/mobile-phones)**.)
+**Paso 5:** Aparecerá una pantalla pidiéndote que concedas acceso al Superusuario Orbot. El acceso de superusuario requiere que su dispositivo esté rooteado si desea utilizar las funciones de proxy transparente de Orbot. No exploraremos esta función en la guía de Orbot. (Para obtener información acerca de rootear su teléfono, consulte **[Teléfonos móviles, lección de experto](umbrella://lesson/mobile-phones)**.)
 
-If your smartphone is not rooted, just tick the option that states _I understand and would like to continue without Superuser_. The next screen explains in order for you to benefit from Tor, you will need to use apps built to work with Orbot, or that support HTTP or SOCKS proxy.
+Si su teléfono inteligente no está rooteado, solo marque la opción que indica _Lo entiendo y me gustaría continuar sin Superuser_. La siguiente pantalla explica que para que se beneficie de Tor, necesitará usar aplicaciones creadas para trabajar con Orbot, o que admitan el proxy HTTP o SOCKS.
 ![image](tool_orbot5.png)
 
-**Step 6:** A list of applications that work with Orbot will appear. Take note of them and tap "Next".
+**Paso 6:** Aparecerá una lista de aplicaciones que funcionan con Orbot. Tome nota de ellos y toque "Siguiente".
 ![image](tool_orbot6.png)
 
-**Step 7:** Orbot configuration is now complete. A final screen describing the typical users of Tor and Orbot will appear, once you have read this tap "Finish".
+**Paso 7:** La configuración de Orbot está completa. Aparecerá una pantalla final que describirá los usuarios típicos de Tor y Orbot, una vez que haya leído este tap "Finish".
 ![image](tool_orbot7.png)
 
-**Step 8:** After pressing "Finish" you will be presented with the deactivated Orbot screen.
+**Paso 8:** Después de presionar "Finish" se le mostrará la pantalla de Orbot desactivada.
 ![image](tool_orbot8.png)
 
-### 3.0 Basic Usage
+### 3.0 Uso básico
 
-### 3.0.1 Starting and Stopping Orbot
+### 3.0.1 Inicio y detención de Orbot
 
-**Step 1:** Touch and hold the grey Orbot icon in the centre of the screen until it turns yellow and says _Orbot is starting_.
+**Paso 1:** Toque y mantenga presionado el icono gris de Orbot en el centro de la pantalla hasta que se ponga amarillo y diga _Orbot está comenzando_.
 ![image](tool_orbot9.png)
 
-**Step 2:** The first time you start Orbot a notification will appear to confirm you connected successfully to the Tor network. You will only see the notification screen the first time you start Orbot after installation. Tap "OK" to see the green Orbot indication that Orbot is running.
+* * Paso 2:** La primera vez que inicie Orbot aparecerá una notificación para confirmar que se conectó correctamente a la red Tor. Solo verá la pantalla de notificación la primera vez que inicie Orbot después de la instalación. Toque "OK" para ver la indicación de Orbot verde de que Orbot se está ejecutando.
 ![image](tool_orbot10.png)
 
- **Step 3:** To disconnect Orbot you touch and hold the green Orbot until it turns grey. Or if you want to disconnect and quit Orbot, tap the menu icon (three vertical dots in the top right of the screen) in the top right of the screen and select "Exit".
+**Paso 3:** Para desconectar Orbot toque y mantenga presionado el Orbot verde hasta se vuelve gris O si desea desconectarse y salir de Orbot, toque el ícono de menú (tres puntos verticales en la esquina superior derecha de la pantalla) en la esquina superior derecha de la pantalla y seleccione "Exit".
 ![image](tool_orbot11.png)
 
-### 3.0.2 Browsing the internet anonymously
+### 3.0.2 Navegar por Internet de forma anónima
 
-In order to browse or chat on the internet anonymously, you need to install an app which can route your browsing through a proxy in conjunction with Orbot. This is what Orbweb, the tool outlined below will do for you. 
+Para navegar o chatear en Internet de forma anónima, debe instalar una aplicación que pueda enrutar su navegación a través de un proxy junto con Orbot. Esto es lo que Orbweb, la herramienta que se describe a continuación, hará por usted.
 
-### 3.1 Advanced Usage
+### 3.1 Uso avanzado
 
-### 3.1.1 New Identity
+### 3.1.1 Nueva identidad
 
-If at any stage you want to appear to come from a new location, you can get a _new identity_ from Orbot by swiping _left_ or _right_ on the green Orbot image. The image will briefly spin and then display _You've switched to a new Tor Identity_.
+Si en cualquier etapa desea que parezca provenir de una nueva ubicación, puede obtener _nueva identidad_ de Orbot deslizando el dedo _left_ o _right_ en la imagen verde de Orbot. La imagen girará brevemente y luego mostrará _Has cambiado a una nueva Identidad Tor_.
 ![image](tool_orbot12.png)
 
-### 3.1.2 Using Bridges
+### 3.1.2 Usando Bridges
 
-If Tor access is restricted or illegal in your country, or you wish to disguise the fact that you are using Tor, you can configure Orbot to use bridges.
+Si el acceso a Tor está restringido o ilegal en su país, o si desea ocultar el hecho de que está utilizando Tor, puede configurar Orbot para usar puentes.
 
-**Step 1:** Tap the icon with three staggered dots at the top of the screen to be brought to the settings screen.
+**Paso 1:** Toque el ícono con tres puntos escalonados en la parte superior de la pantalla para llevarlo a la pantalla de configuración.
 
-**Step 2:** Scroll down to the bridges section and check the box next to Use Bridges.
+**Paso 2:** Desplácese hacia abajo hasta la sección de puentes y marque la casilla junto a Usar puentes.
 ![image](tool_orbot13.png)
 
-**Step 3:** Tap the Bridges section underneath _Use Bridges_ to be presented with a screen to enter the _IP address_ of the _bridge_ you want to use. Once correctly entered, tap "OK". Restart Orbot to begin using the _bridge_.
+* * Paso 3:** Toque la sección Bridges debajo de _Use Bridges_ para que se le presente una pantalla para ingresar la _IP address_ de _bridge_ que desea usar. Una vez ingresado correctamente, toque "OK". Reinicie Orbot para comenzar a utilizar _bridge_.
 ![image](tool_orbot14.png)
 
-### 3.1.3 Auto Starting Orbot
+### 3.1.3 Inicio automático de Orbot
 
-To make sure you never forget to start Orbot it can be configured to start when you turn on your Android Device.
+Para asegurarse de que nunca olvide iniciar Orbot, puede configurarse para iniciar cuando enciendes tu dispositivo Android.
 
-**Step 1:** Tap the icon with three staggered dots at the top of the screen to be brought to the settings screen.
+**Paso 1:** Toca el icono con tres puntos escalonados en la parte superior de la pantalla para llevarlo a la pantalla de configuración.
 
-**Step 2:** Check the _Start Orbot_ on boot option at the top of the settings screen.
+**Paso 2:** Compruebe la opción _Start Orbot_ en el arranque en la parte superior de la pantalla de configuración.
 ![image](tool_orbot15.png)
 
 **ORWEB**
 ![image](tool_orbot16.png)
 
-### 1.1 Things you should know about this tool before you start
+### 1.1 Cosas que debe saber sobre esta herramienta antes de comenzar
 
-Orweb is a free Android-platform mobile phone application, created by the Guardian Project for browsing the internet anonymously in conjunction with Orbot.
+Orweb es una aplicación para teléfono móvil de la plataforma Android, creada por The Guardian Project para navegar por Internet de forma anónima junto con Orbot.
 
-**Note:** There is a bug in the current version of Orweb (0.6.1 and older) that may leak information about you, such as your IP address, to the website owners if you are viewing HTML5 based videos. Orweb will still allow you to circumvent censorship and prevent you from being spied on by your Internet Service Provider (ISP) but we do not recommend itto be used to view sites that may be considered hostile. For more information on the issue see the developers' response.
+**Nota:** Hay un error en la versión actual de Orweb (0.6.1 y anteriores) que puede filtrar información sobre usted, como su dirección IP, a los propietarios del sitio web si está viendo videos basados ​​en HTML5. Orweb aún le permitirá eludir la censura y evitar que sea espiado por su proveedor de servicios de Internet (ISP), pero no lo recomendamos para ver sitios que puedan considerarse hostiles. Para obtener más información sobre el problema, consulte la respuesta de los desarrolladores.
 
-Orweb will only work properly after installing and configuring Orbot.
+Orweb solo funcionará correctamente después de instalar y configurar Orbot.
 
-Remember, if you previously created a mail or blog without using Orweb, the site will still know your real location even if you return using Orweb.
+Recuerde, si creó previamente un correo o blog sin utilizar Orweb, el sitio aún conocerá su verdadero ubicación incluso si regresa utilizando Orweb.
 
-If you want stronger anonymity while using Orweb other steps need to be taken including:
+Si desea un anonimato más fuerte al usar Orweb, deben tomarse otros pasos, como:
 
-- Never access accounts made in your real name  
-- Never give your personal data  
-- Never do the same things that you do when not trying to be anonymous.
+- Nunca acceder a cuentas creadas con su nombre real
+- Nunca brinde sus datos personales
+- Nunca haga las mismas cosas que cuando no intenta ser anónimo.
 
-For an alternative that works with iOS on iPhones, use [OnionBrowser](https://mike.tig.as/onionbrowser/).
+Para una alternativa que funcione con iOS en iPhone, use [OnionBrowser](https://mike.tig.as/onionbrowser/).
 
-### 2.0 How to Install Orweb
+### 2.0 Cómo instalar Orweb
 
-**Step 1:** On your Android device, download and install the app from the [Google Play store here](https://play.google.com/store/apps/details?id=info.guardianproject.browser) by tapping "Install". 
+**Paso 1:** En su dispositivo Android, descargue e instale la aplicación desde [Google Play store here](https://play.google.com/) store / apps / details? id = info.guardianproject.browser) al tocar "Instalar".
 ![image](tool_orbot17.png)
 
-**Step 2:** Before the installation process begins, you will be prompted to review the access the application will have on your phone. Review this carefully. Once you are happy with the permissions that will be granted, press "Accept" to start the installation. If you do not agree with the permissions that will be granted, press the back button and the installation will be cancelled.
+**Paso 2:** Antes de que comience el proceso de instalación, se le pedirá que revise el acceso que tendrá la aplicación en su teléfono. Revisa esto cuidadosamente. Una vez que esté satisfecho con los permisos que se le otorgarán, presione "Aceptar" para comenzar la instalación. Si no está de acuerdo con los permisos que se otorgarán, presione el botón Atrás y la instalación se cancelará.
 
-**Step 3:** Once Orweb downloads and installation has completed, you can press "Open" to start the application.
+**Paso 3:** Una vez que las descargas e instalación de Orweb se hayan completado, puede presionar "Abrir "para iniciar la aplicación.
 
-### 3.0 Basic Usage
+### 3.0 Uso básico
 
-**Using Orweb for the first time**
+**Usar Orweb por primera vez**
 
-**Step 1:** To open Orweb you tap the application's icon.
+**Paso 1:** Para abrir Orweb, toque el ícono de la aplicación.
 ![image](tool_orbot18.png)
 
-**Step 2:** Orweb will launch and automatically try to connect to _https://check.torproject.org_, to ensure that its connection to the Tor network is working. If it can connect, you will see a message telling you that your _browser is configured to use Tor_. If Orweb cannot connect to the website you will see an error message in the browser. If this happens, it is suggested that you check that Orbot is installed and running corectly on your android device if this happens.
+**Paso 2:** Orweb se iniciará y automáticamente intentará conectarse a _https: //check.torproject.org_, para asegurarse de que esté conectado a la red Tor está trabajando. Si se puede conectar, verá un mensaje que le indicará que su _browser está configurado para usar Tor_. Si Orweb no puede conectarse al sitio web, verá un mensaje de error en el navegador. Si esto sucede, se sugiere que compruebe que Orbot esté instalado y funcionando corectly en su dispositivo Android si esto sucede.
 ![image](tool_orbot19.png)
 
- **Step 3:** To browse to websites, tap the area at the top of the screen to the right of the Orweb icon and type in the address you want to visit. Press "Go" on the onscreen keypad.
+**Paso 3:** Para navegar a sitios web, toque el área en la parte superior de la pantalla a la derecha del icono de Orweb y escriba la dirección que desea visitar. Presione "Ir" en el teclado en pantalla.
 ![image](tool_orbot20.png)
 
-###  3.1 Advanced Usage
+### 3.1 Uso avanzado
 
-### 3.1.1 Change User Agent
+### 3.1.1 Cambiar el agente de usuario
 
-If you want to hide the type of device that you are using from the websites you visit, Orweb can be configured to pretend to be a number of different devices.
+Si desea ocultar el tipo de dispositivo que está utilizando en los sitios web que visita, Orweb se puede configurar para simular que es un número de dispositivos diferentes.
 
-**Step 1:** Tap on the menu icon (three vertical dots) found in the top right of the screen and tap "Settings".
-![image](tool_orbot21.png)
+**Paso 1:** Toque el icono del menú (tres verticales puntos) que se encuentra en la parte superior derecha de la pantalla y toque "Configuración".
+![imagen](tool_orbot21.png)
 
-**Step 2:** Once in the _settings_ section, scroll down to the Privacy section and tap "User Agent".
+**Paso 2:** Una vez en la sección _settings_, desplácese hacia abajo hasta Sección de privacidad y toque "User Agent".
 ![image](tool_orbot22.png)
 
- **Step 3:** You will be presented with a list of _User Agents_. Tap your choice (e.g. Tap _iPhone_ to set it. Now any time you visit a website, it will think you are using an _iPhone_).
+**Paso 3:** Aparecerá una lista de _User Agents_. Toque su elección (por ejemplo, toque _iPhone_ para configurarlo. Ahora, cada vez que visite un sitio web, pensará que está usando un _iPhone_).
 ![image](tool_orbot23.png)
 
-### 3.1.2 Clear Browsing History
+### 3.1.2 Borrar historial de navegación
 
-### 3.1.2.1 Manually
+### 3.1.2.1 Manualmente
 
-To manually clear your browsing history and cache, and to hide the websites you have been visiting on your phone, tap on the menu icon (three vertical dots) and press "Clear History/Cache".
+Para borrar manualmente su historial de navegación y caché, y para ocultar los sitios web que ha estado visitando en su teléfono, toque el ícono de menú (tres puntos verticales) y pulse "Borrar historial / caché".
 
-### 3.1.2.2 Automatically
+### 3.1.2.2 Automáticamente
 
-To automatically remove your browsing history and cache as you go to a new page:
+Para eliminar automáticamente su historial de navegación y caché a medida que vaya a una nueva página:
 
-**Step 1:** Tap on the menu icon (three vertical dots) followed by "Settings".
+**Paso 1:** Toque el ícono de menú (tres puntos verticales) seguido de "Configuración".
 
-**Step 2:** In the settings screen, scroll down and tap _Clear Back History_.
+**Paso 2:** En la pantalla de configuración, desplácese hacia abajo y toque _Clear Back History_.
 ![image](tool_orbot24.png)
 
-**Note:** When you set this, you will not be able to press the back button to view web pages you have already visited.
+**Nota:** Cuando configure esto, no podrá presionar el botón Atrás para ver las páginas web que ya ha visitado.
 
-### 3.1.3 Clearing Cookies
+### 3.1.3 Borrar cookies
 
-**Note:** Deleting cookies will sign you out of any websites that you were logged into.
+**Nota:** Al eliminar las cookies se cerrará la sesión desde cualquier sitio web en el que haya iniciado sesión.
 
-**Step 1:** Tap on the menu icon (three vertical dots) found in the top right of the screen and tap "Settings".
+**Paso 1:** Toque el icono de menú (tres ver puntos ticos) que se encuentran en la parte superior derecha de la pantalla y toque "Configuraciones".
 
-**Step 2:** Scroll down to the Cookies section and press "Clear cookie data".
+**Paso 2:** Desplácese hacia abajo a la sección Cookies y presione "Borrar datos de cookies".
 
-**Step 3:** Tap "OK" to confirm the deleting of cookies.
+**Paso 3:** Toque "OK" para confirmar el borrado de las cookies.
 ![image](tool_orbot25.png)

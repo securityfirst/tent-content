@@ -87,8 +87,8 @@ To begin using TrueCrypt to create a _Standard Volume_, perform the following st
 **Step 3.** Click "Create Volume" to activate the _TrueCrypt Volume Creation Wizard_ as follows:
 ![image](tool_truecrypt6.png)
 
-There are three options for encrypting a _Standard Volume
-. In this guide, we will use the Create an encrypted file container option. Please refer to the [**TrueCrypt** documentation](www.truecrypt.org/docs/) for the description of other two options.
+There are three options for encrypting a _Standard Volume_
+. In this guide, we will use the Create an encrypted file container option. Please refer to the **[TrueCrypt documentation](www.truecrypt.org/docs/)**for the description of other two options.
 
 **Step 4.** Click "Next" to activate the following screen:
 ![image](tool_truecrypt7.png)

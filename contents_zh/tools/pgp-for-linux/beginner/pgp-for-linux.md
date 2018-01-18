@@ -1,314 +1,351 @@
 [Title]: # ()
 [Order]: # (0)
 
-# PGP FOR LINUX TOOL GUIDE
+PGP FOR LINUX 工具指南
+==================
 
-## PGP for Linux Tool Guide   
-Encrypted email for Linux
+PGP for Linux 工具指南 
+ELinux系統上加密電子郵件
+------------------------------------
 
-**Lesson to read:   
-- [Email](umbrella://lesson/email)**  
-**Computer requirements:** An internet connection, a computer running Linux, an email account  
-**Version used in this guide:**   
-- Linux: Debian 7.0 ("Wheezy")  
-- Mozilla Thunderbird 24.8.1  
-- Enigmail 1.6  
-- GPG4Win 1.4.18  
-**License:** Free Software; mix of Free Software licenses  
-**Level:** Expert  
-**Other reading:** [https://www.gnupg.org/documentation/guides.html](https://www.gnupg.org/documentation/guides.html)  
-**Time required:** 30-60 minutes
+**學習內容: 
+- [電子郵件](umbrella://lesson/email)** 
+**系統需求:** 網路連線, 運行Linux作業系統的電腦, 電子郵件帳號 
+**本指南使用版本:** 
+- Linux: Debian 7.0 ("Wheezy") 
+- Mozilla Thunderbird 24.8.1 
+- Enigmail 1.6 
+- GPG4Win 1.4.18 
+**版權宣告:** 自由軟體；混合式自由軟體 
+**Level:** Expert 
+**Other reading:** [https://www.gnupg.org/documentation/guides.html](https://www.gnupg.org/documentation/guides.html) 
+**需要時間:** 30-60分鐘
 
-**Using PGP will give you:**  
-- The ability to protect your email communications from being read by anyone except their intended recipients.  
-- The ability to prove that an email came from a particular person, instead of being a fake message sent by another sender (it is otherwise very easy for email to be fabricated). Both of these are important defenses if you're being targeted for surveillance or misinformation.
+**PGP 可讓你:** 
+保護你的郵件通訊安全不會讓收件者以外的人所讀取. 
+證明郵件是來自某人而不是任意偽造送寄者的訊息(要偽造寄出電子郵件並不困難).這兩者都是遇上被監控或是資訊被誤導時的重要防衛.
 
-### 1.0 Before you start 
+### 1.0 開始之前
 
-To use Pretty Good Privacy (PGP), you will need to install some extra software that will work with your current email program. You will also need to create a private key, which you will keep private. The private key is what you will use to decrypt emails sent to you, and to digitally sign emails that you send to show they truly came from you. Finally, you'll learn how to distribute your public key-a small chunk of information that others will need to know before they can send you encrypted mail, and that they can use to verify emails you send.
+使用Pretty Good Privacy (PGP),需要先安裝某些額外軟體以相容於你所使用的電子郵件程式.你也需要創建保一個保存良好隱祕的私鑰.這組私鑰可以讓你解密給你的郵件訊息,進行數位簽證來證明你真的是寄件者.最後,你會知道如何傳播你的公鑰資訊給需要知道的人，好讓他們可以寄送給你加密的郵件以及確認你寄來的郵件.
 
-This guide will show you how to use PGP with a Linux-style operating system using Mozilla Thunderbird, a popular open source graphical email client.
+本指南讓你知道如何在Linux作業系統下使用Mozilla Thunderbird(雷鳥電子郵件軟體), 是一個開源流行的電郵軟體.
 
-You can't currently use PGP directly with a web email service like Gmail, Hotmail, Yahoo! Mail, or Outlook Live. You can still use your webmail address; you'll just have to configure it with the Thunderbird program on your computer.
+你無法在網頁電郵如Gmail, Hotmail, Yahoo! Mail或Outlook Live上直接使用PGP，但你還是能利用這些網頁郵件來設定電腦上的雷鳥郵件接收寄送.
 
-**Note that both ends of the email conversation need to be using PGP-compatible software for it to work.**
+**留意電子郵件的寄收兩端都必須使用PGP相容軟體才能發功效.**
 
-People will normally use this only on their own personal devices, not on shared devices. Fortunately, PGP is available for most desktop computers and mobile devices, and you can point them to these guides to help them set up their own version.
+一般只在自己個人電腦上才使用PGP而不會在公用電腦上進行.幸好現在PGP已經普遍能在多數的桌面環境、手機設備上運作，你可以告訴對方如何找到適合他們安裝使用的版本資訊.
 
-### 2.0 Installing Thunderbird, GnuPG and Enigmail 
+### 2.0 安裝雷鳥, GnuPG 和 Enigmail
 
-PGP is an open standard, which means that more than one piece of software can use it. The software we're going to use for PGP is called GnuPG. We'll also be adding a plug-in to Thunderbird called Enigmail, which lets you use GnuPGP from within Thunderbird. The following instructions require some comfort with the command line.
+PGP 是一個開放標準，這意謂著多種軟體皆可利用它. 這裏我們要介紹的PGP軟體叫作GnuPG. 我們也需要在雷鳥上安裝Enigmail這個外掛插件，它可讓你在雷鳥上使用GnuPGP. 下面的操作需要稍了具文字指令操作基礎.
 
-If you're using using a Red Hat-based distribution such as Red Hat or Fedora Core, open a terminal and run these commands:
+如果你使用的是紅帽發行的linux版本如 Red Hat or Fedora Core, 請打開終端器並執行以下文字指令:
 
 _sudo yum install gnupg thunderbird thunderbird-enigmail_
 
-If you are using a Ubuntu-based distribution such as Ubuntu, or Linux Mint, open a terminal and type these commands to make sure you have the right software installed:
+如果你使用的是Ubuntu發行的linux版本如Ubuntu, Linux Mint, 為確認電腦上是否已安裝正確的軟體，請打開終端器並執行以下文字指令:
 
 _sudo apt-get install gnupg thunderbird enigmail_
 
-If you're using the Debian distribution, you'll find that Thunderbird is called "Icedove." Like Debian in general, this is for entirely reasonable but somewhat obscure reasons. Apart from the name, it's exactly the same program: we'll not mention Icedove again, but you can just replace "Thunderbird" with Icedove in the rest of this guide, and everything should still work.
+如果你使用的是Debian 版本的linux, 你會發現雷鳥在這裏被叫做“Icedove”. 對Debian而言,這完全是有道理但又有些模糊不清.除了名字之外,兩者是完全一樣的程式: 所以我們在本指南中就不再使用“Icedove”這個字眼，請以雷鳥來取代它, 一切應該都沒問題.
 
-Use this command in the Terminal to install it:
+透過終端器文字指令來安娤:
 
 _sudo apt-get install gnupg icedove enigmail_
 
-### 2.1 Configuring Thunderbird
+### 2.1 設定Thunderbird
 
-Now that you've installed Thunderbird, open it as you would another application on your machine (you might pick it from a list of applications on a menu, or type its name into an application search). You will see the first run wizard appear.
+你已成功地安裝了電鳥, 請開啟它(從程式集選單下挑選開啟,或是打入它的名字搜尋). 你將會看到初次執行的簡易畫面出現 .
+
 ![image](tool_pgplin1.png)
 
-To set up your existing email address, click "Skip this and use my existing email," and then enter your name, email address, and the password to your email account.
+設定現有的電子郵件地址,請選點 "Skip this and use my existing email“,然後輸入你的名字,電子郵件、密碼.
+
 ![image](tool_pgplin2.png)
 
-If you use a popular free email service like Gmail, Thunderbird should be able to automatically detect your email settings when you click "Continue."
+如果你使用的是流行的免費信箱如 Gmail, Thunderbird應可自動偵測其郵件設定，請點「繼續」 ”Continue“.
 
-**If you use two-factor authentication with Google (and depending on your threat model you probably should!) you cannot use your standard Gmail password with Thunderbird. Instead, you will need to create a new application-specific password for Thunderbird to access your Gmail account. See [Google's own guide](https://support.google.com/mail/answer/1173270?hl=en) for doing this.**
+**如果你啟動了Google二步驟驗證功能 (依你受到的威脅程度應該要啟用!) 在此你就無法使用一般的密碼登入Thunderbird.相反地你得先設定一個特別的應用程式專用密碼給雷鳥以便近用你的Gmail 帳號 .相關操作請見 [Google's 官網的指南](https://support.google.com/mail/answer/1173270?hl=en) .**
+
 ![image](tool_pgplin3.png)
 
-If it doesn't, you may need to manually configure your IMAP and SMTP settings. If you don't know how to do this, talk to your email provider, or ask someone technical who is familiar with your email provider (so, an IT person at work, or a technical friend who uses the same ISP as you; they don't need to know how to use PGP, but you can ask them "Do you know the IMAP and SMTP settings for my email address?").
+如果不是Gmail 帳號, 你需要手動來調整郵件伺服器 IMAP and SMTP 設定. 如果你不知道這些資訊,請聯絡你的電郵服務商,或詢問了解相關設定的技術人員 (辦公室的 IT人員,或使用相同郵件服務又懂技術的朋友;他們不必知道如何使用 PGP, 但你可以請教他們如何設定你電子郵件的伺服器 IMAP and SMTP設定 ).
 
-### 2.2 Configuring Enigmail
+### 2.2 設定Enigmail
 
-Enigmail is a plugin for Thunderbird that encrypts and decrypts PGP-encoded emails, and makes handling private and public keys a little easier. If you have the latest version of Enigmail, you should be presented with the Enigmail Setup Wizard.
+Enigmail 是雷鳥上的一個外掛套件，其可讓你加密與解密PGP編碼的電子郵件，並且讓公鑰私鑰的處理更為方便.如果你安裝的是最新版本的Enigmail, 你應該會看到Enigmail簡易安裝過程.
+
 ![image](tool_pgplin4.png)
 
-If you don't see it, you can use this menu option from Thunderbird to make it appear. Click on the three horizontal lines (the "hamburger menu") on the right of the Thunderbird window.
+如果沒看到,則可利用雷鳥的選單來叫出.點擊雷鳥視窗右側選單上的三條水平線.
+
 ![image](tool_pgplin5.png)
 
-Here's the first option that Enigmail offers you: three options for handling when to encrypt your mail.
+第一個選項可讓你: 當需要加密電子郵件時有三種處理選擇.
+
+程式預設的選擇是當你有別人的公鑰時, Enigmail將會加密你送給對方的郵件，但如果沒有收件人的公鑰則不會進行加密 .你也可選擇隨時利用公鑰加密寄出的郵件, 但這表示你得要有每個收件者的公鑰，而沒公鑰的收件人則要取消自動加密的功能只直接使用PGP.
+
+不知道哪一種選擇比較適合你的狀況，但我們相信便利的自動加密選項應是不錯的選擇. 如果你覺得困惑,就選擇「預設不要加密」“Don't encrypt my messages by default”.
+
+然後選擇「下一步」”Next“ .
+
 ![image](tool_pgplin6.png)
 
-The default option is to encrypt emails if you have the "public key" of another person, Enigmail will encrypt the email you send but leave emails unencrypted if you don't have the public key of the recipient yet. You also have the option to encrypt emails all the time to everyone with PGP keys, which means that you will have to find the public keys for people for whom you don't have them already, or turn off automatic encryption completely and only use PGP when directed.
+現在你可以決定是否要對所有寄出的信件進行電子簽章. 利用PGP簽章你的電子郵件可以讓收件人檢查是否真由你送出這個郵件,而這個信件內容並未遭到竄改. 選擇開啟「預設簽章我的郵件」“Sign my messages by default”功能.
 
-We don't know what the appropriate option is for you, but believe the "Convenient auto encryption" option to be a good choice. If you are in doubt, choose "Don't encrypt my messages by default." 
+這佪動作的不利之處在於, 它也讓人知道你使用PGP寄送電子郵件. [在某些國家](www.cryptolaw.org/) (包括中國，伊朗, 白俄羅斯, 以及某些中東國家) 使用未授權的加密，即使完全為私人目的,都是違法的,這讓你有理由不讓別人知道你使用PGP.
 
-Click the "Next" button.
-![image](tool_pgplin6.png)
+接下來繼續點選下一步.
 
-Now you have an option to digitally sign all outgoing emails. Signing your email with PGP allows the recipient to check that you sent the message, and that the contents of the message were not tampered with. Click the "Sign my messages by default" button to turn this feature on. 
+現在你可以看到出現一個選項讓你來調整Mozilla Thunderbird底下Enigmail的變動.
 
-The downside of doing this, however, is that it can also flag to anyone you send mail to that you use PGP. [In some parts of the world](www.cryptolaw.org/) (including China, Iran, Belarus, and some Middle-East states) using unlicensed encryption, even for personal use, is illegal, so you might have very good reasons to not let others know you use PGP.
-
-Click the "Next" Button.
-
-Now you'll see an option to have Enigmail make some changes to the configuration of Mozilla Thunderbird.
 ![image](tool_pgplin7.png)
 
-If you click the Details button you can review what those changes are.
+點擊「細節」"Details"可以檢視這些變動的內容.
 
-The following options can be unchecked (reenabled), for a more seamless transition, if you use PGP/Mime by default (we'll set that later):  
-- Disable flowed text  
-- View message body as plain text  
-- Do not compose HTML messages
+如果你已預設使用PGP/Mime (我們稍後會介紹這個)，為了無間隙傳送，請不要選擇(或重啟)以下的功能: 
+「取消缺流動型文字」”Disable flowed text“ 
+「以純文字格式檢視訊息」“View message body as plain text” 
+「不要用HTML格式撰寫郵件」 “Do not compose HTML messages”
 
-The final option prevents potential problems in the encryption and decryption of your email. Be aware that selecting this box will remove the ability to send text that is bolded, underlined or colored. After reviewing the changes, click the "OK button."
+最後一個選項是預防加密或解密電子郵件的潛在問題.注意選取了這個框框後會移除文字的格式，如粗體、底線或顏色.檢視過這些變動後,現在可以選擇「OK」.
 
-Now you will start creating your private key and public key.
+現在你可以開始來創建自己的私鑰與公鑰.
 
-### 2.3 Creating a public key and private key
+### 2.3 創建私鑰與公鑰
 
-Installation and setup of the Enigmail add-on is complete. Now you'll have the option of creating your public and private key pair. This assumes you have not created a private key before.
+完成安裝與設定Enigmail外掛套件後. 你會進入到創建自己私鑰與公鑰的選項中.這是假設你過去尚無任何私鑰.
+
 ![image](tool_pgplin8.png)
 
-Click the "Next" button.
+請選擇「下一步」.
 
-Unless you have already configured more than one email account, Enigmail will choose the email account you've already configured. The first thing you'll need to do is come up with a strong passphrase for your private key. See the **[Passwords lesson](umbrella://lesson/passwords)** for more information on how to do this.
+除非你設定了多個電子郵件帳號, Enigmail 一般會選擇你已經設定完畢的那組.首先你需要有一組高強度的密語來管理你的私鑰. 請見**[密碼課程](umbrella://lesson/passwords)** 以了解相關資訊.
 
-Enigmail will display some information about your private key as well as the configuration settings. We recommend creating 4096-bit length keys. Click the "Next" button.
+Enigmail會展示有關私鑰的資訊以及其設定方法.我們建議採4096-位元長度的密鑰. 選擇「下一步」.
+
 ![image](tool_pgplin9.png)
 
-**Your key will expire at a certain time; when that happens, other people will stop using it entirely for new emails to you, though you might not get any warning or explanation about why. So, you may want to mark your calendar and pay attention to this issue a month or so before the expiration date.**
+**你的密鑰可能過了一段時間後會到期; 這種情況下, 有些人會停止使用過期的密鑰來傳送郵件, 所以你也不會收到任何警告或解釋原因的訊息.或者你希望註記上日期來提醒你即將到期的問題.**
 
-It's possible to extend the lifetime of an existing key by giving it a new, later expiration date, or it's possible to replace it with a new key by creating a fresh one from scratch. Both processes might require contacting people who email you and making sure that they get the updated key; current software isn't very good at automating this. So make a reminder for yourself; if you don't think you'll be able to manage it, you can consider setting the key so that it never expires, though in that case other people might try to use it when contacting you far in the future even if you no longer have the private key or no longer use PGP.
+它可以延長現有密鑰的到期日，也可以用另一組新密鑰來替換.但兩者都需要通知收件人讓他們獲得更新的密鑰資訊;而目前這套軟體尚無法自動作到這點.所以你得自己留意;如果你不認為自己可以搞定此事，不妨考慮設定一組永不過期的密鑰。如果你不再保有這組私鑰或不再使用PGP，某些人可能還是會利用這個資訊來聯絡你.
 
-Enigmail will generate the key and when it is complete, a small window will open asking you to generate a revocation certificate. This revocation certificate is important to have as it allows you to make the private key and public key invalid. It is important to note that merely deleting the private key does not invalidate the public key and may lead to people sending you encrypted mail that you can't decrypt.
+Enigmail將會在完成前産生一組密鑰, 此時會出現一個小視窗詢問你是否要産生一個取消證明. 這個取消證明的重要之處在於可以讓你的私鑰與公鑰成為無效.記住只是刪除了私鑰並不會自動取消公鑰的效力，而這會讓他人寄給你加密電子郵件但你卻無法解密 .
+
 ![image](tool_pgplin10.png)
 
-Click the "Generate Certificate" button.
+點選「産生證明」“Generate Certificate” .
 
-A window will open to provide you a place to save the revocation certificate. While you can save the file to your computer, we recommend saving the file on a USB drive that you are using for nothing else and storing the drive in a safe spot. We also recommend removing the revocation certificate from the computer with the keys, just to avoid unintentional revocation.
+這時會出視新視窗讓你選擇儲存取消證明的位置. 你可以把它存在電腦硬碟上，但我們建議最好是把這個檔案存在一個用不到的USB記憶卡並把它保存在一個安全的地方. 最好把電腦上的取消證明檔案刪除，以避免發生意外的消取事件.
 
-Even better, save this file on a separate encrypted disk. Choose the location where you are saving this file and click the "Save" button.
+更好的作法是把這個檔案存在一個分開的加密磁碟上. 完成選擇檔案儲存的位置後請點擊儲存鍵.
 
-Now Enigmail will give you further information about saving the revocation certificate file again. Click the "OK" button.
+現在Enigmail會再次給你關於取消證明檔案進一步的資訊. 點擊“OK”.
 
-Finally, you are done with generating the private key and public key. Click the "Finish" button.
+Finally最後你終於完成了公鑰私鑰的創建，請選擇完成鍵.
 
-### 2.4 Optional steps
+### 2.4 可選步驟
 
-### 2.4.1 Display long key-IDs
+### 2.4.1 顯示長密鑰IDs
 
-The next steps are completely optional but they can be helpful when using OpenPGP and Enigmail. Briefly, the Key ID is a small part of the fingerprint. When it comes to verifying that a public key belongs to a particular person the fingerprint is the best way. Changing the default display makes it easier to read the fingerprints of the certificates you know about. Click the configuration button, then the Enigmail option, then Key Management.
+這個步驟完全視個人需要做選擇但它們可以在使用OpenPGP和 Enigmail有所幫助. 簡言之, 密鑰ID 是指紋碼的一小部份. 當需要認證公鑰是否屬於某人時，指紋碼是最好的方法.改變預設的顯示讓讀取指紋碼證明更為容易.，在Enigmail選項下點選設定鍵中的密鑰管理部份.
+
 ![image](tool_pgplin11.png)
 
-A window will open showing two columns: Name and Key ID.
+將出現一個視窗顯示二欄位:姓名與密鑰ID.
+
 ![image](tool_pgplin12.png)
 
-On the far right there is a small button. Click that button to configure the columns. Unclick the Key ID option and click the Fingerprint option.
+在最右邊有一個小按鍵.請點擊此鍵以便設定欄位.解除Key ID 選項然後點選指紋碼選項.
+
 ![image](tool_pgplin13.png)
 
-Now change the width of the Fingerprint column by moving the mouse to the lines between each column heading (that is, just to the left of the "Key ID" header at the top of the list of keys), and dragging the line to the left. Keep moving left until you can see all of the Key ID, like this:
+現在移動滑鼠到每一欄位頭部的線端(就是的右邊最上方的密鑰表)來改變指紋碼欄位的長度,然後拖曳這條線到左邊.保持往左移動直到你能看到所有的Key ID, 就像這樣:
 
-Now the columns will look like this:
+所有的欄位就長成這樣:
+
 ![image](tool_pgplin14.png)
 
-Now you are set up to send and receive regular and encrypted email. Next you will go through the steps of actually finding the people to exchange encrypted mail with.
+現在你可以正常地收送一般與加密郵件了. 接下來你將會被介紹如何找到要交換加密郵件的對象.
 
-**Using PGP doesn't completely encrypt your email so that the sender and receiver information is encrypted. Encrypting the sender and receiver information would break email. Using Thunderbird with the Enigmail add-on gives you an easy way to encrypt and decrypt the content of your email.**
+**PGP 不能完全加密你的電子郵件所以送件人和收件人的資訊要加密. 但加密收件人和收件人可能會破壞電子郵件.使用雷鳥的外掛套件the Enigmail 可以簡單地加密和解密你的郵件內容.**
 
-### 3.0 Letting others know you are using PGP
+### **3.0 讓別人知道你有使用PGP**
 
-**a) Let people know you are using PGP with an email**
+****a) 讓別人知道你有使用PGP處理電郵****
 
-You can easily email your public key to another person by sending them a copy as an attachment.
+**你可以簡單地把自己的公鑰以附件方式寄給其它人.**
 
-Click the "Write" button in Mozilla Thunderbird.
+**在雷鳥軟體下點搫「撰寫」“Write”.**
 
-Fill in an address and a subject, perhaps something like "my public key," click the Enigmail menu and select the "Attach My Public Key" option.
+**填入地址以及信件主旨,例如像:我的PGP公鑰, 從Enigmail選單選擇「附加我的公鑰」”Attach My Public Key“.**
+
 ![image](tool_pgplin15.png)
 
-You can now the email and the recipient will be able to download and use the public key you sent.
+你現在可以寄了收件人郵件而對方可以收到下載你的公鑰.
 
-**If this method is used, it's a good idea to have the recipient verify your public key's fingerprint over some other form of communication, in case email is already being intercepted and tampered with.**
+**如果用這個方法,最好讓收件人可以透過其它管道認證你的公鑰指紋碼，以防電子郵件可能已遭到攔截或破壞.**
 
-**b) Let people know you are using PGP on your website**
+**b) 在你的網站上讓別人知道有使用PGP**
 
-In addition to letting people know via email, you can post your public key on your website. The easiest way is to upload the file and link to it. This guide won't go into how to do those things, but you should know how to export the certificate as a file to use in the future.
+除了透過電郵讓別人知道外,你可以把你的公鑰放在自己的網站.最簡單的方式是把檔案上傳並加一個連結. 本指南就不介紹如何完成這些步驟，但以後你會知道如何滙出你的公鑰檔案.
 
-Click the configuration button, then the Enigmail option, then Key Management.
+在Enigmail選項下點選設定鍵中的密鑰管理部份.
 
-Highlight your certificate in bold, then right-click to bring up the menu and select Export keys to file.
+將你的證明用粗體字突顯,然後用滑鼠右鍵來開啟選單，然後選擇滙出公鑰到檔案中.
+
 ![image](tool_pgplin16.png)
 
-A small window will pop up with three buttons. Click the "Export Public Keys Only" button.
+有三個按建的小視窗將會出現.請選擇“Export Public Keys Only”按鍵.
+
 ![image](tool_pgplin17.png)
 
+**確認你不要按到“Export Secret Keys”按鍵，因為這個會讓其它人模倣你如果他們能猜出你的密碼 .**
 
-**Make sure you don't click the "Export Secret Keys" button because exporting the secret key could allow others to impersonate you if they are able to guess your password.**
+接下來會出現讓你存檔的視窗. 為了以後可以更容易找到這個檔案，請把它存在文件目資料夾下.
 
-Now a window will open so you can save the file. In order to make it easier to find in the future please save the file to the Documents folder.
+現在你可以盡情使用它了.
 
-Now you can use this file as you wish.
+**c) 上傳到密鑰伺服器**
 
-**c) Uploading to a keyserver**
+密鑰伺服器讓人更方便來找到與下載公鑰.大部份的公鑰伺服器之間都有同步功能,這表示上傳的公鑰最後都會傳到其它伺服器.
 
-Keyservers make it easier to search for and download public keys. Most modern keyservers are synchronizing, meaning that a public key uploaded to one server will eventually reach all servers.
+雖然把你的公鑰上傳到密鑰伺服器是一個方便的方法讓其它人知道你有一個公開的PGP證明,但由於密鑰伺服器本身運作的性質,一旦把公鑰上傳後將無法刪除,你只能註記它們已經被取消 .
 
-Although uploading your public key to a keyserver might be a convenient way of letting people know that you have a public PGP certificate, you should know that due to the nature of how keyservers work, there is no way to delete public keys once they are uploaded, you can only mark them as revoked.
+**上傳公鑰到伺服器之前,最好先考慮你是否要讓全世界知道你有一個公鑰因為這個資訊之後將無法取消.**
 
-**Before uploading your public key to a keyserver, it is good to take a moment to consider whether you want the whole world to know that you have a public key without the ability to remove this information at a later time.**
+如果你選擇上傳公鑰,你要再回到Enigmail的密鑰管理視窗下.
 
-If you choose to upload your public key to keyservers, you will go back to the Enigmail Key Management window.
+點擊密鑰伺服器選單再選擇上傳公鑰的選項.
 
-Click the Keyserver menu item and select the Upload Public Keys option.
 ![image](tool_pgplin18.png)
 
-### 3.1 Finding other people who are using PGP
+### 3.1 找到也使用PGP的人
 
-**a) Getting a public key by email**
+**a) 透過電子郵件取得公鑰**
 
-You might get a public key sent to you as an email attachment.
+你可以透過別人寄出的電郵附件檔案來取得其公鑰.
+
 ![image](tool_pgplin19.png)
 
-Notice the attachment at the bottom of the window. Right-click on the attachment and select "Import OpenPGP Key." A small window will open giving you the results of the import. Click the OK button.
+留意在郵件下方的附件檔. 右擊該附件然後選擇「滙入公開PGP公鑰」“Import OpenPGP Key”.一個小視窗會開啟讓你知道其滙入的結果.點選“OK” .
 
-If you open up the Enigmail key management window again, you can check the result. Your PGP key is in bold because you have both the private key and the public key. The public key you just imported is not bold because it doesn't contain the private key.
+如果你再次開啟Enigmail的密鑰管理視窗, 可以檢視其結果. 你的PGP密鑰是粗體字因為你同時有私鑰和公鑰.而剛才匯入的公鑰就不是粗體字因為它並不包含私鑰.
+
 ![image](tool_pgplin20.png)
 
-**b) Getting a public key as a file**
+**b) 取得公鑰檔案**
 
-It's possible that you get a public key by downloading it from a website or someone might have sent it through chat software. In a case like this, you will assume you downloaded the file to the Downloads folder.
+你可能從網站下載或某人透過聊天軟體給你公鑰檔案二.在這種情況下假設下載的檔案存放在下載的資料夾中.
 
-Open the Enigmail Key Manager and click on the "File" menu. Select "Import Keys from File."
+開啟Enigmail密鑰管理視窗然後點選檔案選單.從其選單中選擇「從檔案中滙入公鑰」“Import Keys from File”.
 
-The public key might have very different file name endings such as .asc, .pgp, or .gpg. Select the file and click the "Open" button. A small window will open, giving you the results of the import. Click the "OK" button.
+這個公鑰檔案可能有不同的副檔名諸如 .asc, .pgp, or .gpg 等等，選擇該檔案然後點選開啟鍵，會打開一個小視窗顯示滙入的結果.再點選“OK”.
 
-**c) Getting a public key from a key server**
+**c) 從密鑰伺服器上取得公鑰**
 
-Keyservers can be a very useful way of getting public keys. Try looking for a public key. Open up the key manager then click the "Keyserver" menu and select "Search for Keys."
+密鑰伺服器是一個很有用的方法來取得公鑰.要試著找他人的公鑰，請打開密鑰管理員然後點擊「密鑰伺服器」選單，選擇「搜㝷密鑰」”Search for Keys“.
+
 ![image](tool_pgplin21.png)
 
-A small window will pop up with a search field. You can search by a complete email address, a partial email address, or a name. In this case, you will search for certificates containing "eff.org."
+它會彈出一個有搜㝷欄的小視窗.你可以透過電子郵件地址或部份地址或姓名來找.例如你可以找含有”eff.org.“字串的證明
+
 ![image](tool_pgplin22.png)
 
-A larger window will pop up with many options. If you scroll down you'll notice some certificates are italicized and grayed out. These are certificates that have either been revoked or expired on their own.
+稍後一個較大的視窗會出現許多選項.如果你往下滑動會注意到有些證明是斜體字且呈暗灰色. 這一類的證明多半是已取消或是過期了.
+
 ![image](tool_pgplin23.png)
 
-Let's take the public keys of Danny O'Brien for example, he has one expired or revoked certificate and one valid certificate. Select the valid certificate by clicking the box on the left then press the OK button.
+讓我們以Danny 作例子, 他有一個過期或註消的證明也有一個仍然有效的證明.請勾選其有效的證明然後按下OK鍵.
+
 ![image](tool_pgplin24.png)
 
-In some cases a person may have more than one certificate, all appearing valid. Note that it's possible for anyone to upload a public certificate for anyone else, and that one of these keys may not belong to the person that owns the email address associated with it. In this case, verifying the fingerprint is extremely important.
+某些案例中有人可能有多個有效的證明. 注意也有可能是非本人所上傳的公鑰而該公鑰並不是該電子郵件的使用者或是並無關聯.這種情況下,查證指紋碼就變得格外重要.
 
-A small notification window will pop up letting you know if you succeeded, and the Enigmail Key Manager will now show you the added certificates:
+一個小的提醒視窗會彈出來讓你知道是否成功，然後Enigmail的密鑰管理員會顯示出新增的證明:
+
 ![image](tool_pgplin25.png)
 
-### 4.0 Sending PGP encrypted mail
+### 4.0 傳送PGP加密郵件
 
-Now you will send your first encrypted email to a recipient. In the main Mozilla Thunderbird window click the "Write" button. A new window will open.
+現在你可以寄出加密郵件給特定的收件人. 在Mozilla Thunderbird選單視窗下點擊「撰寫」"Write"以打開新視窗.
 
-Write your message, and enter a recipient. For this test, select a recipient whose public key you already have. Enigmail will detect this and automatically encrypt the email (you can tell it will be encrypted by the golden key at the bottom right of the email).
+寫下你的信件內容,並輪入收件者.為了測試,請選擇一個你已有其公鑰的收件人. Enigmail會自動偵測且加密電郵(你可以從郵件下方右側的金色鍵知道其為加密內容).
+
 ![image](tool_pgplin26.png)
 
-**Note that the subject line won't be encrypted, so choose something innocuous, like "hello."**
+**注意，信件的主旨欄不會被加密,所以請選擇一些看來無害的字眼, 例如hello等等**
 
-When you click the "Send" button, you'll be given a window to enter the password to your PGP Key. Remember this is different from your email password!
+當你按下送出鍵時,會出現一個要求你輪入PGP密鑰密碼的視窗.記住這密碼不是你的電子郵件密碼!
 
-Enter your password then click the "OK" button and your email will be encrypted and sent.
+輪入密碼後按OK，之後你的郵件就會被加密送出.
 
-The body of the email was encrypted and transformed. For example our text above, was converted to this:
+郵件的內文會被加密和轉換. 例如我們上面原本的文字會變成如下:
+
 ![image](tool_pgplin27.png)
 
-### 4.1 Receiving PGP encrypted mail
+### 4.1 接收PGP加密郵件
 
-Let's go through what happens when you receive encrypted email. First, click on the message.
+讓我們走一遍當你收到加密郵件時會發生的狀況.首先,請開啟這則郵件.
 
-A small window opens asking you for the password to the PGP key. Remember: Don't enter your email password. Click the "OK" button.
+會出現詢問密碼的小視窗. 記住這密碼不是你的電子郵件密碼!選擊“OK”鍵.
+
 ![image](tool_pgplin28.png)
 
-Now the message will show up decrypted
+好了，現在這個郵件已被解密了
+
 ![image](tool_pgplin29.png)
 
-### 5.0 Revoking the PGP Key
+### 5.0 取消PGP密鑰
 
-**a) Revoking your PGP Key through the Enigmail interface**
+**a) 透過Enigmail 介面來取消PGP密鑰**
 
-The PGP keys generated by Enigmail automatically expire after five years. So if you lose all your files, you can hope that people will know to ask you for another key once the key has expired.
+Enigmail所建立的PGP密鑰會在5年後自動到期. 所以如果你遺失了所有的檔案,你只有期望認識的人會在過期後來詢問你另一組公鑰.
 
-You might have a good reason to disable the PGP key before it expires. Perhaps you want to generate a new, stronger PGP key. The easiest way to revoke your own PGP key in Enigmail is through the Enigmail Key Manager. Right-click on your PGP key (it's in bold), and select the "Revoke Key" option.
+你也有其它理由在PGP密鑰到期前把它先取消掉.例如你要建立一組新的，更難破解的PGP密鑰.最簡單的方法是透過Enigmail的密鑰管理員來取消你自己的PGP密鑰.用滑鼠右鍵來選取你的PGP密鑰(它是粗體字), 再選擇「取消密鑰」“Revoke Key” 選項.
+
 ![image](tool_pgplin30.png)
 
-A window will pop up letting you know what happens and asking for your confirmation. Click the "Revoke Key" button.
+此時會彈出一個新視窗讓你知道發生的狀況被要求你的確認.請選擇「取消密鑰」 “Revoke Key”.
+
 ![image](tool_pgplin31.png)
 
-The password window opens, enter your password for the PGP key and click the "OK" button.
+The password window opens密碼視窗將會開啟,請打入你的PGP密鑰密碼然後點選“OK”.
 
-Now a new window will open up letting you know you succeeded. Click the "OK" button.
+現在會再有一個新視窗出現以知會你成功取消.點擊"OK".
 
-When you go back to the Enigmail Key Management window you'll notice a change to your PGP key. It is now grayed out and italicized.
+當你重回Enigmail的密鑰管理員視窗，你將注意到原有PGP密鑰的變化，它現在變成了灰暗的斜體字.
+
 ![image](tool_pgplin32.png)
 
-**b) Revoking a PGP Key with a revocation certificate**
+**b) 透過取消證明來取消PGP密鑰**
 
-As mentioned before, the PGP keys generated by Enigmail automatically expire after five years. So if you lose all your files you can be sure that people will know to ask you for another key once the key has expired.
+如之前提到, Enigmail所建立的PGP密鑰會在5年後自動到期. 所以如果你遺失了所有的檔案,你只有期望認識的人會在過期後來詢問你另一組公鑰.
 
-Like we mentioned before, you might have a good reason to disable the PGP key before it expires.
+如之前提到, 你或許有好理由在PGP密鑰到期前把它先取消掉.
 
-Similarly, others might have good reasons to revoke an existing key.
+相樣地,其它人也有好理由在PGP密鑰到期前把它先取消.
 
-You might get sent revocation certificates from friends as a notice that they want to revoke their key.
+你或許會收到來自友人的取消證明以通知你他們將取消原有的密鑰.
 
-In the previous section you might have noticed that Enigmail generates and imports a revocation certificate internally when you use the Enigmail Key Manager to revoke a key. Since you already have a revocation certificate, you will use the one you generated earlier to revoke your own key.
+前面所提的部份你或許已經注意到當使用Enigmail的密鑰管理員來取消密鑰時，Enigmail 本身會産生和滙入一個取消證明. 既然你已有一個取消的證明，你可以用它來取消你自己的密鑰.
 
-Start with the Enigmail Key Manager and click the "File" menu and select "Import Keys from File."
+啟動Enigmail的密鑰管理員然後點選選單檔案下的「滙入密鑰」“Import Keys from File”功能
+
 ![image](tool_pgplin33.png)
 
-A window will open up so you can select the revocation certificate. Click on the file, and click the "Open" button. You'll get a notification that the certificate was imported successfully and that a key was revoked. Click the "OK" button.
+此時會彈出一個視窗來讓你選擇取消證明，點選正確的檔案再按“OK”，你會得到一個消取證明已成功滙入且密鑰已被取消的通知. 選擇"OK".
+
 ![image](tool_pgplin34.png)
 
-Once you click the "OK" button, you'll be taken back to the Enigmail Key Manager and you see the certificate you revoked greyed out and italicized.
+當你選擇"OK"之後,你會被帶回到Enigmail的密鑰管理員底下，可以看到你所取消的密鑰現在已變成了灰暗的斜體.
+
 ![image](tool_pgplin35.png)
 
-If the key you revoked is your own, and you previously uploaded your public key to the key servers, you will want to re-upload the now-revoked key to the key servers, so that others see not to use it anymore.
+如果取消的是你自己的密鑰,以及你之前上傳到密鑰伺服器上的公鑰,你將要重新上傳已被取消的密鑰到伺服器上好讓其它人知道不要再使用這組公鑰.
 
-Now that you have all the proper tools, try sending your own PGP-encrypted email.
+現在你有了所有適當的工具，試著傳送一封PGP加密的郵件吧.
+
+**

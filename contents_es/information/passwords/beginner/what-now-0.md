@@ -1,10 +1,10 @@
 [Title]: # (¿Y ahora qué?)
 [Order]: # (9)
 
-Swipe right for this lesson's checklist
+Desliza el dedo hacia la derecha para ver la lista de comprobación de esta lección.
 
-Go to the Advanced lesson for advice on how to manage your passwords.
-[Go to Advanced Lesson](umbrella://lesson/passwords/1)
+Vaya a la lección Avanzada para obtener consejos sobre cómo administrar sus contraseñas.
+[Ir a la lección avanzada](umbrella://lesson/passwords/1)
 
-Go to the Expert lesson for advice on what to do if you think you might be forced to hand over your password.
-[Go to Expert Lesson](umbrella://lesson/passwords/2)
+Vaya a la lección de expertos para obtener consejos sobre qué hacer si cree que podría verse obligado a entregar su contraseña.
+[Ir a la Lección de Expertos](umbrella://lesson/passwords/2)

@@ -1,119 +1,118 @@
 [Title]: # ()
 [Order]: # (0)
 
-# KEEPASSX TOOL GUIDE
+# GUÍA DE HERRAMIENTAS KEEPASSX
 
-## KeePassX Tool Guide  
-Secure password management
+## KeePassX Guía de herramientas
+Gestión segura de contraseñas
 
-**Lesson to read: [Passwords](umbrella://lesson/passwords)
-**  
-**Download Location:** [https://www.keepassx.org/downloads](https://www.keepassx.org/downloads)   
-**Computer requirements:** Windows 2000 or higher, Mac OS X 10.4-10.9  
-**Version used in this guide:** KeePassX 0.4.3 (KeePassX is a cross-platform version of the Windows-only KeePass program.)  
-**License:** Free and Open-Source Software (primarily GPLv2)  
-**Other Reading:** [https://www.keepassx.org/forum/](https://www.keepassx.org/forum/)   
-**Level:** Beginner   
-**Time required:** 5 minutes
+**Lección para leer: [Passwords](umbrella://lesson/passwords)**
+**Ubicación de descarga:** [https://www.keepassx.org/downloads](https://www.keepassx.org/downloads)
+**Requisitos de la computadora:** Windows 2000 o superior, Mac OS X 10.4-10.9
+**Versión utilizada en esta guía:** KeePassX 0.4.3 (KeePassX es una versión multiplataforma del programa KeePass solo para Windows).
+**Licencia:** Software gratuito y de código abierto (principalmente GPLv2)
+**Otra lectura:** [https://www.keepassx.org/forum/](https://www.keepassx.org/forum/)
+**Nivel:** Principiante
+**Tiempo requerido:** 5 minutos
 
-**Using KeePassX will give you:** 
+**El uso de KeePassX te dará:**
 
-- The ability to save all your passwords in one convenient and secure database  
-- The ability to create and store many strong passwords without having to remember them
+- La capacidad de guardar todas sus contraseñas en una base de datos conveniente y segura
+- La capacidad de crear y almacenar muchas contraseñas fuertes sin tener que recordarlas
 
-### 1.0 Things to consider with KeePassX
+### 1.0 Cosas a considerar con KeePassX
 
-KeePassX is a password safe-a program you can use to store all your passwords for various websites and services. A password safe is a great tool because it allows you to use different difficult-to-guess passwords for all your services, without needing to remember them. Instead, you only need to remember one master password that allows you to decrypt a database of all your passwords. Password safes are convenient and allow you to organize all of your passwords in one location.
+KeePassX es una contraseña segura, un programa que puede usar para almacenar todas sus contraseñas para varios sitios web y servicios. Una contraseña segura es una gran herramienta porque le permite utilizar contraseñas diferentes difíciles de adivinar para todos sus servicios, sin necesidad de recordarlos. En cambio, solo necesita recordar una contraseña maestra que le permite descifrar una base de datos de todas sus contraseñas. Las cajas fuertes de contraseñas son convenientes y le permiten organizar todas sus contraseñas en una ubicación.
 
-**It should be noted that using a password safe creates a single point of failure and establishes an obvious target for bad actors or adversaries. Research has suggested that many commonly used passwords safes have vulnerabilities, so use caution when determining whether or not this is the right tool for you.**
+** Cabe señalar que el uso de una contraseña segura crea un único punto de falla y establece un objetivo obvio para los malos actores o adversarios. La investigación ha sugerido que muchas de las cajas fuertes de contraseñas comúnmente utilizadas tienen vulnerabilidades, así que tenga cuidado al determinar si esta es o no la herramienta adecuada para usted. **
 
-### 1.1 How KeePassX works
+### 1.1 Cómo funciona KeePassX
 
-KeePassX works with files called password databases, which are exactly what they sound like-files that store a database of all your passwords. These databases are encrypted when they're stored on your computer's hard disk, so if your computer is off and someone steals it they won't be able to read your passwords.
+KeePassX funciona con archivos llamados bases de datos de contraseñas, que son exactamente lo que parecen: archivos que almacenan una base de datos de todas sus contraseñas. Estas bases de datos están encriptadas cuando están almacenadas en el disco duro de su computadora, por lo que si su computadora está apagada y alguien se la roba, no podrán leer sus contraseñas.
 
-Password databases can be encrypted via three methods: using a master password, using a keyfile, or both. Let's look at the pros and cons of each.
+Las bases de datos de contraseñas se pueden encriptar a través de tres métodos: usando una contraseña maestra, usando un archivo de clave, o ambos. Veamos los pros y los contras de cada uno.
 
-### 1.2 Using a master password
+### 1.2 Usar una contraseña maestra
 
-A master password acts like a key-in order to open the password database, you need the correct master password. Without it, nobody can see what's inside the password database. There are a few things to keep in mind when using a master password to secure your password database.
+Una contraseña maestra actúa como una entrada de teclado para abrir la base de datos de contraseñas, necesita la contraseña maestra correcta. Sin él, nadie puede ver lo que hay dentro de la base de datos de contraseñas. Hay algunas cosas que debe tener en cuenta al usar una contraseña maestra para proteger su base de datos de contraseñas.
 
-- _This password will decrypt all of your passwords, so it needs to be strong!_ That means it shouldn't be something easy to guess, and it should also be long-the longer the better! Also, the longer it is, the less you need to worry about having special characters or capitals or numbers. A password that is only made up of six random words (in all lower case, with spaces in between) can be harder to break than a 12-character password made up of upper and lower case letters, numbers, and symbols.  
-- _You need to be able to remember this password!_ Since this one password will allow access to all your other passwords, you need to be able to make sure you can remember it without writing it down. This is another reason to use something like [Diceware](http://world.std.com/~reinhold/diceware.html)-you can use regular words that are easy to remember, instead of trying to remember unnatural combinations of symbols and capital letters.
+- _Esta contraseña descifrará todas sus contraseñas, ¡así que debe ser fuerte!_ Eso significa que no debería ser algo fácil de adivinar, y también debería ser larga, ¡mientras más, mejor! Además, cuanto más largo sea, menos tendrá que preocuparse por tener caracteres especiales o mayúsculas o números. Una contraseña que solo se compone de seis palabras aleatorias (en minúsculas, con espacios intermedios) puede ser más difícil de romper que una contraseña de 12 caracteres formada por letras mayúsculas y minúsculas, números y símbolos.
+- _¡Necesitas poder recordar esta contraseña!_ Dado que esta única contraseña te permitirá acceder a todas tus otras contraseñas, debes asegurarte de que puedas recordarla sin escribirla. Esta es otra razón para utilizar algo como [Diceware](http://world.std.com/~reinhold/diceware.html). Puedes usar palabras regulares que sean fáciles de recordar, en lugar de tratar de recordar combinaciones de símbolos no naturales y mayúsculas
 
-### 1.3 Using a keyfile
+### 1.3 Uso de un archivo de claves
 
-Alternatively, you can use a keyfile to encrypt your password database. A keyfile acts the same way a password would-every time you want to decrypt your password database you will need to provide that keyfile to KeePassX. A keyfile should be stored on a USB drive or some other portable media, and only inserted into your computer when you want to open your password database. The benefit of this is that even if somebody gets access to your computer's hard disk (and thus your password database) they still won't be able to decrypt it without the keyfile stored in the external media. (Additionally, a keyfile can be much harder for an adversary to guess than a normal password.) The downside is that any time you want to access your password database, you'll need to have that external media handy (and if you lose it or it gets damaged, then you won't be able to open your password database).
+Alternativamente, puede usar un archivo de claves para encriptar su base de datos de contraseñas. Un archivo de claves actúa de la misma manera que una contraseña: cada vez que desee descifrar su base de datos de contraseñas deberá proporcionar ese archivo de claves a KeePassX. Un archivo de clave debe almacenarse en una unidad USB u otro medio portátil, y solo debe insertarse en su computadora cuando desee abrir su base de datos de contraseñas. El beneficio de esto es que incluso si alguien accede al disco duro de su computadora (y, por lo tanto, a su base de datos de contraseñas), aún no podrá descifrarlo sin el archivo de claves almacenado en los medios externos. (Además, un archivo de clave puede ser mucho más difícil de adivinar para un adversario que una contraseña normal). El inconveniente es que cada vez que desee acceder a su base de datos de contraseñas, necesitará tener ese medio externo a mano (y si lo pierde) o se daña, entonces no podrás abrir tu base de datos de contraseñas).
 
-Using a keyfile instead of a password is the closest thing to having an actual physical key to open your password database-all you need to do is insert your USB drive, select the keyfile, and presto! If you do choose to use a keyfile instead of a master password, though, make sure your USB drive is stored somewhere safe-_anyone who finds it will be able to open your password database_.
+Usar un archivo de claves en lugar de una contraseña es lo más parecido a tener una clave física real para abrir su base de datos de contraseñas; todo lo que necesita hacer es insertar su unidad USB, seleccionar el archivo de claves y ¡listo! Sin embargo, si eliges usar un archivo de clave en lugar de una contraseña maestra, asegúrate de que tu unidad USB esté almacenada en un lugar seguro: cualquier persona que descubra que podrá abrir tu base de datos de contraseñas.
 
-### 1.4 Using both
+### 1.4 Usando ambos
 
-The most secure method for encrypting your password database is to use both a master password and a keyfile. This way, your ability to decrypt your password database depends on what you know (your master password) and what you have (your keyfile)-and any malicious entity who wants to get access to your passwords will need both. (With that said, keep in mind your threat model-for most home users who just want to store their passwords, a strong master password should be sufficient. But if you're worried about protecting against state-level actors with access to huge computational resources, then the more security the better.)
+El método más seguro para encriptar su base de datos de contraseñas es usar una contraseña maestra y un archivo de claves. De esta forma, su capacidad para descifrar su base de datos de contraseñas depende de lo que sabe (su contraseña maestra) y de lo que tiene (su archivo de claves), y cualquier entidad maliciosa que desee obtener acceso a sus contraseñas necesitará ambas. (Dicho esto, tenga en cuenta su modelo de amenaza: para la mayoría de los usuarios domésticos que solo desean almacenar sus contraseñas, una contraseña maestra sólida debería ser suficiente. Pero si está preocupado por proteger contra los actores estatales con acceso a enormes recursos informáticos recursos, entonces cuanta más seguridad, mejor.)
 
-Now that you understand how KeePassX works, let's get started with actually using it!
+Ahora que comprende cómo funciona KeePassX, ¡comencemos a usarlo realmente!
 
-### 2.0 Getting started with KeePassX
+### 2.0 Primeros pasos con KeePassX
 
-Once you've installed KeePassX from [here](https://www.keepassx.org/downloads), go ahead and launch it. 
+Una vez que haya instalado KeePassX desde [aquí](https://www.keepassx.org/downloads), continúe y ejecútelo.
 
-Once it's started, select "New Database" from the File menu. 
+Una vez que se haya iniciado, seleccione "Nueva base de datos" en el menú Archivo.
 
-A dialog will pop up which will ask you to enter a master password and/or use a keyfile. Select the appropriate checkbox(es) based on your choice. 
+Aparecerá un cuadro de diálogo que le pedirá que ingrese una contraseña maestra y/o use un archivo de claves. Seleccione las casillas de verificación apropiadas según su elección.
 
-Note that if you want to see the password you're typing in (instead of obscuring it with dots) you can click the button with the "eye" to the right. 
+Tenga en cuenta que si desea ver la contraseña que está escribiendo (en lugar de oscurecerla con puntos) puede hacer clic en el botón con el "ojo" a la derecha.
 
-Also note that you can use any existing file as a keyfile-an image of your cat for example, could be used as a keyfile. You'll just need to make sure the file you choose never gets modified, because if its contents are changed then it will no longer work for decrypting your password database. 
+También tenga en cuenta que puede usar cualquier archivo existente como archivo de claves; una imagen de su gato, por ejemplo, podría usarse como un archivo de claves. Solo deberá asegurarse de que el archivo que elija nunca se modifique, porque si se cambia su contenido, ya no funcionará para descifrar su base de datos de contraseñas.
 
-Also be aware that sometimes opening a file in another program can be enough to modify it; the best practice is to not open the file except to unlock KeePassX. (It is safe to move or rename the keyfile, though.)
+También tenga en cuenta que a veces abrir un archivo en otro programa puede ser suficiente para modificarlo; la mejor práctica es no abrir el archivo, excepto para desbloquear KeePassX. (Sin embargo, es seguro mover o cambiar el nombre del archivo de claves).
 
-Once you've successfully initialized your password database, you should save it by choosing "Save Database" from the File menu. (Note that if you want, you can move the password database file later to wherever you like on your hard disk, or move it to other computers-you'll still be able to open it using KeePassX and the password/keyfile you specified before.)
+Una vez que haya inicializado con éxito su base de datos de contraseñas, debe guardarla seleccionando "Guardar base de datos" en el menú Archivo. (Tenga en cuenta que si lo desea, puede mover el archivo de la base de datos de contraseñas más adelante a donde desee en su disco duro, o moverlo a otras computadoras; aún podrá abrirlo usando KeePassX y la contraseña/archivo de claves que especificó antes .)
 
-### 2.1 Organizing passwords
+### 2.1 Organización de contraseñas
 
-KeePassX allows you to organize passwords into "Groups," which are basically just folders. You can create, delete, or edit Groups or Subgroups by going to the "Groups" menu in the menubar, or by right-clicking on a Group in the left-hand pane of the KeePassX window. Grouping passwords doesn't affect any of the functionality of KeePassX-it's just a handy organizational tool.
+KeePassX le permite organizar contraseñas en "Grupos", que básicamente son solo carpetas. Puede crear, eliminar o editar Grupos o Subgrupos yendo al menú "Grupos" en la barra de menú, o haciendo clic con el botón derecho en un Grupo en el panel izquierdo de la ventana de KeePassX. La agrupación de contraseñas no afecta a ninguna de las funciones de KeePassX; es solo una práctica herramienta de organización.
 
-### 2.2 Storing/generating/editing passwords
+### 2.2 Almacenamiento/generación/edición de contraseñas
 
-To create a new password or store a password you already have, right-click on the Group in which you want to store the password, and choose "Add New Entry" (you can also choose "Entries > Add New Entry" from the menubar). For basic password usage, do the following:
+Para crear una nueva contraseña o almacenar una contraseña que ya tiene, haga clic derecho en el Grupo en el que desea almacenar la contraseña y elija "Agregar nueva entrada" (también puede elegir "Entradas> Agregar nueva entrada" en la barra de menú ) Para el uso básico de la contraseña, haga lo siguiente:
 
-- Enter a descriptive title you can use to recognize this password entry in the "Title" field.  
-- Enter the username associated with this password entry in the "Username" field. (This can be blank if there is no username.)  
-- Enter your password in the "Password" field. If you're creating a new password (i.e. if you're signing up for a new website and you want to create a new, unique, random password) click the "Gen" button to the right. This will pop up a password generator dialog, which you can use to generate a random password. There are several options in this dialog, including what sorts of characters to include and how long to make the password.  
- * Note that if you generate a random password, it's not necessary that you remember (or even know!) what that password is! KeePassX stores it for you, and any time you need it you'll be able to copy/paste it into the appropriate program. This is the whole point of a password safe-you can use different long random passwords for _each_ website/service, without even knowing what the passwords are!  
- * Because of this, you should make the password as long as the service will allow and use as many different types of characters as possible.  
- * Once you're satisfied with the options, click "Generate" in the lower right to generate the password, and then click "OK." The generated random password will automatically be entered in the "Password" and "Repeat" fields for you. (If you're not generating a random password, then you'll need to enter your chosen password again in the "Repeat" field.)  
-- Finally, click "OK". Your password is now stored in your password database. To make sure the changes are saved, be sure to save the edited password database by going to "File > Save Database." (Alternatively, if you made a mistake, you can close and then re-open the database file and all changes will be lost.)
+- Ingrese un título descriptivo que puede usar para reconocer esta entrada de contraseña en el campo "Título".
+- Ingrese el nombre de usuario asociado con esta entrada de contraseña en el campo "Nombre de usuario". (Esto puede estar en blanco si no hay un nombre de usuario).
+- Ingrese su contraseña en el campo "Contraseña". Si está creando una nueva contraseña (es decir, si se registra para un nuevo sitio web y desea crear una nueva y única contraseña aleatoria), haga clic en el botón "Generar" a la derecha. Aparecerá un cuadro de diálogo generador de contraseñas, que puede usar para generar una contraseña aleatoria. Hay varias opciones en este cuadro de diálogo, incluido el tipo de caracteres que se incluirán y el tiempo necesario para crear la contraseña.
+ * Tenga en cuenta que si genera una contraseña aleatoria, no es necesario que recuerde (¡ni siquiera sepa!) Cuál es esa contraseña. KeePassX lo almacena por usted, y en cualquier momento que lo necesite podrá copiarlo/pegarlo en el programa apropiado. Este es el objetivo de una contraseña segura: puede usar diferentes contraseñas aleatorias largas para cada sitio/servicio, sin siquiera saber cuáles son las contraseñas.
+ * Debido a esto, debe crear la contraseña siempre que el servicio permita y use tantos tipos diferentes de caracteres como sea posible.
+ * Una vez que esté satisfecho con las opciones, haga clic en "Generar" en la esquina inferior derecha para generar la contraseña, y luego haga clic en "Aceptar". La contraseña aleatoria generada se ingresará automáticamente en los campos "Contraseña" y "Repetir". (Si no está generando una contraseña aleatoria, deberá ingresar nuevamente la contraseña elegida en el campo "Repetir").
+- Por último, haz clic en "Aceptar". Su contraseña ahora está almacenada en su base de datos de contraseñas. Para asegurarse de que se guardan los cambios, asegúrese de guardar la base de datos de contraseñas editada yendo a "Archivo> Guardar base de datos". (Alternativamente, si cometió un error, puede cerrar y luego volver a abrir el archivo de la base de datos y se perderán todos los cambios).
 
-If you ever need to change/edit the stored password, you can just choose the Group it's in and then double-click on its title in the right-hand pane, and the "New Entry" dialog will pop up again.
+Si alguna vez necesita cambiar/editar la contraseña almacenada, puede simplemente elegir el Grupo en el que está y hacer doble clic en su título en el panel derecho, y el cuadro de diálogo "Nueva entrada" aparecerá de nuevo.
 
-### 2.3 Normal use
+### 2.3 Uso normal
 
-In order to use an entry in your password database, simply right-click on the entry and choose "Copy Username to Clipboard" or "Copy Password to Clipboard," and then go to the window/website where you want to enter your username/password, and simply paste in the appropriate field. (Instead of right-clicking on the entry, you can also double-click on the username or password of the entry you want, and the username or password will be automatically copied to your clipboard.)
+Para usar una entrada en su base de datos de contraseñas, simplemente haga clic derecho en la entrada y elija "Copiar nombre de usuario al portapapeles" o "Copiar contraseña al portapapeles", y luego vaya a la ventana/sitio web donde desea ingresar su nombre de usuario/contraseña, y simplemente pegue en el campo apropiado. (En lugar de hacer clic con el botón derecho en la entrada, también puede hacer doble clic en el nombre de usuario o la contraseña de la entrada que desea, y el nombre de usuario o la contraseña se copiarán automáticamente en el portapapeles).
 
-### 2.4 Advanced use
+### 2.4 Uso avanzado
 
-One of the most useful features of KeePassX is that it can automatically type in usernames and passwords for you into other programs when you press a special combination of keys on your keyboard. Note that although this feature is only available under Linux, other password safes like KeePass (on which KeePassX was based) support this feature on other operating systems, and it works similarly.
+Una de las características más útiles de KeePassX es que puede escribir automáticamente nombres de usuario y contraseñas para usted en otros programas cuando presiona una combinación especial de teclas en su teclado. Tenga en cuenta que aunque esta característica solo está disponible en Linux, otras cajas fuertes con contraseñas como KeePass (en la que se basó KeePassX) admiten esta característica en otros sistemas operativos, y funciona de manera similar.
 
-To enable this feature, do the following.
+Para habilitar esta característica, haga lo siguiente.
 
- _1. Choose your global hotkey._ Choose "Settings" from the "Extras" menu, and then choose "Advanced" in the pane on the left. Click inside the "Global Auto-Type Shortcut" field, and then press the shortcut-key combination you wish to use. (For example, press and hold Ctrl, Alt, and Shift, and then hit "p." You can use any key combination you like, but you'll want to make sure that it doesn't conflict with hotkeys other applications use, so try to stay away from things like Ctrl+X or Alt+F4.) Once you're satisfied, click "OK."
+ _1. Elige tu tecla de acceso rápido global. Selecciona "Configuración" en el menú "Extras" y luego elige "Avanzado" en el panel de la izquierda. Haga clic dentro del campo "Acceso directo de tipo automático global" y luego presione la combinación de teclas de método abreviado que desea usar. (Por ejemplo, mantenga presionadas las teclas Ctrl, Alt y Shift, y luego presione "p". Puede usar cualquier combinación de teclas que desee, pero querrá asegurarse de que no entre en conflicto con las teclas rápidas que utilizan otras aplicaciones, así que trate de mantenerse alejado de cosas como Ctrl + X o Alt + F4.) Una vez que esté satisfecho, haga clic en "Aceptar".
 
- _2. Setup auto-type for a specific password._ Make sure that you have the window open where you'll want to enter the password. Then go to KeePassX, find the entry for which you want to enable auto-type, and double-click on the entry's title to open up the "New Entry" dialog.
+ _2. Configure el tipo automático para una contraseña específica. Asegúrese de que tiene la ventana abierta donde desea ingresar la contraseña. Luego vaya a KeePassX, busque la entrada para la cual desea habilitar el tipo automático, y haga doble clic en el título de la entrada para abrir el cuadro de diálogo "Nueva entrada".
 
- _3._ Click the "Tools" button in the bottom left, and select "Auto-Type: Select target window." In the dialog that pops up, expand the drop-down box and choose the title of the window in which you want the username and password to be entered. Click OK, and then click OK again.
+ _3._ Haga clic en el botón "Herramientas" en la parte inferior izquierda, y seleccione "Tipo automático: seleccione la ventana de destino". En el diálogo que aparece, expanda el cuadro desplegable y elija el título de la ventana en la que desea ingresar el nombre de usuario y la contraseña. Haga clic en Aceptar y luego en Aceptar de nuevo.
 
-_Test it out!_ Now in order to autotype your username and password, go to the window/website where you want KeePassX to autotype your username/password for you. Make sure your cursor is in the text box for your username, and then hit the combination of keys you chose above for the global hotkey. As long as KeePassX is open (even if it's minimized or not focused) your username and password should automatically be entered.
+¡Pruébalo! _ Ahora, para autenticar tu nombre de usuario y contraseña, dirígete a la ventana/sitio web donde deseas que KeePassX configure automáticamente tu nombre de usuario/contraseña. Asegúrate de que el cursor esté en el cuadro de texto de tu nombre de usuario, y luego presiona la combinación de teclas que seleccionaste arriba para la tecla de acceso directo global. Siempre que KeePassX esté abierto (incluso si está minimizado o no está enfocado), su nombre de usuario y contraseña deben ingresarse automáticamente.
 
-Note that depending on how the website/window is set up, this feature may not work 100% correctly right off the bat. (It might enter the username but not the password, for example.) You can troubleshoot and customize this feature, though-for more information we recommend looking at the KeePass documentation [here](http://keepass.info/help/base/autotype.html). (Although there are some differences between KeePass and KeePassX, that page should be enough to guide you in the right direction.)
+Tenga en cuenta que, dependiendo de cómo esté configurado el sitio web/la ventana, es posible que esta característica no funcione al 100% correctamente desde el principio. (Podría ingresar el nombre de usuario, pero no la contraseña, por ejemplo). Aunque puede solucionar problemas y personalizar esta característica, para obtener más información, le recomendamos consultar la documentación de KeePass [aquí](http://keepass.info/help/base) /autotipo.html). (Aunque hay algunas diferencias entre KeePass y KeePassX, esa página debería ser suficiente para guiarlo en la dirección correcta).
 
-It is recommended that you use a key combination that is difficult to hit accidentally. You don't want to accidentally paste your bank account password into a Facebook post!
+Se recomienda que use una combinación de teclas que sea difícil de golpear accidentalmente. ¡No querrás pegar accidentalmente la contraseña de tu cuenta bancaria en una publicación de Facebook!
 
-### 2.5 Other features
+### 2.5 Otras características
 
-You can search your database by typing something in the search box (the text box in the toolbar of the main KeePassX window) and hitting enter.
+Puede buscar en su base de datos escribiendo algo en el cuadro de búsqueda (el cuadro de texto en la barra de herramientas de la ventana principal de KeePassX) y presionando enter.
 
-You can also sort your entries by clicking on the column header in the main window.
+También puede ordenar sus entradas haciendo clic en el encabezado de la columna en la ventana principal.
 
-You can also "lock" KeePassX by choosing "File > Lock Workspace," so that you can leave KeePassX open, but have it ask for your master password (and/or keyfile) before you can access your password database again. You can also have KeePassX automatically lock itself after a certain period of inactivity. This can prevent someone from accessing your passwords if you step away from your computer. To enable this feature, choose "Extras > Settings" from the menu and click on the security options. Then check the box that says "Lock database after inactivity of {number} seconds."
+También puede "bloquear" KeePassX seleccionando "Archivo> Bloquear área de trabajo" para que pueda dejar abierto KeePassX, pero solicite su contraseña maestra (y/o archivo de claves) antes de que pueda acceder nuevamente a su base de datos de contraseñas. También puede hacer que KeePassX se bloquee automáticamente después de un cierto período de inactividad. Esto puede evitar que alguien acceda a sus contraseñas si se aleja de su computadora. Para habilitar esta función, elija "Extras> Configuración" en el menú y haga clic en las opciones de seguridad. Luego marque la casilla que dice "Bloquear base de datos después de inactividad de {número} segundos".
 
-KeePassX can also store more than just usernames and passwords. For example, you can create entries to store important things like account numbers, or product keys, or serial numbers, or anything else. There's no requirement that the data you put in the "Password" field actually has to be a password. It can be anything you want-just input what you want to store in the "Password" field instead of an actual password (and leave the "Username" field blank if there's no username) and KeePassX will safely and securely remember it for you.
+KeePassX también puede almacenar más que solo nombres de usuario y contraseñas. Por ejemplo, puede crear entradas para almacenar cosas importantes como números de cuenta, claves de producto, números de serie o cualquier otra cosa. No es necesario que los datos que ingresa en el campo "Contraseña" tengan que ser una contraseña. Puede ser cualquier cosa que desee: simplemente ingrese lo que desea almacenar en el campo "Contraseña" en lugar de una contraseña real (y deje el campo "Nombre de usuario" en blanco si no hay ningún nombre de usuario) y KeePassX lo recordará de manera segura y segura.

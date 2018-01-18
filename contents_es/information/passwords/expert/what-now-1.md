@@ -1,19 +1,17 @@
 [Title]: # (¿Y ahora qué?)
 [Order]: # (12)
 
-Swipe right for this lesson's checklist
+Desliza el dedo hacia la derecha para ver la lista de comprobación de esta lección.
 
-Go to the Beginner lesson for advice on how to create a strong password.
-[Go to Beginner Lesson](umbrella://lesson/passwords/0)
+Vaya a la lección de principiante para obtener consejos sobre cómo crear una contraseña segura.
+[Ir a la lección para principiantes](umbrella://lesson/passwords/0)
 
-Go to the Advanced lesson for advice on how to manage your passwords.
-[Go to Advanced Lesson](umbrella://lesson/passwords/1)
+Vaya a la lección Avanzada para obtener consejos sobre cómo administrar sus contraseñas.
+[Ir a la lección avanzada](umbrella://lesson/passwords/1)
 
-### RELATED LESSONS/TOOLS
+### LECCIONES / HERRAMIENTAS RELACIONADAS
+*	[Lección Protecting Files](umbrella://lesson/protect-files)
+*	[Curso de lecciones](umbrella://lesson/journeys)
 
-*   [Protecting Files lesson](umbrella://lesson/protecting-files)
-*   [Preparation lesson](umbrella://lesson/preparation) 
-
-### FURTHER READING
-
-*   [EFF - Defending Privacy at the U.S. Border guide](https://www.eff.org/wp/defending-privacy-us-border-guide-travelers-carrying-digital-devices)
+### OTRAS LECTURAS
+*	[EFF - Protección de la Privacidad en la Guía de la Frontera de EE.UU.](https://www.eff.org/wp/defending-privacy-us-border-guide-travelers-carrying-digital-devices)

@@ -1,16 +1,16 @@
 [Title]: # (Software de copias de seguridad)
 [Order]: # (4)
 
-# Backup Software
+# Software de copia de seguridad
 
-Cobian Backup is a user-friendly tool that can be set to run automatically, at regularly scheduled times, and to include only files that have changed since your last backup. It can also compress backups to make them smaller. You can learn how to install and run it in our [Cobian Backup](umbrella://lesson/cobian-backup) Guide.
+Cobian Backup es una herramienta fácil de usar que se puede configurar para que se ejecute automáticamente, a intervalos regulares e incluir sólo los archivos que han cambiado desde la última copia de seguridad. También puede comprimir copias de seguridad para hacerlas más pequeñas. Puede aprender cómo instalarlo y ejecutarlo en nuestra Guía [Cobian Backup](umbrella://lesson/cobian-backup).
 
-When using these backup tools, there are a few things you can do to help your backup system work smoothly:
+Cuando utilice estas herramientas de copia de seguridad, hay algunas cosas que puede hacer para que su sistema de respaldo funcione sin problemas:
 
-*   Organise the files on your computer. Try to move all of the folders that contain electronic documents you intend to back up into a single location, such as inside the My Documents folder.
-*   If you use software that stores its data in an application database, you should first determine the location of that database. If it is not in a convenient location, see if the program will allow you to choose a new location for its database. If it does, you can put it in the same folder as your electronic documents.
-*   Create a regular schedule to perform your backup.
-*   Try to establish procedures for all of the staff in your office who do not already have a reliable, secure backup policy. Help your colleagues understand the importance of this issue.
-*   Make sure to test the process of recovering data from your backup. Remember that, in the end, it is the restore procedure, not the backup procedure, which you really care about!
+* Organice los archivos en su computadora. Trate de mover todas las carpetas que contienen documentos electrónicos que desea realizar una copia de seguridad en una sola ubicación, como dentro de la carpeta Mis documentos.
+* Si utiliza un software que almacena sus datos en una base de datos de aplicaciones, primero debe determinar la ubicación de esa base de datos. Si no está en una ubicación conveniente, vea si el programa le permitirá elegir una nueva ubicación para su base de datos. Si lo hace, puede ponerlo en la misma carpeta que sus documentos electrónicos.
+* Crear un horario regular para realizar su copia de seguridad.
+* Trate de establecer procedimientos para todo el personal de su oficina que aún no tenga una política de copia de seguridad segura y segura. Ayude a sus colegas a entender la importancia de este problema.
+* Asegúrese de probar el proceso de recuperación de datos de su copia de seguridad. Recuerde que, al final, es el procedimiento de restauración, no el procedimiento de copia de seguridad, que realmente importa!
 
-Once you have backed up your information or created a back-up process, you need to figure out a safe place to store it. Remember, this needs to be a different location to the one where the original information is! (i.e. if backing up your office files, the usb stick you use should not be kept in the office)
+Una vez que ha copiado su información o creado un proceso de copia de seguridad, es necesario encontrar un lugar seguro para almacenarlo. Recuerde, esto debe ser una ubicación diferente a la que es la información original! (Es decir, si copia de seguridad de sus archivos de oficina, el palo usb que utiliza no debe mantenerse en la oficina)

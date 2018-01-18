@@ -5,8 +5,8 @@
 
 ### 相關課程
 
-*[安全刪除課程](umbrella://lesson/safely-deleting)
+* [安全刪除課程](umbrella://lesson/safely-deleting)
 
 進一步閱讀
 
-* [EFF電子前哨基金會 - 威脅模型] (https://ssd.eff.org/en/module/introduction-threat-modeling)
+* [EFF電子前哨基金會 - 威脅模型](https://ssd.eff.org/en/module/introduction-threat-modeling)

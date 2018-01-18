@@ -1,12 +1,13 @@
 [Title]: # (Equipos de almacenamiento)
 [Order]: # (3)
 
-# Storage devices
+# Dispositivos de almacenamiento
 
-Before you can back up your data, you must decide what kind of storage device you will use.
+Antes de poder realizar una copia de seguridad de sus datos, debe decidir qué tipo de dispositivo de almacenamiento va a utilizar.
 
-*   **USB sticks or external hard drives** - These are inexpensive, offer large capacity, and are easy to overwrite numerous times. USB sticks often have a lifetime of approximately ten years, with external hard drives lasting longer.
-*   **CDs** - CDs store around 700 Megabytes (MB) of data. You will need a CD burner and blank discs. If you want to erase a CD and update the files stored on it, you will need to have a CD-RW burner and rewritable CDs. All major operating systems, including Windows XP, now include built-in software that can write CDs and CD-RWs. These discs may begin to deteriorate after five or ten years.
-*   **DVDs** - DVDs store up to 4.7 Gigabytes (GB) of data. They work much like CDs but require slightly more expensive DVD or DVD-RW burner, and appropriate discs. As with a CD, the data written on a normal DVD will eventually begin to fade.
-*   **Remote server** - A well-maintained network backup server may have almost unlimited capacity, but the speed and stability of your own Internet connection will determine whether or not this is a realistic option. Keep in mind that running a backup server in your own office, while faster than copying information over the Internet, violates the requirement that you keep a copy of your important data in two different physical locations. There are free storage services on the Internet, as well, but you should very carefully consider the risks of putting your information online and you should always encrypt your backups before uploading them to servers run by organisations or individuals whom you do not know and trust.
+* **USB o discos duros externos** - Estos son baratos, ofrecen gran capacidad, y son fáciles de sobrescribir en numerosas ocasiones. Los palillos USB a menudo tienen una vida útil de aproximadamente diez años, con discos duros externos que duran más tiempo.
+* **CDs** - Los CDs almacenan alrededor de 700 megabytes (MB) de datos. Necesitará una grabadora de CD y discos en blanco. Si desea borrar un CD y actualizar los archivos almacenados en él, tendrá que tener un grabador de CD-RW y CD regrabables. Todos los principales sistemas operativos, incluyendo Windows XP, ahora incluyen software incorporado que puede escribir CDs y CD-RWs. Estos discos pueden comenzar a deteriorarse después de cinco o diez años.
+* **DVDs** - Los DVD almacenan hasta 4,7 Gigabytes (GB) de datos. Funcionan de forma similar a los CD, pero requieren un quemador de DVD o DVD-RW algo más caro y discos apropiados. Al igual que con un CD, los datos escritos en un DVD normal eventualmente comenzará a desaparecer.
+* **Servidor remoto** - Un servidor de respaldo de red bien mantenido puede tener capacidad casi ilimitada, pero la velocidad y estabilidad de su propia conexión a Internet determinará si esta es una opción realista. Tenga en cuenta que ejecutar un servidor de copia de seguridad en su propia oficina, mientras que más rápido que copiar información a través de Internet, viola el requisito de que mantenga una copia de sus datos importantes en dos ubicaciones físicas diferentes. Hay servicios de almacenamiento gratuito en Internet, también, pero debe considerar cuidadosamente los riesgos de poner su información en línea y siempre debe encriptar sus copias de seguridad antes de cargarlos a servidores dirigidos por organizaciones o personas que no conocen y confían.
+
 ![image](deleting2.png)

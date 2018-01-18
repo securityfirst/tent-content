@@ -1,17 +1,17 @@
 [Title]: # (¿Y ahora qué?)
 [Order]: # (6)
 
-Swipe right for this lesson's checklist
+Haga un barrido a la derecha para ver la lista de comprobación de esta lección
 
-### RELATED LESSONS/TOOLS
+### LECCIONES / HERRAMIENTAS RELACIONADAS 
 
-*   [Protecting Files lesson](umbrella://lesson/protecting-files)
-*    [Deleting Lesson](umbrella://lesson/safely-deleting)
-*   [TrueCrypt Tool Guide](umbrella://lesson/truecrpyt)
-*   [Thunderbird Tool Guide](umbrella://lesson/thunderbird)
-*   [Cobian Backup Tool Guide](umbrella://lesson/cobian-backup)
-*   [Recuva - File Recovery Tool Guide](umbrella://lesson/recuva)
+* [Lección de Protección de archivos](umbrella://lesson/protecting-files) 
+* [Lección sobre Eliminación](umbrella://lesson/safely-deleting) 
+* [Guía de TrueCrypt](umbrella://lesson/truecrpyt) 
+* [Guía de Thunderbird](lesson://lesson/thunderbird) 
+* [Guía de Cobian Backup Tool](lesson://lesson/cobian-backup) 
+* [Recuva - Guía de la herramienta de recuperación de archivos](umbrella://lesson/recuva) 
 
-### FURTHER READING
+### LECTURAS ADICIONALES
 
-*   [Security in a Box - Chapter 6, Backing up](https://securityinabox.org/chapter-6)
+* [Seguridad en un recuadro - Capítulo 6, Copia de seguridad](https://securityinabox.org/chapter-6)

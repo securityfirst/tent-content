@@ -1,7 +1,7 @@
 [Title]: # (Analizando riesgos)
 [Order]: # (1)
 
-# Threat Modelling
+# Modelado de amenazas
 
-There is no single solution for keeping your information safe. Managing your information securely isn't about which tools you use; it's about understanding the threats you face and how you can counter those threats. To become more secure, you should figure out what you need to protect, and whom you need to protect it from. Threats can change depending on where you're located, what you're doing, and whom you're working with. The easiest way to figure out what solutions are best for you is to carry out a threat modelling assessment.
+No hay una sola solución para mantener su información segura. Administrar su información de forma segura no es acerca de qué herramientas utiliza; Se trata de entender las amenazas que enfrenta y cómo puede contrarrestar esas amenazas. Para ser más seguro, debe averiguar qué necesita proteger y de quién necesita protegerlo. Las amenazas pueden cambiar dependiendo de dónde se encuentre, de lo que esté haciendo y con quién está trabajando. La forma más fácil de averiguar qué soluciones son las mejores para usted es llevar a cabo una evaluación de modelado de amenazas.
 ![image](managing_information2.png)

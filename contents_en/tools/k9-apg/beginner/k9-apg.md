@@ -7,9 +7,9 @@
  Encrypted email for Android
 
 **Lesson to read: [Email](umbrella://lesson/email)**  
-**Download Location:   
-- [APG homepage](http://www.thialfihar.org/projects/apg/)  
-- [K-9 Mail homepage](https://code.google.com/p/k9mail)**  
+**Download Location:**   
+- **[APG homepage](http://www.thialfihar.org/projects/apg/)**
+- **[K-9 Mail homepage](https://code.google.com/p/k9mail)**
 **Phone requirements:**   
 - Android 1.5 or up  
 - APG must be installed before installing K-9 Mail  
@@ -169,10 +169,7 @@ Message encryption in **APG** can be useful if you want to store encrypted notes
 
 **Step 2:** Select "Encrypt" to bring up the encryption screen.
 
-**Step 3:** Press the 
- buttons to either side of **PUBLIC KEY** to change the encryption type to 
-PASSPHRASE
-.
+**Step 3:** Press the buttons to either side of **PUBLIC KEY** to change the encryption type to PASSPHRASE.
 
 **Step 4:** Enter a strong password in the fields provided.
 
@@ -212,8 +209,7 @@ As with message encryption public key is the preferred encryption method but pas
 **Step 4:** On the Recipient selection screen, tick all the people you want to be able to decrypt the file and press "Okay".
 ![image](tool_k919.png)
 
- **Step 5:** Press the 
- buttons to either side of **MESSAGE** to change the encryption type to **FILE**.
+**Step 5:** Press the buttons to either side of **MESSAGE** to change the encryption type to **FILE**.
 
 **Step 6:** Tap the open file icon to open the file browser and select the file you want to encrypt.
 ![image](tool_k920.png)
@@ -231,10 +227,10 @@ As with message encryption public key is the preferred encryption method but pas
 
 **Step 3:** Press the 
  buttons to either side of **PUBLIC KEY** to change the encryption type to **PASSPHRASE
-.
+.**
 
 
-Step 4:** Enter a strong password in the fields provided.
+**Step 4:** Enter a strong password in the fields provided.
 
 **Step 5:** Press the 
  buttons to either side of **MESSAGE** to change the encryption type to FILE.
@@ -287,7 +283,7 @@ Step 4:** Enter a strong password in the fields provided.
 
 **Step 3.** Tap "Open" to run the app for the first time
 
-2.1 How to configure K-9 Mail
+## 2.1 How to configure K-9 Mail
 
 After installing K-9 Mail and running it for the first time you will be presented with a welcome screen describing the features of the mail client. Press "Next" to begin the account setup.
 
@@ -370,4 +366,4 @@ One of the main benefits of using K-9 Mail over other email clients is that it l
 ![image](tool_k941.png)
 
 
-**Note:** as **K-9 Mail** is currently not able to decrypt encrypted attachments, you will need to save the attachments to your phone and decrypt them with APG, as explained in the APG decryption section above. 
+**Note:** as **K-9 Mail** is currently not able to decrypt encrypted attachments, you will need to save the attachments to your phone and decrypt them with APG, as explained in the APG decryption section above.

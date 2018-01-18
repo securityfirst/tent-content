@@ -1,15 +1,16 @@
 [Title]: # (¿Y ahora qué?)
 [Order]: # (5)
 
-Swipe right for this lesson's checklist
+Desliza el dedo hacia la derecha para ver la lista de verificación de esta lección 
 
-### RELATED LESSONS/TOOLS
+### LECCIONES / HERRAMIENTAS RELACIONADAS 
 
-*   [Managing Information Lesson](umbrella://lesson/managing-information)
-*   [Malware Lesson](umbrella://lesson/malware)
-*   [TrueCrypt Tool Guide](umbrella://lesson/truecrypt)
+* [Lección de gestión de información](umbrella://lesson/managing-information) 
 
-### FURTHER READING
+* [Lección de malware](umbrella://lesson/malware) 
+* [Guía de la herramienta TrueCrypt](umbrella://lesson/truecrypt)  
 
-*   [EFF - Encryption](https://ssd.eff.org/en/module/what-encryption)
-*   [Security in a Box - Chapter 4, Encryption](https://securityinabox.org/chapter-4)
+### NUEVA LECTURA 
+
+* [EFF - Encryption](https://ssd.eff.org/en/module/what-encryption) 
+* [Seguridad en una caja - Capítulo 4, Cifrado](https://securityinabox.org/chapter-4)

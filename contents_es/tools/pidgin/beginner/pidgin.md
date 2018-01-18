@@ -1,255 +1,250 @@
 [Title]: # ()
 [Order]: # (0)
 
-# PIDGIN TOOL GUIDE
+# GUÍA DE HERRAMIENTAS PIDGIN
 
-## Pidgin Tool Guide   
-Encrypted instant messaging for Windows
+## Guía de la herramienta Pidgin
+Mensajería instantánea cifrada para Windows
 
-**Lesson to read:   
-- [Sending a message](umbrella://lesson/sending-a-message)**  
-**Download Location:**   
-- [https://pidgin.im/download/](https://pidgin.im/download/)   
-- [https://otr.cypherpunks.ca/](https://otr.cypherpunks.ca/)  
-**Computer requirements:** An internet connection, a computer running Windows XP or higher, and an XMPP (Jabber) account.    
-_(Pidgin is able to work with many chat systems, such as AIM, Facebook, Google Talk, MSN, MXit and Yahoo, but here we'll focus on XMPP, formerly known as Jabber)_  
-**Version used in this guide:**   
-- Windows 7 Ultimate  
-- Pidgin 2.10.9, pidgin-otr 4.0.0-1  
-**License:** Free Software; mix of Free Software licenses  
-**Level:** Beginner  
-**Other reading:** [https://pidgin.im/cgi-bin/mailman/listinfo/support](https://pidgin.im/cgi-bin/mailman/listinfo/support)  
-**Time required:** 20 minutes
+**Lección para leer:**
+- **[Enviar un mensaje](umbrella://lesson/sending-a-message)**
+**Ubicación de descargas:**
+- [https://pidgin.im/download/](https://pidgin.im/download/)
+- [https://otr.cypherpunks.ca/](https://otr.cypherpunks.ca/)
+**Requisitos de la computadora:** Una conexión a Internet, una computadora con Windows XP o superior y una cuenta XMPP (Jabber). _(Pidgin puede trabajar con muchos sistemas de chat, como AIM, Facebook, Google Talk, MSN, MXit y Yahoo, pero aquí nos centraremos en XMPP, anteriormente conocido como Jabber)_
+**Versión utilizada en esta guía:**
+- Windows 7 Ultimate
+-Pidgin 2.10.9, pidgin-otr 4.0.0-1
+**Licencia:** Software libre; combinación de licencias de Software Libre
+**Nivel:** Principiante
+**Otra lectura:** [https://pidgin.im/cgi-bin/mailman/listinfo/support](https://pidgin.im/cgi-bin/mailman/listinfo/support)
+**Tiempo requerido:** 20 minutos
 
-**Using OTR with Pidgin will give you:**  
-- The ability to organise and manage some of the most popular instant messaging services through a single program.  
-- The ability to have encrypted chats on instant messenger, without the server logging those chats.  
-- The ability to make sure that the person you are chatting with really is that person.
+**El uso de OTR con Pidgin le dará:**
+- La capacidad de organizar y administrar algunas de las servicios de mensajería instantánea más populares a través de un solo programa.
+- La capacidad de tener chats cifrados en mensajería instantánea, sin que el servidor inicie sesión en esos chats.
+- La capacidad de asegurarse de que la persona con la que está chateando realmente es esa persona.
 
-### 1.0 Before you start 
+### 1.0 Antes de comenzar
 
-Pidgin is an easy-to-use, instant messaging client for Windows that uses a protocol called OTR (Off-the-record), which allows users to have confidential conversations. 
+Pidgin es un cliente de mensajería instantánea fácil de usar para Windows que usa un protocolo llamado OTR (Off-the-record), que permite a los usuarios mantener conversaciones confidenciales.
 
-- Note: OTR should not be confused with Google's "Off the record," which just disables chat logging, and does not have encryption or verification capabilities.  
-- Pidgin supports the following IM services: AIM, Bonjour, Gadu-Gadu, Google Talk, Groupwise, ICQ, IRC, MSN, MXit,MySpaceIM, SILC, SIMPLE, Sametime, Yahoo!, Zephyr and any IM clients running the XMPP messaging protocol.  
-- Pidgin does not permit communication between different IM services. For instance, if you are using Pidgin to access your Google Talk account, you will not be able to chat with a friend using an ICQ account.  
-- However, Pidgin can be configured to manage multiple accounts based on any of the supported messaging protocols. That is, you may simultaneously use both Gmail and ICQ accounts, and chat with correspondents using either of those specific services (which are supported by Pidgin).  
-- Pidgin, automatically logs conversations by default, however you do have the ability to disable this feature. That said, you do not have control over the person with whom you are chatting-she could be logging or taking screenshots of your conversation, even if you yourself have disabled logging.
+- Nota: OTR no debe confundirse con "Off the record" de Google, que solo deshabilita el registro de chat, y no tiene capacidades de cifrado o verificación.
+-Pidgin admite los siguientes servicios de mensajería instantánea: AIM, Bonjour, Gadu-Gadu, Google Talk, Groupwise, ICQ, IRC, MSN, MXit, MySpaceIM, SILC, SIMPLE, Sametime, Yahoo !, Zephyr y cualquier cliente de mensajería instantánea que ejecute XMPP protocolo de mensajes.
+- Pidgin no permite la comunicación entre diferentes servicios de mensajería instantánea. Por ejemplo, si está usando Pidgin para acceder a su cuenta de Google Talk, no podrá chatear con un amigo usando una cuenta ICQ.
+- Sin embargo, Pidgin puede configurarse para administrar varias cuentas según cualquiera de los protocolos de mensajería compatibles. Es decir, puede usar simultáneamente cuentas de Gmail e ICQ, y chatear con corresponsales usando cualquiera de esos servicios específicos (que son compatibles con Pidgin).
+- Pidgin, automáticamente registra las conversaciones por defecto, sin embargo, usted tiene la capacidad de desactivar esta función. Dicho esto, no tienes control sobre la persona con la que estás chateando: podría iniciar sesión o tomar capturas de pantalla de tu conversación, incluso si tú mismo has desactivado el registro.
 
-**Why should I use Pidgin + OTR?**
-When you have a chat conversation using Google Hangouts or Facebook chat on the Google or Facebook websites, that chat is encrypted using HTTPS, which means the content of your chat is protected from hackers and other third parties while it's in transit. It is not, however, protected from Google or Facebook, which have the keys to your conversations and can hand them over to authorities.
+**¿Por qué debería usar Pidgin + OTR?**
+Cuando tienes una conversación de chat usando Google Hangouts o chat de Facebook en los sitios web de Google o Facebook, ese chat se encripta usando HTTPS, lo que significa que el contenido de tu chat está protegido de piratas informáticos y otros terceros mientras está en tránsito. Sin embargo, no está protegido de Google o Facebook, que tienen las claves de sus conversaciones y puede entregarlas a las autoridades.
 
-After you have installed Pidgin, you can sign in to it using multiple accounts at the same time. For example, you could use Google Hangouts, Facebook, and XMPP simultaneously. Pidgin also allows you to chat using these tools without OTR. Since OTR only works if both people are using it, this means that even if the other person does not have it installed, you can still chat with them using Pidgin.
+Después de haber instalado Pidgin, puede iniciar sesión usando varias cuentas al mismo tiempo. Por ejemplo, puede usar Google Hangouts, Facebook y XMPP simultáneamente. Pidgin también te permite chatear usando estas herramientas sin OTR. Dado que OTR solo funciona si las dos personas lo están usando, esto significa que incluso si la otra persona no lo tiene instalado, puedes seguir chateando con Pidgin.
 
-Pidgin also allows you to do out-of-band verification to make sure that you're talking to the person you think you're talking to. For every conversation, there is an option that will show you the key fingerprints it has for you and the person with whom you are chatting. A "key fingerprint " is a string of characters like "342e 2309 bd20 0912 ff10 6c63 2192 1928," that's used to verify a longer public key. Exchange your fingerprints through another communications channel, such as Twitter DM or email, to make sure that no one is interfering with your conversation.
+Pidgin también te permite hacer una verificación fuera de banda. asegúrese de estar hablando con la persona con la que cree que está hablando. Para cada conversación, hay una opción que le mostrará las huellas dactilares clave que tiene para usted y la persona con la que está chateando. Una "huella dactilar de clave" es una cadena de caracteres como "342e 2309 bd20 0912 ff10 6c63 2192 1928," que se usa para verificar una clave pública más larga. Intercambie sus huellas dactilares a través de otro canal de comunicación, como Twitter DM o correo electrónico, para asegurarse de que nadie interfiera con su conversación.
 
-**Limitations: When should I not use Pidgin + OTR?**
+**Limitaciones: ¿cuándo no debería usar Pidgin + OTR?**
 
-Pidgin is a complex program, which has not been written with security as a top priority. It almost certainly has bugs, some of which might be used by governments or even big companies to break into computers that are using it. Using Pidgin to encrypt your conversations is a great defence against the kind of untargeted surveillance that is used to spy on everyone's Internet conversations, but if you think you will be personally targeted by a well-resourced attacker (like a nation-state), you should consider stronger precautions, such as PGP -encrypted email.
+Pidgin es un programa complejo, que no se ha escrito con la seguridad como una prioridad principal. Es casi seguro que tiene errores, algunos de los cuales podrían ser utilizados por los gobiernos o incluso las grandes empresas para entrar en las computadoras que lo están usando. Usar Pidgin para encriptar tus conversaciones es una gran defensa contra el tipo de vigilancia no focalizada que se utiliza para espiar las conversaciones de Internet de todos, pero si crees que serás atacado personalmente por un atacante con recursos suficientes (como un estado-nación), debería considerar precauciones más estrictas, como el correo electrónico PGP encriptado.
 
-### 2 Downloading and installing
+### 2 Descarga e instalación
 
-### 2.1 Getting Pidgin
+### 2.1 Obtención de Pidgin
 
-You can get Pidgin on Windows by downloading the installer from the Pidgin download page.
+Puede obtener Pidgin en Windows descargando el instalador de la descarga de Pidgin página.
 ![image](tool_pidgin1.png)
 
-Click on the _purple_ DOWNLOAD tab. _**Don't** click the green Download Now button because you'll want to choose a different installer file._ 
-You'll be taken to the download page.
+Haga clic en la pestaña _purple_ DOWNLOAD. _ **No** haga clic en el botón verde Descargar ahora porque querrá elegir un archivo de instalación diferente. _
+Se lo dirigirá a la página de descarga.
 ![image](tool_pidgin2.png)
 
-_Again, **don't** click the green Download Now button because we want to choose a different installer file._ 
-The default installer for Pidgin is small because it doesn't contain all the information and downloads the files for you. This sometimes fails so you will have a better experience with the "offline installer" which contains all the necessary installation material. 
+_De nuevo, **no** haga clic en el botón verde Descargar ahora porque queremos elegir un archivo de instalación diferente ._
+El instalador predeterminado para Pidgin es pequeño porque no contiene toda la información y descarga los archivos para tú. A veces, esto falla, por lo que tendrá una mejor experiencia con el "instalador sin conexión" que contiene todo el material de instalación necesario.
 
-Click the "**offline installer**" link. You will be taken to a new page titled "Sourceforge" and after a few seconds, a small popup will ask whether you want to save a file.
+Haga clic en el enlace "**instalador sin conexión**". Se lo dirigirá a una nueva página titulada "Sourceforge" y después de unos segundos, una pequeña ventana emergente le preguntará si desea guardar un archivo.
 
-- Note: While Pidgin's download page uses "HTTPS" and is therefore relatively safe from tampering, the website it directs you to to download the Windows version of Pidgin is currently Sourceforge, which uses unencrypted "HTTP," and therefore offers no protection. That means that the software you download could be tampered with before you download it. This risk would mostly come from either someone with access to the local Internet infrastructure attempting to conduct targeted surveillance against you personally (for instance a malicious hot-spot provider), or a state or government planning to distribute compromised software to many users. The [HTTPS Everywhere](https://www.eff.org/https-everywhere) extension can rewrite Sourceforge download URLs to HTTPS, so it's recommended you install HTTPS Everywhere before downloading any other software. Additionally, in our experience, Sourceforge often has confusing full-page ads on its download pages that can trick people into installing something they may not want to.  You can install an ad blocker before any other software to avoid these confusing ads. 
+- Nota: Si bien la página de descarga de Pidgin usa "HTTPS" y, por lo tanto, está relativamente a salvo de la manipulación, el sitio web que le indica que descargue la versión de Windows de Pidgin es actualmente Sourceforge, que utiliza "HTTP," sin cifrar y, por lo tanto, no ofrece protección. Eso significa que el software que descarga puede ser alterado antes de descargarlo. Este riesgo provendría principalmente de alguien con acceso a la infraestructura de Internet local que intenta realizar una vigilancia específica contra usted personalmente (por ejemplo, un proveedor de puntos de acceso malicioso), o un estado o gobierno que planea distribuir software comprometido a muchos usuarios. La extensión [HTTPS en todas partes](https://www.eff.org/https-everywhere) puede reescribir las URL de descarga de Sourceforge en HTTPS, por lo que se recomienda que instale HTTPS en todas partes antes de descargar cualquier otro software. Además, en nuestra experiencia, Sourceforge a menudo tiene anuncios confusos de página completa en sus páginas de descarga que pueden engañar a las personas para que instalen algo que quizás no quieran. Puede instalar un bloqueador de anuncios antes que cualquier otro software para evitar estos anuncios confusos.
 
-Many browsers will ask you to confirm whether you want to download this file. Internet Explorer 11 shows a bar at the bottom of the browser window with an orange border.
+Muchos navegadores le solicitarán que confirme si desea descargar este archivo. Internet Explorer 11 muestra una barra en la parte inferior de la ventana del navegador con un borde naranja.
 ![image](tool_pidgin3.png)
 
-For any browser, it is best to first save the file before proceeding, so click the "Save" button. By default, most browsers save downloaded files in the Downloads folder.
+Para cualquier navegador, es mejor guardar primero el archivo antes de continuar, así que haga clic en "Guardar" botón. De forma predeterminada, la mayoría de los navegadores guardan los archivos descargados en la carpeta de descargas.
 
-### 2.2 Getting OTR
+### 2.2 Obtención de OTR
 
-You can get pidgin-otr, the OTR plugin for Pidgin, by downloading the installer from the [OTR download page](https://otr.cypherpunks.ca/).
-![image](tool_pidgin4.png)
-
-Click the "Downloads" tab to be taken to the "Downloads" section of the page. Click the "Win32 installer for pidgin" link.
+Puede obtener pidgin-otr, el complemento OTR para Pidgin, descargando el instalador de la [página de descarga OTR](https://otr.cypherpunks.ca/).⏎![image](tool_pidgin4.png)⏎⏎Haga clic en la pestaña "Descargas" para ir a la sección "Descargas" de la página. Haga clic en el enlace "Win32 installer for pidgin".
 ![image](tool_pidgin5.png)
 
-Many browsers will ask you to confirm whether you want to download this file. Internet Explorer 11 shows a bar at the bottom of the browser window with an orange border.
+Muchos navegadores le pedirán que confirme si desea descargar este archivo. Internet Explorer 11 muestra una barra en la parte inferior de la ventana del navegador con un borde naranja.
 ![image](tool_pidgin6.png)
 
-For any browser, it is best to first save the file before proceeding, so click the "Save" button. By default, most browsers save downloaded files in the Downloads folder.
+Para cualquier navegador, es mejor guardar primero el archivo antes de continuar, haga clic en "Guardar" botón. De forma predeterminada, la mayoría de los navegadores guardan los archivos descargados en la carpeta de descargas.
 
-After downloading Pidgin and pidgin-otr you should have two new files in your 
+Después de descargar Pidgin y pidgin-otr, debe tener dos archivos nuevos en su carpeta
 
-Downloads folder:
+Downloads:
 ![image](tool_pidgin7.png)
 
-### 2.3 Installing Pidgin
+### 2.3 Instalación de Pidgin
 
-Keep the Windows Explorer window open and double-click on pidgin-2.10.9-offline.exe. You'll be asked if you want to allow the installation of this program. Click the "Yes" button.
-![image](tool_pidgin8.png)
+Mantenga abierta la ventana del Explorador de Windows y haga doble clic en pidgin-2.10.9-offline.exe. Se le preguntará si desea permitir la instalación de este programa. Haga clic en el botón "Sí".
+![imagen](tool_pidgin8.png)
 
-A small window opens asking you to select a language. Click the "OK" button.
+Se abre una ventana pequeña que le solicita que seleccione un idioma. Haga clic en el botón "Aceptar".
 ![image](tool_pidgin9.png)
 
-A window opens up giving you a quick overview of the installation process. Click the "Next" button.
+Se abrirá una ventana que le brindará una descripción general rápida del proceso de instalación. Haga clic en el botón "Siguiente".
 ![image](tool_pidgin10.png)
 
-Now you get a license overview. Click the "Next" button.
+Ahora obtiene una descripción general de la licencia. Haga clic en el botón "Siguiente".
 ![image](tool_pidgin11.png)
 
-Now you can see what different components are installed. Don't change the settings. Click the "Next" button.
+Ahora puede ver qué componentes están instalados. No cambie la configuración. Haga clic en el botón "Siguiente".
 ![image](tool_pidgin12.png)
 
-Now you can see where Pidgin will be installed. Don't change this information. Click the "Next" button.
-![image](tool_pidgin13.png)
+Ahora puede ver dónde se instalará Pidgin. No cambie esta información. Haga clic en el botón "Siguiente".
+![imagen](tool_pidgin13.png)
 
-Now you'll see a window with scrolling text until it says "Installation Complete." Click the "Next" button.
+Ahora verá una ventana con texto desplazable hasta que aparezca "Instalación completa." Haga clic en "Siguiente" button.
 ![image](tool_pidgin14.png)
 
-Finally, you'll see the last window of the Pidgin installer. Click the "Finish" button.
+Por último, verá la última ventana del instalador de Pidgin. Haga clic en el botón "Finish".
 ![image](tool_pidgin15.png)
 
-### 2.4 Installing pidgin-otr
+### 2.4 Instalación de pidgin-otr
 
-Go back to the Windows Explorer window and open and double-click on pidgin-otr-4.0.0-1.exe. You'll be asked if you want to allow the installation of this program. Click the "Yes" button.
-![image](tool_pidgin16.png)
+Vuelva a la ventana del Explorador de Windows y ábrala y haga doble clic en pidgin -otr-4.0.0-1.exe. Se le preguntará si desea permitir la instalación de este programa. Haga clic en el botón "Sí".
+![imagen](tool_pidgin16.png)
 
-A window opens up giving you a quick overview of the installation process. Click the "Next" button.
+Se abrirá una ventana que le brindará una descripción general rápida del proceso de instalación. Haga clic en el botón "Siguiente".
 ![image](tool_pidgin17.png)
 
-Now you get a license overview. Click the "I Agree" button.
+Ahora obtiene una descripción general de la licencia. Haga clic en el botón "Acepto".
 ![image](tool_pidgin18.png)
 
-You will see where pidgin-otr will be installed. Don't change this information. Click the "Install" button.
+Verá dónde se instalará pidgin-otr. No cambie esta información. Haga clic en el botón "Instalar".
 ![image](tool_pidgin19.png)
 
-Finally, you'll see the last window of the pidgin-otr installer. Click the "Finish" button.
+Por último, verá la última ventana del instalador pidgin-otr. Haga clic en el botón "Finish".
 ![image](tool_pidgin20.png)
 
-### 3 Configuration
+### 3 Configuración
 
-### 3.1 Configuring Pidgin
+### 3.1 Configuración de Pidgin
 
-Go to the Start menu, click the Windows icon, and select Pidgin from the menu.
+Vaya al menú Inicio, haga clic en Icono de Windows, y seleccione Pidgin en el menú.
 ![image](tool_pidgin21.png)
 
-### 3.2 Adding an account
+### 3.2 Agregar una cuenta
 
-When Pidgin launches for the first time, you will see this welcome window giving you an option to add an account. Since you don't have an account configured yet, click the "Add" button.
+Cuando Pidgin se lance por primera vez, verá que esta ventana de bienvenida está dando tienes la opción de agregar una cuenta. Como aún no tiene una cuenta configurada, haga clic en el botón "Agregar".
 ![image](tool_pidgin22.png)
 
-Now you'll see the "Add Account" window. 
+Ahora verá la ventana "Agregar cuenta".
 
-**_Pidgin is able to work with many chat systems, such as AIM, Facebook, GoogleTalk, MSN, MXit and Yahoo, but here we'll focus on XMPP, formerly known as Jabber._**
+**_Pidgin puede trabajar con muchos sistemas de chat, como AIM, Facebook, GoogleTalk, MSN, MXit y Yahoo, pero aquí nos centraremos en XMPP, antes conocido como Jabber._**
 
-At the Protocol entry, select the "XMPP" option.
+En la entrada Protocolo, seleccione la opción "XMPP".
 
-At the Username entry, enter your XMPP username.
+En la entrada Nombre de usuario, ingrese su nombre de usuario XMPP.
 
-At the Domain entry, enter the domain of your XMPP account.
+En la entrada Dominio, ingrese el dominio de su cuenta XMPP.
 
-At the Password entry, enter your XMPP password.
+En la entrada Contraseña , ingrese su contraseña de XMPP.
 
-Checking the box by the "Remember password" entry will make accessing your account easier. Be aware that by clicking "Remember password," your password will be saved on the computer, making it accessible to anyone who may happen to access your computer. If this is a concern, do not check this box. You will then be required to enter your XMPP account password every time you start Pidgin.
+Comprobar el cuadro con la entrada "Recordar contraseña" facilitará el acceso a su cuenta. Tenga en cuenta que al hacer clic en "Recordar contraseña," se guardará su contraseña en la computadora, haciéndola accesible a cualquier persona que pueda tener acceso a su computadora. Si esto es una preocupación, no marque esta casilla. A continuación, se le pedirá que ingrese la contraseña de su cuenta XMPP cada vez que inicie Pidgin.
 ![image](tool_pidgin23.png)
 
-### 3.3 Adding a Buddy
+### 3.3 Agregar un amigo
 
-Now you will want to add someone to chat with. Click the "Buddies" menu and select "Add Buddy." An "Add Buddy" window will open.
+Ahora querrá agregar a alguien a chatear con. Haga clic en el menú "Amigos" y seleccione "Agregar amigo". Se abrirá una ventana "Añadir amigo".
 ![image](tool_pidgin24.png)
 
-At the "Add Window," you can enter the username of the person you want to chat with. This other user does not have to be from the same server, but does have to use the same protocol, such as XMPP.
+En "Agregar ventana "puede ingresar el nombre de usuario de la persona con la que desea chatear. Este otro usuario no tiene que ser del mismo servidor, pero tiene que usar el mismo protocolo, como XMPP.
 
-At the "Buddy's username" entry, enter your buddy's username with the domain name. This will look like an email address.
+En la entrada "Buddy's username ", ingrese el nombre de usuario de su amigo con el nombre de dominio. Esto se verá como una dirección de correo electrónico.
 
-At the "(Optional) Alias" entry, you can enter a name of your choice for your buddy. This is entirely optional, but can help if the XMPP account of the person you are chatting with is hard to remember.
+En la entrada "(Opcional) Alias ​​", puede ingresar un nombre de su elección para su amigo. Esto es completamente opcional, pero puede ayudar si la cuenta XMPP de la persona con la que está chateando es difícil de recordar.
 
-Click the "Add" button.
-![image](tool_pidgin25.png)
+Haga clic en el botón "Agregar".
+![imagen](tool_pidgin25.png)
+\ Una vez que haya hecho clic en el botón "Agregar ", Boris recibirá un mensaje preguntándole si le da autorización para que lo agregue. Una vez que Boris lo haga, él agregará su cuenta y obtendrá la misma solicitud.
 
-Once you have clicked the "Add" button, Boris will get a message asking if he gives authorization for you to add him. Once Boris does, he adds your account and you will get the same request. 
-
-Click the "Authorize" button.
+Haga clic en el botón "Autorizar".
 ![image](tool_pidgin26.png)
 
-### 3.4 Configuring the OTR plugin
+### 3.4 Configurando el plugin OTR
 
-Now you will configure the OTR plugin so you can chat securely. Click the "Tools" menu and select the "Plugins" option.
+Ahora configurará el plugin OTR para que pueda chatear de manera segura . Haga clic en el menú "Herramientas" y seleccione la opción "Complementos".
 ![image](tool_pidgin27.png)
 
-Scroll down to the "Off-the-Record Messaging" option, and check the box. 
+Desplácese hasta la opción "Off-the-Record Messaging" y compruebe la caja.
 
-Click on the "Off-the-Record Messaging" entry and click the "Configure Plugin" button.
+Haga clic en la entrada "Off-the-Record Messaging" y haga clic en el botón "Configurar Plugin".
 ![image](tool_pidgin28.png)
 
-Now you will see the "Off-the-Record Messaging" configuration window. Notice that is says "No key present." 
+Ahora verá "Off -la ventana de configuración Registrar Mensajería". Observe que dice "No hay ninguna clave presente. "
 
-Click the "Generate" button.
-![image](tool_pidgin29.png)
+Haga clic en el botón "Generar".
+![imagen](tool_pidgin29.png)
 
-Now a small window will open and generate a key. When it is done, click the "OK" button.
+Ahora se abrirá una pequeña ventana y generará una clave. Cuando termine, haga clic en el botón "OK".
 ![image](tool_pidgin30.png)
 
-You'll see new information: a 40 character string of text, broken up into 5 groups of eight characters. This is your OTR fingerprint. Click the "Close" button.
+Verá nueva información: una cadena de 40 caracteres de texto, dividida en 5 grupos de ocho caracteres . Esta es su huella dactilar OTR. Haga clic en el botón "Cerrar".
 ![image](tool_pidgin31.png)
 
-Now click the "Close" button on the Plugins window.
+Ahora haga clic en el botón "Cerrar" en la ventana de complementos.
 
-### 4.0 Chatting securely
+### 4.0 Conversación segura
 
-You are now able to chat with Boris. The two of you can send messages back and forth. However, we're still not chatting securely. Even if you are connecting to the XMPP server, it is possible that the connection between you and Boris is not secure from snooping. 
+Ahora puedes chatear con Boris. Los dos pueden enviar mensajes de ida y vuelta. Sin embargo, todavía no estamos chateando de forma segura. Incluso si se está conectando al servidor XMPP, es posible que la conexión entre usted y Boris no sea segura desde el espionaje.
 
-If you look at the chat window, notice that it says "Not private" in red on the bottom right. Click the "Not private" button.
-![image](tool_pidgin32.png)
+Si mira la ventana de chat, observe que dice "No privada" en rojo en la parte inferior derecha. Haga clic en el botón "No privado".
+![imagen](tool_pidgin32.png)
 
-A menu will open up, select "Authenticate buddy."
+Se abrirá un menú, seleccione "Authenticate buddy. "
 ![image](tool_pidgin33.png)
 
-A window will open up. You are asked: "How would you like to authenticate your buddy?"
+Se abrirá una ventana. Se le preguntará: "¿Cómo le gustaría autenticar a su amigo? "
 
-The drop-down has three options:
+El menú desplegable tiene tres opciones:
 
-**Option 1: Shared secret**
+**Opción 1: secreto compartido**
 
-A shared secret is a line of text you and the person you want to chat have agreed to use ahead of time. You should have shared this in person and never have exchanged it over insecure channels such as email or Skype.
+Un secreto compartido es una línea del texto que usted y la persona que desea conversar han acordado usar con anticipación. Debes haber compartido esto en persona y nunca lo has intercambiado a través de canales inseguros como el correo electrónico o Skype.
 
-You and your buddy need to enter this text together. Click the "Authenticate" button.
+Tú y tu amigo deben ingresar este texto juntos. Haga clic en el botón "Autenticar".
 ![image](tool_pidgin34.png)
 
-The shared secret verification is useful if you and your buddy have already made arrangements to chat in the future but haven't yet created OTR fingerprints on the computer you are using.
+La verificación secreta compartida es útil si usted y su amigo ya han hecho arreglos para conversar en el futuro pero aún no han creado OTR huellas dactilares en la computadora que está utilizando.
 
-**Option 2: Manual fingerprint verification**
+**Opción 2: verificación manual de huellas dactilares**
 
-Manual fingerprint verification is useful if you were already given your buddy's fingerprint and are now connecting with Pidgin. This will not be useful if your buddy changed computers or had to create new fingerprints.
+La verificación manual de huellas digitales es útil si ya recibió la huella dactilar de su amigo y ahora se está conectando con Pidgin. Esto no será útil si su amigo cambió de computadora o tuvo que crear nuevas huellas dactilares.
 
-If the fingerprint you were given and the fingerprint on the screen match, select "I have" and click the "Authenticate" button.
+Si la huella digital que recibió y la huella digital en la pantalla coinciden, seleccione "Tengo" y haga clic en el botón "Autenticar" .
 ![image](tool_pidgin35.png)
 
-**Option 3: Question and answer**
+**Opción 3: Pregunta y respuesta**
 
-Question and answer verification is useful if you know your buddy but have not established a shared secret nor had a chance to share fingerprints. This method is useful to establish verification based on something both of you know, like a shared event or memory.
+La verificación de preguntas y respuestas es útil si conoce a su amigo pero no ha establecido un secreto compartido ni tuvo una oportunidad de compartir huellas dactilares. Este método es útil para establecer la verificación basada en algo que ambos conocen, como un evento compartido o memoria.
 
-Enter the question you want to ask. Don't make it so simple that someone can guess it easily, but don't make it impossible. An example of a good question would be "Where did we go for dinner in Minneapolis?" And example of a bad question would be "Can you buy apples in Tokyo?"
+Ingrese la pregunta que desea formular. No lo hagas tan simple que alguien pueda adivinarlo fácilmente, pero no lo hagas imposible. Un ejemplo de una buena pregunta sería "¿A dónde fuimos a cenar a Minneapolis?" Y el ejemplo de una pregunta incorrecta sería "¿Se pueden comprar manzanas en Tokio? "
 
-**The answers must match exactly; so keep that in mind when choosing an answer to your question. Capitalization matters, so you might consider including a note like (for example: use capitals, lower case).**
+**Las respuestas deben coincidir exactamente; así que tenlo en cuenta al elegir una respuesta a tu pregunta. Las mayúsculas importan, por lo que podría considerar incluir una nota como (por ejemplo: use letras mayúsculas, minúsculas).**
 
-Enter the question and answer then click the "Authenticate" button.
-![image](tool_pidgin36.png)
+Ingrese la pregunta y la respuesta, luego haga clic en el botón "Autenticar".
+![imagen](tool_pidgin36 .png)
 
-Your buddy will have a window open with the question displayed asking for the answer. They will have to answer and click the "Authenticate" button. Then they will receive a message letting them know if the authentication was successful.
+Tu amigo tendrá una ventana abierta con la pregunta que se muestra pidiendo la respuesta. Tendrán que responder y hacer clic en el botón "Autenticar". Luego, recibirán un mensaje que les informará si la autenticación fue exitosa.
 ![image](tool_pidgin37.png)![image](tool_pidgin38.png)
 
-Once your buddy had completed the authentication procedure, you will get a window letting you know the authentication succeeded.
+Una vez que su amigo haya completado el procedimiento de autenticación, obtendrá una ventana que le permite saber que la autenticación fue exitosa.
 ![image](tool_pidgin39.png)
 
-Your buddy should also verify your account so that both of you can be sure that the communication is secure. Here is what it would like for Akiko and Boris. Notice the green "Private" icons in the lower right of the chat window.
+Tu amigo también debe verificar tu cuenta para que ambos puedan estar seguros de que la comunicación es segura. Esto es lo que le gustaría a Akiko y Boris. Observe los iconos verdes "Privado" en la esquina inferior derecha de la ventana de chat.
 ![image](tool_pidgin40.png)
 
-### 5 Working with other software
+### 5 Trabajar con otro software
 
-The mechanisms to verify the authenticity should work between different chat software such as Jitsi, Pidgin, Adium, and Kopete. You are not required to use the same chat software to use chat over XMPP and OTR, but sometimes there are errors in the software. Adium, a chat software for OS X, has an error receiving the Question and Answer verification. If you find that verifying others is failing for you when you are using Question and Answer verification, check whether they are using Adium and see if you can use another verification method.
+Los mecanismos para verificar la autenticidad debería funcionar entre diferentes software de chat como Jitsi, Pidgin, Adium y Kopete. No es necesario que use el mismo software de chat para usar el chat a través de XMPP y OTR, pero a veces hay errores en el software. Adium, un software de chat para OS X, tiene un error al recibir la verificación de Pregunta y Respuesta. Si encuentra que la verificación de otros está fallando para usted cuando usa la verificación de preguntas y respuestas, verifique si están usando Adium y si puede usar otro método de verificación.

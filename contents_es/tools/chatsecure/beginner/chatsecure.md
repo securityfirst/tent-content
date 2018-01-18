@@ -1,62 +1,61 @@
 [Title]: # ()
 [Order]: # (0)
 
-# CHATSECURE TOOL GUIDE
+# GUÍA DE HERRAMIENTAS DE CHATSECURE
 
-## ChatSecure Tool Guide  
-Secure texting for iPhone and Android
+## Guía de la herramienta ChatSecure
+Textos seguros para iPhone y Android
 
-**Lesson to read: [Sending a Message](umbrella://lesson/sending-a-message)**  
-**Download location:** [https://chatsecure.org](https://chatsecure.org) ; can also be downloaded from the [Apple App store](https://itunes.apple.com/us/app/chatsecure/id464200063) or the [Google Play store](https://play.google.com/store/apps/details?id=info.guardianproject.otr.app.im).  
-**System requirements:** iOS 6.0, Android (varies)  
-**Version used in this guide:** 2.2.4 (iPhone), 13.1.2 (Android)  
-**License:** Apple, GPLv3; Android, Apache 2.0  
-**Other reading:** [https://guardianproject.info/apps/chatsecure/](https://guardianproject.info/apps/chatsecure/)  
-**Level:** Beginner-Intermediate  
-**Time required:** 5-10 minutes
+**Lección para leer: [Enviar un mensaje](umbrella://lesson/sending-a-message)**
+**Ubicación de descarga:** [https://chatsecure.org](https://chatsecure.org); también se puede descargar de [App Store de Apple](https://itunes.apple.com/us/app/chatsecure/id464200063) o de [Google Play store](https://play.google.com/store/ aplicaciones / detalles? id = info.guardianproject.otr.app.im).
+**Requisitos del sistema:** iOS 6.0, Android (varía)
+**Versión utilizada en esta guía:** 2.2.4 (iPhone), 13.1.2 (Android)
+**Licencia:** Apple, GPLv3; Android, Apache 2.0
+**Otra lectura:** [https://guardianproject.info/apps/chatsecure/](https://guardianproject.info/apps/chatsecure/)
+**Nivel:** Principiante-Intermedio
+**Tiempo requerido:** 5-10 minutos
 ![image](tool_chatsecure.png)
 
-ChatSecure is a free mobile phone application for iPhone and Android devices that allows users to communicate with off the record instant messaging. ChatSecure allows users to send instant messages and chats using a cell phone, instead of with a traditional desktop or laptop computer. It's compatible with iPhone and Android phones.
+ChatSecure es una aplicación gratuita para teléfonos móviles para dispositivos iPhone y Android que permite a los usuarios comunicarse con mensajes instantáneos sin registro. ChatSecure permite a los usuarios enviar mensajes instantáneos y chats utilizando un teléfono celular, en lugar de hacerlo con una computadora de escritorio o portátil tradicional. Es compatible con teléfonos iPhone y Android.
 
-ChatSecure supports OTR  encryption  over XMPP. All messages sent via ChatSecure are completely private, so long as the person you are chatting with is also using an OTR compatible instant messaging client like ChatSecure, Adium, Pidgin, or Jitsi. The app's capabilities allow it to deliver audio messages, photos, files, or text.
+ChatSecure es compatible con el cifrado OTR sobre XMPP. Todos los mensajes enviados a través de ChatSecure son completamente privados, siempre y cuando la persona con la que está chateando también esté usando un cliente de mensajería instantánea compatible con OTR como ChatSecure, Adium, Pidgin o Jitsi. Las capacidades de la aplicación le permiten enviar mensajes de audio, fotos, archivos o texto.
 
-When you send messages using ChatSecure, they are not stored on the phone system's memory. ChatSecure used with the privacy plugin Orbot should be able to bypass most firewalls, network restrictions, and blacklists. The app can manage multiple accounts, so you can chat with your Facebook friends, Google contacts, or other privacy conscious users that use an instant messaging program that supports OTR encryption.
+Cuando envía mensajes usando ChatSecure, no se almacenan en la memoria del sistema del teléfono. ChatSecure utilizado con el complemento de privacidad Orbot debería poder evitar la mayoría de los firewalls, restricciones de red y listas negras. La aplicación puede administrar varias cuentas, por lo que puede chatear con sus amigos de Facebook, contactos de Google u otros usuarios conscientes de la privacidad que utilizan un programa de mensajería instantánea que admite el cifrado OTR.
 
-### How to install and configure ChatSecure
+### Cómo instalar y configurar ChatSecure
 
-1. Download and install ChatSecure
+1. Descargar e instalar ChatSecure
 
-Visit the Apple App Store or Google Play store and search for ChatSecure by The Guardian Project. Select "Install" and accept the Terms of Service by clicking "Accept." The app will download and install automatically.
+Visite Apple App Store o la tienda Google Play y busque ChatSecure en The Guardian Project. Seleccione? Instalar? y acepta los Términos del servicio haciendo clic en? Aceptar ?. La aplicación se descargará e instalará automáticamente.
 
-2. Open the app and set your password
+2. Abre la aplicación y configura tu contraseña
 
-When you open the app you will be promoted to set a password. You will be prompted to create a passphrase  in order to locally encrypt your data. If you choose to do this, your data will be encrypted in transit, as well as encrypted locally on your phone.  
-If you choose to skip this step, your messages will still be encrypted in transit, but will not be protected on your device. For more information on selecting a strong passphrase, see the [Passwords lesson](umbrella://lesson/passwords).
+Cuando abras la aplicación, serás ascendido para establecer una contraseña. Se le pedirá que cree una frase de contraseña para encriptar sus datos de manera local. Si elige hacer esto, sus datos serán encriptados en tránsito, así como encriptados localmente en su teléfono.
+Si elige saltear este paso, sus mensajes seguirán encriptados en tránsito, pero no estarán protegidos en su dispositivo. Para obtener más información sobre cómo seleccionar una frase de contraseña segura, consulte la [Clase de contraseñas](umbrella://lesson/passwords).
 
-3. Configure your accounts
+3. Configura tus cuentas
 
-You can add a variety of different accounts your ChatSecure app. To add GoogleTalk or Google Hangouts, choose "Google." To add any XMPP or Jabber messaging service, choose "Jabber (XMPP)." To add your Facebook account, also choose "Jabber (XMPP)."  
-Once you've added your account, type in your username (or email address) and your password to sign in. Your contacts should load automatically.
+Puede agregar una variedad de cuentas diferentes a su aplicación ChatSecure. Para agregar Google Talk o Hangouts de Google, elija "Google." Para agregar cualquier servicio de mensajería XMPP o Jabber, elija "Jabber (XMPP)." Para agregar su cuenta de Facebook, también elija "Jabber (XMPP)."
+Una vez que haya agregado su cuenta, escriba su nombre de usuario (o dirección de correo electrónico) y su contraseña para iniciar sesión. Sus contactos deben cargarse automáticamente.
 
-To add a second or third account, click on the "accounts" tab in the menu. In the upper right hand corner, click on the "+" sign. You can either choose to add an existing account or create a new account.
+Para agregar una segunda o tercera cuenta, haga clic en? Accounts? pestaña en el menú. En la esquina superior derecha, haz clic en "+." Puede elegir agregar una cuenta existente o crear una nueva.
 
-### How to use ChatSecure
+### Cómo usar ChatSecure
 
-1. Sign in to your accounts
+1. Inicia sesión en tus cuentas
 
-To sign in to your account, click on the "accounts" tab in the menu and turn on the accounts you wish to use. Once you sign in, anyone can connect with you from a mobile or desktop instant messaging application.
+Para iniciar sesión en su cuenta, haga clic en? Cuentas? pestaña en el menú y activar las cuentas que desea utilizar. Una vez que inicie sesión, cualquier persona puede conectarse con usted desde una aplicación de mensajería instantánea móvil o de escritorio.
 
-2. Start end-to-end encryption
+2. Comience el cifrado de extremo a extremo
 
-Once you've started a chat with someone, click on the unlocked lock icon on the top menu bar of the display. Choose "Start Encryption." If the person you are chatting with has an OTR compatible instant messaging system, then you will have the option to verify your (and their) fingerprint.
+Una vez que haya comenzado a chatear con alguien, haga clic en el icono de candado desbloqueado en la barra de menú superior de la pantalla. Elija "Iniciar cifrado." Si la persona con la que está chateando tiene un sistema de mensajería instantánea compatible con OTR, entonces tendrá la opción de verificar su (y su) huella digital.
 
-ChatSecure offers three ways to verify OTR fingerprints, but if you're chatting with someone over a desktop instant messenger and not with ChatSecure, the best way to verify an OTR fingerprint is by communicating through another channel. You can resend your fingerprint over an SMS (TextSecure), say it over the phone if you recognize one another's voices, use PGP email, or verify in person. Click on "manual verification" and ChatSecure will display your and your friend's fingerprints. If you can confirm that you both have the same information, you can click "verify."
+ChatSecure ofrece tres formas de verificar huellas dactilares OTR, pero si está chateando con alguien a través de un sistema de mensajería instantánea de escritorio y no con ChatSecure, la mejor manera de verificar una huella digital OTR es comunicándose a través de otro canal. Puede reenviar su huella dactilar a través de un SMS (TextSecure), dígalo por teléfono si reconoce las voces de los demás, use el correo electrónico de PGP o verifique en persona. Haga clic en? Verificación manual? y ChatSecure mostrará sus huellas dactilares y las de su amigo. Si puede confirmar que ambos tienen la misma información, puede hacer clic en "verificar."
 
-ChatSecure supports manual verification or verification by scanning the other user's barcode (QR). If you are in the same room as the other person, you can easily scan the barcode on their phone or read your keys aloud to one another.
+ChatSecure admite la verificación o verificación manual mediante el escaneo del código de barras del otro usuario (QR). Si se encuentra en la misma habitación que la otra persona, puede escanear fácilmente el código de barras en su teléfono o leer sus claves en voz alta entre sí.
 
-3. Understand your options
+3. Comprenda sus opciones
 
-- Just like a desktop instant messaging service, ChatSecure gives you the option to appear offline, busy, idle, or away. To change this setting click on your name at the top of your friends list.  
-- ChatSecure also allows you to initiate group chats and add new contacts, both of which can be done from the main menu. (Note that group chats cannot be secured like one-on-one chats due to limitations of the OTR protocol.)  
-- The app supports multimedia messaging, can take pictures, and can send photos and files securely if your friend is also using end-to-end encryption and you are able to verify her identity.  
-- ChatSecure gives you the option to create a new XMPP or Jabber messaging account that supports OTR encryption. If you don't already use XMPP messaging, this is a great opportunity to create one and experiment with non-proprietary messaging.
+- Al igual que un servicio de mensajería instantánea de escritorio, ChatSecure le ofrece la opción de aparecer sin conexión, el autobús y, inactivo, o fuera. Para cambiar esta configuración, haga clic en su nombre en la parte superior de su lista de amigos. 
+- ChatSecure también le permite iniciar chats de grupo y agregar nuevos contactos, los cuales se pueden hacer desde el menú principal. (Tenga en cuenta que los chats grupales no se pueden proteger como los chats uno a uno debido a las limitaciones del protocolo OTR). La aplicación admite mensajes multimedia, puede tomar fotos y puede enviar fotos y archivos de forma segura si su amigo también está utilizando el cifrado de extremo a extremo y usted puede verificar su identidad. 
+- ChatSecure le ofrece la opción de crear una nueva cuenta de mensajería XMPP o Jabber que admita el cifrado OTR. Si aún no usa la mensajería XMPP, esta es una gran oportunidad para crear una y experimentar con mensajes no propietarios.

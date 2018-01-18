@@ -1,438 +1,404 @@
 [Title]: # ()
 [Order]: # (0)
 
-# TRUECRYPT TOOL GUIDE
+# TRUECRYPT GUÍA DE HERRAMIENTAS 
 
-## TrueCrypt Tool Guide   
-Secure File Storage
+## Guía de la herramienta TrueCrypt 
 
-**Lesson to read: [Protecting Files](umbrella://lesson/protecting-files)**  
-**Download Location:** [https://truecrypt.ch/downloads/](https://truecrypt.ch/downloads/)  
-**Computer requirements:**   
-- An internet connection, Windows 2000/XP/2003/Vista/7, Mac OS X or GNU Linux (This guide runs through Windows)  
-- Administrator rights required for installation or to create volumes but not to access existing volumes  
-**Version used in this guide:** 7.1a  
-_(The developers web page is offering a new version 7.2 of TrueCrypt with some functionality removed. Despite this new release we recommend that you continue to use older version 7.1a.)_  
-**License:** Free and Open-Source Software  
-**Level:** Advanced  
-**Other reading:** [http://andryou.com/truecrypt/docs/index.php](http://andryou.com/truecrypt/docs/index.php)   
-**Time required:** 30-60 minutes
+Secure File Storage 
 
-**Using TrueCrypt will give you:**- The ability to effectively protect your files from intruders or unauthorized access  
-- The ability to easily and securely store copies of your important files
+**Lección para leer: [Protección de archivos](umbrella://lesson/protect-files)**
+**Ubicación de descarga:** [https://truecrypt.ch/downloads/](https://truecrypt.ch/downloads/) 
+**Requisitos de la computadora:** 
 
-**NOTE: TrueCrypt is currently unmaintained, which might have security implications.**![image](tool_truecrypt1.png)
+- Una conexión a Internet, Windows 2000 / XP / 2003 / Vista / 7, Mac OS X o GNU Linux (Esta guía se ejecuta en Windows) 
+- Derechos de administrador necesarios para la instalación o para crear volúmenes pero no para acceder a volúmenes existentes 
+- **Versión utilizada en esta guía:** 7.1a (La página web de desarrolladores ofrece una nueva versión 7.2 de TrueCrypt con algunas funcionalidades eliminadas. A pesar de esta nueva versión, le recomendamos que continúe usando la versión anterior 7.1a.) 
+- **Licencia:** Gratis y de código abierto Software - ** Nivel: ** Avanzado 
+- **Otra lectura:** [http://andryou.com/truecrypt/docs/index.php](http://andryou.com/truecrypt/docs/index .php) 
+- **Tiempo requerido:** 30-60 minutos 
+- **El uso de TrueCrypt le dará:** 
+- La capacidad t o Proteja eficazmente sus archivos de intrusos o acceso no autorizado 
+- La capacidad de almacenar de manera fácil y segura copias de sus archivos importantes 
+- **NOTA: TrueCrypt está actualmente sin mantenimiento, lo que podría tener implicaciones de seguridad.**
+![imagen](tool_truecrypt1.png) 
 
-### 1.0 Before you start 
+### 1.0 Antes de comenzar 
+Truecrypt mantiene sus archivos seguros al evitar que alguien sin la contraseña correcta los abra. Funciona como una caja fuerte electrónica, creando un contenedor cifrado (llamado volumen) en su computadora o disco duro, que puede poner tantos archivos como desee. ¡Si olvida su contraseña, perderá acceso a sus datos! 
 
-Truecrypt keeps your files secure by preventing anyone without the correct password from opening them. It works like an electronic safe, creating an encrypted container (called a volume) on your computer or hard drive, that you can put as many files as you like into. If you forget your password, you will lose access to your data! 
+Por favor, tenga en cuenta que el uso del cifrado es ilegal en algunos países. 
 
-Please bear in mind that the use of encryption is illegal in some countries. 
+TrueCrypt ofrece la capacidad de crear un volumen cifrado estándar o un volumen oculto. Cualquiera de los dos mantendrá sus archivos confidenciales, pero un volumen oculto le permite ocultar su información importante detrás de datos menos confidenciales para protegerlo, incluso si se ve obligado a revelar su volumen TrueCrypt. Esta guía explica ambos volúmenes en detalle. Cómo instalar TrueCrypt y Crear volúmenes estándar 
 
-TrueCrypt offers the ability to create a standard encrypted volume or a hidden volume. Either one will keep your files confidential, but a hidden volume allows you to hide your important information behind less sensitive data in order to protect it, even if you are forced to reveal your TrueCrypt volume. This guide explains both volumes in detail.
+tCómo montar el volumen estándar tCómo realizar una copia de seguridad de su volumen tVersiones ocultas Portable TrueCrypt 
 
--	How to Install TrueCrypt and Create Standard Volumes  
--	How to Mount the Standard Volume  
--	How to Back up your Volume  
--	Hidden Volumes  
--	Portable TrueCrypt
+**NOTA: TrueCrypt no está actualizado, lo que podría tener implicaciones de seguridad.** 
 
-**_NOTE: TrueCrypt is currently unmaintained, which might have security implications._**
+### 2 Cómo instalar TrueCrypt y crear volúmenes estándar 
 
-### 2 How to Install TrueCrypt and Create Standard Volumes
+### 2.0 Cómo instalar TrueCryrpt 
 
-### 2.0 How to Install TrueCryrpt
+**Paso 1.** 
+Haga doble clic en _TrueCrypt Setup 7.1a.exe_; el cuadro de diálogo _Open File - Security Warning_ puede aparecer. Si es así, haga clic en "Siguiente" para activar la pantalla TrueCrypt _License_. 
 
-**Step 1.** Double click _TrueCrypt Setup 7.1a.exe_; the _Open File - Security Warning_ dialog box may appear. If it does, click "Next" to activate the TrueCrypt _License_ screen.
+**Paso2.** 
+Marque la casilla Acepto y acepto estar sujeto a la opción _license terms_ para habilitar el botón Aceptar; haga clic en "Aceptar" para activar la siguiente pantalla:
+![image](tool_truecrypt2.png) 
 
+- Modo de instalación: esta opción es para usuarios que no desean ocultar el hecho de que usan TrueCrypt en su computadora. 
 
-**Step 2.** Check the I accept and agree to be bound by the _license terms_ option to enable the Accept button; click "Accept" to activate the following screen:
-![image](tool_truecrypt2.png)
+- Modo extracción: esta opción es para usuarios que desean llevar una versión portátil de TrueCrypt en una memoria USB y no desean tener TrueCrypt instalado en su computadora. 
 
-- Install mode: This option is for users who do not wish to hide the very fact that they use TrueCrypt on their computer.  
-- Extract mode: This option is for users who wish to carry a portable version of TrueCrypt on a USB memory stick and do not wish to have TrueCrypt installed on their computer.
+**Nota:** Algunos de los las opciones (por ejemplo, la partición completa y el cifrado del disco) no funcionarán cuando se extraiga TrueCrypt solamente. 
 
-**Note:** Some of the options (for example, entire partition and disk encryption) will not work when TrueCrypt is extracted only.
+**Nota:** Aunque se recomienda el modo _Install_ predeterminado aquí, puede seguir usando TrueCrypt en modo portátil más adelante. 
 
-**Note:** Although the default _Install_ mode is recommended here, you may still use TrueCrypt in portable mode later on. 
+**Paso 3. Haga clic en** "Siguiente " para activar la siguiente pantalla:
+![image](tool_truecrypt3.png) 
 
-**Step 3. Click** "Next" to activate the following screen:
-![image](tool_truecrypt3.png)
+**Paso 4.** Haga clic en "Instalar "para activar la pantalla _Instalación_ para comenzar a instalar TrueCrypt en su sistema. 
 
-**Step 4.** Click "Install" to activate the _Installing_ screen to begin installing TrueCrypt on your system.
+**Paso 5.** Haga clic en "Ok" y luego "Finalizar" para activar la siguiente pantalla:![image](tool_truecrypt4. png) 
 
-Step 5.
- Click "OK" and then "Finish" to activate the following screen:
-![image](tool_truecrypt4.png)
+**Paso 6.** Haga clic en "Sí" para completar la instalación de TrueCrypt. 
 
-**Step 6.** Click "Yes" to complete the TrueCrypt installation.
+**Nota:** Se recomienda encarecidamente a todos los usuarios que consulten la [documentación de ayuda de TrueCrypt](http: //andryou.com/truecrypt/docs/index.php) después de completar este tutorial. 
 
-**Note:** All users are strongly encouraged to consult [TrueCrypt help documentation](http://andryou.com/truecrypt/docs/index.php) after completing this tutorial.
+### 2.1 Acerca de TrueCrypt 
 
-### 2.1 About TrueCrypt
+TrueCrypt es un programa que protege sus archivos evitando que cualquiera sin la contraseña correcta pueda acceder a ellos . Funciona como una caja de seguridad electrónica, lo que le permite bloquear sus archivos para que solo alguien con la contraseña correcta pueda abrirlos. TrueCrypt funciona al permitirle configurar _volumes_ o secciones en su computadora donde puede almacenar archivos de manera segura. Cuando crea datos en, o mueve datos a estos volúmenes, TrueCrypt encriptará automáticamente esa información. Cuando abre o saca sus archivos, los descifra automáticamente para usarlos. Este proceso se denomina cifrado _en el momento_. 
 
-TrueCrypt is a program which secures your files by preventing anyone without the correct password from accessing them. It functions like an electronic safe, letting you lock up your files so that only someone with the correct password can open them. TrueCrypt works by letting you set up _volumes_ or sections on your computer where you can securely store files. When you create data in, or move data to these volumes, TrueCrypt will automatically encrypt that information. As you open or take your files out, it automatically decrypts them for use. This process is called _on-the-fly_ encryption.
+### 2.2 Cómo crear un volumen estándar 
 
-### 2.2 How to Create a Standard Volume
+TrueCrypt le permite crear dos tipos de volúmenes: _Hidden_ ​​y _Standard_. En esta sección, aprenderá a crear un _Volumen estándar_ en el que almacenar sus archivos. Para comenzar a usar TrueCrypt para crear un _Volumen estándar_, realice los siguientes pasos: 
 
-TrueCrypt lets you create two kinds of volumes: _Hidden_ and _Standard_. In this section, you will learn how to create a _Standard Volume_ in which to store your files.
+**Paso 1.** Doble haga clic en el ícono de TrueCrypt o seleccione 
 
-To begin using TrueCrypt to create a _Standard Volume_, perform the following steps:
+**Inicio > Programas > TrueCrypt > TrueCrypt** para abrir TrueCrypt. 
 
-**Step 1.** Double click on the TrueCrypt icon or Select **Start > Programs > TrueCrypt > TrueCrypt** to open TrueCrypt.
+**Paso 2.** Seleccione una unidad de la lista en el panel TrueCrypt de la siguiente manera: 
+![image](tool_truecrypt5.png) 
 
-**Step 2.** Select a drive from the list in the TrueCrypt pane as follows:
-![image](tool_truecrypt5.png)
+**Paso 3.** Haga clic en "Crear volumen" para activar _TrueCrypt Volume Creation Wizard_ de la siguiente manera: 
+![image](tool_truecrypt6.png) 
 
-**Step 3.** Click "Create Volume" to activate the _TrueCrypt Volume Creation Wizard_ as follows:
-![image](tool_truecrypt6.png)
+Hay tres opciones para encriptar un _Tomo estándar_. En esta guía, usaremos la opción Crear un contenedor de archivos encriptados. Consulte la documentación de [**TrueCrypt**](www.truecrypt.org/docs/) para obtener la descripción de las otras dos opciones. 
 
-There are three options for encrypting a _Standard Volume
-. In this guide, we will use the Create an encrypted file container option. Please refer to the [**TrueCrypt** documentation](www.truecrypt.org/docs/) for the description of other two options.
+**Paso 4.** Haga clic en "Siguiente" para activar el Pantalla siguiente:
+![image](tool_truecrypt7.png) 
 
-**Step 4.** Click "Next" to activate the following screen:
-![image](tool_truecrypt7.png)
+La ventana TrueCrypt Volume Creation Wizard Volume Type_ le permite especificar si prefiere crear un volumen _Standard_ o _Hidden_ **_TrueCrypt_**. 
 
-The 
-TrueCrypt Volume Creation Wizard Volume Type_ window lets you specify whether you would prefer to create a _Standard_ or _Hidden **TrueCrypt**_ volume.
+Para obtener más información sobre _Cómo crear un volumen oculto_, consulte la sección Volúmenes ocultos más abajo. 
 
-For more information about _How to Create a Hidden Volume_, please refer to the Hidden Volumes section further down.
+**Paso 5.** Compruebe la opción _Standard TrueCrypt Volume_. 
 
-**Step 5.** Check the _Standard TrueCrypt Volume_ option.
+**Paso 6.** Haga clic en "Siguiente" para activar la siguiente pantalla: 
+![Image](tool_truecrypt8.png) 
+Puede especificar dónde desea almacenar su _Standard Volume_ en la pantalla _Volume Creation Wizard - Volume Location_. Este archivo se puede almacenar como cualquier otro archivo. 
 
-**Step 6.** Click "Next" to activate the following screen:
-![image](tool_truecrypt8.png)
+**Paso 7.** Ingrese el nombre del archivo en el campo de texto o haga clic en "Seleccionar archivo" para activar la siguiente pantalla:
+![image](tool_truecrypt9.png) 
 
-You can specify where you would like to store your _Standard Volume_ in the _Volume Creation Wizard - Volume Location_ screen. This file can be stored like any other file.
+**Nota:** Un Volumen TrueCrypt está contenido dentro de un archivo normal. Esto significa que se puede mover, copiar o incluso eliminar! Debe recordar tanto la ubicación como el nombre del archivo. Sin embargo, debe elegir un nuevo nombre de archivo para el volumen que crea. En este tutorial, crearemos nuestro Volumen estándar en la carpeta **Mis documentos**, y nombraremos el archivo _Mi volumen_ como se muestra en _figura 8_ anterior. 
 
-**Step 7.** Either type in the name of the file into the text field, or click "Select File" to activate the following screen:
-![image](tool_truecrypt9.png)
+**Sugerencia:** Puede usar cualquier nombre de archivo y extensión de archivo. Por ejemplo, puede asignarle un nombre a su Volume Volume _recipes.doc_, de modo que se vea como un _Word_ document, o _holidays.mpg_, de modo que se vea como un archivo de película. Esta es una forma de ayudar a ocultar la existencia de su Volumen estándar. 
 
-**Note:** A TrueCrypt Volume is contained inside a normal file. This means that it can be moved, copied or even deleted! You need to remember both the location and name of the file. However, you must choose new file name for the volume you create. In this tutorial, we will create our Standard Volume in the **My Documents folder**, and name the file _My Volume_ as shown in _figure 8_ above.
+**Paso 8.** Haga clic en "Guardar" para cerrar la ventana _Especificar ruta_ y _Archivo_ y volver a la ventana _Ajuste de creación de volumen_ como sigue:
+![image](tool_truecrypt10.png) 
 
-**Tip:** You can use any file name and file extension. For example, you can name your Standard Volume _recipes.doc_, so that it will look like a _Word_ document, or _holidays.mpg_, so it will look like a movie file. This is one way you can help disguise the existence of your Standard Volume.
+**Paso 9.** Haga clic en "Siguiente". 
 
-**Step 8.** Click "Save" to close the _Specify Path_ and _File Name_ window and return to the _Volume Creation Wizard_ window as follows:
-![image](tool_truecrypt10.png)
+### 2.3 Cómo crear un volumen estándar en una memoria USB 
+Para crear TrueCrypt _Standard Volume_ en un dispositivo de memoria USB, realice los pasos 1 a 7 en la sección 2.2 Cómo crear un volumen estándar, donde activa la pantalla _Seleccione un volumen TrueCrypt_. En lugar de elegir _My Documents_ como la ubicación de su archivo, navegue hacia y luego **elija** su dispositivo de memoria USB. Luego, ** ingrese ** un nombre de archivo y cree el _Tamaño estándar_ allí. 
 
-**Step 9.** Click "Next".
+### 2.4 Cómo crear un Volumen estándar (continuación)
+En esta etapa, está listo para elegir un método de cifrado específico (o _algorithm_ como se hace referencia en la pantalla) para codificar los datos que se almacenarán en su _Volumen estándar_.
+![image](tool_truecrypt11.png) 
 
-### 2.3 How to Create a Standard Volume on a USB Memory Stick
+**Nota:** Puede dejar el opciones predeterminadas aquí a medida que aparecen. Todos los algoritmos presentados en las dos opciones aquí se consideran seguros. 
 
-To create a TrueCrypt _Standard Volume_ on a USB memory stick, perform steps 1 to 7 in section 2.2 How to Create a Standard Volume, where you activate the _Select a TrueCrypt Volume_ screen. Instead of choosing _My Documents_ as your file location, navigate to and then **choose** your USB memory stick. Then, **enter** a file name and create the _Standard Volume_ there.
+**Paso 10.** Haga clic en "Siguiente" para activar la pantalla _TrueCrypt Volume Creation Wizard_ de la siguiente manera:
+![Image](tool_truecrypt12.png ) 
 
-### 2.4 How to Create a Standard Volume (continued)
+El panel _Volume Size_ le permite especificar el tamaño de _Standard Volume_. En este ejemplo, se establece en 10 megabytes. Sin embargo, puede especificar un tamaño diferente. Tenga en cuenta el tamaño de los documentos y tipos de archivos que desea almacenar y, a continuación, establezca un tamaño de volumen adecuado para ellos. 
 
-At this stage, you are ready to choose a specific encryption method (or _algorithm_ as it is referred to on the screen) to encode the data that will be stored in your _Standard Volume_.
-![image](tool_truecrypt11.png)
+**Sugerencia:** Si desea hacer una copia de seguridad de su Volumen estándar en un CD más adelante, luego debe establecer el tamaño en 700 MB o menos. 
 
-**Note:** You may leave the default options here as they appear. All algorithms presented in the two options here are considered secure.
+**Paso 11.** Escriba su tamaño de volumen específico en el campo de texto, y luego haga clic en "Siguiente" para activar la siguiente pantalla:
+![image](tool_truecrypt13.png) 
 
-**Step 10.** Click "Next" to activate the _TrueCrypt Volume Creation Wizard_ screen as follows:
-![image](tool_truecrypt12.png)
+**Importante:** Elegir una contraseña segura y segura es una de las tareas más importantes que realizará al crear un _Tamaño estándar_. Una buena contraseña protegerá su volumen encriptado, y cuanto más fuerte sea la contraseña que elija, mejor. No tiene que crear sus propias contraseñas, ni siquiera recordarlas, si utiliza un programa de generación de contraseñas como KeePass. Consulte la **[lección de KeePass](umbrella://lesson/keepassx)**, para obtener más información sobre la creación y el almacenamiento de contraseñas. 
 
-The _Volume Size_ pane lets you specify the size of the _Standard Volume_. In this example, it is set at 10 megabytes. However, you may specify a different size. Consider the size of the documents and file types you would like to store, and then set an appropriate volume size for them.
+**Paso 12.** Escriba su contraseña y luego vuelva escriba su contraseña en los campos _Confirmar_ texto. 
 
-**Tip:** If you would like to backup your Standard Volume to a CD later on, then you should set the size to 700MB or less.
+**Importante:** El botón _Next_ permanecerá deshabilitado hasta que coincidan las contraseñas en ambos campos de texto. Si su contraseña no es particularmente segura o segura, verá una advertencia que le informará sobre esto. Considera cambiarlo! Aunque **TrueCrypt** seguirá funcionando con la contraseña que haya elegido, sus datos pueden no ser muy seguros. 
 
-**Step 11.** Type in your specific volume size into the text field, and then click "Next" to activate the following screen:
-![image](tool_truecrypt13.png)
+**Paso 13.** Haga clic en "Siguiente " para activar la siguiente pantalla: 
+![image](tool_truecrypt14.png) 
 
-**Important:** Choosing a secure and strong password is among the most important tasks you will perform when creating a _Standard Volume_. A good password will protect your encrypted volume, and the stronger the password you choose, the better. You don't have to create your own passwords, or even remember them, if you use a password generation program like KeePass. Please refer to the **[KeePass lesson](umbrella://lesonn/keepassx)**, to learn more information about password creation and storage.
+TrueCrypt ahora está listo para crear un _Standard Volume_. Mueva su mouse al azar dentro de la ventana _TrueCrypt Volume Creation Wizard_ por unos segundos. Cuanto más tiempo mueva el mouse, mejor será la calidad de la clave de encriptación. 
 
-**Step 12.** Type your password and then re-type your password into the _Confirm_ text fields.
+**Paso 14.** Haga clic en "Formato" para comenzar a crear su volumen estándar. TrueCrypt ahora creará un archivo llamado _My Volume_ en la carpeta _My Documents_ como se especificó anteriormente. Este archivo contendrá TrueCrypt _Standard Volume_, 10 megabytes de tamaño, que puede usar para almacenar sus archivos de manera segura. 
 
-**Important:** The _Next_ button will remain disabled until passwords in both text fields match. If your password is not particularly safe or secure, you will see a warning advising you of this. Consider changing it! Although **TrueCrypt** will still work with any password you have chosen, your data may not be very secure.
+Después de que se haya creado con éxito un _Standard Volume_, aparecerá el siguiente cuadro de diálogo:
+![Image]( tool_truecrypt15.png) 
 
-**Step 13.** Click "Next" to activate the following screen:
-![image](tool_truecrypt14.png)
+**Paso 15.** Haga clic en "OK " para completar la creación de su _Volumen estándar_ y regrese a la consola TrueCrypt. 
 
-TrueCrypt is now ready to create a _Standard Volume_. Move your mouse randomly within the _TrueCrypt Volume Creation Wizard_ window for few seconds. The longer you move the mouse, the better the quality of the encryption key.
+**Paso 16.** Haga clic en "Salir" para cerrar "TrueCrypt Volume Creation Wizard". 
 
-**Step 14.** Click "Format" to begin creating your standard volume.
+### 3 Cómo montar el volumen estándar 
 
-TrueCrypt will now create a file named _My Volume_ in the _My Documents_ folder as earlier specified. This file will contain a TrueCrypt _Standard Volume_, 10 Megabytes in size, that you can use to securely store your files.
+### 3.0 Cómo montar un volumen estándar 
 
-After a _Standard Volume_ has been successfully created, the following dialog box will appear:
-![image](tool_truecrypt15.png)
+En TrueCrypt, montar un _Volumen estándar_ se refiere a hacer el volumen estándar disponible para su uso. En esta sección, aprenderá cómo montar su volumen estándar recién creado. Para comenzar a montar su volumen estándar, realice los siguientes pasos: 
 
-**Step 15.** Click "OK" to complete creating your _Standard Volume_ and return to the TrueCrypt console.
+**Paso 1.** Haga doble clic en el icono TrueCrypt 
+**Seleccione Inicio > Programas > TrueCrypt > TrueCrypt** para abrir TrueCrypt. 
 
-**Step 16.** Click "Exit" to close _TrueCrypt Volume Creation Wizard_.
+**Paso 2.** Seleccione cualquier unidad de la lista de la siguiente manera:
+![Image](tool_truecrypt16.png) En este ejemplo, el Volumen estándar se montará como la unidad M: 
 
-### 3 How to Mount the Standard Volume
+**Nota:** En la imagen de arriba, se ha seleccionado la unidad _M: _ para montar el _valor estándar_; sin embargo, puede elegir otra unidad en la lista. 
 
-### 3.0 How to Mount a Standard Volume
+**Paso 3.** Haga clic en "Seleccionar archivo ..." 
 
-In TrueCrypt, to mount a _Standard Volume_ refers to making the standard volume available for use. In this section, you will learn how to mount your newly created standard volume.
+La pantalla Seleccionar un Volumen TrueCrypt aparecerá de la siguiente manera:
+![imagen ](tool_truecrypt17.png) 
 
-To begin mounting your standard volume, perform the following steps:
+**Paso4.** Seleccione el archivo de volumen estándar que ha creado, luego haga clic en "Abrir" para cerrar _figure 2_ y regrese a la consola de TrueCrypt.
 
-**Step 1.** Double click on the TrueCrypt icon or **Select Start > Programs > TrueCrypt > TrueCrypt** to open TrueCrypt.
+**Paso 5.** Haga clic en "Montar" para activar la pantalla _Introduzca la contraseña de_solicitud_ de la siguiente manera:
+![Image](tool_truecrypt18.png) 
 
-**Step 2.** Select any drive from the list as follows:
-![image](tool_truecrypt16.png)
+**Paso 6.** Escriba la contraseña en la _Contraseña_: campo de texto. 
 
-_In this example the Standard Volume will be mounted as the M: drive._
+**Paso 7.** Haga clic en "Aceptar" para comenzar a montar el _Tamaño estándar_. 
 
-**Note:** In the image above, the _M:_ drive has been selected for mounting the _standard volume_; however, you may choose another listed drive.
+**Nota:** Si la contraseña que escribió es incorrecta, TrueCrypt le preguntará que vuelva a escribir su contraseña y haga clic en "OK ". Si la contraseña es correcta, _Standard Volume_ se montará de la siguiente manera:
+![Image](tool_truecrypt19.png) 
 
-**Step 3.** Click "Select File..."
+**Paso 8.** Haga doble clic en la entrada resaltada en TrueCrypt o haga doble clic en la unidad correspondiente Carta en la pantalla _My Computer_ para acceder al _Standard Volume_ (ahora montado en la unidad _M:_ en su computadora).
+![image](tool_truecrypt20.png) 
 
-_The Select a TrueCrypt Volume screen will appear as follows:_
-![image](tool_truecrypt17.png)
+**Nota:** Acabamos de montar correctamente el volumen estándar de Mi volumen en un disco virtual _M: _. Este disco virtual se comporta como un disco real, excepto que está completamente encriptado. Todos los archivos se cifrarán automáticamente cuando los copie, mueva o guarde en este disco virtual (un proceso conocido como cifrado sobre la marcha). Puede copiar archivos desde y hacia el _ Volumen estándar_ del mismo modo que los copiaría a cualquier disco normal (por ejemplo, arrastrándolos y soltándolos). Cuando mueve un archivo fuera del _Volumen estándar_, se descifra automáticamente. Por el contrario, si mueve un archivo al _Tamaño estándar_, TrueCrypt lo cifra automáticamente. Si su computadora falla o se apaga repentinamente, TrueCrypt cerrará inmediatamente el "Tamaño estándar".
 
-**Step 4.** Select the standard volume file that you created, then click "Open" to close _figure 2_ and return to the TrueCrypt console.
+**Importante:** Después de transferir los archivos al volumen TrueCrypt, asegúrese de que no queden rastros de los archivos en la computadora o memoria USB de la que provienen. Consulte **[Lección de eliminación segura](umbrella://lesson/safely-deleting)**.
 
-**Step 5.** Click "Mount" to activate the _Enter password for_ prompt screen as follows:
-![image](tool_truecrypt18.png)
+### 3.1 Cómo desmontar el volumen estándar 
+En TrueCrypt, a _dismount_ a _Standard Volume_ simplemente significa hacer que un volumen no esté disponible para su uso. 
 
-**Step 6.** Type the password in the _Password:_ text field.
+Para cerrar o desmontar un _Volumen estándar_ y hacer que sus archivos sean accesibles solo para alguien con una contraseña, realice los siguientes pasos: 
 
-**Step 7.** Click "OK" to begin mounting the _Standard Volume_.
-
-**Note:** If the password you typed is incorrect, TrueCrypt will prompt you to re-type your password and click "OK". If the password is correct, the _Standard Volume_ will be mounted as follows:
-![image](tool_truecrypt19.png)
-
-**Step 8.** Double click the highlighted entry in TrueCrypt or double click the corresponding drive letter in the _My Computer_ screen to access the _Standard Volume_ (now mounted on drive _M:_ on your computer).
-![image](tool_truecrypt20.png)
-
-**Note:** We have just successfully mounted the _My Volume_ standard volume on a virtual disk _M:_. This virtual disk behaves like a real disk, except that it is entirely encrypted. Any files will be automatically encrypted when you copy, move or save them to this virtual disk (a process known as on-the-fly encryption).
-
-You can copy files to and from the _Standard Volume_ just as you would copy them to any normal disk (for example, by dragging-and-dropping them). When you move a file out of the _Standard Volume_, it is automatically decrypted. Conversely if you move a file onto the _Standard Volume_, TrueCrypt automatically encrypts it. If your computer crashes or is suddenly switched off, TrueCrypt will immediately close the _Standard Volume_.
-
-**Important:** After transferring files to the TrueCrypt volume, make sure that no traces of the files are left behind on the computer or USB memory stick that they came from. Please refer to the **[Safe Deleting lesson](umbrella://lesson/safely-deleting)**.
-
-### 3.1 How to Dismount the Standard Volume
-
-In TrueCrypt, to _dismount_ a _Standard Volume_ simply means to make a volume unavailable for use.
-
-To close or dismount a _Standard Volume_ and make its files accessible only to someone with a password, perform the following steps:
-
-**Step 1.** Select the volume from the list of mounted volumes in the main TrueCrypt window as follows:
+**Paso 1.** Seleccione el volumen de la lista de volúmenes montados en la ventana principal de TrueCrypt de la siguiente manera:
 ![image](tool_truecrypt21.png)
 
-**Step 2.** Click "Dismount" to dismount or close your TrueCrypt standard volume.
+**Paso 2.** Haga clic en "Desmontar " para desmontar o cerrar su estándar TrueCrypt volumen. 
 
-**Important:** Make sure to dismount your TrueCrypt volume before putting your computer to _Standby_ or _Hibernate_ mode. Better yet, always shut-down your computer or laptop if you plan on leaving it unattended. This will prevent anyone from being able to gain your volume password.
+**Importante:** Asegúrese de desmontar su volumen TrueCrypt antes de poner su computadora al modo _Standby_ o _Hibernate_. Mejor aún, apague siempre su computadora o computadora portátil si planea dejarla desatendida. Esto evitará que alguien pueda obtener su contraseña de volumen. 
 
-To retrieve a file stored in your standard volume once you have closed or dismounted it, you will have to mount it again.
+Para recuperar un archivo almacenado en su volumen estándar una vez que lo haya cerrado o desmontado, tendrá que volver a montarlo. 
 
-### 4.0 How to Back up your Volume
+### 4.0 Cómo Hacer una copia de seguridad de tu volumen 
+Recomportar tus documentos, archivos y carpetas con regularidad es fundamental. Copia de seguridad de su volumen TrueCrypt es vital y (afortunadamente) fácil de hacer. No olvide que su volumen debe desmontarse antes de realizar una copia de seguridad. 
 
-Backing up your documents, files and folders on a regular basis is critical. Backing up your TrueCrypt volume is vital, and (fortunately) easy to do. Don't forget that your volume must be dismounted before you back it up.
+**Paso 1.** Navegue hasta su archivo _Standard Volume_ (en la imagen siguiente, se encuentra en la carpeta _My Documents_).
+![image](tool_truecrypt22.png) 
 
-**Step 1.** Navigate to your _Standard Volume_ file (in the image below, it is located in the _My Documents_ folder).
-![image](tool_truecrypt22.png)
+**Paso 2.** Guarde el archivo en un dispositivo de memoria externo, como un CD, DVD o una memoria USB. 
 
-**Step 2.** Save the file to an external memory device, like a CD, DVD or a USB memory stick.
+**Consejo:** Si tiene grandes cantidades de datos que desea encriptar y archivar repetidamente, ¿por qué no crear un nuevo _Standard Volume_ que tenga el mismo tamaño que un CD o DVD? Esto podría utilizarse como una técnica de almacenamiento segura. Antes de hacer una copia de seguridad del volumen estándar en un dispositivo extraíble, asegúrese de que el tamaño del dispositivo corresponda al tamaño de su volumen. 
 
-**Tip:** If you have large amounts of data that you want to encrypt and archive repeatedly, why not create a new _Standard Volume_ which is the same size as a CD or DVD? This could be used as a secure storage technique.
+### 5.0 Acerca de los volúmenes ocultos 
+En TrueCrypt, se almacena _Hidden Volume_ dentro de su _Standard Volume_ encriptado, pero su existencia está oculta. Incluso cuando "monta" o abre su volumen estándar, no es posible encontrar o probar la existencia del volumen oculto. Si se ve obligado a revelar su contraseña y la ubicación de su volumen estándar, entonces su contenido puede ser revelado, pero ** no ** la existencia del volumen oculto dentro. 
 
-Before you back up the standard volume to a removable device, make sure that the device size corresponds to the size of your volume.
+Imagínese un maletín con un compartimento secreto. Guarda los archivos que no le importa confiscar o perder en la sección normal de su maletín, y guarda los archivos importantes y privados en el compartimento secreto. El objetivo del compartimiento secreto (especialmente uno bien diseñado) es ocultar su propia existencia y, por lo tanto, los documentos que contiene. 
 
-### 5.0 About Hidden Volumes
+### 5.1 Cómo crear un volumen oculto 
+La creación de a TrueCrypt _Hidden Volume_ es similar a crear TrueCrypt _Standard Volume_: algunos de los paneles, pantallas y ventanas son iguales. 
 
-In TrueCrypt, a _Hidden Volume_ is stored within your encrypted _Standard Volume_, but its existence is concealed. Even when you 'mount' or open your standard volume, it is not possible either to find or to prove the existence of the hidden volume. If you are forced to reveal your password and the location of your standard volume, then its content may be revealed, but **not** the existence of the hidden volume within.
+**Paso 1.** Abra TrueCrypt. 
 
-Imagine a briefcase with a secret compartment. You keep files that you do not mind having confiscated or losing in the normal section of your briefcase, and you keep the important and private files in the secret compartment. The point of the secret compartment (especially a well-designed one), is to hide its own existence and therefore, the documents within it.
+**Paso 2.** Haga clic en "Crear volumen" para activar _TrueCrypt Volume Creation Wizard_. 
 
-### 5.1 How to a Create a Hidden Volume
+**Paso 3.** Haga clic en "Siguiente" para aceptar el valor predeterminado _Crear un archivo encriptado container_ option. 
 
-The creation of a TrueCrypt _Hidden Volume_ is similar to creating a TrueCrypt _Standard Volume_: Some of the panes, screens and windows are even the same.
+**Paso 4.** Compruebe la opción _Hidden TrueCrypt_ volume de la siguiente manera: 
+![Image](tool_truecrypt23.png) 
 
-**Step 1.** Open TrueCrypt.
+**Paso 5.** Haga clic en "Siguiente " para activar la siguiente pantalla:
+![image](tool_truecrypt24.png) 
 
-**Step 2.** Click "Create Volume" to activate the _TrueCrypt Volume Creation Wizard_.
+- _Direct mode_: esta opción te permite crear _Hidden Volume_ dentro de un _Standard Volume_ existente_. 
+- Modo normal: esta opción le permite crear un _Volumen estándar_ completamente nuevo en el que almacenar el _Volumen oculto_. 
 
-**Step 3.** Click "Next" to accept the default _Create an encrypted file container_ option.
+En este ejemplo, usaremos el _Modo directo_. 
 
-**Step 4.** Check the _Hidden TrueCrypt_ volume option as follows:
-![image](tool_truecrypt23.png)
+**Nota:** Si preferiría comenzar un nuevo _Tipo estándar_, repita el proceso desde la sección 2.2 Cómo crear un volumen estándar. 
 
-**Step 5.** Click "Next" to activate the following screen:
-![image](tool_truecrypt24.png)
+**Paso 6.** Marque la opción _Direct Mode_ y luego haga clic en "Siguiente " para activar _TrueCrypt Creación de volumen - Ventana Ubicación de volumen_. 
 
-- _Direct mode_: This option lets you create the _Hidden Volume_ within an existing _Standard Volume_.  
-- Normal mode: This option lets you create a completely new _Standard Volume_ in which to store the _Hidden Volume_.
+**Nota:** Asegúrese de que el _Tipo estándar_ esté desmontado antes de seleccionarlo. 
 
-In this example, we will use the _Direct mode_.
+**Paso 7.** Haga clic en "Seleccionar archivo " para activar lo siguiente pantalla:![image](tool_truecrypt25.png) 
 
-**Note:** If you would rather start a new _Standard Volume_, please repeat the process from section 2.2 How to Create a Standard Volume.
+**Paso 8.** Localice el archivo de volumen usando _Seleccione una ventana TrueCrypt Volume_ como se muestra arriba. 
 
-**Step 6.** Check the _Direct Mode_ option and then click "Next" to activate the _TrueCrypt Volume Creation - Volume Location_ window.
+**Paso 9.** Haga clic en "Abrir " para volver al _TrueCrypt Volume Creation Wizard_. 
 
-**Note:** Make sure the _Standard Volume_ is unmounted before selecting it.
+**Paso 10.** Haga clic en "Siguiente " para activar la pantalla _Enter password_. 
 
-**Step 7.** Click "Select File" to activate the following screen:
-![image](tool_truecrypt25.png)
+**Paso 11.** Escriba la contraseña que utilizó al crear _Standard Volume_ en el campo de texto _Password_ para ac tiva la siguiente pantalla:
+![image](tool_truecrypt26.png) 
 
-**Step 8.** Locate the volume file using the _Select a TrueCrypt Volume_ window as shown above.
+**Paso 12.** Haga clic en "Siguiente " después de haber leído el mensaje para activar la pantalla _Hidden Volume Encryptions Options_. 
 
-**Step 9.** Click "Open" to return to the _TrueCrypt Volume Creation Wizard_.
+**Nota:** Deje los ajustes predeterminados de Algoritmo de encriptación y Algoritmo de almohadilla para el Volumen oculto tal como están. 
 
-**Step 10.** Click "Next" to activate the _Enter password_ screen.
+**Paso 13.** Haga clic en "Siguiente " para activar la siguiente pantalla:
+![image](tool_truecrypt27.png) 
 
-**Step 11.** Type in password you used when creating the _Standard Volume_ into the _Password_ text field to activate the following screen:
-![image](tool_truecrypt26.png)
+Se le pedirá que especifique el tamaño del _Hidden Volume_. 
 
-**Step 12.** Click "Next" after you have read the message to activate the _Hidden Volume Encryptions Options_ screen.
+**Nota:** Tenga en cuenta el tipo de documentos, su cantidad y tamaño que necesitan ser almacenado Deje algo de espacio para el _Tamaño estándar_. Si selecciona el tamaño máximo disponible para _Hidden Volume_, no podrá poner más archivos nuevos en el _Standard Volume_ original. Si su _Standard Volume_ tiene un tamaño de 10 Megabytes (MB) y especifica un _Hidden Volume_ tamaño de 5MB (como se muestra en _figura 6_ anterior), tendrá dos volúmenes (uno oculto y un volumen estándar) de aproximadamente 5MB cada uno. 
 
-**Note:** Leave both the default _Encryption Algorithm_ and _Hash Algorithm_ settings for the Hidden Volume as they are.
+Asegúrese de que la información que almacena en _Volumen estándar_ no exceda los 5MB que tiene conjunto. Esto se debe a que el programa TrueCrypt en sí mismo no detecta automáticamente la existencia del _Hidden Volume_ y podría sobrescribirlo accidentalmente. Puede correr el riesgo de perder todos los archivos almacenados en el volumen oculto si excede el tamaño establecido previamente. 
 
-**Step 13.** Click "Next" to activate the following screen:
-![image](tool_truecrypt27.png)
+**Paso 14.** Escriba el tamaño de volumen oculto deseado en el cuadro de texto correspondiente como se muestra en la imagen a continuación. 
 
-You will be prompted to specify the size of the _Hidden Volume_.
+**Paso 15.** Haga clic en "Siguiente " para activar la ventana _Hidden Volume Password_. 
 
-**Note:** Consider the kind of documents, their quantity and size that need to be stored. Do leave some space for the _Standard Volume_. If you select the maximum size available for the _Hidden Volume_, you will not be able to put any more new files into the original _Standard Volume_.
+Ahora debe crear una _different_ contraseña para el volumen oculto de la utilizada para proteger su volumen estándar. Nuevamente, recuerde elegir una contraseña segura. Consulte la **[Guía de la herramienta KeePass](umbrella://lesson/keepassx)** para obtener más información sobre la creación de contraseñas seguras. 
 
-If your _Standard Volume_ is 10 Megabytes(MB) in size and you specify a _Hidden Volume_ size of 5MB (as shown in _figure 6_ above), you will have two volumes (one hidden and one standard volume) of approximately 5MB each.
+**Sugerencia:** Si prevé ser obligado a revelar los contenidos de sus volúmenes TrueCrypt, luego almacene su contraseña para el volumen estándar en KeePass, y cree una contraseña segura que solo tenga que recordar para el volumen oculto. Esto te ayudará a ocultar tu volumen oculto, ya que no dejarás ningún rastro de su existencia. 
 
-Ensure that the information you store in the _Standard Volume_ does not exceed the 5MB you have set. This is because the TrueCrypt program itself does not automatically detect the existence of the _Hidden Volume_, and it could accidentally overwrite it. You may risk losing all files stored in the hidden volume if you exceed your previously established size.
+**Paso 16.** Crea una contraseña y escríbela dos veces, y luego haz clic en "Siguiente " para active la siguiente pantalla:
+![image](tool_truecrypt28.png) 
 
-**Step 14.** Type in the desired hidden volume size into the corresponding text box as shown in the image below.
+Deje las opciones predeterminadas _File System_ y _Cluster_ tal como están. 
 
-**Step 15.** Click "Next" to activate the _Hidden Volume Password_ window.
+**Paso 17.** Mueva el cursor del mouse por la pantalla para aumente la fuerza criptográfica del cifrado y luego haga clic en "Formato " para formatear el volumen oculto. Después de formatear el volumen oculto, aparece la siguiente pantalla:![image](tool_truecrypt29.png) 
 
-You must now create a _different_ password for the hidden volume from the one used to protect your standard volume. Again, remember to choose a strong password. Please refer to the **[KeePass Tool Guide](umbrella://lesson/keepassx)** to learn more about creating strong passwords.
+**Nota:** _Figure 8_ confirma que ha creado correctamente un volumen oculto y le advierte contra los peligros de sobreescribir archivos en el volumen oculto cuando almacena archivos en el volumen estándar. 
 
-**Tip:** If you anticipate being forced to reveal the contents of your TrueCrypt volumes, then store your password for the standard volume in KeePass, and create a strong password that you only have to remember for hidden volume. This will help you to conceal your hidden volume, as you will not leave any trace of its existence.
+**Paso 18.** Haga clic en "OK " para activar la ventana _Hidden Volume Created_, y luego haga clic en "Exit" y regrese a la consola de TrueCrypt. El volumen oculto ahora se ha creado dentro de su volumen estándar. Ahora puede almacenar documentos en el volumen oculto, que permanecen invisibles incluso para alguien que ha obtenido la contraseña para ese volumen estándar en particular. 
 
-**Step 16.** Create a password and type it in twice, and then click "Next" to activate the following screen:
-![image](tool_truecrypt28.png)
-Leave the default _File System_ and _Cluster_ options as they are.
+### 5.2 Cómo montar el volumen oculto 
+El método para montar o hacer un _Hidden Volume_ accesible para su uso es exactamente el mismo que para un _Standard Volume_; la única diferencia es que usará la contraseña que acaba de crear para _Hidden Volume_. 
 
+To _mount_ o abra _Hidden Volume_, realice los siguientes pasos: 
 
-**Step 17.** Move the mouse cursor around the screen to increase the cryptographic strength of the encryption and then click "Format" to format the hidden volume.
+**Paso 1.** Seleccione una unidad desde la lista (en este ejemplo, unidad _K_):
+![imagen](tool_truecrypt30.png) 
 
-_After the hidden volume has been formatted, the following screen appears:_
-![image](tool_truecrypt29.png)
+**Paso 2.** Haga clic en "Seleccionar archivo ... " para activar el _Seleccione un Volumen TrueCrypt_ ventana. 
 
-**Note:** _Figure 8_ both confirms that you have successfully created a hidden volume, as well as warning you against the dangers of overwriting files in the hidden volume when storing files in the standard volume.
+**Paso 3.** Navegue y seleccione su archivo _TrueCrypt_ volume (el mismo archivo que para el volumen estándar). 
 
-**Step 18.** Click "OK" to activate the _Hidden Volume Created_ window, and then click "Exit" and return to the TrueCrypt console.
+**Paso 4.** Haga clic en "Abrir " para volver a la consola de TrueCrypt. 
 
-The hidden volume has now been created inside your standard volume. You may now store documents in the hidden volume, which remain invisible even to someone who has obtained the password for that particular standard volume.
+**Paso 5.** Haga clic en "Montar" para activar la pantalla _Enter Password_ for prompt de la siguiente manera: 
+![image](tool_truecrypt31.png) 
 
-### 5.2 How to Mount the Hidden Volume
+**Paso 6.** Escriba la contraseña que utilizó para crear el volumen oculto, y luego haga clic en "OK". 
 
-The method for mounting or making a _Hidden Volume_ accessible for use is exactly the same as that for a _Standard Volume_; the only difference is you will use the password that you have just created for the _Hidden Volume_.
+Su volumen oculto ahora está montado (o abierto) de la siguiente manera:
+![Image](tool_truecrypt32 .png) 
 
-To _mount_ or open the _Hidden Volume_, perform the following steps:
+**Paso 7.** Haga doble clic en la entrada anterior o acceda a ella a través de la ventana _My Computer_. 
 
-**Step 1.** Select a drive from the list (in this example, drive _K_):
-![image](tool_truecrypt30.png)
+### 5.3 Consejos sobre cómo usar el disco oculto Fe ature Securely 
+El objetivo de la función de disco oculto es escapar de una situación potencialmente peligrosa al'appearing_ entregar sus archivos encriptados, cuando alguien en una posición de poder exige verlos, sin que en realidad se vea obligado a revelar su información más sensible . Además de proteger sus datos, esto puede permitirle evitar poner en peligro su propia seguridad o exponer a sus colegas y socios. Para que esta técnica sea efectiva, debe crear una situación en la que la persona que exija ver sus archivos esté satisfecha con lo que usted les muestra y lo deja ir. 
 
-**Step 2.** Click "Select File..." to activate the _Select a TrueCrypt Volume_ window.
+Para ello, es posible que desee implementar algunas de las siguientes sugerencias : 
+- Coloque algunos documentos confidenciales que no le importe exponer en el volumen estándar. Esta información debe ser lo suficientemente sensible como para que tenga sentido mantenerla en un volumen cifrado. 
+- Tenga en cuenta que alguien que exija ver sus archivos puede saber acerca de los volúmenes ocultos. Sin embargo, si usa TrueCrypt correctamente, esta persona no podrá probar que existe su volumen oculto, lo que hará que su negación sea más creíble. 
+- Actualice los archivos en el volumen estándar semanalmente. Esto creará la impresión de que realmente está usando esos archivos. 
 
-**Step 3.** Navigate to and then select your _TrueCrypt_ volume file (same file as for the standard volume).
+Siempre que monte un volumen TrueCrypt, puede elegir activar _Protect el volumen oculto contra el daño causado al escribir en la función externa volume_. Una característica muy importante, le permite agregar nuevos archivos 'señuelo' a su volumen estándar sin el riesgo de que borre accidentalmente o sobrescriba los contenidos cifrados de su volumen oculto. 
 
-**Step 4.** Click "Open" to return to the TrueCrypt console.
+Como se mencionó anteriormente, excediendo el límite de almacenamiento en su volumen estándar de lo contrario, puede destruir sus archivos ocultos. No habilite la función _Protect hidden volume_ cuando se le obligue a montar un volumen TrueCrypt, porque para hacerlo debe ingresar la contraseña secreta a su volumen oculto y revelará claramente la existencia de ese volumen. Sin embargo, cuando actualice sus archivos señuelo en privado, siempre deberá habilitar esta opción. 
 
-**Step 5.** Click "Mount" to activate the _Enter Password_ for prompt screen as follows:
-![image](tool_truecrypt31.png)
+Para usar la función _Protect hidden volume_, realice los siguientes pasos: 
 
-**Step 6.** Type the password you used to create the hidden volume, and then click "OK".
+**Paso 1.** Haga clic en "Montar Opciones ... "en el indicador _Enter Password_ que se muestra en la imagen de arriba. Esto activará la ventana _Mount Options_ de la siguiente manera:
+![Image](tool_truecrypt33.png) 
 
-Your hidden volume is now mounted (or opened) as follows:
-![image](tool_truecrypt32.png)
+**Paso 2.** Verifique _Protect el volumen oculto contra el daño causado por escribir en la opción outer volume_. 
 
-**Step 7.** Double click on above entry or access it through the _My Computer_ window.
+**Paso 3.** Ingrese su contraseña de Hidden Volume, y luego haga clic en "OK ". 
 
-### 5.3 Tips on How to Use the Hidden Disk Feature Securely
+**Paso 4.** Haga clic en "Montar" para montar su volumen estándar. Una vez que lo haya montado correctamente, podrá agregar archivos señuelo sin dañar su volumen oculto. 
 
-The purpose of the hidden disk feature is to escape a potentially dangerous situation by _appearing_ to hand over your encrypted files, when someone in a position of power demands to see them, without actually being forced to reveal your most sensitive information. In addition to protecting your data, this may allow you to avoid further jeopardizing your own safety or exposing your colleagues and partners. For this technique to be effective, you must create a situation where the person demanding to see your files will be satisfied by what you show them and let you go.
+**Paso 5.** Haga clic en "Desmontar" para desmontar, o haga que su volumen estándar no esté disponible para su uso , cuando haya terminado de modificar sus contenidos. 
 
-To do this, you may want to implement some of the following suggestions:
-
-- Put some confidential documents that you do not mind having exposed in the standard volume. This information must be sensitive enough that it would make sense for you to keep it in an encrypted volume.  
-- Be aware that someone demanding to see your files may know about hidden volumes. If you are using TrueCrypt correctly, however, this person will not be able to prove that your hidden volume exists, which will make your denial more believable.  
-- Update the files in the standard volume on a weekly basis. This will create the impression that you really are using those files.
-
-Whenever you mount a TrueCrypt volume, you can choose enable the _Protect hidden volume against damage caused by writing to outer volume_ feature. A very important feature, it lets you add new 'decoy' files to your standard volume without the risk of you accidentally deleting or overwriting the encrypted contents of your hidden volume.
-
-As mentioned earlier, exceeding the storage limit on your standard volume may otherwise destroy your hidden files. Do not enable the _Protect hidden volume_ feature when forced to mount a TrueCrypt volume, because doing so requires you to enter the secret password to your hidden volume and will clearly reveal that volume's existence. When you are updating your decoy files in private, however, you should _always_ enable this option.
-
-To use the _Protect hidden volume_ feature, perform the following steps:
-
-**Step 1.** Click "Mount Options..." on the _Enter Password_ prompt shown in the image above. This will activate the _Mount Options_ window as follows:
-![image](tool_truecrypt33.png)
-
-**Step 2.** Check the _Protect hidden volume against damage caused by writing to outer volume_ option.
-
-**Step 3.** Type in in your Hidden Volume password, and then click "OK".
-
-**Step 4.** Click "Mount" to mount your standard volume. After you have successfully mounted it, you will be able to add decoy files without damaging your hidden volume.
-
-**Step 5.** Click "Dismount" to dismount, or your make your standard volume unavailable for use, when you have finished modifying its contents.
-
-**Remember:** You only need to do this when you are updating the files in your standard volume. If forced to reveal your standard volume to someone else, you should not use the _Protect hidden volume_ feature.
+**Recuerde:** Solo necesita hacer esto cuando esté actualizando los archivos en su volumen estándar. Si se ve obligado a revelar su volumen estándar a otra persona, no debe usar la función _Protect hidden volume_. 
 
 ### 6. Portable TrueCrypt
-![image](tool_truecrypt34.png)
+![Image](tool_truecrypt34.png) 
+Truecrypt conserva sus archivos seguro impidiendo que cualquiera sin la contraseña correcta abra sus documentos y archivos ocultos. Funciona como una caja de seguridad electrónica, que puede usar para bloquear de manera segura sus archivos. 
 
-Truecrypt keeps your files secure by preventing anyone without the correct password from opening your hidden documents and files. It works like an electronic safe, which you can use to securely lock up your files.
+### 6.1 Diferencias entre las versiones instaladas y portátiles de TrueCrypt 
+Dado que las herramientas portátiles no están instaladas en una computadora local, su existencia y uso pueden permanecer sin ser detectados. Sin embargo, tenga en cuenta que su dispositivo externo o dispositivo de memoria USB y herramientas portátiles son solo tan seguros como la computadora que está utilizando y pueden correr el riesgo de estar expuestos a adware, malware, spyware y virus. 
 
-### 6.1 Differences between the Installed and Portable versions of TrueCrypt
+Al igual que muchos de los herramientas de software portátiles documentadas aquí, Portable TrueCrypt le permite usar una herramienta de cifrado de archivos poderosa y simple sin ser detectada. Tener Portable TrueCrypt en un dispositivo extraíble o una memoria USB le permite usarlo desde diferentes estaciones de trabajo. 
 
-Given that portable tools are not installed on a local computer, their existence and use may remain undetected. However, keep in mind that your external device or USB memory stick, and portable tools are only as safe as the computer you are using, and may risk being exposed to adware, malware, spyware and viruses.
+Existen muy pocas diferencias entre las versiones instaladas y portátiles de Portable TrueCrypt, la principal es que Portable TrueCrypt no permite el cifrado de todo el disco o el disco del sistema. 
 
-As with many of the portable software tools documented here, Portable TrueCrypt allows you to use a powerful and simple file encryption tool without being detected. Having Portable TrueCrypt on removable device or USB memory stick lets you use it from different workstations.
+### 6.2 Descarga, extracción y uso de Portable TrueCrypt 
+**Nota:** 
+La carpeta en la que se extraerá Portable TrueCrypt se debe crear manualmente en el dispositivo extraíble , Memoria USB o disco de la computadora antes del proceso de extracción. 
 
-There are very few differences between both the installed and portable versions of Portable TrueCrypt, the main one being that Portable TrueCrypt does not permit the encryption of the entire disk or system disk.
+**Paso 1.** Navegue al destino elegido donde desea extraer el programa Portable TrueCrypt, y luego haga clic con el botón derecho para activar su menú asociado. 
 
-### 6.2 Downloading, Extracting and Using Portable TrueCrypt
+**Paso 2.** Seleccione _New item_ para activar su subcarpeta, y luego seleccione la opción _Folder_ del submenú, como se muestra a continuación:
+![image](tool_truecrypt35.png) 
 
-**Note:** The folder into which Portable TrueCrypt is to be extracted must be created manually on the removable device, USB memory stick or computer disk before the extraction process.
+**Paso 3.** Ingrese el nombre de la carpeta.
 
-**Step 1.** Navigate to chosen destination where you would like to extract the Portable TrueCrypt program to, and then right-click to activate its associated menu.
+**Nota:** Puede darle a esta carpeta un aspecto menos obvio nombre para ocultar la existencia del programa Portable TrueCrypt. 
 
-**Step 2.** Select the _New item_ to activate its sub-folder, and then select the _Folder_ sub-menu item, as shown below:
-![image](tool_truecrypt35.png)
+Portable TrueCrypt se puede extraer del mismo archivo que la versión de instalación: 
 
-**Step 3.** Enter the name of the folder.
+**Paso 1.** Navegue hasta el archivo de instalación TrueCrypt en su computadora. 
 
-**Note:** You may give this folder a less obvious name to conceal the existence of the Portable TrueCrypt program.
+**Paso 2.** Haga doble clic en _TrueCryptSetup7.1.a.exe_; el cuadro de diálogo _Open File - Security Warning_ puede aparecer; si lo hace, haga clic en "Sí" para activar el asistente de instalación de TrueCrypt. 
 
-Portable TrueCrypt can be extracted from the same archive as installation version:
+**Paso 5.** Verifique la opción Extraer para extraer TrueCrypt portable a una unidad extraíble o dispositivo USB como se muestra a continuación:
+![image](tool_truecrypt36.png) 
 
-**Step 1.** Navigate to TrueCrypt installation file on your computer.
+**Paso 6.** Haga clic en "Siguiente" para activar las siguientes dos pantallas:
+![image](tool_truecrypt37.png)![image](tool_truecrypt38.png ) 
 
-**Step 2.** Double click _TrueCryptSetup7.1.a.exe_; the _Open File - Security Warning_ dialog box may appear; if it does, click "Yes" to activate the TrueCrypt installation wizard.
+**Haga clic en** "Aceptar" y "Sí" respectivamente para activar la ventana 
 
-**Step 5.** Check the Extract option to extract TrueCrypt portable to a removable drive or USB device as shown below:
-![image](tool_truecrypt36.png)
+**Opciones de extracción** de la siguiente manera:
+![image](tool_truecrypt39.png) 
 
-**Step 6.** Click "Next" to activate following two screens:
-![image](tool_truecrypt37.png)![image](tool_truecrypt38.png)
+**Paso 7.** Haga clic en "Examinar" para activar la ventana _Browse for Folders_ de la siguiente manera:
+![Image](tool_truecrypt40.png) 
 
- **Click** "OK" and "Yes" respectively to activate the **Extraction Options** window as follows:
-![image](tool_truecrypt39.png)
+**Paso 8.** 
 
-**Step 7.** Click "Browse" to activate the _Browse for Folders_ window as follows:
-![image](tool_truecrypt40.png)
+Navegue a su carpeta de destino ya sea en el disco externo o en el dispositivo de memoria USB, y luego haga clic en "OK ", para regresar a la ventana _Extraction Options_ de la siguiente manera:
+![image](tool_truecrypt41.png) 
 
-**Step 8.** Navigate to your destination folder on either the external drive or USB memory stick, and then click "OK", to return the _Extraction Options_ window as follows:
-![image](tool_truecrypt41.png)
+**Paso 9.** Haga clic en "Extraer" para comenzar a extraer TrueCrypt en su unidad extraíble o memoria USB; unos segundos más tarde, aparecerán las siguientes ventanas:
+![image](tool_truecrypt42.png) 
 
-**Step 9.** Click "Extract" to begin extracting TrueCrypt to your removable drive or USB memory stick; a few seconds later, the following windows will appear:
-![image](tool_truecrypt42.png)
+**Paso 10.** Haga clic en "OK" y luego en "Finish " para completar el proceso de instalación. Si la opción "Abrir la ubicación de destino cuando fininshed "está habilitada (como suele ser de forma predeterminada), aparecerá la siguiente pantalla: 
 
-**Step 10.** Click "OK" and then click "Finish" to complete the installation process.
+**Paso 11.** Navegue a y luego haga doble clic en _TrueCrypt.exe_ para ejecutar Portable TrueCrypt. 
 
-_If the "Open the destination location when fininshed" option was enabled (as it usually is by default), the following screen will appear:_
+Por favor, consulte las instrucciones para TrueCrypt común a partir de este punto en adelante, para más información sobre cómo usar TrueCrypt. 
 
-**Step 11.** Navigate to and then double click _TrueCrypt.exe_ to run Portable TrueCrypt.
+### 6.3 Cómo eliminar todas las huellas de haber extraído Portable TrueCrypt
+**Importante:** Después de haber extraído Portable TrueCrypt con éxito a su dispositivo externo / extraíble, debe eliminar el archivo de instalación de su computadora para eliminar aún más rastros de haberlo descargado e instalado. TrueCrypt. 
 
-Please refer to the instructions for regular TrueCrypt above from this point onwards, for more on how to use TrueCrypt.
+**Paso 1.** Navega hasta la carpeta en la que se descargó Portable TrueCrypt, y luego haz clic con el botón derecho en _TrueCryptSetup 7.1.a.exe_ archivo de instalación para activar el menú emergente de Windows; luego, seleccione el comando "Eliminar " para moverlo a su Papelera de reciclaje. 
 
-### 6.3 How to Eliminate All Traces of Having Extracted Portable TrueCrypt
+**Paso 2.** Haga doble clic en la Papelera de reciclaje para abrir su ventana asociada, y luego seleccione y elimine el archivo. 
 
-**Important:** After you have successfully extracted Portable TrueCrypt to your external/removable device, you must delete the installation file from your computer to further eliminate any traces of you having downloaded and installed Portable TrueCrypt.
-
-**Step 1.** Navigate to the folder in which Portable TrueCrypt was downloaded, and then right click the _TrueCryptSetup7.1.a.exe_ installation file to activate the Windows pop-up menu; then, select the "Delete" command to move it to your Recycle Bin.
-
-**Step 2.** Double click the Recycle Bin to open its associated window, and then select and delete the file.
-
-**Note:** If you have either CCleaner or Eraser installed, you can use either of them to eliminate all traces of your having ever downloaded and installed Portable TrueCrypt. See the **[Safe Deleting lesson](umbrella://lesson/safely-deleting)** for more information on how to do this.
+**Nota:** 
+Si tiene CCleaner o Eraser instalados, puede usar cualquiera de ellos para eliminar todos los rastros de haber descargado e instalado Portable TrueCrypt. Consulte **[Lección de eliminación segura](umbrella://lesson/eliminación segura)** para obtener más información sobre cómo hacer esto.

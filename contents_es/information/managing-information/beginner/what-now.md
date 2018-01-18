@@ -1,12 +1,12 @@
 [Title]: # (¿Y ahora qué?)
 [Order]: # (3)
 
-Swipe right for this lesson's checklist
+Desliza el dedo hacia la derecha para ver la lista de comprobación de esta lección.
 
-### RELATED LESSONS
+### LECCIONES RELACIONADAS
 
-*   [Safely Deleting lesson](umbrella://lesson/safely-deleting)
+*	[Lección de eliminación segura](umbrella://lesson/safely-deleting)
 
-### FURTHER READING
+### OTRAS LECTURAS
 
-*   [EFF - Thread modelling](https://ssd.eff.org/en/module/introduction-threat-modeling)
+*	[EFF - Modelado de hilos](https://ssd.eff.org/en/module/introduction-threat-modeling)
