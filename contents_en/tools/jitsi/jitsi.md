@@ -154,7 +154,7 @@ Even if you encrypt the text chat with OTR all the text messages you send and re
 
 **To disable Jitsi from collecting the information:**
 
-**Step 1.** Select **_Tools > Options**_ in the menu, select the **_General_** tab and uncheck the **_Log chat history_** option.
+**Step 1.** Select **_Tools > Options_** in the menu, select the **_General_** tab and uncheck the **_Log chat history_** option.
 
 **Step 2.** in the _Options_ window, first **select the Advanced** tab, then **select the _Logging_** section, and then **uncheck the _Enable packet logging_** option as shown below:
 ![image](tool_jitsi11.png)
