@@ -62,7 +62,7 @@ TrueCrypt提供了创建标准加密卷或隐藏卷的功能。任何一个都�
 
 步骤5. 
 单击”确定“，然后单击”完成“以激活以下屏幕：
-！[image](tool_truecrypt4。 png)
+！[image](tool_truecrypt4.png)
 
 **第6步。**点击“是”完成TrueCrypt安装。注意：**强烈建议所有用户参考[TrueCrypt帮助文档](http：//andryou.com/truecrypt/docs/index.php)。**
 
