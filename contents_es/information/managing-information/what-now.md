@@ -6,7 +6,7 @@ Desliza el dedo hacia la derecha para ver la lista de comprobación de esta lecc
 
 ### LECCIONES RELACIONADAS*
 
-*	[Safely Deleting lesson](umbrella://lesson/safely-deleting)
+*	[Lección de eliminación segura](umbrella://lesson/safely-deleting)
 
 ### OTRAS LECTURAS
 
