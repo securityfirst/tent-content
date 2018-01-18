@@ -2,369 +2,368 @@
 [Difficulty]: # (Principiante)
 [Order]: # (0)
 
-# K9 & APG TOOL GUIDE
+# K9 & APG GUÍA DE HERRAMIENTAS
 
-## K9 & APG Tool Guide  
- Encrypted email for Android
+## K9 & APG Guía de herramientas
+ Correo electrónico encriptado para Android
+ 
+**Lección para leer: [Correo electrónico](umbrella://lesson/email)**
+**Ubicación de descarga:**
+- **[Página de inicio de APG](http://www.thialfihar.org/projects/apg/)**
+- **[Página de inicio de K-9 Mail](https://code.google.com/p/k9mail)**
+**Requisitos del teléfono:**
+- Android 1.5 o superior
+- APG debe estar instalado antes de instalar K-9 Mail
+**Versión utilizada en esta guía:**
+- APG 1.1.1
+- K-9 5.001
+**Licencia:**
+- APG: software libre y de código abierto (Gnu GPL v3)
+- K-9: Software gratuito y de código abierto (Apache 2.0)
+**Otra lectura:**
+- [Contraseñas](paraguas: // lección / contraseñas)
+- [Teléfonos móviles](paraguas: // lección / teléfonos móviles)
+**Nivel:** Avanzado
+**Tiempo requerido:** 30-40 minutos
 
-**Lesson to read: [Email](umbrella://lesson/email)**  
-**Download Location:**   
-- **[APG homepage](http://www.thialfihar.org/projects/apg/)**
-- **[K-9 Mail homepage](https://code.google.com/p/k9mail)**
-**Phone requirements:**   
-- Android 1.5 or up  
-- APG must be installed before installing K-9 Mail  
-**Version used in this guide:**   
-- APG 1.1.1  
-- K-9 5.001  
-**License:**   
-- APG: Free and Open Source Software (Gnu GPL v3)  
-- K-9: Free and Open Source Software (Apache 2.0)  
-**Other reading:**   
-- [Passwords](umbrella://lesson/passwords)  
-- [Mobile Phones](umbrella://lesson/mobile-phones)  
-**Level:** Advanced  
-**Time required:** 30-40 minutes
+**El uso de K-9 y APG te dará:**
+- APG se puede utilizar para cifrar, descifrar y firmar correos electrónicos y archivos individuales localmente en su teléfono.
+- Cuando se utiliza APG con K-9, le brinda la posibilidad de utilizar correos electrónicos encriptados fácilmente en su teléfono.
 
-**Using K-9 & APG will give you:**  
-- APG can be used to encrypt, decrypt and sign emails and single files locally on your phone.  
-- When APG is used with K-9 it gives you the ability to use encrypted email easily on your phone.
-
-**Android Privacy Guard (APG) for Android Devices**
+**Android Privacy Guard (APG) para dispositivos Android**
 ![image](tool_k91.png)
 
-### 1.0 How To Install APG
+### 1.0 Cómo instalar APG
 
-**Step 1.** On your Android device, download and install the app from **[Google Play here](https://play.google.com/store/apps/details?id=org.thialfihar.android.apg)** by pressing, "Install".
+**Paso 1.** En su dispositivo Android, descargue e instale la aplicación desde **[Google Play aquí](https://play.google.com/store/apps/details?id=org.thialfihar.android. apg)** presionando, "Instalar".
 ![image](tool_k92.png)
 
-**Step 2:** Before the installation process begins, you will be prompted to review the access that the application will have on your phone. Review this carefully. Once you are happy with the permissions that will be granted, press "Accept" and the installation will complete. If you do not agree with the permissions that will be granted, press the back button and the installation will be cancelled.
+**Paso 2:** Antes de que comience el proceso de instalación, se le pedirá que revise el acceso que la aplicación tendrá en su teléfono. Revisa esto cuidadosamente. Una vez que esté satisfecho con los permisos que se le otorgarán, presione "Aceptar" y la instalación se completará. Si no está de acuerdo con los permisos que se le otorgarán, presione el botón Atrás y la instalación se cancelará.
 ![image](tool_k93.png)
 
-### 1.1 Key Management
+### 1.1 Gestión de claves
 
-In order to encrypt files or messages when you first start APG, you will be asked to either import existing GPG keys or create a new public and private key on your phone.
+Para encriptar archivos o mensajes la primera vez que inicie APG, se le pedirá que importe claves GPG existentes o que cree una nueva clave pública y privada en su teléfono.
 ![image](tool_k94.png)
 
-**Note:** If you want to send encrypted files or messages to other people, you will either need to import their public keys or decide on a shared password.
+** Nota:** Si desea enviar archivos cifrados o mensajes a otras personas, deberá importar sus claves públicas o decidir una contraseña compartida.
 
-### 1.1.1 Key Management - Create Your Public And Private Keys
+### 1.1.1 Gestión de claves: crea tus claves públicas y privadas
 
-If you do not already have your private and public GPG key or wish to use a separate GPG keys for your Android device you can use APG to create them.
+Si aún no tiene su clave GPG pública y privada o desea usar una clave GPG separada para su dispositivo Android, puede usar APG para crearla.
 
-**Step 1:** When you open APG for the first time click the "Creating your own key" button, as shown above.
+**Paso 1:** Cuando abre APG por primera vez, haga clic en el botón "Crear su propia clave", como se muestra arriba.
 
-**Step 2:** Wait 2 - 3 minutes while your GPG keys are generated. You will be able to assign your name and email address to the key in the next step.
+**Paso 2:** Espere de 2 a 3 minutos mientras se generan las claves GPG. Podrá asignar su nombre y dirección de correo electrónico a la clave en el siguiente paso.
 
-**Step 3:** In the following screen, below:
+**Paso 3:** En la siguiente pantalla, a continuación:
 
-- We strongly recommend that you protect your GPG keys with password. To do this press "Set Passphrase" and provide strong password. See the **[Passwords lesson](umbrella://lesson/passwords)** on how best to do this;  
-- Fill in your _name, email address_;  
-- It is important that you set an expiry date on the GPG keys, after which time the keys can no longer be used to encrypt files.
+- Le recomendamos encarecidamente que proteja sus claves GPG con contraseña. Para hacer esto, presione "Establecer frase de contraseña" y proporcione una contraseña segura. Consulte ** [Contraseñas lección](paraguas: // lección / contraseñas) ** sobre la mejor manera de hacerlo;
+- Complete su _name, dirección de correo electrónico_;
+- Es importante que establezca una fecha de caducidad en las claves GPG, después de lo cual las claves ya no se pueden usar para cifrar archivos.
 ![image](tool_k95.png)
 
-**Step 4:** Once all the information is correct, tap "Save" at the top of the screen to be brought back to the main APG screen, as shown above, where you will see a list of all your keys.
+**Paso 4:** Una vez que toda la información es correcta, toque "Guardar" en la parte superior de la pantalla para volver a la pantalla principal de APG, como se muestra arriba, donde verá una lista de todas sus claves.
 
-### 1.1.2 Key Management - Import Keys From A File
+### 1.1.2 Gestión de claves - Importar claves desde un archivo
 
-To use GPG keys that you created on another device or computer, or to import the public keys of your contact:
+Para usar las claves GPG que creó en otro dispositivo o computadora, o para importar las claves públicas de su contacto:
 
-**Step 1:** Copy the GPG key(s) to your Android device via USB or save them from the email that you received on the Android device.
+**Paso 1:** Copie las claves GPG a su dispositivo Android a través de USB o guárdelas del correo electrónico que recibió en el dispositivo Android.
 
-**Step 2:** In APG, click the "Importing Keys" button.
+**Paso 2:** En APG, haga clic en el botón "Importar claves".
 
-**Step 3:** On the following screen click the "Open" button at the top of your screen to open a file browser.
+**Paso 3:** En la siguiente pantalla, haga clic en el botón "Abrir" en la parte superior de la pantalla para abrir un buscador de archivos.
 
-**Step 4:** From the file browser, select the key(s) you wish to import.
+**Paso 4:** Desde el buscador de archivos, seleccione la (s) clave (s) que desea importar.
 
-**Step 5:** Review the keys you will import and tap "Import Selected Keys" to add the GPG keys to APG. You may decide which keys you do not wish to import by deselecting appropriate checkbox for the keys.
+**Paso 5:** Revise las claves que va a importar y toque "Importar claves seleccionadas" para agregar las claves GPG a APG. Puede decidir qué claves no desea importar desactivando la casilla correspondiente a las claves.
 ![image](tool_k96.png)
 
-**Step 6:** Once you have imported all the desired GPG keys you will be brought back to the main screen where you will see a list of all your keys.
+**Paso 6:** Una vez que haya importado todas las claves GPG deseadas, volverá a la pantalla principal donde verá una lista de todas sus claves.
 ![image](tool_k97.png)
 
-### 1.1.3 Key Management - Import Keys From The Clipboard
+### 1.1.3 Gestión de claves - Importar claves desde el portapapeles
 
-GPG keys can be sent in the body of an email instead of as an attachment to import such a key
+Las claves GPG se pueden enviar en el cuerpo de un correo electrónico en lugar de como un archivo adjunto para importar dicha clave
 
-**Step 1:** Copy the GPG key from your email to the clipboard. The image below shows a GPG key in the body of an email.
+**Paso 1:** Copie la clave GPG de su correo electrónico en el portapapeles. La imagen a continuación muestra una clave GPG en el cuerpo de un correo electrónico.
 ![image](tool_k98.png)
 
-**Step 2:** Open APG and expand the side menu on any APG screen by pressing "APG" at the top left of your screen.
+**Paso 2:** Abra APG y expanda el menú lateral en cualquier pantalla APG presionando "APG" en la parte superior izquierda de su pantalla.
 
-**Step 3:** Select "Import Keys" to bring up the import key screen.
+**Paso 3:** Seleccione "Importar claves" para que aparezca la pantalla de importación de clave.
 
-**Step 4:** Tap "Keyserver" at the top of the screen to display the import options menu and select "Import form clipboard".
+**Paso 4:** Toque "Keyserver" en la parte superior de la pantalla para mostrar el menú de opciones de importación y seleccione "Importar portapapeles".
 ![image](tool_k99.png)
 
-**Step 5:** Tap "Get key from the clipboard" to copy the key from the clipboard.
+**Paso 5:** Toque "Obtener clave del portapapeles" para copiar la clave del portapapeles.
 
-**Step 6:** Tap "Import selected keys" at the bottom of the screen to finish importing the key into APG
+**Paso 6:** Toca "Importar teclas seleccionadas" en la parte inferior de la pantalla para finalizar la importación de la clave en APG
 ![image](tool_k910.png)
 
-###  1.1.4 Key Management - Share Your Public Key 
-As A File
+### 1.1.4 Gestión de claves: comparte tu clave pública
+Como un archivo
 
 
-In order for your contacts to be able to send you encrypted email, you will first need to send them your _public key_
+Para que sus contactos puedan enviarle correos encriptados, primero deberá enviarles su _public key_
 
-**Step 1:** From the main **APG** window tap on your key's entry to bring you to the _info_ screen (as above) for your GPG key.
+**Paso 1:** Desde la ventana principal de **APG**, toque la entrada de su llave para llevarlo a la pantalla _info_ (como se indicó anteriormente) para su llave GPG.
 
-**Step 2:** Tap on the three vertical dots in the top right corner to display the menu and select "Export to file".
+**Paso 2:** Toque los tres puntos verticales en la esquina superior derecha para mostrar el menú y seleccione "Exportar a archivo".
 ![image](tool_k911.png)
 
-**Step 3:** Select the location and file name you want to save your public key to and press "OK".
+**Paso 3:** Seleccione la ubicación y el nombre del archivo donde desea guardar su clave pública y presione "OK".
 ![image](tool_k912.png)
 
- **Step 4:** The saved file cannot be given to your contacts, for example via email or IM.
+**Paso 4:** El archivo guardado no puede entregarse a sus contactos, por ejemplo, por correo electrónico o mensajería instantánea.
 
-### 1.1.5 Key Management - Share Your Public Key 
-From The Clipboard
+### 1.1.5 Gestión de claves: comparte tu clave pública
+Desde el portapapeles
 
 
-**Step 1:** From the main APG window tap on your key's entry to bring you to the _info_ screen for your GPG key.
+**Paso 1:** Desde la ventana principal de APG, toque la entrada de su llave para llevarlo a la pantalla _info_ de su llave GPG.
 
-**Step 2:** Tap the three connected dots at the top of the screen to bring up sharing options and select "Share whole key".
+**Paso 2:** Toque los tres puntos conectados en la parte superior de la pantalla para que aparezcan las opciones para compartir y seleccione "Compartir clave completa".
 
-**Step 3:** In the following menu select "Copy to clipboard" to copy your GPG public key to the clipboard.
+**Paso 3:** En el siguiente menú, seleccione "Copiar al portapapeles" para copiar su clave pública GPG en el portapapeles.
 ![image](tool_k913.png)
 
-**Step 4:** Paste the public key into an email or IM chat session to your contact.
+**Paso 4:** Pegue la clave pública en un correo electrónico o sesión de chat de IM a su contacto.
 
-### 1.1.6 Key Management - Verify Identities
+### 1.1.6 Gestión de claves: verificar identidades
 
-In order to ensure that you have received the correct GPG public key for your colleague and not someone trying to impersonate them, it is very important that you verify the GPG keys fingerprints either in person or via a medium that you can verify who you are talking to such as a video call or telephone call.
+Para asegurarse de que ha recibido la clave pública GPG correcta para su colega y no de alguien que intenta personificarla, es muy importante que verifique las huellas dactilares de las llaves GPG, ya sea en persona o mediante un medio que pueda verificar con quién está hablando. a una llamada de video o llamada telefónica.
 
-**Step 1:** From the main **APG** window tap on your key's entry to bring you to the _info_ screen for your GPG key. Your contact should do the same and tap on the key they have for you.
+**Paso 1:** Desde la ventana principal de **APG**, toque la entrada de su llave para llevarlo a la pantalla _info_ de su llave GPG. Su contacto debería hacer lo mismo y tocar la tecla que tienen para usted.
 ![image](tool_k914.png)
 
-**Step 2:** Locate the **Fingerprint** line under the **MASTER KEY** heading and read out the 40 character long string one line at a time.
+**Paso 2:** Ubica la línea **Fingerprint** debajo del encabezado ** MASTER KEY ** y lee la cuerda larga de 40 caracteres una línea a la vez.
 ![image](tool_k915.png)
 
- **Step 3:** Your contact should verify that the fingerprint you read out, is the fingerprint displayed for your key on their phone or computer.
+ **Paso 3:** Su contacto debe verificar que la huella dactilar que leyó sea la huella digital que se muestra para su llave en su teléfono o computadora.
+ 
+ **Paso 4:** Repite los pasos 1 a 3, pero toca la tecla de tus contactos en el primer paso.
 
-**Step 4:** Repeat steps 1 to 3 but tap on your contacts key at the first step.
+### 1.2 Cifrado de mensajes
 
-### 1.2 Message Encryption
+APG proporciona dos maneras para cifrar archivos en su dispositivo Android. El cifrado de clave pública es la opción deseada para enviar archivos a otras personas, ya que no tendrá que compartir ninguna frase de contraseña con ellos. Sin embargo, deberá recibir la clave pública de cada persona que desee cifrar con anticipación. El cifrado de frase de contraseña puede ser útil para poder descifrar un archivo en una fecha posterior sin la necesidad de tener acceso a una clave pública. Pero este método requiere compartir la frase de contraseña utilizada para encriptar el archivo para descifrarlo más tarde.
 
-APG provides two ways for you to encrypt files on your Android device. Public key encryption is the desired option to use when sending files to other people as you will not have to share any passphrase with them. However you will need to receive public key from each person you wish to encrypt files to in advance. Passphrase encryption can be useful to be able to decrypt a file at a later date without the need to have access to a public key. But this method requires sharing the passphrase used to encrypt the file in order to decrypt it later.
+El cifrado de mensajes en **APG** puede ser útil si desea almacenar notas cifradas en otra aplicación o enviar correos electrónicos o mensajes cifrados a través de un servicio con el que no puede usar el correo K-9 (por ejemplo, correo web, mensaje de redes sociales, etc...).
 
-Message encryption in **APG** can be useful if you want to store encrypted notes in another application or send encrypted email or message via a service that you can not use K-9 Mail with (eg. webmail, social networking message, etc.).
+### 1.2.1 Cifrado de mensajes - Clave pública
 
-### 1.2.1 Message Encryption - Public Key
+**Paso 1:** Expande el menú lateral en cualquier pantalla ** APG ** presionando "APG" en la parte superior izquierda de tu pantalla.
 
-**Step 1:** Expand the side menu on any **APG** screen by pressing "APG" at the top left of your screen.
+**Paso 2:** Seleccione "Encriptar" para que aparezca la pantalla de encriptación.
 
-**Step 2:** Select "Encrypt" to bring up the encryption screen.
+**Paso 3:** Para ver la lista de posibles destinatarios, presione el botón "Seleccionar" con el icono de la persona. ** Nota:** Si desea poder descifrar el mensaje en otro momento, deberá recordar incluirse en la lista de destinatarios.
 
-**Step 3:** To view the list of possible recipients press "Select" button with the person icon. **Note:** If you want to be able to decrypt the message at a later time, you will need to remember to include yourself in the list of recipients.
-
-**Step 4:** On the Recipient selection screen, tick all the people that need to be able to decrypt the message and press "Okay".
+**Paso 4:** En la pantalla de selección de destinatarios, marque todas las personas que necesitan descifrar el mensaje y presione "Aceptar".
 ![image](tool_k916.png)
 
-**Step 5:** Choose how to encrypt your message. Tapping "Share with..." will allow you to send the encrypted message to another application on your phone such as an email client. Tapping "Clipboard" will copy the encrypted message to your clipboard allowing you to paste the message anywhere that you can paste, such as an online forum.
+**Paso 5:** Elija cómo encriptar su mensaje. Al tocar "Compartir con ...", podrá enviar el mensaje cifrado a otra aplicación de su teléfono, como un cliente de correo electrónico. Al tocar "Portapapeles" se copiará el mensaje cifrado a su portapapeles, lo que le permite pegar el mensaje en cualquier lugar que pueda pegar, como un foro en línea.
 
-### 1.2.2 Message Encryption - PassPhrase
+### 1.2.2 Cifrado de mensajes - PassPhrase
 
-**Step 1:** Expand the side menu on any APG screen by pressing "APG" at the top left of your screen.
+**Paso 1:** Expande el menú lateral en cualquier pantalla APG presionando "APG" en la parte superior izquierda de tu pantalla.
 
-**Step 2:** Select "Encrypt" to bring up the encryption screen.
+**Paso 2:** Seleccione "Encriptar" para que aparezca la pantalla de encriptación.
 
-**Step 3:** Press the buttons to either side of **PUBLIC KEY** to change the encryption type to PASSPHRASE.
+**Paso 3:** Presione el botones a ambos lados de **CLAVE PUBLICA** para cambiar el tipo de encriptación a PASAPRASE.
 
-**Step 4:** Enter a strong password in the fields provided.
+**Paso 4:** Ingrese una contraseña segura en los campos provistos.
 
-**Step 5:** Enter the message you want to encrypt
+**Paso 5:** Ingrese el mensaje que desea encriptar
 ![image](tool_k917.png)
 
-**Step 6:** Choose how to use your encrypted message. Tapping "Share with..." will allow you to send the encrypted message to another application on your phone such as an email client. Tapping "Clipboard" will copy the encrypted message to your clipboard allowing you to paste the message anywhere that you can paste, such as an online forum.
+**Paso 6:** Elija cómo usar su mensaje encriptado. Al tocar "Compartir con ...", podrá enviar el mensaje cifrado a otra aplicación de su teléfono, como un cliente de correo electrónico. Al tocar "Portapapeles" se copiará el mensaje cifrado a su portapapeles, lo que le permite pegar el mensaje en cualquier lugar que pueda pegar, como un foro en línea.
 
-**Note:** If you plan to share the encrypted message with a contact you will need to relay the _passphrase_ to them in a secure way, such as in person. It should never be sent to anyone over email or IM if it is not encrypted.
+**Nota:** Si planea compartir el mensaje cifrado con un contacto, deberá retransmitir la _passphrase_ de forma segura, como en persona. Nunca se debe enviar a nadie por correo electrónico o mensajería instantánea si no está encriptado.
 
-### 1.2.3 Message Decryption
+### 1.2.3 Descifrado de mensajes
 
-**Step 1:** Copy the entire contents of the encrypted message that you received in the other app to the clipboard by long-taping on the message and selecting copy button.
+**Paso 1:** Copie todo el contenido del mensaje cifrado que recibió en la otra aplicación en el portapapeles grabando el mensaje y seleccionando el botón Copiar.
 
-**Step 2:** Switch to APG app and expand the side menu on any APG screen by pressing "APG" at the top left of your screen.
+**Paso 2:** Cambie a la aplicación APG y expanda el menú lateral en cualquier pantalla APG presionando "APG" en la parte superior izquierda de su pantalla.
 
-**Step 3:** Select "Decrypt" to bring up the encryption screen.
+**Paso 3:** Seleccione "Descifrar" para que aparezca la pantalla de encriptación.
 
-**Step 4:** APG will automatically detect that the clipboard has an encrypted message in it and ask you for either your GPG password, if the sender used public key encryption, or for the message password, if you used the _passphrase_ encryption.
+**Paso 4:** APG detectará automáticamente que el portapapeles tiene un mensaje cifrado y le pedirá su contraseña GPG, si el remitente usó cifrado de clave pública, o la contraseña del mensaje, si utilizó el cifrado _passphrase_.
 ![image](tool_k918.png)
 
-**Step 5:** The decrypted message will be displayed in a text window inside APG.
+**Paso 5:** El mensaje descifrado se mostrará en una ventana de texto dentro de APG.
 
-### 1.3 File Encryption
+### 1.3 Cifrado de archivos
 
-As with message encryption public key is the preferred encryption method but password encryption will allow you to decrypt on a phone or computer that does not have a private key installed but does have APG or GPG software.
+Al igual que con el cifrado de mensajes, la clave pública es el método de cifrado preferido, pero el cifrado de contraseñas le permitirá descifrar en un teléfono o computadora que no tenga una clave privada instalada pero que tenga un software APG o GPG.
 
-### 1.3.1 File Encryption - Public Key
+### 1.3.1 Cifrado de archivos - Clave pública
 
-**Step 1:** Expand the side menu on any APG screen by pressing "APG" at the top left of your screen.
+**Paso 1:** Expande el menú lateral en cualquier pantalla APG presionando "APG" en la parte superior izquierda de tu pantalla.
 
 
-**Step 2:** Select "Encrypt" to bring up the encryption screen.
+**Paso 2:** Seleccione "Encriptar" para que aparezca la pantalla de encriptación.
 
-**Step 3:** To view the list of possible recipients press "Select" by the person icon. **Note:** If you want to be able to decrypt the file yourself at a later time, you will need to remember to include yourself in the list of recipients.
+**Paso 3:** Para ver la lista de posibles destinatarios, presione "Seleccionar" con el icono de la persona. ** Nota:** Si desea poder descifrar el archivo usted mismo más adelante, deberá recordar incluirse en la lista de destinatarios.
 
-**Step 4:** On the Recipient selection screen, tick all the people you want to be able to decrypt the file and press "Okay".
+**Paso 4:** En la pantalla de selección de destinatarios, marque todas las personas que desee para poder descifrar el archivo y presione "Aceptar".
 ![image](tool_k919.png)
 
-**Step 5:** Press the buttons to either side of **MESSAGE** to change the encryption type to **FILE**.
-
-**Step 6:** Tap the open file icon to open the file browser and select the file you want to encrypt.
+ **Paso 5:** Presione el botones a ambos lados de ** MENSAJE ** para cambiar el tipo de encriptación a ** ARCHIVO **.
+ 
+ **Paso 6:** Toque el ícono del archivo abierto para abrir el buscador de archivos y seleccione el archivo que desea encriptar.
 ![image](tool_k920.png)
 
-**Step 7:** press "Encrypt File" to choose a file name and location to save the file to.
+**Paso 7:** presiona "Encrypt File" para elegir un nombre de archivo y ubicación para guardar el archivo.
 ![image](tool_k921.png)
 
-**Step 8:** Tap "OK" to complete the encryption process.
+**Paso 8:** Toque "OK" para completar el proceso de encriptación.
 
-### 1.3.2 File Encryption - PassPhrase
+### 1.3.2 Cifrado de archivos - PassPhrase
 
-**Step 1:** Expand the side menu on any APG screen by pressing "APG" at the top left of your screen.
+**Paso 1:** Expande el menú lateral en cualquier pantalla APG presionando "APG" en la parte superior izquierda de tu pantalla.
 
-**Step 2:** Select "Encrypt" to bring up the encryption screen.
+**Paso 2:** Seleccione "Encriptar" para que aparezca la pantalla de encriptación.
 
-**Step 3:** Press the 
- buttons to either side of **PUBLIC KEY** to change the encryption type to **PASSPHRASE
-.**
+**Paso 3:** Presione el
+ botones a cada lado de ** CLAVE PÚBLICA ** para cambiar el tipo de encriptación a ** PASAPORTE **
+ .
 
 
-**Step 4:** Enter a strong password in the fields provided.
+**Paso 4:** Ingrese una contraseña segura en los campos provistos.
 
-**Step 5:** Press the 
- buttons to either side of **MESSAGE** to change the encryption type to FILE.
+**Paso 5:** Presione el
+ botones a ambos lados de ** MENSAJE ** para cambiar el tipo de encriptación a ARCHIVO.
 
-**Step 6:** Tap the open file icon to open the file browser and select the file you want to encrypt.
+ **Paso 6:** Toque el ícono del archivo abierto para abrir el buscador de archivos y seleccione el archivo que desea encriptar.
 ![image](tool_k922.png)
 
-**Step 7:** press "Encrypt file" to choose a file name and location to save the file to.
+**Paso 7:** presiona "Cifrar archivo" para elegir un nombre de archivo y ubicación para guardar el archivo.
 ![image](tool_k923.png)
 
-**Step 8:** Tap "OK" to complete the encryption process.
+**Paso 8:** Toque "OK" para completar el proceso de encriptación.
 
-**Note:** If you plan to share the encrypted file with a contact you will need to relay the _passphrase_ to them in a secure way, such as in person. It should never be sent to anyone over email or IM if it is not encrypted.
+**Nota:** Si planea compartir el archivo cifrado con un contacto, deberá retransmitir la _passphrase_ de forma segura, como en persona. Nunca se debe enviar a nadie por correo electrónico o mensajería instantánea si no está encriptado.
 
-### 1.3.3 File Decryption
+### 1.3.3 Descifrado de archivos
 
-**Step 1:** Expand the side menu on any APG screen by pressing "APG" at the top left of your screen.
+**Paso 1:** Expande el menú lateral en cualquier pantalla APG presionando "APG" en la parte superior izquierda de tu pantalla.
 
-**Step 2:** Select "Decrypt" to bring up the encryption screen.
+**Paso 2:** Seleccione "Descifrar" para que aparezca la pantalla de encriptación.
 
-**Step 3:** Tap the 
- buttons to either side of **MESSAGE** to change the encryption type to **FILE**.
+**Paso 3:** Toca el botones a ambos lados de **MENSAJE** para cambiar el tipo de encriptación a **ARCHIVO**.
 
-**Step 4:** Tap the open file icon to open the file browser and select the file you want to decrypt.
+ **Paso 4:** Toque el icono de abrir archivo para abrir el buscador de archivos y seleccionar el archivo que desea descifrar.
 ![image](tool_k924.png)
 
-**Step 7:** press "Decrypt" after which you will be prompted for your GPG keys password if public key encryption was used or for the file password if you used the _passphrase_ encryption.
+**Paso 7:** presiona "Descifrar", después de lo cual se te solicitará la contraseña de las llaves GPG si se utilizó el cifrado de clave pública o la contraseña del archivo si usaste el cifrado _passphrase_.
 ![image](tool_k925.png)
 
-**Step 8:** Tap "OK" to choose a location to save the decrypted document.
+**Paso 8:** Toque "OK" para elegir una ubicación para guardar el documento descifrado.
 ![image](tool_k926.png)
 
-**Step 9:** Tap "OK" to complete the decryption process.
+**Paso 9:** Toque "OK" para completar el proceso de descifrado.
 
 * * *
 
-**K-9 Mail with APG**
+**Correo K-9 con APG**
 ![image](tool_k927.png)
 
-### 2.0 How to Install _K-9 Mail_
+### 2.0 Cómo instalar _K-9 Mail_
 
 
-**Note:** Before you start using K-9 Mail you will need to have an email account, such as Gmail, that supports either secure POP3 or IMAP connections.
+** Nota:** Antes de comenzar a utilizar el Correo K-9, deberá tener una cuenta de correo electrónico, como Gmail, que admita conexiones seguras POP3 o IMAP.
 
-**Step 1.** On your Android device, **download** and **install** the app from the [Google Play store here](https://play.google.com/store/apps/details?id=com.fsck.k9) store by tapping "Install".
+**Paso 1.** En su dispositivo Android, **descargue** y **instale** la aplicación en la [tienda Google Play aquí](https://play.google.com/store/apps/details? id = com.fsck.k9) almacenar tocando "Instalar".
 ![image](tool_k928.png)
 
-**Step 2.** Before the installation process begins, you will be prompted to review the access that the application will have on your phone. Review this carefully. Once you are happy with the permissions that will be granted, tap "Accept" and the installation will complete. If you do not agree with the permissions that will be granted, tap the back button and the installation will be cancelled.
+**Paso 2.** Antes de que comience el proceso de instalación, se le pedirá que revise el acceso que la aplicación tendrá en su teléfono. Revisa esto cuidadosamente. Una vez que esté satisfecho con los permisos que se le otorgarán, toque "Aceptar" y la instalación se completará. Si no está de acuerdo con los permisos que se otorgarán, toque el botón Atrás y la instalación se cancelará.
 ![image](tool_k929.png)
 
-**Step 3.** Tap "Open" to run the app for the first time
+**Paso 3.** Toca "Abrir" para ejecutar la aplicación por primera vez
 
-## 2.1 How to configure K-9 Mail
+## 2.1 Cómo configurar el correo K-9
 
-After installing K-9 Mail and running it for the first time you will be presented with a welcome screen describing the features of the mail client. Press "Next" to begin the account setup.
+Después de instalar K-9 Mail y ejecutarlo por primera vez, se le presentará una pantalla de bienvenida que describe las características del cliente de correo. Presione "Siguiente" para comenzar la configuración de la cuenta.
 
-Where possible, K-9 Mail will attempt to automatically configure your email account for you. If this is not possible or you wish to have more control over the account setup you can also manually configure your account.
+Donde sea posible, K-9 Mail intentará configurar automáticamente su cuenta de correo electrónico para usted. Si esto no es posible o si desea tener más control sobre la configuración de la cuenta, también puede configurar manualmente su cuenta.
 
-### 2.1.1 Automatic account setup
+### 2.1.1 Configuración de cuenta automática
 
-**Step 1:** Enter your email address and email password in the fields provided and tap "Next".
+**Paso 1:** Ingrese su dirección de correo electrónico y contraseña de correo electrónico en los campos provistos y toque "Siguiente".
 ![image](tool_k930.png)
 
-**Step 2: K-9 Mail** will connect to the internet and attempt to get your account settings.
+**Paso 2:** **K-9 Mail** se conectará a Internet e intentará obtener la configuración de su cuenta.
 
-**Step 3:** Once the settings have been retrieved you will be asked to enter your name as you want it to be displayed on all outgoing email and to give the account a name. The account name will allow you to distinguish between multiple accounts, should you want to add more. Tap "Done" to complete the account setup.
+**Paso 3:** Una vez que se hayan recuperado las configuraciones, se le pedirá que ingrese su nombre tal como desea que se muestre en todos los correos electrónicos salientes y que le dé un nombre a la cuenta. El nombre de la cuenta le permitirá distinguir entre varias cuentas, en caso de que quiera agregar más. Toca "Listo" para completar la configuración de la cuenta.
 ![image](tool_k931.png)
 
-**Step 4:** K-9 Mail will display changes to the program since the last version, tap "OK" to dismiss this window and be brought to your mail account.
+**Paso 4:** Correo de K-9 mostrará los cambios en el programa desde la última versión, toque "OK" para cerrar esta ventana y ser llevado a su cuenta de correo.
 ![image](tool_k932.png)
 
-**Step 5:** To make sure the account is working in K-9 Mail, send yourself an email from your computer and download it from the K-9 Mail client.
+**Paso 5:** Para asegurarse de que la cuenta funcione en K-9 Mail, envíese un correo electrónico desde su computadora y descárguelo del cliente de correo K-9.
 
-### 2.1.2 Manual account setup
+### 2.1.2 Configuración manual de la cuenta
 
-**Step 1:** Enter your email address and email password in the fields provided and tap "Manual setup".
+**Paso 1:** Ingrese su dirección de correo electrónico y contraseña de correo electrónico en los campos provistos y toque "Configuración manual".
 
-**Step 2:** Select the account type your email is (IMAP/POP/Exchange) and tap the relevant button as in the image below.
+**Paso 2:** Seleccione el tipo de cuenta que su correo electrónico es (IMAP / POP / Exchange) y toque el botón correspondiente como en la imagen a continuación.
 
-**Note:** you will need to refer to your email client settings on your computer to know what account type your email server uses.
+**Nota:** tendrá que consultar la configuración del cliente de correo electrónico en su computadora para saber qué tipo de cuenta utiliza su servidor de correo electrónico.
 ![image](tool_k933.png)
 
-**Step 3:** Next are the incoming server settings. If unsure, refer to the email client on your computer for settings. Always ensure that the _security type_ is set to either _STARTTLS_ or _SSL/TLS_. **Never** use the _none_ option.
+**Paso 3:** A continuación están las configuraciones del servidor entrante. Si no está seguro, consulte la configuración del cliente de correo electrónico en su computadora. Asegúrese siempre de que _security type_ esté configurado en _STARTTLS_ o _SSL / TLS_. ** Nunca ** use la opción _none_.
 ![image](tool_k934.png)
 
-**Step 4. K-9 Mail** will then connect to your mail server to check if your settings are correct. It might display a warning about the certificate of your secured connection. _Do not ignore this!_ This is the only time you can verify that the certificate really belongs to your mail server. If you ignore this, you can not be sure if you are not subject to a _Man-in-the-Middle attack_, and your communications could be intercepted. You can see a SHA-1 fingerprint at the very end of the warning. Either **check** on your computer if the installed certificate from your mail server has the same fingerprint, or find a way to check your mail server's certificate directly from your provider.
+**Paso 4:** **Correo K-9** se conectará a su servidor de correo para verificar si su configuración es correcta. Puede mostrar una advertencia sobre el certificado de su conexión segura. _¡No ignore esto! _ Esta es la única vez que puede verificar que el certificado realmente pertenece a su servidor de correo. Si ignora esto, no puede estar seguro si no está sujeto a un ataque _Man-in-the-Middle_ y sus comunicaciones podrían ser interceptadas. Puede ver una huella digital SHA-1 al final de la advertencia. O bien ** verifique ** en su computadora si el certificado instalado de su servidor de correo tiene la misma huella dactilar o busque una forma de verificar el certificado de su servidor de correo directamente de su proveedor.
 
-**Step 5. K-9 Mail** asks you to configure your outgoing server settings. Again, **ensure** that _Security Type_ is _STARTTLS_ or _SSL/TLS_. For all additional settings, **check** your computer's email client or the settings of your email provider.
+**Paso 5:** **K-9 Mail** le pide que configure la configuración del servidor saliente. De nuevo, ** asegúrese ** de que _Security Type_ sea _STARTTLS_ o _SSL / TLS_. Para todas las configuraciones adicionales, ** verifique ** el cliente de correo electrónico de su computadora o la configuración de su proveedor de correo electrónico.
 ![image](tool_k935.png)
 
-**Step 6.** K-9 Mail now asks you how often you want it to automatically poll for email. Set the option to _never_ and uncheck _enable push mail_ for this account, if you only want to receive email when you manually check, otherwise leave the settings as they are to automatically receive email as they arrive to your account.
+**Paso 6.** K-9 Mail ahora le pregunta con qué frecuencia desea que sondee automáticamente por correo electrónico. Establezca la opción en _never_ y desmarque _enable push mail_ para esta cuenta, si solo desea recibir correos electrónicos cuando los comprueba manualmente; de ​​lo contrario, deje la configuración tal como está para recibir automáticamente el correo electrónico cuando llegue a su cuenta.
 ![image](tool_k936.png)
 
-**Step 7.** The last pieces of information to provide are a nickname for the email account which will be displayed in K-9 Mail and to set up the name you wish to be displayed on all outgoing email. 
+**Paso 7.** Las últimas piezas de información para proporcionar son un apodo para la cuenta de correo electrónico que se mostrará en K-9 Mail y para configurar el nombre que desea que se muestre en todos los correos electrónicos salientes.
 
-**Step 8:** To make sure the account is working in K-9 Mail, send yourself an email from your computer and download it from the K-9 Mail client.
+**Paso 8:** Para asegurarse de que la cuenta funcione en K-9 Mail, envíese un correo electrónico desde su computadora y descárguelo del cliente de correo K-9.
 
-We recommend that you use K-9 Mail only in addition to your computer's email client. Therefore it is important that when you download email with your Android phone, it does not delete the email on the server, since you want to receive the email later with your computer, too. By default, K-9 Mail is set up this way, but you may want to learn more about the settings which can be found in _accounts_; this can be reached by long pressing on the account you have just set up and selecting _account settings_ from the menu. You may also wish to check the _fetching mail_ and _sending mail_ account option for settings.
+Recomendamos que use Correo K-9 solo además del cliente de correo electrónico de su computadora. Por lo tanto, es importante que cuando descargue el correo electrónico con su teléfono Android, no elimine el correo electrónico en el servidor, ya que también desea recibir el correo electrónico más adelante con su computadora. De forma predeterminada, K-9 Mail está configurado de esta manera, pero es posible que desee obtener más información acerca de la configuración que se puede encontrar en _accounts_; esto se puede lograr pulsando prolongadamente en la cuenta que acaba de configurar y seleccionando _configuraciones de cuenta_ en el menú. También es posible que desee comprobar la opción _fetching mail_ y _sending mail_ account para la configuración.
 
-### 2.2 How to Send and Receive Encrypted eMail
+### 2.2 Cómo enviar y recibir correos electrónicos encriptados
 
-One of the main benefits of using K-9 Mail over other email clients is that it lets you send and receive GPG encrypted email. Before you can start sending and receiving encrypted email, you need to ensure that you have all your OpenPGP keys imported into APG, as outlined in the APG section above. If you followed all the necessary steps in the APG keys section your keys will be imported.
+Uno de los principales beneficios de utilizar K-9 Mail sobre otros clientes de correo electrónico es que le permite enviar y recibir correos electrónicos encriptados de GPG. Antes de que pueda comenzar a enviar y recibir correos electrónicos cifrados, debe asegurarse de tener todas sus claves OpenPGP importadas en APG, como se describe en la sección anterior de APG. Si siguió todos los pasos necesarios en la sección de teclas APG, sus claves serán importadas.
 
-###  2.2.1 Sending encrypted email
+### 2.2.1 Envío de correo electrónico cifrado
 
-**Step 1:** From any screen in K-9 Mail tap the Send Email icon to start a new email.
+**Paso 1:** Desde cualquier pantalla en K-9 Mail, toca el ícono Enviar correo electrónico para iniciar un nuevo correo electrónico.
 
-**Step 2:** On the email composition screen add your recipient by either typing in an email address or pressing the Add Recipient icon and selecting one from your address book.
+**Paso 2:** En la pantalla de composición de correo electrónico, agregue su destinatario escribiendo una dirección de correo electrónico o presionando el ícono Agregar destinatario y seleccionando uno de su libreta de direcciones.
 
-**Step 3:** Enable encrypted email by checking the box next to _encrypt_.
+**Paso 3:** Habilite el correo electrónico encriptado marcando la casilla junto a _encrypt_.
 
-**Step 4:** When finished writing your email, press the Send icon to send.
+**Paso 4:** Cuando termine de escribir su correo electrónico, presione el ícono Enviar para enviar.
 ![image](tool_k937.png)
 
-**Step 5:** The following screen will ask you to select which GPG keys to encrypt to. Be default the recipient key and your own should already be selected.
+**Paso 5:** La siguiente pantalla le pedirá que seleccione las claves GPG para encriptar. Sea predeterminado, la clave del destinatario y la suya ya deben estar seleccionadas.
 
-**Note:** You should always ensure that your key is selected so that you can read the encrypted email that you had send.
+**Nota:** Siempre debe asegurarse de que su clave esté seleccionada para que pueda leer el correo electrónico encriptado que envió.
 ![image](tool_k938.png)
 
-**Step 6:** Once all recipient keys have been selected, press "OKAY" to send the email.
+**Paso 6:** Una vez que se hayan seleccionado todas las claves del destinatario, presione "OK" para enviar el correo electrónico.
 
-**Note:** Currently K-9 Mail cannot encrypt attachments, so you will need to encrypt any files with APG that you wish to send, before you compose the email. This is explained in the APG encryption section above. To attach the files tap the paperclip attachment icon and select the encrypted file (ending in _.gpg_).
+**Nota:** Actualmente, K-9 Mail no puede encriptar archivos adjuntos, por lo que deberá cifrar cualquier archivo con APG que desee enviar, antes de redactar el correo electrónico. Esto se explica en la sección de cifrado APG anterior. Para adjuntar los archivos, toque el icono adjunto del clip y seleccione el archivo cifrado (que termina en _.gpg_).
 
-### 2.2.2 Receiving encrypted email
+### 2.2.2 Recepción de correo electrónico cifrado
 
-**Step 1:** Open your _inbox_ and tap the email you wish to read.
+**Paso 1:** Abra su _inbox_ y toque el correo electrónico que desea leer.
 ![image](tool_k939.png)
 
-**Step 2:** Tap the "Decrypt" button.
+**Paso 2:** Toca el botón "Descifrar".
 ![image](tool_k940.png)
 
-**Step 3:** Enter the passphrase for your GPG key when prompted and press "OK" to decrypt the email.
+**Paso 3:** Ingrese la contraseña de su clave GPG cuando se le solicite y presione "OK" para descifrar el correo electrónico.
 ![image](tool_k941.png)
 
 
-**Note:** as **K-9 Mail** is currently not able to decrypt encrypted attachments, you will need to save the attachments to your phone and decrypt them with APG, as explained in the APG decryption section above.
+**Nota:** como **Correo de K-9** actualmente no puede descifrar archivos adjuntos cifrados, deberá guardar los archivos adjuntos en su teléfono y descifrarlos con APG, como se explica en la sección de descifrado de APG anterior.
