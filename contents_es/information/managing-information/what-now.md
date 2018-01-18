@@ -6,8 +6,8 @@ Desliza el dedo hacia la derecha para ver la lista de comprobación de esta lecc
 
 ### LECCIONES RELACIONADAS*
 
-*	[Safely Deleting lesson] (umbrella://lesson/safely-deleting)
+*	[Safely Deleting lesson](umbrella://lesson/safely-deleting)
 
 ### OTRAS LECTURAS
 
-*	[EFF - Modelado de hilos] (https://ssd.eff.org/en/module/introduction-threat-modeling)
+*	[EFF - Modelado de hilos](https://ssd.eff.org/en/module/introduction-threat-modeling)
