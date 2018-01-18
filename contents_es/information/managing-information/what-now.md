@@ -4,7 +4,7 @@
 
 Desliza el dedo hacia la derecha para ver la lista de comprobación de esta lección.
 
-### LECCIONES RELACIONADAS*
+### LECCIONES RELACIONADAS
 
 *	[Lección de eliminación segura](umbrella://lesson/safely-deleting)
 
