@@ -20,33 +20,33 @@
 
 [Type]: # (text_input)
 [Name]: # (question-2)
-[Label]: # ()
+[Label]: # (Question 2:)
 
 [Type]: # (text_input)
 [Name]: # (answer-2)
-[Label]: # ()
+[Label]: # (Answer 2:)
 
 [Type]: # (screen)
 [Name]: # ()
 
 [Type]: # (text_input)
 [Name]: # (question-3)
-[Label]: # ()
+[Label]: # (Question 3:)
 
 [Type]: # (text_input)
 [Name]: # (answer-3)
-[Label]: # ()
+[Label]: # (Answer 3:)
 
 [Type]: # (screen)
 [Name]: # ()
 
 [Type]: # (text_input)
 [Name]: # (question-4)
-[Label]: # ()
+[Label]: # (Question 4:)
 
 [Type]: # (text_input)
 [Name]: # (answer-4)
-[Label]: # ()
+[Label]: # (Answer 4:)
 
 [Type]: # (screen)
 [Name]: # ()

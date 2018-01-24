@@ -20,33 +20,33 @@
 
 [Type]: # (text_input)
 [Name]: # (question-2)
-[Label]: # ()
+[Label]: # (问题2:)
 
 [Type]: # (text_input)
 [Name]: # (answer-2)
-[Label]: # ()
+[Label]: # (答案2:)
 
 [Type]: # (screen)
 [Name]: # ()
 
 [Type]: # (text_input)
 [Name]: # (question-3)
-[Label]: # ()
+[Label]: # (问题3:)
 
 [Type]: # (text_input)
 [Name]: # (answer-3)
-[Label]: # ()
+[Label]: # (答案3:)
 
 [Type]: # (screen)
 [Name]: # ()
 
 [Type]: # (text_input)
 [Name]: # (question-4)
-[Label]: # ()
+[Label]: # (问题4:)
 
 [Type]: # (text_input)
 [Name]: # (answer-4)
-[Label]: # ()
+[Label]: # (答案4:)
 
 [Type]: # (screen)
 [Name]: # ()
