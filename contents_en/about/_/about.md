@@ -17,6 +17,7 @@ Our team:
 *  	Alex Guerrieri -> moars things
 *   Holly Kilroy -> writes things
 *   Vesna Planko -> designs things
+* 	Douglas Alipio -> codes things
 
 Friends from the past now working on new things:
 *   Mitesh Patel -> improved things
