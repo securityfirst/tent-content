@@ -7,6 +7,8 @@
 ## TrueCrypt Tool Guide   
 Secure File Storage
 
+**NOTE: TrueCrypt is currently unmaintained and no longer recommended. An Umbrella tool guide to VeraCrypt, a free, open source alternative, is coming soon. Step-by-step instructions are also available [here] (https://securityinabox.org/en/guide/veracrypt/windows/).**
+
 **Lesson to read: [Protecting Files](umbrella://lesson/protecting-files)**  
 **Download Location:** [https://truecrypt.ch/downloads/](https://truecrypt.ch/downloads/)  
 **Computer requirements:**   
@@ -22,7 +24,7 @@ _(The developers web page is offering a new version 7.2 of TrueCrypt with some f
 **Using TrueCrypt will give you:**- The ability to effectively protect your files from intruders or unauthorized access  
 - The ability to easily and securely store copies of your important files
 
-**NOTE: TrueCrypt is currently unmaintained, which might have security implications.**![image](tool_truecrypt1.png)
+![image](tool_truecrypt1.png)
 
 ### 1.0 Before you start 
 
