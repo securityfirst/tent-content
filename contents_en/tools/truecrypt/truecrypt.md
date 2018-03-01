@@ -7,7 +7,7 @@
 ## TrueCrypt Tool Guide   
 Secure File Storage
 
-**NOTE: TrueCrypt is currently unmaintained and no longer recommended. An Umbrella tool guide to VeraCrypt, a free, open source alternative, is coming soon. Step-by-step instructions are also available [here] (https://securityinabox.org/en/guide/veracrypt/windows/).**
+**NOTE: TrueCrypt is unmaintained since 2014 and no longer recommended. An Umbrella tool guide to VeraCrypt, a free, open source alternative, is coming soon. Step-by-step instructions are also available [here] (https://securityinabox.org/en/guide/veracrypt/windows/).**
 
 **Lesson to read: [Protecting Files](umbrella://lesson/protecting-files)**  
 **Download Location:** [https://truecrypt.ch/downloads/](https://truecrypt.ch/downloads/)  
@@ -15,7 +15,6 @@ Secure File Storage
 - An internet connection, Windows 2000/XP/2003/Vista/7, Mac OS X or GNU Linux (This guide runs through Windows)  
 - Administrator rights required for installation or to create volumes but not to access existing volumes  
 **Version used in this guide:** 7.1a  
-_(The developers web page is offering a new version 7.2 of TrueCrypt with some functionality removed. Despite this new release we recommend that you continue to use older version 7.1a.)_  
 **License:** Free and Open-Source Software  
 **Level:** Advanced  
 **Other reading:** [http://andryou.com/truecrypt/docs/index.php](http://andryou.com/truecrypt/docs/index.php)   
