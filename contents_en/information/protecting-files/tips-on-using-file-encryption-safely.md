@@ -4,7 +4,7 @@
 
 # Tips on using file encryption safely
 
-There are a few things you should bear in mind when using TrueCrypt and tools like it. No matter how sturdy your safe is, it won't do you a whole lot of good if you leave the door open. When your TrueCrypt volume or container is 'mounted' (what it calls open to view your files), your data may be vulnerable, so you should keep it closed except when you are actually reading or modifying the files inside it.
+There are a few things you should bear in mind when using VeraCrypt and tools like it. No matter how sturdy your safe is, it won't do you a whole lot of good if you leave the door open. When your VeraCrypt volume or container is 'mounted' (what it calls open to view your files), your data may be vulnerable, so you should keep it closed except when you are actually reading or modifying the files inside it.
 
 There are a few situations when it is especially important that you remember to 'dismount' (what it calls close) your encrypted volume:
 
