@@ -154,8 +154,6 @@ To create a _Standard volume_ with **VeraCrypt**, perform the following steps.
 
 ![image](tool_veracrypt11.png)
 
-Main VeraCrypt window
-
 _Figure 1: The main VeraCrypt window_
 
 **Step 2**. **Click** **\[Create Volume\]** to activate the _VeraCrypt Volume Creation Wizard_
@@ -212,8 +210,6 @@ Here, you can choose a specific method (or _algorithm_ ) to use when encrypting 
 
 ![image](tool_veracrypt18.png)
 
-screenshot of VeraCrypt's volume creation wizard's volume size window
-
 _Figure 8: The Volume Creation Wizard displaying the Volume Size window_
 
 The _Volume Size_ window lets you specify the size of the _container_ you are about to create. In this section, we will create a 250 MB volume, but you might want to specify a different size. Consider the number of files — and, more importantly, the _types_ of files — you intend to store in your encrypted volume. Image files and videos, in particular, can fill up a small **VeraCrypt** container very quickly.
@@ -257,8 +253,6 @@ _Figure 12: volume has been successfully created_
 **Step 14**. **Click** **\[OK\]** to acknowledge the completion of the creation process and return to the volume creation wizard.
 
 ![image](tool_veracrypt23.png)
-
-screenshot of VeraCrypt's Volume Creation Wizard completion notice
 
 _Figure 13: Exit or create another encrypted volume_
 
@@ -466,7 +460,7 @@ _Figure 3: The main window of VeraCrypt with a container selected_
 
 **Step 5.** **Click** **\[Mount\]** to enter your passphrase
 
-![image](tool_veracrypt44.png)
+![image](tool_veracrypt45.png)
 
 _Figure 4: The Enter Password screen_
 
@@ -485,7 +479,7 @@ If your _container_ holds a hidden volume, choose one of the options below:
 
 If the passphrase you entered is incorrect, **VeraCrypt** will prompt you to enter it again. If it is correct, your encrypted volume will be mounted as follows:
 
-![image](tool_veracrypt45.png)
+![image](tool_veracrypt44.png)
 
 _Figure 5: The VeraCrypt main window displaying the newly mounted volume_
 
@@ -581,7 +575,7 @@ _Figure 4: The Enter Password screen_
 
 **Step 6.** **Click** **\[Mount Options...\]**, which will allow you to protect your _hidden volume_ while modifying the contents of your _standard volume_
 
-![image](tool_veracrypt54)
+![image](tool_veracrypt54.png)
 
 _Figure 5: VeraCrypt's Mount Options screen_
 
@@ -603,7 +597,7 @@ _Figure 7: VeraCrypt's "Hidden volume is now protected" screen_
 
 **Step 11.** **Click** **\[OK\]** to return to the main VeraCrypt window
 
-![VeraCrypt's Enter Password screen](/media/veracrypt-win-en-v01-408-enter-sv.png)
+![image](tool_veracrypt57.png)
 
 VeraCrypt's Enter Password screen
 
@@ -618,7 +612,7 @@ As when mounting a volume normally, there are two ways to enter a mounted volume
 
 The volume shown below is empty. But, once you have stored "decoy" files in your _standard volume_, they will be accessible whenever you mount it. And, if you have protected your _hidden volume_ with the steps above, you will be able to add or modify files.
 
-![image](tool_veracrypt57.png)
+![image](tool_veracrypt58.png)
 
 _Figure 9: Inside the mounted VeraCrypt standard volume with a protected hidden volume_
 
@@ -640,7 +634,7 @@ For the first item, above, see [Creating a standard volume](#creating-a-standard
 
 With the **VeraCrypt** _main window_ open, and your new **VeraCrypt** volume mounted, carry out the following steps:
 
-![image](tool_veracrypt58.png)
+![image](tool_veracrypt59.png)
 
 _Figure 1: VeraCrypt's main window showing a mounted volume_
 
@@ -648,7 +642,7 @@ _Figure 1: VeraCrypt's main window showing a mounted volume_
 
 **Step 2**. **Click** **\[Select File...\]** to choose your **TrueCrypt** container
 
-![image](tool_veracrypt59.png)
+![image](tool_veracrypt60.png)
 
 _Figure 2: Choosing a TrueCrypt container_
 
@@ -656,13 +650,13 @@ _Figure 2: Choosing a TrueCrypt container_
 
 **Step 4**. **Click** **\[Open\]** to return to the _main window_
 
-![image](tool_veracrypt60.png)
+![image](tool_veracrypt61.png)
 
 _Figure 3: VeraCrypt's main window with a TrueCrypt container selected_
 
 **Step 5**. **Click** **\[Mount\]** to enter the passphrase for your **TrueCrypt** volume
 
-![image](tool_veracrypt61.png)
+![image](tool_veracrypt62.png)
 
 _Figure 4: The VeraCrypt password screen in TrueCrypt mode_
 
@@ -672,31 +666,31 @@ _Figure 4: The VeraCrypt password screen in TrueCrypt mode_
 
 **Step 8**. **Click** **\[OK\]** to return to the _main window_
 
-![image](tool_veracrypt62.png)
+![image](tool_veracrypt63.png)
 
 _Figure 5: VeraCrypt's main window with both volumes mounted_
 
 **Step 9**. **Double click** the drive letter for your mounted **TrueCrypt** volume to enter it
 
-![image](tool_veracrypt63.png)
+![image](tool_veracrypt64.png)
 
 _Figure 6: Inside the mounted TrueCrypt volume_
 
 **Step 10**. Return to the _main window_
 
-![image](tool_veracrypt64.png)
+![image](tool_veracrypt65.png)
 
 _Figure 7: VeraCrypt's main window with both volumes mounted_
 
 **Step 11**. **Double click** the drive letter for your mounted **VeraCrypt** container to enter it
 
-![image](tool_veracrypt65.png)
+![image](tool_veracrypt66.png)
 
 _Figure 8: TrueCrypt and VeraCrypt volumes mounted and displayed side-by-side_
 
 **Step 12**. **Select** the contents of your **TrueCrypt** volume and drag them to window representing your **VeraCrypt** volume.
 
-![image](tool_veracrypt66.png)
+![image](tool_veracrypt67.png)
 
 _Figure 9: Contents of a TrueCrypt volume copied to a VeraCrypt volume_
 
@@ -704,7 +698,7 @@ After your files have been copied over, you should _dismount_ both volumes.
 
 **Step 13**. Return to **VeraCrypt's** _main window_
 
-![image](tool_veracrypt67.png)
+![image](tool_veracrypt68.png)
 
 _Figure 10: VeraCrypt's main window_
 
@@ -712,7 +706,7 @@ _Figure 10: VeraCrypt's main window_
 
 **Step 15**. **Click** **\[Dismount\]** to dismount your **TrueCrypt** volume
 
-![image](tool_veracrypt68.png)
+![image](tool_veracrypt69.png)
 
 _Figure 11: VeraCrypt's main window_
 
@@ -725,13 +719,13 @@ _Figure 11: VeraCrypt's main window_
 
 To change the passphrase of a **VeraCrypt** _volume_, start from the _main screen_ and follow the steps below. These steps apply to both _standard volumes_ and _hidden volumes_ within **VeraCrypt** _containers_. However, if you want to change _both_ passphrases, you will need to go through this process twice.
 
-![image](tool_veracrypt69.png)
+![image](tool_veracrypt70.png)
 
 _Figure 1: VeraCrypt's main window_
 
 **Step 1**. **Click** **\[Select File...\]** to choose the _container_ for which you want to change the passphrase
 
-![image](tool_veracrypt70.png)
+![image](tool_veracrypt71.png)
 
 _Figure 2: Selecting a container file in VeraCrypt_
 
@@ -739,7 +733,7 @@ _Figure 2: Selecting a container file in VeraCrypt_
 
 **Step 3**. **Click** **\[Open\]** to return to the _main window_
 
-![image](tool_veracrypt71.png)
+![image](tool_veracrypt72.png)
 
 _Figure 3: VeraCrypt's main window_
 
@@ -747,13 +741,13 @@ _Figure 3: VeraCrypt's main window_
 
 **Step 5**. **Select** **\[Change Volume Password...\]** as shown below
 
-![image](tool_veracrypt72.png)
+![image](tool_veracrypt73.png)
 
 _Figure 4: Changing the passphrase of a VeraCrypt volume_
 
 This will activate the **Change Password** screen
 
-![image](tool_veracrypt73.png)
+![image](tool_veracrypt74.png)
 
 _Figure 5: VeraCrypt's Change Password screen_
 
@@ -767,13 +761,13 @@ _Figure 5: VeraCrypt's Change Password screen_
 
 **Note:** Older versions of VeraCrypt may display a warning about your "Personal Iterations Multiplier (PIM)" value even though you have chosen a strong passphrase. If you see this warning, double check that your passphrase is longer than 20 characters and that the Use PIM box is unchecked. Then click \[Yes\] to continue.
 
-![image](tool_veracrypt74.png)
+![image](tool_veracrypt75.png)
 
 _Figure 6: VeraCrypt password change progress bar_
 
 When it is ready, **VeraCrypt** will display the _Random Pool Enrichment_ screen.
 
-![image](tool_veracrypt75.png)
+![image](tool_veracrypt76.png)
 
 _Figure 7: VeraCrypt's Random Pool Enrichment screen_
 
@@ -781,13 +775,13 @@ _Figure 7: VeraCrypt's Random Pool Enrichment screen_
 
 **Step 9**. **Click** **\[Continue\]** to continue the process of changing your passphrase.
 
-![image](tool_veracrypt76.png)
+![image](tool_veracrypt77.png)
 
 _Figure 8: VeraCrypt's password change progress bar_
 
 **VeraCrypt** will let you know when it is done generating a new key for your encrypted volume
 
-![image](tool_veracrypt77.png)
+![image](tool_veracrypt78.png)
 
 _Figure 9: VeraCrypt passphrase successfully changed_
 
@@ -824,7 +818,7 @@ There are very few differences between the installed and portable versions of **
 
 **Step 3**. **Select** the _New_ menu item, then **select** the _Folder_ sub-menu item, as shown below
 
-![image](tool_veracrypt78.png)
+![image](tool_veracrypt79.png)
 
 _Figure 1: Creating a folder on Windows_
 
@@ -832,25 +826,25 @@ _Figure 1: Creating a folder on Windows_
 
 **Step 5**. **Press** _Enter_ to finish naming the new folder
 
-![image](tool_veracrypt79.png)
+![image](tool_veracrypt80.png)
 
 _Figure 2: Naming a folder on Windows_
 
 **Step 6**. **Double-click** the **VeraCrypt** installer to open the installation screen
 
-![image](tool_veracrypt80.png)
+![image](tool_veracrypt81.png)
 
 _Figure 3: The VeraCrypt installer_
 
 **Step 7**. **Double-click** the **VeraCrypt** installer to activate the User Account Control screen
 
-![image](tool_veracrypt81.png)
+![image](tool_veracrypt82.png)
 
 _Figure 4: The VeraCrypt User Account Control screen_
 
 **Step 8**. **Click** **\[Yes\]** to load the license screen
 
-![image](tool_veracrypt82.png)
+![image](tool_veracrypt83.png)
 
 _Figure 5: The VeraCrypt license screen_
 
@@ -995,4 +989,3 @@ FAQ
 **_A_**: Yes. The passphrase change feature applies to both _standard_ and _hidden volumes_. Just type the passphrase for the _hidden volume_ into the Current Password field of the Password Change screen.
 
 *   [**Official VeraCrypt FAQ**](https://veracrypt.codeplex.com/wikipage?title=FAQ)
-
