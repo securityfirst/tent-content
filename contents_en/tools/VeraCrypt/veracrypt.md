@@ -31,7 +31,7 @@ Note: Administrator account required for installation and to create volumes
 1\. Introduction
 ================
 
-[**VeraCrypt**](https://veracrypt.codeplex.com/) is _free software_ that allows you to encrypt your files. It is an updated version of the unmaintained TrueCrypt project and is available for Microsoft Windows, Mac OS X and GNU/Linux. It addresses various security vulnerabilities that have since been identified in TrueCrypt.
+[**VeraCrypt**](https://www.veracrypt.fr/en/Home.html) is _free software_ that allows you to encrypt your files. It is an updated version of the unmaintained TrueCrypt project and is available for Microsoft Windows, Mac OS X and GNU/Linux. It addresses various security vulnerabilities that have since been identified in TrueCrypt.
 
 1.0. Things you should know about VeraCrypt before you start
 ------------------------------------------------------------
@@ -48,13 +48,13 @@ Remember, if you forget your passphrase, you will lose access to your data! Ther
 
 For more information about VeraCrypt, see:
 
-*   The [official documentation](https://veracrypt.codeplex.com/documentation)
-*   The [official FAQ](https://veracrypt.codeplex.com/wikipage?title=FAQ)
+*   The [official documentation](https://www.veracrypt.fr/en/Documentation.html)
+*   The [official FAQ](https://www.veracrypt.fr/en/FAQ.html)
 
 1.1 Other tools like VeraCrypt
 ------------------------------
 
-Full-featured editions of **Windows** since **Windows 7** contain the [**BitLocker**](http://windows.microsoft.com/en-us/windows7/products/features/bitlocker) full-disk encryption utility. (This includes Windows 7 Ultimate, Windows 7 Enterprise, Windows 8 Pro, Windows 8 Enterprise and Windows 10 Pro).
+Full-featured editions of **Windows** since **Windows 7** contain the **BitLocker** full-disk encryption utility. (This includes Windows 7 Ultimate, Windows 7 Enterprise, Windows 8 Pro, Windows 8 Enterprise and Windows 10 Pro).
 
 For **Mac OS X** you can use the built-in **FileVault** utility for full-disk encryption (or to encrypt just your home directory). **Mac OS X** also has a **Disk Utility** that can create encrypted volumes on USB storage devices, but you will only be able to access these volumes on a Mac.
 
@@ -96,7 +96,7 @@ _Figure 4: The installation wizard showing the default Installation mode_
 
 **IMPORTANT**: Even in portable mode, **VeraCrypt** leaves traces on computers where it is used. These traces will not reveal the contents of encrypted files, but they may reveal the fact that **VeraCrypt** was used on that computer.
 
-**Note**: This section of the guide covers _installing_ **VeraCrypt** on your computer. To learn more about using **VeraCrypt** in _portable mode_, please refer to the [**Portable VeraCrypt**](#portable-veracrypt) section.
+**Note**: This section covers _installing_ **VeraCrypt** on your computer. To learn more about using **VeraCrypt** in _portable mode_, see **Portable VeraCrypt,** below.
 
 **Step 4**. **Click** **\[Next\]** and choose where to install **VeraCrypt**.
 
@@ -134,9 +134,9 @@ _Figure 9: The VeraCrypt tutorial prompt_
 
 _Figure 10: The VeraCrypt application shortcut_
 
-**IMPORTANT**: If you do not wish to announce the fact that you have encrypted files on your computer, you might want to delete this shortcut. And, if having encryption software on your computer could get you into _serious_ trouble, you should remove **VeraCrypt** entirely, then [extract it onto a USB storage device in _portable mode_](#portable-veracrypt).
+**IMPORTANT**: If you do not wish to announce the fact that you have encrypted files on your computer, you might want to delete this shortcut. And, if having encryption software on your computer could get you into _serious_ trouble, you should remove **VeraCrypt** entirely, then extract it onto a USB storage device in _portable mode_ (see below).
 
-**Note**: Users are encouraged to consult the [**VeraCrypt** Beginner's Tutorial](https://veracrypt.codeplex.com/wikipage?title=Beginner%27s%20Tutorial) after working through this guide.
+**Note**: Users are encouraged to consult the [**VeraCrypt** Beginner's Tutorial](https://www.veracrypt.fr/en/Beginner%27s%20Tutorial.html) after working through this guide.
 
 3\. Creating a standard volume
 ==============================
@@ -146,7 +146,7 @@ _Figure 10: The VeraCrypt application shortcut_
 *   _Standard volumes_ protect your files with a passphrase that must be entered in order to access them
 *   _Hidden volumes_ have _two_ passphrases. You can enter one of them to open a decoy standard volume in which you should store less sensitive files that you are willing to "give up" if necessary. Entering the other passphrase will open the hidden volume containing your truly sensitive files.
 
-In this section, you will learn how to create a **standard** volume. If you want to create a _Hidden volume_, you should complete this section, then continue on to [Creating a hidden volume](#creating-a-hidden-volume).
+In this section, you will learn how to create a **standard** volume. If you want to create a _Hidden volume_, you should complete this section, then continue on to **Creating a hidden volume**, below.
 
 To create a _Standard volume_ with **VeraCrypt**, perform the following steps.
 
@@ -162,7 +162,7 @@ _Figure 1: The main VeraCrypt window_
 
 _Figure 2: Volume Creation Wizard window_
 
-A VeraCrypt container file is an encrypted volume that is stored within a single file. This container can be renamed, moved, copied or deleted like any other file. In this section, we will create a container file. Please refer to the **[VeraCrypt documentation](https://veracrypt.codeplex.com/documentation)** to learn more about the other options.
+A VeraCrypt container file is an encrypted volume that is stored within a single file. This container can be renamed, moved, copied or deleted like any other file. In this section, we will create a container file. Please refer to the **[VeraCrypt documentation](https://www.veracrypt.fr/en/Documentation.html)** to learn more about the other options.
 
 **Step 3.** **Click** **\[Next\]** to select which type of volume you would like to create.
 
@@ -172,7 +172,7 @@ _Figure 3: The Volume Type window_
 
 The _VeraCrypt Volume Creation Wizard Volume Type_ window lets you specify whether you want to create a _Standard_ or _Hidden_ volume.
 
-**Note**: For more information about _How to Create a Hidden Volume_, please refer to the [**Hidden volumes**](#creating-a-hidden-volume) section.
+**Note**: Please refer to the **Creating a hidden volume** section for more information about how to create a hidden volume.
 
 **Step 4**. Make sure that _Standard VeraCrypt Volume_ is selected and **click** **\[Next\]** to choose a name and location for your VeraCrypt container file.
 
@@ -248,7 +248,7 @@ _Figure 11: Volume Creation Wizard progress bar_
 
 ![image](tool_veracrypt22.png)
 
-_Figure 12: volume has been successfully created_
+_Figure 12: Volume has been successfully created_
 
 **Step 14**. **Click** **\[OK\]** to acknowledge the completion of the creation process and return to the volume creation wizard.
 
@@ -286,7 +286,7 @@ There are two different ways to create a _hidden volume_, and they are both very
 *   **Direct mode** assumes that you already have a _standard volume_ in which you want to create a _hidden volume_. (You already have the briefcase, but you want to add the secret compartment.)
     
 
-In this section, we will focus on _direct mode_. If you do not yet have a _standard volume_, simply follow the steps outlined in [Creating a standard volume](#creating-a-standard-volume), then return to this section.
+In this section, we will focus on _direct mode_. If you do not yet have a _standard volume_, simply follow the steps outlined in the **Creating a standard volume** section above, then return to this point.
 
 **Step 1**. Launch VeraCrypt (**\[Start\]** \> **\[All Apps\]** \> **\[VeraCrypt\]** \> **\[VeraCrypt\]**) to open the main application window.
 
@@ -412,7 +412,7 @@ In other words, this design is based on the assumption that you would rather _lo
 
 So, whenever you want to add decoy files to your standard volume, you must check the _protect hidden volume against damage..._ box and enter both your _hidden volume_ passphrase and your _standard volume_ passphrase. If you enable this feature, VeraCrypt _will_ be able to warn you if you try to copy too much data into your outer volume. (Clearly, entering both passphrases in front of someone else will reveal the existence of your _hidden volume_, so this is something you should only do in private or in the company of those you trust.)
 
-The specific steps required to modify the contents of your _standard volume_ are covered in more detail in the following section, under [Protecting your hidden volume when modifying the contents of your outer volume](#protecting-your-hidden-volume-when-modifying-the-contents-of-its-outer-volume)
+The specific steps required to modify the contents of your _standard volume_ are covered in more detail in the section below, **Protecting your hidden volume when modifying the contents of your outer volume**.
 
 **Step 21**. **Click** **\[OK\]** to finish creating your _hidden volume_.
 
@@ -472,7 +472,7 @@ If your _container_ holds a hidden volume, choose one of the options below:
     
 *   To open a _standard volume_ in a _container_ that holds a _hidden volume_ — _while being observed by someone from whom you would like to hide the existence of that volume_ — enter your _standard volume_ passphrase
     
-*   To open a _standard volume_ in a _container_ that holds a _hidden volume_ — _in order to modify your "decoy" files and assuming you are not being observed_ — **please read about [protecting your hidden volume when modifying the contents of its outer volume](#protecting-your-hidden-volume-when-modifying-the-contents-of-its-outer-volume)!**
+*   To open a _standard volume_ in a _container_ that holds a _hidden volume_ — _in order to modify your "decoy" files while not being observed_ — please read, **Protecting your hidden volume when modifying the contents of its outer volume.**
     
 
 **Step 7.** **Click** **\[OK\]** to begin mounting the _standard volume_.
@@ -534,12 +534,12 @@ To retrieve a file stored in your standard volume once you have closed or dismou
 
 _Figure 2: Quitting VeraCrypt cleanly with the System Tray icon_
 
-**Tip**. When using the installed version of **VeraCrypt** (as opposed to the [portable version](#portable-veracrypt)), merely closing the _main window_ by clicking **\[Exit\]** is not enough to exit the application completely.
+**Tip**. When using the installed version of **VeraCrypt** (as opposed to the portable version), merely closing the _main window_ by clicking **\[Exit\]** is not enough to exit the application completely.
 
 5.3. Protecting your hidden volume when modifying the contents of its outer volume
 ----------------------------------------------------------------------------------
 
-As discussed at the end of the section on [Creating a hidden volume](#creating-a-hidden-volume), when you mount a **VeraCrypt** volume, you can choose to _Protect hidden volume against damage caused by writing to outer volume_. This allows you to add new "decoy" files to your standard volume without the risk of accidentally deleting or corrupting the contents of your hidden volume. You should not activate the _Protect hidden volume_ feature when trying to hide the existence of your _hidden volume_ from someone who is forcing you to enter your decoy passphrase, however, because doing so requires that you enter _both_ of your passphrases (which is a pretty clear indication that you have a _hidden volume_ in there somewhere).
+As discussed under **Creating a hidden volume**, when you mount a **VeraCrypt** volume, you can choose to _Protect hidden volume against damage caused by writing to outer volume_. This allows you to add new "decoy" files to your standard volume without the risk of accidentally deleting or corrupting the contents of your hidden volume. You should not activate the _Protect hidden volume_ feature when trying to hide the existence of your _hidden volume_ from someone who is forcing you to enter your decoy passphrase, however, because doing so requires that you enter _both_ of your passphrases (which is a pretty clear indication that you have a _hidden volume_ in there somewhere).
 
 When updating your decoy files in private, however, you should _always_ enable this feature. And don't worry, _the box will uncheck itself automatically after you dismount the volume._
 
@@ -599,8 +599,6 @@ _Figure 7: VeraCrypt's "Hidden volume is now protected" screen_
 
 ![image](tool_veracrypt57.png)
 
-VeraCrypt's Enter Password screen
-
 _Figure 8: VeraCrypt's "Hidden volume is now protected" screen_
 
 **Step 12.** Enter the mounted volume
@@ -616,7 +614,7 @@ The volume shown below is empty. But, once you have stored "decoy" files in your
 
 _Figure 9: Inside the mounted VeraCrypt standard volume with a protected hidden volume_
 
-**When you are done modifying the contents of your standard volume, you can dismount it by following the usual steps**, which are described under [Dismounting a volume](#dismounting-a-volume), above. And, the next time you go to mount a volume, the _Protect hidden volume against damage caused by writing to outer volume_ box will be _unchecked_ by default.
+**When you are done modifying the contents of your standard volume, you can dismount it by following the usual steps**, which are described under **Dismounting a volume**, above. And, the next time you go to mount a volume, the _Protect hidden volume against damage caused by writing to outer volume_ box will be _unchecked_ by default.
 
 6\. Managing your VeraCrypt container
 =====================================
@@ -630,7 +628,7 @@ _Figure 9: Inside the mounted VeraCrypt standard volume with a protected hidden 
 2.  Open both volumes at the same time, and
 3.  Copy everything from the **TrueCrypt** volume to the **VeraCrypt** volume
 
-For the first item, above, see [Creating a standard volume](#creating-a-standard-volume) (and, if appropriate, [Creating a hidden volume](#creating-a-hidden-volume)). This section assumes that you already have one or more appropriately sized **VeraCrypt** volumes. The steps below address the process of moving files from a **TrueCrypt** _standard volume_ to a **VeraCrypt** _standard volume_ that has already been mounted. If you have files in _both_ the _standard_ and _hidden_ volumes of a **TrueCrypt** container, simply make sure that your **VeraCrypt** volumes are large enough, then work through the following steps twice — once for each volume.
+For the first item, above, see **Creating a standard volume** (and, if appropriate, **Creating a hidden volume**. This section assumes that you already have one or more appropriately sized **VeraCrypt** volumes. The steps below address the process of moving files from a **TrueCrypt** _standard volume_ to a **VeraCrypt** _standard volume_ that has already been mounted. If you have files in _both_ the _standard_ and _hidden_ volumes of a **TrueCrypt** container, simply make sure that your **VeraCrypt** volumes are large enough, then work through the following steps twice — once for each volume.
 
 With the **VeraCrypt** _main window_ open, and your new **VeraCrypt** volume mounted, carry out the following steps:
 
@@ -988,4 +986,4 @@ FAQ
 
 **_A_**: Yes. The passphrase change feature applies to both _standard_ and _hidden volumes_. Just type the passphrase for the _hidden volume_ into the Current Password field of the Password Change screen.
 
-*   [**Official VeraCrypt FAQ**](https://veracrypt.codeplex.com/wikipage?title=FAQ)
+*   [**Official VeraCrypt FAQ**](https://www.veracrypt.fr/en/FAQ.html)
