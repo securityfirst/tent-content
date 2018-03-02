@@ -8,7 +8,7 @@ Swipe right for this lesson's checklist
 
 *   [Managing Information Lesson](umbrella://lesson/managing-information)
 *   [Malware Lesson](umbrella://lesson/malware)
-*   [VeraCrypt Tool Guide](umbrella://lesson/truecrypt)
+*   [VeraCrypt Tool Guide](umbrella://lesson/veracrypt)
 
 ### FURTHER READING
 
