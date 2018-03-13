@@ -1,6 +1,6 @@
 [Title]: # (Uninterruptable Power Supply (UPS))
 [Difficulty]: # (Beginner)
-[Order]: # (128)
+[Order]: # (127)
 
 # Uninterruptable Power Supply (UPS)
 
