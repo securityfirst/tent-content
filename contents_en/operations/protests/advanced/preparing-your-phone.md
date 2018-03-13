@@ -7,7 +7,7 @@ To protect your rights, you may want to harden your existing phone against searc
 
 *   **Passwords:** Always password-protect your phone. While password-protecting your phone is a small barrier to access, please be aware that it is not an effective barrier to expert forensic analysis.
 *   **Encryption:**Some phones have encryption options available - these should be applied. If you have an Android phone this can be done in Settings -> Personal -> Security -> Encryption. The Electronic Frontier Foundation has a guide on how to encrypt iPhones.
-*   **For communicating**: Textsecure and RedPhone (for Androids) or Signal (for iPhones)
+*   **For communicating**: Signal
 *   **For filming/photographing:**ObscuraCam and InformaCam
 *   **For emergencies:** Panic Button (Android only)
 
