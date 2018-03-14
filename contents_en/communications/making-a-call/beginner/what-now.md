@@ -7,7 +7,6 @@ Swipe right for this lesson's checklist
 
 *   [Mobile Phones Lesson](umbrella://lesson/mobile-phones)
 *   [Signal Tool Guide](umbrella://lesson/signal)
-*   [Jitsi Tool Guide](umbrella://lesson/jitsi)
 
 ### FURTHER READING
 
