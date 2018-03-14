@@ -18,7 +18,7 @@ Secure texting for iPhone and Android
 
 ChatSecure is a free mobile phone application for iPhone and Android devices that allows users to communicate with off the record instant messaging. ChatSecure allows users to send instant messages and chats using a cell phone, instead of with a traditional desktop or laptop computer. It's compatible with iPhone and Android phones.
 
-ChatSecure supports OTR  encryption  over XMPP. All messages sent via ChatSecure are completely private, so long as the person you are chatting with is also using an OTR compatible instant messaging client like ChatSecure, Adium, Pidgin, or Jitsi. The app's capabilities allow it to deliver audio messages, photos, files, or text.
+ChatSecure supports OTR  encryption  over XMPP. All messages sent via ChatSecure are completely private, so long as the person you are chatting with is also using an OTR compatible instant messaging client like ChatSecure, Adium, or Pidgin. The app's capabilities allow it to deliver audio messages, photos, files, or text.
 
 When you send messages using ChatSecure, they are not stored on the phone system's memory. ChatSecure used with the privacy plugin Orbot should be able to bypass most firewalls, network restrictions, and blacklists. The app can manage multiple accounts, so you can chat with your Facebook friends, Google contacts, or other privacy conscious users that use an instant messaging program that supports OTR encryption.
 
