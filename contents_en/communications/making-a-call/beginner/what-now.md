@@ -6,7 +6,6 @@ Swipe right for this lesson's checklist
 ### RELATED LESSONS/TOOLS
 
 *   [Mobile Phones Lesson](umbrella://lesson/mobile-phones)
-*   [Redphone Tools guide](umbrella://lesson/redphone)
 *   [Signal Tool Guide](umbrella://lesson/signal)
 *   [Jitsi Tool Guide](umbrella://lesson/jitsi)
 
