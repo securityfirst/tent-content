@@ -1,4 +1,4 @@
-[Title]: # (Don't rely social media sites)
+[Title]: # (Don't rely on social media sites)
 [Order]: # (8)
 
 # Don't use social media sites for instant chats
@@ -12,4 +12,4 @@ You should use a specific application for your chats, such as Pidgin with an Off
 
 ## Don't rely on social media for storage
 
-Be cautious about how safe your content is on a social networking site. Never rely on a social networking site as a primary host for your content or information. It is very easy for governments to block access to a social networking site within their boundaries if they suddenly find its content objectionable. 
+Be cautious about how safe your content is on a social networking site. Never rely on a social networking site as a primary host for your content or information. It is very easy for governments to block access to a social networking site within their boundaries if they suddenly find its content objectionable.
