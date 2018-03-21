@@ -50,7 +50,7 @@ To sign in to your account, click on the "accounts" tab in the menu and turn on 
 
 Once you've started a chat with someone, click on the unlocked lock icon on the top menu bar of the display. Choose "Start Encryption." If the person you are chatting with has an OTR compatible instant messaging system, then you will have the option to verify your (and their) fingerprint.
 
-ChatSecure offers three ways to verify OTR fingerprints, but if you're chatting with someone over a desktop instant messenger and not with ChatSecure, the best way to verify an OTR fingerprint is by communicating through another channel. You can resend your fingerprint over an SMS (TextSecure), say it over the phone if you recognize one another's voices, use PGP email, or verify in person. Click on "manual verification" and ChatSecure will display your and your friend's fingerprints. If you can confirm that you both have the same information, you can click "verify."
+ChatSecure offers three ways to verify OTR fingerprints, but if you're chatting with someone over a desktop instant messenger and not with ChatSecure, the best way to verify an OTR fingerprint is by communicating through another channel. You can resend your fingerprint over SMS (using Silence.im), say it over the phone if you recognize one another's voices, use PGP email, or verify in person. Click on "manual verification" and ChatSecure will display your and your friend's fingerprints. If you can confirm that you both have the same information, you can click "verify."
 
 ChatSecure supports manual verification or verification by scanning the other user's barcode (QR). If you are in the same room as the other person, you can easily scan the barcode on their phone or read your keys aloud to one another.
 
