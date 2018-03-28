@@ -11,6 +11,4 @@ Signal uses your existing phone number and address book. There are no separate l
 
 You can learn how to set it up simply in the Signal tool guide.
 
-## Ostel
 
-Another notable tool for having end-to-end encrypted phone calls is OStel. It works on every smartphone (Blackberry, iPhone, Nokia, Android) and every desktop (Mac, PC, Linux, etc). It is one of the most secure means to communicate via voice and comes with many easy set-up wizards for different VoIP services, available [here](https://ostel.co/). (The accompanying app for Android phones is CSipSimple.) Both you and the person you want to talk to will need an ostel account. It securely encrypts all your speech and makes it very difficult to trace your data and find out who you are talking to. If you download CSipSimple from ostel.co it also comes preconfigured for use with ostel, which makes it very easy to install and use.

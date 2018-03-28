@@ -5,7 +5,7 @@ Swipe right for this lesson's checklist
 
 ### RELATED LESSONS/TOOLS
 
-*   [TextSecure tool guide](umbrella://lesson/textsecure)
+*   [Signal tool guide](umbrella://lesson/signal)
 *   [ChatSecure tool guide](umbrella://lesson/chatsecure)
 *   [Pidgin tool guide](umbrella://lesson/pidgin)
 *   [Adium tool guide](umbrella://lesson/adium)

@@ -34,7 +34,7 @@
 [Label]: # (Travel/Flight Information)
 
 [Type]: # (screen)
-[Name]: # (Immigration / Phones)
+[Name]: # (Immigration / Phone Numbers)
 
 [Type]: # (text_area)
 [Name]: # (immigration-requirements)
@@ -78,7 +78,7 @@
 [Label]: # (Digital Security Situation)
 
 [Type]: # (screen)
-[Name]: # (Key contacts / Other)
+[Name]: # (Key Contacts / Other)
 
 [Type]: # (text_area)
 [Name]: # (key-contacts-embassy-insurance)

@@ -23,7 +23,7 @@ Encrypted phone calls for iPhones
 
 NOTE:   
 - Although it uses telephone numbers as contacts, calls actually use your data connection; therefore both parties to the conversation must have Internet access on their mobile devices.  
-- Signal only encrypts calls that are between two Signal users, or between users of Signal and RedPhone, the app for Androids. (See **[RedPhone Tool Guide](umbrella://lesson/redphone)** for instructions for Androids)
+- Signal only encrypts calls that are between two Signal users. 
 
 ### 1.0 How to install Signal 
 
@@ -42,12 +42,12 @@ Enter your mobile phone number and click "Register." In order to verify your pho
 
 ### 2.0 Using Signal
 
-In order to use Signal, the person that you are calling must have either Signal or RedPhone (for Android devices) installed. If you try to call someone using the Signal app and they do not have Signal or RedPhone installed, the app will ask if you would like to invite them via SMS, but it will not allow you to complete your call from inside the app.
+In order to use Signal, the person that you are calling must have Signal installed. If you try to call someone using the Signal app and they do not have Signal installed, the app will ask if you would like to invite them via SMS, but it will not allow you to complete your call from inside the app.
 ![image](tool_signal2.png)
 
 ### 2.1 How to Initiate an encrypted call
 
-To initiate an encrypted call to a contact, you must use the dialer within the Signal app. (This differs from RedPhone for Android, which also allows you to use the default system dialer.)
+To initiate an encrypted call to a contact, you must use the dialer within the Signal app. 
 
 Once a call is established, both parties to the call will be shown a random pair of words. This word pair will allow you to verify your identity and keys with the other user-also known as key verification.
 ![image](tool_signal3.png)

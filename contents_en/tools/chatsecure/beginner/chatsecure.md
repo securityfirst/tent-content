@@ -18,7 +18,7 @@ Secure texting for iPhone and Android
 
 ChatSecure is a free mobile phone application for iPhone and Android devices that allows users to communicate with off the record instant messaging. ChatSecure allows users to send instant messages and chats using a cell phone, instead of with a traditional desktop or laptop computer. It's compatible with iPhone and Android phones.
 
-ChatSecure supports OTR  encryption  over XMPP. All messages sent via ChatSecure are completely private, so long as the person you are chatting with is also using an OTR compatible instant messaging client like ChatSecure, Adium, Pidgin, or Jitsi. The app's capabilities allow it to deliver audio messages, photos, files, or text.
+ChatSecure supports OTR  encryption  over XMPP. All messages sent via ChatSecure are completely private, so long as the person you are chatting with is also using an OTR compatible instant messaging client like ChatSecure, Adium, or Pidgin. The app's capabilities allow it to deliver audio messages, photos, files, or text.
 
 When you send messages using ChatSecure, they are not stored on the phone system's memory. ChatSecure used with the privacy plugin Orbot should be able to bypass most firewalls, network restrictions, and blacklists. The app can manage multiple accounts, so you can chat with your Facebook friends, Google contacts, or other privacy conscious users that use an instant messaging program that supports OTR encryption.
 
@@ -50,7 +50,7 @@ To sign in to your account, click on the "accounts" tab in the menu and turn on 
 
 Once you've started a chat with someone, click on the unlocked lock icon on the top menu bar of the display. Choose "Start Encryption." If the person you are chatting with has an OTR compatible instant messaging system, then you will have the option to verify your (and their) fingerprint.
 
-ChatSecure offers three ways to verify OTR fingerprints, but if you're chatting with someone over a desktop instant messenger and not with ChatSecure, the best way to verify an OTR fingerprint is by communicating through another channel. You can resend your fingerprint over an SMS (TextSecure), say it over the phone if you recognize one another's voices, use PGP email, or verify in person. Click on "manual verification" and ChatSecure will display your and your friend's fingerprints. If you can confirm that you both have the same information, you can click "verify."
+ChatSecure offers three ways to verify OTR fingerprints, but if you're chatting with someone over a desktop instant messenger and not with ChatSecure, the best way to verify an OTR fingerprint is by communicating through another channel. You can resend your fingerprint over SMS (using Silence.im), say it over the phone if you recognize one another's voices, use PGP email, or verify in person. Click on "manual verification" and ChatSecure will display your and your friend's fingerprints. If you can confirm that you both have the same information, you can click "verify."
 
 ChatSecure supports manual verification or verification by scanning the other user's barcode (QR). If you are in the same room as the other person, you can easily scan the barcode on their phone or read your keys aloud to one another.
 
