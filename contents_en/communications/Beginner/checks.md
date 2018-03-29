@@ -1,0 +1,56 @@
+[Text]: # (To prevent phishing:)
+[NoCheck]: # (true)
+
+[Text]: # (Who is message from—could it be fake?)
+[NoCheck]: # (false)
+
+[Text]: # (Is anything wrong or odd, like spelling or logo?)
+[NoCheck]: # (false)
+
+[Text]: # (Does message make promises or require urgent action?)
+[NoCheck]: # (false)
+
+[Text]: # (Does message include attachment or link?)
+[NoCheck]: # (false)
+
+[Text]: # (In messages from contacts, do they sound like themselves?)
+[NoCheck]: # (false)
+
+[Text]: # (Mouseover links to check URLs.)
+[NoCheck]: # (false)
+
+[Text]: # (Unshorten URLs at https://unshorten.it/.)
+[NoCheck]: # (false)
+ 
+[Text]: # (Type out URLs yourself, especially before logging in.)
+[NoCheck]: # (false)
+
+[Text]: # (Open attachments through Google Drive, or at the very least, a program on your computer)
+[NoCheck]: # (false)
+
+[Text]: # (Contact the sender through a different, secure channel to confirm they sent unusual messages)
+[NoCheck]: # (false)
+
+[Text]: # (Check links and attachments at VirusTotal)
+[NoCheck]: # (false)
+
+[Text]: # (If you've been phished:)
+[NoCheck]: # (true)
+
+[Text]: # (Disconnect and shut down malware-infected devices)
+[NoCheck]: # (false)
+
+[Text]: # (Change passwords)
+[NoCheck]: # (false)
+
+[Text]: # (Warn contacts)
+[NoCheck]: # (false)
+
+[Text]: # (Report the attack to IT or security expert)
+[NoCheck]: # (false)
+
+[Text]: # (Consider reinstalling your operating system on malware-infected devices)
+[NoCheck]: # (false)
+
+[Text]: # (TIP: Share this checklist with yourself by email and print a copy to post in your workspace.)
+[NoCheck]: # (true)
