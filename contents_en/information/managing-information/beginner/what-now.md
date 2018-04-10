@@ -9,4 +9,4 @@ Swipe right for this lesson's checklist
 
 ### FURTHER READING
 
-*   [EFF - Thread modelling](https://ssd.eff.org/en/module/introduction-threat-modeling)
+*   [EFF - Threat modelling](https://ssd.eff.org/en/module/introduction-threat-modeling)
