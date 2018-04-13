@@ -37,7 +37,7 @@ Pidgin is an easy-to-use, instant messaging client for Windows that uses a proto
 - Pidgin, automatically logs conversations by default, however you do have the ability to disable this feature. That said, you do not have control over the person with whom you are chatting-she could be logging or taking screenshots of your conversation, even if you yourself have disabled logging.
 
 **Why should I use Pidgin + OTR?**
-When you have a chat conversation using Google Hangouts or Facebook chat on the Google or Facebook websites, that chat is encrypted using HTTPS, which means the content of your chat is protected from hackers and other third parties while it's in transit. It is not, however, protected from Google or Facebook, which have the keys to your conversations and can hand them over to authorities.
+When you have a chat conversation using Google Hangouts on the Google website, that chat is encrypted using HTTPS, which means the content of your chat is protected from hackers and other third parties while it's in transit. It is not, however, protected from Google, which has the keys to your conversations and can hand them over to authorities.
 
 After you have installed Pidgin, you can sign in to it using multiple accounts at the same time. For example, you could use Google Hangouts, Facebook, and XMPP simultaneously. Pidgin also allows you to chat using these tools without OTR. Since OTR only works if both people are using it, this means that even if the other person does not have it installed, you can still chat with them using Pidgin.
 
