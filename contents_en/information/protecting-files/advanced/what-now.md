@@ -12,4 +12,4 @@ Swipe right for this lesson's checklist
 ### FURTHER READING
 
 *   [EFF - Encryption](https://ssd.eff.org/en/module/what-encryption)
-*   [Security in a Box - Chapter 4, Encryption](https://securityinabox.org/chapter-4)
+

@@ -59,7 +59,7 @@ To take a photo on your Android device without showing your subjects' faces, per
 
 **Step 6:** To see a preview of the photo you can tap the eye icon, to return to the edit screen tap anywhere on the preview image.
 
-**Step 7:** To share the obscured photo via an existing application on your phone such as K-9 Mail or TextSecure tap the icon made up of a dot with arrows. 
+**Step 7:** To share the obscured photo via an existing application on your phone such as K-9 Mail or Signal tap the icon made up of a dot with arrows. 
 
 **Step 8:** To save the blurred photo to your phone tap the save icon. You will be asked whether you want to delete the original, unblurred, image from your phone, if you no longer need the original photo tap "Yes" otherwise tap "No" to save a copy of both the obscured and unobscured photo.
 
@@ -77,7 +77,7 @@ As well as obscuring photos as you take them, ObscuraCam can also obscure any ol
 
 **Step 5:** To see a preview of the photo you can tap the eye icon, to return to the edit screen tap anywhere on the preview image.
 
-**Step 6:** To share the obscured photo via an existing application on your phone such as K-9 Mail or TextSecure tap the icon made up of a dot with arrows. 
+**Step 6:** To share the obscured photo via an existing application on your phone such as K-9 Mail or Signal, tap the icon made up of a dot with arrows. 
 
 **Step 7:** To save the blurred photo to your phone tap the save icon. You will be asked whether you want to delete the original, unblurred, image from your phone, if you no longer need the original photo tap "Yes" otherwise tap "No" to save a copy of both the obscured and unobscured photo.
 

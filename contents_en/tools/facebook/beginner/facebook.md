@@ -19,6 +19,8 @@
 
 * If you want to encrypt notification emails you receive from Facebook, read Part 1 on Security.
 
+* Access Facebook through a Tor-enabled browser at [https://facebookcorewwwi.onion/] (https://facebookcorewwwi.onion/). (Learn how to use Tor for [Mac] (umbrella://lesson/tor-for-mac-os-x) or [Windows] (umbrella://lesson/tor-for-windows).) 
+
 * You can turn on encryption in the Facebook Messenger iOS and Android apps, though not on a desktop. Click *i*, *Settings*, *Secret Conversation*, *Turn On*, or click the lock icon when you open any new conversation. (Read Facebook's instructions [here] (https://www.facebook.com/help/messenger-app/1084673321594605?helpref=uf_permalink).) 
 
 * Default privacy settings for Facebook posts apply to video streamed on Facebook Live, too. You can adjust the settings for any individual post. (Read Facebook's instructions [here] (https://www.facebook.com/help/120939471321735?helpref=related).)  
@@ -67,7 +69,7 @@ This will take you to the *Settings* menu.
 
 **Step 10.** *Choose 3 to 5 friends to help you if you get locked out*: This option allows you to select certain contacts from your **Facebook** friends who can help you to log in to your account if for some reason you are otherwise unable to. This is done through sharing a secret code with your contact. If you decide to use this option, be sure to choose your trusted contacts carefully and establish a secure means of communication for sharing the code. (Learn more about [Sending a message] (umbrella://lesson/sending-a-message) securely.) 
 
-**Step 11.** *Encrypted notification emails.* This *Advanced* setting allows you to upload your public PGP key and add end-to-end encryption to notification emails you receive from Facebook. (Learn more about PGP in the [Email] (umbrella://lesson/email/2) lesson, and how to generate your own key using PGP for [LINUX] (umbrella://lesson/pgp-for-linux), [Mac OSX] (umbrella://lesson/pgp-for-mac-os-x), and [Windows] (umbrella://lesson/pgp-for-windows).) 
+**Step 11.** *Encrypted notification emails.* This *Advanced* setting allows you to upload your public PGP key and add end-to-end encryption to notification emails you receive from Facebook. (Learn more about PGP in the [Email] (umbrella://lesson/email/2) lesson, and how to generate your own key using PGP for [LINUX] (umbrella://lesson/pgp-for-linux), [Mac] (umbrella://lesson/pgp-for-mac-os-x), and [Windows] (umbrella://lesson/pgp-for-windows).) 
 
 **Steo 12.** *See recent emails from Facebook*. Use this setting to determine whether emails you receive are actually from Facebook, or could be a phishing attack. (Learn more about [Phishing] (umbrella://lesson/phishing).)
 
