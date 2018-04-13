@@ -19,6 +19,8 @@
 
 * If you want to encrypt notification emails you receive from Facebook, read Part 1 on Security.
 
+* Access Facebook through a Tor-enabled browser at [https://facebookcorewwwi.onion/] (https://facebookcorewwwi.onion/).
+
 * You can turn on encryption in the Facebook Messenger iOS and Android apps, though not on a desktop. Click *i*, *Settings*, *Secret Conversation*, *Turn On*, or click the lock icon when you open any new conversation. (Read Facebook's instructions [here] (https://www.facebook.com/help/messenger-app/1084673321594605?helpref=uf_permalink).) 
 
 * Default privacy settings for Facebook posts apply to video streamed on Facebook Live, too. You can adjust the settings for any individual post. (Read Facebook's instructions [here] (https://www.facebook.com/help/120939471321735?helpref=related).)  
