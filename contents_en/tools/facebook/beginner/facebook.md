@@ -13,15 +13,19 @@
 
 ## Quick Tips
 
-If you want to review the data you share with apps and websites because of the Cambridge Analytica scandal, read Part 6 on Apps, below.
+* If you want to review the data you share with apps and websites because of the Cambridge Analytica scandal, read Part 6 on Apps, below.
 
-If you want to change who can see your past or future posts, read Part 2 on Privacy.  
+* If you want to change who can see your past or future posts, read Part 2 on Privacy.  
 
-If you want to encrypt notification emails you receive from Facebook, read Part 1 on Security. 
+* If you want to encrypt notification emails you receive from Facebook, read Part 1 on Security.
 
-From any page on Facebook, open the Help menu under the question mark icon and select *Privacy Checkup* or *Privacy Shortcuts* for quick answers about privacy and your account.  
+* You can turn on encryption in the Facebook Messenger iOS and Android apps, though not on a desktop. Click *i*, *Settings*, *Secret Conversation*, *Turn On*, or click the lock icon when you open any new conversation. (Read Facebook's instructions [here] (https://www.facebook.com/help/messenger-app/1084673321594605?helpref=uf_permalink).) 
 
-Facebook privacy settings change frequently. To stay on top of them, we recommend you read the news and check the site itself frequently, too. 
+* Default privacy settings for Facebook posts apply to video streamed on Facebook Live, too. You can adjust the settings for any individual post. (Read Facebook's instructions [here] (https://www.facebook.com/help/120939471321735?helpref=related).)  
+
+* From any page on Facebook, open the Help menu under the question mark icon and select *Privacy Checkup* or *Privacy Shortcuts* for quick answers about privacy and your account.  
+
+* Facebook privacy settings change frequently. To stay on top of them, we recommend you read the news and check the site itself frequently, too. 
 
 ## 1. Security 
 
