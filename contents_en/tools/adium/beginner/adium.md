@@ -15,7 +15,7 @@ Secure instant messaging for Mac
 **Level:** Beginner-Intermediate  
 **Time required:** 15-20 minutes
 
-Adium is a free and open source instant messaging client for OS X that allows you to chat with individuals across multiple chat protocols, including Google Hangouts, Yahoo! Messenger, Facebook chat, Windows Live Messenger, AIM, ICQ, and XMPP.
+Adium is a free and open source instant messaging client for OS X that allows you to chat with individuals across multiple chat protocols, including Google Hangouts, Yahoo! Messenger, Facebook Messenger, Windows Live Messenger, AIM, ICQ, and XMPP.
 
 OTR  (Off-the-record) is a protocol that allows people to have confidential conversations using the messaging tools they're already familiar with. This should not be confused with Google's "Off the record," which merely disables chat logging, and does not have encryption or verification capabilities. For Mac users, OTR comes built-in with the Adium client.
 
