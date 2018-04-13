@@ -19,6 +19,8 @@ If you want to change who can see your past or future posts, read Part 2 on Priv
 
 If you want to encrypt notification emails you receive from Facebook, read Part 1 on Security. 
 
+From any page on Facebook, open the Help menu under the question mark icon and select *Privacy Checkup* or *Privacy Shortcuts* for quick answers about privacy and your account.  
+
 Facebook privacy settings change frequently. To stay on top of them, we recommend you read the news and check the site itself frequently, too. 
 
 ## 1. Security 
