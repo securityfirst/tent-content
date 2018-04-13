@@ -7,11 +7,19 @@
 ## How to change your Facebook privacy settings
 
 **Lesson to read:** [Social Media](umbrella://lesson/social-media)  
-**Level:** Beginner  
+**Level:** Beginner—Advanced  
 **Updated:** April 2018 (some images date from earlier versions)  
 **Sources:** Security in a Box, [Social Networking] (https://securityinabox.org/en/guide/social-networking/web/); EFF, ["How To Change Your Facebook Settings To Opt Out of Platform API Sharing"] (https://www.eff.org/deeplinks/2018/03/how-change-your-facebook-settings-opt-out-platform-api-sharing); Facebook's [Terms](https://www.facebook.com/legal/terms) and [Data Policy](https://www.facebook.com/about/privacy/).
 
+## Quick Tips
 
+If you want to review the data you share with apps and websites because of the Cambridge Analytica scandal, read Part 6 on Apps, below.
+
+If you want to change who can see your past or future posts, read Part 2 on Privacy.  
+
+If you want to encrypt notification emails you receive from Facebook, read Part 1 on Security. 
+
+Facebook privacy settings change frequently. To stay on top of them, we recommend you read the news and check the site itself frequently, too. 
 
 ## 1. Security 
 
@@ -53,6 +61,10 @@ This will take you to the *Settings* menu.
 
 **Step 10.** *Choose 3 to 5 friends to help you if you get locked out*: This option allows you to select certain contacts from your **Facebook** friends who can help you to log in to your account if for some reason you are otherwise unable to. This is done through sharing a secret code with your contact. If you decide to use this option, be sure to choose your trusted contacts carefully and establish a secure means of communication for sharing the code. (Learn more about [Sending a message] (umbrella://lesson/sending-a-message) securely.) 
 
+**Step 11.** *Encrypted notification emails.* This *Advanced* setting allows you to upload your public PGP key and add end-to-end encryption to notification emails you receive from Facebook. (Learn more about PGP in the [Email] (umbrella://lesson/email/2) lesson, and how to generate your own key using PGP for [LINUX] (umbrella://lesson/pgp-for-linux), [Mac OSX] (umbrella://lesson/pgp-for-mac-os-x), and [Windows] (umbrella://lesson/pgp-for-windows).) 
+
+**Steo 12.** *See recent emails from Facebook*. Use this setting to determine whether emails you receive are actually from Facebook, or could be a phishing attack. (Learn more about [Phishing] (umbrella://lesson/phishing).)
+
 
 ## 2. Privacy 
 
@@ -89,6 +101,8 @@ This will take you to the *Settings* menu.
 **Step 6**. In this section, you can decide who is able to send you a friend request. This is not particularly important in terms of information security, since in the end, it is still you who decides who to accept as a friend, and you should always exercise caution and avoid adding people who are unknown or untrusted. If you want to change this setting, **click** *Edit*.
 
 **Step 7.** *Who can look you up using the email address/phone number you provided?* Here, you can limit the ease with which people can look you up by knowing your phone number or e-mail address (although this is still technically possible). **Click** *Edit* and ensure that only **Friends** can search for you by your e-mail address and phone number. 
+
+Note: Don't forget to check who can view your phone number and email address directly on your profile. To do this, click on your profile to view your timeline. Click *About*, then *Contact and Basic Information* in the menu on the left. Under *Contact Information*, hover over any number or address you have shared. Change the settings by clicking *Edit*. We recommend limiting this information to *Only Me*.  
 
 **Step 8.** *Do you want outside search engines to link to your profile?* Here you can limit people's ability to find your **Facebook** page via search engines. The default settings make it as easy as possible for individuals to find you this way, including possible adversaries. **Click** *Edit* and **uncheck** the box which says *Allow search engines outside of Facebook to link to your profile*.
 
@@ -224,4 +238,4 @@ Advertising is fundamentally important to social networking companies, as it is 
 
 **Step 4.** **Select** *No-One* under *Ads with your social actions.* This encourages users to become ambassadors for products or pages they have 'liked', which means that you could be used to advertise a page or product to your friends. We recommended that you disable it. 
 
-**Step 5.** *Your interests* and *Your information*. **Facebook** by default tries to display targeted advertising on your tastes and interests. Under *Your interests,* hover over any categories that you want to remove, then click the *X* in the right-hand corner. Under *Your information,* toggle the bar to *Off* beside profile details under *About you,* or hover over and click *X* under *Your categories.*  
+**Step 5.** *Your interests* and *Your information*. **Facebook** by default tries to display targeted advertising on your tastes and interests. Under *Your interests,* hover over any categories that you want to remove, then click the *X* in the right-hand corner. Under *Your information,* toggle the bar to *Off* beside profile details under *About you,* or hover over and click *X* under *Your categories.*
