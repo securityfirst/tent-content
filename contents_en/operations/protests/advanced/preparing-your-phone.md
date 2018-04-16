@@ -16,4 +16,3 @@ To protect your rights, you may want to harden your existing phone against searc
 **Keep an emergency number:** Consider writing one important, but non-incriminating phone number on your body with a permanent marker in case you lose your phone, or are in police custody but are permitted to make a call.
 
 **Use a throwaway:** You should also consider bringing a throwaway or alternate phone to the protest that does not contain sensitive data, which you've never used to log in to your communications or social media accounts, and which you would not mind losing or parting with for a while. If you have a lot of sensitive or personal information on your phone, or you need to conceal your presence at the protest, this might be the best option for you.
-
