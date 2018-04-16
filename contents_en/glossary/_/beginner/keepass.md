@@ -1,6 +1,6 @@
-[Title]: # (KeePass)
+[Title]: # (KeePassXC)
 [Order]: # (68)
 
-# KeePass
+# KeePassXC
 
-A freeware secure password database
+A free, open source, cross platform secure password manager
