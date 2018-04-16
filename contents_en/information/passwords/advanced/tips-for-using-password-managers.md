@@ -5,8 +5,8 @@
 
 There are few things to keep in mind when using password databases.
 
-*   If you lose or accidentally delete your only copy of a password database, you will no longer have access to any of the accounts for which it contained passwords. This makes it extremely important that you back up your KeePass database. Read our [Backing Up lesson](umbrella://lesson/backing-up) for instructions on how to do this.
-*   If you forget your KeePass master password, there is no way to recover it or the contents of the database. So, be sure to choose a master password that is both secure and memorable!
+*   If you lose or accidentally delete your only copy of a password database, you will no longer have access to any of the accounts for which it contained passwords. This makes it extremely important that you back up your KeePassXC database. Read our [Backing Up lesson](umbrella://lesson/backing-up) for instructions on how to do this.
+*   If you forget your KeePassXC master password, there is no way to recover it or the contents of the database. So, be sure to choose a master password that is both secure and memorable!
 
 *   It is also crucially important to keep your password manager itself secure.
 
