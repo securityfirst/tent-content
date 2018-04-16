@@ -225,7 +225,7 @@ The _Volume Size_ window lets you specify the size of the _container_ you are ab
 
 _Figure 9: Volume Creation Wizard featuring the Volume Password window_
 
-**IMPORTANT**: Choosing a strong passphrase is one of the most important steps you will perform when creating a **VeraCrypt** volume. The stronger the passphrase, the better. You don't have to choose your own passphrases (or even remember them!) if you use a _password manager_ like **KeePassX**. Please refer to the **[Passwords]** (umbrella://lesson/passwords) lesson and [**KeePassX Tool Guide**](umbrella://lesson/keepassx) guides to learn more about good passphrase practices.
+**IMPORTANT**: Choosing a strong passphrase is one of the most important steps you will perform when creating a **VeraCrypt** volume. The stronger the passphrase, the better. You don't have to choose your own passphrases (or even remember them!) if you use a _password manager_ like **KeePassXC**. Please refer to the **[Passwords]** (umbrella://lesson/passwords) lesson and [**KeePassXC Tool Guide**](umbrella://lesson/keepassxc) guides to learn more about good passphrase practices.
 
 **Step 11**. **Type** your passphrase and then **re-type** your passphrase into the _Confirm_ field to activate the **\[Next\]** button.
 
@@ -383,7 +383,7 @@ _Figure 12: VeraCrypt Hidden Volume Password creation screen_
 
 You must now choose a passphrase for the _hidden volume_ that is _different_ from the one you chose for your _standard volume_. Again, remember to choose a strong passphrase. Please refer to the **[Passwords]** (umbrella://lesson/passwords) lesson to learn more.
 
-**Tip**: If you use a _password manager_ such as **KeePassX** and are concerned about being pressured to reveal the contents of your **VeraCrypt** container, you can store the passphrase for your (decoy) _standard volume_ in **KeePassX**, but you should memorise the passphrase for your _hidden volume._ Otherwise, by handing over your **KeePassX** passphrase, you will also reveal your _hidden volume_ passphrase.
+**Tip**: If you use a _password manager_ such as **KeePassXC** and are concerned about being pressured to reveal the contents of your **VeraCrypt** container, you can store the passphrase for your (decoy) _standard volume_ in **KeePassXC**, but you should memorise the passphrase for your _hidden volume._ Otherwise, by handing over your **KeePassXC** passphrase, you will also reveal your _hidden volume_ passphrase.
 
 **Step 18**. **Choose** a passphrase and **type** it in twice.
 

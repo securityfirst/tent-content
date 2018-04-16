@@ -9,6 +9,7 @@ Go to the Beginner lesson for advice on how to improve basic email security and 
 ### RELATED LESSONS/TOOLS
 
 *   [Internet lesson](umbrella://lesson/the-internet)
+*	[Mailvelope tool guide] (umbrella://lesson/mailvelope)
 *   [PGP for macOS tool guide](umbrella://lesson/pgp-for-mac-os-x)
 *   [PGP for Windows tool guide](umbrella://lesson/pgp-for-windows)
 *   [PGP for Linux tool guide](umbrella://lesson/pgp-for-linux)

@@ -9,7 +9,9 @@
 
 Signal now also incorporates secure voice calling app, Redphone - meaning there is one simple app you can use for both secure calling and messaging, whether on Android or iPhone, as long as the person you are communicating with has Signal too.
 
-Signal uses your existing phone number and address book. There are no separate logins, usernames, passwords, or PINs to manage or lose. It uses your mobile number as your identificator (like a user name) - this makes it easier for the user, though it also makes it easier to analyze the traffic it produces and trace it back to you. Signal uses a central server, which is a point of centralization and thus puts it in the powerful position of having control over some of this data. However they cannot hear your conversations or see your messages, so no one else can either.
+Signal uses your existing phone number and address book. There are no separate logins, usernames, passwords, or PINs to manage or lose. It uses your mobile number as your identificator (like a user name) - this makes it easier for the user, though it also makes it easier to analyze the traffic it produces and trace it back to you. Signal uses a central server, which is a point of centralization and thus puts it in the powerful position of having control over some of this data. However they cannot hear your conversations or see your messages, so no one else can either.  
+
+Learn more about Signal at the project's [website] (https://signal.org) or view the [Signal tool guide] (umbrella://lesson/signal).
 
 ## Telegram
 

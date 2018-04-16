@@ -13,7 +13,7 @@ Go to the Expert lesson for advice on what to do if you think you might be force
 
 *   [Backing Up lesson](umbrella://lesson/backing-up)
 *   [Malware lesson](umbrella://lesson/malware)
-*   [KeePass tool guide](umbrella://tools/keepassx)
+*   [KeePassXC tool guide](umbrella://tools/keepassxc)
 
 ### FURTHER READING
 
