@@ -28,7 +28,7 @@ Secure Webmail
 
 # 1. Introduction 
 
-Mailvelope is a browser extension that allows you to encrypt, decrypt, sign and authenticate email messages and files using OpenPGP. It works with webmail and does not require you to download or install additional software. While Mailvelope lacks many of the features provided by Thunderbird, Enigmail and GnuPG, it is probably the easiest way for webmail users to begin taking advantage of end-to-end encryption.
+Mailvelope is a browser extension that allows you to encrypt, decrypt, sign and authenticate email messages and files using OpenPGP. (A browser extension is a software component that adds additional features to your web browser.) It works with webmail and does not require you to download or install additional software. While Mailvelope lacks many of the features provided by Thunderbird, Enigmail and GnuPG, it is probably the easiest way for webmail users to begin taking advantage of end-to-end encryption.
 
 ## 1.0 Things you should know about Mailvelope before you start
 
