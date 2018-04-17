@@ -60,21 +60,21 @@ Tap "GET" to download the app, then "INSTALL." You may be prompted to enter your
 
 You will now see the following screen. Enter your mobile phone number and tap “Verify This Device.”
 
-![](tool_ios_resized000.png)
+![](tool_signalios_resized000.png)
 
-![](tool_ios_resized001.png)
+![](tool_signalios_resized001.png)
 
 In order to verify your phone number, you will be sent an SMS text with a six-digit code. You will now be prompted to enter that code, and then tap "Submit Verification Code."
 
-![](tool_ios_resized002.png)
+![](tool_signalios_resized002.png)
 
 After this process is complete, Signal will request access to your contacts. Tap "Continue."
 
-![](tool_ios_resized003.png)
+![](tool_signalios_resized003.png)
 
 Signal will then request permission to send you notifications. Tap "OK."
 
-![](/tool_ios_resized004.png)
+![](/tool_signalios_resized004.png)
 
  
 
@@ -94,25 +94,25 @@ Note that Open Whisper Systems, the makers of Signal, use other companies' infra
 
 To get started, tap the compose icon in the upper-right corner of the screen.
 
-![](tool_ios_resized005-compose.png)
+![](tool_signalios_resized005-compose.png)
 
 You will see a list of all the registered Signal users in your contacts.
 
-![](tool_ios_resized008.png)
+![](tool_signalios_resized008.png)
 
 When you tap a contact, you'll be brought to the text-messaging screen for your contact. From this screen, you can send end-to-end encrypted text, picture, or video messages.
 
-![](tool_ios_resized010.png)
+![](tool_signalios_resized010.png)
 
 ### How to Initiate an Encrypted Call
 
 To initiate an encrypted call to a contact, select that contact and then tap on the phone icon.
 
-![](tool_ios_resized010-phone.png)
+![](tool_signalios_resized010-phone.png)
 
 At this point, Signal may ask for permission to access the microphone. Tap "OK."
 
-![](tool_ios_resized011.png)
+![](tool_signalios_resized011.png)
 
 Once a call is established, your call is encrypted.
 
@@ -120,7 +120,7 @@ Once a call is established, your call is encrypted.
 
 To make an encrypted video call, simply call someone as described above:
 
-![](tool_ios_initial_video_screen_0.png)
+![](tool_signalios_initial_video_screen_0.png)
 
 and tap the video camera icon. You may have to allow Signal to access video from your camera. This shares your video with your friend (your friend may have to do the same).
 
@@ -129,17 +129,17 @@ and tap the video camera icon. You may have to allow Signal to access video from
 
 You can send an encrypted group message by tapping the compose icon in the upper-right corner of the screen (the square with a pencil pointing to the center), and then tapping the icon in the same place with three figures.
 
-![](tool_ios_resized005-compose.png)
+![](tool_signalios_resized005-compose.png)
 
-![](tool_ios_resized008-group.png)
+![](tool_signalios_resized008-group.png)
 
 On the following screen, you'll be able to name the group and add participants to it. After adding participants, you can tap on the "+" icon in the upper right corner of the screen.
 
-![](tool_ios_resized023-plus.png)
+![](tool_signalios_resized023-plus.png)
 
 This will initiate the group chat.
 
-![](tool_ios_resized024.png)
+![](tool_signalios_resized024.png)
 
 If you wish to change the group name, or add or remove participants, this can be done from the group chat screen by tapping the overflow icon (the three dots in the upper-right corner of the screen) and selecting “Edit group.”
 
@@ -149,31 +149,31 @@ At this point, you can verify the authenticity of the person you are talking wit
 
 First, open the screen where you are able to message your contact, as described above. From this screen, tap the name of your contact at the top of the screen.
 
-![](tool_ios_resized010-name.png)
+![](tool_signalios_resized010-name.png)
 
 From the following screen, tap "Verify Safety Numbers."
 
-![](tool_ios_resized015-verify.png)
+![](tool_signalios_resized015-verify.png)
 
 You will now be brought to a screen which displays a QR code and a list of 'safety numbers.' This code will be unique for every different contact you are conversing with. Have your contact navigate to the corresponding screen for their conversation with you, so that they have a QR code displayed on their screen as well.
 
-![](tool_ios_resized016.png)
+![](tool_signalios_resized016.png)
 
 Back on your device, tap "Scan Code." At this point, Signal may ask for permission to access the camera. Tap "OK."
 
-![](tool_ios_resized017.png)
+![](tool_signalios_resized017.png)
 
 Now you will be able to use the camera to scan the QR code that is displayed on your contact's screen. Align your camera to the QR code:
 
-![](tool_ios_resized018.png)
+![](tool_signalios_resized018.png)
 
 Hopefully, your camera will scan the barcode and show a "Safety Numbers Verified!" dialogue, like this:
 
-![](tool_ios_resized019.png)
+![](tool_signalios_resized019.png)
 
 This indicates that you have verified your contact successfully. If instead your screen looks like this, something has gone wrong:
 
-![](tool_ios_resized020.png)
+![](tool_signalios_resized020.png)
 
 You may want to avoid discussing sensitive topics until you have verified keys with that person.
 
@@ -183,14 +183,14 @@ _Note for power users: The screen displaying your QR code also has an icon to sh
 
 Signal has a feature called disappearing messages which ensures that messages will be removed from your device and the device of your contact some chosen amount of time after they are seen. To enable disappearing messages for a conversation, open the screen where you are able to message your contact. From this screen, tap the name of the contact at the top of the screen, then tap the slider next to "Disappearing Messages."
 
-![](tool_ios_resized015-slider.png)
+![](tool_signalios_resized015-slider.png)
 
 A slider will appear that allows you to choose how quickly messages will disappear:
 
-![](tool_ios_resized021.png)
+![](tool_signalios_resized021.png)
 
 After you select an option, you can tap the "<" icon on the top-left corner of the screen, and you should see information in the conversation indicating that “disappearing messages” have been enabled.
 
-![](tool_ios_resized022.png)
+![](tool_signalios_resized022.png)
 
 You can now send messages with the assurance that they will be removed after the chosen amount of time.
