@@ -15,4 +15,4 @@ KeePassXC sits on your desktop. It is also portable, which means that you can pu
 
 Learn how to use [KeepassXC](umbrella://lesson/keepassxc).
 
-_There are a number of programs with names similar to KeePassXC, like KeePassX, KeePass, and KeePass2. Some of these are based on the same code, while others just use the same database format. [_KeePassXC_](https://keepassxc.org/) is cross-platform and more actively developed._
+*Note: There are a number of programs with names similar to KeePassXC, like KeePassX, KeePass, and KeePass2. Some of these are based on the same code, while others just use the same database format. [_KeePassXC_](https://keepassxc.org/) is cross-platform and more actively developed.*
