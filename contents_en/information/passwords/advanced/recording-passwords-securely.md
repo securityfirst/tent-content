@@ -3,7 +3,7 @@
 
 # Recording passwords securely
 
-You know how to [create a strong, memorable password] ((umbrella://lesson/passwords/0). Now you need a different password for every account, and change it every few months. It can soon become difficult to remember them all. Fortunately, there are software tools to help. 
+You know how to [create a strong, memorable password] (umbrella://lesson/passwords/0). Now you need a different password for every account, and change it every few months. It can soon become difficult to remember them all. Fortunately, there are software tools to help. 
 
 A password manager is a software application that can generate random, secure passwords for each of your accounts and record them in a portable, encrypted password database. One free, open source example is KeePassXC.
 
