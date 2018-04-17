@@ -8,7 +8,7 @@ To protect your rights, you may want to harden your existing phone against searc
 *   **Passwords:** Always password-protect your phone. While password-protecting your phone is a small barrier to access, please be aware that it is not an effective barrier to expert forensic analysis.
 *   **Encryption:** Activate encryption on your phone. If you have an Android, go to Settings -> Personal -> Security -> Encryption. (Learn how to [Encrypt your iPhone] (umbrella://lesson/encrypt-your-iphone).)
 *   **For communicating**: Signal (Learn how to use Signal for [Android] (umbrella://lesson/signal-for-android) and [iOS] (umbrella://lesson/signal-for-ios).) 
-*   **For video/photography:** ObscuraCam and the related plugin, InformaCam (Learn how to use [ObscuraCam] (umbrella://lesson/obscuracam).)
+*   **For video/photography:** ObscuraCam and the related plugin, CameraV (Learn how to use [ObscuraCam] (umbrella://lesson/obscuracam).)
 *   **For emergencies:** Panic Button (Android only)
 
 **Back up your data:** It's important that you frequently back up the data stored on your phone, especially if your device lands into the hands of a police officer. You may not get your phone back for a while (if at all) and it is possible that its contents may be deleted, whether intentionally or not.
