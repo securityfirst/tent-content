@@ -6,7 +6,7 @@
 To protect your rights, you may want to harden your existing phone against searches. (Learn more about security and **[Mobile Phones] (umbrella://lesson/mobile-phones).**)
 
 *   **Passwords:** Always password-protect your phone. While password-protecting your phone is a small barrier to access, please be aware that it is not an effective barrier to expert forensic analysis.
-*   **Encryption:** Activate encryption on your phone. If you have an Android, go to Settings -> Personal -> Security -> Encryption. (Learn how to [Encrypt your iPhone] (umbrella://lesson/encrypt-your-iphone).)
+*   **Encryption:** Activate encryption on your phone. If you have an Android, go to Settings -> Personal -> Security -> Encryption. (Learn [Basic Security for Android](umbrella://lesson/android) and how to [Encrypt your iPhone] (umbrella://lesson/encrypt-your-iphone).)
 *   **For communicating**: Signal (Learn how to use Signal for [Android] (umbrella://lesson/signal-for-android) and [iOS] (umbrella://lesson/signal-for-ios).) 
 *   **For video/photography:** ObscuraCam and the related plugin, CameraV (Learn how to use [ObscuraCam] (umbrella://lesson/obscuracam).)
 *   **For emergencies:** Panic Button (Android only)
