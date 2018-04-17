@@ -3,7 +3,7 @@
 
 # Recording passwords securely
 
-You know how to [create a strong, memorable password] ((umbrella://lesson/passwords/0). Now you need a different password for every account, and change it every few months. It can soon become difficult to remember them all. Fortunately, there are software tools to help. 
+You know how to [create a strong, memorable password] (umbrella://lesson/passwords/0). Now you need a different password for every account, and change it every few months. It can soon become difficult to remember them all. Fortunately, there are software tools to help. 
 
 A password manager is a software application that can generate random, secure passwords for each of your accounts and record them in a portable, encrypted password database. One free, open source example is KeePassXC.
 
@@ -15,4 +15,4 @@ KeePassXC sits on your desktop. It is also portable, which means that you can pu
 
 Learn how to use [KeepassXC](umbrella://lesson/keepassxc).
 
-_There are a number of programs with names similar to KeePassXC, like KeePassX, KeePass, and KeePass2. Some of these are based on the same code, while others just use the same database format. [_KeePassXC_](https://keepassxc.org/) is cross-platform and more actively developed._
+*Note: There are a number of programs with names similar to KeePassXC, like KeePassX, KeePass, and KeePass2. Some of these are based on the same code, while others just use the same database format. [_KeePassXC_](https://keepassxc.org/) is cross-platform and more actively developed.*

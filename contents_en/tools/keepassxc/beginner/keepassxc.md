@@ -6,7 +6,7 @@ KeePassXC
 
 Secure Password Manager
 
-**Lesson to read: [Passwords](umbrella://lesson/passwords).**  
+**Lesson to read: [Passwords](umbrella://lesson/passwords/1).**  
 **Level**: Beginner  
 **Time required**: 5 minutes to setup for a lifetime of blissful strong password usage.  
 **Published:** April 2018    
@@ -35,7 +35,7 @@ How KeePassXC works
 
 KeePassXC works with password databases, which are files that store a list of all your passwords. These databases are encrypted when they are stored on your computer’s hard disk. So, if your computer is off and someone steals it, they will not be able to read your passwords.
 
-Password databases can be encrypted using a master password. Since your master password protects all your other passwords, you should make it as strong as possible. (Learn how to create strong [Passwords](umbrella://lesson/passwords).)
+Password databases can be encrypted using a master password. Since your master password protects all your other passwords, you should make it as strong as possible. (Learn how to create strong [Passwords](umbrella://lesson/passwords/0).)
  
 
 Using a master password
@@ -79,7 +79,7 @@ To create a new password or store a password you already have, right-click on th
 *   Enter your password in the “Password” field. If you’re creating a new password, click on the dice icon to the right. You might want to do this when you are signing up for a new website, or when you are replacing older, weaker passwords with new, unique, random passphrases. ” After you click the dice icon, a password generator dialog will pop up. You can use this to generate a random password. There are several options in this dialog, including what sorts of characters to include and how long to make the password.
     *   Note that if you generate a random password, you don’t have to remember (or even know!) what that password is. KeePassXC stores it for you, and any time you need it you will be able to copy/paste it into the appropriate program. This is the whole point of a password manager—you can use different long random passwords for each website/service, without even knowing what the passwords are!
     *   Because of this, you should make the password as long as the service will allow and use as many different types of characters as possible.
-    *   Once you’re satisfied with the options, click “Generate” in the lower right to generate the password, and then click “OK.” The generated random password will automatically be entered in the “Password” and “Repeat” fields for you. (If you’re not generating a random password, then you’ll need to enter your chosen password again in the “Repeat” field.)
+*   Once you’re satisfied with the options, click “Generate” in the lower right to generate the password, and then click “OK.” The generated random password will automatically be entered in the “Password” and “Repeat” fields for you. (If you’re not generating a random password, then you’ll need to enter your chosen password again in the “Repeat” field.)
 *   Click OK. Your password is now stored in your password database. To make sure the changes are saved, save the edited password database by going to “File > Save Database.” (Alternatively, if you made a mistake, you can close and then re-open the database file and all changes will be lost.)
 
 ![](tool_keepassxc3._adding_an_entry.png)
@@ -104,7 +104,7 @@ KeePassXC allows you to:
 
 *   Search your database using the search box (the text box in the toolbar of the main KeePassXC window).
 *   Sort your entries by clicking on the column header in the main window.
-*   “Lock” KeePassXC by choosing “Tools > Lock Databases.” This allows you to leave KeePassXC open, but have it ask for your master password (and/or keyfile) before you can access your [password  database again. You can also have KeePassXC automatically lock itself after a certain period of inactivity. This can prevent someone from accessing your passwords if you step away from your computer or lose it. To enable this feature on macOS, choose “Preferences > Settings” from the menu and click on the security options. Then check the box that says “Lock database after inactivity of \[number\] seconds.” For Linux or Windows, choose “Tools > Settings” from the menu and click on the security options. Then check the box that says “Lock database after inactivity of \[number\] seconds."
+*   “Lock” KeePassXC by choosing “Tools > Lock Databases.” This allows you to leave KeePassXC open, but have it ask for your master password (and/or keyfile) before you can access your password  database again. You can also have KeePassXC automatically lock itself after a certain period of inactivity. This can prevent someone from accessing your passwords if you step away from your computer or lose it. To enable this feature on macOS, choose “Preferences > Settings” from the menu and click on the security options. Then check the box that says “Lock database after inactivity of \[number\] seconds.” For Linux or Windows, choose “Tools > Settings” from the menu and click on the security options. Then check the box that says “Lock database after inactivity of \[number\] seconds."
     
 
 KeePassXC can also store more than just usernames and passwords. For example, you can create entries to store important things like account numbers, product keys, airline frequent flyer information, or serial numbers. There’s no requirement that the data you put in the “Password” field actually has to be a password. Just input what you want to store in the “Password” field instead of an actual password (and leave the “Username” field blank if there’s no username) and KeePassXC will safely and securely remember it for you.
@@ -145,4 +145,3 @@ Using Autofill can be bad for your privacy. To disable it, uncheck the settings 
 You're all done! Now you can save any credentials you enter on the web. You will also be able to automatically fill in your usernames/passwords.
 
 KeePassXC is easy-to-use, robust software, and we recommend exploring the program to learn all of the useful things it can do.
-
