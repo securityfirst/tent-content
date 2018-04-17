@@ -5,7 +5,7 @@
 
 Mobile phones can store all sorts of data: call history, text messages sent and received, address books, photos, video clips, text files. These may reveal your network of contacts, and personal information about you and your colleagues.
 
-Some phones have encryption options available which should be applied. If you have an Android phone this can be done in Settings -> Personal -> Security -> Encryption. (Learn how to [Encrypt your iPhone] (umbrella://lesson/encrypt-your-iphone).)
+Some phones have encryption options available which should be applied. If you have an Android phone this can be done in Settings -> Personal -> Security -> Encryption. (Learn [Basic Security for Android](umbrella://lesson/android) and how to [Encrypt your iPhone] (umbrella://lesson/encrypt-your-iphone).)
 
 Do not store confidential files and photos on your mobile phone. Move them, as soon as you can, to a safe location, as outlined in the [Backing Up](umbrella://lesson/backing-up) lesson. Frequently erase your phone call records, messages, address book entries, photos, etc. Learn more about safe deleting in the [Deleting lesson](umbrella://lesson/safely-deleting).
 ![image](mobile3.png)
