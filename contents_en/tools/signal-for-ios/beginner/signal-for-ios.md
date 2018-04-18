@@ -10,7 +10,7 @@ Secure Messages
 **Level**: Beginner-Intermediate  
 **Time required**: 15-20 minutes  
 **Published:** April 2018  (some images date from earlier versions)  
-**Sources:** EFF, Surveillance Self-Defense [How to: How to: Use Signal on iOS] (https://ssd.eff.org/en/module/how-use-signal-ios); Security in a Box [SIGNAL FOR ANDROID] (https://securityinabox.org/en/guide/signal/android/).
+**Sources:** EFF, Surveillance Self-Defense [How to: Use Signal on iOS] (https://ssd.eff.org/en/module/how-use-signal-ios); Security in a Box [SIGNAL FOR ANDROID] (https://securityinabox.org/en/guide/signal/android/).
 
 **Using Signal will give you:**
 
