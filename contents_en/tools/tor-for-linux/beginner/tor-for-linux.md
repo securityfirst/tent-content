@@ -124,13 +124,10 @@ If you are **not** using Tor, it will display the following:
 
  ![](not-using-tor.png)
 
-*Figure 1: Tor Check showing that Tor is not working properly*
  
 If you are using Tor, it will display the following:
 
  ![](using-tor.png) 
-
-*Figure 2: Tor Check showing that Tor is working properly*
 
 If you want to check your apparent IP address using a service that is not associated with the Tor Project, there are many options online. Examples that support *https* encryption (which makes it more difficult for someone *other* than the service provider "fake" the result) include:
 
@@ -146,8 +143,6 @@ You can create a "new identity" for your Tor Browser. When you do, the Tor Brows
 **Step 1**. **Open** the Tor Browser menu
 
  ![](new-identity.png)
-
-*Figure 1: Creating a new identity in the Tor Browser*
 
 **Step 2**. **Select** *New Identity* from the menu. 
 
@@ -247,23 +242,16 @@ You can use provided bridges to connect to the Tor network by performing the fol
 
  ![](tor-running-1.png)
 
-*Figure 1: The Tor Browser configuration screen*
 
 **Step 2**. If you have restricted access, **click** **[Configure]**. 
 
-**Note**: If you have already configured the Tor Browser, you can activate the screen below by following the steps in [Section 4.3](#how-to-reconfigure-access-to-the-tor-network)
-
 ![](tor-bridges-config.png)
-
-*Figure 2: The Tor Browser configuration screen*
 
 **Step 3**. **Select** **Yes**
 
 **Step 4**. **Click** **[Next]** to display the *bridge configuration* screen
 
 ![](provided-bridges.png)
-
-*Figure 3: The bridge configuration screen*
 
 **Step 5**. **Select** **Connect with provided bridges**
 
@@ -273,15 +261,11 @@ The Tor Browser will now ask if you need to use a *local proxy* to access the In
 
 ![](no-local-proxy.png)
 
-*Figure 4: The proxy configuration screen*
-
 **Step 7**. **Select** **No**
 
 **Step 8**. **Click** **[Connect]** to launch the Tor Browser
 
 ![](tor-running-2.png)
-
-*Figure 5: Connecting to the Tor network*
 
 After a few moments, the Tor Browser will open.
 
@@ -296,23 +280,18 @@ If you *can* access the Tor Project website, you can obtain custom bridge addres
 
  ![](just-give-me-bridges.png)
 
-*Figure 1: Obtaining Tor bridge addresses*
 
 **Step 2**. Fill in the captcha and press **enter**.
 
  ![](bridge-captcha.png)
 
-*Figure 2: Filling out a captcha*
 
 This should display three bridge addresses. 
 
  ![](bridge-lines.png)
 
-*Figure 3: Tor Bridge addresses*
 
-**Step 3**. Once you have your custom bridge addresses, you can **type** them into *Tor Bridge Configuration* screen shown below.
-
-**Note**: If you are launching Tor Browser for the first time, you can find the *Tor Bridge Configuration* screen by follow the first few steps of [the previous section](#how-to-connect-to-the-tor-network-with-provided-bridges). To find this screen if you have already setup Tor Browser, see [the following section](#how-to-reconfigure-access-to-the-tor-network).
+**Step 3**. Once you have your custom bridge addresses, you can **type** them into the *Tor Bridge Configuration* screen shown below.
 
  ![](custom-bridges.png) 
 
@@ -332,6 +311,3 @@ At any stage, if you need to access the Tor Network a different way, for example
 This screen allows you to enable or disable Bridges and add custom Bridges, among other changes. 
 
 **Step 3**. When you are done, **click** **[OK]** and **restart** the **Tor Browser**.
-
-
-
