@@ -7,5 +7,4 @@ Go to the Advanced lesson for advice on partaking in protests as an activist.[Go
 
 ### RELATED LESSONS/TOOLS
 
-*   
-Protective Equipment lesson
+*   [Protective Equipment lesson] (umbrella://lesson/protective-equipment)
