@@ -13,7 +13,7 @@ Note:
 *   While WhatsApp or others cannot view the content of your messages, they can still access information that reveals that you are communicating with someone (metadata). In some cases, this may still have negative security consequences.
 * 	It is possible for someone to try to intercept your communications by changing a contact's security code. To ensure you are warned about someone trying to do this, go to Settings -> Account -> Security -> Turn on "Show security notifications"
 
-*We still recommend Signal for secure messaging and calls.* (Learn how to use Signal for Android (umbrella://lesson/signal-for-android) and iOS (umbrella://lesson/singal-for-ios).) 
+*We still recommend Signal for secure messaging and calls.* (Learn how to use Signal for [Android] (umbrella://lesson/signal-for-android) and [iOS] (umbrella://lesson/singal-for-ios).) 
 
 **Two-Step Verification**
 
