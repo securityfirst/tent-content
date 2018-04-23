@@ -7,7 +7,7 @@ Most of us think that a file on our computer is deleted once we put the file in 
 ![image](deleting1.png)
 
 The best way to delete a file forever, then, is to make sure it gets overwritten immediately.  
-This can be done easily using Eraser (for Windows) or Secure Delete (for Mac OS X), both of which are described below. Users of Linux and other open-source operating systems can use GNU shred, but this requires a more advanced technical proficiency.
+This can be done easily using Eraser (for Windows) or Secure Delete (for Mac OS), both of which are described later in this lesson. Users of Linux and other open-source operating systems can use GNU shred, but this requires a more advanced technical proficiency.
 ![image](deleting2.png)
 
 Note that securely deleting data from solid state drives (SSDs), USB flash drives, and SD cards is very hard! The instructions below apply only to traditional disk drives. If you're using an SSD or a USB flash drive, you can skip to the section about it below.
