@@ -7,7 +7,7 @@ Evacuation planning and rehearsals should be carried out regularly. Security sit
 
 *   **Suspend** work activities in response to security concerns;
 *   **Hibernate** by staff remaining where they are but keeping a low profile;
-*   **Relocate** with staff moving internally within the country or to a safe-house to escape security concerns, or;
+*   **Relocate** with staff moving internally within the country or to a safe house to escape security concerns, or;
 *   **Evacuate** with staff stopping work and leaving the country due to severe security concerns.
 
 **Who will be evacuated**  
@@ -19,7 +19,7 @@ It is essential that all staff members clearly understand their and their famili
 *   **Priority 4** - Essential staff
 
 **Where will staff be evacuated to?**  
-Identify a first-choice destination and an alternate destination for evacuation or relocation.  Organise an emergency safe-house or safe-haven if needed. Determine visa requirements, and the logistics that will be needed upon arrival.
+Identify a first-choice destination and an alternate destination for evacuation or relocation.  Organise an emergency safe house or safe haven if needed. Determine visa requirements, and the logistics that will be needed upon arrival.
 
 **How will staff be evacuated?**  
 Establish a notification system and an assembly point.  Detail the route and method of evacuation. Check to ensure that these routes can be travelled under emergency conditions. Coordinate plans with embassies, UN agencies, and other NGOs as appropriate.
