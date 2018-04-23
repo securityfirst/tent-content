@@ -3,7 +3,6 @@
 
 # PGP FOR WINDOWS PC TOOL GUIDE
 
-## PGP for Windows PC Tool Guide   
 Encrypted email for Windows
 
 **Lesson to read:**
@@ -12,7 +11,7 @@ Encrypted email for Windows
 - GPG4Win  
 - Mozilla Thunderbird  
 - Enigmail  
-**Computer requirements:** An internet connection, a computer running Mac OS X, an email account  
+**Computer requirements:** An internet connection, a computer running Windows, an email account  
 **Version used in this guide:**   
 - Windows: Windows 7 Ultimate  
 - Mozilla Thunderbird 24.6.0  
