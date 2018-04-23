@@ -3,7 +3,7 @@
 
 # Secure messaging on your computer
 
-Instead of using Skype, Google Talk or MSN Messenger to send messages on your computer we recommend you use one of these secure options instead:
+We recommend one of the following for secure messaging on a computer:
 
 ## Pidgin
 
