@@ -188,8 +188,6 @@ In response, *Terminal* should display the following:
 
  ![](torforlinux12.png) 
 
-*Figure 1:  Terminal after importing a GPG key*
-
 **Step 2**. You can display information about this key by executing the following command in *Terminal*: 
 
 `gpg --fingerprint 0x4E2C6E8793298290`
@@ -197,8 +195,6 @@ In response, *Terminal* should display the following:
 In response, *Terminal* should display the following: 
 
  ![](torforlinux13.png)
-
-*Figure 2: Terminal confirming that you have successfully imported a GPG key*
 
 **Step 3**.  Using *Terminal*, enter the directory where you saved one of the two Tor Browser package files below: 
 
