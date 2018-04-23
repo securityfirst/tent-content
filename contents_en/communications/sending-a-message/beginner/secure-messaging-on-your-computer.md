@@ -13,8 +13,8 @@ Pidgin supports many features of these chat networks, such as file transfers, aw
 
 ## Adium
 
-A good alternative to Pidgin that works with OS X on Macs is [Adium](http://adium.im/).
+A good alternative to Pidgin for Mac OS is [Adium](http://adium.im/). Learn how to use it in the [Adium tool guide] (umbrella://lesson/adium).
 
 ## Signal Desktop
 
-A desktop version of Signal that runs on Windows, Mac, or LINUX is available [here] (https://signal.org/download/). 
+A desktop version of Signal that runs on Windows, Mac, or LINUX is available [here] (https://signal.org/download/).
