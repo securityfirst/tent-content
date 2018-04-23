@@ -13,7 +13,7 @@ Secure File Storage
 **Using VeraCrypt will give you:**
 
 *   The ability to protect your files if your computer or USB storage device gets lost, stolen or confiscated
-*   The ability to access and modify the same set of sensitive files on Windows, Mac OS X and Linux computers
+*   The ability to access and modify the same set of sensitive files on Windows, Mac OS and Linux computers
 *   A secure way to backup important files
 
 **Download Location:** [https://www.veracrypt.fr/en/Downloads.html]((https://www.veracrypt.fr/en/Downloads.html))
@@ -24,9 +24,9 @@ Secure File Storage
 
 **System Requirements:**
     
-**GNU/Linux** (32-bit and 64-bit versions, kernel 2.6 or compatible)
-**Apple Mac OS X** 10.6 - 10.10
-**Microsoft Windows** Server 2003, 2008, 2012; XP, Vista, 7, 8, 10
+GNU/Linux (32-bit and 64-bit versions, kernel 2.6 or compatible)
+Apple Mac OS X 10.7 or later, running the latest version of [FUSE for Mac OS] (https://osxfuse.github.io/).
+Microsoft Windows Server 2003, 2008, 2012; XP, Vista, 7, 8, 10
 
 Note: Administrator account required for installation and to create volumes
 
@@ -34,7 +34,7 @@ Note: Administrator account required for installation and to create volumes
 1\. Introduction
 ================
 
-[**VeraCrypt**](https://www.veracrypt.fr/en/Home.html) is _free software_ that allows you to encrypt your files. It is an updated version of the unmaintained TrueCrypt project and is available for Microsoft Windows, Mac OS X and GNU/Linux. It addresses various security vulnerabilities that have since been identified in TrueCrypt.
+[**VeraCrypt**](https://www.veracrypt.fr/en/Home.html) is _free software_ that allows you to encrypt your files. It is an updated version of the unmaintained TrueCrypt project and is available for Microsoft Windows, Mac OS and GNU/Linux. It addresses various security vulnerabilities that have since been identified in TrueCrypt.
 
 1.0. Things you should know about VeraCrypt before you start
 ------------------------------------------------------------
@@ -59,11 +59,11 @@ For more information about VeraCrypt, see:
 
 Full-featured editions of **Windows** since **Windows 7** contain the **BitLocker** full-disk encryption utility. (This includes Windows 7 Ultimate, Windows 7 Enterprise, Windows 8 Pro, Windows 8 Enterprise and Windows 10 Pro).
 
-For **Mac OS X** you can use the built-in **FileVault** utility for full-disk encryption (or to encrypt just your home directory). **Mac OS X** also has a **Disk Utility** that can create encrypted volumes on USB storage devices, but you will only be able to access these volumes on a Mac.
+For **Mac OS** you can use the built-in **FileVault** utility for full-disk encryption (or to encrypt just your home directory). **Mac OS** also has a **Disk Utility** that can create encrypted volumes on USB storage devices, but you will only be able to access these volumes on a Mac.
 
-Both **FileVault** (for **Mac OS X**) and **BitLocker** (for **Windows**) are proprietary software. As a result, the security they provide can not be independently verified. Nonetheless, it is a good idea to enable them if possible. You can use **VeraCrypt**, in addition to these built-in tools, to protect your most sensitive files and to move them between Linux, Mac OS X and Windows computers.
+Both **FileVault** (for **Mac OS**) and **BitLocker** (for **Windows**) are proprietary software. As a result, the security they provide can not be independently verified. Nonetheless, it is a good idea to enable them if possible. You can use **VeraCrypt**, in addition to these built-in tools, to protect your most sensitive files and to move them between Linux, Mac OS and Windows computers.
 
-Many **GNU Linux** distributions, including [**Ubuntu**](http://www.ubuntu.com/), support full-disk encryption as a standard feature. We recommend enabling full-disk encryption when you install Linux, as it is far easier than doing so later. In addition, you can use the built in **Disk Utility** on most Linux distributions to create an encrypted volume on a USB storage device. Unlike VeraCrypt, however, this will only allow you to access your files on other Linux computers. You can use VeraCrypt to move files between Linux, Mac OS X and Windows.
+Many **GNU Linux** distributions, including [**Ubuntu**](http://www.ubuntu.com/), support full-disk encryption as a standard feature. We recommend enabling full-disk encryption when you install Linux, as it is far easier than doing so later. In addition, you can use the built in **Disk Utility** on most Linux distributions to create an encrypted volume on a USB storage device. Unlike VeraCrypt, however, this will only allow you to access your files on other Linux computers. You can use VeraCrypt to move files between Linux, Mac OS and Windows.
 
 2\. Installing VeraCrypt
 ========================
@@ -75,6 +75,8 @@ To install VeraCrypt on your computer, follow the steps below:
 ![image](tool_veracrypt1.png)
 
 _Figure 1: The VeraCrypt installer_
+
+Note: Mac OS users will be prompted to download [FUSE for Mac OS] (https://osxfuse.github.io/), a software package needed to run VeraCrypt.  
 
 **VeraCrypt** will ask you if you want to allow the installer to make changes to your PC, as shown below.
 
@@ -239,7 +241,7 @@ _Figure 10: Volume Creation Wizard featuring the Volume Format window_
 
 **Step 13**. **Click** **\[Format\]** to begin creating your standard volume.
 
-**Note:** The default value ("FAT") will work for most people and is compatible with Windows, Mac OS X and Linux computers. However, if you intend to store files that are larger than 4 GB (for a single file), then you will have to select a different file system type. **NTFS** will work on **Windows** computers and most Linux computers.
+**Note:** The default value ("FAT") will work for most people and is compatible with Windows, Mac OS and Linux computers. However, if you intend to store files that are larger than 4 GB (for a single file), then you will have to select a different file system type. **NTFS** will work on **Windows** computers and most Linux computers.
 
 VeraCrypt is now ready to create a _standard encrypted volume within a container file_. If you move your mouse within the _VeraCrypt Volume Creation Wizard_ window, it will produce random data that will help strengthen the encryption.
 
@@ -395,7 +397,7 @@ _Figure 13: VeraCrypt Hidden Volume Format screen_
 
 **Step 20**. **Click** **\[Format\]** to format the hidden volume.
 
-**Note:** The default value ("FAT") will work for most people and is compatible with Windows, Mac OS X and Linux computers. However, if you intend to store files that are larger than 4 GB (for a single file), then you will have to select a different file system type. **NTFS** will work on Windows computers and most Linux computers.
+**Note:** The default value ("FAT") will work for most people and is compatible with Windows, Mac OS and Linux computers. However, if you intend to store files that are larger than 4 GB (for a single file), then you will have to select a different file system type. **NTFS** will work on Windows computers and most Linux computers.
 
 **VeraCrypt** is now ready to create a _standard encrypted volume within a container file_. If you move your mouse within the _VeraCrypt Volume Creation Wizard_ window, it will produce random data that will help strengthen the encryption.
 
