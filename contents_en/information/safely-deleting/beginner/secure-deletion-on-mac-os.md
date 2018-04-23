@@ -1,9 +1,9 @@
-[Title]: # (Secure deletion on Mac OS X)
+[Title]: # (Secure deletion on Mac OS)
 [Order]: # (2)
 
-# Secure deletion on Mac OS X
+# Secure deletion on Mac OS
 
-On OS X 10.4 and above, you can securely delete individual files by simply:
+On Mac OS X 10.4 and above, you can securely delete individual files by simply:
 
 *   Moving them to the Trash;
 *   Then selecting Finder > Secure Empty Trash.
