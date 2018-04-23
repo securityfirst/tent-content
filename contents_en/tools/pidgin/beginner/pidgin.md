@@ -12,7 +12,7 @@ Encrypted instant messaging for Windows
 - [https://pidgin.im/download/](https://pidgin.im/download/)   
 - [https://otr.cypherpunks.ca/](https://otr.cypherpunks.ca/)  
 **Computer requirements:** An internet connection, a computer running Windows XP or higher, and an XMPP (Jabber) account.    
-_(Pidgin is able to work with many chat systems, such as AIM, Facebook, Google Talk, MSN, MXit and Yahoo, but here we'll focus on XMPP, formerly known as Jabber)_  
+_(Pidgin is able to work with many chat systems, but here we'll focus on XMPP, formerly known as Jabber)_  
 **Version used in this guide:**   
 - Windows 7 Ultimate  
 - Pidgin 2.10.9, pidgin-otr 4.0.0-1  
@@ -31,8 +31,8 @@ _(Pidgin is able to work with many chat systems, such as AIM, Facebook, Google T
 Pidgin is an easy-to-use, instant messaging client for Windows that uses a protocol called OTR (Off-the-record), which allows users to have confidential conversations. 
 
 - Note: OTR should not be confused with Google's "Off the record," which just disables chat logging, and does not have encryption or verification capabilities.  
-- Pidgin supports the following IM services: AIM, Bonjour, Gadu-Gadu, Google Talk, Groupwise, ICQ, IRC, MSN, MXit,MySpaceIM, SILC, SIMPLE, Sametime, Yahoo!, Zephyr and any IM clients running the XMPP messaging protocol.  
-- Pidgin does not permit communication between different IM services. For instance, if you are using Pidgin to access your Google Talk account, you will not be able to chat with a friend using an ICQ account.  
+- Pidgin supports the following IM services: AIM, Bonjour, Gadu-Gadu, Google Hangouts, Groupwise, ICQ, IRC, SILC, SIMPLE, Sametime, Zephyr and any IM clients running the XMPP messaging protocol.  
+- Pidgin does not permit communication between different IM services. For instance, if you are using Pidgin to access your Google Hangouts account, you will not be able to chat with a friend using an ICQ account.  
 - However, Pidgin can be configured to manage multiple accounts based on any of the supported messaging protocols. That is, you may simultaneously use both Gmail and ICQ accounts, and chat with correspondents using either of those specific services (which are supported by Pidgin).  
 - Pidgin, automatically logs conversations by default, however you do have the ability to disable this feature. That said, you do not have control over the person with whom you are chatting-she could be logging or taking screenshots of your conversation, even if you yourself have disabled logging.
 
@@ -145,7 +145,7 @@ When Pidgin launches for the first time, you will see this welcome window giving
 
 Now you'll see the "Add Account" window. 
 
-**_Pidgin is able to work with many chat systems, such as AIM, Facebook, GoogleTalk, MSN, MXit and Yahoo, but here we'll focus on XMPP, formerly known as Jabber._**
+**_Pidgin is able to work with many chat systems, but here we'll focus on XMPP, formerly known as Jabber._**
 
 At the Protocol entry, select the "XMPP" option.
 

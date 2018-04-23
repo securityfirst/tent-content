@@ -3,39 +3,36 @@
 
 # CHATSECURE TOOL GUIDE
 
-## ChatSecure Tool Guide  
-Secure texting for iPhone and Android
+Secure messaging for iOS
 
 **Lesson to read: [Sending a Message](umbrella://lesson/sending-a-message)**  
-**Download location:** [https://chatsecure.org](https://chatsecure.org) ; can also be downloaded from the [Apple App store](https://itunes.apple.com/us/app/chatsecure/id464200063) or the [Google Play store](https://play.google.com/store/apps/details?id=info.guardianproject.otr.app.im).  
-**System requirements:** iOS 6.0, Android (varies)  
-**Version used in this guide:** 2.2.4 (iPhone), 13.1.2 (Android)  
-**License:** Apple, GPLv3; Android, Apache 2.0  
-**Other reading:** [https://guardianproject.info/apps/chatsecure/](https://guardianproject.info/apps/chatsecure/)  
+**Download location:** [https://chatsecure.org](https://chatsecure.org); the [Apple App store](https://itunes.apple.com/us/app/chatsecure/id464200063).  
+**System requirements:** iOS 9.0 or later
+**Version used in this guide:** 2.2.4 (iPhone)
+**License:** GPLv3  
 **Level:** Beginner-Intermediate  
 **Time required:** 5-10 minutes
 ![image](tool_chatsecure.png)
 
-ChatSecure is a free mobile phone application for iPhone and Android devices that allows users to communicate with off the record instant messaging. ChatSecure allows users to send instant messages and chats using a cell phone, instead of with a traditional desktop or laptop computer. It's compatible with iPhone and Android phones.
+ChatSecure is a free mobile phone application for iOS devices that allows users to communicate with off the record instant messaging. 
 
-ChatSecure supports OTR  encryption  over XMPP. All messages sent via ChatSecure are completely private, so long as the person you are chatting with is also using an OTR compatible instant messaging client like ChatSecure, Adium, or Pidgin. The app's capabilities allow it to deliver audio messages, photos, files, or text.
+ChatSecure supports OTR  encryption  over XMPP. All messages sent via ChatSecure are completely private, so long as the person you are chatting with is also using an OTR compatible instant messaging client like ChatSecure, Adium, or Pidgin. The app can deliver audio messages, photos, files, or text.
 
-When you send messages using ChatSecure, they are not stored on the phone system's memory. ChatSecure used with the privacy plugin Orbot should be able to bypass most firewalls, network restrictions, and blacklists. The app can manage multiple accounts, so you can chat with your Facebook friends, Google contacts, or other privacy conscious users that use an instant messaging program that supports OTR encryption.
+When you send messages using ChatSecure, they are not stored on your phone. The app can manage multiple accounts, so you can chat with your Facebook friends, Google contacts, or other privacy conscious users that use an instant messaging program that supports OTR encryption.
 
 ### How to install and configure ChatSecure
 
 1. Download and install ChatSecure
 
-Visit the Apple App Store or Google Play store and search for ChatSecure by The Guardian Project. Select "Install" and accept the Terms of Service by clicking "Accept." The app will download and install automatically.
+Visit the Apple App Store and search for ChatSecure by The Guardian Project. Select "Install" and accept the Terms of Service by clicking "Accept." The app will download and install automatically.
 
 2. Open the app and set your password
 
-When you open the app you will be promoted to set a password. You will be prompted to create a passphrase  in order to locally encrypt your data. If you choose to do this, your data will be encrypted in transit, as well as encrypted locally on your phone.  
-If you choose to skip this step, your messages will still be encrypted in transit, but will not be protected on your device. For more information on selecting a strong passphrase, see the [Passwords lesson](umbrella://lesson/passwords).
+When you open the app you will be promoted to set a password in order to locally encrypt your data. If you choose to do this, your data will be encrypted locally on your phone as well as in transit. If you choose to skip this step, your messages will still be encrypted in transit, but will not be protected on your device. For more information on selecting a strong passphrase, see the [Passwords lesson](umbrella://lesson/passwords).
 
 3. Configure your accounts
 
-You can add a variety of different accounts your ChatSecure app. To add GoogleTalk or Google Hangouts, choose "Google." To add any XMPP or Jabber messaging service, choose "Jabber (XMPP)." To add your Facebook account, also choose "Jabber (XMPP)."  
+You can add a variety of different accounts your ChatSecure app. To add Google Hangouts, choose "Google." To add any XMPP or Jabber messaging service, choose "Jabber (XMPP)." To add your Facebook account, also choose "Jabber (XMPP)."  
 Once you've added your account, type in your username (or email address) and your password to sign in. Your contacts should load automatically.
 
 To add a second or third account, click on the "accounts" tab in the menu. In the upper right hand corner, click on the "+" sign. You can either choose to add an existing account or create a new account.

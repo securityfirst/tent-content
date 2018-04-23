@@ -1,9 +1,8 @@
 [Title]: # ()
 [Order]: # (0)
 
-# PGP FOR MAC O SX TOOL GUIDE
+# PGP FOR MAC OS TOOL GUIDE
 
-## PGP for Mac O SX Tool Guide   
 Encrypted email for Mac
 
 **Lesson to read:   
@@ -12,7 +11,7 @@ Encrypted email for Mac
  - [GPG Suite](https://gpgtools.org/)   
 - [Mozilla Thunderbird](https://www.mozilla.org/thunderbird/)   
 - [Enigmail](https://www.enigmail.net/home/index.php)  
-**Computer requirements:** An internet connection, a computer running Mac OS X, an email account  
+**Computer requirements:** An internet connection, a computer running Mac OS, an email account  
 **Version used in this guide:** 
 - GPG Suite Beta 4  
 - Mozilla Thunderbird 31.2.0  

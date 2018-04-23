@@ -3,84 +3,74 @@
 
 # PSIPHON TOOL GUIDE
 
-## Psiphon Tool Guide   
 Censorship Circumvention 
 
-**Lesson to read:   
-- [The Internet](umbrella://lesson/the-internet)**  
-**Download Location:** [https://psiphon.ca/en/download.html](https://psiphon.ca/en/download.html)   
-**Computer requirements:** An internet connection, a computer running Windows or an Android 2.2 phone or up (Psiphon 3 versions for iPhones and Mac OS X are coming soon)  
-**Version used in this guide:** Psiphon 3  
+**Lesson to read: [The Internet](umbrella://lesson/the-internet)**  
+**Download Location:** [https://psiphon.ca/en/download.html](https://psiphon.ca/en/download.html), [Google Play] (https://play.google.com/store/apps/details?id=com.psiphon3.subscription), [Apple App store] (https://itunes.apple.com/us/app/psiphon/id1276263909?ls=1&mt=8). Check that Android and Windows downloads have an authentic [digital signature](https://psiphon.ca/en/faq.html#verify-psiphon-authentic-toc-collapse).    
+**Computer requirements:** An internet connection, and a device running Windows, Android 2.3 or later, or iOS 10.2 or later (iOS 8 for Psiphon browser)    
 **License:** Free open-source software; GNU GPL Version 3  
 **Level:** Beginner  
 **Other reading:** [https://psiphon.ca/en/user-guide.html](https://psiphon.ca/en/user-guide.html)  
 **Time required:** 5 minutes
 
 **Using Psiphon will give you:**  
-- The ability to safely get around internet censorship to access blocked websites and applications on your phone or computer.
+- The ability to safely get around internet censorship to access blocked websites and applications using a VPN (virtual private network).
 
 ### 1 Before you start 
 
-- **ALERT:** The Psiphon Team has discovered a specific instance of malware disguised as a Psiphon 3 Windows executable. The malware is being distributed as a zip file named "pisphone3.zip" on www.copy.com and may be available from other sources. The zip file contains a malicious binary named "pisphone3.exe" with the properties described at [Virus Total](https://www.virustotal.com/en/file/54201e181615c7eb18ee5a5ca3a0b7924cf3097ac5214fbee530741b6a6bc3da/analysis/1372262585/). Note the misspelling of the name. This Windows executable is not digitally signed by Psiphon Inc. Never run a fresh download of Psiphon without checking its digital signature, as described [here](https://psiphon.ca/en.html#is_my_psiphon_3_for_windows_authentic).  
-- It should be noted that although Psiphon is does not allow individual user's IP addresses to be associated with any individual website visited, Psiphon is intended primarily as a censorship evasion tool, rather than one that guarantees anonymity.
+- Beware malicioius copies of Psiphon and only download from official sources.
+
+![image](tool_psiphon10.png)
+![image](tool_psiphon11.png)
+![image](tool_psiphon12.png)
+
+- Psiphon is intended primarily as a censorship evasion tool, rather than one that guarantees anonymity.  
+- Because Psiphon is VPN-based, it is able to proxy all of your Internet traffic, not just websites.   
+- If you have not actively enabled Psiphon, you are not using the VPN. Just having Psiphon sitting on your computer is not enough.  
+- Web pages may load more slowly when using a VPN. This is normal, because the browser is not connecting directly to the website.  
+- Some paid VPN services may be faster than free ones like Psiphon, but you should be careful before trusting a business with your information, as it could be shared with authorities or sold to other companies.
+- Traffic between your device and the VPN server is encrypted. However, the traffic between that server and a non-HTTPS website will *not* be encrypted. (The same applies to other Internet services, such as when connecting with Outlook or Thunderbird to a non-SSL email provider.) 
 
 ### 2 Psiphon for Android
 
-Download the appropriate version of Psiphon from [here](https://psiphon.ca/en/download.html). 
+Download Psiphon Pro from the [Google Play] (https://play.google.com/store/apps/details?id=com.psiphon3.subscription) store, or select Psiphon Pro for Android on the official Psiphon [download page](https://psiphon.ca/en/download.html?10Years). 
 
-Click on a Psiphon APK link from within your Android email or browser to begin the installation. 
+(If you do not have access to the Google Play store, click on the Psiphon for Android direct download link from within your Android email or browser to begin the installation. Verify the downloaded file is authentic [here](https://psiphon.ca/en/faq.html#authentic-android).)You may need to [enable sideloading](https://psiphon.ca/en/faq.html#android-enable-sideloading).)
 
-(If you get an error, you may need to [enable sideloading](https://psiphon.ca/en/faq.html#android-enable-sideloading).)
+Open the app and cLick *start* to connect to the Psiphon network. 
 
-When you launch the Psiphon app, it will automatically start connecting to the Psiphon network.
+![image](tool_psiphon5.png)
 
-When you see the Psiphon "P" next to a key in the top left corner it indicates Psiphon is running in VPN or Whole Device mode and all applications are tunnelled through Psiphon.
+Select Whole Device mode to tunnel all applications through Psiphon. (This option may not be available for older versions of Android. You can use the dedicated Psiphon browser instead, but only online activity conducted in the browser will use Psiphon. Other apps will connect using your regular Internet connection.)  
 
-Under the Status Tab, you will see a P in the centre of the screen. The colour of this P indicates Psiphon's connection status.  
-- Grey: connecting  
-- Red: not connected  
-- Blue: connected
-![image](tool_psiphon1.png)
+![image](tool_psiphon6.png)
 
-To run Psiphon in Tunnel _Whole Device_ mode, you must have Android 4.0+ or a rooted phone. This option is unavailable for non-rooted phones with an older version of Android.
-
-Once the app has connected to the network, it will launch the built-in Psiphon browser. Psiphon for Android does not automatically tunnel the traffic for the default Android browser or other apps. By default, only the Psiphon browser is tunnelled through the Psiphon network.
-![image](tool_psiphon2.png)
-
- Once the Psiphon browser is open:  
-- The P in the top left will show you Psiphon is running  
-- The arrow on the centre left allows you to switch between open tabs  
-- The X at the bottom of the page closes the current tab  
-- The star at the bottom of the page bookmarks the current page  
-- The + at the bottom of the page opens a new tab
+The Psiphon "P" in the top left corner of your device indicates Psiphon is running.
 
 ### 3 Psiphon for Windows
 
-Download the appropriate version of Psiphon from [here](https://psiphon.ca/en/download.html), and run the program. 
-
-(You should [verify, here, that your copy of Psiphon for Windows is authentic](https://psiphon.ca/en/faq.html#authentic-windows).)
+Download the latest version of Psiphon for Windows [here](https://psiphon.ca/en/download.html), and run the program. Verify that the downloaded file is authentic [here](https://psiphon.ca/en/faq.html#authentic-windows).)
 
 When you run it, you should see a security prompt showing that this program is a legitimate product of Psiphon Inc.
 ![image](tool_psiphon3.png)
 
-Psiphon automatically starts connecting when you run it. While it is connecting, a spinning icon is displayed. 
-
-You can select one of the following tunnel modes: **VPN, SSH, or SSH+** 
-
-- We recommend that you **select the VPN** option, which means all of your traffic automatically tunnels through Psiphon.  
-- The key difference between SSH/SSH+ and VPN is that SSH is application specific while a VPN encrypts all traffic on your computer. With VPN, you turn on the VPN and then all your traffic is encrypted so the web browser, Skype, and email would all bypass censorship as long as the VPN is on.  
-- In Psiphon's SSH and SSH+ modes, it automatically sets the proxy settings and traffic for applications that respect these settings tunnel through Psiphon. These settings are respected by default by all major web browsers. SSH plus obfuscation adds a randomized layer on top of SSH to avoid protocol fingerprinting.   
-- In SSH and SSH+ modes, Psiphon offers a split option where international traffic is tunnelled through the proxy and domestic traffic is not. Check the "Don't proxy..." option to enable split tunnelling. When this option is on, unproxied domains are reported in the message area.   
-- Use SSH/SSH+ options if you want to access domestic sites quickly and your threat model allows it. However we recommend **selecting the VPN option**.
-
-Connection to the Psiphon server is established when the green tick icon is displayed on the left of the window. 
+Psiphon automatically starts connecting when you run it. While it is connecting, a spinning icon is displayed. Connection to the Psiphon server is established when the green tick icon is displayed. 
 ![image](tool_psiphon4.png)
 
 When you close the program, Psiphon automatically disconnects. You can also click on the icon to toggle the connection.
 
-Remember that:  
-- Because Psiphon 3 is VPN-based, it is able to proxy all of your Internet traffic, not just websites  
-- Traffic between your PC and the VPN server is encrypted, HOWEVER the traffic between that server and a non-HTTPS website will not be encrypted. (The same applies to other Internet services, such as when connecting with Outlook or Thunderbird to a non-SSL email provider.)  
-- If you have not established a connection, you are not using the VPN. Just because you have Psiphon 3 sitting on your computer somewhere does not mean your requests go through the proxy.  
-- Web pages may load more slowly when using a VPN. This is normal and it is because the browser is not connecting directly to the website  
-- Some paid VPN services may be faster than free ones like Psiphon 3, but you should be careful before trusting a business with your information, as it could be shared with other organisations or sold to other companies
+### 4 Psiphon for iOS
+
+Download Psiphon from the [Apple App store] (https://itunes.apple.com/us/app/psiphon/id1276263909?ls=1&mt=8). 
+
+Open the app, and click on the grey *Disconnected* button. 
+
+![image](tool_psiphon7.png)
+
+The button will turn red when it is connecting, and green when it is connected. 
+
+![image](tool_psiphon8.png) ![image](tool_psiphon9.png)
+
+A "VPN" icon in the top left corner of your device indicates Psiphon is running, meaning other apps will access the Internet through Psiphon.
+
+To use the dedicated Psiphon browser for iOS requires a separate [download] (https://itunes.apple.com/us/app/psiphon-browser/id1193362444?mt=8), but it works on iOS 8 or later, while the main Psiphon app requires iOS 10.2 or later. If you use the browser, only online activity conducted in the browser will use Psiphon. Other apps will connect using your regular Internet connection.
