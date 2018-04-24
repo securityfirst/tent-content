@@ -7,7 +7,6 @@ Swipe right for this lesson's checklist
 
 *   [Signal for Android tool guide](umbrella://lesson/signal-for-android)
 *	[Signal for iOS tool guide](umbrella://lesson/signal-for-iOS)
-*   [ChatSecure tool guide](umbrella://lesson/chatsecure)
 *   [Pidgin tool guide](umbrella://lesson/pidgin)
 *   [Adium tool guide](umbrella://lesson/adium)
 
