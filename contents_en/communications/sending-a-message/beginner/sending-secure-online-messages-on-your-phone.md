@@ -11,12 +11,6 @@ Signal uses your existing phone number and address book. There are no separate l
 
 Learn more about Signal at the project's [website] (https://signal.org) or view the Signal tool guides for [Android] (umbrella://lesson/signal-for-android) and [iOS] (umbrella://lesson/signal-for-ios).
 
-## ChatSecure
-
-[ChatSecure](https://chatsecure.org/) as a secure text chat application for iOS that integrates with a number of platforms. ChatSecure offers easy and strong encryption for your chats that provides both authenticity (you can verify that you are chatting with the right person) and the independent security of each session so that even if the encryption of one chat session is compromised, other past and future sessions will remain secure.
-
-See how to set it up in the [ChatSecure tool guide](umbrella://lesson/chatsecure).
-
 ## Don't use Telegram
 
 Telegram, a secure messaging app, does use end-to-end encryption in some modes, but there have been serious concerns with the quality of their encryption and the amount of information it gathers on users, including their full contact lists. Users must also remember to start a new "Secret Chat" before encryption is activated. Given these concerns we cannot recommend Telegram as a secure method of communicating.
