@@ -13,6 +13,7 @@ Go to the Advanced lesson for advice on how to ensure you stay anonymous online.
 
 ### FURTHER READING
 
+* 	[Security First - Free Online Training - Staying Safe Online and Using Social Media](https://advocacyassembly.org/en/partners/securityfirst/) 
 *   [EFF - How to circumvent online censorship](https://ssd.eff.org/en/module/how-circumvent-online-censorship)
 *   [Floss manuals - Bypassing censorship](en.flossmanuals.net/bypassing-censorship/)
 *   [OpenNet - Outlining internet restrictions](https://opennet.net)
