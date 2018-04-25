@@ -16,4 +16,5 @@ Go to the Beginner lesson for advice on how to circumvent censorship.
 
 ### FURTHER READING
 
+* 	[Security First - Free Online Training - Staying Safe Online and Using Social Media](https://advocacyassembly.org/en/partners/securityfirst/) 
 *   [Security in a Box - Anonymity and circumvention](https://securityinabox.org/en/guide/anonymity-and-circumvention)
