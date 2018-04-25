@@ -13,7 +13,7 @@ Pidgin supports many features of these chat networks, such as file transfers, aw
 
 ## Adium
 
-A good alternative to Pidgin for Mac OS is [Adium](http://adium.im/). Learn how to use it in the [Adium tool guide] (umbrella://lesson/adium).
+A good alternative to Pidgin for Mac OS is [Adium](http://adium.im/). 
 
 ## Signal Desktop
 
