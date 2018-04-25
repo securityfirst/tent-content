@@ -70,7 +70,8 @@ If you're not sure whether you need a bridge, try it without first. To learn mor
 
 ![](orbot-and-008.png)
 
-Select individual apps you want to use with **Orbot** and click *OK*. 
+Select individual apps you want to use with **Orbot** and click *OK*.  
+
 > "Rather than promote some kind of auto-magical “enable Tor for my whole device”, we want to focus on ways to enable specific apps to go through Tor, in a way we can ensure is as safe as possible." —The Guardian Project, [October 27, 2017] (https://guardianproject.info/2017/10/27/no-more-root-features-in-orbot-use-orfox-vpn-instead/)
  
 Note that many apps, such as those that require you to log in, will undermine your anonymity even if Internet traffic is tunneled through Orbot. This step will help you if a firewall or a filter is blocking an individual app, but does not make you anonymous.    
@@ -135,8 +136,7 @@ You can read more about bridges on the [Tor project website](https://bridges.tor
 **Step 3:** To browse to websites, **tap** the area at the top of the screen and type in the address you want to visit. Press *Go* on the onscreen keypad.
 
 
-6. Clear your Orfox browser history
-==============================
+# 6. Clear your Orfox browser history
 
 **Step 1:** To manually clear your browsing history and cache, and hide the websites you have visited in Orfox, tap on the main menu icon with three dots in the top right corner, then *Settings*.
 
@@ -150,6 +150,4 @@ Note: Selecting *New private tab* from the main menu will also prevent Orfox fro
 
 # 7. Customise your broswer security
 
-Orfox includes a security slider feature that allows you to choose between Standard, Safer, and Safest security settings. Tap on the main menu icon with three dots in the top right corner, then *Orfox Settings*. Safer and Safest settings will cause some website features to break, but you will be less exposed to vulnerabilities that hackers can exploit to attack you.  
-
-
+Orfox includes a security slider feature that allows you to choose between Standard, Safer, and Safest security settings. Tap on the main menu icon with three dots in the top right corner, then *Orfox Settings*. Safer and Safest settings will cause some website features to break, but you will be less exposed to vulnerabilities that hackers can exploit to attack you.
