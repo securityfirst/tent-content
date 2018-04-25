@@ -17,4 +17,5 @@ Go to the Beginner lesson for advice on how to improve basic email security and 
 
 ### FURTHER READING
 
+* 	[Security First - Free Online Training - Secure Communications]
 *   [EFF - Public key cryptography and PGP](https://ssd.eff.org/en/module/introduction-public-key-cryptography-and-pgp)
