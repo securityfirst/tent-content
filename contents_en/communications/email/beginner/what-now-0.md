@@ -14,4 +14,5 @@ Go to the Advanced lesson for advice on how to send encrypted emails for sensiti
 
 ### FURTHER READING
 
+* 	[Security First - Free Online Training - Secure Communications](https://advocacyassembly.org/en/partners/securityfirst/) 
 *   [Security in a Box - Secure communication guide](https://securityinabox.org/en/guide/secure-communication)
