@@ -16,4 +16,5 @@ Go to the Advanced lesson for advice on how to manage your passwords.
 
 ### FURTHER READING
 
+* [Security First - Free Online Training - Secure Passwords and Encryption of Data](https://advocacyassembly.org/en/partners/securityfirst/)  
 *   [EFF - Defending Privacy at the U.S. Border guide](https://www.eff.org/wp/defending-privacy-us-border-guide-travelers-carrying-digital-devices)
