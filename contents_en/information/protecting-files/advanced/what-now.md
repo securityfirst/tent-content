@@ -11,5 +11,5 @@ Swipe right for this lesson's checklist
 
 ### FURTHER READING
 
+* [Security First - Free Online Training - Secure Passwords and Encryption of Data](https://advocacyassembly.org/en/partners/securityfirst/)  
 *   [EFF - Encryption](https://ssd.eff.org/en/module/what-encryption)
-
