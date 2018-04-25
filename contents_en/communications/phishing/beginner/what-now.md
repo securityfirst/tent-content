@@ -14,5 +14,6 @@ Swipe right for this lesson's checklist
 
 #### **FURTHER READING**
 
+* 	[Security First - Free Online Training - Phishing, Malware and Social Engineering](https://advocacyassembly.org/en/partners/securityfirst/)  
 *   [EFF - How to: Avoid Phishing Attacks] (https://ssd.eff.org/en/module/how-avoid-phishing-attacks) 
-*   [The Citizen Lab — SPYING ON A BUDGET: Inside a Phishing Operation with Targets in the Tibetan Community] (https://citizenlab.ca/2018/01/spying-on-a-budget-inside-a-phishing-operation-with-targets-in-the-tibetan-community/#part2) 
+*   [The Citizen Lab — SPYING ON A BUDGET: Inside a Phishing Operation with Targets in the Tibetan Community] (https://citizenlab.ca/2018/01/spying-on-a-budget-inside-a-phishing-operation-with-targets-in-the-tibetan-community/#part2)
