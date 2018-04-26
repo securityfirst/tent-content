@@ -18,6 +18,7 @@ Go to the Expert lesson for advice on how to root and encrypt your phone.
 
 ### FURTHER READING
 
+* 	[Security First - Free Online Training - Secure Communications](https://advocacyassembly.org/en/partners/securityfirst/) 
 *   [Security in a Box - Chapter 10, Use mobile phones as securely as possible](https://securityinabox.org/en/guide/mobile-phones)
 *   [Security in a Box - Chapter 11, Use smart phones as securely as possible](https://securityinabox.org/en/guide/smartphones)
 *   [EFF - The problem with mobile phones](https://ssd.eff.org/en/module/problem-mobile-phones)

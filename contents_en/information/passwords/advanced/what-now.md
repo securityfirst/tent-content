@@ -17,5 +17,6 @@ Go to the Expert lesson for advice on what to do if you think you might be force
 
 ### FURTHER READING
 
-*   [EFF - Creating strong passwords](https://ssd.eff.org/en/module/creating-strong-passwords)
-*   [Security in a Box - Create and maintain secure passwords](https://securityinabox.org/en/guide/passwords/)
+* [Security First - Free Online Training - Secure Passwords and Encryption of Data](https://advocacyassembly.org/en/partners/securityfirst/)  
+* [EFF - Creating strong passwords](https://ssd.eff.org/en/module/creating-strong-passwords)
+* [Security in a Box - Create and maintain secure passwords](https://securityinabox.org/en/guide/passwords/)
