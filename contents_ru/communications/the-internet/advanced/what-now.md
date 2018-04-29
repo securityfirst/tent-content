@@ -1,46 +1,30 @@
 [Title]: # (Что теперь?)
 [Order]: # (3)
 
-Swipe right for this lesso
-'s checklist
+Проведите вправо для получения списка тем этого урока
 
-Go to the Begi
-
-er lesso
- for advice o
- how to circumve
-t ce
-sorship.
-[Go to Begi
-
-er Lesso
-](umbrella://lesso
+Перейдите на Урок для начинающих за советом о том, как обойти цензуру.
+[К уроку для начинающих](umbrella://lesso
 /the-i
 ter
 et/0)
 
-### RELATED LESSONS/TOOLS
+### СВЯЗАННЫЕ УРОКИ/ИНСТРУМЕНТЫ
 
-*   [Tor for Mac tool guide](umbrella://lesso
+* [Руководство по инструменту Tor для Mac](umbrella://lesso
 /tor-for-mac-os-x)
-*   [Tor for Wi
-dows tool guide](umbrella://lesso
+* [Руководство по инструменту Tor для Wi
+dows](umbrella://lesso
 /tor-for-wi
 dows)
-*   [Orbot tool guide](umbrella://lesso
+* [Руководство по инструменту Orbot](umbrella://lesso
 /orbot-&-orweb)
-*   [Orweb tool guide](umbrella://lesso
+* [Руководство по инструменту Orweb](umbrella://lesso
 /orbot-&-orweb)
 
-### FURTHER READING
+### ЧИТАТЬ ДАЛЬШЕ
 
-*   [Security i
- a Box - A
-o
-ymity a
-d circumve
-tio
-](https://securityi
+* [Безопасность в ящике - анонимность и обходы](https://securityi
 abox.org/e
 /guide/a
 o
