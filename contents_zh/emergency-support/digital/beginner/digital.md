@@ -40,9 +40,9 @@
 
 **描述：** 主要有三大關注領域：了解與形塑問題、數位安全與隱私、資料政治學。為此其積極提高民眾意識，創立實用的技巧並提供批判的反省與新構想，透過各式的訓練、工作坊或是大型會議的臨床實務討論，TTC每年提供2000位以上倡議行動者直接的支援
 
-**網址:[www.tacticaltech.org](www.tacticaltech.org)
+**網址:** [www.tacticaltech.org](www.tacticaltech.org)
 
-**電子郵件：**  ttc@tacticaltech.org
+**電子郵件：** ttc@tacticaltech.org
 
 柏林, 電話： (+49) (0) 30 41 71 53 33
 
