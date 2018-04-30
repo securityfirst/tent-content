@@ -5,7 +5,7 @@
 
 WhatsApp is the most popular mobile communication tool in the world, offering free messaging to individuals and groups on a range of devices and operating systems. 
 
-Between 2014 and 2016, WhatsApp integrated secure code from the respected privacy and technology company Open Whisper Systems. WhatsApp messages are now protected with end-to-end encryption as long as all parties are using the most up to date version of the app, and WhatsApp can no longer view or be forced to reveal the content of messages. (Read WhatsApp's [security policy] (https://www.whatsapp.com/security/).)  
+Between 2014 and 2016, WhatsApp integrated secure code from the respected privacy and technology company Open Whisper Systems. WhatsApp messages are now protected with end-to-end encryption as long as all parties are using the most up to date version of the app, and WhatsApp can no longer view or be forced to reveal the content of messages. (Read WhatsApp's [security policy](https://www.whatsapp.com/security/).)  
 
 Note:
 
@@ -13,7 +13,7 @@ Note:
 *   While WhatsApp or others cannot view the content of your messages, they can still access information that reveals that you are communicating with someone (metadata). In some cases, this may still have negative security consequences.
 * 	It is possible for someone to try to intercept your communications by changing a contact's security code. To ensure you are warned about someone trying to do this, go to Settings -> Account -> Security -> Turn on "Show security notifications"
 
-*We still recommend Signal for secure messaging and calls.* (Learn how to use Signal for [Android] (umbrella://lesson/signal-for-android) and [iOS] (umbrella://lesson/singal-for-ios).) 
+*We still recommend Signal for secure messaging and calls.* (Learn how to use Signal for [Android](umbrella://lesson/signal-for-android) and [iOS](umbrella://lesson/singal-for-ios).) 
 
 **Two-Step Verification**
 
