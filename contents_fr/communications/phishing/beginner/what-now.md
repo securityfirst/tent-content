@@ -1,42 +1,18 @@
-[Title]: # (How to spot Phishi
-g)
+[Title]: # (How to spot Phishing)
 [Order]: # (9)
 
 **What Now?**
 =================
 
-Swipe right for this lesso
-'s checklist
+Swipe right for this lesson's checklist
 
 #### **RELATED LESSONS**
 
-*   [Malware] (umbrella://lesso
-/malware)
-*   [Email] (umbrella://lesso
-/email)
-*   [Social Media] (umbrella://lesso
-/social media)
+*   [Malware] (umbrella://lesson/malware)
+*   [Email] (umbrella://lesson/email)
+*   [Social Media] (umbrella://lesson/social media)
 
 #### **FURTHER READING**
 
-*   [EFF - How to: Avoid Phishi
-g Attacks] (https://ssd.eff.org/e
-/module/how-avoid-phishi
-g-attacks) 
-*   [The Citize
- Lab — SPYING ON A BUDGET: I
-side a Phishi
-g Operatio
- with Targets i
- the Tibeta
- Commu
-ity] (https://citize
-lab.ca/2018/01/spyi
-g-o
--a-budget-i
-side-a-phishi
-g-operatio
--with-targets-i
--the-tibeta
--commu
-ity/#part2)
+*   [EFF - How to: Avoid Phishing Attacks] (https://ssd.eff.org/en/module/how-avoid-phishing-attacks) 
+*   [The Citizen Lab — SPYING ON A BUDGET: Inside a Phishing Operation with Targets in the Tibetan Community] (https://citizenlab.ca/2018/01/spying-on-a-budget-inside-a-phishing-operation-with-targets-in-the-tibetan-community/#part2)

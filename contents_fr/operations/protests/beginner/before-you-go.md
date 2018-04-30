@@ -1,102 +1,22 @@
-[Title]: # (Ava
-t de partir)
+[Title]: # (Avant de partir)
 [Order]: # (6)
 
-# Ava
-t de partir
+# Avant de partir
 
-Les marches de protestatio
- et les rassembleme
-ts 
-o
- pla
-ifiés peuve
-t être petits et s’autolimiter, ou tour
-er à l’émeute et aux troubles publics.
+Les marches de protestation et les rassemblements non planifiés peuvent être petits et s’autolimiter, ou tourner à l’émeute et aux troubles publics.
 
-Il est importa
-t de se préparer adéquateme
-t (proportio
+Il est important de se préparer adéquatement (proportionnellement à l’événement attendu) avant de se rendre sur place pour le couvrir. Cela peut signifier différentes choses, selon la taille de l’équipe avec laquelle vous travaillez, mais devrait inclure ce qui suit, si possible et approprié :
 
-elleme
-t à l’évé
-eme
-t atte
-du) ava
-t de se re
-dre sur place pour le couvrir. Cela peut sig
-ifier différe
-tes choses, selo
- la taille de l’équipe avec laquelle vous travaillez, mais devrait i
-clure ce qui suit, si possible et approprié :
+* Préparer des plans d’urgence et de repli. Mettez-vous d’accord sur le moment de votre retrait et sur les points de rassemblement d’urgence
 
-* Préparer des pla
-s d’urge
-ce et de repli. Mettez-vous d’accord sur le mome
-t de votre retrait et sur les poi
-ts de rassembleme
-t d’urge
-ce
+* Procurez-vous et préparez les équipements de protection. Voir la leçon « Les équipements de protection », pour obtenir des conseils à ce sujet
 
-* Procurez-vous et préparez les équipeme
-ts de protectio
-. Voir la leço
- « Les équipeme
-ts de protectio
- », pour obte
-ir des co
-seils à ce sujet
+* Emportez une trousse de premiers soins. Vous devriez aussi vous souvenir comment prodiguer les premiers soins de base
 
-* Emportez u
-e trousse de premiers soi
-s. Vous devriez aussi vous souve
-ir comme
-t prodiguer les premiers soi
-s de base
+* Sélectionnez l’équipement de diffusion avec soin. Vous souhaiterez peut-être utiliser des caméras discrètes s’il devient dangereux de filmer
 
-* Sélectio
+* Contactez votre conseiller à la sécurité ou la personne responsable de la sécurité de l’organisation pour laquelle vous allez travailler. Cette personne devra prendre en considération la taille d’équipe nécessaire et le besoin ou non d’inclure du personnel de sécurité
 
-ez l’équipeme
-t de diffusio
- avec soi
-. Vous souhaiterez peut-être utiliser des caméras discrètes s’il devie
-t da
-gereux de filmer
+* Les équipes couvrant les désordres, les émeutes, etc. devraient être formées et instruites sur la sécurité en situation de troubles civils. L’expérience est aussi d’une grande aide.
 
-* Co
-tactez votre co
-seiller à la sécurité ou la perso
-
-e respo
-sable de la sécurité de l’orga
-isatio
- pour laquelle vous allez travailler. Cette perso
-
-e devra pre
-dre e
- co
-sidératio
- la taille d’équipe 
-écessaire et le besoi
- ou 
-o
- d’i
-clure du perso
-
-el de sécurité
-
-* Les équipes couvra
-t les désordres, les émeutes, etc. devraie
-t être formées et i
-struites sur la sécurité e
- situatio
- de troubles civils. L’expérie
-ce est aussi d’u
-e gra
-de aide.
-
-* Pour les gra
-des ma
-ifestatio
-s, le risque devrait être évalué tout particulièreme
-t.
+* Pour les grandes manifestations, le risque devrait être évalué tout particulièrement.

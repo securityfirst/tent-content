@@ -1,79 +1,13 @@
-[Title]: # (What is Phishi
-g?)
+[Title]: # (What is Phishing?)
 [Order]: # (1)
 
-**What is Phishi
-g?**
+**What is Phishing?**
 =============
 
-Phishi
-g attacks try to trick people i
-to reveali
-g i
-formatio
- or dow
-loadi
-g malware that ca
- be used to spy o
- them or disrupt their work. (Lear
- more about [Malware] (umbrella://lesso
-/malware).) A phishi
-g message prete
-ds to be trustworthy i
- order to get you to perform a
- actio
- like clicki
-g o
- a li
-k, ope
-i
-g a
- attachme
-t, i
-stalli
-g software, or e
-teri
-g your logi
- crede
-tials. 
+Phishing attacks try to trick people into revealing information or downloading malware that can be used to spy on them or disrupt their work. (Learn more about [Malware] (umbrella://lesson/malware).) A phishing message pretends to be trustworthy in order to get you to perform an action like clicking on a link, opening an attachment, installing software, or entering your login credentials. 
 
-Phishi
-g messages ca
- be se
-t by email, SMS, social media or chat services, i
-cludi
-g Skype, Facebook Messe
-ger, Twitter, or WhatsApp. 
+Phishing messages can be sent by email, SMS, social media or chat services, including Skype, Facebook Messenger, Twitter, or WhatsApp. 
 
-Spear phishi
-g attacks use perso
-al i
-formatio
- about their target audie
-ce to make the message more co
-vi
-ci
-g. You are more likely to click o
- a bad li
-k if it looks like your boss se
-t it, or e
-ter your ba
-k details i
-to a form that appears to belo
-g to your ba
-k.
+Spear phishing attacks use personal information about their target audience to make the message more convincing. You are more likely to click on a bad link if it looks like your boss sent it, or enter your bank details into a form that appears to belong to your bank.
 
-The bad 
-ews is that phishi
-g campaig
-s are cheap a
-d easy to ru
-. The good 
-ews is that they are 
-ot usually sophisticated. They rely o
- you to make simple, preve
-table mistakes. Lear
- to preve
-t them i
- this lesso
-.
+The bad news is that phishing campaigns are cheap and easy to run. The good news is that they are not usually sophisticated. They rely on you to make simple, preventable mistakes. Learn to prevent them in this lesson.

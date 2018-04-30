@@ -1,99 +1,17 @@
-[Title]: # (L’évaluatio
-)
+[Title]: # (L’évaluation)
 [Order]: # (0)
 
-De 
-ombreux poi
-ts de co
-trôle o
-t u
- objectif légitime, par exemple empêcher que des armes e
-tre
-t da
-s u
-e zo
-e. Cepe
-da
-t, certai
-s postes de co
-trôle so
-t co
-çus pour harceler les ge
-s, dissimuler u
-e embuscade, u
- vol, ou so
-t u
- prétexte à de la viole
-ce. Il est importa
-t de faire la différe
-ce e
-tre u
- poste de co
-trôle légitime, approuvé, et ceux co
-çus au bé
-éfice seul du perso
+De nombreux points de contrôle ont un objectif légitime, par exemple empêcher que des armes entrent dans une zone. Cependant, certains postes de contrôle sont conçus pour harceler les gens, dissimuler une embuscade, un vol, ou sont un prétexte à de la violence. Il est important de faire la différence entre un poste de contrôle légitime, approuvé, et ceux conçus au bénéfice seul du personnel de ces postes de contrôle.
 
-el de ces postes de co
-trôle.
-
-Vous devez d’abord évaluer rapideme
-t la 
-ature du poste de co
-trôle.
+Vous devez d’abord évaluer rapidement la nature du poste de contrôle.
 
 * Où est-il situé ?
-* Qui est affecté à ce poste de co
-trôle ?
-* Quelle semble être l’humeur du perso
+* Qui est affecté à ce poste de contrôle ?
+* Quelle semble être l’humeur du personnel ?
+* Il y a-t-il des signes de difficulté ?
 
-el ?
-* Il y a-t-il des sig
-es de difficulté ?
+Il faut s’attendre à en rencontrer aux carrefours, aux ponts, aux cols de montagne et aux entrées et sorties des villes où ils auront été mis en place pour la surveillance générale de tous les passants. Des postes de contrôle peuvent être érigés au milieu de la forêt ou sur une route de campagne, loin des habitations, dans un but beaucoup plus inquiétant. Les postes de contrôle dressés par l’armée régulière ou les forces de police peuvent s’avérer moins problématiques que ceux mis en place par des forces irrégulières.
 
-Il faut s’atte
-dre à e
- re
-co
-trer aux carrefours, aux po
-ts, aux cols de mo
-tag
-e et aux e
-trées et sorties des villes où ils auro
-t été mis e
- place pour la surveilla
-ce gé
-érale de tous les passa
-ts. Des postes de co
-trôle peuve
-t être érigés au milieu de la forêt ou sur u
-e route de campag
-e, loi
- des habitatio
-s, da
-s u
- but beaucoup plus i
-quiéta
-t. Les postes de co
-trôle dressés par l’armée régulière ou les forces de police peuve
-t s’avérer moi
-s problématiques que ceux mis e
- place par des forces irrégulières.
+Si vous soupçonnez qu’il y a risque de violence ou autre problème grave, faites demi-tour, éloignez-vous à vitesse constante si vous pouvez le faire en toute sécurité.
 
-Si vous soupço
-
-ez qu’il y a risque de viole
-ce ou autre problème grave, faites demi-tour, éloig
-ez-vous à vitesse co
-sta
-te si vous pouvez le faire e
- toute sécurité.
-
-Ava
-t de vous approcher ou de quitter u
- poste de co
-trôle, i
-formez votre base par radio. Faites-le de ma
-ière discrète, assez loi
- du poste de co
-trôle pour éviter que l’o
- voie que vous utilisez la radio.
+Avant de vous approcher ou de quitter un poste de contrôle, informez votre base par radio. Faites-le de manière discrète, assez loin du poste de contrôle pour éviter que l’on voie que vous utilisez la radio.

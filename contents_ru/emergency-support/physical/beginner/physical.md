@@ -1,1360 +1,326 @@
 [Title]: # (Физический)
 [Order]: # (0)
 
-### If you are havi
-g a physical security emerge
-cy, the followi
-g are useful resources.
+### If you are having a physical security emergency, the following are useful resources.
 
 # IMMEDIATE SUPPORT
 
-Normally available for support withi
- the first 24 hours  
+Normally available for support within the first 24 hours  
 
-**Where:** Global Embassy Listi
-gs
- [https://embassy-fi
-der.com](https://embassy-fi
-der.com)
+**Where:** Global Embassy Listings
+ [https://embassy-finder.com](https://embassy-finder.com)
 
-## Fro
-t Li
-e
+## Front Line
 
 **Where:** Global  
 
-**Type of Threat:** Threats of Viole
-ce, Physical Assault, Impriso
-me
-t, Lawsuit, I
-fri
-geme
-t o
- Rights  
+**Type of Threat:** Threats of Violence, Physical Assault, Imprisonment, Lawsuit, Infringement on Rights  
 
-**La
-guage:** Arabic, E
-glish, Fre
-ch, Russia
-, Spa
-ish  
+**Language:** Arabic, English, French, Russian, Spanish  
 
-**Accept Urge
-t Appeals?** Yes!  
+**Accept Urgent Appeals?** Yes!  
 
-**Descriptio
-:** Fro
-t Li
-e protects Huma
- Rights Defe
-ders through a 24hour emerge
-cy hotli
-e (pho
-e a
-d e
-crypted email), i
-ter
-atio
-al advocacy, security trai
-i
-g a
-d trai
-i
-g ma
-uals, gra
-ts a
-d fellowships (i
-cludi
-g emerge
-cy fu
-di
-g), a
-d evacuatio
- support. Fro
-t Li
-e's Dubli
- Platform li
-ks grassroots huma
- rights defe
-ders with UN mecha
-isms, i
-ter
-atio
-al huma
- rights 
-etworks, a
-d each other.  
+**Description:** Front Line protects Human Rights Defenders through a 24hour emergency hotline (phone and encrypted email), international advocacy, security training and training manuals, grants and fellowships (including emergency funding), and evacuation support. Front Line's Dublin Platform links grassroots human rights defenders with UN mechanisms, international human rights networks, and each other.  
 
-**Web site:** fro
-tli
-edefe
-ders.org  
-Dubli
-, Tel: (+353) 1 212 3750  
-**Email:** i
-fo@fro
-tli
-edefe
-ders.org  
+**Web site:** frontlinedefenders.org  
+Dublin, Tel: (+353) 1 212 3750  
+**Email:** info@frontlinedefenders.org  
 Brussels, Tel: (+32) 2 230 93 83  
-**Secure O
-li
-e Commu
-icatio
-:** web https://secure.hyperli
-k.ie/fro
-tli
-e/  
-comme
-t.e
-.html  
+**Secure Online Communication:** web https://secure.hyperlink.ie/frontline/  
+comment.en.html  
 
-24 hour emerge
-cy support, Tel: (+353) 1 21 00 489
+24 hour emergency support, Tel: (+353) 1 21 00 489
 
 ## Rory Peck Trust
 
 **Where:** Global  
 
-**Type of Threat:** Freela
-ce jour
-alists who suffer: Physical Assault, Impriso
-me
-t, I
-fri
-geme
-t o
- Rights, Discrimi
-atio
-, Attack o
- Freedom of Expressio
-  
+**Type of Threat:** Freelance journalists who suffer: Physical Assault, Imprisonment, Infringement on Rights, Discrimination, Attack on Freedom of Expression  
 
-**La
-guage:** E
-glish  
+**Language:** English  
 
-**Accept Urge
-t Appeals?** Yes!  
+**Accept Urgent Appeals?** Yes!  
 
-**Descriptio
-:** The pri
-cipal objectives of the Trust are to provide practical assista
-ce a
-d support to freela
-ce 
-ewsgatherers a
-d their families worldwide, to raise their profile, promote their welfare a
-d safety, a
-d to support their right to report freely a
-d without fear.  
+**Description:** The principal objectives of the Trust are to provide practical assistance and support to freelance newsgatherers and their families worldwide, to raise their profile, promote their welfare and safety, and to support their right to report freely and without fear.  
 
 **Web site:** [www.rorypecktrust.org](www.rorypecktrust.org)  
-Lo
-do
-, Tel: (+44) 203 219 7860
+London, Tel: (+44) 203 219 7860
 
-## U.S. Ce
-ters for Disease Co
-trol a
-d Preve
-tio
-
+## U.S. Centers for Disease Control and Prevention
 
 **Where:** Global  
 
-**Type of Threat:** Disease, outbreak, medical health protectio
-  
-**La
-guage:** E
-glish  
-**Accept Urge
-t Appeals?** No  
+**Type of Threat:** Disease, outbreak, medical health protection  
+**Language:** English  
+**Accept Urgent Appeals?** No  
 
-**Descriptio
-:** The U.S. gover
-me
-t age
-cy is a public source for i
-formatio
- o
- commo
- diseases, disorders, a
-d treatme
-ts. The CDC website provides i
-formatio
- about sick
-ess a
-d disease, healthy livi
-g, safety a
-d emerge
-cy care, a
-d disaster prepared
-ess a
-d respo
-se.  
+**Description:** The U.S. government agency is a public source for information on common diseases, disorders, and treatments. The CDC website provides information about sickness and disease, healthy living, safety and emergency care, and disaster preparedness and response.  
 
 **Web site:** www.cdc.gov  
-Atla
-ta, Tel: +1-800-232-4636 (24-hour health i
-formatio
- hotli
-e, Mo
-day through Friday)
+Atlanta, Tel: +1-800-232-4636 (24-hour health information hotline, Monday through Friday)
 
 # DELAYED SUPPORT
 
 Normally available for support after first 24 hours
 
-## Am
-esty I
-ter
-atio
-al
+## Amnesty International
 
 **Where:** Global  
 
-**Type of Threat:** Physical Assault, Impriso
-me
-t, I
-fri
-geme
-t o
- Rights, Discrimi
-atio
-, Attack o
- Freedom of Expressio
-  
+**Type of Threat:** Physical Assault, Imprisonment, Infringement on Rights, Discrimination, Attack on Freedom of Expression  
 
-**La
-guage:** Arabic, E
-glish, Fre
-ch, Spa
-ish  
+**Language:** Arabic, English, French, Spanish  
 
-**Accept Urge
-t Appeals?** Yes!  
+**Accept Urgent Appeals?** Yes!  
 
-**Descriptio
-:** Am
-esty I
-ter
-atio
-al leads a global moveme
-t of research, solidarity, a
-d actio
- o
- behalf of victims of huma
- rights violatio
-s. Am
-esty I
-ter
-atio
-al campaig
-s to e
-d discrimi
-atio
-, abuse, a
-d i
-fri
-geme
-ts o
- huma
- rights, physical a
-d me
-tal i
-tegrity, a
-d the freedom of thought a
-d expressio
-.  
+**Description:** Amnesty International leads a global movement of research, solidarity, and action on behalf of victims of human rights violations. Amnesty International campaigns to end discrimination, abuse, and infringements on human rights, physical and mental integrity, and the freedom of thought and expression.  
 
-**Web site:** www.am
-esty.org  
+**Web site:** www.amnesty.org  
 New York, Tel: (+1) 212 807-8400  
-Lo
-do
-, Tel: (+44) 20-74135500
+London, Tel: (+44) 20-74135500
 
-## Asia
- Huma
- Rights Commissio
-
+## Asian Human Rights Commission
 
 **Where:** East Asia; South & Southeast Asia  
 
-**Type of Threat:** Physical Assault, Impriso
-me
-t, I
-fri
-geme
-t o
- Rights, Discrimi
-atio
-, Attack o
- Freedom of Expressio
-  
-**La
-guage:** Bahasa, Burmese, Chi
-ese, E
-glish, Fre
-ch, Germa
-, Italia
-, Japa
-ese, Korea
-, Tagalog  
+**Type of Threat:** Physical Assault, Imprisonment, Infringement on Rights, Discrimination, Attack on Freedom of Expression  
+**Language:** Bahasa, Burmese, Chinese, English, French, German, Italian, Japanese, Korean, Tagalog  
 
-**Accept Urge
-t Appeals?** Yes!  
+**Accept Urgent Appeals?** Yes!  
 
-**Descriptio
-:** The Asia
- Huma
- Rights Commissio
- mo
-itors, i
-vestigates, advocates, a
-d takes solidarity actio
- arou
-d huma
- rights violatio
-s across Asia. AHRC's Urge
-t Appeal Programme mobilizes thousa
-ds of i
-dividu- als to speak out arou
-d particular cases. (Directed by Ashoka Fellow Basil Fer
-a
-do.)  
+**Description:** The Asian Human Rights Commission monitors, investigates, advocates, and takes solidarity action around human rights violations across Asia. AHRC's Urgent Appeal Programme mobilizes thousands of individu- als to speak out around particular cases. (Directed by Ashoka Fellow Basil Fernando.)  
 
-**Web site:** www. ahrchk.
-et  
-Ho
-g Ko
-g, Tel: 852-2698 6339  
+**Web site:** www. ahrchk.net  
+Hong Kong, Tel: 852-2698 6339  
 **Email:** ahrchk@ahrchk.org
 
-## Committee to Protect Jour
-alists
+## Committee to Protect Journalists
 
 **Where:** Global  
 
-**Type of Threat:** Threats of Viole
-ce, Physical Assault, Impriso
-me
-t, Lawsuit, I
-fri
-geme
-t o
- Rights, Discrimi
-atio
-, Attack o
- Freedom of Expressio
-  
+**Type of Threat:** Threats of Violence, Physical Assault, Imprisonment, Lawsuit, Infringement on Rights, Discrimination, Attack on Freedom of Expression  
 
-**La
-guage:** E
-glish  
+**Language:** English  
 
-**Accept Urge
-t Appeals?** Yes  
+**Accept Urgent Appeals?** Yes  
 
-**Descriptio
-:** The Committee to Protect Jour
-alists promotes press freedom worldwide by defe
-di
-g the rights of jour
-alists to report the 
-ews without fear of reprisal. CPJ reveals abuses agai
-st the press, acts o
- behalf of impriso
-ed or threate
-ed jour
-alists, a
-d war
-s jour
-alists of attacks o
- press freedom. CPJ's Jour
-alist Assista
-ce Program offers emerge
-cy sup- port arou
-d medical atte
-tio
-, relocatio
-, legal aid, a
-d evacuatio
-.  
+**Description:** The Committee to Protect Journalists promotes press freedom worldwide by defending the rights of journalists to report the news without fear of reprisal. CPJ reveals abuses against the press, acts on behalf of imprisoned or threatened journalists, and warns journalists of attacks on press freedom. CPJ's Journalist Assistance Program offers emergency sup- port around medical attention, relocation, legal aid, and evacuation.  
 
 **Web site:** [www.cpj.org](www.cpj.org)  
 New York, Tel: (+1) 212 465-1004  
-**Email:** Jour
-Asst@cpj.org
+**Email:** JournAsst@cpj.org
 
-## Co
-ectas
+## Conectas
 
-**Where:** Brazil; Lati
- America, Africa, Asia  
+**Where:** Brazil; Latin America, Africa, Asia  
 
-**Type of Threat:** Threats of Viole
-ce, Impriso
-me
-t, Lawsuit, I
-fri
-geme
-t o
- Rights, Discrimi
-atio
-  
+**Type of Threat:** Threats of Violence, Imprisonment, Lawsuit, Infringement on Rights, Discrimination  
 
-**Eligible:** Huma
- Rights advocates (activists a
-d academics)  
+**Eligible:** Human Rights advocates (activists and academics)  
 
-**La
-guage:** E
-glish, Portuguese, Spa
-ish  
+**Language:** English, Portuguese, Spanish  
 
-**Accept Urge
-t Appeals?** No  
+**Accept Urgent Appeals?** No  
 
-**Descriptio
-:** Co
-ectas' Justice Program supports strategic litigatio
- a
-d pro bo
-o legal services to support vul
-erable groups a
-d victims of huma
- rights violatio
-s. Co
-ectas' Global South Program li
-ks huma
- rights aca- demics a
-d activists i
- Africa, Asia, a
-d Lati
- America to share k
-owledge, co
+**Description:** Conectas' Justice Program supports strategic litigation and pro bono legal services to support vulnerable groups and victims of human rights violations. Conectas' Global South Program links human rights aca- demics and activists in Africa, Asia, and Latin America to share knowledge, connect them to the UN, and strengthen the new generation of human rights defenders. (Directed by Ashoka Senior Member Oscar Vilhena.)  
 
-ect them to the UN, a
-d stre
-gthe
- the 
-ew ge
-eratio
- of huma
- rights defe
-ders. (Directed by Ashoka Se
-ior Member Oscar Vilhe
-a.)  
-
-**Web site:** co
-ectas.org   
+**Web site:** conectas.org   
 Sao Paulo, Tel: (+5511) 3884-7440  
-**Email:** co
-ectas@co
-ectas.org
+**Email:** conectas@conectas.org
 
 ## CIVICUS & Civil Society Watch
 
 **Where:** Global  
-**Type of Threat:** Physical Assault, Impriso
-me
-t, Lawsuit, I
-fri
-geme
-t o
-  
-Rights, Discrimi
-atio
-, Attack o
- Freedom of Expressio
-  
+**Type of Threat:** Physical Assault, Imprisonment, Lawsuit, Infringement on  
+Rights, Discrimination, Attack on Freedom of Expression  
 
-**La
-guage:** E
-glish  
-**Accept Urge
-t Appeals?** Yes  
+**Language:** English  
+**Accept Urgent Appeals?** Yes  
 
-**Descriptio
-:** CIVICUS stre
-gthe
-s civil society a
-d civic actio
- arou
-d the world through a
- i
-ter
-atio
-al allia
-ce of more tha
- 1000 members across 100 cou
-tries. Civil Society Watch (CSW) mobilizes rapid respo
-ses i
- situatio
-s i
- which rights a
-d liberties of citize
-s are threate
-ed or limited. CSW makes stateme
-ts of protests, letter-writi
-g campaig
-s, press campaig
-s, public marches, a
-d missio
-s to verify acts of violatio
-s of rights.  
+**Description:** CIVICUS strengthens civil society and civic action around the world through an international alliance of more than 1000 members across 100 countries. Civil Society Watch (CSW) mobilizes rapid responses in situations in which rights and liberties of citizens are threatened or limited. CSW makes statements of protests, letter-writing campaigns, press campaigns, public marches, and missions to verify acts of violations of rights.  
 
 **Web sites:** www.civicus.org; www.civilsocietywatch.org  
-**Emails:** i
-fo@civicus.org; cswatch@civicus.org  
+**Emails:** info@civicus.org; cswatch@civicus.org  
 South Africa, Tel: (+27 11) 833-5959
 
-## Europea
- I
-terage
-cy Security Forum
+## European Interagency Security Forum
 
 **Where:** Global  
-**Type of Threat:** Huma
-itaria
- aid workers faci
-g security threats i
- the field  
-**Accept Urge
-t Appeals?** No  
+**Type of Threat:** Humanitarian aid workers facing security threats in the field  
+**Accept Urgent Appeals?** No  
 
-**Descriptio
-:** EISF's aim is to improve holistic security risk ma
-ageme
-t (SRM) approaches allowi
-g sustai
-able access of aid workers to populatio
-s i
- 
-eed. The EISF Secretariat works i
- collaboratio
- with its' Members to produce origi
-al research, arra
-ge bia
+**Description:** EISF's aim is to improve holistic security risk management (SRM) approaches allowing sustainable access of aid workers to populations in need. The EISF Secretariat works in collaboration with its' Members to produce original research, arrange biannual forum meetings and regular workshops and facilitate information sharing between members and the wider NGO community.  
 
-ual forum meeti
-gs a
-d regular workshops a
-d facilitate i
-formatio
- shari
-g betwee
- members a
-d the wider NGO commu
-ity.  
-
-**Web site:** [www.eisf.eu](www.eisf.eu) Lo
-do
-,  
+**Web site:** [www.eisf.eu](www.eisf.eu) London,  
 Tel: (+44) 203 195 1360  
-**Email:** eisf-coordi
-ator@eisf.eu
+**Email:** eisf-coordinator@eisf.eu
 
-## Federatio
- for Huma
- Rights
+## Federation for Human Rights
 
 **Where:** Global  
-**Type of Threat:** Physical Assault, Impriso
-me
-t, I
-fri
-geme
-t o
- Rights, Discrimi
-atio
-, Attack o
- Freedom of Expressio
-  
+**Type of Threat:** Physical Assault, Imprisonment, Infringement on Rights, Discrimination, Attack on Freedom of Expression  
 
-**La
-guage:** Arabic, E
-glish, Fre
-ch, Spa
-ish  
-**Accept Urge
-t Appeals?** No  
+**Language:** Arabic, English, French, Spanish  
+**Accept Urgent Appeals?** No  
 
-**Descriptio
-:** FIDH works with over 141 
-o
--gover
-me
-tal orga
-izatio
-s i
- over 100 cou
-tries towards improveme
-ts i
- victim protectio
-, preve
-tio
- of huma
- rights violatio
-s, a
-d judicial pu
-ishme
-t of perpetrators. Over the past 25 years they have orga
-ized over 1000 missio
-s i
- 100 cou
-tries. FIDH works closely with the World Orga
-isatio
- Agai
-st Torture (OMCT) through its Observatory for the Protectio
- of Huma
- Rights Defe
-ders.  
+**Description:** FIDH works with over 141 non-governmental organizations in over 100 countries towards improvements in victim protection, prevention of human rights violations, and judicial punishment of perpetrators. Over the past 25 years they have organized over 1000 missions in 100 countries. FIDH works closely with the World Organisation Against Torture (OMCT) through its Observatory for the Protection of Human Rights Defenders.  
 
 **Web site:** [www.fidh.org](www.fidh.org)   
 Paris, Tel: (+33) 1 43 55 25 18
 
-## Fu
-d for Global Huma
- Rights
+## Fund for Global Human Rights
 
-**Where:** I
-dia, Pakista
-, Liberia, Sierra Leo
-e, Gui
-ea, Democratic Republic of Co
-go, Buru
-di, Uga
-da, Mexico, Guatemala, Algeria, Morocco, Tu
-isia  
-**Type of Threat:** Threats of Viole
-ce, Physical Assault, Impriso
-me
-t, I
-fri
-geme
-t o
- Rights, Discrimi
-atio
-, Attack o
- Freedom of Expressio
-   
-**La
-guage:** Arabic, E
-glish, Fre
-ch, Spa
-ish  
+**Where:** India, Pakistan, Liberia, Sierra Leone, Guinea, Democratic Republic of Congo, Burundi, Uganda, Mexico, Guatemala, Algeria, Morocco, Tunisia  
+**Type of Threat:** Threats of Violence, Physical Assault, Imprisonment, Infringement on Rights, Discrimination, Attack on Freedom of Expression   
+**Language:** Arabic, English, French, Spanish  
 
-**Accept Urge
-t Appeals?** No  
+**Accept Urgent Appeals?** No  
 
-**Descriptio
-:** The Fu
-d for Global Huma
- Rights cha
+**Description:** The Fund for Global Human Rights channels financial resources to on-the-ground human rights organizations, strengthening human rights movements and communities around the world. The Fund for Global Human Rights pools funding from international donors, funds local and regional human rights groups, and creates networks to link often isolated activists.  
 
-els fi
-a
-cial resources to o
--the-grou
-d huma
- rights orga
-izatio
-s, stre
-gthe
-i
-g huma
- rights moveme
-ts a
-d commu
-ities arou
-d the world. The Fu
-d for Global Huma
- Rights pools fu
-di
-g from i
-ter
-atio
-al do
-ors, fu
-ds local a
-d regio
-al huma
- rights groups, a
-d creates 
-etworks to li
-k ofte
- isolated activists.  
+**Web site:** [www.globalhumanrights.org](www.globalhumanrights.org)  
+Washington, DC, Tel: (+1) 202 347-7488  
+**Email:** info@globalhumanrights.org
 
-**Web site:** [www.globalhuma
-rights.org](www.globalhuma
-rights.org)  
-Washi
-gto
-, DC, Tel: (+1) 202 347-7488  
-**Email:** i
-fo@globalhuma
-rights.org
-
-## Huma
- Rights First
+## Human Rights First
 
 **Where:** Global  
-**Type of Threat:** Threats of Viole
-ce, Physical Assault, Impriso
-me
-t, I
-fri
-geme
-t o
- Rights, Discrimi
-atio
-, Attack o
- Freedom of Expressio
-  
-**La
-guage:** E
-glish  
+**Type of Threat:** Threats of Violence, Physical Assault, Imprisonment, Infringement on Rights, Discrimination, Attack on Freedom of Expression  
+**Language:** English  
 
-**Accept Urge
-t Appeals?** Yes  
+**Accept Urgent Appeals?** Yes  
 
-**Descriptio
-:** Huma
- Rights First protects people at risk, i
-cludi
-g victims of huma
- rights violatio
-s a
-d discrimi
-atio
-. Their Huma
- Rights Defe
-ders program supports huma
- rights defe
-ders targeted for threats a
-d attack through advocacy a
-d mobilizi
-g their volu
-teer 
-etwork.  
+**Description:** Human Rights First protects people at risk, including victims of human rights violations and discrimination. Their Human Rights Defenders program supports human rights defenders targeted for threats and attack through advocacy and mobilizing their volunteer network.  
 
-**Web site:**[www.huma
-rightsfirst.org](www.huma
-rightsfirst.org)  
+**Web site:**[www.humanrightsfirst.org](www.humanrightsfirst.org)  
 New York, Tel: (+1) 212 845-5200
 
-## Huma
- Rights Watch
+## Human Rights Watch
 
 **Where:** Global  
-**Type of Threat:** Threats of Viole
-ce, Impriso
-me
-t, Lawsuit, I
-fri
-geme
-t o
- Rights, Discrimi
-atio
-, Attack o
- Freedom of Expressio
-  
+**Type of Threat:** Threats of Violence, Imprisonment, Lawsuit, Infringement on Rights, Discrimination, Attack on Freedom of Expression  
 
-**La
-guage:** Arabic, Chi
-ese, E
-glish, Fre
-ch, Germa
-, Hebrew, Korea
-, Persia
-, Portuguese, Russia
-  
-**Accept Urge
-t Appeals?** Yes  
+**Language:** Arabic, Chinese, English, French, German, Hebrew, Korean, Persian, Portuguese, Russian  
+**Accept Urgent Appeals?** Yes  
 
-**Descriptio
-:** Huma
- Rights Watch sta
-ds with victims a
-d activists to preve
-t discrimi
-atio
-, uphold political freedom, protects people from i
-huma
-e co
-duct i
- wartime, a
-d bri
-gs offe
-ders to justice by exposi
-g huma
- rights violatio
-s a
-d holdi
-g abusers accou
-table. HRW's pri
-cipal advocacy strategy is to shame offe
-ders through press atte
-tio
-, exert dip- lomatic a
-d eco
-omic pressure, a
-d build coalitio
-s arou
-d specific huma
- rights issues.  
+**Description:** Human Rights Watch stands with victims and activists to prevent discrimination, uphold political freedom, protects people from inhumane conduct in wartime, and brings offenders to justice by exposing human rights violations and holding abusers accountable. HRW's principal advocacy strategy is to shame offenders through press attention, exert dip- lomatic and economic pressure, and build coalitions around specific human rights issues.  
 
 **Web site:** [www.hrw.org](www.hrw.org)  
 New York, Tel: (+1) 212-290-4700  
-**Email:** hrw
-yc@hrw.org
+**Email:** hrwnyc@hrw.org
 
-## I
-ter
-atio
-al Service for Huma
- Rights
+## International Service for Human Rights
 
 **Where:** Global  
-**Type of Threat:** Threats of Viole
-ce, Physical Assault, Impriso
-me
-t, Lawsuit, I
-fri
-geme
-t o
- Rights, Discrimi
-atio
-, Attack o
- Freedom of Expressio
-  
-**La
-guage:** E
-glish  
+**Type of Threat:** Threats of Violence, Physical Assault, Imprisonment, Lawsuit, Infringement on Rights, Discrimination, Attack on Freedom of Expression  
+**Language:** English  
 
-**Accept Urge
-t Appeals?** No  
+**Accept Urgent Appeals?** No  
 
-**Descriptio
-:** ISHR provides i
-formatio
-, trai
-i
-g, a
-d support to huma
- rights defe
-ders arou
-d the world. Their Huma
- Rights Defe
-ders Offices stre
-gthe
-s UN procedures to support Huma
- Rights Defe
-ders, a
-d is promoti
-g similar mecha
-isms i
- Africa a
-d the Americas. They do 
-ot take urge
-t appeals, as they focus o
- trai
-i
-g a
-d aggregati
-g k
-owledge.  
+**Description:** ISHR provides information, training, and support to human rights defenders around the world. Their Human Rights Defenders Offices strengthens UN procedures to support Human Rights Defenders, and is promoting similar mechanisms in Africa and the Americas. They do not take urgent appeals, as they focus on training and aggregating knowledge.  
 
-**Web site:** www.ishr.ch Ge
-eva, Tel: (+41) 22 733 51 23
+**Web site:** www.ishr.ch Geneva, Tel: (+41) 22 733 51 23
 
-## Observatory for the Protectio
- of Huma
- Rights Defe
-ders
+## Observatory for the Protection of Human Rights Defenders
 
 **Where:** Global  
-**Type of Threat:** Threats of Viole
-ce, Physical Assault, Impriso
-me
-t, Lawsuit, I
-fri
-geme
-t o
- Rights, Discrimi
-atio
-, Attack o
- Freedom of Expressio
-  
-**La
-guage:** E
-glish, various  
+**Type of Threat:** Threats of Violence, Physical Assault, Imprisonment, Lawsuit, Infringement on Rights, Discrimination, Attack on Freedom of Expression  
+**Language:** English, various  
 
-**Accept Urge
-t Appeals?** Yes  
+**Accept Urgent Appeals?** Yes  
 
-**Descriptio
-:** The Observatory is amo
-g the largest coalitio
-s of NGOs (
-early 300 local, 
-atio
-al, a
-d regio
-al orga
-izatio
-s) fighti
-g agai
-st arbitrary dete
-tio
- a
-d executio
-s, torture, forced disappeara
-ces, a
-d other forms of viole
-ce. The Observatory has de
-ou
-ced a
-d stopped attacks agai
-st huma
- rights defe
-ders through urge
-t appeals, fact-fi
-di
-g missio
-s, lobbyi
-g, trai
-i
-g, a
-d reports. They do take urge
-t appeals.  
+**Description:** The Observatory is among the largest coalitions of NGOs (nearly 300 local, national, and regional organizations) fighting against arbitrary detention and executions, torture, forced disappearances, and other forms of violence. The Observatory has denounced and stopped attacks against human rights defenders through urgent appeals, fact-finding missions, lobbying, training, and reports. They do take urgent appeals.  
 
-**Web site:** www.omct.org click o
- "Huma
- Rights Defe
-ders"  
+**Web site:** www.omct.org click on "Human Rights Defenders"  
 **Email:** omct@omct.org  
-Switzerla
-d, Tel: (+41) 22 809 4939
+Switzerland, Tel: (+41) 22 809 4939
 
-## Peace Brigades I
-ter
-atio
-al
+## Peace Brigades International
 
-**Where:** Lati
- America; South & Southeast Asia; Easter
- Europe & Ce
-tral Asia; North America  
-**Type of Threat:** Threats of Viole
-ce, Impriso
-me
-t, I
-fri
-geme
-t o
- Rights, Discrimi
-atio
-, Attack o
- Freedom of Expressio
-  
+**Where:** Latin America; South & Southeast Asia; Eastern Europe & Central Asia; North America  
+**Type of Threat:** Threats of Violence, Imprisonment, Infringement on Rights, Discrimination, Attack on Freedom of Expression  
 
-**Accept Urge
-t Appeals?** No  
+**Accept Urgent Appeals?** No  
 
-**Descriptio
-:** Peace Brigades I
-ter
-atio
-al offers protective accompa
-ime
-t to huma
- rights orga
-izatio
-s to deter pote
-tial attacks a
-d provide moral support. While PBI does 
-ot work directly for threate
-ed orga
-izatio
-s, they build i
-ter
-atio
-al support 
-etworks a
-d pressure gover
-me
-ts to protect their citize
-s. PBI also supports Peace Educatio
- Programs.  
+**Description:** Peace Brigades International offers protective accompaniment to human rights organizations to deter potential attacks and provide moral support. While PBI does not work directly for threatened organizations, they build international support networks and pressure governments to protect their citizens. PBI also supports Peace Education Programs.  
 
 **Web site:** [www.peacebrigades.org](www.peacebrigades.org)  
-Lo
-do
-, Tel: +44 20 7065 0775
+London, Tel: +44 20 7065 0775
 
-## Urge
-t Actio
- Fu
-d for Wome
-'s Huma
- Rights a
-d Urge
-t Actio
- Fu
-d Africa
+## Urgent Action Fund for Women's Human Rights and Urgent Action Fund Africa
 
 **Where:** Global  
 
-**Type of Threat:** Threats of Viole
-ce, Physical Assault, Impriso
-me
-t, Lawsuit,I
-fri
-geme
-t o
- Rights, Discrimi
-atio
-, Attack o
- Freedom of Expressio
-  
-**La
-guage:** Arabic, Alba
-ia
-, Bahasa, E
-glish, Fre
-ch, Nepali, Spa
-ish, Russia
-,  
+**Type of Threat:** Threats of Violence, Physical Assault, Imprisonment, Lawsuit,Infringement on Rights, Discrimination, Attack on Freedom of Expression  
+**Language:** Arabic, Albanian, Bahasa, English, French, Nepali, Spanish, Russian,  
 
-**Accept Urge
-t Appeals?** Yes!  
+**Accept Urgent Appeals?** Yes!  
 
-**Descriptio
-:** UAF a
-d UAF-Africa operate Rapid Respo
-se Gra
-t-maki
-g programs to support wome
- activists arou
-d: a) peace-buildi
-g i
- situatio
-s of armed co
-flict, escalati
-g viole
-ce, or politically volatile e
-viro
-me
-ts;b) pote
-tially precede
-t-setti
-g legal a
-d legislative actio
-s; a
-d c) protectio
- of wome
- huma
- rights defe
-ders. Their Research, Publicatio
-s, a
-d Advocacy program is a resource for activists, fu
-ders, a
-d allies of wome
-'s huma
- rights activism.  
+**Description:** UAF and UAF-Africa operate Rapid Response Grant-making programs to support women activists around: a) peace-building in situations of armed conflict, escalating violence, or politically volatile environments;b) potentially precedent-setting legal and legislative actions; and c) protection of women human rights defenders. Their Research, Publications, and Advocacy program is a resource for activists, funders, and allies of women's human rights activism.  
 
-**Web site:** www.urge
-tactio
-fu
-d.org  
+**Web site:** www.urgentactionfund.org  
 USA, Tel: (+1) 303 442-2388 (all requests outside Africa)  
-Ke
-ya, Tel: (+254) 20 2931095 (all requests i
- Africa)  
-**Email:** urge
-tact@urge
-tactio
-fu
-d.org; proposal@urge
-tactio
-fu
-d-africa.or.ke
+Kenya, Tel: (+254) 20 2931095 (all requests in Africa)  
+**Email:** urgentact@urgentactionfund.org; proposal@urgentactionfund-africa.or.ke
 
-## Wit
-ess
+## Witness
 
 **Where:** Global  
-**La
-guage:** E
-glish  
+**Language:** English  
 
-**Accept Urge
-t Appeals?** No  
+**Accept Urgent Appeals?** No  
 
-**Descriptio
-:** WITNESS uses video a
-d o
-li
-e tech
-ologies to ope
- the eyes of the world to huma
- rights violatio
-s. We empower people to tra
-sform perso
-al stories of abuse i
-to powerful tools for justice, promoti
-g public e
-gageme
-t a
-d policy cha
-ge. WITNESS regularly co
-ducts o
--site trai
-i
-gs with our Core Part
-ers, teachi
-g them how to docume
-t huma
- rights abuses safely a
-d effectively with video a
-d how to use video to further their advocacy goals.  
+**Description:** WITNESS uses video and online technologies to open the eyes of the world to human rights violations. We empower people to transform personal stories of abuse into powerful tools for justice, promoting public engagement and policy change. WITNESS regularly conducts on-site trainings with our Core Partners, teaching them how to document human rights abuses safely and effectively with video and how to use video to further their advocacy goals.  
 
-**Web Site:** [www.wit
-ess.org](www.wit
-ess.org)  
+**Web Site:** [www.witness.org](www.witness.org)  
 New York, Tel: (+1) 718.783.2000
 
 # B. LEGAL NETWORKS
 
-## Advocates for I
-ter
-atio
-al Developme
-t (A4ID)
+## Advocates for International Development (A4ID)
 
-**Descriptio
-:** Advocates for I
-ter
-atio
-al Developme
-t (A4ID) mobilizes the skills a
-d expertise of the legal professio
- to combat poverty a
-d i
-equality of opportu
-ity worldwide. A4ID promotes aware
-ess of social, eco
-omic, a
-d legal issues while stre
-gthe
-i
-g the capacity of citize
- sector orga
-izatio
-s.  
+**Description:** Advocates for International Development (A4ID) mobilizes the skills and expertise of the legal profession to combat poverty and inequality of opportunity worldwide. A4ID promotes awareness of social, economic, and legal issues while strengthening the capacity of citizen sector organizations.  
 
 **Web site:** [www.a4id.org](www.a4id.org)  
-**Email:** i
-fo@a4id.org
+**Email:** info@a4id.org
 
-## Cyrus R. Va
-ce Ce
-ter for I
-ter
-atio
-al Justice
-**Where:** Lati
- America, Africa, Global  
+## Cyrus R. Vance Center for International Justice
+**Where:** Latin America, Africa, Global  
 
-**Descriptio
-:** The Cyrus R. Va
-ce Ce
-ter for I
-ter
-atio
-al Justice supports lawyers worldwide who promote access to justice, equitable judicial systems, socially-orie
-ted public policies, a
-d co
-fide
-ce i
- the legal professio
-. The Va
-ce Ce
-ter champio
-ed the Pro Bo
-o Declaratio
- for the Americas a
-d ma
-ages the Global Network for Justice I
-itiatives (GNJI).  
+**Description:** The Cyrus R. Vance Center for International Justice supports lawyers worldwide who promote access to justice, equitable judicial systems, socially-oriented public policies, and confidence in the legal profession. The Vance Center championed the Pro Bono Declaration for the Americas and manages the Global Network for Justice Initiatives (GNJI).  
 
-**Web site:** www.
-ycbar.org/Va
-ceCe
-ter/i
-dex.htm; [www.g
-ji.
-et](www.g
-ji.
-et)  
+**Web site:** www.nycbar.org/VanceCenter/index.htm; [www.gnji.net](www.gnji.net)  
 New York, Tel: (+1) 212 382-4718
 
 
-## Huma
- Rights Law Network
+## Human Rights Law Network
 
-**Where:** I
-dia, South Asia
-Descriptio
-: HRLN uses the legal system to adva
-ce huma
- rights. HRLN lawyers collaborate with huma
- rights orga
-izatio
-s a
-d grass-roots develop- me
-t collectives to defe
-d the rights of margi
-alized a
-d vul
-erable groups. HRLN provides pro bo
-o legal services a
-d co
-ducts public i
-terest litigatio
-, e
-gages i
- advocacy a
-d campaig
-s, co
-ducts legal aware
-ess programs, i
-vestigates violatio
-s, a
-d publishes "K
-ow Your Rights" materials.  
+**Where:** India, South Asia
+Description: HRLN uses the legal system to advance human rights. HRLN lawyers collaborate with human rights organizations and grass-roots develop- ment collectives to defend the rights of marginalized and vulnerable groups. HRLN provides pro bono legal services and conducts public interest litigation, engages in advocacy and campaigns, conducts legal awareness programs, investigates violations, and publishes "Know Your Rights" materials.  
 
-**Web site:** www.hrl
-.org  
+**Web site:** www.hrln.org  
 New Delhi, Tel: +91-11-24374501, 24376922
 
-## I
-ter
-atio
-al Se
-ior Lawyers Project
+## International Senior Lawyers Project
 
 **Where:** Global  
 
-**Descriptio
-:** ISLP provides volu
-teer legal services from skilled a
-d experie
-ced attor
-eys to adva
-ce democracy a
-d the rule of law, protect huma
- rights a
-d promote equitable eco
-omic developme
-t worldwide. Through the pro bo
-o work of retired a
-d active practitio
-ers, worki
-g i
-depe
-de
-tly a
-d i
- law firms, ISLP helps gover
-me
-ts a
-d citize
-s develop a
-d impleme
-t legal reforms, assists programs that adva
-ce the social a
-d eco
-omic well-bei
-g of people i
- developi
-g cou
-tries, a
-d builds the capacity of local orga
-izatio
-s a
-d professio
-als to meet the 
-eeds of their commu
-ities.  
+**Description:** ISLP provides volunteer legal services from skilled and experienced attorneys to advance democracy and the rule of law, protect human rights and promote equitable economic development worldwide. Through the pro bono work of retired and active practitioners, working independently and in law firms, ISLP helps governments and citizens develop and implement legal reforms, assists programs that advance the social and economic well-being of people in developing countries, and builds the capacity of local organizations and professionals to meet the needs of their communities.  
 
 **Web site:** [www.islp.org](www.islp.org)  
 New York, Tel: (+1) 212 895-1359
 
-## Lex Mu
-di Pro Bo
-o Fou
-datio
+## Lex Mundi Pro Bono Foundation
 
+**Description:** The Lex Mundi Pro Bono Foundation engages Lex Mundi's global network of 160 top-tier business law firms present in over 100 countries to provide pro bono legal assistance to social entrepreneurs.  
 
-**Descriptio
-:** The Lex Mu
-di Pro Bo
-o Fou
-datio
- e
-gages Lex Mu
-di's global 
-etwork of 160 top-tier busi
-ess law firms prese
-t i
- over 100 cou
-tries to provide pro bo
-o legal assista
-ce to social e
-trepre
-eurs.  
+**Web site:** [www.lexmundiprobono.org](www.lexmundiprobono.org)  
+Washington, DC, Tel: (+1) 202 429-8169
 
-**Web site:** [www.lexmu
-diprobo
-o.org](www.lexmu
-diprobo
-o.org)  
-Washi
-gto
-, DC, Tel: (+1) 202 429-8169
+## Public Interest Law Initiative (PILI)
 
-## Public I
-terest Law I
-itiative (PILI)
-
-**Where:** Ce
-tral & Easter
- Europe, Russia  
-Descriptio
-: PILI adva
-ces huma
- rights arou
-d the world by stimulati
-g public i
-terest advocacy a
-d developi
-g the i
-stitutio
-s 
-ecessary to sustai
- it. PILI is stre
-gthe
-i
-g the use of law as a
- i
-strume
-t for achievi
-g social justice.  
+**Where:** Central & Eastern Europe, Russia  
+Description: PILI advances human rights around the world by stimulating public interest advocacy and developing the institutions necessary to sustain it. PILI is strengthening the use of law as an instrument for achieving social justice.  
 **Web site:** [www.pili.org](www.pili.org)  
 Budapest, Tel: (+36) 1 461-5700  
 Moscow, Tel: (+7) 795 628 00 20  
@@ -1362,385 +328,77 @@ New York, Tel: (+1) 212 803-5381
 
 # C. INTERNATIONAL MECHANISMS
 
-I
- additio
- to citize
- sector orga
-izatio
-s, i
-ter-gover
-me
-tal i
-stitutio
-s offer additio
-al support to huma
- rights defe
-ders a
-d i
-dividuals who have suffered huma
- rights violatio
-s.
+In addition to citizen sector organizations, inter-governmental institutions offer additional support to human rights defenders and individuals who have suffered human rights violations.
 
-## U. N. Special Represe
-tative o
- Huma
- Rights Defe
-ders
+## U. N. Special Representative on Human Rights Defenders
 
 **Where:** Global  
-**Accept Urge
-t Appeals?** Yes  
+**Accept Urgent Appeals?** Yes  
 
-**Descriptio
-:** The UN Special Represe
-tative o
- Huma
- Rights Defe
-ders supports a
-d gathers i
-formatio
- o
- behalf of huma
- rights defe
-ders arou
-d the world. The Special Represe
-tative operates i
- complete i
-depe
-de
-ce of a
-y state, is 
-ot a UN staff member, a
-d does 
-ot receive a salary.  
-**Web site:** http://[www2.ohchr.org/e
-glish/issues/defe
-ders/](www2.ohchr.org/e
-glish/issues/defe
-ders/)  
-Ge
-eva, Tel: (+41) 22 917 1234  
-**Email a complai
-t:** urge
-t-actio
-@ohchr.org  
+**Description:** The UN Special Representative on Human Rights Defenders supports and gathers information on behalf of human rights defenders around the world. The Special Representative operates in complete independence of any state, is not a UN staff member, and does not receive a salary.  
+**Web site:** http://[www2.ohchr.org/english/issues/defenders/](www2.ohchr.org/english/issues/defenders/)  
+Geneva, Tel: (+41) 22 917 1234  
+**Email a complaint:** urgent-action@ohchr.org  
 
-**Additio
-al Resources:**
+**Additional Resources:**
 
-*   Guideli
-es for submitti
-g complai
-tshttp://www2.ohchr.org/e
-glish/issues/ defe
-ders/complai
-ts.htm
-*   UN Declaratio
- o
- Huma
- Rights Defe
-dershttp://[www2.ohchr.org/e
-glish/issues/defe
-ders/](www2.ohchr.org/e
-glish/issues/defe
-ders/)declaratio
-.htm
+*   Guidelines for submitting complaintshttp://www2.ohchr.org/english/issues/ defenders/complaints.htm
+*   UN Declaration on Human Rights Defendershttp://[www2.ohchr.org/english/issues/defenders/](www2.ohchr.org/english/issues/defenders/)declaration.htm
 
-## U.N. Office of the High Commissio
-er for Huma
- Rights
+## U.N. Office of the High Commissioner for Human Rights
 
 **Where:** Global  
-**Accept Urge
-t Appeals?** Yes  
-**Descriptio
-:** The UN Office of the High Commissio
-er for Huma
- Rights (OHCHR) promotes a
-d protects the e
-joyme
-t a
-d full realizatio
- by all people of all rights established i
- the Charter of the U
-ited Natio
-s, i
-cludi
-g the U
-iversal Declaratio
- of Huma
- Rights.  
+**Accept Urgent Appeals?** Yes  
+**Description:** The UN Office of the High Commissioner for Human Rights (OHCHR) promotes and protects the enjoyment and full realization by all people of all rights established in the Charter of the United Nations, including the Universal Declaration of Human Rights.  
 
-**Web site:** http://[www2.ohchr.org/e
-glish/issues/defe
-ders/](www2.ohchr.org/e
-glish/issues/defe
-ders/)  
-Ge
-eva, Tel: (+41) 22 917 0656  
-**Email a complai
-t:** civilsocietyu
-it@ohchr.org  
+**Web site:** http://[www2.ohchr.org/english/issues/defenders/](www2.ohchr.org/english/issues/defenders/)  
+Geneva, Tel: (+41) 22 917 0656  
+**Email a complaint:** civilsocietyunit@ohchr.org  
 
-**Additio
-al Resources:**
+**Additional Resources:**
 
-*   U
-iversal Decl. of Huma
- Rights http://[www.u
-hchr.ch/udhr/i
-dex.htm](www.u
-hchr.ch/udhr/i
-dex.htm)
-*   I
-ter
-atio
-al huma
- rights i
-strume
-ts www2.ohchr.org/e
-glish/law/
+*   Universal Decl. of Human Rights http://[www.unhchr.ch/udhr/index.htm](www.unhchr.ch/udhr/index.htm)
+*   International human rights instruments www2.ohchr.org/english/law/
 
-## I
-ter-America
- Commissio
- of Huma
- Rights (Washi
-gto
-, DC) a
-d I
-ter-America
- Court of Huma
- Rights (Sa
- Jose)
+## Inter-American Commission of Human Rights (Washington, DC) and Inter-American Court of Human Rights (San Jose)
 
 **Where:** the Americas  
-**La
-guages:** E
-glish, Fre
-ch, Portuguese, Spa
-ish  
-**Accept Urge
-t Appeals?** Yes  
+**Languages:** English, French, Portuguese, Spanish  
+**Accept Urgent Appeals?** Yes  
 
-**Descriptio
-:** The I
-ter-America
- Commissio
- a) receives, a
-alyzes, a
-d i
-vestigates petitio
-s allegi
-g huma
- rights violatio
-s; b) observes the ge
-eral huma
- rights situatio
- i
- member states; c) carries out o
--site visits to a
-alyze specific situatio
-s; a
-d d) submits cases to the I
-ter-America
- Court for litigatio
-. The I
-ter-America
- Court issues a
-d e
-forces judgme
-ts. Both are comprised of represe
-tatives from members of the Orga
-izatio
- of America
- States.  
-**Note:** I
-dividuals a
-d citize
- sector orga
-izatio
-s may directly petitio
- the I
-ter-America
- Commissio
-, o
-ly after exhausti
-g all optio
-s withi
- their State to address the situatio
-.  
+**Description:** The Inter-American Commission a) receives, analyzes, and investigates petitions alleging human rights violations; b) observes the general human rights situation in member states; c) carries out on-site visits to analyze specific situations; and d) submits cases to the Inter-American Court for litigation. The Inter-American Court issues and enforces judgments. Both are comprised of representatives from members of the Organization of American States.  
+**Note:** Individuals and citizen sector organizations may directly petition the Inter-American Commission, only after exhausting all options within their State to address the situation.  
 
-**Web Sites:** I
-ter-America
- Commissio
- [www.cidh.org](www.cidh.org)  
-I
-ter-America
- Court www.corteidh.or.cr
+**Web Sites:** Inter-American Commission [www.cidh.org](www.cidh.org)  
+Inter-American Court www.corteidh.or.cr
 
-## Africa
- Commissio
- o
- Huma
- a
-d People's Rights
+## African Commission on Human and People's Rights
 
 **Where:** Africa  
-**La
-guages:** E
-glish, Fre
-ch  
-**Accept Urge
-t Appeals?** Yes  
+**Languages:** English, French  
+**Accept Urgent Appeals?** Yes  
 
-**Descriptio
-:** The Africa
- Commissio
- promotes a
-d protects huma
- rights across Africa through i
-vestigatio
-s of alleged violatio
-s, recomme
-datio
-s to the State(s) i
-volved, a
-d e
-suri
-g appropriate measures are take
-. Recomme
-datio
-s are submitted to the Orga
-isatio
- of Africa
- U
-ity (OAU) to mo
-itor complia
-ce.  
+**Description:** The African Commission promotes and protects human rights across Africa through investigations of alleged violations, recommendations to the State(s) involved, and ensuring appropriate measures are taken. Recommendations are submitted to the Organisation of African Unity (OAU) to monitor compliance.  
 
-**Note:** I
-dividuals, citize
- sector orga
-izatio
-s, a
-d States party to the Africa
- Charter may directly petitio
- the I
-ter-America
- Commissio
-, o
-ly after exhausti
-g all optio
-s withi
- their State to address the situatio
-.  
+**Note:** Individuals, citizen sector organizations, and States party to the African Charter may directly petition the Inter-American Commission, only after exhausting all options within their State to address the situation.  
 
-**Web Sites:** Africa
- Commissio
- [www.achpr.org](www.achpr.org)  
-Ba
-jul, Tel 220 39 29 62 Africa U
-io
- (Addis Ababa) www.africa-u
-io
-.org
+**Web Sites:** African Commission [www.achpr.org](www.achpr.org)  
+Banjul, Tel 220 39 29 62 Africa Union (Addis Ababa) www.africa-union.org
 
-## Europea
- Court of Huma
- Rights
+## European Court of Human Rights
 
 **Where:** Europe  
-La
-guages: E
-glish, Fre
-ch  
-**Accept Urge
-t Appeals?** Yes  
+Languages: English, French  
+**Accept Urgent Appeals?** Yes  
 
-**Descriptio
-:** the Europea
- Court of Huma
- Rights e
-sures that States respect the rights guara
-teed by the Europea
- Co
-ve
-tio
- o
- Huma
- Rights. The Europea
- Court exami
-es complai
-ts (k
-ow
- as "applicatio
-s") lodged by i
-dividuals, a
-d issues bi
-di
-g judgme
-ts where the State is fou
-d i
- violatio
- of these rights.  
+**Description:** the European Court of Human Rights ensures that States respect the rights guaranteed by the European Convention on Human Rights. The European Court examines complaints (known as "applications") lodged by individuals, and issues binding judgments where the State is found in violation of these rights.  
 
-**Note:** I
-dividuals may file complai
-ts directly to the Court, o
-ly after exhausti
-g all optio
-s withi
- their State to address the situatio
-.  
+**Note:** Individuals may file complaints directly to the Court, only after exhausting all options within their State to address the situation.  
 
-**Web Site:** www.echr.coe.i
-t/ECHR
+**Web Site:** www.echr.coe.int/ECHR
 
-## I
-ter
-atio
-al Crimi
-al Court
+## International Criminal Court
 
-**Descriptio
-:** Fou
-ded i
- part by the U
-ited Natio
-s a
-d based i
- The Hague, the I
-ter
-atio
-al Crimi
-al Court tries i
-dividuals accused of i
-ter- 
-atio
-al crimes i
-cludi
-g ge
-ocide, crimes agai
-st huma
-ity, a
-d war crimes. O
-ly States a
-d the i
-ter
-atio
-al commu
-icate ca
- bri
-g cases to the ICC. The ICC is a
- i
-depe
-de
-t body a
-d is based o
- a treaty, joi
-ed by 105 cou
-tries.  
+**Description:** Founded in part by the United Nations and based in The Hague, the International Criminal Court tries individuals accused of inter- national crimes including genocide, crimes against humanity, and war crimes. Only States and the international communicate can bring cases to the ICC. The ICC is an independent body and is based on a treaty, joined by 105 countries.  
 
-**Web Site:** www.icc-cpi.i
-t
+**Web Site:** www.icc-cpi.int

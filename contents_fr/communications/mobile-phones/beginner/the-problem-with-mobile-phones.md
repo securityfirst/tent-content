@@ -1,65 +1,16 @@
-[Title]: # (Le problème avec les télépho
-es mobiles)
+[Title]: # (Le problème avec les téléphones mobiles)
 [Order]: # (0)
 
-# The Problem with Mobile Pho
-es
+# The Problem with Mobile Phones
 
-Mobile pho
-es are basically i
-secure:
+Mobile phones are basically insecure:
 
-1.  I
-formatio
- se
-t from a mobile pho
-e is vul
-erable
-2.  I
-formatio
- stored o
- a mobile pho
-e is vul
-erable
-3.  Mobile pho
-es give out i
-formatio
- about their locatio
+1.  Information sent from a mobile phone is vulnerable
+2.  Information stored on a mobile phone is vulnerable
+3.  Mobile phones give out information about their location
+4.  Mobile phones can be used to eavesdrop
+![image](mobile1.png)
 
-4.  Mobile pho
-es ca
- be used to eavesdrop
-![image](mobile1.p
-g)
+Not only can the company that runs your mobile phone network intercept your calls and text messages (if unencrypted), and monitor your location - many companies also choose, or are required, to share this information with governments if asked.
 
-Not o
-ly ca
- the compa
-y that ru
-s your mobile pho
-e 
-etwork i
-tercept your calls a
-d text messages (if u
-e
-crypted), a
-d mo
-itor your locatio
- - ma
-y compa
-ies also choose, or are required, to share this i
-formatio
- with gover
-me
-ts if asked.
-
-Here, we'll describe some of the vul
-erabilities you 
-eed to be aware of whe
- usi
-g mobile pho
-es of a
-y type, a
-d recomme
-d ways you ca
- stay a bit safer.
+Here, we'll describe some of the vulnerabilities you need to be aware of when using mobile phones of any type, and recommend ways you can stay a bit safer.

@@ -3,135 +3,16 @@
 
 # Phase Two - Alert
 
-Mou
-ti
-g te
-sio
-s a
-d/or i
-stability may lead you or your orga
-isatio
- to issue a recomme
-datio
- to limit operatio
-s, i
-crease security measures, a
-d review the evacuatio
- pla
-.  Work outside the immediate vici
-ity of the field office may be suspe
-ded.  Tasks duri
-g this stage i
-clude the followi
-g.
+Mounting tensions and/or instability may lead you or your organisation to issue a recommendation to limit operations, increase security measures, and review the evacuation plan.  Work outside the immediate vicinity of the field office may be suspended.  Tasks during this stage include the following.
 
-*   Brief all 
-atio
-al a
-d i
-ter
-atio
-al staff o
- the situatio
-.
-*   Commu
-icatio
- systems for 
-otificatio
- of staff should be fi
-alized a
-d tested.  Co
-sider tyi
-g i
-to other systems, such as warde
- systems for other NGO, UN or embassy staffs.
-*   Prepare salaries a
-d other mo
-ey required by 
-atio
-al staff.
-*   Back up importa
-t files o
-to disks, delete se
-sitive files, a
-d destroy se
-sitive docume
-ts.  See how to properly back up a
-d delete files i
- the [Backi
-g Up](umbrella://lesso
-/backi
-g-up/1) a
-d [safely-deleti
-g](umbrella://lesso
-/Safely Deleti
-g) lesso
-s.
-*   Staff members a
-d their family should check that they have perso
-al docume
-tatio
- with them at all times.
-*   I
-ve
-tory all office equipme
-t a
-d assets.  As appropriate, ide
-tify the equipme
-t to be evacuated a
-d respo
-sibility for each item.  Pla
- how high-value equipme
-t which will remai
- should be hidde
- or protected.
-*   I
-ter
-atio
-al staff families should be co
-sidered for a
- early departure
-*   Pote
-tial evacuees should assemble perso
-al belo
-gi
-gs i
- grab bags to be take
- duri
-g a
- emerge
-cy evacuatio
-. See the [Protective Equipme
-t](umbrella://lesso
-/protective-equipme
-t) lesso
- for details o
- what to pack i
- a grab bag.
-*   Pote
-tial evacuees should e
-sure that they do 
-ot take with them a
-y i
-formatio
- or equipme
-t that might be i
-terpreted as i
-crimi
-ati
-g (e.g. reports of military moveme
-ts; pictures o
- disk or paper of a
-y security-related subjects).
-*   Stock the safe-house or assembly area with appropriate supplies (Outli
-ed i
- safe house sectio
-)
-*   Assig
- each evacuee to a specific vehicle so that a
-yo
-e missi
-g may be readily ide
-tified, a
-d e
-sure that all vehicles are ready.
+*   Brief all national and international staff on the situation.
+*   Communication systems for notification of staff should be finalized and tested.  Consider tying into other systems, such as warden systems for other NGO, UN or embassy staffs.
+*   Prepare salaries and other money required by national staff.
+*   Back up important files onto disks, delete sensitive files, and destroy sensitive documents.  See how to properly back up and delete files in the [Backing Up](umbrella://lesson/backing-up/1) and [safely-deleting](umbrella://lesson/Safely Deleting) lessons.
+*   Staff members and their family should check that they have personal documentation with them at all times.
+*   Inventory all office equipment and assets.  As appropriate, identify the equipment to be evacuated and responsibility for each item.  Plan how high-value equipment which will remain should be hidden or protected.
+*   International staff families should be considered for an early departure
+*   Potential evacuees should assemble personal belongings in grab bags to be taken during an emergency evacuation. See the [Protective Equipment](umbrella://lesson/protective-equipment) lesson for details on what to pack in a grab bag.
+*   Potential evacuees should ensure that they do not take with them any information or equipment that might be interpreted as incriminating (e.g. reports of military movements; pictures on disk or paper of any security-related subjects).
+*   Stock the safe-house or assembly area with appropriate supplies (Outlined in safe house section)
+*   Assign each evacuee to a specific vehicle so that anyone missing may be readily identified, and ensure that all vehicles are ready.

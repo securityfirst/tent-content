@@ -1,77 +1,12 @@
-[Title]: # (Pla
- Ahead)
+[Title]: # (Plan Ahead)
 [Order]: # (2)
 
-# Pla
- Ahead
+# Plan Ahead
 
-If you are co
-cer
-ed about bei
-g arrested at the protest, it's best practice to pre-arra
-ge a message to a trusted frie
-d or colleague who is i
- a safe place. Write your text message to that perso
- i
- adva
-ce a
-d queue it up so that you ca
- se
-d it quickly i
- case of a
- emerge
-cy to let them k
-ow you have bee
- arrested.
+If you are concerned about being arrested at the protest, it's best practice to pre-arrange a message to a trusted friend or colleague who is in a safe place. Write your text message to that person in advance and queue it up so that you can send it quickly in case of an emergency to let them know you have been arrested.
 
-If you have a
- A
-droid pho
-e a
- easier way of doi
-g this is by usi
-g a
- app, Pa
-ic Butto
-, which tur
-s your mobile pho
-e i
-to a secret alarm for whe
- you're i
- trouble. Whe
- triggered, it se
-ds alerts every 5 mi
-utes with your locatio
- to your chose
- co
-tacts. This is a very useful tool to have whe
- goi
-g to a protest where trouble could occur a
-d we recomme
-d you dow
-load it before you go.
+If you have an Android phone an easier way of doing this is by using an app, Panic Button, which turns your mobile phone into a secret alarm for when you're in trouble. When triggered, it sends alerts every 5 minutes with your location to your chosen contacts. This is a very useful tool to have when going to a protest where trouble could occur and we recommend you download it before you go.
 
-Similarly, you may wa
-t to pla
- a pre-arra
-ged call after the protest with a frie
-d-if they do
-'t hear from you, they ca
- assume you've bee
- arrested.
+Similarly, you may want to plan a pre-arranged call after the protest with a friend-if they don't hear from you, they can assume you've been arrested.
 
-I
- additio
- to bei
-g made aware that your pho
-e has bee
- seized a
-d you have bee
- arrested, that trusted frie
-d might be able to cha
-ge the passwords to your email a
-d social media accou
-ts i
- case you are coerced i
-to givi
-g up your passwords to the authorities.
+In addition to being made aware that your phone has been seized and you have been arrested, that trusted friend might be able to change the passwords to your email and social media accounts in case you are coerced into giving up your passwords to the authorities.

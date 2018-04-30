@@ -1,118 +1,20 @@
-[Title]: # (Circumve
-ti
-g ce
-sorship from your smartpho
-e)
+[Title]: # (Circumventing censorship from your smartphone)
 [Order]: # (9)
 
-# Circumve
-ti
-g ce
-sorship from your smartpho
-e
+# Circumventing censorship from your smartphone
 
-Usi
-g your smartpho
-e to go o
-li
-e is ofte
- risker tha
- usi
-g a computer. You ca
- reduce your risks through the use of these tools.
+Using your smartphone to go online is often risker than using a computer. You can reduce your risks through the use of these tools.
 
-Usi
-g a VPN o
- your mobile will give you u
-ce
-sored access to I
-ter
-et co
-te
-t while e
-crypti
-g what you do.  We recomme
-d usi
-g the Psipho
-3 tool, outli
-ed above, which works o
- A
-droids as well as Wi
-dows.
+Using a VPN on your mobile will give you uncensored access to Internet content while encrypting what you do.  We recommend using the Psiphon3 tool, outlined above, which works on Androids as well as Windows.
 
-Users with a high threat model who 
-eed to e
-sure total a
-o
-ymity o
-li
-e should use tools outli
-ed i
- the Adva
-ced sectio
- of this lesso
-.
+Users with a high threat model who need to ensure total anonymity online should use tools outlined in the Advanced section of this lesson.
 
 ## Proxies
 
-Usi
-g proxies o
- your mobile pho
-e will allow you to access otherwise blocked websites. You ca
- access proxies by dow
-loadi
-g the mobile versio
- of Firefox - [Firefox mobile](http://f-droid.org/repository/browse/?fdid=org.mozilla.firefox) alo
-g with the [Proxy Mobile](https://guardia
-project.i
-fo/apps/proxymob-firefox-add-o
-/) add-o
- which makes proxyi
-g with Firefox easy. It is helpful i
- cases of ce
-sorship, but still may reveal your requests u
-less the co
-
-ectio
- from your clie
-t to the proxy is e
-crypted. This ca
- be used o
- A
-droids as well as iPho
-es.
+Using proxies on your mobile phone will allow you to access otherwise blocked websites. You can access proxies by downloading the mobile version of Firefox - [Firefox mobile](http://f-droid.org/repository/browse/?fdid=org.mozilla.firefox) along with the [Proxy Mobile](https://guardianproject.info/apps/proxymob-firefox-add-on/) add-on which makes proxying with Firefox easy. It is helpful in cases of censorship, but still may reveal your requests unless the connection from your client to the proxy is encrypted. This can be used on Androids as well as iPhones.
 
 ## Virtual Private Network (VPN)
 
-Usi
-g a VPN o
- your mobile will give you u
-ce
-sored access to I
-ter
-et co
-te
-t while e
-crypti
-g what you do.  We recomme
-d usi
-g the [Psipho
-3](umbrella://lesso
-/psipho
-) tool, outli
-ed above, which also works o
- A
-droids. 
+Using a VPN on your mobile will give you uncensored access to Internet content while encrypting what you do.  We recommend using the [Psiphon3](umbrella://lesson/psiphon) tool, outlined above, which also works on Androids. 
 
-Users with a high threat model who 
-eed to e
-sure total a
-o
-ymity o
-li
-e should use tools outli
-ed i
- the Adva
-ced sectio
- of this lesso
-.
+Users with a high threat model who need to ensure total anonymity online should use tools outlined in the Advanced section of this lesson.

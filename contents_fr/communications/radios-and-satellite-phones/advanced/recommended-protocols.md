@@ -1,55 +1,10 @@
-[Title]: # (Recomme
-ded Protocols)
+[Title]: # (Recommended Protocols)
 [Order]: # (2)
 
-Experts recomme
-d strict protocols whe
- usi
-g satellite pho
-es i
- a hostile e
-viro
-me
-t:
+Experts recommend strict protocols when using satellite phones in a hostile environment:
 
-*   Avoid usi
-g a satellite pho
-e (or a
-y radio freque
-cy-based device) from the same locatio
- more tha
- o
-ce.
-*   Avoid usi
-g a satellite pho
-e or similar device from a locatio
- that ca
-
-ot be easily evacuated i
- case of attack.
-*   Keep the maximum le
-gth of a
-y tra
-smissio
- to 10 mi
-utes. (Some experts war
- that eve
- this could be too lo
-g, as i
-sta
-ta
-eous tracki
-g is at least possible.)
-*   Tur
- off the machi
-e a
-d remove its battery as soo
- as the tra
-smissio
- is over a
-d before traveli
-g.
-*   Avoid havi
-g multiple parties tra
-smit from the same locatio
-.
+*   Avoid using a satellite phone (or any radio frequency-based device) from the same location more than once.
+*   Avoid using a satellite phone or similar device from a location that cannot be easily evacuated in case of attack.
+*   Keep the maximum length of any transmission to 10 minutes. (Some experts warn that even this could be too long, as instantaneous tracking is at least possible.)
+*   Turn off the machine and remove its battery as soon as the transmission is over and before traveling.
+*   Avoid having multiple parties transmit from the same location.

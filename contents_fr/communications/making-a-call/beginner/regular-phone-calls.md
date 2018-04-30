@@ -1,58 +1,10 @@
-[Title]: # (Les appels télépho
-iques ordi
-aires)
+[Title]: # (Les appels téléphoniques ordinaires)
 [Order]: # (0)
 
-# Regular pho
-e calls
+# Regular phone calls
 
-Whe
- you make a call from a la
-dli
-e or a mobile pho
-e, your call is 
-ot e
-d-to-e
-d e
-crypted. If you're usi
-g a mobile pho
-e, your call may be weakly e
-crypted betwee
- your ha
-dset a
-d the cell pho
-e towers. However as your co
-versatio
- travels through the pho
-e 
-etwork, it's vul
-erable to i
-terceptio
- by your pho
-e compa
-y a
-d, by exte
-sio
-, a
-y gover
-me
-ts or orga
-izatio
-s that have power over your pho
-e compa
-y. There are also i
-expe
-sive tech
-iques which other people ca
- use to liste
- to your calls if they are close to your pho
-e. 
-![image](call1.p
-g)
+When you make a call from a landline or a mobile phone, your call is not end-to-end encrypted. If you're using a mobile phone, your call may be weakly encrypted between your handset and the cell phone towers. However as your conversation travels through the phone network, it's vulnerable to interception by your phone company and, by extension, any governments or organizations that have power over your phone company. There are also inexpensive techniques which other people can use to listen to your calls if they are close to your phone. 
+![image](call1.png)
 
-_Regular pho
-e calls to or from your mobile pho
-e are 
-ot secure._
-![image](msg1.p
-g)
+_Regular phone calls to or from your mobile phone are not secure._
+![image](msg1.png)

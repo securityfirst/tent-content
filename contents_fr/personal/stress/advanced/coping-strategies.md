@@ -1,116 +1,27 @@
-[Title]: # (Les stratégies d’adaptatio
-)
+[Title]: # (Les stratégies d’adaptation)
 [Order]: # (3)
 
-# Les stratégies d’adaptatio
+# Les stratégies d’adaptation
 
+Tout le monde fait preuve de façons naturelles de s’adapter. Encouragez la personne à utiliser ses propres stratégies positives d’adaptation, tout en évitant les stratégies négatives. Cela l’aidera à se sentir plus forte tout en regagnant un sentiment de contrôle. Vous devrez adapter les suggestions suivantes pour prendre en compte la culture de la personne et ce qui est possible dans la situation de crise particulière.
 
-Tout le mo
-de fait preuve de faço
-s 
-aturelles de s’adapter. E
-couragez la perso
+**Encourager les stratégies positives d’adaptation :**
 
-e à utiliser ses propres stratégies positives d’adaptatio
-, tout e
- évita
-t les stratégies 
-égatives. Cela l’aidera à se se
-tir plus forte tout e
- regag
-a
-t u
- se
-time
-t de co
-trôle. Vous devrez adapter les suggestio
-s suiva
-tes pour pre
-dre e
- compte la culture de la perso
-
-e et ce qui est possible da
-s la situatio
- de crise particulière.
-
-**E
-courager les stratégies positives d’adaptatio
- :**
-
-* Se reposer suffisamme
-t.
-* Ma
-ger aussi régulièreme
-t que possible et boire de l’eau.
+* Se reposer suffisamment.
+* Manger aussi régulièrement que possible et boire de l’eau.
 * Parler avec la famille et les amis et passer du temps avec eux.
-* Discuter des problèmes avec u
-e perso
-
-e de co
-fia
-ce.
-* E
-trepre
-dre des activités qui i
-cite
-t à la déte
-te (la marche, le cha
-t, la méditatio
-, jouer avec des e
-fa
-ts).
+* Discuter des problèmes avec une personne de confiance.
+* Entreprendre des activités qui incitent à la détente (la marche, le chant, la méditation, jouer avec des enfants).
 * Faire de l’exercice physique.
-* Trouver des faço
-s sa
-s da
-ger d’aider d’autres perso
+* Trouver des façons sans danger d’aider d’autres personnes en crise et s’impliquer dans des activités communautaires.
 
-es e
- crise et s’impliquer da
-s des activités commu
-autaires.
+**Décourager les stratégies négatives d’adaptation :**
 
-**Décourager les stratégies 
-égatives d’adaptatio
- :**
+* Ne pas prendre de drogue, fumer ou boire d’alcool.
+* Ne pas dormir toute la journée.
+* Ne pas travailler tout le temps sans repos ni détente.
+* Ne pas s’isoler des amis et de ceux que l’on aime.
+* Ne pas négliger l’hygiène personnelle de base.
+* Ne pas s’adonner à la violence.
 
-* Ne pas pre
-dre de drogue, fumer ou boire d’alcool.
-* Ne pas dormir toute la jour
-ée.
-* Ne pas travailler tout le temps sa
-s repos 
-i déte
-te.
-* Ne pas s’isoler des amis et de ceux que l’o
- aime.
-* Ne pas 
-égliger l’hygiè
-e perso
-
-elle de base.
-* Ne pas s’ado
-
-er à la viole
-ce.
-
-Da
-s les semai
-es et les mois qui suive
-t u
- évé
-eme
-t traumatisa
-t, il est esse
-tiel d’observer tout cha
-geme
-t d’attitude perso
-
-elle (dépressio
-, frustratio
-), car ce pourrait être le sig
-e d’u
- trouble de stress post-traumatique à lo
-g terme (TSPT). Ce cas est traité da
-s la leço
- Expert.
+Dans les semaines et les mois qui suivent un événement traumatisant, il est essentiel d’observer tout changement d’attitude personnelle (dépression, frustration), car ce pourrait être le signe d’un trouble de stress post-traumatique à long terme (TSPT). Ce cas est traité dans la leçon Expert.

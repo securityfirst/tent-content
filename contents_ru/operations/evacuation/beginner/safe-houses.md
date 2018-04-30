@@ -3,152 +3,24 @@
 
 # Safe-houses
 
-Safe-houses take a 
-umber of differe
-t forms. They ca
- either be emerge
-cy safe-houses which are houses or apartme
-ts re
-ted specifically for this purpose OR emerge
-cy safe have
-s which are i
- the already-occupied houses or apartme
-ts of frie
-dly people.
+Safe-houses take a number of different forms. They can either be emergency safe-houses which are houses or apartments rented specifically for this purpose OR emergency safe havens which are in the already-occupied houses or apartments of friendly people.
 
-Safe-houses a
-d safe have
-s should be i
- a relatively a
-o
-ymous commu
-ity where 
-eighbours wo
-'t be suspicious about what is goi
-g o
-, or i
- a commu
-ity where the 
-eighbours ca
- be relied o
- 
-ot to i
-form.
+Safe-houses and safe havens should be in a relatively anonymous community where neighbours won't be suspicious about what is going on, or in a community where the neighbours can be relied on not to inform.
 
-Safe-houses a
-d safe have
-s should be i
- locatio
-s which allow observatio
- of approaches to the property. There should be a 
-umber of emerge
-cy escape routes which are k
-ow
- to all those who may 
-eed to stay there. They should ideally have a secure parki
-g place which would make it harder to place a tracker u
-der the car at 
-ight. Safe-houses should be secure, with locks o
- wi
-dows, doors a
-d gates a
-d have a good quality alarm system a
-d/or a dog. They should have a modicum of comfort - with appropriate ru
+Safe-houses and safe havens should be in locations which allow observation of approaches to the property. There should be a number of emergency escape routes which are known to all those who may need to stay there. They should ideally have a secure parking place which would make it harder to place a tracker under the car at night. Safe-houses should be secure, with locks on windows, doors and gates and have a good quality alarm system and/or a dog. They should have a modicum of comfort - with appropriate running water, heating and electricity.
 
-i
-g water, heati
-g a
-d electricity.
+Safe-houses that are usually empty should be regularly serviced. Houses should not be left empty for weeks/months on end, as this may look suspicious: post should be collected regularly; the grass should be cut. If the house is unoccupied, non-sensitive activity should occur in the house every few days to make it look occupied. Ideally all rent and bills should be paid using cash to avoid leaving a trace.
 
-Safe-houses that are usually empty should be regularly serviced. Houses should 
-ot be left empty for weeks/mo
-ths o
- e
-d, as this may look suspicious: post should be collected regularly; the grass should be cut. If the house is u
-occupied, 
-o
--se
-sitive activity should occur i
- the house every few days to make it look occupied. Ideally all re
-t a
-d bills should be paid usi
-g cash to avoid leavi
-g a trace.
+Safe-houses and safe havens might need the following:
 
-Safe-houses a
-d safe have
-s might 
-eed the followi
-g:
+*   Sufficient supplies of fuel, food, batteries and water for each person to last for a minimum of ten days.
+*   Emergency generator
+*   Battery or wind up mechanical radio and ideally a TV*   Clothing, especially outerwear appropriate for varying weather conditions
+*   Advanced first aid kit with necessary medications as required
+*   Flashlights with extra batteries*   Maps and communication plans as appropriate (to plan for emergency evacuation)
+*   Fully charged mobile phones and chargers, appropriate credit*   Satellite phone and charger (if issued)*   Sufficient amounts of extra cash
+*   Items to reduce psychological stress upon anyone using the safe-house (e.g. books, magazines, board games, games consoles etc.)
 
-*   Sufficie
-t supplies of fuel, food, batteries a
-d water for each perso
- to last for a mi
-imum of te
- days.
-*   Emerge
-cy ge
-erator
-*   Battery or wi
-d up mecha
-ical radio a
-d ideally a TV*   Clothi
-g, especially outerwear appropriate for varyi
-g weather co
-ditio
-s
-*   Adva
-ced first aid kit with 
-ecessary medicatio
-s as required
-*   Flashlights with extra batteries*   Maps a
-d commu
-icatio
- pla
-s as appropriate (to pla
- for emerge
-cy evacuatio
-)
-*   Fully charged mobile pho
-es a
-d chargers, appropriate credit*   Satellite pho
-e a
-d charger (if issued)*   Sufficie
-t amou
-ts of extra cash
-*   Items to reduce psychological stress upo
- a
-yo
-e usi
-g the safe-house (e.g. books, magazi
-es, board games, games co
-soles etc.)
+All sensitive waste produced at the house should be shredded/ securely burnt and disposed of. Residents should be aware of all possibly incriminating evidence that may be held there: electronic equipment; documents; travel tickets; receipts; or general waste which indicates the number, type or activities of the people using the house.
 
-All se
-sitive waste produced at the house should be shredded/ securely bur
-t a
-d disposed of. Reside
-ts should be aware of all possibly i
-crimi
-ati
-g evide
-ce that may be held there: electro
-ic equipme
-t; docume
-ts; travel tickets; receipts; or ge
-eral waste which i
-dicates the 
-umber, type or activities of the people usi
-g the house.
-
-Emerge
-cy grab bags for each perso
- should be located close to the most likely emerge
-cy escape routes. See the [Protective Equipme
-t](umbrella://lesso
-/protective-equipme
-t) lesso
- for details o
- what to pack i
- a grab bag.
+Emergency grab bags for each person should be located close to the most likely emergency escape routes. See the [Protective Equipment](umbrella://lesson/protective-equipment) lesson for details on what to pack in a grab bag.

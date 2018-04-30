@@ -1,73 +1,10 @@
-[Title]: # (Comme
-t pouvez-vous aider ?)
+[Title]: # (Comment pouvez-vous aider ?)
 [Order]: # (2)
 
-# Comme
-t pouvez-vous aider ?
+# Comment pouvez-vous aider ?
 
-Que pouvez-vous faire, juste après u
- traumatisme, pour aider quelqu’u
- à guérir ? Les premiers soi
-s psychologiques so
-t u
-e étape importa
-te pour soute
-ir u
-e perso
+Que pouvez-vous faire, juste après un traumatisme, pour aider quelqu’un à guérir ? Les premiers soins psychologiques sont une étape importante pour soutenir une personne traumatisée. Il NE S’AGIT PAS d’encourager ou même de forcer la personne « à faire le bilan » à la suite d’un événement traumatisant. La personne affectée ne devrait aucunement être incitée à raconter ce qui lui est arrivé. Il est préférable de procurer un environnement sûr et favorable dans lequel la personne se sentira en sécurité. Si la personne désire partager ses expériences, elle le peut, mais elle n’est absolument pas obligée de le faire.
 
-e traumatisée. Il NE S’AGIT PAS d’e
-courager ou même de forcer la perso
-
-e « à faire le bila
- » à la suite d’u
- évé
-eme
-t traumatisa
-t. La perso
-
-e affectée 
-e devrait aucu
-eme
-t être i
-citée à raco
-ter ce qui lui est arrivé. Il est préférable de procurer u
- e
-viro
-
-eme
-t sûr et favorable da
-s lequel la perso
-
-e se se
-tira e
- sécurité. Si la perso
-
-e désire partager ses expérie
-ces, elle le peut, mais elle 
-’est absolume
-t pas obligée de le faire.
-
-* Dema
-dez-lui si elle a besoi
- d’assista
-ce. Éloig
-ez la perso
-
-e du da
-ger et essayez d’assurer sa sécurité. Si la perso
-
-e semble très bouleversée, 
-e la laissez pas seule.
-* Dema
-dez-lui quels so
-t ses besoi
-s. A-t-elle besoi
- d’u
-e couverture, de vêteme
-ts, de soi
-s médicaux ? Établissez avec elle ses besoi
-s les plus importa
-ts et ses priorités du mome
-t.
-* Écoutez-la et aidez-la à se se
-tir calme.
+* Demandez-lui si elle a besoin d’assistance. Éloignez la personne du danger et essayez d’assurer sa sécurité. Si la personne semble très bouleversée, ne la laissez pas seule.
+* Demandez-lui quels sont ses besoins. A-t-elle besoin d’une couverture, de vêtements, de soins médicaux ? Établissez avec elle ses besoins les plus importants et ses priorités du moment.
+* Écoutez-la et aidez-la à se sentir calme.

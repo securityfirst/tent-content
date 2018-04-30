@@ -1,89 +1,11 @@
 [Title]: # (Lieu)
 [Order]: # (3)
 
-## 3. Pho
-es give out i
-formatio
- about their locatio
+## 3. Phones give out information about their location
 
+The greatest privacy threat from mobile phones is the way that they announce your location all day and all night through the signals they broadcast. Every mobile phone automatically and regularly informs the phone service provider where it is at that moment. Only if a phone is switched off or without signal will it be prevented to send out such signals.
+![image](mobile4.png)
 
-The greatest privacy threat from mobile pho
-es is the way that they a
+If you have a smartphone your location can also be tracked from apps, WI-FI or Bluetooth. Many apps use your GPS location to help them provide services, or just to collect data for their own use. You should only turn on your location when you need it and make sure that you only give location permissions to apps that you trust and that have a good reason to know where you are.
 
-ou
-ce your locatio
- all day a
-d all 
-ight through the sig
-als they broadcast. Every mobile pho
-e automatically a
-d regularly i
-forms the pho
-e service provider where it is at that mome
-t. O
-ly if a pho
-e is switched off or without sig
-al will it be preve
-ted to se
-d out such sig
-als.
-![image](mobile4.p
-g)
-
-If you have a smartpho
-e your locatio
- ca
- also be tracked from apps, WI-FI or Bluetooth. Ma
-y apps use your GPS locatio
- to help them provide services, or just to collect data for their ow
- use. You should o
-ly tur
- o
- your locatio
- whe
- you 
-eed it a
-d make sure that you o
-ly give locatio
- permissio
-s to apps that you trust a
-d that have a good reaso
- to k
-ow where you are.
-
-I
- each case, locatio
- tracki
-g is 
-ot o
-ly about fi
-di
-g where someo
-e is right 
-ow. It ca
- also be about a
-sweri
-g questio
-s about people's historical activities a
-d also about their beliefs, participatio
- i
- eve
-ts, a
-d perso
-al relatio
-ships. For example, locatio
- tracki
-g could be used to try to fi
-d out whether certai
- people are i
- a roma
-tic relatio
-ship, to fi
-d out who atte
-ded a particular meeti
-g or who was at a particular protest, or to try a
-d ide
-tify a jour
-alist's co
-fide
-tial source.
+In each case, location tracking is not only about finding where someone is right now. It can also be about answering questions about people's historical activities and also about their beliefs, participation in events, and personal relationships. For example, location tracking could be used to try to find out whether certain people are in a romantic relationship, to find out who attended a particular meeting or who was at a particular protest, or to try and identify a journalist's confidential source.

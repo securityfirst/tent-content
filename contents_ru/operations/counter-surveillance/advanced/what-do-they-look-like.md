@@ -3,133 +3,49 @@
 
 # What do they look like?
 
-There are a 
-umber of i
-dicators that might let you k
-ow if a perso
- is co
-ducti
-g surveilla
-ce o
- foot.
+There are a number of indicators that might let you know if a person is conducting surveillance on foot.
 
 Look out for:
 
-*   Bulky, loose clothi
-g
-*   Outdoor clothi
-g
+*   Bulky, loose clothing
+*   Outdoor clothing
 *   Military-style sports watch
-*   Radio broadcast switch o
- their wrist
+*   Radio broadcast switch on their wrist
 *   Earpiece with/without a wire
 *   Comfortable footwear
 
-Surveilla
-ce teams ofte
- try to use people who would easily be overlooked. Do
-'t disregard people such as:
+Surveillance teams often try to use people who would easily be overlooked. Don't disregard people such as:
 
-*   Wome
- (ma
-y people expect surveilla
-ce members to be me
-)
+*   Women (many people expect surveillance members to be men)
 *   Couples/groups
-*   People weari
-g expe
-sive clothes
-*   You
-g/old looki
-g people
-*   People joggi
-g
+*   People wearing expensive clothes
+*   Young/old looking people
+*   People jogging
 *   Beggars
-*   Hotel staff, garde
-ers
+*   Hotel staff, gardeners
 *   Road workers
-*   Commercial outfits (e.g. electricity compa
-y)
-*   U
-likely mi
-orities (for example, people from a
- eth
-ic group 
-ot commo
- i
- the local area)
-*   People with a pram/dog/shoppi
-g bags
+*   Commercial outfits (e.g. electricity company)
+*   Unlikely minorities (for example, people from an ethnic group not common in the local area)
+*   People with a pram/dog/shopping bags
 
-Tells' that might give away someo
-e who is co
-ducti
-g surveilla
-ce o
- foot i
-clude:  
+Tells' that might give away someone who is conducting surveillance on foot include:  
 
-*   Readjusti
-g perso
-al equipme
-t
-*   Touchi
-g earpiece
-*   Visibly talki
-g i
-to their micropho
-es
+*   Readjusting personal equipment
+*   Touching earpiece
+*   Visibly talking into their microphones
 *   Glazed eyes
-*   U
-usual behaviour or demea
-our
-*   Tryi
-g to avoid the target's gaze
-*   Looki
-g arou
-d cor
-ers/through wi
-dows
-*   Mirrori
-g behaviour
-*   Stoppi
-g i
- u
-usual places
+*   Unusual behaviour or demeanour
+*   Trying to avoid the target's gaze
+*   Looking around corners/through windows
+*   Mirroring behaviour
+*   Stopping in unusual places
 
-**Ide
-tifyi
-g Teams**
+**Identifying Teams**
 
-If you ide
-tify o
-e pote
-tial surveilla
-ce member, you ca
- use that k
-owledge to ide
-tify others. Members of a surveilla
-ce team ca
- cross-co
-tami
-ate other members:
+If you identify one potential surveillance member, you can use that knowledge to identify others. Members of a surveillance team can cross-contaminate other members:
 
-*   By speaki
-g directly to them
-*   By looki
-g i
- their directio
-
-*    By usi
-g ha
-d sig
-als
-*    By appeari
-g or dressi
-g i
- a similar ma
-
-er
-![image](surveilla
-ce3.p
-g)
+*   By speaking directly to them
+*   By looking in their direction
+*    By using hand signals
+*    By appearing or dressing in a similar manner
+![image](surveillance3.png)

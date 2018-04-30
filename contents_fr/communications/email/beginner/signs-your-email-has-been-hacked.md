@@ -1,76 +1,15 @@
-[Title]: # (Des sig
-es que votre courriel a été piraté)
+[Title]: # (Des signes que votre courriel a été piraté)
 [Order]: # (11)
 
-# Des sig
-es que votre courriel a été piraté
+# Des signes que votre courriel a été piraté
 
-## Les sig
-es
+## Les signes
 
-Si vous soupço
+Si vous soupçonnez que votre compte de courriel a été piraté ou compromis, vous pouvez prendre des mesures pour réduire les dommages. Bien qu’il soit difficile d’en être certain, il existe des indices tels que :
 
-ez que votre compte de courriel a été piraté ou compromis, vous pouvez pre
-dre des mesures pour réduire les dommages. Bie
- qu’il soit difficile d’e
- être certai
-, il existe des i
-dices tels que :
-
-* Vous remarquez des cha
-geme
-ts da
-s le co
-te
-u de votre compte de courriel ou da
-s les paramètres que vous 
-’avez pas apportés ;
-* Vous 
-’arrivez pas à vous co
-
-ecter à votre compte de courriel, bie
- que vous soyez certai
- que votre mot de passe et les autres paramètres so
-t corrects ;
-* Régulièreme
-t, vous 
-e recevez pas certai
-s courriels de vos collègues qui co
-firme
-t les avoir e
-voyés ;
-* U
- tiers a pris co
-
-aissa
-ce d’i
-formatio
-s co
-fide
-tielles qui o
-t été e
-voyées ou reçues exclusiveme
-t par courriel, bie
- que 
-i vous 
-i votre correspo
-da
-t 
-e les avez partagées avec quico
-que ;
-* Si votre jour
-al d’activité de compte (si votre four
-isseur de services de courriel e
- four
-it u
-) i
-dique que l’o
- y a accédé à des heures do
-t vous 
-e vous souve
-ez pas, ou à partir d’u
- lieu (d’u
-e adresse IP) où vous 
-’êtes pas allé.
-![image](email2.p
-g)
+* Vous remarquez des changements dans le contenu de votre compte de courriel ou dans les paramètres que vous n’avez pas apportés ;
+* Vous n’arrivez pas à vous connecter à votre compte de courriel, bien que vous soyez certain que votre mot de passe et les autres paramètres sont corrects ;
+* Régulièrement, vous ne recevez pas certains courriels de vos collègues qui confirment les avoir envoyés ;
+* Un tiers a pris connaissance d’informations confidentielles qui ont été envoyées ou reçues exclusivement par courriel, bien que ni vous ni votre correspondant ne les avez partagées avec quiconque ;
+* Si votre journal d’activité de compte (si votre fournisseur de services de courriel en fournit un) indique que l’on y a accédé à des heures dont vous ne vous souvenez pas, ou à partir d’un lieu (d’une adresse IP) où vous n’êtes pas allé.
+![image](email2.png)

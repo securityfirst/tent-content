@@ -1,87 +1,26 @@
-[Title]: # (Why do kid
-appi
-gs occur?)
+[Title]: # (Why do kidnappings occur?)
 [Order]: # (7)
 
-The best defe
-ce agai
-st kid
-appi
-g is havi
-g a
-d practisi
-g a high-quality, well-ma
-aged security ma
-ageme
-t pla
-, which is based o
- a thorough u
-dersta
-di
-g of the ge
-eral co
-text a
-d risks, a
-d o
- the co
-text a
-d threat of kid
-appi
-g specific to your locatio
-. U
-dersta
-di
-g who carries out kid
-appi
-gs, a
-d why, will help shape your avoida
-ce a
-d survival strategies.
+The best defence against kidnapping is having and practising a high-quality, well-managed security management plan, which is based on a thorough understanding of the general context and risks, and on the context and threat of kidnapping specific to your location. Understanding who carries out kidnappings, and why, will help shape your avoidance and survival strategies.
 
-The mai
- reaso
-s for kid
-appi
-gs are:
+The main reasons for kidnappings are:
 
-*   To hold for ra
-som
+*   To hold for ransom
 *   To cause a political effect
 *   To achieve publicity
-*   To be used as huma
- shields
+*   To be used as human shields
 
-The mai
- actors that carry out kid
-appi
-gs are:
+The main actors that carry out kidnappings are:
 
-*   Crimi
-als
+*   Criminals
 *   Political extremists
 *   Terrorists
 *   Militia groups
 *   Regimes that use terror
 
-Factors that may e
-courage kid
-appi
-g:
+Factors that may encourage kidnapping:
 
-*   The state's i
-ability to provide protectio
- from the crime, a
-d prosecute those who e
-gage i
- such activity
-*   A lack of political, legal or military respo
-se will e
-courage more actors to become i
-volved
-*   Media coverage of successful kid
-ap attempts
-*   High fi
-a
-cial rewards from kid
-appi
-g
+*   The state's inability to provide protection from the crime, and prosecute those who engage in such activity
+*   A lack of political, legal or military response will encourage more actors to become involved
+*   Media coverage of successful kidnap attempts
+*   High financial rewards from kidnapping

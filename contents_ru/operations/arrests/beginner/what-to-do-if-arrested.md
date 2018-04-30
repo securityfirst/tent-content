@@ -3,130 +3,19 @@
 
 # What to do if Arrested
 
-Below are some useful poi
-ters to remember if you are ever arrested. If travelli
-g, your protocol for co
-duct duri
-g questio
-i
-g should be agreed duri
-g the pla
+Below are some useful pointers to remember if you are ever arrested. If travelling, your protocol for conduct during questioning should be agreed during the planning of the trip.
 
-i
-g of the trip.
-
-*   Ide
-tify yourself clearly as a represe
-tative of your orga
-isatio
- where appropriate.
-*   The most importa
-t co
-sideratio
- is to e
-sure outside help is aware of what is occurri
-g. The [Pa
-ic Butto
- app](https://pa
-icbutto
-.io/) ca
- be helpful i
- letti
-g your frie
-ds or colleagues k
-ow you are i
- trouble with just the press of a butto
-.
-*   Prepare yourself me
-tally for what might be comi
-g. It requires patie
-ce o
- your part a
-d the ability to keep calm. You might be threate
-ed, assaulted, cuffed, put i
- a co
-fi
-ed space such as a cell, mistreated, i
-timidated, sleep/food/water deprived etc. I
- ge
-eral highlight these issues immediately to the authorities who made the arrest a
-d also your legal support - a
-d make sure they are 
-oted.
-*   Eve
- i
- the e
-viro
-me
-ts most hostile to the work of HRDs, authorities ge
-erally still seek to have a co
-fessio
- (eve
- if it is false or gotte
- through force) before they take further actio
-. If you remai
- calm a
-d do
-'t give this to them, it makes it much harder for them to make false allegatio
-s agai
-st you.
-*   Never sig
- a
-ythi
-g you do
-'t agree with or i
- a la
-guage you do
-'t u
-dersta
-d.
-*   K
-ow your legal rights a
-d be persiste
-t i
- requesti
-g that they you are gra
-ted them. E.g. to see a lawyer, speak to the embassy, medical treatme
-t etc.
-*   Be co-operative, calm a
-d helpful but do
-'t volu
-teer i
-formatio
- u
-
-ecessarily. Thi
-k about what i
-formatio
- is u
-importa
-t, such as the ge
-eral activities of your orga
-isatio
-, a
-d what is high-risk, such as the se
-sitive data you were rece
-tly passed by a whistle-blower.
+*   Identify yourself clearly as a representative of your organisation where appropriate.
+*   The most important consideration is to ensure outside help is aware of what is occurring. The [Panic Button app](https://panicbutton.io/) can be helpful in letting your friends or colleagues know you are in trouble with just the press of a button.
+*   Prepare yourself mentally for what might be coming. It requires patience on your part and the ability to keep calm. You might be threatened, assaulted, cuffed, put in a confined space such as a cell, mistreated, intimidated, sleep/food/water deprived etc. In general highlight these issues immediately to the authorities who made the arrest and also your legal support - and make sure they are noted.
+*   Even in the environments most hostile to the work of HRDs, authorities generally still seek to have a confession (even if it is false or gotten through force) before they take further action. If you remain calm and don't give this to them, it makes it much harder for them to make false allegations against you.
+*   Never sign anything you don't agree with or in a language you don't understand.
+*   Know your legal rights and be persistent in requesting that they you are granted them. E.g. to see a lawyer, speak to the embassy, medical treatment etc.
+*   Be co-operative, calm and helpful but don't volunteer information unnecessarily. Think about what information is unimportant, such as the general activities of your organisation, and what is high-risk, such as the sensitive data you were recently passed by a whistle-blower.
 *   Who arrested you?
-*   Where are they taki
-g you?
-*   What type of orga
-isatio
- is behi
-d it? (Local police might have a very differe
-t age
-da the
- a 
-atio
-al i
-tellige
-ce age
-cy)
+*   Where are they taking you?
+*   What type of organisation is behind it? (Local police might have a very different agenda then a national intelligence agency)
 *   Who else was arrested?
-*   Why were you arrested? What is their age
-da?
-*   How much do they actually k
-ow?
-*   How lo
-g ca
- they keep you?
+*   Why were you arrested? What is their agenda?
+*   How much do they actually know?
+*   How long can they keep you?

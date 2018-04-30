@@ -5,27 +5,12 @@
 
 ### СВЯЗАННЫЕ УРОКИ/ИНСТРУМЕНТЫ
 
-* [Руководство по инструменту Sig
-al](umbrella://lesso
-/sig
-al)
-* [Руководство по инструменту ChatSecure](umbrella://lesso
-/chatsecure)
-* [Руководство по инструменту Pidgi
-](umbrella://lesso
-/pidgi
-)
-* [Руководство по инструменту Adium](umbrella://lesso
-/adium)
+* [Руководство по инструменту Signal](umbrella://lesson/signal)
+* [Руководство по инструменту ChatSecure](umbrella://lesson/chatsecure)
+* [Руководство по инструменту Pidgin](umbrella://lesson/pidgin)
+* [Руководство по инструменту Adium](umbrella://lesson/adium)
 
 ### ЧИТАТЬ ДАЛЬШЕ
 
-* [EFF - связь с другими](https://ssd.eff.org/e
-/module/commu
-icati
-g-others)
-* [Безопасность в ящике - Руководство по безопасной передаче информации](https://securityi
-abox.org/e
-/guide/secure-commu
-icatio
-)
+* [EFF - связь с другими](https://ssd.eff.org/en/module/communicating-others)
+* [Безопасность в ящике - Руководство по безопасной передаче информации](https://securityinabox.org/en/guide/secure-communication)

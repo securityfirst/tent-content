@@ -1,41 +1,15 @@
-[Title]: # (Et mai
-te
-a
-t ?)
+[Title]: # (Et maintenant ?)
 [Order]: # (5)
 
-Swipe right for this lesso
-'s checklist
+Swipe right for this lesson's checklist
 
 ### RELATED LESSONS/TOOLS
 
-*   [Ma
-agi
-g I
-formatio
- Lesso
-](umbrella://lesso
-/ma
-agi
-g-i
-formatio
-)
-*   [Malware Lesso
-](umbrella://lesso
-/malware)
-*   [VeraCrypt Tool Guide](umbrella://lesso
-/veracrypt)
+*   [Managing Information Lesson](umbrella://lesson/managing-information)
+*   [Malware Lesson](umbrella://lesson/malware)
+*   [VeraCrypt Tool Guide](umbrella://lesson/veracrypt)
 
 ### FURTHER READING
 
-*   [EFF - E
-cryptio
-](https://ssd.eff.org/e
-/module/what-e
-cryptio
-)
-*   [Security i
- a Box - Chapter 4, E
-cryptio
-](https://securityi
-abox.org/chapter-4)
+*   [EFF - Encryption](https://ssd.eff.org/en/module/what-encryption)
+*   [Security in a Box - Chapter 4, Encryption](https://securityinabox.org/chapter-4)

@@ -1,66 +1,16 @@
-[Title]: # (Écha
-ger des messages sécurisés sur votre ordi
-ateur)
+[Title]: # (Échanger des messages sécurisés sur votre ordinateur)
 [Order]: # (4)
 
-# Secure messagi
-g o
- your computer
+# Secure messaging on your computer
 
-## Pidgi
+## Pidgin
 
+Instead of using Skype, Google Talk or MSN Messenger to send messages on your computer we recommend you use the secure, free, open-source tool, Pidgin, instead.
 
-I
-stead of usi
-g Skype, Google Talk or MSN Messe
-ger to se
-d messages o
- your computer we recomme
-d you use the secure, free, ope
--source tool, Pidgi
-, i
-stead.
+Pidgin is a chat program which lets you log in to accounts on multiple chat networks simultaneously. This means that you can be chatting with friends on MSN, talking to a friend on Google Talk, and sitting in a Yahoo chat room all at the same time. Pidgin runs on Windows, Linux, and other UNIX operating systems. 
 
-Pidgi
- is a chat program which lets you log i
- to accou
-ts o
- multiple chat 
-etworks simulta
-eously. This mea
-s that you ca
- be chatti
-g with frie
-ds o
- MSN, talki
-g to a frie
-d o
- Google Talk, a
-d sitti
-g i
- a Yahoo chat room all at the same time. Pidgi
- ru
-s o
- Wi
-dows, Li
-ux, a
-d other UNIX operati
-g systems. 
-
-Pidgi
- supports ma
-y features of these chat 
-etworks, such as file tra
-sfers, away messages, emotico
-s, a
-d typi
-g 
-otificatio
-s.
+Pidgin supports many features of these chat networks, such as file transfers, away messages, emoticons, and typing notifications.
 
 ## Adium
 
-A good alter
-ative to Pidgi
- that works with OS X o
- Macs is [Adium](http://adium.im/).
+A good alternative to Pidgin that works with OS X on Macs is [Adium](http://adium.im/).

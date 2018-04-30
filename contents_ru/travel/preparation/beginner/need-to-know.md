@@ -1,48 +1,11 @@
 [Title]: # (Надо знать)
 [Order]: # (6)
 
-*   Discuss who 
-eeds to have adva
-ce k
-owledge of your trip - mi
-imisi
-g the 
-umber of people who k
-ow about your prese
-ce is a good way to i
-crease your security. This 
-eeds to be bala
-ced with operatio
-al practicalities a
-d the ability to complete the assig
-me
-t.
-*   Trip pla
-s
-*   Moveme
-ts, patter
-s, lifestyle
-*   Travel modes, iti
-eraries, professio
-al arra
-geme
-ts
-*   Security arra
-geme
-ts & procedures
-*   Your orga
-isatio
-'s duties, associates a
-d colleague
+*   Discuss who needs to have advance knowledge of your trip - minimising the number of people who know about your presence is a good way to increase your security. This needs to be balanced with operational practicalities and the ability to complete the assignment.
+*   Trip plans
+*   Movements, patterns, lifestyle
+*   Travel modes, itineraries, professional arrangements
+*   Security arrangements & procedures
+*   Your organisation's duties, associates and colleague
 
-For more advice, see the [Ma
-agi
-g I
-formatio
- lesso
-](umbrella://lesso
-/ma
-agi
-g-i
-formatio
-).
+For more advice, see the [Managing Information lesson](umbrella://lesson/managing-information).

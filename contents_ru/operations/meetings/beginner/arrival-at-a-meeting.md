@@ -1,75 +1,12 @@
 [Title]: # (Прибытие на встречу)
 [Order]: # (3)
 
-# Arrival at a Meeti
-g
+# Arrival at a Meeting
 
-If possible you should remove batteries from pho
-es before travelli
-g to the meeti
-g locatio
-, so as to avoid remote tracki
-g. (See the [Mobile pho
-es lesso
-](umbrella://lesso
-/mobile-pho
-es) for more advice o
- mitigati
-g the risks of pho
-es)
+If possible you should remove batteries from phones before travelling to the meeting location, so as to avoid remote tracking. (See the [Mobile phones lesson](umbrella://lesson/mobile-phones) for more advice on mitigating the risks of phones)
 
-Ideally all parties would co
-duct cou
-ter-surveilla
-ce whe
- travelli
-g to the meeti
-g. See the [Cou
-ter-Surveilla
-ce](umbrella://lesso
-/cou
-ter-surveilla
-ce/0) lesso
- for advice o
- how to do this. If the perso
- you are meeti
-g is 
-ot trai
-ed i
- this, a
-d you are u
-sure of their security, o
-e of your colleagues may be able to check whether your co
-tact has bee
- followed. You should e
-sure you are clear before you arrive. If possible you should arrive first a
-d check the area is clear - check the toilets, emerge
-cy exits a
-d likely approaches.
+Ideally all parties would conduct counter-surveillance when travelling to the meeting. See the [Counter-Surveillance](umbrella://lesson/counter-surveillance/0) lesson for advice on how to do this. If the person you are meeting is not trained in this, and you are unsure of their security, one of your colleagues may be able to check whether your contact has been followed. You should ensure you are clear before you arrive. If possible you should arrive first and check the area is clear - check the toilets, emergency exits and likely approaches.
 
-Try to sit where you ca
- observe the whole locatio
- but still have your back to a wall a
-d be close to/ have a clear path to a
- escape route. If you have a seco
-d colleague available who is 
-ot 
-eeded i
- the meeti
-g, they ca
- take a seat 
-earby with a clear view of you a
-d exits.
+Try to sit where you can observe the whole location but still have your back to a wall and be close to/ have a clear path to an escape route. If you have a second colleague available who is not needed in the meeting, they can take a seat nearby with a clear view of you and exits.
 
-Do 
-ot commit to stayi
-g somewhere by buyi
-g somethi
-g u
-til you are sure you are clear - You might attract suspicio
- leavi
-g otherwise. Agree a subtle a
-d simple sig
-al to alert your colleague if you feel somethi
-g is wro
-g.
+Do not commit to staying somewhere by buying something until you are sure you are clear - You might attract suspicion leaving otherwise. Agree a subtle and simple signal to alert your colleague if you feel something is wrong.

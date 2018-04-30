@@ -1,70 +1,16 @@
 [Title]: # (Что теперь?)
 [Order]: # (4)
 
-Swipe right for this lesso
-'s checklist
+Swipe right for this lesson's checklist
 
 ### RELATED LESSONS/TOOLS
 
-*   [Preparatio
- lesso
-](umbrella://lesso
-/preparatio
-)
-*   [Protecti
-g Files lesso
-](umbrella://lesso
-/protecti
-g-files)
-*   [Backi
-g Up lesso
-](umbrella://lesso
-/backi
-g-up)
+*   [Preparation lesson](umbrella://lesson/preparation)
+*   [Protecting Files lesson](umbrella://lesson/protecting-files)
+*   [Backing Up lesson](umbrella://lesson/backing-up)
 
 ### FURTHER READING
 
-*   [Good Practice Review Number 8: Operatio
-al security ma
-ageme
-t i
- viole
-t e
-viro
-me
-ts (Revised Ed.)](http://odihp
-.org/wp-co
-te
-t/uploads/2010/11/GPR_8_revised2.pdf)
-*   [ECHO Ge
-eric Security Guide for Huma
-itaria
- Orga
-isatio
-s](http://ec.europa.eu/echo/files/evaluatio
-/watsa
-2005/a
-
-ex_files/ECHO/ECHO12%20-%20echo_ge
-eric_security_guide_e
-.doc)
-*   [Protectio
- I
-ter
-atio
-al: New Protectio
- Ma
-ual for Huma
- Rights Defe
-ders (3rd Ed.)](http://protectio
-i
-ter
-atio
-al.org/publicatio
-/
-ew-protectio
--ma
-ual-for-huma
--rights-defe
-ders-3rd-editio
-/)
+*   [Good Practice Review Number 8: Operational security management in violent environments (Revised Ed.)](http://odihpn.org/wp-content/uploads/2010/11/GPR_8_revised2.pdf)
+*   [ECHO Generic Security Guide for Humanitarian Organisations](http://ec.europa.eu/echo/files/evaluation/watsan2005/annex_files/ECHO/ECHO12%20-%20echo_generic_security_guide_en.doc)
+*   [Protection International: New Protection Manual for Human Rights Defenders (3rd Ed.)](http://protectioninternational.org/publication/new-protection-manual-for-human-rights-defenders-3rd-edition/)

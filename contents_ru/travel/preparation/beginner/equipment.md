@@ -1,32 +1,14 @@
 [Title]: # (Оборудование)
 [Order]: # (5)
 
-*   E
-sure adequate cash or other payme
-t tools for the trip.
+*   Ensure adequate cash or other payment tools for the trip.
 *   Travel lock
 *   Computer lock
 *   Door wedge
 *   Tamper-proof scotch tape
 *   Mobile Wi-Fi device
 *   Solar charger
-*   Cheap 
-otebook from which you ca
- rip out pages u
+*   Cheap notebook from which you can rip out pages unnoticed
+*   Mosquito net/ repellent etc.
 
-oticed
-*   Mosquito 
-et/ repelle
-t etc.
-
-E
-sure a
-y digital equipme
-t you take with you - pho
-e, computer - is wiped 'clea
-'. For more advice o
- how to do this see the [Protecti
-g Files lesso
-](umbrella://lesso
-/protecti
-g-files/1).
+Ensure any digital equipment you take with you - phone, computer - is wiped 'clean'. For more advice on how to do this see the [Protecting Files lesson](umbrella://lesson/protecting-files/1).

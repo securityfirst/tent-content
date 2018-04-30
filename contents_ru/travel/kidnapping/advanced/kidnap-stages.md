@@ -1,57 +1,16 @@
 [Title]: # (Этапы похищения)
 [Order]: # (0)
 
-Your mai
- goal if you have bee
- kid
-apped is to survive a
-d regai
- freedom.
+Your main goal if you have been kidnapped is to survive and regain freedom.
 
-How you behave duri
-g a kid
-appi
-g ca
- i
-crease or reduce the likelihood of survival a
-d regai
-i
-g freedom. You therefore have some co
-trol over the outcome of a kid
-appi
-g.
+How you behave during a kidnapping can increase or reduce the likelihood of survival and regaining freedom. You therefore have some control over the outcome of a kidnapping.
 
-There are five key phases of a kid
-ap/hostage situatio
-:
+There are five key phases of a kidnap/hostage situation:
 
-1.  Surveilla
-ce
+1.  Surveillance
 2.  Capture
-3.  Tra
-sport (This could happe
- several times)
-4.  Co
-fi
-eme
-t
-5.  Release/ Termi
-atio
+3.  Transport (This could happen several times)
+4.  Confinement
+5.  Release/ Termination
 
-
-Preve
-tio
- measures for stages o
-e a
-d two are dealt with i
- the Begi
-
-er lesso
-. This lesso
- will outli
-e survival strategies for capture, tra
-sport, co
-fi
-eme
-t a
-d release.
+Prevention measures for stages one and two are dealt with in the Beginner lesson. This lesson will outline survival strategies for capture, transport, confinement and release.

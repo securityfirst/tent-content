@@ -1,43 +1,9 @@
 [Title]: # (Анонимность в сети)
 [Order]: # (0)
 
-# A
-o
-ymity O
-li
-e
+# Anonymity Online
 
-Accessi
-g i
-formatio
- o
- the I
-ter
-et, or publishi
-g material o
-li
-e such as photos or videos, leaves ma
-y traces of who a
-d where you are a
-d what you are doi
-g. This may put you at risk. You ca
- reduce your risks through the use of a
-o
-ymisi
-g tools such as Tor.
-![image](i
-ter
-eta1.p
-g)
+Accessing information on the Internet, or publishing material online such as photos or videos, leaves many traces of who and where you are and what you are doing. This may put you at risk. You can reduce your risks through the use of anonymising tools such as Tor.
+![image](interneta1.png)
 
-**Remember, these tools ca
- o
-ly protect your a
-o
-ymity if you do 
-ot log i
- to sites or post somethi
-g o
-li
-e that could ide
-tify you!**
+**Remember, these tools can only protect your anonymity if you do not log in to sites or post something online that could identify you!**

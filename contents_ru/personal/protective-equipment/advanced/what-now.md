@@ -1,31 +1,14 @@
 [Title]: # (Что теперь?)
 [Order]: # (4)
 
-Swipe right for this lesso
-'s checklist
+Swipe right for this lesson's checklist
 
-Go to the Begi
-
-er lesso
- for advice o
- what to pack i
- a grab bag.[Go to Begi
-
-er Lesso
-](umbrella://lesso
-/protective-equipme
-t/0)
+Go to the Beginner lesson for advice on what to pack in a grab bag.[Go to Beginner Lesson](umbrella://lesson/protective-equipment/0)
 
 ### RELATED LESSONS/TOOLS
 
-*   [Checkpoi
-ts lesso
-](umbrella://lesso
-/checkpoi
-ts/0)
+*   [Checkpoints lesson](umbrella://lesson/checkpoints/0)
 
 ### FURTHER READINGS
 
-*   [Committee to Protect Jour
-alists)](https://cpj.org/reports/2012/04/armed-co
-flict.php)
+*   [Committee to Protect Journalists)](https://cpj.org/reports/2012/04/armed-conflict.php)

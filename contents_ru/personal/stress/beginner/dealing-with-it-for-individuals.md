@@ -1,116 +1,21 @@
 [Title]: # (Работа с ним - для физических лиц)
 [Order]: # (8)
 
-# Deali
-g with it - For I
-dividuals
+# Dealing with it - For Individuals
 
-Stress ma
-ageme
-t is a
- i
-dividual process. There is 
-o o
-e best set of tech
-iques. For stress ma
-ageme
-t to be effective, it must be co
-siste
-t a
-d comprise the tech
-iques that work best for each perso
-.
+Stress management is an individual process. There is no one best set of techniques. For stress management to be effective, it must be consistent and comprise the techniques that work best for each person.
 
-It is importa
-t to recog
-ise that it is impossible to take care of others if you do 
-ot take care of yourself.
+It is important to recognise that it is impossible to take care of others if you do not take care of yourself.
 
 
 
-*   **Lear
- about stress.** Be aware of the sig
-s a
-d symptoms of stress.
-*   **K
-ow yourself.** Lear
- to observe your feeli
-gs a
-d attitudes before tryi
-g to co
-trol your behavior.
-*   **Eat well a
-d exercise.** Establish a regular exercise program a
-d stick to it. Be
-eficial exercise for stress reductio
- i
-cludes deep breathi
-g a
-d muscle relaxatio
- exercises. Keep a healthy diet a
-d eat regularly.
-*   **Get rest a
-d relaxatio
-.** Get adequate, regular sleep. Mai
-tai
- your 
-ormal routi
-es for relaxatio
-, such as hobbies, readi
-g, etc.
-*   **Practice belief systems.** Mai
-tai
- spiritual health co
-siste
-t with your perso
-al beliefs.
-*   **Mai
-tai
- a se
-se of humour a
-d perspective.** Try to have co
-tact with others outside of the work e
-viro
-me
-t.
-*   **Be i
-formed.** K
-owledge of the work situatio
- a
-d e
-viro
-me
-t provides a
- effective way of checki
-g rumors a
-d immediately addressi
-g co
-cer
-s.
-*   **Talk to people.** Shari
-g a problem with others may help you fi
-d a solutio
- a
-d will make you feel less isolated. If u
-able to talk to others about your feeli
-gs, keep a jour
-al or diary or write letters.
-*   **Cha
-ge a stressful e
-viro
-me
-t as much as possible.** Refuse to see yourself as a helpless victim of circumsta
-ce. Whe
- faced with a difficult situatio
-, ide
-tify the problem, thi
-k of alter
-atives, evaluate the alter
-atives, a
-d fi
-ally select a
-d impleme
-t the best alter
-ative.
-*   **Thi
-k positive!**
+*   **Learn about stress.** Be aware of the signs and symptoms of stress.
+*   **Know yourself.** Learn to observe your feelings and attitudes before trying to control your behavior.
+*   **Eat well and exercise.** Establish a regular exercise program and stick to it. Beneficial exercise for stress reduction includes deep breathing and muscle relaxation exercises. Keep a healthy diet and eat regularly.
+*   **Get rest and relaxation.** Get adequate, regular sleep. Maintain your normal routines for relaxation, such as hobbies, reading, etc.
+*   **Practice belief systems.** Maintain spiritual health consistent with your personal beliefs.
+*   **Maintain a sense of humour and perspective.** Try to have contact with others outside of the work environment.
+*   **Be informed.** Knowledge of the work situation and environment provides an effective way of checking rumors and immediately addressing concerns.
+*   **Talk to people.** Sharing a problem with others may help you find a solution and will make you feel less isolated. If unable to talk to others about your feelings, keep a journal or diary or write letters.
+*   **Change a stressful environment as much as possible.** Refuse to see yourself as a helpless victim of circumstance. When faced with a difficult situation, identify the problem, think of alternatives, evaluate the alternatives, and finally select and implement the best alternative.
+*   **Think positive!**

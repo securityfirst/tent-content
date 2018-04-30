@@ -3,22 +3,13 @@
 
 Проведите вправо для получения списка тем этого урока
 
-Перейдите на урок для начинающих за советом по использованию радиотелефонов.[К уроку для начинающих](umbrella://lesso
-/radios-a
-d-satellite-pho
-es/0)
+Перейдите на урок для начинающих за советом по использованию радиотелефонов.[К уроку для начинающих](umbrella://lesson/radios-and-satellite-phones/0)
 
 ### СВЯЗАННЫЕ УРОКИ/ИНСТРУМЕНТЫ
 
-* [Совершение вызовов](umbrella://lesso
-/maki
-g-call)
+* [Совершение вызовов](umbrella://lesson/making-call)
 
 ### ЧИТАТЬ ДАЛЬШЕ
 
-* [Комитет по защите журналистов](https://cpj.org/reports/2012/04/armed-co
-flict.php#6)
-* [Новости малого мира](smallworld
-ews.tv/Guide/Guide_SatPho
-e_E
-glish.pdf)
+* [Комитет по защите журналистов](https://cpj.org/reports/2012/04/armed-conflict.php#6)
+* [Новости малого мира](smallworldnews.tv/Guide/Guide_SatPhone_English.pdf)

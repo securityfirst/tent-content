@@ -1,47 +1,18 @@
-[Title]: # (Et mai
-te
-a
-t ?)
+[Title]: # (Et maintenant ?)
 [Order]: # (10)
 
-Swipe right for this lesso
-'s checklist
+Swipe right for this lesson's checklist
 
 ### RELATED LESSONS/TOOLS
 
-*   [Password lesso
-](umbrella://lesso
-/passwords)
-*   [How to opt-out of Facebook's data broker relatio
-ships](umbrella://lesso
-/facebook)
-*   [How to opt-out of Twitter's data broker relatio
-ships](umbrella://lesso
-/facebook)
-*   [How to cha
-ge your Facebook privacy setti
-gs](https://www.eff.org/deepli
-ks/2013/01/how-protect-your-privacy-facebooks-graph-search)
-*   [ObscuraCam](umbrella://lesso
-/obscuracam)
-*   [Se
-di
-g a Message lesso
-](umbrella://lesso
-/se
-di
-g-message)
-*   [Pidgi
- tool guide](umbrella://lesso
-/pidgi
-)
+*   [Password lesson](umbrella://lesson/passwords)
+*   [How to opt-out of Facebook's data broker relationships](umbrella://lesson/facebook)
+*   [How to opt-out of Twitter's data broker relationships](umbrella://lesson/facebook)
+*   [How to change your Facebook privacy settings](https://www.eff.org/deeplinks/2013/01/how-protect-your-privacy-facebooks-graph-search)
+*   [ObscuraCam](umbrella://lesson/obscuracam)
+*   [Sending a Message lesson](umbrella://lesson/sending-message)
+*   [Pidgin tool guide](umbrella://lesson/pidgin)
 
 ### FURTHER READING
 
-*   [Security i
- a Box - Social 
-etworki
-g tools](https://securityi
-abox.org/social_
-etworki
-g_tools)
+*   [Security in a Box - Social networking tools](https://securityinabox.org/social_networking_tools)

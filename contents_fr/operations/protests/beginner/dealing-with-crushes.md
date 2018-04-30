@@ -1,72 +1,12 @@
-[Title]: # (Faire face aux écraseme
-ts)
+[Title]: # (Faire face aux écrasements)
 [Order]: # (7)
 
-# Deali
-g with Crushes
+# Dealing with Crushes
 
-Crushi
-g i
- crowds or police charges ca
- be da
-gerous eve
- as a bysta
-der. You ca
- mitigate the da
-ger by taki
-g the followi
-g precautio
-s:
+Crushing in crowds or police charges can be dangerous even as a bystander. You can mitigate the danger by taking the following precautions:
 
-*   E
-sure there are good worki
-g commu
-icatio
- cha
-
-els betwee
- the team a
-d everybody's locatio
- is k
-ow
- at all times.
-*   U
-less specifically pla
-
-ed to cover from amo
-gst crowd, retreat to a safe va
-tage poi
-t, e.g. a
- upstairs wi
-dow of a 
-earby buildi
-g with permissio
- of the ow
-er.
-*   Park vehicles i
- accessible locatio
-, positio
-ed for easy departure. Pla
- positio
-s i
-cludi
-g emerge
-cy escape routes & fallback pla
-s.
-*   Take seco
-d perso
- a
-d stay alert to cha
-ges i
- situatio
- - leave if crowd behaviour becomes u
-predictable.
-*   Wear clothi
-g & footwear that will e
-able easy moveme
-t arou
-d a
-y debris. Do 
-ot wear high heels or sa
-dals / ope
- toed shoes.
+*   Ensure there are good working communication channels between the team and everybody's location is known at all times.
+*   Unless specifically planned to cover from amongst crowd, retreat to a safe vantage point, e.g. an upstairs window of a nearby building with permission of the owner.
+*   Park vehicles in accessible location, positioned for easy departure. Plan positions including emergency escape routes & fallback plans.
+*   Take second person and stay alert to changes in situation - leave if crowd behaviour becomes unpredictable.
+*   Wear clothing & footwear that will enable easy movement around any debris. Do not wear high heels or sandals / open toed shoes.

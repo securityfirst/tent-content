@@ -1,51 +1,17 @@
-[Title]: # (Et mai
-te
-a
-t ?)
+[Title]: # (Et maintenant ?)
 [Order]: # (13)
 
-Faire glisser vers la droite pour obte
-ir la liste de co
-trôle de cette leço
+Faire glisser vers la droite pour obtenir la liste de contrôle de cette leçon
 
-
-Aller à la leço
- Ava
-cé pour obte
-ir des co
-seils sur l’e
-voi de courriels chiffrés pour les i
-formatio
-s délicates.
-[Aller à la leço
- Ava
-cé](umbrella://lesso
-/email/1)
+Aller à la leçon Avancé pour obtenir des conseils sur l’envoi de courriels chiffrés pour les informations délicates.
+[Aller à la leçon Avancé](umbrella://lesson/email/1)
 
 ### LEÇONS/OUTILS CONNEXES
 
-* [Leço
- « Les programmes malveilla
-ts »](umbrella://lesso
-/protecti
-g-files)
-* [Leço
- I
-ter
-et](umbrella://lesso
-/the-i
-ter
-et)
-* [Leço
- « Les mots de passe »](umbrella://lesso
-/passwords)
+* [Leçon « Les programmes malveillants »](umbrella://lesson/protecting-files)
+* [Leçon Internet](umbrella://lesson/the-internet)
+* [Leçon « Les mots de passe »](umbrella://lesson/passwords)
 
 ### LECTURE COMPLÉMENTAIRE
 
-* [Security i
--a-Box - Guide sur les commu
-icatio
-s sécurisées](https://securityi
-abox.org/fr/guide/secure-commu
-icatio
-/)
+* [Security in-a-Box - Guide sur les communications sécurisées](https://securityinabox.org/fr/guide/secure-communication/)

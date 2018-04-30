@@ -1,56 +1,8 @@
-[Title]: # (Les micrologiciels de remplaceme
-t)
+[Title]: # (Les micrologiciels de remplacement)
 [Order]: # (10)
 
-# Alter
-ative Firmware
+# Alternative Firmware
 
-Rooti
-g your pho
-e will allow you to i
-stall alter
-ative firmware, however it may i
-crease other risks.
+Rooting your phone will allow you to install alternative firmware, however it may increase other risks.
 
-A
- example of a
- alter
-ative firmware for some A
-droid pho
-es is [Li
-eage OS](https://www.li
-eageos.org/) or [Copperhead OS](https://copperhead.co) which allow greater co
-trol over your pho
-e. For example they make it easier to u
-i
-stall applicatio
-s from the system level of your pho
-e. By doi
-g so, you ca
- reduce the 
-umber of ways i
- which your device ca
- be mo
-itored, such as data that is se
-t to your service provider without your k
-owledge. This sort of alter
-ative firmware i
-cludes features such as the automatic co
-cealme
-t of your locatio
- whe
- o
-li
-e by usi
-g a Virtual Private Network as default, a
-d automatic i
-cog
-ito browsi
-g mea
-i
-g history of your commu
-icatio
- is 
-ot recorded o
- your smartpho
-e.
+An example of an alternative firmware for some Android phones is [Lineage OS](https://www.lineageos.org/) or [Copperhead OS](https://copperhead.co) which allow greater control over your phone. For example they make it easier to uninstall applications from the system level of your phone. By doing so, you can reduce the number of ways in which your device can be monitored, such as data that is sent to your service provider without your knowledge. This sort of alternative firmware includes features such as the automatic concealment of your location when online by using a Virtual Private Network as default, and automatic incognito browsing meaning history of your communication is not recorded on your smartphone.

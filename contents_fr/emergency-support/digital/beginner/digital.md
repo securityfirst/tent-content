@@ -1,135 +1,43 @@
 [Title]: # (Numérique)
 [Order]: # (0)
 
-### If you are havi
-g a digital security emerge
-cy, the followi
-g are useful resources.
+### If you are having a digital security emergency, the following are useful resources.
 
 # IMMEDIATE SUPPORT
 
- Normally available for support withi
- the first 24 hours
+ Normally available for support within the first 24 hours
 
 ## Digital Security First Aid Kit
 
 **Where:** Global  
 
-**Type of Threat:** Digital security i
-cide
-ts, website/social media breaches, seized devices, DDoS mitigatio
-, malware  
-**Accept Urge
-t Appeals?** No 
+**Type of Threat:** Digital security incidents, website/social media breaches, seized devices, DDoS mitigation, malware  
+**Accept Urgent Appeals?** No 
 
-**Descriptio
-:** The Digital First Aid Kit aims to provide prelimi
-ary support for people faci
-g the most commo
- types of digital threats. The Kit offers a set of self-diag
-ostic tools for huma
- rights defe
-ders, bloggers, activists a
-d jour
-alists faci
-g attacks themselves, as well as providi
-g guideli
-es for digital first respo
-ders to assist a perso
- u
-der threat.  
+**Description:** The Digital First Aid Kit aims to provide preliminary support for people facing the most common types of digital threats. The Kit offers a set of self-diagnostic tools for human rights defenders, bloggers, activists and journalists facing attacks themselves, as well as providing guidelines for digital first responders to assist a person under threat.  
 
-**Web site:** [https://digitaldefe
-ders.org/digitalfirstaid/](https://digitaldefe
-ders.org/digitalfirstaid/)
+**Web site:** [https://digitaldefenders.org/digitalfirstaid/](https://digitaldefenders.org/digitalfirstaid/)
 
-## Digital Security Helpli
-e
+## Digital Security Helpline
 
 **Where:** Global  
-**Type of Threat:** Digital security i
-cide
-ts, website/social media breaches  
-**Accept Urge
-t Appeals?** No  
+**Type of Threat:** Digital security incidents, website/social media breaches  
+**Accept Urgent Appeals?** No  
 
-**Descriptio
-:** The Digital Security Helpli
-e is a free of charge resource for civil society arou
-d the world. It is ru
- by the i
-ter
-atio
-al huma
- rights orga
-izatio
- Access. It provides rapid respo
-se o
- digital security i
-cide
-ts, tool recomme
-datio
-s a
-d support for securi
-g tech
-ical i
-frastructure, websites a
-d social media agai
-st attacks.  
+**Description:** The Digital Security Helpline is a free of charge resource for civil society around the world. It is run by the international human rights organization Access. It provides rapid response on digital security incidents, tool recommendations and support for securing technical infrastructure, websites and social media against attacks.  
 
-**Web site:** [https://www.access
-ow.org)](https://www.access
-ow.org)   
-**Email:** help@access
-ow.org
+**Web site:** [https://www.accessnow.org)](https://www.accessnow.org)   
+**Email:** help@accessnow.org
 
-## Tactical Tech
-ology Collective
+## Tactical Technology Collective
 
 **Where:** Global  
-**Type of Threat:** Digital a
-d i
-formatio
- security tools a
-d ma
-uals  
-**Accept Urge
-t Appeals?** No  
+**Type of Threat:** Digital and information security tools and manuals  
+**Accept Urgent Appeals?** No  
 
-**Descriptio
-:** They have three focal areas: u
-dersta
-di
-g & shapi
-g issues; digital security a
-d privacy; a
-d data politics. They work to raise aware
-ess, build practical skills a
-d offer both critical reflectio
- a
-d i
-spiratio
- i
- all of these areas. Through trai
-i
-gs a
-d workshops they provide direct support to over 2000 advocates a year, either through i
-te
-sive trai
-i
-g i
- small groups, or through 'flash trai
-i
-gs' or cli
-ics at large-scale gatheri
-gs a
-d co
-fere
-ces.  
+**Description:** They have three focal areas: understanding & shaping issues; digital security and privacy; and data politics. They work to raise awareness, build practical skills and offer both critical reflection and inspiration in all of these areas. Through trainings and workshops they provide direct support to over 2000 advocates a year, either through intensive training in small groups, or through 'flash trainings' or clinics at large-scale gatherings and conferences.  
 
 **Web site:** [https://tacticaltech.org)](https://tacticaltech.org)  
 **Email:** ttc@tacticaltech.org  
-Berli
-, Tel: (+49) (0) 30 41 71 53 33  
-Ba
-galore, Tel: (+ 91) (0)80 4153 1129
+Berlin, Tel: (+49) (0) 30 41 71 53 33  
+Bangalore, Tel: (+ 91) (0)80 4153 1129

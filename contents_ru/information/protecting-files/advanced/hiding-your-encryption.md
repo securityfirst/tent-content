@@ -1,40 +1,9 @@
 [Title]: # (Скрытие вашего шифрования)
 [Order]: # (3)
 
-# Hidi
-g your e
-cryptio
+# Hiding your encryption
 
+If you are concerned about encryption software being found on your computer regardless of what's in it, there are a few tricks to help disguise VeraCrypt.
 
-If you are co
-cer
-ed about e
-cryptio
- software bei
-g fou
-d o
- your computer regardless of what's i
- it, there are a few tricks to help disguise VeraCrypt.
-
-*   You ca
- re
-ame your e
-crypted volume to look like a differe
-t type of file. Usi
-g the '.iso' file exte
-sio
-, to disguise it as a CD image, is o
-e optio
- that works well for large volumes of arou
-d 700 MB. Other exte
-sio
-s would be more realistic for smaller volumes.
-*   You ca
- also re
-ame the VeraCrypt program itself, assumi
-g you have stored it as you would a regular file, rather tha
- i
-stalli
-g it as a program. The [VeraCrypt Guide](umbrella://lesso
-/veracrypt) explai
-s how to do this.
+*   You can rename your encrypted volume to look like a different type of file. Using the '.iso' file extension, to disguise it as a CD image, is one option that works well for large volumes of around 700 MB. Other extensions would be more realistic for smaller volumes.
+*   You can also rename the VeraCrypt program itself, assuming you have stored it as you would a regular file, rather than installing it as a program. The [VeraCrypt Guide](umbrella://lesson/veracrypt) explains how to do this.

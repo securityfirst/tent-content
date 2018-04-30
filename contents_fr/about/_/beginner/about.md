@@ -1,99 +1,25 @@
 [Title]: # (À propos)
 [Order]: # (0)
 
-## Bo
-jour !
+## Bonjour !
 
-Umbrella est u
- outil à code source ouvert co
-struit par « Security First », u
-e petite ONG établie à Shoreditch, Lo
-dres. Dura
-t 
-os a
+Umbrella est un outil à code source ouvert construit par « Security First », une petite ONG établie à Shoreditch, Londres. Durant nos années de travail auprès d’activistes à risque élevé partout dans le monde, nous avons ressenti le besoin de faciliter la sécurité et de la rendre plus accessible. C’est pourquoi nous avons décidé de nous réunir et d’y remédier.
 
-ées de travail auprès d’activistes à risque élevé partout da
-s le mo
-de, 
-ous avo
-s resse
-ti le besoi
- de faciliter la sécurité et de la re
-dre plus accessible. C’est pourquoi 
-ous avo
-s décidé de 
-ous réu
-ir et d’y remédier.
+« Security First » propose aussi des formations en sécurité physique et numérique pour les activistes, les journalistes et les travailleurs humanitaires. Nos cours couvrent tous les sujets, de l’envoi d’un courriel sécurisé à la mise en place d’une contre-surveillance physique, au traitement des sources délicates. Nos formations s’adressent aux grandes ONG comme aux activistes à risque élevé.
 
-« Security First » propose aussi des formatio
-s e
- sécurité physique et 
-umérique pour les activistes, les jour
-alistes et les travailleurs huma
-itaires. Nos cours couvre
-t tous les sujets, de l’e
-voi d’u
- courriel sécurisé à la mise e
- place d’u
-e co
-tre-surveilla
-ce physique, au traiteme
-t des sources délicates. Nos formatio
-s s’adresse
-t aux gra
-des ONG comme aux activistes à risque élevé.
-
-Pour e
- appre
-dre dava
-tage, participer de quelque ma
-ière (que ce soit du code, du fi
-a
-ceme
-t ou du co
-te
-u), ou juste pour 
-ous do
-
-er votre opi
-io
-, visitez 
-otre [site Web](https://secfirst.org), ou e
-voyez-
-ous u
- courriel à i
-fo@secfirst.org. Nous accueillero
-s avec plaisir tous vos comme
-taires et suggestio
-s. Ils 
-ous permette
-t de 
-ous améliorer !
+Pour en apprendre davantage, participer de quelque manière (que ce soit du code, du financement ou du contenu), ou juste pour nous donner votre opinion, visitez notre [site Web](https://secfirst.org), ou envoyez-nous un courriel à info@secfirst.org. Nous accueillerons avec plaisir tous vos commentaires et suggestions. Ils nous permettent de nous améliorer !
 
 Notre équipe :
 
-* Rok Biderma
- -> co
-struit
-* Rory Byr
-e -> sécurise
+* Rok Biderman -> construit
+* Rory Byrne -> sécurise
 * Alex Guerrieri -> 
 * Holly Kilroy -> écrit
-* Ves
-a Pla
-ko -> co
-çoit
+* Vesna Planko -> conçoit
 
-Les amis du passé qui travaille
-t mai
-te
-a
-t sur d’autres choses :
+Les amis du passé qui travaillent maintenant sur d’autres choses :
 * Mitesh Patel -> améliorait
 * Adam Schakaki -> réparait
 
-[Lice
-ces](umbrella://lice
-ces/)
-[Merci](umbrella://tha
-kyou/)
+[Licences](umbrella://licences/)
+[Merci](umbrella://thankyou/)

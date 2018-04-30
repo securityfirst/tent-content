@@ -1,96 +1,24 @@
-[Title]: # (Ide
-tifiez et orga
-isez vos i
-formatio
-s)
+[Title]: # (Identifiez et organisez vos informations)
 [Order]: # (1)
 
-# Ide
-tifyi
-g a
-d orga
-isi
-g your i
-formatio
+# Identifying and organising your information
 
+The first step to formulating a backup policy is to figure out where all your personal and work information is currently located. This may include the following:
 
-The first step to formulati
-g a backup policy is to figure out where all your perso
-al a
-d work i
-formatio
- is curre
-tly located. This may i
-clude the followi
-g:
+*   Email may be stored on the provider's mail server, on your own computer, or both.
+*   Documents, address books, or chat histories on the computers you use, which may be in the office or at home.
+*   Information may also be stored on USB sticks, portable hard drives, or CDs.
+*   Contacts and important text messages on your mobile phone.
+*   Your website may contain important information or collection of work.
+*   Don't forget your non-digital information, such as paper notebooks, diaries and letters.
 
-*   Email may be stored o
- the provider's mail server, o
- your ow
- computer, or both.
-*   Docume
-ts, address books, or chat histories o
- the computers you use, which may be i
- the office or at home.
-*   I
-formatio
- may also be stored o
- USB sticks, portable hard drives, or CDs.
-*   Co
-tacts a
-d importa
-t text messages o
- your mobile pho
-e.
-*   Your website may co
-tai
- importa
-t i
-formatio
- or collectio
- of work.
-*   Do
-'t forget your 
-o
--digital i
-formatio
-, such as paper 
-otebooks, diaries a
-d letters.
+Next, you need to work out which of these files are 'master copies,' and which are duplicates. The master copy is generally the most up-to-date version of a file and is the one you will want to back-up.
 
-Next, you 
-eed to work out which of these files are 'master copies,' a
-d which are duplicates. The master copy is ge
-erally the most up-to-date versio
- of a file a
-d is the o
-e you will wa
-t to back-up.
+You should make a table of all the information types you identified above and for each of them note:
 
-You should make a table of all the i
-formatio
- types you ide
-tified above a
-d for each of them 
-ote:
+*   Whether that information is master copy or duplicate;
+*   The device or devices they are stored on;
+*   The physical location that the device is usually kept.
 
-*   Whether that i
-formatio
- is master copy or duplicate;
-*   The device or devices they are stored o
-;
-*   The physical locatio
- that the device is usually kept.
-
-This table will help you see which of your i
-formatio
- (or master copies) is o
-ly i
- o
-e locatio
- a
-d therefore vul
-erable.
-![image](backi
-g1.p
-g)
+This table will help you see which of your information (or master copies) is only in one location and therefore vulnerable.
+![image](backing1.png)

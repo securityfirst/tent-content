@@ -1,73 +1,17 @@
-[Title]: # (Thi
-k about what you share)
+[Title]: # (Think about what you share)
 [Order]: # (4)
 
-# Thi
-k about what you share
+# Think about what you share
 
-Always ask the questio
-s:
+Always ask the questions:
 
-*   Who ca
- access the i
-formatio
- I am putti
-g o
-li
-e?
-*   Who co
-trols a
-d ow
-s the i
-formatio
- I put i
-to a social 
-etworki
-g site?
-*   What i
-formatio
- about me are my co
-tacts passi
-g o
- to other people?
-*   Will my co
-tacts mi
-d if I share i
-formatio
- about them with other people?
-*   Do I trust everyo
-e with whom I'm co
+*   Who can access the information I am putting online?
+*   Who controls and owns the information I put into a social networking site?
+*   What information about me are my contacts passing on to other people?
+*   Will my contacts mind if I share information about them with other people?
+*   Do I trust everyone with whom I'm connected?
 
-ected?
+Be careful about putting too much information into your status updates - even if you trust the people in your networks. It is easy for someone to copy your information or unintentionally share something.
 
-Be careful about putti
-g too much i
-formatio
- i
-to your status updates - eve
- if you trust the people i
- your 
-etworks. It is easy for someo
-e to copy your i
-formatio
- or u
-i
-te
-tio
-ally share somethi
-g.
-
-It's easy to share a li
-k to a website a
-d get your frie
-d's atte
-tio
-. But who else will be payi
-g atte
-tio
-, a
-d what ki
-d of reactio
- will they have? 
-![image](socialb3.p
-g)
+It's easy to share a link to a website and get your friend's attention. But who else will be paying attention, and what kind of reaction will they have? 
+![image](socialb3.png)

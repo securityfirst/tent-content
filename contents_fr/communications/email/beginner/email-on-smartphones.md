@@ -1,84 +1,10 @@
-[Title]: # (Le courriel sur les télépho
-es i
-tellige
-ts)
+[Title]: # (Le courriel sur les téléphones intelligents)
 [Order]: # (10)
 
-# Le courriel sur les télépho
-es i
-tellige
-ts
+# Le courriel sur les téléphones intelligents
 
-E
- premier lieu, avez-vous vraime
-t besoi
- d’accéder à vos courriels avec votre télépho
-e i
-tellige
-t ? Il est habituelleme
-t plus simple de sécuriser u
- ordi
-ateur et so
- co
-te
-u qu’u
- appareil mobile tel qu’u
- télépho
-e i
-tellige
-t. U
- télépho
-e i
-tellige
-t est plus vul
-érable au vol, à la surveilla
-ce et aux i
-trusio
-s.
+En premier lieu, avez-vous vraiment besoin d’accéder à vos courriels avec votre téléphone intelligent ? Il est habituellement plus simple de sécuriser un ordinateur et son contenu qu’un appareil mobile tel qu’un téléphone intelligent. Un téléphone intelligent est plus vulnérable au vol, à la surveillance et aux intrusions.
 
-* S’il est absolume
-t esse
-tiel que vous accédiez à vos courriels avec votre télépho
-e i
-tellige
-t, certai
-es actio
-s peuve
-t mi
-imiser les risques.
-* N’utilisez pas votre télépho
-e i
-tellige
-t comme moye
- pri
-cipal d’accès à vos courriels. Il est déco
-seillé de télécharger (et de supprimer) les courriels d’u
- serveur de courriel pour les e
-registrer seuleme
-t sur votre télépho
-e i
-tellige
-t. Vous pouvez paramétrer votre applicatio
- de courriel pour qu’elle 
-’utilise que des copies des courriels.
-* Si vous utilisez le chiffreme
-t des courriels pour certai
-s de vos co
-tacts, pe
-sez à l’i
-staller aussi sur votre télépho
-e i
-tellige
-t. L’ava
-tage suppléme
-taire est que les courriels chiffrés restero
-t secrets si le télépho
-e tombe e
-tre de mauvaises mai
-s. Co
-sultez la sectio
- Ava
-cé de cette leço
- pour appre
-dre comme
-t faire.
+* S’il est absolument essentiel que vous accédiez à vos courriels avec votre téléphone intelligent, certaines actions peuvent minimiser les risques.
+* N’utilisez pas votre téléphone intelligent comme moyen principal d’accès à vos courriels. Il est déconseillé de télécharger (et de supprimer) les courriels d’un serveur de courriel pour les enregistrer seulement sur votre téléphone intelligent. Vous pouvez paramétrer votre application de courriel pour qu’elle n’utilise que des copies des courriels.
+* Si vous utilisez le chiffrement des courriels pour certains de vos contacts, pensez à l’installer aussi sur votre téléphone intelligent. L’avantage supplémentaire est que les courriels chiffrés resteront secrets si le téléphone tombe entre de mauvaises mains. Consultez la section Avancé de cette leçon pour apprendre comment faire.

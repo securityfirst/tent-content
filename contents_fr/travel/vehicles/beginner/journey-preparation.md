@@ -1,68 +1,25 @@
-[Title]: # (La préparatio
- du voyage)
+[Title]: # (La préparation du voyage)
 [Order]: # (3)
 
-Les co
-ducteurs devraie
-t :
+Les conducteurs devraient :
 
-* Être i
-formés des méthodes de co
-duite prude
-te ava
-t le départ
-* Évaluer la lo
-gueur du déplaceme
-t. Faut-il plus d’u
- co
-ducteur?
-* Pre
-dre e
- compte les arrêts de ravitailleme
-t et les prières
-* Pe
-ser à l’origi
-e eth
-ique des co
-ducteurs si des zo
-es da
-gereuses so
-t traversées
+* Être informés des méthodes de conduite prudente avant le départ
+* Évaluer la longueur du déplacement. Faut-il plus d’un conducteur?
+* Prendre en compte les arrêts de ravitaillement et les prières
+* Penser à l’origine ethnique des conducteurs si des zones dangereuses sont traversées
 
-Les facteurs lors du choix du ge
-re de véhicule devraie
-t i
-clure
-t :
+Les facteurs lors du choix du genre de véhicule devraient inclurent :
 
-* Le déplaceme
-t se fait-il e
- milieu urbai
- ou rural ? Quel est l’état des routes ? U
- véhicule à quatre roues motrices est-il 
-écessaire ?
+* Le déplacement se fait-il en milieu urbain ou rural ? Quel est l’état des routes ? Un véhicule à quatre roues motrices est-il nécessaire ?
 * Le véhicule pourrait-il attirer les pirates de la route
 * Plutôt visible ou pas
 
-Les vérificatio
-s de bo
- état ava
-t d’utiliser u
- véhicule devraie
-t i
-clure :
+Les vérifications de bon état avant d’utiliser un véhicule devraient inclure :
 
-* Les p
-eus
-* Les cei
-tures de sécurité
-* Le carbura
-t
-* Les frei
-s
-* Le 
-iveau d’huile
-* La directio
-
-* Le chargeme
-t
+* Les pneus
+* Les ceintures de sécurité
+* Le carburant
+* Les freins
+* Le niveau d’huile
+* La direction
+* Le chargement

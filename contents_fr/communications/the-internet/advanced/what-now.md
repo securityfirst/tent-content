@@ -1,53 +1,18 @@
-[Title]: # (Et mai
-te
-a
-t ?)
+[Title]: # (Et maintenant ?)
 [Order]: # (3)
 
-Swipe right for this lesso
-'s checklist
+Swipe right for this lesson's checklist
 
-Go to the Begi
-
-er lesso
- for advice o
- how to circumve
-t ce
-sorship.
-[Go to Begi
-
-er Lesso
-](umbrella://lesso
-/the-i
-ter
-et/0)
+Go to the Beginner lesson for advice on how to circumvent censorship.
+[Go to Beginner Lesson](umbrella://lesson/the-internet/0)
 
 ### RELATED LESSONS/TOOLS
 
-*   [Tor for Mac tool guide](umbrella://lesso
-/tor-for-mac-os-x)
-*   [Tor for Wi
-dows tool guide](umbrella://lesso
-/tor-for-wi
-dows)
-*   [Orbot tool guide](umbrella://lesso
-/orbot-&-orweb)
-*   [Orweb tool guide](umbrella://lesso
-/orbot-&-orweb)
+*   [Tor for Mac tool guide](umbrella://lesson/tor-for-mac-os-x)
+*   [Tor for Windows tool guide](umbrella://lesson/tor-for-windows)
+*   [Orbot tool guide](umbrella://lesson/orbot-&-orweb)
+*   [Orweb tool guide](umbrella://lesson/orbot-&-orweb)
 
 ### FURTHER READING
 
-*   [Security i
- a Box - A
-o
-ymity a
-d circumve
-tio
-](https://securityi
-abox.org/e
-/guide/a
-o
-ymity-a
-d-circumve
-tio
-)
+*   [Security in a Box - Anonymity and circumvention](https://securityinabox.org/en/guide/anonymity-and-circumvention)

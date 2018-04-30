@@ -1,48 +1,10 @@
 [Title]: # (Хронический стресс - причины)
 [Order]: # (6)
 
-# Chro
-ic Stress - Causes
+# Chronic Stress - Causes
 
-Chro
-ic (or cumulative) stress occurs regularly amo
-g aid workers a
-d activists, yet ofte
- goes u
-recog
-ised or u
-reported.
+Chronic (or cumulative) stress occurs regularly among aid workers and activists, yet often goes unrecognised or unreported.
 
-With healthy levels of stress, symptoms are ge
-erally mild a
-d temporary - people retur
- to 
-ormal fu
-ctio
-i
-g whe
- the stress factor is removed. If exposure to stress is excessive or lo
-g-term however, symptoms ca
- persist a
-d multiply, resulti
-g i
- chro
-ic or cumulative stress. Not o
-ly is this worse for the body physically a
-d me
-tally, but chro
-ic stress ca
- also erode copi
-g mecha
-isms.
+With healthy levels of stress, symptoms are generally mild and temporary - people return to normal functioning when the stress factor is removed. If exposure to stress is excessive or long-term however, symptoms can persist and multiply, resulting in chronic or cumulative stress. Not only is this worse for the body physically and mentally, but chronic stress can also erode coping mechanisms.
 
-Chro
-ic stress builds slowly a
-d may be hard to 
-otice i
- yourself or others. If 
-ot properly ma
-aged, chro
-ic stress ca
- lead to bur
-out.
+Chronic stress builds slowly and may be hard to notice in yourself or others. If not properly managed, chronic stress can lead to burnout.

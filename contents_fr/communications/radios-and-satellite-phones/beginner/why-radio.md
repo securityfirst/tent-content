@@ -1,34 +1,5 @@
 [Title]: # (Pourquoi la radio ?)
 [Order]: # (5)
 
-Radios are a
- i
-secure method of commu
-icatio
- a
-d should 
-ot be used for se
-stive commu
-icatio
- if at all possible. If possible, use alter
-ative optio
-s as outli
-ed i
- the [Maki
-g a Call lesso
-](umbrella://lesso
-/maki
-g-a-call). However ma
-y i
- the huma
-itaria
- field still 
-eed to use them sometimes. If 
-ecessary, develop a system of code words betwee
- those commu
-icati
-g so that your message will 
-ot be so easily u
-derstood.
-![image](radios.p
-g)
+Radios are an insecure method of communication and should not be used for senstive communication if at all possible. If possible, use alternative options as outlined in the [Making a Call lesson](umbrella://lesson/making-a-call). However many in the humanitarian field still need to use them sometimes. If necessary, develop a system of code words between those communicating so that your message will not be so easily understood.
+![image](radios.png)

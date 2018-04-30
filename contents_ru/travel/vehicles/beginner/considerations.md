@@ -1,75 +1,16 @@
 [Title]: # (Соображения)
 [Order]: # (2)
 
-Importa
-t issues to take i
-to co
-sideratio
- whe
- pla
+Important issues to take into consideration when planning a journey include:
 
-i
-g a jour
-ey i
-clude:
-
-*   Rece
-t i
-cide
-ts o
- the route. *Check the Dashboard for i
-formatio
- about your area*
+*   Recent incidents on the route. *Check the Dashboard for information about your area*
 *   Weather
-*   Le
-gth of jour
-ey - time of departure/ arrival?
-*   Should you travel i
- co
-voy with a
-other vehicle?
-*   Commu
-icatio
-s schedule
-*   Checkpoi
-ts e
- route - what is the process for passi
-g through? (See Checkpoi
-ts lesso
- for advice o
- this)
-*   Other da
-gerous poi
-ts e
- route (does the route pass through a
- area co
-trolled by military, a warlord or local leader). Has 
-egotiatio
- bee
- carried out a
-d permissio
-s obtai
-ed a
-d u
-derstood prior to leavi
-g? Crossi
-gs of co
-flict li
-es a
-d through i
-secure areas should be rigorously checked before travelli
-g.
-*   Safe 'waypoi
-ts' e
- route
-*   Refuelli
-g stops
-*   Suste
-a
-ce/ food stops
-*   What is your pla
- i
- the eve
-t of a car accide
-t or breakdow
-?
+*   Length of journey - time of departure/ arrival?
+*   Should you travel in convoy with another vehicle?
+*   Communications schedule
+*   Checkpoints en route - what is the process for passing through? (See Checkpoints lesson for advice on this)
+*   Other dangerous points en route (does the route pass through an area controlled by military, a warlord or local leader). Has negotiation been carried out and permissions obtained and understood prior to leaving? Crossings of conflict lines and through insecure areas should be rigorously checked before travelling.
+*   Safe 'waypoints' en route
+*   Refuelling stops
+*   Sustenance/ food stops
+*   What is your plan in the event of a car accident or breakdown?

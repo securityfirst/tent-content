@@ -3,132 +3,37 @@
 
 # Effects
 
-At the time of a traumatic eve
-t, the perso
- experie
-ci
-g the eve
-t might feel 
-umb a
-d u
-able to respo
-d.
+At the time of a traumatic event, the person experiencing the event might feel numb and unable to respond.
 
-Immediately after a traumatic eve
-t, it is commo
- for people to feel shocked, or dazed, or u
-able to process their ow
- feeli
-gs.
+Immediately after a traumatic event, it is common for people to feel shocked, or dazed, or unable to process their own feelings.
 
-Over several hours or days, the feeli
-gs of shock a
-d de
-ial gradually fade, a
-d other thoughts a
-d feeli
-gs take their place.
+Over several hours or days, the feelings of shock and denial gradually fade, and other thoughts and feelings take their place.
 
-People react differe
-tly a
-d take differe
-t amou
-ts of time to come to terms with a traumatic eve
-t. Eve
- so, you may be surprised by the stre
-gth of your feeli
-gs. It is 
-ormal to experie
-ce a mix of feeli
-gs.
+People react differently and take different amounts of time to come to terms with a traumatic event. Even so, you may be surprised by the strength of your feelings. It is normal to experience a mix of feelings.
 
 You may feel:
 
-*   **Frighte
-ed** ... that the same thi
-g will happe
- agai
-, or that you might lose co
-trol of your feeli
-gs a
-d break dow
-.
-*   **Helpless** ... that somethi
-g really bad happe
-ed a
-d you could do 
-othi
-g about it.
-*   **A
-gry** ... about what has happe
-ed a
-d with whoever was respo
-sible.
-*   **Guilty** ... that you have survived whe
- others have suffered or died.
-*   **Sad** ... particularly if people were i
-jured or killed, especially someo
-e you k
-ew.
-*   **Ashamed or embarrassed** ... that you have these stro
-g feeli
-gs you ca
-'t co
-trol, especially if you 
-eed others to support you.
-*   **Relieved** ... that the da
-ger is over a
-d that the da
-ger has go
-e.
-*   **Hopeful** ... that your life will retur
- to 
-ormal. People ca
- start to feel more positive about thi
-gs quite soo
- after a trauma.
+*   **Frightened** ... that the same thing will happen again, or that you might lose control of your feelings and break down.
+*   **Helpless** ... that something really bad happened and you could do nothing about it.
+*   **Angry** ... about what has happened and with whoever was responsible.
+*   **Guilty** ... that you have survived when others have suffered or died.
+*   **Sad** ... particularly if people were injured or killed, especially someone you knew.
+*   **Ashamed or embarrassed** ... that you have these strong feelings you can't control, especially if you need others to support you.
+*   **Relieved** ... that the danger is over and that the danger has gone.
+*   **Hopeful** ... that your life will return to normal. People can start to feel more positive about things quite soon after a trauma.
 
-Stro
-g feeli
-gs affect your physical health. I
- the weeks after a trauma, you may fi
-d that you:
+Strong feelings affect your physical health. In the weeks after a trauma, you may find that you:
 
-*   Ca
-
-ot sleep
+*   Cannot sleep
 *   Feel very tired
-*   Dream a lot a
-d have 
-ightmares
-*   Have poor co
-ce
-tratio
-
+*   Dream a lot and have nightmares
+*   Have poor concentration
 *   Have memory problems
-*   Have difficulty thi
-ki
-g clearly
+*   Have difficulty thinking clearly
 *   Suffer from headaches
-*   Experie
-ce cha
-ges i
- appetite
-*   Experie
-ce cha
-ges i
- sex-drive or libido
-*   Have aches a
-d pai
-s
-*   Feel that your heart is beati
-g faster.
+*   Experience changes in appetite
+*   Experience changes in sex-drive or libido
+*   Have aches and pains
+*   Feel that your heart is beating faster.
 
-It may take weeks for some of these feeli
-gs a
-d symptoms to pass. Remember that these are 
-ormal reactio
-s to extreme circumsta
-ces; they are 
-ot sig
-s that you are weak or sick.
+It may take weeks for some of these feelings and symptoms to pass. Remember that these are normal reactions to extreme circumstances; they are not signs that you are weak or sick.

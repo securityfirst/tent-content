@@ -1,33 +1,6 @@
-[Title]: # (Check what your frie
-ds share about you)
+[Title]: # (Check what your friends share about you)
 [Order]: # (6)
 
-# Check what your frie
-ds share about you
+# Check what your friends share about you
 
-Remember that you're 
-ot the o
-ly perso
- who ca
- give away pote
-tially se
-sitive data about yourself. Your frie
-ds ca
- tag you i
- photos, report your locatio
-, a
-d make their co
-
-ectio
-s to you public i
- a variety of ways. You may have the optio
- of u
-taggi
-g yourself from these posts, but privacy does 
-ot work retroactively. You may wa
-t to talk to your frie
-ds about what you do a
-d do 
-ot feel comfortable havi
-g them share about you i
- public.
+Remember that you're not the only person who can give away potentially sensitive data about yourself. Your friends can tag you in photos, report your location, and make their connections to you public in a variety of ways. You may have the option of untagging yourself from these posts, but privacy does not work retroactively. You may want to talk to your friends about what you do and do not feel comfortable having them share about you in public.

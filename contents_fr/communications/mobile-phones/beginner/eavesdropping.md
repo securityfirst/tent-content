@@ -1,88 +1,13 @@
-[Title]: # (Ceux qui vous écoute
-t)
+[Title]: # (Ceux qui vous écoutent)
 [Order]: # (4)
 
-## 4. Pho
-es ca
- be used to eavesdrop o
- the ow
-er
+## 4. Phones can be used to eavesdrop on the owner
 
-If a pho
-e is i
-fected with the right malware it is possible for its micropho
-e or camera to be tur
-ed o
- remotely allowi
-g somebody to hear or see whatever is happe
-i
-g i
- the same room as the pho
-e. This may happe
- eve
- whe
- the pho
-e appears to be switched off.
-![image](mobile5.p
-g)
+If a phone is infected with the right malware it is possible for its microphone or camera to be turned on remotely allowing somebody to hear or see whatever is happening in the same room as the phone. This may happen even when the phone appears to be switched off.
+![image](mobile5.png)
 
-As a result, people havi
-g a se
-sitive meeti
-g or co
-versatio
- are sometimes told to tur
- off their pho
-es off a
-d take out the battery. While this will make sure your pho
-e ca
-'t be used to liste
- i
- o
- you, it does have its ow
- disadva
-tage: if ma
-y people at o
-e locatio
- all switch off their pho
-es at the same time, it's a sig
- to the mobile carriers that they all thought somethi
-g was worth them tur
-i
-g their pho
-es off, such as a se
-sitive meeti
-g.
+As a result, people having a sensitive meeting or conversation are sometimes told to turn off their phones off and take out the battery. While this will make sure your phone can't be used to listen in on you, it does have its own disadvantage: if many people at one location all switch off their phones at the same time, it's a sign to the mobile carriers that they all thought something was worth them turning their phones off, such as a sensitive meeting.
 
-A
- alter
-ative that might give less i
-formatio
- away is to leave pho
-es i
- a
-other room where the pho
-es' micropho
-es would
-'t be able to overhear the co
-versatio
-s. If you k
-ow this would
-'t be possible, try to take the battery out of your pho
-e before you travel to the meeti
-g.
+An alternative that might give less information away is to leave phones in another room where the phones' microphones wouldn't be able to overhear the conversations. If you know this wouldn't be possible, try to take the battery out of your phone before you travel to the meeting.
 
-Do
-'t forget that usi
-g a pho
-e i
- public, or i
- places that you do
-'t trust, makes you vul
-erable to traditio
-al eavesdroppi
-g tech
-iques, or to havi
-g your pho
-e stole
-.
+Don't forget that using a phone in public, or in places that you don't trust, makes you vulnerable to traditional eavesdropping techniques, or to having your phone stolen.

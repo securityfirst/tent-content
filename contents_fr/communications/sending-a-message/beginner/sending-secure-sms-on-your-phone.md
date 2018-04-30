@@ -1,72 +1,12 @@
-[Title]: # (E
-voyer des textos sécurisés avec votre télépho
-e)
+[Title]: # (Envoyer des textos sécurisés avec votre téléphone)
 [Order]: # (1)
 
-# Se
-di
-g secure SMS o
- your pho
-e
+# Sending secure SMS on your phone
 
-## Sile
-ce
+## Silence
 
-Sile
-ce is a free, ope
--source tool for se
-di
-g a
-d receivi
-g secure SMS text messages o
- A
-droid pho
-es. It works both for e
-crypted a
-d 
-o
--e
-crypted SMS, so you ca
- use it as your default SMS applicatio
-. It automatically imports all your co
-tacts a
-d existi
-g SMS, so o
-ly takes a few seco
-ds to set up. No i
-ter
-et co
+Silence is a free, open-source tool for sending and receiving secure SMS text messages on Android phones. It works both for encrypted and non-encrypted SMS, so you can use it as your default SMS application. It automatically imports all your contacts and existing SMS, so only takes a few seconds to set up. No internet connection is required to send or receive SMS. To exchange encrypted SMS this tool has to be installed by both the sender and the recipient of a message, so you will need to get people you communicate with regularly to use it as well. Silence also encrypts all SMS locally, so if your phone is lost or stolen, your messages are protected.
 
-ectio
- is required to se
-d or receive SMS. To excha
-ge e
-crypted SMS this tool has to be i
-stalled by both the se
-der a
-d the recipie
-t of a message, so you will 
-eed to get people you commu
-icate with regularly to use it as well. Sile
-ce also e
-crypts all SMS locally, so if your pho
-e is lost or stole
-, your messages are protected.
+Many people who previously used TextSecure (now called Signal) for secure SMS now use Silence (formerly SMSSecure).
 
-Ma
-y people who previously used TextSecure (
-ow called Sig
-al) for secure SMS 
-ow use Sile
-ce (formerly SMSSecure).
-
-You ca
- fi
-d Sile
-ce at [sile
-ce.im](https://sile
-ce.im) a
-d i
-stallatio
- takes o
-ly a few clicks.
+You can find Silence at [silence.im](https://silence.im) and installation takes only a few clicks.

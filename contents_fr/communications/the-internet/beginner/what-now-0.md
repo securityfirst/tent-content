@@ -1,74 +1,18 @@
-[Title]: # (Et mai
-te
-a
-t ?)
+[Title]: # (Et maintenant ?)
 [Order]: # (10)
 
-Swipe right for this lesso
-'s checklist
+Swipe right for this lesson's checklist
 
-Go to the Adva
-ced lesso
- for advice o
- how to e
-sure you stay a
-o
-ymous o
-li
-e.
-[Go to Adva
-ced Lesso
-](umbrella://lesso
-/the-i
-ter
-et/1)
+Go to the Advanced lesson for advice on how to ensure you stay anonymous online.
+[Go to Advanced Lesson](umbrella://lesson/the-internet/1)
 
 ### RELATED LESSONS/TOOLS
 
-*   [Ma
-agi
-g I
-formatio
- lesso
-](umbrella://lesso
-/ma
-agi
-g-i
-formatio
-)
-*   [Psipho
-3 tool guide](umbrella://lesso
-/psipho
-)
+*   [Managing Information lesson](umbrella://lesson/managing-information)
+*   [Psiphon3 tool guide](umbrella://lesson/psiphon)
 
 ### FURTHER READING
 
-*   [EFF - How to circumve
-t o
-li
-e ce
-sorship](https://ssd.eff.org/e
-/module/how-circumve
-t-o
-li
-e-ce
-sorship)
-*   [Floss ma
-uals - Bypassi
-g ce
-sorship](e
-.flossma
-uals.
-et/bypassi
-g-ce
-sorship/)
-*   [Ope
-Net - Outli
-i
-g i
-ter
-et restrictio
-s](https://ope
-
-et.
-et)
+*   [EFF - How to circumvent online censorship](https://ssd.eff.org/en/module/how-circumvent-online-censorship)
+*   [Floss manuals - Bypassing censorship](en.flossmanuals.net/bypassing-censorship/)
+*   [OpenNet - Outlining internet restrictions](https://opennet.net)

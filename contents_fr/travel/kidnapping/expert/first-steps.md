@@ -1,97 +1,13 @@
 [Title]: # (Les premières étapes)
 [Order]: # (14)
 
-Si u
- e
-lèveme
-t a lieu, l’orga
-isatio
- devrait immédiateme
-t mettre e
- place u
-e équipe de gestio
- crise, si possible au siège social. L’o
- devrait détermi
-er claireme
-t tout de suite quel gestio
+Si un enlèvement a lieu, l’organisation devrait immédiatement mettre en place une équipe de gestion crise, si possible au siège social. L’on devrait déterminer clairement tout de suite quel gestionnaire aura la responsabilité de gérer l’incident. Ce gestionnaire devra alors penser aux actions suivantes, selon les circonstances et son analyse du meilleur plan d’action :
 
-aire aura la respo
-sabilité de gérer l’i
-cide
-t. Ce gestio
-
-aire devra alors pe
-ser aux actio
-s suiva
-tes, selo
- les circo
-sta
-ces et so
- a
-alyse du meilleur pla
- d’actio
- :
-
-* I
-former la police locale et les autres autorités appropriées
-* I
-former toutes les parties perti
-e
-tes du 
-om et des coordo
-
-ées du gestio
-
-aire d’i
-cide
-t. Dema
-der à ce qu’aucu
-e actio
- 
-e soit effectuée e
- relatio
- à l’i
-cide
-t sa
-s so
- accord préalable
-* Co
-tacter les proches. Cela devrait être u
-e priorité absolue. Si cela 
-’est pas fait, la relatio
- de co
-fia
-ce avec les membres de la famille de l’employé pourrait être rapideme
-t mise à mal. Particulièreme
-t s’ils appre
-
-e
-t la 
-ouvelle par les médias, ce qui pourrait re
-dre la gestio
- de la crise bie
- plus difficile
-* Répo
-dre aux dema
-des de la presse
-* Garder le co
-tact avec les membres du perso
-
-el perti
-e
-ts et les autres age
-ces
-* Four
-ir u
-e commu
-icatio
- jour et 
-uit et e
-registrer tous les messages et évé
-eme
-ts
+* Informer la police locale et les autres autorités appropriées
+* Informer toutes les parties pertinentes du nom et des coordonnées du gestionnaire d’incident. Demander à ce qu’aucune action ne soit effectuée en relation à l’incident sans son accord préalable
+* Contacter les proches. Cela devrait être une priorité absolue. Si cela n’est pas fait, la relation de confiance avec les membres de la famille de l’employé pourrait être rapidement mise à mal. Particulièrement s’ils apprennent la nouvelle par les médias, ce qui pourrait rendre la gestion de la crise bien plus difficile
+* Répondre aux demandes de la presse
+* Garder le contact avec les membres du personnel pertinents et les autres agences
+* Fournir une communication jour et nuit et enregistrer tous les messages et événements
 * Marquer les cartes
-* S’assurer que l’équipe de gestio
- de crise a suffisamme
-t de 
-ourriture, d’eau et de repos
+* S’assurer que l’équipe de gestion de crise a suffisamment de nourriture, d’eau et de repos

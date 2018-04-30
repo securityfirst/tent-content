@@ -1,87 +1,13 @@
 [Title]: # (Первые шаги)
 [Order]: # (14)
 
-If kid
-ap occurs, the orga
-isatio
- should immediately set up a crisis ma
-ageme
-t team, i
- HQ if possible. It should be made clear at o
-ce which ma
-ager has respo
-sibility for ma
-agi
-g the i
-cide
-t.  That ma
-ager should the
- co
-sider the followi
-g actio
-s, depe
-di
-g o
- the circumsta
-ces a
-d his or her assessme
-t of the best course of actio
-:
+If kidnap occurs, the organisation should immediately set up a crisis management team, in HQ if possible. It should be made clear at once which manager has responsibility for managing the incident.  That manager should then consider the following actions, depending on the circumstances and his or her assessment of the best course of action:
 
-*   I
-form the local police a
-d other appropriate authorities
-*   I
-form all releva
-t parties of the 
-ame a
-d co
-tact details of the i
-cide
-t ma
-ager.  Request that 
-o actio
- be take
- i
- relatio
- to the i
-cide
-t without prior agreeme
-t with him or her.
-*   Co
-tacti
-g Next of Ki
-.  This should be a top priority.  Failure to do this quickly ca
- damage the relatio
-ship of trust with the staff member's family, particularly if they first hear the 
-ews through the media.  This could the
- make the ma
-ageme
-t of the crisis much more difficult.
-*   A
-sweri
-g e
-quiries from the press
-*   Keepi
-g co
-tact with all releva
-t staff a
-d other age
-cies
-*   Providi
-g 24-hour commu
-icatio
-s a
-d loggi
-g all messages a
-d eve
-ts
-*   Marki
-g maps
-*   E
-suri
-g that the crisis ma
-ageme
-t team has sufficie
-t food, water a
-d rest
+*   Inform the local police and other appropriate authorities
+*   Inform all relevant parties of the name and contact details of the incident manager.  Request that no action be taken in relation to the incident without prior agreement with him or her.
+*   Contacting Next of Kin.  This should be a top priority.  Failure to do this quickly can damage the relationship of trust with the staff member's family, particularly if they first hear the news through the media.  This could then make the management of the crisis much more difficult.
+*   Answering enquiries from the press
+*   Keeping contact with all relevant staff and other agencies
+*   Providing 24-hour communications and logging all messages and events
+*   Marking maps
+*   Ensuring that the crisis management team has sufficient food, water and rest

@@ -1,72 +1,14 @@
 [Title]: # (Предотвращение)
 [Order]: # (0)
 
-# Preve
-tio
+# Prevention
 
+Human rights workers, journalists and humanitarian staff are sometimes arrested or detained.  The risk of this happening can be significantly reduced by:
 
-Huma
- rights workers, jour
-alists a
-d huma
-itaria
- staff are sometimes arrested or detai
-ed.  The risk of this happe
-i
-g ca
- be sig
-ifica
-tly reduced by:
+*   Good relations with local authorities and groups where possible
+*   Appropriate behaviour, on and off duty
+*   Obeying local laws and customs
+*   Ensuring that all legal documentation is correct, and carried by all staff and vehicles as required
+*   Training and briefing staff before they begin their assignments
 
-*   Good relatio
-s with local authorities a
-d groups where possible
-*   Appropriate behaviour, o
- a
-d off duty
-*   Obeyi
-g local laws a
-d customs
-*   E
-suri
-g that all legal docume
-tatio
- is correct, a
-d carried by all staff a
-d vehicles as required
-*   Trai
-i
-g a
-d briefi
-g staff before they begi
- their assig
-me
-ts
-
-Be aware of which areas a
-d groups be
-efit from aid a
-d which do 
-ot, a
-d therefore might feel discrimi
-ated agai
-st, a
-d make sure that as ma
-y people as possible i
- the area of operatio
-s u
-dersta
-d your orga
-isatio
- a
-d the role it is playi
-g. Tra
-spare
-cy, good commu
-icatio
-s, i
-tegrity, eve
--ha
-ded
-ess a
-d respectful attitudes help as well.
+Be aware of which areas and groups benefit from aid and which do not, and therefore might feel discriminated against, and make sure that as many people as possible in the area of operations understand your organisation and the role it is playing. Transparency, good communications, integrity, even-handedness and respectful attitudes help as well.

@@ -4,25 +4,14 @@
 Проведите вправо для получения списка тем этого урока
 
 Перейдите к уроку «Продвинутый», чтобы узнать, как отправлять зашифрованные электронные письма с конфиденциальной информацией.
-[К уроку «Продвинутый»](umbrella://lesso
-/email/1)
+[К уроку «Продвинутый»](umbrella://lesson/email/1)
 
 ### СВЯЗАННЫЕ УРОКИ/ИНСТРУМЕНТЫ
 
-* [Урок: Вредоносные программы](umbrella://lesso
-/protecti
-g-files)
-* [Урок: Интернет](umbrella://lesso
-/the-i
-ter
-et)
-* [Урок: Пароли](umbrella://lesso
-/passwords)
+* [Урок: Вредоносные программы](umbrella://lesson/protecting-files)
+* [Урок: Интернет](umbrella://lesson/the-internet)
+* [Урок: Пароли](umbrella://lesson/passwords)
 
 ### ЧИТАТЬ ДАЛЬШЕ
 
-* [Безопасность в ящике - Руководство по безопасной передаче информации](https://securityi
-abox.org/e
-/guide/secure-commu
-icatio
-)
+* [Безопасность в ящике - Руководство по безопасной передаче информации](https://securityinabox.org/en/guide/secure-communication)

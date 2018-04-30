@@ -1,61 +1,8 @@
 [Title]: # (Capabilities)
 [Order]: # (8)
 
-A radio set should have the followi
-g capabilities. 
+A radio set should have the following capabilities. 
 
-*   Remote diag
-ostics:  o
-e u
-it ca
- i
-terrogate a
-other to get details o
- operatio
-al factors such as power output, sig
-al stre
-gth a
-d battery voltage. This allows for diag
-osis of pote
-tial impedime
-ts by a tech
-icia
- who does 
-ot have to be physically prese
-t at the u
-it.*   Emerge
-cy call: distress sig
-als are automatically se
-t out to a 
-umber of pre-programmed statio
-s, prioritisi
-g the urge
-cy of the call for the receiver.*   A GPS co
+*   Remote diagnostics:  one unit can interrogate another to get details on operational factors such as power output, signal strength and battery voltage. This allows for diagnosis of potential impediments by a technician who does not have to be physically present at the unit.*   Emergency call: distress signals are automatically sent out to a number of pre-programmed stations, prioritising the urgency of the call for the receiver.*   A GPS connected to a personal computer with tracking software installed can interrogate a GPS connected to a mobile unit without the occupants of the vehicle being aware that this is happening. Vehicle movements can thus be monitored. Carefully consider the risks of others monitoring such tracking software before applying it.
 
-ected to a perso
-al computer with tracki
-g software i
-stalled ca
- i
-terrogate a GPS co
-
-ected to a mobile u
-it without the occupa
-ts of the vehicle bei
-g aware that this is happe
-i
-g. Vehicle moveme
-ts ca
- thus be mo
-itored. Carefully co
-sider the risks of others mo
-itori
-g such tracki
-g software before applyi
-g it.
-
-The most commo
-ly used bra
-ds of HF radios are Coda
- a
-d Barrett.
+The most commonly used brands of HF radios are Codan and Barrett.

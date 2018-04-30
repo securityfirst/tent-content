@@ -1,24 +1,10 @@
 [Title]: # (Что теперь?)
 [Order]: # (9)
 
-Swipe right for this lesso
-'s checklist
+Swipe right for this lesson's checklist
 
-Go to the Adva
-ced lesso
- for advice o
- how to ma
-age your passwords.
-[Go to Adva
-ced Lesso
-](umbrella://lesso
-/passwords/1)
+Go to the Advanced lesson for advice on how to manage your passwords.
+[Go to Advanced Lesson](umbrella://lesson/passwords/1)
 
-Go to the Expert lesso
- for advice o
- what to do if you thi
-k you might be forced to ha
-d over your password.
-[Go to Expert Lesso
-](umbrella://lesso
-/passwords/2)
+Go to the Expert lesson for advice on what to do if you think you might be forced to hand over your password.
+[Go to Expert Lesson](umbrella://lesson/passwords/2)

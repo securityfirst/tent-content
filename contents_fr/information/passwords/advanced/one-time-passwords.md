@@ -1,45 +1,10 @@
-[Title]: # (Mots de passe à usage u
-ique)
+[Title]: # (Mots de passe à usage unique)
 [Order]: # (3)
 
-# O
-e-time passwords
+# One-time passwords
 
-Some services, such as Google, also allow you to ge
-erate a list of o
-e-time passwords, also called si
-gle-use passwords. These are mea
-t to be pri
-ted or writte
- dow
- o
- paper a
-d carried with you.
+Some services, such as Google, also allow you to generate a list of one-time passwords, also called single-use passwords. These are meant to be printed or written down on paper and carried with you.
 
-There is 
-o way to do this by yourself if you're usi
-g a service that does
-'t offer it.
+There is no way to do this by yourself if you're using a service that doesn't offer it.
 
-If you or your orga
-izatio
- ru
-s your ow
- commu
-icatio
-s i
-frastructure, such as your ow
- e-mail servers, there's freely available software that ca
- be used to e
-able two-step authe
-ticatio
- for accessi
-g your systems. Ask your systems admi
-istrators to look for software offeri
-g a
- impleme
-tatio
-s of the ope
- sta
-dard "Time-Based O
-e-Time Passwords" or RFC 6238.
+If you or your organization runs your own communications infrastructure, such as your own e-mail servers, there's freely available software that can be used to enable two-step authentication for accessing your systems. Ask your systems administrators to look for software offering an implementations of the open standard "Time-Based One-Time Passwords" or RFC 6238.

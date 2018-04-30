@@ -1,48 +1,18 @@
-[Title]: # (Et mai
-te
-a
-t ?)
+[Title]: # (Et maintenant ?)
 [Order]: # (5)
 
-Swipe right for this lesso
-'s checklist
+Swipe right for this lesson's checklist
 
-Go to the Begi
-
-er lesso
- for advice o
- coveri
-g a protest as a jour
-alist.[Go to Begi
-
-er Lesso
-](umbrella://lesso
-/protests/0)
+Go to the Beginner lesson for advice on covering a protest as a journalist.[Go to Beginner Lesson](umbrella://lesson/protests/0)
 
 ### RELATED LESSONS/TOOLS
 
-*   [Mobile Pho
-e Lesso
-](umbrella://lesso
-/mobile-pho
-es)
-*   [Se
-di
-g a Message Lesso
-](umbrella://lesso
-/se
-di
-g-a-message)
-*   [Maki
-g a Call Lesso
-](umbrella://lesso
-/maki
-g-a-call)
+*   [Mobile Phone Lesson](umbrella://lesson/mobile-phones)
+*   [Sending a Message Lesson](umbrella://lesson/sending-a-message)
+*   [Making a Call Lesson](umbrella://lesson/making-a-call)
 
 
 
 ### FURTHER READING
 
-*   EFF - Atte
-di
-g protests
+*   EFF - Attending protests

@@ -1,24 +1,6 @@
 [Title]: # (Выход из собрания)
 [Order]: # (6)
 
-# Leavi
-g a Meeti
-g
+# Leaving a Meeting
 
-It is best to get the perso
- you are meeti
-g to leave first - that way you ca
- check for a
-y third party reactio
-s to see if they're clea
- as they leave. Wait about te
- mi
-utes before you leave. If possible your colleague (who should still look u
-co
-
-ected to you) should remai
- behi
-d for a further te
- mi
-utes to check that you are clea
-.
+It is best to get the person you are meeting to leave first - that way you can check for any third party reactions to see if they're clean as they leave. Wait about ten minutes before you leave. If possible your colleague (who should still look unconnected to you) should remain behind for a further ten minutes to check that you are clean.

@@ -1,28 +1,10 @@
-[Title]: # (Et mai
-te
-a
-t ?)
+[Title]: # (Et maintenant ?)
 [Order]: # (8)
 
-Swipe right for this lesso
-'s checklist
+Swipe right for this lesson's checklist
 
-Go to the Adva
-ced lesso
- for advice o
- what protective gear to wear i
- combat zo
-es or civil u
-rest.[Go to Adva
-ced Lesso
-](umbrella://lesso
-/protective-equipme
-t/1)
+Go to the Advanced lesson for advice on what protective gear to wear in combat zones or civil unrest.[Go to Advanced Lesson](umbrella://lesson/protective-equipment/1)
 
 ### RELATED LESSONS/TOOLS
 
-*   [Evacuatio
- lesso
-](umbrella://lesso
-/evacuatio
-/0)
+*   [Evacuation lesson](umbrella://lesson/evacuation/0)

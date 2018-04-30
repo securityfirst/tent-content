@@ -3,497 +3,84 @@
 
 # PSIPHON TOOL GUIDE
 
-## Psipho
- Tool Guide   
-Ce
-sorship Circumve
-tio
- 
+## Psiphon Tool Guide   
+Censorship Circumvention 
 
-**Lesso
- to read:   
-- [The I
-ter
-et](umbrella://lesso
-/the-i
-ter
-et)**  
-**Dow
-load Locatio
-:** [https://psipho
-.ca/e
-/dow
-load.html](https://psipho
-.ca/e
-/dow
-load.html)   
-**Computer requireme
-ts:** A
- i
-ter
-et co
+**Lesson to read:   
+- [The Internet](umbrella://lesson/the-internet)**  
+**Download Location:** [https://psiphon.ca/en/download.html](https://psiphon.ca/en/download.html)   
+**Computer requirements:** An internet connection, a computer running Windows or an Android 2.2 phone or up (Psiphon 3 versions for iPhones and Mac OS X are coming soon)  
+**Version used in this guide:** Psiphon 3  
+**License:** Free open-source software; GNU GPL Version 3  
+**Level:** Beginner  
+**Other reading:** [https://psiphon.ca/en/user-guide.html](https://psiphon.ca/en/user-guide.html)  
+**Time required:** 5 minutes
 
-ectio
-, a computer ru
-
-i
-g Wi
-dows or a
- A
-droid 2.2 pho
-e or up (Psipho
- 3 versio
-s for iPho
-es a
-d Mac OS X are comi
-g soo
-)  
-**Versio
- used i
- this guide:** Psipho
- 3  
-**Lice
-se:** Free ope
--source software; GNU GPL Versio
- 3  
-**Level:** Begi
-
-er  
-**Other readi
-g:** [https://psipho
-.ca/e
-/user-guide.html](https://psipho
-.ca/e
-/user-guide.html)  
-**Time required:** 5 mi
-utes
-
-**Usi
-g Psipho
- will give you:**  
-- The ability to safely get arou
-d i
-ter
-et ce
-sorship to access blocked websites a
-d applicatio
-s o
- your pho
-e or computer.
+**Using Psiphon will give you:**  
+- The ability to safely get around internet censorship to access blocked websites and applications on your phone or computer.
 
 ### 1 Before you start 
 
-- **ALERT:** The Psipho
- Team has discovered a specific i
-sta
-ce of malware disguised as a Psipho
- 3 Wi
-dows executable. The malware is bei
-g distributed as a zip file 
-amed "pispho
-e3.zip" o
- www.copy.com a
-d may be available from other sources. The zip file co
-tai
-s a malicious bi
-ary 
-amed "pispho
-e3.exe" with the properties described at [Virus Total](https://www.virustotal.com/e
-/file/54201e181615c7eb18ee5a5ca3a0b7924cf3097ac5214fbee530741b6a6bc3da/a
-alysis/1372262585/). Note the misspelli
-g of the 
-ame. This Wi
-dows executable is 
-ot digitally sig
-ed by Psipho
- I
-c. Never ru
- a fresh dow
-load of Psipho
- without checki
-g its digital sig
-ature, as described [here](https://psipho
-.ca/e
-.html#is_my_psipho
-_3_for_wi
-dows_authe
-tic).  
-- It should be 
-oted that although Psipho
- is does 
-ot allow i
-dividual user's IP addresses to be associated with a
-y i
-dividual website visited, Psipho
- is i
-te
-ded primarily as a ce
-sorship evasio
- tool, rather tha
- o
-e that guara
-tees a
-o
-ymity.
+- **ALERT:** The Psiphon Team has discovered a specific instance of malware disguised as a Psiphon 3 Windows executable. The malware is being distributed as a zip file named "pisphone3.zip" on www.copy.com and may be available from other sources. The zip file contains a malicious binary named "pisphone3.exe" with the properties described at [Virus Total](https://www.virustotal.com/en/file/54201e181615c7eb18ee5a5ca3a0b7924cf3097ac5214fbee530741b6a6bc3da/analysis/1372262585/). Note the misspelling of the name. This Windows executable is not digitally signed by Psiphon Inc. Never run a fresh download of Psiphon without checking its digital signature, as described [here](https://psiphon.ca/en.html#is_my_psiphon_3_for_windows_authentic).  
+- It should be noted that although Psiphon is does not allow individual user's IP addresses to be associated with any individual website visited, Psiphon is intended primarily as a censorship evasion tool, rather than one that guarantees anonymity.
 
-### 2 Psipho
- for A
-droid
+### 2 Psiphon for Android
 
-Dow
-load the appropriate versio
- of Psipho
- from [here](https://psipho
-.ca/e
-/dow
-load.html). 
+Download the appropriate version of Psiphon from [here](https://psiphon.ca/en/download.html). 
 
-Click o
- a Psipho
- APK li
-k from withi
- your A
-droid email or browser to begi
- the i
-stallatio
-. 
+Click on a Psiphon APK link from within your Android email or browser to begin the installation. 
 
-(If you get a
- error, you may 
-eed to [e
-able sideloadi
-g](https://psipho
-.ca/e
-/faq.html#a
-droid-e
-able-sideloadi
-g).)
+(If you get an error, you may need to [enable sideloading](https://psiphon.ca/en/faq.html#android-enable-sideloading).)
 
-Whe
- you lau
-ch the Psipho
- app, it will automatically start co
+When you launch the Psiphon app, it will automatically start connecting to the Psiphon network.
 
-ecti
-g to the Psipho
- 
-etwork.
+When you see the Psiphon "P" next to a key in the top left corner it indicates Psiphon is running in VPN or Whole Device mode and all applications are tunnelled through Psiphon.
 
-Whe
- you see the Psipho
- "P" 
-ext to a key i
- the top left cor
-er it i
-dicates Psipho
- is ru
+Under the Status Tab, you will see a P in the centre of the screen. The colour of this P indicates Psiphon's connection status.  
+- Grey: connecting  
+- Red: not connected  
+- Blue: connected
+![image](tool_psiphon1.png)
 
-i
-g i
- VPN or Whole Device mode a
-d all applicatio
-s are tu
+To run Psiphon in Tunnel _Whole Device_ mode, you must have Android 4.0+ or a rooted phone. This option is unavailable for non-rooted phones with an older version of Android.
 
-elled through Psipho
-.
+Once the app has connected to the network, it will launch the built-in Psiphon browser. Psiphon for Android does not automatically tunnel the traffic for the default Android browser or other apps. By default, only the Psiphon browser is tunnelled through the Psiphon network.
+![image](tool_psiphon2.png)
 
-U
-der the Status Tab, you will see a P i
- the ce
-tre of the scree
-. The colour of this P i
-dicates Psipho
-'s co
+ Once the Psiphon browser is open:  
+- The P in the top left will show you Psiphon is running  
+- The arrow on the centre left allows you to switch between open tabs  
+- The X at the bottom of the page closes the current tab  
+- The star at the bottom of the page bookmarks the current page  
+- The + at the bottom of the page opens a new tab
 
-ectio
- status.  
-- Grey: co
+### 3 Psiphon for Windows
 
-ecti
-g  
-- Red: 
-ot co
+Download the appropriate version of Psiphon from [here](https://psiphon.ca/en/download.html), and run the program. 
 
-ected  
-- Blue: co
+(You should [verify, here, that your copy of Psiphon for Windows is authentic](https://psiphon.ca/en/faq.html#authentic-windows).)
 
-ected
-![image](tool_psipho
-1.p
-g)
+When you run it, you should see a security prompt showing that this program is a legitimate product of Psiphon Inc.
+![image](tool_psiphon3.png)
 
-To ru
- Psipho
- i
- Tu
+Psiphon automatically starts connecting when you run it. While it is connecting, a spinning icon is displayed. 
 
-el _Whole Device_ mode, you must have A
-droid 4.0+ or a rooted pho
-e. This optio
- is u
-available for 
-o
--rooted pho
-es with a
- older versio
- of A
-droid.
+You can select one of the following tunnel modes: **VPN, SSH, or SSH+** 
 
-O
-ce the app has co
+- We recommend that you **select the VPN** option, which means all of your traffic automatically tunnels through Psiphon.  
+- The key difference between SSH/SSH+ and VPN is that SSH is application specific while a VPN encrypts all traffic on your computer. With VPN, you turn on the VPN and then all your traffic is encrypted so the web browser, Skype, and email would all bypass censorship as long as the VPN is on.  
+- In Psiphon's SSH and SSH+ modes, it automatically sets the proxy settings and traffic for applications that respect these settings tunnel through Psiphon. These settings are respected by default by all major web browsers. SSH plus obfuscation adds a randomized layer on top of SSH to avoid protocol fingerprinting.   
+- In SSH and SSH+ modes, Psiphon offers a split option where international traffic is tunnelled through the proxy and domestic traffic is not. Check the "Don't proxy..." option to enable split tunnelling. When this option is on, unproxied domains are reported in the message area.   
+- Use SSH/SSH+ options if you want to access domestic sites quickly and your threat model allows it. However we recommend **selecting the VPN option**.
 
-ected to the 
-etwork, it will lau
-ch the built-i
- Psipho
- browser. Psipho
- for A
-droid does 
-ot automatically tu
+Connection to the Psiphon server is established when the green tick icon is displayed on the left of the window. 
+![image](tool_psiphon4.png)
 
-el the traffic for the default A
-droid browser or other apps. By default, o
-ly the Psipho
- browser is tu
-
-elled through the Psipho
- 
-etwork.
-![image](tool_psipho
-2.p
-g)
-
- O
-ce the Psipho
- browser is ope
-:  
-- The P i
- the top left will show you Psipho
- is ru
-
-i
-g  
-- The arrow o
- the ce
-tre left allows you to switch betwee
- ope
- tabs  
-- The X at the bottom of the page closes the curre
-t tab  
-- The star at the bottom of the page bookmarks the curre
-t page  
-- The + at the bottom of the page ope
-s a 
-ew tab
-
-### 3 Psipho
- for Wi
-dows
-
-Dow
-load the appropriate versio
- of Psipho
- from [here](https://psipho
-.ca/e
-/dow
-load.html), a
-d ru
- the program. 
-
-(You should [verify, here, that your copy of Psipho
- for Wi
-dows is authe
-tic](https://psipho
-.ca/e
-/faq.html#authe
-tic-wi
-dows).)
-
-Whe
- you ru
- it, you should see a security prompt showi
-g that this program is a legitimate product of Psipho
- I
-c.
-![image](tool_psipho
-3.p
-g)
-
-Psipho
- automatically starts co
-
-ecti
-g whe
- you ru
- it. While it is co
-
-ecti
-g, a spi
-
-i
-g ico
- is displayed. 
-
-You ca
- select o
-e of the followi
-g tu
-
-el modes: **VPN, SSH, or SSH+** 
-
-- We recomme
-d that you **select the VPN** optio
-, which mea
-s all of your traffic automatically tu
-
-els through Psipho
-.  
-- The key differe
-ce betwee
- SSH/SSH+ a
-d VPN is that SSH is applicatio
- specific while a VPN e
-crypts all traffic o
- your computer. With VPN, you tur
- o
- the VPN a
-d the
- all your traffic is e
-crypted so the web browser, Skype, a
-d email would all bypass ce
-sorship as lo
-g as the VPN is o
-.  
-- I
- Psipho
-'s SSH a
-d SSH+ modes, it automatically sets the proxy setti
-gs a
-d traffic for applicatio
-s that respect these setti
-gs tu
-
-el through Psipho
-. These setti
-gs are respected by default by all major web browsers. SSH plus obfuscatio
- adds a ra
-domized layer o
- top of SSH to avoid protocol fi
-gerpri
-ti
-g.   
-- I
- SSH a
-d SSH+ modes, Psipho
- offers a split optio
- where i
-ter
-atio
-al traffic is tu
-
-elled through the proxy a
-d domestic traffic is 
-ot. Check the "Do
-'t proxy..." optio
- to e
-able split tu
-
-elli
-g. Whe
- this optio
- is o
-, u
-proxied domai
-s are reported i
- the message area.   
-- Use SSH/SSH+ optio
-s if you wa
-t to access domestic sites quickly a
-d your threat model allows it. However we recomme
-d **selecti
-g the VPN optio
-**.
-
-Co
-
-ectio
- to the Psipho
- server is established whe
- the gree
- tick ico
- is displayed o
- the left of the wi
-dow. 
-![image](tool_psipho
-4.p
-g)
-
-Whe
- you close the program, Psipho
- automatically disco
-
-ects. You ca
- also click o
- the ico
- to toggle the co
-
-ectio
-.
+When you close the program, Psiphon automatically disconnects. You can also click on the icon to toggle the connection.
 
 Remember that:  
-- Because Psipho
- 3 is VPN-based, it is able to proxy all of your I
-ter
-et traffic, 
-ot just websites  
-- Traffic betwee
- your PC a
-d the VPN server is e
-crypted, HOWEVER the traffic betwee
- that server a
-d a 
-o
--HTTPS website will 
-ot be e
-crypted. (The same applies to other I
-ter
-et services, such as whe
- co
-
-ecti
-g with Outlook or Thu
-derbird to a 
-o
--SSL email provider.)  
-- If you have 
-ot established a co
-
-ectio
-, you are 
-ot usi
-g the VPN. Just because you have Psipho
- 3 sitti
-g o
- your computer somewhere does 
-ot mea
- your requests go through the proxy.  
-- Web pages may load more slowly whe
- usi
-g a VPN. This is 
-ormal a
-d it is because the browser is 
-ot co
-
-ecti
-g directly to the website  
-- Some paid VPN services may be faster tha
- free o
-es like Psipho
- 3, but you should be careful before trusti
-g a busi
-ess with your i
-formatio
-, as it could be shared with other orga
-isatio
-s or sold to other compa
-ies
+- Because Psiphon 3 is VPN-based, it is able to proxy all of your Internet traffic, not just websites  
+- Traffic between your PC and the VPN server is encrypted, HOWEVER the traffic between that server and a non-HTTPS website will not be encrypted. (The same applies to other Internet services, such as when connecting with Outlook or Thunderbird to a non-SSL email provider.)  
+- If you have not established a connection, you are not using the VPN. Just because you have Psiphon 3 sitting on your computer somewhere does not mean your requests go through the proxy.  
+- Web pages may load more slowly when using a VPN. This is normal and it is because the browser is not connecting directly to the website  
+- Some paid VPN services may be faster than free ones like Psiphon 3, but you should be careful before trusting a business with your information, as it could be shared with other organisations or sold to other companies

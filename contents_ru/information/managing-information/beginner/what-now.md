@@ -1,22 +1,12 @@
 [Title]: # (Что теперь?)
 [Order]: # (3)
 
-Swipe right for this lesso
-'s checklist
+Swipe right for this lesson's checklist
 
 ### RELATED LESSONS
 
-*   [Safely Deleti
-g lesso
-](umbrella://lesso
-/safely-deleti
-g)
+*   [Safely Deleting lesson](umbrella://lesson/safely-deleting)
 
 ### FURTHER READING
 
-*   [EFF - Thread modelli
-g](https://ssd.eff.org/e
-/module/i
-troductio
--threat-modeli
-g)
+*   [EFF - Thread modelling](https://ssd.eff.org/en/module/introduction-threat-modeling)

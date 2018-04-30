@@ -1,107 +1,21 @@
-[Title]: # (Et mai
-te
-a
-t ?)
+[Title]: # (Et maintenant ?)
 [Order]: # (12)
 
-Swipe right for this lesso
-'s checklist
+Swipe right for this lesson's checklist
 
-Go to the Adva
-ced lesso
- for advice o
- survival tech
-iques if you are kid
-apped.[Go to Adva
-ced Lesso
-](umbrella://lesso
-/kid
-appi
-g/1)
+Go to the Advanced lesson for advice on survival techniques if you are kidnapped.[Go to Advanced Lesson](umbrella://lesson/kidnapping/1)
 
-Go to the Expert lesso
- for advice o
- what to do if a staff member is kid
-apped.[Go to Expert Lesso
-](umbrella://lesso
-/kid
-appi
-g/2)
+Go to the Expert lesson for advice on what to do if a staff member is kidnapped.[Go to Expert Lesson](umbrella://lesson/kidnapping/2)
 
 ### RELATED LESSONS/TOOLS
 
-*   [Evacuatio
- lesso
-](umbrella://lesso
-/evacuatio
-)
-*   [Vehicle lesso
-](umbrella://lesso
-/vehicles)
-*   [Cou
-ter-surveilla
-ce lesso
-](umbrella://lesso
-/cou
-ter-surveilla
-ce)
+*   [Evacuation lesson](umbrella://lesson/evacuation)
+*   [Vehicle lesson](umbrella://lesson/vehicles)
+*   [Counter-surveillance lesson](umbrella://lesson/counter-surveillance)
 
 ### FURTHER READING
 
-*   [CARE I
-ter
-atio
-al: Safety & Security Ha
-dbook](https://www.eisf.eu/wp-co
-te
-t/uploads/2014/09/0614-Macpherso
--2004-CARE-I
-ter
-atio
-al-Safety-a
-d-Security-Ha
-dbook.pdf)
-*   [Good Practice Review Number 8: Operatio
-al security ma
-ageme
-t i
- viole
-t e
-viro
-me
-ts (Revised Ed.)](http://odihp
-.org/wp-co
-te
-t/uploads/2010/11/GPR_8_revised2.pdf)
-*   [ECHO Ge
-eric Security Guide for Huma
-itaria
- Orga
-isatio
-s](http://ec.europa.eu/echo/files/evaluatio
-/watsa
-2005/a
-
-ex_files/ECHO/ECHO12%20-%20echo_ge
-eric_security_guide_e
-.doc)
-*   [Protectio
- I
-ter
-atio
-al: New Protectio
- Ma
-ual for Huma
- Rights Defe
-ders (3rd Ed.)](http://protectio
-i
-ter
-atio
-al.org/publicatio
-/
-ew-protectio
--ma
-ual-for-huma
--rights-defe
-ders-3rd-editio
-/)
+*   [CARE International: Safety & Security Handbook](https://www.eisf.eu/wp-content/uploads/2014/09/0614-Macpherson-2004-CARE-International-Safety-and-Security-Handbook.pdf)
+*   [Good Practice Review Number 8: Operational security management in violent environments (Revised Ed.)](http://odihpn.org/wp-content/uploads/2010/11/GPR_8_revised2.pdf)
+*   [ECHO Generic Security Guide for Humanitarian Organisations](http://ec.europa.eu/echo/files/evaluation/watsan2005/annex_files/ECHO/ECHO12%20-%20echo_generic_security_guide_en.doc)
+*   [Protection International: New Protection Manual for Human Rights Defenders (3rd Ed.)](http://protectioninternational.org/publication/new-protection-manual-for-human-rights-defenders-3rd-edition/)

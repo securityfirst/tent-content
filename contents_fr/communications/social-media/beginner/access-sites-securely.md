@@ -3,33 +3,6 @@
 
 # Access sites securely
 
-Access social 
-etworki
-g sites usi
-g https:// to safeguard your user
-ame, password a
-d other i
-formatio
- you post. Usi
-g https:// rather tha
- http:// adds a
-other layer of security by e
-crypti
-g the traffic from your browser to your social 
-etworki
-g site. 
+Access social networking sites using https:// to safeguard your username, password and other information you post. Using https:// rather than http:// adds another layer of security by encrypting the traffic from your browser to your social networking site. 
 
-Be careful whe
- accessi
-g your social 
-etwork accou
-t i
- public i
-ter
-et spaces. Delete your password a
-d browsi
-g history whe
- usi
-g a browser o
- a public machi
-e.
+Be careful when accessing your social network account in public internet spaces. Delete your password and browsing history when using a browser on a public machine.

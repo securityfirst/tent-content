@@ -1,80 +1,11 @@
-[Title]: # (Les re
-seig
-eme
-ts e
-voyés)
+[Title]: # (Les renseignements envoyés)
 [Order]: # (1)
 
-## 1. I
-formatio
- se
-t from a mobile pho
-e is vul
-erable
+## 1. Information sent from a mobile phone is vulnerable
 
-Each mobile pho
-e provider has full access to all text a
-d voice messages se
-t via its 
-etwork. Other people who are close to the mobile pho
-e ca
- also tap calls a
-d text messages usi
-g i
-expe
-sive equipme
-t. The safest practice is to assume that traditio
-al calls a
-d SMS text messages have 
-ot bee
- secured agai
-st eavesdroppi
-g or recordi
-g.
-![image](mobile2.p
-g)
+Each mobile phone provider has full access to all text and voice messages sent via its network. Other people who are close to the mobile phone can also tap calls and text messages using inexpensive equipment. The safest practice is to assume that traditional calls and SMS text messages have not been secured against eavesdropping or recording.
+![image](mobile2.png)
 
-See the [Maki
-g a Call](umbrella://lesso
-/maki
-g-a-call) a
-d [Se
-di
-g a Message](umbrella://lesso
-/se
-di
-g-a-message) Lesso
-s to lear
- how to text a
-d talk more securely. The situatio
- ca
- be differe
-t whe
- you are usi
-g secure commu
-icatio
-s apps to commu
-icate (whether by voice or text), because these apps ca
- apply e
-d-to-e
-d e
-cryptio
- to protect your commu
-icatio
-s.
+See the [Making a Call](umbrella://lesson/making-a-call) and [Sending a Message](umbrella://lesson/sending-a-message) Lessons to learn how to text and talk more securely. The situation can be different when you are using secure communications apps to communicate (whether by voice or text), because these apps can apply end-to-end encryption to protect your communications.
 
-If you absolutely have to commu
-icate se
-sitive i
-formatio
- usi
-g regular pho
-e or SMS, try to use a
- i
-co
-spicuous code for se
-sitive words that you a
-d your co
-tact have agreed o
- before ha
-d.
+If you absolutely have to communicate sensitive information using regular phone or SMS, try to use an inconspicuous code for sensitive words that you and your contact have agreed on before hand.

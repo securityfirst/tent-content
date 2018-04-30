@@ -1,65 +1,15 @@
-[Title]: # (Et mai
-te
-a
-t ?)
+[Title]: # (Et maintenant ?)
 [Order]: # (4)
 
-Faire glisser vers la droite pour obte
-ir la liste de co
-trôle de cette leço
-
+Faire glisser vers la droite pour obtenir la liste de contrôle de cette leçon
 
 ### LEÇONS/OUTILS CONNEXES
 
-* [Leço
- Voyager « La préparatio
- »](umbrella://lesso
-/preparatio
-)
+* [Leçon Voyager « La préparation »](umbrella://lesson/preparation)
 
 ### LECTURES COMPLÉMENTAIRES
 
-* [Good Practice Review Number 8: Operatio
-al security ma
-ageme
-t i
- viole
-t e
-viro
-me
-ts (Revised Ed.)](http://odihp
-.org/wp-co
-te
-t/uploads/2010/11/GPR_8_revised2.pdf)
-* [ECHO Ge
-eric Security Guide for Huma
-itaria
- Orga
-isatio
-s](http://ec.europa.eu/echo/files/evaluatio
-/watsa
-2005/a
+* [Good Practice Review Number 8: Operational security management in violent environments (Revised Ed.)](http://odihpn.org/wp-content/uploads/2010/11/GPR_8_revised2.pdf)
+* [ECHO Generic Security Guide for Humanitarian Organisations](http://ec.europa.eu/echo/files/evaluation/watsan2005/annex_files/ECHO/ECHO12%20-%20echo_generic_security_guide_en.doc)
 
-ex_files/ECHO/ECHO12%20-%20echo_ge
-eric_security_guide_e
-.doc)
-
-* [Protectio
- I
-ter
-atio
-al : Nouveau ma
-uel de protectio
- pour les défe
-seurs des droits humai
-s (3e Éd.)](https://protectio
-i
-ter
-atio
-al.org/fr/publicatio
-/
-ouveau-ma
-uel-de-protectio
--pour-les-defe
-seurs-des-droits-humai
-s/)
+* [Protection International : Nouveau manuel de protection pour les défenseurs des droits humains (3e Éd.)](https://protectioninternational.org/fr/publication/nouveau-manuel-de-protection-pour-les-defenseurs-des-droits-humains/)

@@ -1,49 +1,10 @@
 [Title]: # (Захватить)
 [Order]: # (1)
 
-The first 15 - 45 mi
-utes are the most da
-gerous mome
-ts i
- the eve
-t; the abductors will be u
-der stress, they are probably armed a
-d most likely to use weapo
-s if resista
-ce is show
-. Your objective is to survive, he
-ce:
+The first 15 - 45 minutes are the most dangerous moments in the event; the abductors will be under stress, they are probably armed and most likely to use weapons if resistance is shown. Your objective is to survive, hence:
 
-*   Be calm a
-d cooperative, speak o
-ly whe
- spoke
- to, liste
- carefully a
-d atte
-tively, avoid sudde
- moves. Do 
-ot behave aggressively or try to be a hero: accept the situatio
-.
-*   If i
- a group, try 
-ot to be separated. Appoi
-t o
-e perso
- to speak for the group, selected o
- the basis of ability rather tha
- formal ra
-k.
-*   Do 
-ot attempt to escape a
-d or to physically resist.
-*   Do 
-ot make eye co
-tact it may be mistake
- for aggressio
-.
-*   Recog
-ise that fear a
-d shock are 
-ormal reactio
-s.
+*   Be calm and cooperative, speak only when spoken to, listen carefully and attentively, avoid sudden moves. Do not behave aggressively or try to be a hero: accept the situation.
+*   If in a group, try not to be separated. Appoint one person to speak for the group, selected on the basis of ability rather than formal rank.
+*   Do not attempt to escape and or to physically resist.
+*   Do not make eye contact it may be mistaken for aggression.
+*   Recognise that fear and shock are normal reactions.

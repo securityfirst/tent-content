@@ -1,78 +1,16 @@
-[Title]: # (Et mai
-te
-a
-t ?)
+[Title]: # (Et maintenant ?)
 [Order]: # (14)
 
-Faire glisser vers la droite pour obte
-ir la liste de co
-trôle de cette leço
+Faire glisser vers la droite pour obtenir la liste de contrôle de cette leçon
 
+Aller à la leçon Débutant pour obtenir des conseils sur comment gérer le stress chronique.
+[Aller à la leçon Débutant](umbrella://lesson/stress/0)
 
-Aller à la leço
- Débuta
-t pour obte
-ir des co
-seils sur comme
-t gérer le stress chro
-ique.
-[Aller à la leço
- Débuta
-t](umbrella://lesso
-/stress/0)
-
-Aller à la leço
- Ava
-cé pour obte
-ir des co
-seils sur comme
-t gérer le stress traumatique.
-[Aller à la leço
- Ava
-cé](umbrella://lesso
-/stress/1)
+Aller à la leçon Avancé pour obtenir des conseils sur comment gérer le stress traumatique.
+[Aller à la leçon Avancé](umbrella://lesson/stress/1)
 
 ### LECTURES COMPLÉMENTAIRES
 
-*   [Good Practice Review Number 8: Operatio
-al security ma
-ageme
-t i
- viole
-t e
-viro
-me
-ts (Revised Ed.)](https://www.odihp
-.org/dow
-load/gpr_8_revised2pdf)
-*   [ECHO Ge
-eric Security Guide for Huma
-itaria
- Orga
-isatio
-s](http://ec.europa.eu/echo/files/evaluatio
-/watsa
-2005/a
-
-ex_files/ECHO/ECHO12%20-%20echo_ge
-eric_security_guide_e
-.doc)
-*   [Protectio
- I
-ter
-atio
-al : Nouveau ma
-uel de protectio
- pour les défe
-seurs des droits humai
-s (3e Éd..)](https://protectio
-i
-ter
-atio
-al.org/fr/publicatio
-/
-ouveau-ma
-uel-de-protectio
--pour-les-defe
-seurs-des-droits-humai
-s/)
+*   [Good Practice Review Number 8: Operational security management in violent environments (Revised Ed.)](https://www.odihpn.org/download/gpr_8_revised2pdf)
+*   [ECHO Generic Security Guide for Humanitarian Organisations](http://ec.europa.eu/echo/files/evaluation/watsan2005/annex_files/ECHO/ECHO12%20-%20echo_generic_security_guide_en.doc)
+*   [Protection International : Nouveau manuel de protection pour les défenseurs des droits humains (3e Éd..)](https://protectioninternational.org/fr/publication/nouveau-manuel-de-protection-pour-les-defenseurs-des-droits-humains/)

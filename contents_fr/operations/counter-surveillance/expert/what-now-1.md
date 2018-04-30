@@ -1,52 +1,14 @@
-[Title]: # (Et mai
-te
-a
-t ?)
+[Title]: # (Et maintenant ?)
 [Order]: # (23)
 
-Faire glisser vers la droite pour obte
-ir la liste de co
-trôle de cette leço
+Faire glisser vers la droite pour obtenir la liste de contrôle de cette leçon
 
+Aller à la leçon Débutant pour obtenir des conseils sur la manière de repérer la surveillance d’un bureau et d’agir en conséquence
+[Aller à la leçon Débutant](umbrella://lesson/counter_surveillance/0)
 
-Aller à la leço
- Débuta
-t pour obte
-ir des co
-seils sur la ma
-ière de repérer la surveilla
-ce d’u
- bureau et d’agir e
- co
-séque
-ce
-[Aller à la leço
- Débuta
-t](umbrella://lesso
-/cou
-ter_surveilla
-ce/0)
-
-Aller à la leço
- Ava
-cé pour obte
-ir des co
-seils sur les tech
-iques de co
-tre-surveilla
-ce qua
-d vous êtes à pied.
-[Aller à la leço
- Ava
-cé](umbrella://lesso
-/cou
-ter_surveilla
-ce/1)
+Aller à la leçon Avancé pour obtenir des conseils sur les techniques de contre-surveillance quand vous êtes à pied.
+[Aller à la leçon Avancé](umbrella://lesson/counter_surveillance/1)
 
 ### LEÇONS/OUTILS CONNEXES
 
-* [Les réu
-io
-s](umbrella://lesso
-/meeti
-gs)
+* [Les réunions](umbrella://lesson/meetings)

@@ -5,22 +5,10 @@
 
 ### СВЯЗАННЫЕ УРОКИ/ИНСТРУМЕНТЫ
 
-* [Урок: Мобильные телефоны](umbrella://lesso
-/mobile-pho
-es)
-* [Руководство по инструменту Sig
-al](umbrella://lesso
-/sig
-al)
+* [Урок: Мобильные телефоны](umbrella://lesson/mobile-phones)
+* [Руководство по инструменту Signal](umbrella://lesson/signal)
 
 ### ЧИТАТЬ ДАЛЬШЕ
 
-* [EFF - связь с другими](https://ssd.eff.org/e
-/module/commu
-icati
-g-others)
-* [Безопасность в ящике - Руководство по безопасной передаче информации](https://securityi
-abox.org/e
-/guide/secure-commu
-icatio
-)
+* [EFF - связь с другими](https://ssd.eff.org/en/module/communicating-others)
+* [Безопасность в ящике - Руководство по безопасной передаче информации](https://securityinabox.org/en/guide/secure-communication)

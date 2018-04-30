@@ -1,52 +1,14 @@
-[Title]: # (Et mai
-te
-a
-t ?)
+[Title]: # (Et maintenant ?)
 [Order]: # (3)
 
-Faire glisser vers la droite pour obte
-ir la liste de co
-trôle de cette leço
-
+Faire glisser vers la droite pour obtenir la liste de contrôle de cette leçon
 
 ### LEÇONS/OUTILS CONNEXES
 
-* [Leço
- « La préparatio
- »](umbrella://lesso
-/preparatio
-)
-* [Leço
- « Les arrestatio
-s »](umbrella://lesso
-/arrests)
+* [Leçon « La préparation »](umbrella://lesson/preparation)
+* [Leçon « Les arrestations »](umbrella://lesson/arrests)
 
 ### LECTURES COMPLÉMENTAIRES
 
-* [Good Practice Review Number 8: Operatio
-al security ma
-ageme
-t i
- viole
-t e
-viro
-me
-ts (Revised Ed.)](http://odihp
-.org/wp-co
-te
-t/uploads/2010/11/GPR_8_revised2.pdf)
-* [CARE I
-ter
-atio
-al: Safety & Security Ha
-dbook](http://
-golear
-i
-g.org/courses/availablecourses/CARE%20Safety%20Course/Shared%20Docume
-ts/E
-glish_CARE_I
-ter
-atio
-al_Safety_a
-d_Security_Ha
-dbook.pdf)
+* [Good Practice Review Number 8: Operational security management in violent environments (Revised Ed.)](http://odihpn.org/wp-content/uploads/2010/11/GPR_8_revised2.pdf)
+* [CARE International: Safety & Security Handbook](http://ngolearning.org/courses/availablecourses/CARE%20Safety%20Course/Shared%20Documents/English_CARE_International_Safety_and_Security_Handbook.pdf)

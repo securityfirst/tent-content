@@ -3,2131 +3,489 @@
 
 # PGP FOR WINDOWS PC TOOL GUIDE
 
-## PGP for Wi
-dows PC Tool Guide   
-E
-crypted email for Wi
-dows
+## PGP for Windows PC Tool Guide   
+Encrypted email for Windows
 
-**Lesso
- to read:**
-- **[Email](umbrella://lesso
-/email)**  
-**Dow
-load Locatio
-:**   
-- GPG4Wi
-  
-- Mozilla Thu
-derbird  
-- E
-igmail  
-**Computer requireme
-ts:** A
- i
-ter
-et co
+**Lesson to read:**
+- **[Email](umbrella://lesson/email)**  
+**Download Location:**   
+- GPG4Win  
+- Mozilla Thunderbird  
+- Enigmail  
+**Computer requirements:** An internet connection, a computer running Mac OS X, an email account  
+**Version used in this guide:**   
+- Windows: Windows 7 Ultimate  
+- Mozilla Thunderbird 24.6.0  
+- Enigmail 1.7  
+- GPG4Win 2.2.1  
+**License:** Free Software; mix of Free Software licenses  
+**Level:** Advanced  
+**Time required:** 30-60 minutes
 
-ectio
-, a computer ru
-
-i
-g Mac OS X, a
- email accou
-t  
-**Versio
- used i
- this guide:**   
-- Wi
-dows: Wi
-dows 7 Ultimate  
-- Mozilla Thu
-derbird 24.6.0  
-- E
-igmail 1.7  
-- GPG4Wi
- 2.2.1  
-**Lice
-se:** Free Software; mix of Free Software lice
-ses  
-**Level:** Adva
-ced  
-**Time required:** 30-60 mi
-utes
-
-**Usi
-g PGP will give you:**  
-- The ability to protect your email commu
-icatio
-s from bei
-g read by a
-yo
-e except their i
-te
-ded recipie
-ts.  
-- The ability to prove that a
- email came from a particular perso
-, i
-stead of bei
-g a fake message se
-t by a
-other se
-der (it is otherwise very easy for email to be fabricated). Both of these are importa
-t defe
-ses if you're bei
-g targeted for surveilla
-ce or misi
-formatio
-.
+**Using PGP will give you:**  
+- The ability to protect your email communications from being read by anyone except their intended recipients.  
+- The ability to prove that an email came from a particular person, instead of being a fake message sent by another sender (it is otherwise very easy for email to be fabricated). Both of these are important defenses if you're being targeted for surveillance or misinformation.
 
 ### 1.0 Before you start 
 
-To use Pretty Good Privacy (PGP), you will 
-eed to i
-stall some extra software that will work with your curre
-t email program. You will also 
-eed to create a private key, which you will keep private. The private key is what you will use to decrypt emails se
-t to you, a
-d to digitally sig
- emails that you se
-d to show they truly came from you. Fi
-ally, you'll lear
- how to distribute your public key-a small chu
-k of i
-formatio
- that others will 
-eed to k
-ow before they ca
- se
-d you e
-crypted mail, a
-d that they ca
- use to verify emails you se
-d.
+To use Pretty Good Privacy (PGP), you will need to install some extra software that will work with your current email program. You will also need to create a private key, which you will keep private. The private key is what you will use to decrypt emails sent to you, and to digitally sign emails that you send to show they truly came from you. Finally, you'll learn how to distribute your public key-a small chunk of information that others will need to know before they can send you encrypted mail, and that they can use to verify emails you send.
 
-**Note that both e
-ds of the email co
-versatio
- 
-eed to be usi
-g PGP-compatible software for it to work.**
+**Note that both ends of the email conversation need to be using PGP-compatible software for it to work.**
 
-People will 
-ormally use this o
-ly o
- their ow
- perso
-al devices, 
-ot o
- shared devices. Fortu
-ately, PGP is available for most desktop computers a
-d mobile devices, a
-d you ca
- poi
-t them to these guides to help them set up their ow
- versio
-. This guide is for Wi
-dows users.
+People will normally use this only on their own personal devices, not on shared devices. Fortunately, PGP is available for most desktop computers and mobile devices, and you can point them to these guides to help them set up their own version. This guide is for Windows users.
 
 ### 1.1 Overview
 
-To use PGP to excha
-ge secure emails you have to bri
-g together three programs: GPG4Wi
- (GNU Privacy Guard for Wi
-dows k
-ow
- as G
-uPG), Mozilla Thu
-derbird a
-d E
-igmail. 
+To use PGP to exchange secure emails you have to bring together three programs: GPG4Win (GNU Privacy Guard for Windows known as GnuPG), Mozilla Thunderbird and Enigmail. 
 
-- G
-uPG is the program that actually e
-crypts a
-d decrypts the co
-te
-t of your mail.  
-- Mozilla Thu
-derbird is a
- email clie
-t that allows you to read a
-d write emails without usi
-g a browser.  
-- E
-igmail is a
- add-o
- to Mozilla Thu
-derbird that ties it all together.
+- GnuPG is the program that actually encrypts and decrypts the content of your mail.  
+- Mozilla Thunderbird is an email client that allows you to read and write emails without using a browser.  
+- Enigmail is an add-on to Mozilla Thunderbird that ties it all together.
 
-Note! What this guide teaches is how to use PGP with Mozilla Thu
-derbird, a
- email clie
-t program that performs a similar fu
-ctio
- to Outlook. You may have your ow
- favorite email software program (or use a web mail service like Google Mail or Outlook.com). This guide wo
-'t tell you how to use PGP with these programs. You ca
- choose either to i
-stall Thu
-derbird a
-d experime
-t with PGP with a 
-ew email clie
-t, or you ca
- i
-vestigate other solutio
-s to use PGP with your customary software. We have still 
-ot fou
-d a satisfactory solutio
- for these other programs.
+Note! What this guide teaches is how to use PGP with Mozilla Thunderbird, an email client program that performs a similar function to Outlook. You may have your own favorite email software program (or use a web mail service like Google Mail or Outlook.com). This guide won't tell you how to use PGP with these programs. You can choose either to install Thunderbird and experiment with PGP with a new email client, or you can investigate other solutions to use PGP with your customary software. We have still not found a satisfactory solution for these other programs.
 
-**Usi
-g PGP does
-'t completely e
-crypt your email: the se
-der a
-d receiver i
-formatio
- is still u
-e
-crypted a
-d so is the subject li
-e!**
+**Using PGP doesn't completely encrypt your email: the sender and receiver information is still unencrypted and so is the subject line!**
 
-E
-crypti
-g the se
-der a
-d receiver i
-formatio
- is
-'t possible i
- the existi
-g email system. What usi
-g Mozilla Thu
-derbird with the E
-igmail add-o
- gives you is a
- easy way to e
-crypt the co
-te
-t of your email. Someo
-e spyi
-g o
- your emails may still see the ide
-tities of the people you commu
-icate with a
-d whe
- you email them.
+Encrypting the sender and receiver information isn't possible in the existing email system. What using Mozilla Thunderbird with the Enigmail add-on gives you is an easy way to encrypt the content of your email. Someone spying on your emails may still see the identities of the people you communicate with and when you email them.
 
-You will first dow
-load all the software 
-eeded, i
-stall it, a
-d the
- e
-d with co
-figuratio
- a
-d usage.
+You will first download all the software needed, install it, and then end with configuration and usage.
 
-### 2 Dow
-loadi
-g the software
+### 2 Downloading the software
 
-### 2.1 Getti
-g GPG4Wi
+### 2.1 Getting GPG4Win
+
+You can get GnuPG (also known as GPG) on Windows by downloading the small installer from the GPG4Win download page.
+![image](tool_pgpwin1.png)
+
+Click on the most recent version of GPG4Win with GnuPG component only (Vanilla or Light) to download the GPG installer.
+
+**Note: This version of GPG is available only on a web site that offers "http" downloads, not secure "https" downloads. If you are concerned that you may be targeted for surveillance by an organization that can tamper with your Internet connection, you may want to investigate more drastic solutions, such as downloading and running Tails, a secure operating system that replaces Windows.**
+
+Many browsers will ask you to confirm whether you want to download this file. Internet Explorer 11 shows a bar at the bottom of the browser window with an orange border.
+
+For any browser it is best to first save the file before proceeding, so _click the "Save" button_. By default, most browsers save downloaded files in the Downloads folder.
+
+### 2.2 Getting Mozilla Thunderbird
+
+Go to the Mozilla Thunderbird website.
+![image](tool_pgpwin2.png)
+
+Click on the green button labelled "Thunderbird Free Download."
+
+The Mozilla Thunderbird website will have detected your preferred language. If you want to use Thunderbird in another language click on the "Other Systems & Languages" link and make your selection from there.
+
+Many browsers will ask you to confirm if you want to download this file. Internet Explorer 11 shows a bar at the bottom of the browser window with an orange border.
+![image](tool_pgpwin3.png)
+
+For any browser, it is best to first save the file before proceeding, so click the "Save" button. By default, most browsers save downloaded files in the Downloads folder.
+
+### 2.3 Getting Enigmail
+
+You can get Enigmail from the Enigmail website.
+![image](tool_pgpwin4.png)
+
+Many browsers will ask you to confirm if you want to download this file. Internet Explorer 11 shows a bar at the bottom of the browser window with an orange border.
+![image](tool_pgpwin5.png)
+For any browser it is best to first save the file before proceeding, so click the "Save" button. By default, most browsers save downloaded files in the Downloads folder.
 
 
-You ca
- get G
-uPG (also k
-ow
- as GPG) o
- Wi
-dows by dow
-loadi
-g the small i
-staller from the GPG4Wi
- dow
-load page.
-![image](tool_pgpwi
-1.p
-g)
+After downloading Enigmail, GPG4Win, and Mozilla Thunderbird you should have three new files in your Downloads folder:
+![image](tool_pgpwin6.png)
 
-Click o
- the most rece
-t versio
- of GPG4Wi
- with G
-uPG compo
-e
-t o
-ly (Va
-illa or Light) to dow
-load the GPG i
-staller.
+### 3 Installing the software
 
-**Note: This versio
- of GPG is available o
-ly o
- a web site that offers "http" dow
-loads, 
-ot secure "https" dow
-loads. If you are co
-cer
-ed that you may be targeted for surveilla
-ce by a
- orga
-izatio
- that ca
- tamper with your I
-ter
-et co
+### 3.1 Installing GPG4Win
 
-ectio
-, you may wa
-t to i
-vestigate more drastic solutio
-s, such as dow
-loadi
-g a
-d ru
+Keep the Windows Explorer window open and double-click on gpg4win-xxx-x.x.x.exe. You'll be asked if you want to allow the installation of this program. Click the "Yes" button.
+![image](tool_pgpwin7.png)
 
-i
-g Tails, a secure operati
-g system that replaces Wi
-dows.**
+A window will open, giving you an overview of what will be installed. Click the "Next" button.
+![image](tool_pgpwin8.png)
 
-Ma
-y browsers will ask you to co
-firm whether you wa
-t to dow
-load this file. I
-ter
-et Explorer 11 shows a bar at the bottom of the browser wi
-dow with a
- ora
-ge border.
+A window with the license agreement will open up. Click the "Next" button.
+![image](tool_pgpwin9.png)
 
-For a
-y browser it is best to first save the file before proceedi
-g, so _click the "Save" butto
-_. By default, most browsers save dow
-loaded files i
- the Dow
-loads folder.
+The GPG4Win Vanilla package doesn't have components to select, so click the "Next "button again. For the GPG4Win-Light package, unselect all optional components to install GnuPG only.
+![image](tool_pgpwin10.png)
 
-### 2.2 Getti
-g Mozilla Thu
-derbird
+Next, you'll have the ability to choose where GPG is installed. Don't change the default setting. Click the "Next" button.
+![image](tool_pgpwin11.png)
 
-Go to the Mozilla Thu
-derbird website.
-![image](tool_pgpwi
-2.p
-g)
+The next two windows will have some installation options. Click the "Next" button and then click the "Install" button:
+![image](tool_pgpwin12.png)![image](tool_pgpwin13.png)
 
-Click o
- the gree
- butto
- labelled "Thu
-derbird Free Dow
-load."
+You will see a window with a progress bar-when it's done it will say "Installation Complete." Click the "Next" button again.
+![image](tool_pgpwin14.png)
 
-The Mozilla Thu
-derbird website will have detected your preferred la
-guage. If you wa
-t to use Thu
-derbird i
- a
-other la
-guage click o
- the "Other Systems & La
-guages" li
-k a
-d make your selectio
- from there.
+Finally, you are at the last installation step. Remove the check mark next to "Show the README file" and click the "Finish" button.
+![image](tool_pgpwin15.png)
 
-Ma
-y browsers will ask you to co
-firm if you wa
-t to dow
-load this file. I
-ter
-et Explorer 11 shows a bar at the bottom of the browser wi
-dow with a
- ora
-ge border.
-![image](tool_pgpwi
-3.p
-g)
+That's it. Now let's move on to installing Mozilla Thunderbird.
 
-For a
-y browser, it is best to first save the file before proceedi
-g, so click the "Save" butto
-. By default, most browsers save dow
-loaded files i
- the Dow
-loads folder.
+### 3.2 Installing Mozilla Thunderbird
 
-### 2.3 Getti
-g E
-igmail
+Similar to GPG4Win, you install Mozilla Thunderbird by double-clicking the Thunderbird Setup 24.6.0.exe file. As usual, you will be asked if you want to run this file. Click the "Run" button.
+![image](tool_pgpwin16.png)
 
-You ca
- get E
-igmail from the E
-igmail website.
-![image](tool_pgpwi
-4.p
-g)
+You will be asked if you want to allow Mozilla Thunderbird to make a change to your computer by installing software. Click the "Yes" button.
+![image](tool_pgpwin17.png)
 
-Ma
-y browsers will ask you to co
-firm if you wa
-t to dow
-load this file. I
-ter
-et Explorer 11 shows a bar at the bottom of the browser wi
-dow with a
- ora
-ge border.
-![image](tool_pgpwi
-5.p
-g)
-For a
-y browser it is best to first save the file before proceedi
-g, so click the "Save" butto
-. By default, most browsers save dow
-loaded files i
- the Dow
-loads folder.
+You will see the Mozilla Thunderbird Setup window. Click the "Next" button.
+![image](tool_pgpwin18.png)
 
+Next, you will get a choice between a Standard setup and a Custom setup. Keep the Standard setup selection and click the "Next" button.
+![image](tool_pgpwin18.png)
 
-After dow
-loadi
-g E
-igmail, GPG4Wi
-, a
-d Mozilla Thu
-derbird you should have three 
-ew files i
- your Dow
-loads folder:
-![image](tool_pgpwi
-6.p
-g)
+You will be given a summary of where Mozilla Thunderbird's files will be installed. Click the "Install" button.
+![image](tool_pgpwin19.png)
 
-### 3 I
-stalli
-g the software
+When the installation process is complete, you will see a final window that enables you to launch Mozilla Thunderbird. Click the "Finish" button.
+![image](tool_pgpwin20.png)
 
-### 3.1 I
-stalli
-g GPG4Wi
+### 3.3. Enigmail installation
 
+**Step 1. Preparation** 
 
-Keep the Wi
-dows Explorer wi
-dow ope
- a
-d double-click o
- gpg4wi
--xxx-x.x.x.exe. You'll be asked if you wa
-t to allow the i
-stallatio
- of this program. Click the "Yes" butto
-.
-![image](tool_pgpwi
-7.p
-g)
+When Mozilla Thunderbird launches for the first time, you will see this small confirmation window asking about some default settings. We recommend clicking the "Set as Default" button.
+![image](tool_pgpwin21.png)
 
-A wi
-dow will ope
-, givi
-g you a
- overview of what will be i
-stalled. Click the "Next" butto
-.
-![image](tool_pgpwi
-8.p
-g)
+Next, you will be asked whether you would like a new email address. Click the "Skip this and use my existing email" button. Now you will configure Mozilla Thunderbird to send and receive email. If you are used to only reading and sending email through gmail.com, outlook.com, or yahoo.com, Mozilla Thunderbird will be a new experience, but it isn't that different overall.
+![image](tool_pgpwin22.png)
 
-A wi
-dow with the lice
-se agreeme
-t will ope
- up. Click the "Next" butto
-.
-![image](tool_pgpwi
-9.p
-g)
+**Step 2. Adding a mail account to Mozilla Thunderbird**
 
-The GPG4Wi
- Va
-illa package does
-'t have compo
-e
-ts to select, so click the "Next "butto
- agai
-. For the GPG4Wi
--Light package, u
-select all optio
-al compo
-e
-ts to i
-stall G
-uPG o
-ly.
-![image](tool_pgpwi
-10.p
-g)
+A new window will open.
+![image](tool_pgpwin23.png)
 
-Next, you'll have the ability to choose where GPG is i
-stalled. Do
-'t cha
-ge the default setti
-g. Click the "Next" butto
-.
-![image](tool_pgpwi
-11.p
-g)
+Enter your name, email address, and the password to your email account. Mozilla doesn't have access to your password or your email account. Click the "Continue" button.
+![image](tool_pgpwin24.png)
 
-The 
-ext two wi
-dows will have some i
-stallatio
- optio
-s. Click the "Next" butto
- a
-d the
- click the "I
-stall" butto
-:
-![image](tool_pgpwi
-12.p
-g)![image](tool_pgpwi
-13.p
-g)
+In many cases Mozilla Thunderbird will automatically detect the necessary settings. In some cases Mozilla Thunderbird doesn't have complete information and you'll need to enter it yourself. Here is an example of the instructions Google provides for Gmail:
 
-You will see a wi
-dow with a progress bar-whe
- it's do
-e it will say "I
-stallatio
- Complete." Click the "Next" butto
- agai
-.
-![image](tool_pgpwi
-14.p
-g)
-
-Fi
-ally, you are at the last i
-stallatio
- step. Remove the check mark 
-ext to "Show the README file" a
-d click the "Fi
-ish" butto
-.
-![image](tool_pgpwi
-15.p
-g)
-
-That's it. Now let's move o
- to i
-stalli
-g Mozilla Thu
-derbird.
-
-### 3.2 I
-stalli
-g Mozilla Thu
-derbird
-
-Similar to GPG4Wi
-, you i
-stall Mozilla Thu
-derbird by double-clicki
-g the Thu
-derbird Setup 24.6.0.exe file. As usual, you will be asked if you wa
-t to ru
- this file. Click the "Ru
-" butto
-.
-![image](tool_pgpwi
-16.p
-g)
-
-You will be asked if you wa
-t to allow Mozilla Thu
-derbird to make a cha
-ge to your computer by i
-stalli
-g software. Click the "Yes" butto
-.
-![image](tool_pgpwi
-17.p
-g)
-
-You will see the Mozilla Thu
-derbird Setup wi
-dow. Click the "Next" butto
-.
-![image](tool_pgpwi
-18.p
-g)
-
-Next, you will get a choice betwee
- a Sta
-dard setup a
-d a Custom setup. Keep the Sta
-dard setup selectio
- a
-d click the "Next" butto
-.
-![image](tool_pgpwi
-18.p
-g)
-
-You will be give
- a summary of where Mozilla Thu
-derbird's files will be i
-stalled. Click the "I
-stall" butto
-.
-![image](tool_pgpwi
-19.p
-g)
-
-Whe
- the i
-stallatio
- process is complete, you will see a fi
-al wi
-dow that e
-ables you to lau
-ch Mozilla Thu
-derbird. Click the "Fi
-ish" butto
-.
-![image](tool_pgpwi
-20.p
-g)
-
-### 3.3. E
-igmail i
-stallatio
-
-
-**Step 1. Preparatio
-** 
-
-Whe
- Mozilla Thu
-derbird lau
-ches for the first time, you will see this small co
-firmatio
- wi
-dow aski
-g about some default setti
-gs. We recomme
-d clicki
-g the "Set as Default" butto
-.
-![image](tool_pgpwi
-21.p
-g)
-
-Next, you will be asked whether you would like a 
-ew email address. Click the "Skip this a
-d use my existi
-g email" butto
-. Now you will co
-figure Mozilla Thu
-derbird to se
-d a
-d receive email. If you are used to o
-ly readi
-g a
-d se
-di
-g email through gmail.com, outlook.com, or yahoo.com, Mozilla Thu
-derbird will be a 
-ew experie
-ce, but it is
-'t that differe
-t overall.
-![image](tool_pgpwi
-22.p
-g)
-
-**Step 2. Addi
-g a mail accou
-t to Mozilla Thu
-derbird**
-
-A 
-ew wi
-dow will ope
-.
-![image](tool_pgpwi
-23.p
-g)
-
-E
-ter your 
-ame, email address, a
-d the password to your email accou
-t. Mozilla does
-'t have access to your password or your email accou
-t. Click the "Co
-ti
-ue" butto
-.
-![image](tool_pgpwi
-24.p
-g)
-
-I
- ma
-y cases Mozilla Thu
-derbird will automatically detect the 
-ecessary setti
-gs. I
- some cases Mozilla Thu
-derbird does
-'t have complete i
-formatio
- a
-d you'll 
-eed to e
-ter it yourself. Here is a
- example of the i
-structio
-s Google provides for Gmail:
-
-I
-comi
-g Mail (IMAP) Server - Requires SSL  
+Incoming Mail (IMAP) Server - Requires SSL  
 - imap.gmail.com  
 - Port: 993  
 - Requires SSL:Yes
 
-Outgoi
-g Mail (SMTP) Server - Requires TLS  
+Outgoing Mail (SMTP) Server - Requires TLS  
 - smtp.gmail.com  
 - Port: 465 or 587  
 - Requires SSL: Yes  
-- Requires authe
-ticatio
-: Yes  
-- Use same setti
-gs as i
-comi
-g mail server
+- Requires authentication: Yes  
+- Use same settings as incoming mail server
 
-**Full Name or Display Name:** [your 
-ame or pseudo
-ym]
+**Full Name or Display Name:** [your name or pseudonym]
 
-**Accou
-t Name or User Name:** your full Gmail address (user
-ame@gmail.com). Google Apps users, please e
-ter user
-ame@your_domai
-.com
+**Account Name or User Name:** your full Gmail address (username@gmail.com). Google Apps users, please enter username@your_domain.com
 
-**Email address:** your full Gmail address (user
-ame@gmail.com) Google Apps users, please e
-ter user
-ame@your_domai
-.com
+**Email address:** your full Gmail address (username@gmail.com) Google Apps users, please enter username@your_domain.com
 
 **Password:** your Gmail password
 
-**If you use two-factor authe
-ticatio
- with Google (a
-d depe
-di
-g o
- your threat model you probably should!) you ca
+**If you use two-factor authentication with Google (and depending on your threat model you probably should!) you cannot use your standard Gmail password with Thunderbird. Instead, you will need to create a new application-specific password for Thunderbird to access your Gmail account. See [Google's own guide](https://support.google.com/mail/answer/1173270?hl=en) for doing this.**
 
-ot use your sta
-dard Gmail password with Thu
-derbird. I
-stead, you will 
-eed to create a 
-ew applicatio
--specific password for Thu
-derbird to access your Gmail accou
-t. See [Google's ow
- guide](https://support.google.com/mail/a
-swer/1173270?hl=e
-) for doi
-g this.**
+When all the information is entered correctly, click the "Done" button.
+![image](tool_pgpwin25.png)
 
-Whe
- all the i
-formatio
- is e
-tered correctly, click the "Do
-e" butto
-.
-![image](tool_pgpwi
-25.p
-g)
+Mozilla Thunderbird will start downloading copies of your email to your computer. Try sending a test email to your friends.
 
-Mozilla Thu
-derbird will start dow
-loadi
-g copies of your email to your computer. Try se
-di
-g a test email to your frie
-ds.
+**Step 3. Installing Enigmail**
 
-**Step 3. I
-stalli
-g E
-igmail**
+Enigmail is installed in a different way from Mozilla Thunderbird and GPG4Win. As mentioned before, Enigmail is an Add-on for Mozilla Thunderbird. Click the "Menu button," also called the Hamburger button, and select "Add Ons."
+![image](tool_pgpwin26.png)
 
-E
-igmail is i
-stalled i
- a differe
-t way from Mozilla Thu
-derbird a
-d GPG4Wi
-. As me
-tio
-ed before, E
-igmail is a
- Add-o
- for Mozilla Thu
-derbird. Click the "Me
-u butto
-," also called the Hamburger butto
-, a
-d select "Add O
-s."
-![image](tool_pgpwi
-26.p
-g)
+You'll be taken to the Add-ons Manager tab.
+![image](tool_pgpwin27.png)
 
-You'll be take
- to the Add-o
-s Ma
-ager tab.
-![image](tool_pgpwi
-27.p
-g)
+Click the cog to bring up a small menu and select "Install add-on from file" which will bring up a file-selection window.
+![image](tool_pgpwin28.png)
 
-Click the cog to bri
-g up a small me
-u a
-d select "I
-stall add-o
- from file" which will bri
-g up a file-selectio
- wi
-dow.
-![image](tool_pgpwi
-28.p
-g)
+The file selection window will very likely open to the Downloads folder. If it doesn't, go to the Downloads folder (where Enigmail was saved to) click on enigmail-1.7-tb+sm.xpi then click the "Open" button.
+![image](tool_pgpwin29.png)
 
-The file selectio
- wi
-dow will very likely ope
- to the Dow
-loads folder. If it does
-'t, go to the Dow
-loads folder (where E
-igmail was saved to) click o
- e
-igmail-1.7-tb+sm.xpi the
- click the "Ope
-" butto
-.
-![image](tool_pgpwi
-29.p
-g)
+Now you will see a small window asking you to confirm whether you want to install Enigmail. Click the "Install Now" button.
+![image](tool_pgpwin30.png)
 
-Now you will see a small wi
-dow aski
-g you to co
-firm whether you wa
-t to i
-stall E
-igmail. Click the "I
-stall Now" butto
-.
-![image](tool_pgpwi
-30.p
-g)
+After the Enigmail add-on is installed, Mozilla Thunderbird will ask to restart the browser to activate Enigmail. Click the "Restart Now" button and Mozilla Thunderbird will restart.
+![image](tool_pgpwin31.png)
 
-After the E
-igmail add-o
- is i
-stalled, Mozilla Thu
-derbird will ask to restart the browser to activate E
-igmail. Click the "Restart Now" butto
- a
-d Mozilla Thu
-derbird will restart.
-![image](tool_pgpwi
-31.p
-g)
+When Mozilla Thunderbird restarts, an additional window will open up that will start the process of setting up the Enigmail add-on. Keep the "Yes, I would like the wizard to get me started" button selected and click the "Next" button.
+![image](tool_pgpwin32.png)
 
-Whe
- Mozilla Thu
-derbird restarts, a
- additio
-al wi
-dow will ope
- up that will start the process of setti
-g up the E
-igmail add-o
-. Keep the "Yes, I would like the wizard to get me started" butto
- selected a
-d click the "Next" butto
-.
-![image](tool_pgpwi
-32.p
-g)
+Enigmail provides you with three options for handling mail. The default option is to encrypt emails if you have the "public key" of another person, Enigmail will encrypt the email you send but leave emails unencrypted if you don't have the public key of the recipient yet. You also have the option to encrypt emails all the time to everyone with PGP keys, which means that you will have to find the public keys for people for whom you don't have them already, or turn off automatic encryption  completely and only use PGP when directed.
+![image](tool_pgpwin33.png)
 
-E
-igmail provides you with three optio
-s for ha
-dli
-g mail. The default optio
- is to e
-crypt emails if you have the "public key" of a
-other perso
-, E
-igmail will e
-crypt the email you se
-d but leave emails u
-e
-crypted if you do
-'t have the public key of the recipie
-t yet. You also have the optio
- to e
-crypt emails all the time to everyo
-e with PGP keys, which mea
-s that you will have to fi
-d the public keys for people for whom you do
-'t have them already, or tur
- off automatic e
-cryptio
-  completely a
-d o
-ly use PGP whe
- directed.
-![image](tool_pgpwi
-33.p
-g)
+We don't know what the appropriate option is for you, but believe the "Convenient auto encryption" option to be a good choice. If you are in doubt, choose "Don't encrypt my messages by default." Click the "Next" button.
 
-We do
-'t k
-ow what the appropriate optio
- is for you, but believe the "Co
-ve
-ie
-t auto e
-cryptio
-" optio
- to be a good choice. If you are i
- doubt, choose "Do
-'t e
-crypt my messages by default." Click the "Next" butto
-.
+Now you have an option to digitally sign all outgoing emails. Signing your email with PGP allows the recipient to check that you sent the message, and that the contents of the message were not tampered with. Click the "Sign my messages by default" button to turn this feature on. The downside of doing this, however, is that it can also flag to anyone you send mail to that you use PGP. [In some parts of the world](www.cryptolaw.org/) (including China, Iran, Belarus, and some Middle-East states) using unlicensed encryption, even for personal use, is illegal, so you might have very good reasons to not let others know you use PGP.
 
-Now you have a
- optio
- to digitally sig
- all outgoi
-g emails. Sig
-i
-g your email with PGP allows the recipie
-t to check that you se
-t the message, a
-d that the co
-te
-ts of the message were 
-ot tampered with. Click the "Sig
- my messages by default" butto
- to tur
- this feature o
-. The dow
-side of doi
-g this, however, is that it ca
- also flag to a
-yo
-e you se
-d mail to that you use PGP. [I
- some parts of the world](www.cryptolaw.org/) (i
-cludi
-g Chi
-a, Ira
-, Belarus, a
-d some Middle-East states) usi
-g u
-lice
-sed e
-cryptio
-, eve
- for perso
-al use, is illegal, so you might have very good reaso
-s to 
-ot let others k
-ow you use PGP.
+Click the "Next" Button.
+![image](tool_pgpwin34.png)
 
-Click the "Next" Butto
-.
-![image](tool_pgpwi
-34.p
-g)
+Now you'll see an option to have Enigmail make some changes to the configuration of Mozilla Thunderbird.
+![image](tool_pgpwin35.png)
 
-Now you'll see a
- optio
- to have E
-igmail make some cha
-ges to the co
-figuratio
- of Mozilla Thu
-derbird.
-![image](tool_pgpwi
-35.p
-g)
+If you click the Details button you can review what those changes are.
+![image](tool_pgpwin36.png)
 
-If you click the Details butto
- you ca
- review what those cha
-ges are.
-![image](tool_pgpwi
-36.p
-g)
-
-The followi
-g optio
-s ca
- be u
-checked (ree
-abled), for a more seamless tra
-sitio
-, if you use PGP/Mime by default (we'll set that later):
+The following options can be unchecked (reenabled), for a more seamless transition, if you use PGP/Mime by default (we'll set that later):
 
 - Disable flowed text  
-- View message body as plai
- text  
-- Do 
-ot compose HTML messages
-The fi
-al optio
- preve
-ts pote
-tial problems i
- the e
-cryptio
- a
-d decryptio
- of your email. Be aware that selecti
-g this box will remove the ability to se
-d text that is bolded, u
-derli
-ed or colored. After reviewi
-g the cha
-ges, click the "OK butto
-."
-
-
-The small wi
-dow will close. Click the "Next" butto
-.
-
-Now you will start creati
-g your private key a
-d public key.
-
-### 4 Creati
-g a public key a
-d private key
-
-I
-stallatio
- a
-d setup of the E
-igmail add-o
- is complete. Now you'll have the optio
- of creati
-g your public a
-d private key pair. This assumes you have 
-ot created a private key before.
-
-Click the "Next" butto
-.
-![image](tool_pgpwi
-37.p
-g)
-
-U
-less you have already co
-figured more tha
- o
-e email accou
-t, E
-igmail will choose the email accou
-t you've already co
-figured. The first thi
-g you'll 
-eed to do is come up with a stro
-g passphrase for your private key. See the **[Passwords lesso
-](umbrella://lesso
-/passwords)** for more i
-formatio
- o
- how to do this.
-
-Make sure that you've writte
- dow
- this passphrase o
- paper u
-til you have memorized it. Keep it somewhere where you ca
- tell if it has bee
- take
- or viewed (like your wallet or purse). Just make sure you do
-'t leave this paper lyi
-g arou
-d.
-
-Click the "Next" butto
-.
-
-E
-igmail will display some i
-formatio
- about your private key as well as the co
-figuratio
- setti
-gs. We recomme
-d creati
-g 4096-bit le
-gth keys. Click the "Next" butto
-.
-![image](tool_pgpwi
-38.p
-g)
-
-**Your key will expire at a certai
- time; whe
- that happe
-s, other people will stop usi
-g it e
-tirely for 
-ew emails to you, though you might 
-ot get a
-y war
-i
-g or expla
-atio
- about why. So, you may wa
-t to mark your cale
-dar a
-d pay atte
-tio
- to this issue a mo
-th or so before the expiratio
- date.**
-
-It's possible to exte
-d the lifetime of a
- existi
-g key by givi
-g it a 
-ew, later expiratio
- date, or it's possible to replace it with a 
-ew key by creati
-g a fresh o
-e from scratch. Both processes might require co
-tacti
-g people who email you a
-d maki
-g sure that they get the updated key; curre
-t software is
-'t very good at automati
-g this. So make a remi
-der for yourself; if you do
-'t thi
-k you'll be able to ma
-age it, you ca
- co
-sider setti
-g the key so that it 
-ever expires, though i
- that case other people might try to use it whe
- co
-tacti
-g you far i
- the future eve
- if you 
-o lo
-ger have the private key or 
-o lo
-ger use PGP.
-
-E
-igmail will ge
-erate the key a
-d whe
- it is complete, a small wi
-dow will ope
- aski
-g you to ge
-erate a revocatio
- certificate. This revocatio
- certificate is importa
-t to have as it allows you to make the private key a
-d public key i
-valid. It is importa
-t to 
-ote that merely deleti
-g the private key does 
-ot i
-validate the public key a
-d may lead to people se
-di
-g you e
-crypted mail that you ca
-'t decrypt.
-
-Click the "Ge
-erate Certificate" butto
-.
-![image](tool_pgpwi
-39.p
-g)
-
-A wi
-dow will ope
- to provide you a place to save the revocatio
- certificate. While you ca
- save the file to your computer, we recomme
-d savi
-g the file o
- a USB drive that you are usi
-g for 
-othi
-g else a
-d stori
-g the drive i
- a safe spot. We also recomme
-d removi
-g the revocatio
- certificate from the computer with the keys, just to avoid u
-i
-te
-tio
-al revocatio
-.
-
-Eve
- better, save this file o
- a separate e
-crypted disk. Choose the locatio
- where you are savi
-g this file a
-d click the "Save" butto
-.
-![image](tool_pgpwi
-40.p
-g)
-
-Now E
-igmail will give you further i
-formatio
- about savi
-g the revocatio
- certificate file agai
-. Click the "OK" butto
-.
-![image](tool_pgpwi
-41.p
-g)
-
-Fi
-ally, you are do
-e with ge
-erati
-g the private key a
-d public key. Click the "Fi
-ish" butto
-.
-![image](tool_pgpwi
-42.p
-g)
-
-### 5 Optio
-al steps
-
-### 5.1 Display lo
-g key-IDs
-
-The 
-ext steps are completely optio
-al but they ca
- be helpful whe
- usi
-g Ope
-PGP a
-d E
-igmail. Briefly, the Key ID is a small part of the fi
-gerpri
-t. Whe
- it comes to verifyi
-g that a public key belo
-gs to a particular perso
- the fi
-gerpri
-t is the best way. Cha
-gi
-g the default display makes it easier to read the fi
-gerpri
-ts of the certificates you k
-ow about. Click the co
-figuratio
- butto
-, the
- the E
-igmail optio
-, the
- Key Ma
-ageme
-t.
-![image](tool_pgpwi
-43.p
-g)
-
-A wi
-dow will ope
- showi
-g two colum
-s: Name a
-d Key ID.
-![image](tool_pgpwi
-43.p
-g)
-
-O
- the far right there is a small butto
-. Click that butto
- to co
-figure the colum
-s. U
-click the Key ID optio
- a
-d click the Fi
-gerpri
-t optio
-.
-![image](tool_pgpwi
-44.p
-g)
-
-Now the colum
-s will look like this:
-![image](tool_pgpwi
-45.p
-g)
-
-Now you are set up to se
-d a
-d receive regular a
-d e
-crypted email. Next you will go through the steps of actually fi
-di
-g the people to excha
-ge e
-crypted mail with.
-
-### 5.2 Usi
-g PGP/MIME
-
-There is a fi
-al optio
-al co
-figuratio
- step is to e
-able PGP/MIME which makes se
-di
-g e
-crypted a
-d sig
-ed attachme
-ts easier.
-
-You ca
- fi
-d this setti
-g by clicki
-g o
- the Me
-u Butto
-, hoveri
-g over Optio
-s, the
- clicki
-g Accou
-t Setti
-gs. The Accou
-t Setti
-gs wi
-dow will ope
-.
-![image](tool_pgpwi
-46.p
-g)
-
-Whe
- the Accou
-t Setti
-gs wi
-dow ope
-s click the Ope
-PGP Security tab the
- click the checkbox 
-ext to Use PGP/MIME by default. Next click the OK butto
-. Now E
-igmail will use PGP/MIME by default.
-![image](tool_pgpwi
-47.p
-g)
-
-**Usi
-g PGP does
-'t completely e
-crypt your email so that the se
-der a
-d received i
-formatio
- is e
-crypted. E
-crypti
-g the se
-der a
-d receiver i
-formatio
- would break email. Usi
-g Thu
-derbird with the E
-igmail add-o
- gives you a
- easy way to e
-crypt a
-d decrypt the co
-te
-t of your email.**
-
-### 6.1 Letti
-g others k
-ow you are usi
-g PGP
-
-Now that you have PGP, you wa
-t to let others k
-ow that you are usi
-g it so they ca
- also se
-d you e
-crypted messages usi
-g PGP.
-
-Let's look at three differe
-t ways you ca
- let people k
-ow you are usi
-g PGP.
-
-**a) Let people k
-ow you are usi
-g PGP with a
- email**
-
-You ca
- easily email your public key to a
-other perso
- by se
-di
-g them a copy as a
- attachme
-t.
-
-Click the "Write" butto
- i
- Mozilla Thu
-derbird.
-![image](tool_pgpwi
-48.p
-g)
-
-Fill i
- a
- address a
-d a subject, perhaps somethi
-g like "my public key," click the E
-igmail me
-u a
-d select the "Attach My Public Key" optio
-.
-![image](tool_pgpwi
-49.p
-g)
-
-You ca
- se
-d the email a
-d the recipie
-t will be able to dow
-load a
-d use the public key you se
-t.
-
-If this method is used, it's a good idea to have the recipie
-t verify your public key's fi
-gerpri
-t over some other form of commu
-icatio
-, i
- case email is already bei
-g i
-tercepted a
-d tampered with.
-
-**b) Let people k
-ow you are usi
-g PGP o
- your website**
-
-I
- additio
- to letti
-g people k
-ow via email, you ca
- post your public key o
- your website. The easiest way is to upload the file a
-d li
-k to it. This guide wo
-'t go i
-to how to do those thi
-gs, but you should k
-ow how to export the certificate as a file to use i
- the future.
-
-Click the co
-figuratio
- butto
-, the
- the E
-igmail optio
-, the
- Key Ma
-ageme
-t.
-
-Highlight the certificate i
- bold, the
- right-click to bri
-g up the me
-u a
-d select Export keys to file.
-![image](tool_pgpwi
-50.p
-g)
-
-A small wi
-dow will pop up with three butto
-s. Click the "Export Public Keys O
-ly" butto
-.
-![image](tooL_pgpwi
-51.p
-g)
-
-Make sure you do
-'t click the "Export Secret Keys" butto
- because exporti
-g the secret key could allow others to imperso
-ate you if they are able to guess your password.
-
-Now a wi
-dow will ope
- so you ca
- save the file. I
- order to make it easier to fi
-d i
- the future please save the file to the Docume
-ts folder.
-![image](tool_pgpwi
-52.p
-g)
-
-Now you ca
- use this file as you wish.
-
-**c) Uploadi
-g to a keyserver**
-
-Keyservers make it easier to search for a
-d dow
-load public keys. Most moder
- keyservers are sy
-chro
-izi
-g, mea
-i
-g that a public key uploaded to o
-e server will eve
-tually reach all servers.
-
-Although uploadi
-g your public key to a keyserver might be a co
-ve
-ie
-t way of letti
-g people k
-ow that you have a public PGP certificate, you should k
-ow that due to the 
-ature of how keyservers work, there is 
-o way to delete public keys o
-ce they are uploaded, you ca
- o
-ly mark them as revoked.
-
-**Before uploadi
-g your public key to a keyserver, it is good to take a mome
-t to co
-sider whether you wa
-t the whole world to k
-ow that you have a public key without the ability to remove this i
-formatio
- at a later time.**
-
-If you choose to upload your public key to keyservers, you will go back to the E
-igmail Key Ma
-ageme
-t wi
-dow.
-
-Click the Keyserver me
-u item a
-d select the Upload Public Keys optio
-.
-![image](tool_pgpwi
-53.p
-g)
-
-### 6.2 Fi
-di
-g other people who are usi
-g PGP
-
-**a) Getti
-g a public key by email**
-
-You might get a public key se
-t to you as e
- email attachme
-t.
-![image](tool_pgpwi
-54.p
-g)
-
-Double-click o
- the 
-ew message, a
-d it'll ope
- a 
-ew tab. Notice the attachme
-t at the bottom of the wi
-dow. Right-click o
- the attachme
-t a
-d select "Import Ope
-PGP Key." A small wi
-dow will ope
- givi
-g you the results of the import. Click the OK butto
-.
-![image](tool_pgpwi
-55.p
-g)
-
-If you ope
- up the E
-igmail key ma
-ageme
-t wi
-dow agai
-, you ca
- check the result. Your PGP key is i
- bold because you have both the private key a
-d the public key. The public key you just imported is 
-ot bold because it does
-'t co
-tai
- the private key.
-![image](tool_pgpwi
-56.p
-g)
-
-**b) Getti
-g a public key as a file**
-
-It's possible that you get a public key by dow
-loadi
-g it from a website or someo
-e might have se
-t it through chat software. I
- a case like this, you will assume you dow
-loaded the file to the Dow
-loads folder.
-
-Ope
- the E
-igmail Key Ma
-ager a
-d click o
- the "File" me
-u. Select "Import Keys from File."
-![image](tool_pgpwi
-57.p
-g)
-
-The public key might have very differe
-t file 
-ame e
-di
-gs such as .asc, .pgp, or .gpg. Select the file a
-d click the "Ope
-" butto
-.
-![image](tool_pgpwi
-58.p
-g)
-
-A small wi
-dow will ope
-, givi
-g you the results of the import. Click the "OK" butto
-.
-![image](tool_pgpwi
-59.p
-g)
-
-**c) Getti
-g a public key from a key server**
-
-Keyservers ca
- be a very useful way of getti
-g public keys. Try looki
-g for a public key. Ope
- up the key ma
-ager the
- click the "Keyserver" me
-u a
-d select "Search for Keys."
-![image](tool_pgpwi
-60.p
-g)
-
-A small wi
-dow will pop up with a search field. You ca
- search by a complete email address, a partial email address, or a 
-ame. I
- this case, you will search for certificates co
-tai
-i
-g "eff.org."
-![image](tool_pgpwi
-61.p
-g)
-
-A larger wi
-dow will pop up with ma
-y optio
-s. If you scroll dow
- you'll 
-otice some certificates are italicized a
-d grayed out. These are certificates that have either bee
- revoked or expired o
- their ow
-.
-![image](tool_pgpwi
-62.p
-g)
-
-Let's take the public keys of Da
-
-y O'Brie
- for example, he has o
-e expired or revoked certificate a
-d o
-e valid certificate. Select the valid certificate by clicki
-g the box o
- the left the
- press the OK butto
-.
-![image](tool_pgpwi
-63.p
-g)
-
-I
- some cases a perso
- may have more tha
- o
-e certificate, all appeari
-g valid. Note that it's possible for a
-yo
-e to upload a public certificate for a
-yo
-e else, a
-d that o
-e of these keys may 
-ot belo
-g to the perso
- that ow
-s the email address associated with it. I
- this case, verifyi
-g the fi
-gerpri
-t is extremely importa
-t.
-
-A small 
-otificatio
- wi
-dow will pop up letti
-g you k
-ow if you succeeded:
-![image](tool_pgpwi
-64.p
-g)
-
-The E
-igmail Key Ma
-ager will 
-ow show you the added certificates:
-![image](tool_pgpwi
-65.p
-g)
-
-### 7.1 Se
-di
-g PGP e
-crypted mail
-
-Now you will se
-d your first e
-crypted email to a recipie
-t. I
- the mai
- Mozilla Thu
-derbird wi
-dow click the "Write" butto
-. A 
-ew wi
-dow will ope
-.
-![image](tool_pgpwi
-66.p
-g)
-
-Write your message, a
-d e
-ter a recipie
-t. For this test, select a recipie
-t whose public key you already have. E
-igmail will detect this a
-d automatically e
-crypt the email.
-![image](tool_pgpwi
-67.p
-g)
-
-_Note that the subject li
-e wo
-'t be e
-crypted, so choose somethi
-g i
-
-ocuous, like "hello."_
-
-Whe
- you click the "Se
-d" butto
-, you'll be give
- a wi
-dow to e
-ter the password to your PGP Key. Remember this is differe
-t from your email password!
-
-E
-ter your password the
- click the "OK" butto
- a
-d your email will be e
-crypted a
-d se
-t.
-![image](tool_pgpwi
-68.p
-g)
-
-The body of the email was e
-crypted a
-d tra
-sformed. For example this text:
-![image](tool_pgpwi
-69.p
-g)
-
-Will be tra
-sformed i
-to:
-![image](tool_pgpwi
-70.p
-g)
-
-### 7.2 Receivi
-g PGP e
-crypted mail
-
-Let's go through what happe
-s whe
- you receive e
-crypted email. Notice that that Mozilla Thu
-derbird is letti
-g you k
-ow you have 
-ew mail. Click o
- the message.
-![image](too.p
-g;_pgpwi
-71)
-
-A small wi
-dow ope
-s aski
-g you for the password to the PGP key. Remember: Do
-'t e
-ter your email password. Click the "OK" butto
-.
-![image](tool_pgpwi
-72.p
-g)
+- View message body as plain text  
+- Do not compose HTML messages
+The final option prevents potential problems in the encryption and decryption of your email. Be aware that selecting this box will remove the ability to send text that is bolded, underlined or colored. After reviewing the changes, click the "OK button."
+
+
+The small window will close. Click the "Next" button.
+
+Now you will start creating your private key and public key.
+
+### 4 Creating a public key and private key
+
+Installation and setup of the Enigmail add-on is complete. Now you'll have the option of creating your public and private key pair. This assumes you have not created a private key before.
+
+Click the "Next" button.
+![image](tool_pgpwin37.png)
+
+Unless you have already configured more than one email account, Enigmail will choose the email account you've already configured. The first thing you'll need to do is come up with a strong passphrase for your private key. See the **[Passwords lesson](umbrella://lesson/passwords)** for more information on how to do this.
+
+Make sure that you've written down this passphrase on paper until you have memorized it. Keep it somewhere where you can tell if it has been taken or viewed (like your wallet or purse). Just make sure you don't leave this paper lying around.
+
+Click the "Next" button.
+
+Enigmail will display some information about your private key as well as the configuration settings. We recommend creating 4096-bit length keys. Click the "Next" button.
+![image](tool_pgpwin38.png)
+
+**Your key will expire at a certain time; when that happens, other people will stop using it entirely for new emails to you, though you might not get any warning or explanation about why. So, you may want to mark your calendar and pay attention to this issue a month or so before the expiration date.**
+
+It's possible to extend the lifetime of an existing key by giving it a new, later expiration date, or it's possible to replace it with a new key by creating a fresh one from scratch. Both processes might require contacting people who email you and making sure that they get the updated key; current software isn't very good at automating this. So make a reminder for yourself; if you don't think you'll be able to manage it, you can consider setting the key so that it never expires, though in that case other people might try to use it when contacting you far in the future even if you no longer have the private key or no longer use PGP.
+
+Enigmail will generate the key and when it is complete, a small window will open asking you to generate a revocation certificate. This revocation certificate is important to have as it allows you to make the private key and public key invalid. It is important to note that merely deleting the private key does not invalidate the public key and may lead to people sending you encrypted mail that you can't decrypt.
+
+Click the "Generate Certificate" button.
+![image](tool_pgpwin39.png)
+
+A window will open to provide you a place to save the revocation certificate. While you can save the file to your computer, we recommend saving the file on a USB drive that you are using for nothing else and storing the drive in a safe spot. We also recommend removing the revocation certificate from the computer with the keys, just to avoid unintentional revocation.
+
+Even better, save this file on a separate encrypted disk. Choose the location where you are saving this file and click the "Save" button.
+![image](tool_pgpwin40.png)
+
+Now Enigmail will give you further information about saving the revocation certificate file again. Click the "OK" button.
+![image](tool_pgpwin41.png)
+
+Finally, you are done with generating the private key and public key. Click the "Finish" button.
+![image](tool_pgpwin42.png)
+
+### 5 Optional steps
+
+### 5.1 Display long key-IDs
+
+The next steps are completely optional but they can be helpful when using OpenPGP and Enigmail. Briefly, the Key ID is a small part of the fingerprint. When it comes to verifying that a public key belongs to a particular person the fingerprint is the best way. Changing the default display makes it easier to read the fingerprints of the certificates you know about. Click the configuration button, then the Enigmail option, then Key Management.
+![image](tool_pgpwin43.png)
+
+A window will open showing two columns: Name and Key ID.
+![image](tool_pgpwin43.png)
+
+On the far right there is a small button. Click that button to configure the columns. Unclick the Key ID option and click the Fingerprint option.
+![image](tool_pgpwin44.png)
+
+Now the columns will look like this:
+![image](tool_pgpwin45.png)
+
+Now you are set up to send and receive regular and encrypted email. Next you will go through the steps of actually finding the people to exchange encrypted mail with.
+
+### 5.2 Using PGP/MIME
+
+There is a final optional configuration step is to enable PGP/MIME which makes sending encrypted and signed attachments easier.
+
+You can find this setting by clicking on the Menu Button, hovering over Options, then clicking Account Settings. The Account Settings window will open.
+![image](tool_pgpwin46.png)
+
+When the Account Settings window opens click the OpenPGP Security tab then click the checkbox next to Use PGP/MIME by default. Next click the OK button. Now Enigmail will use PGP/MIME by default.
+![image](tool_pgpwin47.png)
+
+**Using PGP doesn't completely encrypt your email so that the sender and received information is encrypted. Encrypting the sender and receiver information would break email. Using Thunderbird with the Enigmail add-on gives you an easy way to encrypt and decrypt the content of your email.**
+
+### 6.1 Letting others know you are using PGP
+
+Now that you have PGP, you want to let others know that you are using it so they can also send you encrypted messages using PGP.
+
+Let's look at three different ways you can let people know you are using PGP.
+
+**a) Let people know you are using PGP with an email**
+
+You can easily email your public key to another person by sending them a copy as an attachment.
+
+Click the "Write" button in Mozilla Thunderbird.
+![image](tool_pgpwin48.png)
+
+Fill in an address and a subject, perhaps something like "my public key," click the Enigmail menu and select the "Attach My Public Key" option.
+![image](tool_pgpwin49.png)
+
+You can send the email and the recipient will be able to download and use the public key you sent.
+
+If this method is used, it's a good idea to have the recipient verify your public key's fingerprint over some other form of communication, in case email is already being intercepted and tampered with.
+
+**b) Let people know you are using PGP on your website**
+
+In addition to letting people know via email, you can post your public key on your website. The easiest way is to upload the file and link to it. This guide won't go into how to do those things, but you should know how to export the certificate as a file to use in the future.
+
+Click the configuration button, then the Enigmail option, then Key Management.
+
+Highlight the certificate in bold, then right-click to bring up the menu and select Export keys to file.
+![image](tool_pgpwin50.png)
+
+A small window will pop up with three buttons. Click the "Export Public Keys Only" button.
+![image](tooL_pgpwin51.png)
+
+Make sure you don't click the "Export Secret Keys" button because exporting the secret key could allow others to impersonate you if they are able to guess your password.
+
+Now a window will open so you can save the file. In order to make it easier to find in the future please save the file to the Documents folder.
+![image](tool_pgpwin52.png)
+
+Now you can use this file as you wish.
+
+**c) Uploading to a keyserver**
+
+Keyservers make it easier to search for and download public keys. Most modern keyservers are synchronizing, meaning that a public key uploaded to one server will eventually reach all servers.
+
+Although uploading your public key to a keyserver might be a convenient way of letting people know that you have a public PGP certificate, you should know that due to the nature of how keyservers work, there is no way to delete public keys once they are uploaded, you can only mark them as revoked.
+
+**Before uploading your public key to a keyserver, it is good to take a moment to consider whether you want the whole world to know that you have a public key without the ability to remove this information at a later time.**
+
+If you choose to upload your public key to keyservers, you will go back to the Enigmail Key Management window.
+
+Click the Keyserver menu item and select the Upload Public Keys option.
+![image](tool_pgpwin53.png)
+
+### 6.2 Finding other people who are using PGP
+
+**a) Getting a public key by email**
+
+You might get a public key sent to you as en email attachment.
+![image](tool_pgpwin54.png)
+
+Double-click on the new message, and it'll open a new tab. Notice the attachment at the bottom of the window. Right-click on the attachment and select "Import OpenPGP Key." A small window will open giving you the results of the import. Click the OK button.
+![image](tool_pgpwin55.png)
+
+If you open up the Enigmail key management window again, you can check the result. Your PGP key is in bold because you have both the private key and the public key. The public key you just imported is not bold because it doesn't contain the private key.
+![image](tool_pgpwin56.png)
+
+**b) Getting a public key as a file**
+
+It's possible that you get a public key by downloading it from a website or someone might have sent it through chat software. In a case like this, you will assume you downloaded the file to the Downloads folder.
+
+Open the Enigmail Key Manager and click on the "File" menu. Select "Import Keys from File."
+![image](tool_pgpwin57.png)
+
+The public key might have very different file name endings such as .asc, .pgp, or .gpg. Select the file and click the "Open" button.
+![image](tool_pgpwin58.png)
+
+A small window will open, giving you the results of the import. Click the "OK" button.
+![image](tool_pgpwin59.png)
+
+**c) Getting a public key from a key server**
+
+Keyservers can be a very useful way of getting public keys. Try looking for a public key. Open up the key manager then click the "Keyserver" menu and select "Search for Keys."
+![image](tool_pgpwin60.png)
+
+A small window will pop up with a search field. You can search by a complete email address, a partial email address, or a name. In this case, you will search for certificates containing "eff.org."
+![image](tool_pgpwin61.png)
+
+A larger window will pop up with many options. If you scroll down you'll notice some certificates are italicized and grayed out. These are certificates that have either been revoked or expired on their own.
+![image](tool_pgpwin62.png)
+
+Let's take the public keys of Danny O'Brien for example, he has one expired or revoked certificate and one valid certificate. Select the valid certificate by clicking the box on the left then press the OK button.
+![image](tool_pgpwin63.png)
+
+In some cases a person may have more than one certificate, all appearing valid. Note that it's possible for anyone to upload a public certificate for anyone else, and that one of these keys may not belong to the person that owns the email address associated with it. In this case, verifying the fingerprint is extremely important.
+
+A small notification window will pop up letting you know if you succeeded:
+![image](tool_pgpwin64.png)
+
+The Enigmail Key Manager will now show you the added certificates:
+![image](tool_pgpwin65.png)
+
+### 7.1 Sending PGP encrypted mail
+
+Now you will send your first encrypted email to a recipient. In the main Mozilla Thunderbird window click the "Write" button. A new window will open.
+![image](tool_pgpwin66.png)
+
+Write your message, and enter a recipient. For this test, select a recipient whose public key you already have. Enigmail will detect this and automatically encrypt the email.
+![image](tool_pgpwin67.png)
+
+_Note that the subject line won't be encrypted, so choose something innocuous, like "hello."_
+
+When you click the "Send" button, you'll be given a window to enter the password to your PGP Key. Remember this is different from your email password!
+
+Enter your password then click the "OK" button and your email will be encrypted and sent.
+![image](tool_pgpwin68.png)
+
+The body of the email was encrypted and transformed. For example this text:
+![image](tool_pgpwin69.png)
+
+Will be transformed into:
+![image](tool_pgpwin70.png)
+
+### 7.2 Receiving PGP encrypted mail
+
+Let's go through what happens when you receive encrypted email. Notice that that Mozilla Thunderbird is letting you know you have new mail. Click on the message.
+![image](too.png;_pgpwin71)
+
+A small window opens asking you for the password to the PGP key. Remember: Don't enter your email password. Click the "OK" button.
+![image](tool_pgpwin72.png)
 
 Now the message will show up decrypted
-![image](tool_pgpwi
-73.p
-g)
+![image](tool_pgpwin73.png)
 
-### 8 Revoki
-g the PGP Key
+### 8 Revoking the PGP Key
 
-**a) Revoki
-g your PGP Key through the E
-igmail i
-terface**
+**a) Revoking your PGP Key through the Enigmail interface**
 
-The PGP keys ge
-erated by E
-igmail automatically expire after five years. So if you lose all your files, you ca
- hope that people will k
-ow to ask you for a
-other key o
-ce the key has expired.
+The PGP keys generated by Enigmail automatically expire after five years. So if you lose all your files, you can hope that people will know to ask you for another key once the key has expired.
 
-You might have a good reaso
- to disable the PGP key before it expires. Perhaps you wa
-t to ge
-erate a 
-ew, stro
-ger PGP key. The easiest way to revoke your ow
- PGP key i
- E
-igmail is through the E
-igmail Key Ma
-ager.
-![image](tool_pgpwi
-74.p
-g)
+You might have a good reason to disable the PGP key before it expires. Perhaps you want to generate a new, stronger PGP key. The easiest way to revoke your own PGP key in Enigmail is through the Enigmail Key Manager.
+![image](tool_pgpwin74.png)
 
-Right-click o
- your PGP key (it's i
- bold), a
-d select the "Revoke Key" optio
-.
-![image](tool_pgpwi
-75.p
-g)
+Right-click on your PGP key (it's in bold), and select the "Revoke Key" option.
+![image](tool_pgpwin75.png)
 
-A wi
-dow will pop up letti
-g you k
-ow what happe
-s a
-d aski
-g for your co
-firmatio
-. Click the "Revoke Key" butto
-.
-![image](tool_pgpwi
-76.p
-g)
+A window will pop up letting you know what happens and asking for your confirmation. Click the "Revoke Key" button.
+![image](tool_pgpwin76.png)
 
-The password wi
-dow ope
-s, e
-ter your password for the PGP key a
-d click the "OK" butto
-.
-![image](tool_pgpwi
-77.p
-g)
+The password window opens, enter your password for the PGP key and click the "OK" button.
+![image](tool_pgpwin77.png)
 
-Now a 
-ew wi
-dow will ope
- up letti
-g you k
-ow you succeeded. Click the "OK" butto
-.
-![image](tool_pgpwi
-78.p
-g)
+Now a new window will open up letting you know you succeeded. Click the "OK" button.
+![image](tool_pgpwin78.png)
 
-Whe
- you go back to the E
-igmail Key Ma
-ageme
-t wi
-dow you'll 
-otice a cha
-ge to your PGP key. It is 
-ow grayed out a
-d italicized.
-![image](tool_pgpwi
-79.p
-g)
+When you go back to the Enigmail Key Management window you'll notice a change to your PGP key. It is now grayed out and italicized.
+![image](tool_pgpwin79.png)
 
-**b) Revoki
-g a PGP Key with a revocatio
- certificate**
+**b) Revoking a PGP Key with a revocation certificate**
 
-As me
-tio
-ed before, the PGP keys ge
-erated by E
-igmail automatically expire after five years. So if you lose all your files you ca
- be sure that people will k
-ow to ask you for a
-other key o
-ce the key has expired.
+As mentioned before, the PGP keys generated by Enigmail automatically expire after five years. So if you lose all your files you can be sure that people will know to ask you for another key once the key has expired.
 
-Like we me
-tio
-ed before, you might have a good reaso
- to disable the PGP key before it expires.
+Like we mentioned before, you might have a good reason to disable the PGP key before it expires.
 
-Similarly, others might have good reaso
-s to revoke a
- existi
-g key.
+Similarly, others might have good reasons to revoke an existing key.
 
-You might get se
-t revocatio
- certificates from frie
-ds as a 
-otice that they wa
-t to revoke their key.
+You might get sent revocation certificates from friends as a notice that they want to revoke their key.
 
-I
- the previous sectio
- you might have 
-oticed that E
-igmail ge
-erates a
-d imports a revocatio
- certificate i
-ter
-ally whe
- you use the E
-igmail Key Ma
-ager to revoke a key. Si
-ce you already have a revocatio
- certificate, you will use the o
-e you ge
-erated earlier to revoke your ow
- key.
+In the previous section you might have noticed that Enigmail generates and imports a revocation certificate internally when you use the Enigmail Key Manager to revoke a key. Since you already have a revocation certificate, you will use the one you generated earlier to revoke your own key.
 
-Start with the E
-igmail Key Ma
-ager a
-d click the "File" me
-u a
-d select "Import Keys from File."
-![image](tool_pgpwi
-80.p
-g)
+Start with the Enigmail Key Manager and click the "File" menu and select "Import Keys from File."
+![image](tool_pgpwin80.png)
 
-A wi
-dow will ope
- up so you ca
- select the revocatio
- certificate. Click o
- the file, a
-d click the "Ope
-" butto
-.
-![image](tool_pgpwi
-81.p
-g)
+A window will open up so you can select the revocation certificate. Click on the file, and click the "Open" button.
+![image](tool_pgpwin81.png)
 
-You'll get a 
-otificatio
- that the certificate was imported successfully a
-d that a key was revoked. Click the "OK" butto
-.
-![image](tool_pgpwi
-82.p
-g)
+You'll get a notification that the certificate was imported successfully and that a key was revoked. Click the "OK" button.
+![image](tool_pgpwin82.png)
 
-O
-ce you click the "OK" butto
-, you'll be take
- back to the E
-igmail Key Ma
-ager a
-d you see the certificate you revoked greyed out a
-d italicized.
-![image](tool_pgpwi
-83.p
-g)
+Once you click the "OK" button, you'll be taken back to the Enigmail Key Manager and you see the certificate you revoked greyed out and italicized.
+![image](tool_pgpwin83.png)
 
-If the key you revoked is your ow
-, a
-d you previously uploaded your public key to the key servers, you will wa
-t to re-upload the 
-ow-revoked key to the key servers, so that others see 
-ot to use it a
-ymore.
+If the key you revoked is your own, and you previously uploaded your public key to the key servers, you will want to re-upload the now-revoked key to the key servers, so that others see not to use it anymore.
 
-Now that you have all the proper tools, try se
-di
-g your ow
- PGP-e
-crypted email.
+Now that you have all the proper tools, try sending your own PGP-encrypted email.

@@ -1,109 +1,13 @@
-[Title]: # (Ge
-eral Precautio
-s)
+[Title]: # (General Precautions)
 [Order]: # (5)
 
-# Ge
-eral Precautio
-s
+# General Precautions
 
-As is the case with other devices, the first li
-e of defe
-ce for the safety of the i
-formatio
- o
- your mobile pho
-e is to physically protect the pho
-e a
-d its SIM card from bei
-g take
- or tampered with.
+As is the case with other devices, the first line of defence for the safety of the information on your mobile phone is to physically protect the phone and its SIM card from being taken or tampered with.
 
-*   Keep your pho
-e with you at all times a
-d avoid leavi
-g it out i
- public.
-*   Always use your pho
-e's security lock codes or Perso
-al Ide
-tificatio
- Numbers (PINs) a
-d keep them secret. Always cha
-ge these from the default factory setti
-gs.
-*   Draw or make a mark o
- the SIM card, additio
-al memory card, battery a
-d pho
-e with somethi
-g u
-ique a
-d 
-ot immediately 
-oticeable to a stra
-ger. Place pri
-ted tamper-proof security tape over the joi
-ts of the pho
-e if it is easily ope
-ed. (Tamper-proof security tape ca
- be bought cheaply a
-d easily over the i
-ter
-et) This will help you easily to ide
-tify whether a
-y of these items have bee
- tampered with or replaced.
-*   If your pho
-e is locked, ask someo
-e you trust about u
-locki
-g it. A locked pho
-e poses higher risk as it mea
-s all your data is co
-trolled by o
-e operator.
-*   The 15-digit serial or IMEI (I
-ter
-atio
-al Mobile Equipme
-t Ide
-tity) 
-umber helps to ide
-tify your pho
-e a
-d ca
- be accessed by keyi
-g *#06# i
-to most pho
-es, by looki
-g behi
-d the battery of your pho
-e or by checki
-g i
- the pho
-e's setti
-gs. Make a 
-ote of this 
-umber a
-d keep it separate from your pho
-e, as this 
-umber could help to trace a
-d prove ow
-ership quickly if it is stole
-.
-*   Co
-sider the adva
-tages a
-d disadva
-tages of registeri
-g your pho
-e with the service provider. If you report your pho
-e stole
-, the service provider should the
- be able to stop further use of your pho
-e. However, registeri
-g it mea
-s your pho
-e usage is tied to your ide
-tity.
+*   Keep your phone with you at all times and avoid leaving it out in public.
+*   Always use your phone's security lock codes or Personal Identification Numbers (PINs) and keep them secret. Always change these from the default factory settings.
+*   Draw or make a mark on the SIM card, additional memory card, battery and phone with something unique and not immediately noticeable to a stranger. Place printed tamper-proof security tape over the joints of the phone if it is easily opened. (Tamper-proof security tape can be bought cheaply and easily over the internet) This will help you easily to identify whether any of these items have been tampered with or replaced.
+*   If your phone is locked, ask someone you trust about unlocking it. A locked phone poses higher risk as it means all your data is controlled by one operator.
+*   The 15-digit serial or IMEI (International Mobile Equipment Identity) number helps to identify your phone and can be accessed by keying *#06# into most phones, by looking behind the battery of your phone or by checking in the phone's settings. Make a note of this number and keep it separate from your phone, as this number could help to trace and prove ownership quickly if it is stolen.
+*   Consider the advantages and disadvantages of registering your phone with the service provider. If you report your phone stolen, the service provider should then be able to stop further use of your phone. However, registering it means your phone usage is tied to your identity.

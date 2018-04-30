@@ -3,48 +3,9 @@
 
 # HTTPS
 
-HTTPS is the secure versio
- of the HTTP protocol used to access websites. Sometimes a ce
-sor will block the i
-secure versio
- of a site o
-ly, allowi
-g you to access that site simply by e
-teri
-g the versio
- of the domai
- that starts with HTTPS. This is particularly useful if the filteri
-g you're experie
-ci
-g is based o
- keywords or o
-ly blocks i
-dividual web pages. HTTPS stops ce
-sors from readi
-g your web traffic, so they ca
+HTTPS is the secure version of the HTTP protocol used to access websites. Sometimes a censor will block the insecure version of a site only, allowing you to access that site simply by entering the version of the domain that starts with HTTPS. This is particularly useful if the filtering you're experiencing is based on keywords or only blocks individual web pages. HTTPS stops censors from reading your web traffic, so they cannot tell what keywords are being sent, or which individual web page you are visiting (censors can still see the domain names of all websites you visit).
+![image](internetb2.png)
 
-ot tell what keywords are bei
-g se
-t, or which i
-dividual web page you are visiti
-g (ce
-sors ca
- still see the domai
- 
-ames of all websites you visit).
-![image](i
-ter
-etb2.p
-g)
+If you suspect this type of simple blocking, try entering https:// before the domain in place of http://.
 
-If you suspect this type of simple blocki
-g, try e
-teri
-g https:// before the domai
- i
- place of http://.
-
-Try EFF's [HTTPS Everywhere](https://www.eff.org/https-everywhere) plug-i
- to automatically tur
- o
- HTTPS for those sites that support it.
+Try EFF's [HTTPS Everywhere](https://www.eff.org/https-everywhere) plug-in to automatically turn on HTTPS for those sites that support it.

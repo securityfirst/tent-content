@@ -1,100 +1,16 @@
-[Title]: # (Des scé
-arios à pre
-dre e
- co
-sidératio
-)
+[Title]: # (Des scénarios à prendre en considération)
 [Order]: # (2)
 
-# Des scé
-arios à pre
-dre e
- co
-sidératio
+# Des scénarios à prendre en considération
 
+Il existe quelques scénarios que vous devriez répéter dans votre tête avant de vous présenter à votre réunion. Certains pourraient ne pas vous exposer à des risques supplémentaires, mais il est utile d’y avoir bien pensé à l’avance.
 
-Il existe quelques scé
-arios que vous devriez répéter da
-s votre tête ava
-t de vous prése
-ter à votre réu
-io
-. Certai
-s pourraie
-t 
-e pas vous exposer à des risques suppléme
-taires, mais il est utile d’y avoir bie
- pe
-sé à l’ava
-ce.
-
-* Devrez-vous, ou la perso
-
-e que vous re
-co
-trerez, traverser des postes de co
-trôle ? Si c’est le cas, qu’allez-vous raco
-ter?
+* Devrez-vous, ou la personne que vous rencontrerez, traverser des postes de contrôle ? Si c’est le cas, qu’allez-vous raconter?
 * Que ferez-vous si vous êtes retardé?
-* Que se passera-t-il si la perso
-
-e arrive tôt, e
- retard ou accompag
-é d’u
- tiers i
-atte
-du que vous 
-e co
-
-aissez pas ou e
- qui vous 
-’avez pas co
-fia
-ce?
-* Quel est votre pla
- de co
-tact si la perso
-
-e 
-e se prése
-te pas du tout?
-* Et si la perso
-
-e craig
-ait temporaireme
-t que quelqu’u
- d’autre lui parle, si elle avait été arrêtée par les autorités ou reco
-
-ue, ou e
-core si elle attirait l’atte
-tio
- sur elle ?
-* Quelle qua
-tité d’i
-formatio
-s allez-vous do
-
-er à la perso
-
-e que vous allez re
-co
-trer?
-* Et si elle vous passait quelque chose (des docume
-ts, u
-e clé USB, etc.) ? Qu’e
- feriez-vous pour le garder à l’abri des regards?
-* Qu’elle sera d’après vous la réactio
- de la perso
-
-e lors de la réu
-io
-, de la peur, de la colère, de l’a
-xiété ?
-* Que ferez-vous si u
- tiers comme
-ce à s’i
-téresser à vous, que ce soit de ma
-ière gé
-érale ou me
-aça
-te?
+* Que se passera-t-il si la personne arrive tôt, en retard ou accompagné d’un tiers inattendu que vous ne connaissez pas ou en qui vous n’avez pas confiance?
+* Quel est votre plan de contact si la personne ne se présente pas du tout?
+* Et si la personne craignait temporairement que quelqu’un d’autre lui parle, si elle avait été arrêtée par les autorités ou reconnue, ou encore si elle attirait l’attention sur elle ?
+* Quelle quantité d’informations allez-vous donner à la personne que vous allez rencontrer?
+* Et si elle vous passait quelque chose (des documents, une clé USB, etc.) ? Qu’en feriez-vous pour le garder à l’abri des regards?
+* Qu’elle sera d’après vous la réaction de la personne lors de la réunion, de la peur, de la colère, de l’anxiété ?
+* Que ferez-vous si un tiers commence à s’intéresser à vous, que ce soit de manière générale ou menaçante?

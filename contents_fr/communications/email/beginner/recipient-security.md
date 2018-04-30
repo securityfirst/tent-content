@@ -1,66 +1,10 @@
-[Title]: # (La sécurité des desti
-ataires)
+[Title]: # (La sécurité des destinataires)
 [Order]: # (8)
 
-# La sécurité des desti
-ataires
+# La sécurité des destinataires
 
-Quels que soie
-t les outils de courriel sécurisé que vous décidez d’utiliser, rappelez-vous que chaque courriel à u
- e
-voyeur et u
- ou plusieurs desti
-ataires. Vous 
-’êtes qu’u
- éléme
-t du tableau.
+Quels que soient les outils de courriel sécurisé que vous décidez d’utiliser, rappelez-vous que chaque courriel à un envoyeur et un ou plusieurs destinataires. Vous n’êtes qu’un élément du tableau.
 
-* Même si vous accédez à votre compte de courriel de faço
- sécurisée, pe
-sez aux précautio
-s que vos co
-tacts pre
-
-e
-t ou 
-e pre
-
-e
-t pas e
- e
-voya
-t, e
- lisa
-t, ou e
- répo
-da
-t à des courriels.
-* Essayez aussi de savoir où so
-t situés les four
-isseurs de services de courriel de vos co
-tacts. Certai
-s pays so
-t 
-aturelleme
-t plus agressifs que d’autres pour ce qui est de la surveilla
-ce des courriels. Pour gara
-tir la co
-fide
-tialité des commu
-icatio
-s, vous et vos co
-tacts devriez utiliser des services de courriel sécurisé hébergés da
-s des pays relativeme
-t sûrs.
-* Et si vous voulez être certai
- que les courriels 
-e so
-t pas i
-terceptés e
-tre votre serveur de courriel et le serveur de courriel d’u
- co
-tact, vous pourriez tous décider d’utiliser des comptes d’u
- même four
-isseur. RiseUp est u
- bo
- choix.
+* Même si vous accédez à votre compte de courriel de façon sécurisée, pensez aux précautions que vos contacts prennent ou ne prennent pas en envoyant, en lisant, ou en répondant à des courriels.
+* Essayez aussi de savoir où sont situés les fournisseurs de services de courriel de vos contacts. Certains pays sont naturellement plus agressifs que d’autres pour ce qui est de la surveillance des courriels. Pour garantir la confidentialité des communications, vous et vos contacts devriez utiliser des services de courriel sécurisé hébergés dans des pays relativement sûrs.
+* Et si vous voulez être certain que les courriels ne sont pas interceptés entre votre serveur de courriel et le serveur de courriel d’un contact, vous pourriez tous décider d’utiliser des comptes d’un même fournisseur. RiseUp est un bon choix.

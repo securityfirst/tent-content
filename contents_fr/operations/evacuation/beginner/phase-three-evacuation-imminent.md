@@ -1,105 +1,12 @@
-[Title]: # (Phase 3 -  L’évacuatio
- immi
-e
-te)
+[Title]: # (Phase 3 -  L’évacuation imminente)
 [Order]: # (2)
 
-#Phase 3 - L’évacuatio
- immi
-e
-te
+#Phase 3 - L’évacuation imminente
 
-À l’approche d’u
-e évacuatio
- émi
-e
-te, le bureau devrait suspe
-dre la plupart de ses opératio
-s 
-ormales pour se co
-ce
-trer sur les préparatifs de l’évacuatio
-. Les évacués pote
-tiels peuve
-t être déplacés vers u
-e zo
-e protégée prédétermi
-ée, ou travailler de la maiso
-. Le perso
+À l’approche d’une évacuation éminente, le bureau devrait suspendre la plupart de ses opérations normales pour se concentrer sur les préparatifs de l’évacuation. Les évacués potentiels peuvent être déplacés vers une zone protégée prédéterminée, ou travailler de la maison. Le personnel éloigné devrait être rappelé ou déplacé. Le personnel se trouvant actuellement en dehors de la région devrait rester en lieu sûr. Le personnel non essentiel et les membres de leur famille peuvent être évacués. Durant cette étape, qui peut durer des semaines ou juste quelques heures, les tâches incluent :
 
-el éloig
-é devrait être rappelé ou déplacé. Le perso
-
-el se trouva
-t actuelleme
-t e
- dehors de la régio
- devrait rester e
- lieu sûr. Le perso
-
-el 
-o
- esse
-tiel et les membres de leur famille peuve
-t être évacués. Dura
-t cette étape, qui peut durer des semai
-es ou juste quelques heures, les tâches i
-clue
-t :
-
-* Le perso
-
-el doit être te
-u plei
-eme
-t i
-formé.
-* Coordo
-
-ez si possible étroiteme
-t l’actio
- avec les ambassades, les autres ONG, l’ONU et autres age
-ces.
-* Versez les salaires au perso
-
-el local, avec des ava
-ces de salaire si possible.
-* Cachez les éléme
-ts de gra
-de valeur qui restero
-t. Retirez tous les logos de l’orga
-isatio
- des véhicules qui pourraie
-t être volés. Co
-server des copies des 
-uméros de série des équipeme
-ts de gra
-de valeur.
-* Do
-
-ez des i
-structio
-s claires qua
-t aux respo
-sabilités et rôles de directio
- au perso
-
-el resta
-t sur place. Établissez u
- moye
- co
-ti
-u de commu
-icatio
- e
-tre le perso
-
-el resta
-t sur place et les évacués. Si cela est requis, four
-issez des docume
-ts d’autorisatio
- au perso
-
-el clé 
-atio
-al.
+* Le personnel doit être tenu pleinement informé.
+* Coordonnez si possible étroitement l’action avec les ambassades, les autres ONG, l’ONU et autres agences.
+* Versez les salaires au personnel local, avec des avances de salaire si possible.
+* Cachez les éléments de grande valeur qui resteront. Retirez tous les logos de l’organisation des véhicules qui pourraient être volés. Conserver des copies des numéros de série des équipements de grande valeur.
+* Donnez des instructions claires quant aux responsabilités et rôles de direction au personnel restant sur place. Établissez un moyen continu de communication entre le personnel restant sur place et les évacués. Si cela est requis, fournissez des documents d’autorisation au personnel clé national.

@@ -1,87 +1,36 @@
 [Title]: # (Ce qu’il faut avoir)
 [Order]: # (4)
 
-Les éléme
-ts suiva
-ts devraie
-t être co
-servés da
-s le véhicule e
- tout temps (selo
- le lieu).
+Les éléments suivants devraient être conservés dans le véhicule en tout temps (selon le lieu).
 
-Équipeme
-t :
+Équipement :
 
-* Équipeme
-t de commu
-icatio
- et 
-uméros de télépho
-e esse
-tiels
-* Carbura
-t et huile suppléme
-taires
+* Équipement de communication et numéros de téléphone essentiels
+* Carburant et huile supplémentaires
 * De l’eau
 * Cartes
-* U
- système GPS
-* Des pièces de recha
-ge pour le véhicule
-* Deux roues de secours et u
- cric
+* Un système GPS
+* Des pièces de rechange pour le véhicule
+* Deux roues de secours et un cric
 * Des outils de base
-* U
- tria
-gle de sig
-alisatio
- fluoresce
-t
-* U
-e corde de remorquage
-* U
-e trousse de premiers soi
-s
-* U
-e lampe torche
+* Un triangle de signalisation fluorescent
+* Une corde de remorquage
+* Une trousse de premiers soins
+* Une lampe torche
 
-Docume
-ts : 
+Documents : 
 
-* U
- permis de voyager, si exigés
+* Un permis de voyager, si exigés
 * Des visas
-* Les docume
-ts de bord
-* U
- permis de co
-duire et les docume
-ts d’assura
-ce
-* U
-e pièce d’ide
-tificatio
- perso
+* Les documents de bord
+* Un permis de conduire et les documents d’assurance
+* Une pièce d’identification personnelle
+* Une pièce d’identification de l’organisation si possible
+* Des certificats médicaux de vaccination
 
-elle
-* U
-e pièce d’ide
-tificatio
- de l’orga
-isatio
- si possible
-* Des certificats médicaux de vacci
-atio
+<p>Articles généraux :
 
-
-<p>Articles gé
-éraux :
-
-* De la 
-ourriture
+* De la nourriture
 * De l’eau
-* Des vêteme
-ts pour climat froid ou chaud
-* Des couvertures ou u
-e ombrière</li></ul></p>
+* Des vêtements pour climat froid ou chaud
+* Des couvertures ou une ombrière</li></ul></p>

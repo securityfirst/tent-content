@@ -1,87 +1,13 @@
 [Title]: # (Руководство по путешествию)
 [Order]: # (1)
 
-*   I
- i
-secure locatio
-s, all staff should be met o
- first arrival, a
-d o
- subseque
-t arrivals if 
-ecessary.  Those meeti
-g staff should carry ide
-tificatio
-.
-*   Vary the time a
-d route of a
-y regular jour
-eys you make.  If crimi
-als ca
- predict where you will be a
-d whe
-, it is easier for them to target you.
-*   I
- remote areas or where threats may be prese
-t alo
-g the route, select primary a
-d alter
-ate routes.
-*   Avoid areas with crimi
-al activity or k
-ow
- threats. If possible avoid "choke poi
-ts" such as 
-arrow alleys.
-*    Whe
- possible, co
-sult with other age
-cies a
-d orga
-izatio
-s to mo
-itor route co
-ditio
-s a
-d cha
-ge routes as 
-ecessary.
-*   Notify others of travel times, desti
-atio
-, a
-d steps they should take if you are late.
+*   In insecure locations, all staff should be met on first arrival, and on subsequent arrivals if necessary.  Those meeting staff should carry identification.
+*   Vary the time and route of any regular journeys you make.  If criminals can predict where you will be and when, it is easier for them to target you.
+*   In remote areas or where threats may be present along the route, select primary and alternate routes.
+*   Avoid areas with criminal activity or known threats. If possible avoid "choke points" such as narrow alleys.
+*    When possible, consult with other agencies and organizations to monitor route conditions and change routes as necessary.
+*   Notify others of travel times, destination, and steps they should take if you are late.
 *   Mark official vehicles appropriately for the area.
-*   Co
-sider posti
-g a decal o
- your door or wi
-dow i
-dicati
-g gu
-s are 
-ot permitted i
- the vehicle.
-*   Avoid tra
-sporti
-g se
-sitive docume
-ts or equipme
-t i
- areas pro
-e to ba
-ditry. Arra
-ge proper permits for tra
-sporti
-g items that could be i
-terpreted as useful to combata
-ts or terrorists.
-*   K
-ow how to perform basic vehicle mai
-te
-a
-ce (cha
-gi
-g a flat tire, checki
-g a
-d addi
-g fluids, etc.)
+*   Consider posting a decal on your door or window indicating guns are not permitted in the vehicle.
+*   Avoid transporting sensitive documents or equipment in areas prone to banditry. Arrange proper permits for transporting items that could be interpreted as useful to combatants or terrorists.
+*   Know how to perform basic vehicle maintenance (changing a flat tire, checking and adding fluids, etc.)

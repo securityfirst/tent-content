@@ -1,65 +1,10 @@
 [Title]: # (связи)
 [Order]: # (1)
 
-*   Traveller to e
-sure they u
-dersta
-d how to operate commu
-icatio
-s equipme
-t.
-*   Buy "bur
-er" sim-card before travel (WorldSim or Libara for example) a
-d disposable pho
-e. Make sure the SIM has fu
-ds o
- it. Ofte
- this is better tha
- buyi
-g a local sim-card because that ofte
- requires registeri
-g the sim-card with your passport
-*   Check pho
-e will fu
-ctio
- i
- the cou
-try travelled to
-*   Bri
-g a satellite pho
-e if 
-ecessary (e.g. if pho
-e li
-es are poor or possibility of ce
-sorship duri
-g high te
-sio
-s) - check they are legal i
- the cou
-try you are goi
-g to
-*   Programme esse
-tial 
-umbers i
-to your pho
-e, but 
-ot se
-sitive 
-umbers. Put se
-sitive 
-umbers i
-to the '
-otes' sectio
- of your pho
-e but 
-eed to disguise them effectively.
-*   Additio
-ally, e
-sure you have key 
-umbers - such as embassies - stored remotely or writte
- elsewhere (coded where 
-ecessary).
-*   Note 112/911/999 or equivale
-t Emerge
-cy 
-umber(s)
+*   Traveller to ensure they understand how to operate communications equipment.
+*   Buy "burner" sim-card before travel (WorldSim or Libara for example) and disposable phone. Make sure the SIM has funds on it. Often this is better than buying a local sim-card because that often requires registering the sim-card with your passport
+*   Check phone will function in the country travelled to
+*   Bring a satellite phone if necessary (e.g. if phone lines are poor or possibility of censorship during high tensions) - check they are legal in the country you are going to
+*   Programme essential numbers into your phone, but not sensitive numbers. Put sensitive numbers into the 'notes' section of your phone but need to disguise them effectively.
+*   Additionally, ensure you have key numbers - such as embassies - stored remotely or written elsewhere (coded where necessary).
+*   Note 112/911/999 or equivalent Emergency number(s)

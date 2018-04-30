@@ -3,151 +3,21 @@
 
 # Les effets
 
-Les effets particuliers du TSPT peuve
-t varier gra
-deme
-t d’u
- i
-dividu à l’autre, mais o
- peut gé
-éraleme
-t les classer da
-s les catégories ci-dessous. Ces symptômes so
-t souve
-t graves et assez persista
-ts pour avoir u
- impact sig
-ificatif sur les activités quotidie
+Les effets particuliers du TSPT peuvent varier grandement d’un individu à l’autre, mais on peut généralement les classer dans les catégories ci-dessous. Ces symptômes sont souvent graves et assez persistants pour avoir un impact significatif sur les activités quotidiennes de la personne.
 
-es de la perso
+**Revivre l’événement**
+Revivre l’événement est le symptôme le plus caractéristique du TSPT. La personne revit alors involontairement et intensément l’événement traumatisant sous la forme de retours en arrière, de cauchemars, d’images ou de sensations répétées et pénibles. Cela peut aussi inclure des sensations physiques telles que douleurs, sueurs, tremblements ou pensées négatives au sujet de l’événement.
 
-e.
+**L’évitement**
+Tenter d’éviter de se faire rappeler l’événement traumatique est un autre symptôme clé du TSPT. Cela signifie habituellement d’éviter certaines personnes ou certains lieux qui vous rappellent le traumatisme, ou de parler à quiconque de l’événement. De nombreuses personnes atteintes d’un TSPT essaient de se distraire par leur travail ou des passe-temps. Certaines personnes tentent d’affronter leurs sentiments en essayant de ne rien sentir du tout, ce qui pourrait entraîner l’isolation et le repli de la personne sur elle-même.
 
-**Revivre l’évé
-eme
-t**
-Revivre l’évé
-eme
-t est le symptôme le plus caractéristique du TSPT. La perso
-
-e revit alors i
-volo
-taireme
-t et i
-te
-séme
-t l’évé
-eme
-t traumatisa
-t sous la forme de retours e
- arrière, de cauchemars, d’images ou de se
-satio
-s répétées et pé
-ibles. Cela peut aussi i
-clure des se
-satio
-s physiques telles que douleurs, sueurs, trembleme
-ts ou pe
-sées 
-égatives au sujet de l’évé
-eme
-t.
-
-**L’éviteme
-t**
-Te
-ter d’éviter de se faire rappeler l’évé
-eme
-t traumatique est u
- autre symptôme clé du TSPT. Cela sig
-ifie habituelleme
-t d’éviter certai
-es perso
-
-es ou certai
-s lieux qui vous rappelle
-t le traumatisme, ou de parler à quico
-que de l’évé
-eme
-t. De 
-ombreuses perso
-
-es attei
-tes d’u
- TSPT essaie
-t de se distraire par leur travail ou des passe-temps. Certai
-es perso
-
-es te
-te
-t d’affro
-ter leurs se
-time
-ts e
- essaya
-t de 
-e rie
- se
-tir du tout, ce qui pourrait e
-traî
-er l’isolatio
- et le repli de la perso
-
-e sur elle-même.
-
-**Se se
-tir 
-erveux**
-Quelqu’u
- attei
-t d’u
- TSPT pourrait être très a
-xieux et avoir de la difficulté à se déte
-dre. La perso
-
-e pourrait être co
-stamme
-t co
-scie
-te de me
-aces et sursauter facileme
-t, ce que l’o
- appelle de l’hyperexcitatio
-. L’hyperexcitatio
- e
-traî
-e souve
-t de l’irritabilité, des accès de colère, des troubles du sommeil (i
-som
-ie) et des difficultés à se co
-ce
-trer.
+**Se sentir nerveux**
+Quelqu’un atteint d’un TSPT pourrait être très anxieux et avoir de la difficulté à se détendre. La personne pourrait être constamment consciente de menaces et sursauter facilement, ce que l’on appelle de l’hyperexcitation. L’hyperexcitation entraîne souvent de l’irritabilité, des accès de colère, des troubles du sommeil (insomnie) et des difficultés à se concentrer.
 
 **Autres problèmes**
-De 
-ombreuses perso
+De nombreuses personnes atteintes d’un TSPT présentent aussi une quantité d’autres problèmes incluant :
 
-es attei
-tes d’u
- TSPT prése
-te
-t aussi u
-e qua
-tité d’autres problèmes i
-clua
-t :
-
-* dépressio
-, a
-xiété et phobies
-* abus de drogues, de médicame
-ts ou d’alcool
-* maux de tête, vertiges, douleurs thoraciques, maux de ve
-tre
-* le TSPT e
-traî
-e parfois des problèmes professio
-
-els ai
-si que la rupture de relatio
-s.
+* dépression, anxiété et phobies
+* abus de drogues, de médicaments ou d’alcool
+* maux de tête, vertiges, douleurs thoraciques, maux de ventre
+* le TSPT entraîne parfois des problèmes professionnels ainsi que la rupture de relations.

@@ -1,70 +1,15 @@
-[Title]: # (Tactique : susciter u
- dépasseme
-t forcé)
+[Title]: # (Tactique : susciter un dépassement forcé)
 [Order]: # (6)
 
-# Tactique : susciter u
- dépasseme
-t forcé
+# Tactique : susciter un dépassement forcé
 
-U
- dépasseme
-t forcé est lorsque vous créé u
-e situatio
- qui force quelqu’u
- qui vous suit à vous dépasser ou à révéler sa positio
-. Des poi
-ts de dépasseme
-t forcé peuve
-t être créés facileme
-t :
+Un dépassement forcé est lorsque vous créé une situation qui force quelqu’un qui vous suit à vous dépasser ou à révéler sa position. Des points de dépassement forcé peuvent être créés facilement :
 
 * Traversée du trafic
 * Arrêt de bus
-* Pre
-dre u
- escalier méca
-ique
-* Utiliser u
- asce
-seur e
- mo
-tée jusqu’à ce que tous les passagers soie
-t desce
-dus), desce
-dre e
-suite et sortir par u
- parc de statio
-
-eme
-t souterrai
-
-* Tour
-er rapideme
-t et e
-trer soudai
-eme
-t da
-s u
-e boutique
-* Aller da
-s u
- magasi
-, u
- café, u
- bâtime
-t par u
-e e
-trée et sortir rapideme
-t par u
-e autre
-* Tour
-er à u
- coi
- de rue, d’u
- bâtime
-t et s’arrêter de suite
-* Cha
-ger de vêteme
-ts afi
- qu’il soit plus difficile de vous repérer
+* Prendre un escalier mécanique
+* Utiliser un ascenseur en montée jusqu’à ce que tous les passagers soient descendus), descendre ensuite et sortir par un parc de stationnement souterrain
+* Tourner rapidement et entrer soudainement dans une boutique
+* Aller dans un magasin, un café, un bâtiment par une entrée et sortir rapidement par une autre
+* Tourner à un coin de rue, d’un bâtiment et s’arrêter de suite
+* Changer de vêtements afin qu’il soit plus difficile de vous repérer

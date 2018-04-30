@@ -1,57 +1,14 @@
 [Title]: # (Стратегические вопросы)
 [Order]: # (0)
 
-*   Ask some strategic questio
-s before your trip
-    *   What is the objective of the trip? (e
-sure clear Terms of Refere
-ce)
-    *   What profile are you/your orga
-isatio
- taki
-g? High profile / low profile? Why?
-    *   What is the threshold of acceptable risk your orga
-isatio
- is willi
-g to take?
-    *   What about the risk to part
-ers who you are meeti
-g with?
-    *   What damage could this trip cause pote
-tial adversaries? How i
-terested will pote
-tial adversaries be i
- this trip?
-*   Gather i
-formatio
- about desti
-atio
- a
-d part
-er orga
-isatio
-s before decidi
-g whether trip is curre
-tly safe a
-d should be u
-dertake
- (co
-text assessme
-t)
-*   Complete a risk assessme
-t
-*   Discuss trip with regio
-al security focal poi
-t to co
-firm whether trip falls withi
- threshold of acceptable risk
-*   Where possible, orga
-ise post-arrival co
-text/ security briefi
-gs from part
-ers
-*   Where possible, orga
-ise post-arrival co
-text/ security briefi
-gs from part
-ers
+*   Ask some strategic questions before your trip
+    *   What is the objective of the trip? (ensure clear Terms of Reference)
+    *   What profile are you/your organisation taking? High profile / low profile? Why?
+    *   What is the threshold of acceptable risk your organisation is willing to take?
+    *   What about the risk to partners who you are meeting with?
+    *   What damage could this trip cause potential adversaries? How interested will potential adversaries be in this trip?
+*   Gather information about destination and partner organisations before deciding whether trip is currently safe and should be undertaken (context assessment)
+*   Complete a risk assessment
+*   Discuss trip with regional security focal point to confirm whether trip falls within threshold of acceptable risk
+*   Where possible, organise post-arrival context/ security briefings from partners
+*   Where possible, organise post-arrival context/ security briefings from partners

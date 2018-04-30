@@ -3,99 +3,14 @@
 
 # Web-based proxies
 
-A web-based proxy (such as [https://proxy.org/](https://proxy.org/)) is o
-e of the simplest ways of circumve
-ti
-g ce
-sorship. It is a website that lets its users access other, blocked or ce
-sored websites. I
- order to use a web-based proxy, all you 
-eed to do is e
-ter the filtered address that you wish to use i
-to the box i
- the proxy webpage; the proxy will the
- display the requested co
-te
-t i
-side its ow
- webpage.
-![image](i
-ter
-etb3.p
-g)
+A web-based proxy (such as [https://proxy.org/](https://proxy.org/)) is one of the simplest ways of circumventing censorship. It is a website that lets its users access other, blocked or censored websites. In order to use a web-based proxy, all you need to do is enter the filtered address that you wish to use into the box in the proxy webpage; the proxy will then display the requested content inside its own webpage.
+![image](internetb3.png)
 
-Web-based proxies are a good way to quickly access blocked websites, but they have certai
- disadva
-tages, as well.
+Web-based proxies are a good way to quickly access blocked websites, but they have certain disadvantages, as well.
 
-*   They ofte
- do
-'t provide a
-y security a
-d will be a poor choice if your threat model i
-cludes someo
-e mo
-itori
-g your i
-ter
-et co
+*   They often don't provide any security and will be a poor choice if your threat model includes someone monitoring your internet connection.
+*   They do not always display pages correctly, and many web-based proxies will fail to load complex websites, including those that feature streaming audio and video content.
+*   And, of course, web-based proxies only work for webpages. You cannot, for example, use an instant messaging program or an email client to access blocked services through a web-based proxy.
+*   Finally, web-based proxies themselves pose a privacy risk for many users, depending on their threat model, since the proxy will have a complete record of everything you do online.
 
-ectio
-.
-*   They do 
-ot always display pages correctly, a
-d ma
-y web-based proxies will fail to load complex websites, i
-cludi
-g those that feature streami
-g audio a
-d video co
-te
-t.
-*   A
-d, of course, web-based proxies o
-ly work for webpages. You ca
-
-ot, for example, use a
- i
-sta
-t messagi
-g program or a
- email clie
-t to access blocked services through a web-based proxy.
-*   Fi
-ally, web-based proxies themselves pose a privacy risk for ma
-y users, depe
-di
-g o
- their threat model, si
-ce the proxy will have a complete record of everythi
-g you do o
-li
-e.
-
-There are 
-umerous proxy tools that use e
-cryptio
-, providi
-g a
- additio
-al layer of security, as well as the ability to bypass filteri
-g. Although the co
-
-ectio
- is e
-crypted, the tool provider may have your perso
-al data, mea
-i
-g that these tools do 
-ot provide a
-o
-ymity. They are, however, more secure tha
- a plai
- web-based proxy. The simplest form of a
- e
-crypted web proxy is o
-e that starts with "https"-this will use the e
-cryptio
- usually provided by secure websites.
+There are numerous proxy tools that use encryption, providing an additional layer of security, as well as the ability to bypass filtering. Although the connection is encrypted, the tool provider may have your personal data, meaning that these tools do not provide anonymity. They are, however, more secure than a plain web-based proxy. The simplest form of an encrypted web proxy is one that starts with "https"-this will use the encryption usually provided by secure websites.

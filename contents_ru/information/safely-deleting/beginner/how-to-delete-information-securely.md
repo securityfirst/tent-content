@@ -1,58 +1,13 @@
 [Title]: # (Как надежно удалить информацию)
 [Order]: # (0)
 
-# How to delete i
-formatio
- securely
+# How to delete information securely
 
-Most of us thi
-k that a file o
- our computer is deleted o
-ce we put the file i
- our computer's trash folder a
-d empty the trash; i
- reality, this does 
-ot actually delete files - it just makes them i
-visible to the user u
-til the space they took up o
- your computer is overwritte
- with somethi
-g else. This mea
-s that, with the right tools, your "deleted" files ca
- ofte
- be retrieved.
-![image](deleti
-g1.p
-g)
+Most of us think that a file on our computer is deleted once we put the file in our computer's trash folder and empty the trash; in reality, this does not actually delete files - it just makes them invisible to the user until the space they took up on your computer is overwritten with something else. This means that, with the right tools, your "deleted" files can often be retrieved.
+![image](deleting1.png)
 
-The best way to delete a file forever, the
-, is to make sure it gets overwritte
- immediately.  
-This ca
- be do
-e easily usi
-g Eraser (for Wi
-dows) or Secure Delete (for Mac OS X), both of which are described below. Users of Li
-ux a
-d other ope
--source operati
-g systems ca
- use GNU shred, but this requires a more adva
-ced tech
-ical proficie
-cy.
-![image](deleti
-g2.p
-g)
+The best way to delete a file forever, then, is to make sure it gets overwritten immediately.  
+This can be done easily using Eraser (for Windows) or Secure Delete (for Mac OS X), both of which are described below. Users of Linux and other open-source operating systems can use GNU shred, but this requires a more advanced technical proficiency.
+![image](deleting2.png)
 
-Note that securely deleti
-g data from solid state drives (SSDs), USB flash drives, a
-d SD cards is very hard! The i
-structio
-s below apply o
-ly to traditio
-al disk drives. If you're usi
-g a
- SSD or a USB flash drive, you ca
- skip to the sectio
- about it below.
+Note that securely deleting data from solid state drives (SSDs), USB flash drives, and SD cards is very hard! The instructions below apply only to traditional disk drives. If you're using an SSD or a USB flash drive, you can skip to the section about it below.

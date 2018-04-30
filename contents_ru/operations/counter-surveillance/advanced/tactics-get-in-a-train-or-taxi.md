@@ -1,64 +1,10 @@
 [Title]: # (Тактика: садиться в поезд или на такси)
 [Order]: # (9)
 
-# Tactics: Get i
- a trai
- or taxi
+# Tactics: Get in a train or taxi
 
-Trai
-s are difficult to follow with multiple forms of surveilla
-ce because they are faster tha
- other vehicles. Whe
- getti
-g o
- the trai
-, ha
-g back a
-d try to be the last perso
- to get o
-. Sta
-d at the e
-d of the platform where the trai
- driver stops a
-d where you will have a good view. Try buyi
-g a ticket to a desti
-atio
- a
-d observe  - get off before that desti
-atio
-.
+Trains are difficult to follow with multiple forms of surveillance because they are faster than other vehicles. When getting on the train, hang back and try to be the last person to get on. Stand at the end of the platform where the train driver stops and where you will have a good view. Try buying a ticket to a destination and observe  - get off before that destination.
 
-If co
-ducti
-g overt a
-ti-surveilla
-ce - get off the
- rapidly cha
-ge trai
-s. If you wa
-t to appear covert - get o
- a trai
- with o
-e desti
-atio
-, the
- get off a
-d get a trai
- with a
-other desti
-atio
-, to make it look like you might be lost.
+If conducting overt anti-surveillance - get off then rapidly change trains. If you want to appear covert - get on a train with one destination, then get off and get a train with another destination, to make it look like you might be lost.
 
-Taxis ca
- be useful for local k
-owledge a
-d the fact that i
- some cou
-tries they ca
- use bus la
-es which surveilla
-ce vehicles might 
-ot be able to use without drawi
-g atte
-tio
- to themselves.
+Taxis can be useful for local knowledge and the fact that in some countries they can use bus lanes which surveillance vehicles might not be able to use without drawing attention to themselves.

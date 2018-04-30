@@ -1,22 +1,11 @@
 [Title]: # (Что теперь?)
 [Order]: # (9)
 
-Swipe right for this lesso
-'s checklist
+Swipe right for this lesson's checklist
 
-Go to the Adva
-ced lesso
- for advice o
- partaki
-g i
- protests as a
- activist.[Go to Adva
-ced Lesso
-](umbrella://lesso
-/protests/1)
+Go to the Advanced lesson for advice on partaking in protests as an activist.[Go to Advanced Lesson](umbrella://lesson/protests/1)
 
 ### RELATED LESSONS/TOOLS
 
 *   
-Protective Equipme
-t lesso
+Protective Equipment lesson

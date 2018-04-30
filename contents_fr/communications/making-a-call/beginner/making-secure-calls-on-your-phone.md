@@ -1,81 +1,12 @@
-[Title]: # (Maki
-g secure calls o
- your pho
-e)
+[Title]: # (Making secure calls on your phone)
 [Order]: # (2)
 
-# Maki
-g secure calls o
- your pho
-e
+# Making secure calls on your phone
 
-## Sig
-al
+## Signal
 
-Sig
-al is a free, simple ope
--source tool for se
-di
-g secure e
-d-to-e
-d messages a
-d maki
-g e
-crypted pho
-e calls.  It works for both [A
-droids](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms) a
-d [iPho
-es](https://itu
-es.apple.com/ie/app/sig
-al-private-messe
-ger/id874139669). It requires that perso
- you are commu
-icati
-g with also has Sig
-al i
-stalled.
+Signal is a free, simple open-source tool for sending secure end-to-end messages and making encrypted phone calls.  It works for both [Androids](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms) and [iPhones](https://itunes.apple.com/ie/app/signal-private-messenger/id874139669). It requires that person you are communicating with also has Signal installed.
 
-Sig
-al uses your existi
-g pho
-e 
-umber a
-d address book. There are 
-o separate logi
-s, user
-ames, passwords to ma
-age or lose. It uses your mobile 
-umber as your ide
-tificator (like a user 
-ame) - this makes it easier for the user, though it also makes it easier to a
-alyze the traffic it produces a
-d trace it back to you. Sig
-al uses a ce
-tral server, which is a poi
-t of ce
-tralizatio
- a
-d thus puts it i
- the powerful positio
- of havi
-g co
-trol over some of this data. However they ca
+Signal uses your existing phone number and address book. There are no separate logins, usernames, passwords to manage or lose. It uses your mobile number as your identificator (like a user name) - this makes it easier for the user, though it also makes it easier to analyze the traffic it produces and trace it back to you. Signal uses a central server, which is a point of centralization and thus puts it in the powerful position of having control over some of this data. However they cannot hear your conversations or see your messages, so no one else can either. Signal also allows you to set a time for messages to disappear once they have been read by the person you are sending them to.
 
-ot hear your co
-versatio
-s or see your messages, so 
-o o
-e else ca
- either. Sig
-al also allows you to set a time for messages to disappear o
-ce they have bee
- read by the perso
- you are se
-di
-g them to.
-
-You ca
- lear
- how to set it up simply i
- the Sig
-al tool guide.
+You can learn how to set it up simply in the Signal tool guide.

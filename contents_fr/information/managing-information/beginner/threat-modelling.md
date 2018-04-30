@@ -1,49 +1,7 @@
-[Title]: # (La modélisatio
- des me
-aces)
+[Title]: # (La modélisation des menaces)
 [Order]: # (1)
 
-# La modélisatio
- des me
-aces
+# La modélisation des menaces
 
-Il 
-’existe pas de solutio
- u
-ique pour sécuriser vos i
-formatio
-s. U
-e gestio
- sûre de vos i
-formatio
-s 
-e dépe
-d pas des outils que vous utilisez. Il s’agit plutôt de compre
-dre les me
-aces auxquelles vous êtes co
-fro
-té et comme
-t y faire face. Pour améliorer votre 
-iveau de sécurité, vous devez détermi
-er ce que vous devez protéger et co
-tre qui. Les me
-aces peuve
-t cha
-ger e
- fo
-ctio
- de l’e
-droit où vous vous trouvez, de ce que vous faites et des perso
-
-es avec qui vous travaillez. La ma
-ière la plus simple de trouver les meilleures solutio
-s possible pour vous est de réaliser u
-e évaluatio
- du modèle de me
-aces.
-![image](ma
-agi
-g_i
-formatio
-2.p
-g)
+Il n’existe pas de solution unique pour sécuriser vos informations. Une gestion sûre de vos informations ne dépend pas des outils que vous utilisez. Il s’agit plutôt de comprendre les menaces auxquelles vous êtes confronté et comment y faire face. Pour améliorer votre niveau de sécurité, vous devez déterminer ce que vous devez protéger et contre qui. Les menaces peuvent changer en fonction de l’endroit où vous vous trouvez, de ce que vous faites et des personnes avec qui vous travaillez. La manière la plus simple de trouver les meilleures solutions possible pour vous est de réaliser une évaluation du modèle de menaces.
+![image](managing_information2.png)

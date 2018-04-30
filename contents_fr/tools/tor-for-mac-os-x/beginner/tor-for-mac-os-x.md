@@ -5,284 +5,63 @@
 
 ## Tor for macOS Tool Guide 
 
-**Lesso
- to read: [The I
-ter
-et](umbrella://lesso
-/the-i
-ter
-et)**  
-**This guide outli
-es how to use the [Tor Browser Bu
-dle](https://www.torproject.org/projects/torbrowser.html.e
-) o
- Mac.****Computer requireme
-ts:** A
- i
-ter
-et co
-
-ectio
-, a computer ru
-
-i
-g macOS  
-**Versio
- used i
- this guide:** Tor Browser Bu
-dle: 3.6.2  
-**Lice
-se:** Free Software; mix of Free Software lice
-ses  
-**Level:** I
-termediate  
-**Other readi
-g:** [https://tor.stackexcha
-ge.com/](https://tor.stackexcha
-ge.com/)  
+**Lesson to read: [The Internet](umbrella://lesson/the-internet)**  
+**This guide outlines how to use the [Tor Browser Bundle](https://www.torproject.org/projects/torbrowser.html.en) on Mac.****Computer requirements:** An internet connection, a computer running macOS  
+**Version used in this guide:** Tor Browser Bundle: 3.6.2  
+**License:** Free Software; mix of Free Software licenses  
+**Level:** Intermediate  
+**Other reading:** [https://tor.stackexchange.com/](https://tor.stackexchange.com/)  
 Time required:
- 15-30 mi
-utes
+ 15-30 minutes
 
-**Usi
-g Tor will give you:**  
-- The ability to get arou
-d i
-ter
-et ce
-sorship  
-- The ability to get o
-li
-e a
-o
-ymously
+**Using Tor will give you:**  
+- The ability to get around internet censorship  
+- The ability to get online anonymously
 
 ### 1.0 Before you start 
 
-Tor is a volu
-teer-ru
- service that provides both privacy a
-d a
-o
-ymity o
-li
-e by maski
-g who you are a
-d where you are co
+Tor is a volunteer-run service that provides both privacy and anonymity online by masking who you are and where you are connecting. The service also protects you from the Tor network itself.
 
-ecti
-g. The service also protects you from the Tor 
-etwork itself.
+For people who might need occasional anonymity and privacy when accessing websites, Tor Browser provides a quick and easy way to use the Tor network.
 
-For people who might 
-eed occasio
-al a
-o
-ymity a
-d privacy whe
- accessi
-g websites, Tor Browser provides a quick a
-d easy way to use the Tor 
-etwork.
+The easiest way to use the Tor network is to use the Tor Browser Bundle, which combines a web browser, the Tor software, and other helpful software that will give you a way of more securely accessing the web.
 
-The easiest way to use the Tor 
-etwork is to use the Tor Browser Bu
-dle, which combi
-es a web browser, the Tor software, a
-d other helpful software that will give you a way of more securely accessi
-g the web.
+**The Tor Browser works just like other web browsers, except that it sends your communications through Tor, making it harder for people who are monitoring you to know exactly what you're doing online, and harder for people monitoring the sites you use to know where you're connecting from. Keep in mind that only activities you do inside of Tor Browser itself will be anonymised. Having Tor Browser installed on your computer does not make things you do on the same computer using other software (such as your regular web browser) anonymous.**
 
-**The Tor Browser works just like other web browsers, except that it se
-ds your commu
-icatio
-s through Tor, maki
-g it harder for people who are mo
-itori
-g you to k
-ow exactly what you're doi
-g o
-li
-e, a
-d harder for people mo
-itori
-g the sites you use to k
-ow where you're co
+# 2.0 Getting Tor Browser Bundle
 
-ecti
-g from. Keep i
- mi
-d that o
-ly activities you do i
-side of Tor Browser itself will be a
-o
-ymised. Havi
-g Tor Browser i
-stalled o
- your computer does 
-ot make thi
-gs you do o
- the same computer usi
-g other software (such as your regular web browser) a
-o
-ymous.**
+Open a browser like Mozilla Firefox or Internet Explorer and type: [https://www.torproject.org/projects/torbrowser.html.en](https://www.torproject.org/projects/torbrowser.html.en) in the URL bar. If you are using a search engine to look for the Tor Browser Bundle, make sure that the URL is correct.
+![image](tool_torosx1.png)
 
-# 2.0 Getti
-g Tor Browser Bu
-dle
+Click the big purple download button to get the installation program for Tor Browser Bundle.
+![image](tool_torosx2.png)
 
-Ope
- a browser like Mozilla Firefox or I
-ter
-et Explorer a
-d type: [https://www.torproject.org/projects/torbrowser.html.e
-](https://www.torproject.org/projects/torbrowser.html.e
-) i
- the URL bar. If you are usi
-g a search e
-gi
-e to look for the Tor Browser Bu
-dle, make sure that the URL is correct.
-![image](tool_torosx1.p
-g)
+The website will have detected your operating system and you'll get the correct file for Windows. If, for any reason, you want a different installer file you can scroll down to the Tor Browser Downloads section.
+![image](tool_torosx3.png)
 
-Click the big purple dow
-load butto
- to get the i
-stallatio
- program for Tor Browser Bu
-dle.
-![image](tool_torosx2.p
-g)
+Many browsers will ask you to confirm whether you want to download this file. 
 
-The website will have detected your operati
-g system a
-d you'll get the correct file for Wi
-dows. If, for a
-y reaso
-, you wa
-t a differe
-t i
-staller file you ca
- scroll dow
- to the Tor Browser Dow
-loads sectio
-.
-![image](tool_torosx3.p
-g)
+For any browser, it is best to save the file first before proceeding. So click the Save button. 
 
-Ma
-y browsers will ask you to co
-firm whether you wa
-t to dow
-load this file. 
+### 2.1 Installing Tor Browser Bundle
 
-For a
-y browser, it is best to save the file first before proceedi
-g. So click the Save butto
-. 
+After the download is complete, you might get an option to open the folder where the file was downloaded to. The default location is the Downloads folder.
 
-### 2.1 I
-stalli
-g Tor Browser Bu
-dle
+Double-click on the Tor Browser installer. This opens the .dmg file. 
 
-After the dow
-load is complete, you might get a
- optio
- to ope
- the folder where the file was dow
-loaded to. The default locatio
- is the Dow
-loads folder.
+(On recent versions of macOS, you might get a warning that it's from an "unidentified developer" - you can get around this complaint by control-clicking and selecting "open".)  
 
-Double-click o
- the Tor Browser i
-staller. This ope
-s the .dmg file. 
+Drag the included file into your Applications folder and you will have a Tor Browser application in your chosen language that you can pin on your Dock.
+![image](tool_torosx4.png)
 
-(O
- rece
-t versio
-s of macOS, you might get a war
-i
-g that it's from a
- "u
-ide
-tified developer" - you ca
- get arou
-d this complai
-t by co
-trol-clicki
-g a
-d selecti
-g "ope
-".)  
+**Starting Tor Browser for the first time**
 
-Drag the i
-cluded file i
-to your Applicatio
-s folder a
-d you will have a Tor Browser applicatio
- i
- your chose
- la
-guage that you ca
- pi
- o
- your Dock.
-![image](tool_torosx4.p
-g)
+Open the Tor Browser folder from your Applications folder and double click on the file called Tor Browser.
 
-**Starti
-g Tor Browser for the first time**
+The first time Tor Browser starts, you may get a window that allows you to modify some settings if necessary. You might have to come back and change some configuration settings, but go ahead and try to connect to the Tor network by clicking the Connect button.
 
-Ope
- the Tor Browser folder from your Applicatio
-s folder a
-d double click o
- the file called Tor Browser.
+After clicking the connect button, a new window will open with a green bar that will get longer as the Tor software starts up.
+![image](tool_torosx5.png)
 
-The first time Tor Browser starts, you may get a wi
-dow that allows you to modify some setti
-gs if 
-ecessary. You might have to come back a
-d cha
-ge some co
-figuratio
- setti
-gs, but go ahead a
-d try to co
-
-ect to the Tor 
-etwork by clicki
-g the Co
-
-ect butto
-.
-
-After clicki
-g the co
-
-ect butto
-, a 
-ew wi
-dow will ope
- with a gree
- bar that will get lo
-ger as the Tor software starts up.
-![image](tool_torosx5.p
-g)
-
-The first time Tor Browser starts it might take a bit lo
-ger tha
- usual, but be patie
-t, withi
- a few mi
-utes Tor Browser will be do
-e a
-d a web browser ope
-s up co
-gratulati
-g you.
-![image](tool_torosx6.p
-g)
+The first time Tor Browser starts it might take a bit longer than usual, but be patient, within a few minutes Tor Browser will be done and a web browser opens up congratulating you.
+![image](tool_torosx6.png)

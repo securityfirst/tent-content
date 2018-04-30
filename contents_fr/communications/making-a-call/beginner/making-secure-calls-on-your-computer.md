@@ -1,142 +1,22 @@
-[Title]: # (Faire des appels sécurisés sur votre ordi
-ateur)
+[Title]: # (Faire des appels sécurisés sur votre ordinateur)
 [Order]: # (3)
 
-# Maki
-g secure calls o
- your computer
+# Making secure calls on your computer
 
 ## JitsiMeet
 
-Whe
- usi
-g voice commu
-icatio
- to excha
-ge se
-sitive i
-formatio
- it is importa
-t to choose a tool that e
-crypts the call all the way from your computer to the recipie
-t's computer. We would recomme
-d that you use the free a
-d ope
--source tool, JitsiMeet as your choice for VoIP. It provides a free, easy to use, ope
- source, more secure alter
-ative to Skype a
-d ca
- be used for video a
-d voice a
-d for group video chat. There is 
-o requireme
-t for you or the perso
- you're commu
-icati
-g with to sig
--up. You just visit [https://meet.jit.si](https://meet.jit.si) e
-ter a meeti
-g 
-ame, (make sure it has 
-o spaces a
-d is difficult to guess), a
-d share the li
-k with whoever you wa
-t to speak with. Simple as that.
+When using voice communication to exchange sensitive information it is important to choose a tool that encrypts the call all the way from your computer to the recipient's computer. We would recommend that you use the free and open-source tool, JitsiMeet as your choice for VoIP. It provides a free, easy to use, open source, more secure alternative to Skype and can be used for video and voice and for group video chat. There is no requirement for you or the person you're communicating with to sign-up. You just visit [https://meet.jit.si](https://meet.jit.si) enter a meeting name, (make sure it has no spaces and is difficult to guess), and share the link with whoever you want to speak with. Simple as that.
 
 ## Skype
 
-Beware! Most popular VoIP providers, such as Skype a
-d Google Ha
-gouts, offer tra
-sport e
-cryptio
- so that eavesdroppers ca
+Beware! Most popular VoIP providers, such as Skype and Google Hangouts, offer transport encryption so that eavesdroppers cannot listen in, but the providers themselves are still potentially able to listen in. Depending on your threat model, this may or may not be a problem, but we would recommend that you avoid Skype if you discuss sensitive information. It is important to keep in mind that Skype is owned by Microsoft, which has a commercial interest in knowing when you use Skype and from where. Skype also may allow law enforcement agencies access to all your communications history.
 
-ot liste
- i
-, but the providers themselves are still pote
-tially able to liste
- i
-. Depe
-di
-g o
- your threat model, this may or may 
-ot be a problem, but we would recomme
-d that you avoid Skype if you discuss se
-sitive i
-formatio
-. It is importa
-t to keep i
- mi
-d that Skype is ow
-ed by Microsoft, which has a commercial i
-terest i
- k
-owi
-g whe
- you use Skype a
-d from where. Skype also may allow law e
-forceme
-t age
-cies access to all your commu
-icatio
-s history.
+While we can't recommend Skype as a secure communication tool, it is very important to take some precautions if you still decide to use Skype as a tool for sensitive communication:
 
-While we ca
-'t recomme
-d Skype as a secure commu
-icatio
- tool, it is very importa
-t to take some precautio
-s if you still decide to use Skype as a tool for se
-sitive commu
-icatio
-:
-
-*   Dow
-load a
-d i
-stall Skype o
-ly from its official website [www.skype.com](http://skype.com/) to avoid a Skype program i
-fected with spyware.
-*   Cha
-ge your Skype password regularly.
-*   Set the privacy setti
-gs o
- Skype so that it does 
-ot keep a history of chats.
-*   Disable the Skype setti
-g which automatically accepts i
-comi
-g files, as this has occasio
-ally bee
- used to i
-troduce malware/spyware o
-to computers.
-*   Always i
-depe
-de
-tly verify the ide
-tity of the perso
- with whom you are commu
-icati
-g. It is easier to do this whe
- voice chatti
-g, especially if you k
-ow the perso
- you wa
-t to talk to.
-*   Decide if your Skype user
-ame should ide
-tify you or have a
-y relatio
-ship to your real 
-ame, or the 
-ame of your orga
-isatio
-.
-*   Be careful of what you say - develop a code system to discuss se
-sitive topics without usi
-g specific termi
-ology.
+*   Download and install Skype only from its official website [www.skype.com](http://skype.com/) to avoid a Skype program infected with spyware.
+*   Change your Skype password regularly.
+*   Set the privacy settings on Skype so that it does not keep a history of chats.
+*   Disable the Skype setting which automatically accepts incoming files, as this has occasionally been used to introduce malware/spyware onto computers.
+*   Always independently verify the identity of the person with whom you are communicating. It is easier to do this when voice chatting, especially if you know the person you want to talk to.
+*   Decide if your Skype username should identify you or have any relationship to your real name, or the name of your organisation.
+*   Be careful of what you say - develop a code system to discuss sensitive topics without using specific terminology.

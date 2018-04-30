@@ -1,28 +1,10 @@
-[Title]: # (Et mai
-te
-a
-t ?)
+[Title]: # (Et maintenant ?)
 [Order]: # (7)
 
-Faire glisser vers la droite pour obte
-ir la liste de co
-trôle de cette leço
-
+Faire glisser vers la droite pour obtenir la liste de contrôle de cette leçon
 
 ### LEÇONS/OUTILS CONNEXES
 
-* [Leço
- « La co
-tre-surveilla
-ce »](umbrella://lesso
-/cou
-ter-surveilla
-ce)
-* [Leço
- « Les télépho
-es mobiles »](umbrella://lesso
-/mobile-pho
-es)
-* [Leço
- « Le courriel »](umbrella://lesso
-/email)
+* [Leçon « La contre-surveillance »](umbrella://lesson/counter-surveillance)
+* [Leçon « Les téléphones mobiles »](umbrella://lesson/mobile-phones)
+* [Leçon « Le courriel »](umbrella://lesson/email)

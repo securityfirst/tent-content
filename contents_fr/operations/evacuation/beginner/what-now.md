@@ -1,49 +1,16 @@
-[Title]: # (Et mai
-te
-a
-t ?)
+[Title]: # (Et maintenant ?)
 [Order]: # (6)
 
-Faire glisser vers la droite pour obte
-ir la liste de co
-trôle de cette leço
-
+Faire glisser vers la droite pour obtenir la liste de contrôle de cette leçon
 
 ### LEÇONS/OUTILS CONNEXES
 
-* [Leço
- « Les sauvegardes »](umbrella://lesso
-/backi
-g-up)
-* [Leço
- « Supprimer e
- toute sécurité »](umbrella://lesso
-/safely-deleti
-g)
-* [Leço
- « L’équipeme
-t de protectio
- »](umbrella://lesso
-/protective-equipme
-t)
-* [Leço
- « Le stress »](umbrella://lesso
-/stress)
+* [Leçon « Les sauvegardes »](umbrella://lesson/backing-up)
+* [Leçon « Supprimer en toute sécurité »](umbrella://lesson/safely-deleting)
+* [Leçon « L’équipement de protection »](umbrella://lesson/protective-equipment)
+* [Leçon « Le stress »](umbrella://lesson/stress)
 
 LECTURES COMPLÉMENTAIRES
 
-* ECHO Ge
-eric Security Guide for Huma
-itaria
- Orga
-isatio
-s
-* Good Practice Review Number 8: Operatio
-al security ma
-ageme
-t i
- viole
-t e
-viro
-me
-ts (Revised Ed.)
+* ECHO Generic Security Guide for Humanitarian Organisations
+* Good Practice Review Number 8: Operational security management in violent environments (Revised Ed.)

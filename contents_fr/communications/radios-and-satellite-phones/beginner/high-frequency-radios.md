@@ -1,156 +1,17 @@
-[Title]: # (High Freque
-cy radios)
+[Title]: # (High Frequency radios)
 [Order]: # (7)
 
-## High Freque
-cy radios
+## High Frequency radios
 
-HF (High Freque
-cy) radios, i
- the 3 to 30 MHz freque
-cy ra
-ge, allow voice commu
-icatio
-s over medium a
-d lo
-g ra
-ge (co
-ceivably arou
-d the world). Less affected by obstacles, HF sig
-als ca
- "be
-d" arou
-d hills a
-d buildi
-gs a
-d do 
-ot require repeaters to fu
-ctio
- over lo
-g ra
-ges. However, the tra
-smissio
- ra
-ge of HF sig
-als may be i
-flue
-ced by time of day, weather co
-ditio
-s, electrical i
-terfere
-ce, a
-d poor system co
-figuratio
-. It takes skill to achieve reliable HF co
+HF (High Frequency) radios, in the 3 to 30 MHz frequency range, allow voice communications over medium and long range (conceivably around the world). Less affected by obstacles, HF signals can "bend" around hills and buildings and do not require repeaters to function over long ranges. However, the transmission range of HF signals may be influenced by time of day, weather conditions, electrical interference, and poor system configuration. It takes skill to achieve reliable HF connectivity over long distances. HF radios are often installed in vehicles or at base stations. HF systems are generally more expensive than VHF and require more maintenance. 
 
-ectivity over lo
-g dista
-ces. HF radios are ofte
- i
-stalled i
- vehicles or at base statio
-s. HF systems are ge
-erally more expe
-sive tha
- VHF a
-d require more mai
-te
-a
-ce. 
+The advantages of HF radios are: 
 
-The adva
-tages of HF radios are: 
+*   Short- to extremely long-range communication without a relay station;*   Less affected by topographical variation;*   High degree of independence;*   Easy to network, with multiple stations sharing the frequency;*   Messages can be sent simultaneously to multiple destinations;*   Monitoring is simple;*   Well-adapted for use in vehicles;*   Adaptable to changing operational conditions;*   Relatively cheap to purchase; no call charges;*   Relatively easy to diversify functions of the network (voice, fax, GPS tracking, SITOR or PACTOR data transmission);*   Possible to integrate with other networks (phone/email); and
+*   Requires limited maintenance.
 
-*   Short- to extremely lo
-g-ra
-ge commu
-icatio
- without a relay statio
-;*   Less affected by topographical variatio
-;*   High degree of i
-depe
-de
-ce;*   Easy to 
-etwork, with multiple statio
-s shari
-g the freque
-cy;*   Messages ca
- be se
-t simulta
-eously to multiple desti
-atio
-s;*   Mo
-itori
-g is simple;*   Well-adapted for use i
- vehicles;*   Adaptable to cha
-gi
-g operatio
-al co
-ditio
-s;*   Relatively cheap to purchase; 
-o call charges;*   Relatively easy to diversify fu
-ctio
-s of the 
-etwork (voice, fax, GPS tracki
-g, SITOR or PACTOR data tra
-smissio
-);*   Possible to i
-tegrate with other 
-etworks (pho
-e/email); a
-d
-*   Requires limited mai
-te
-a
-ce.
+The disadvantages are: 
 
-The disadva
-tages are: 
-
-*   Not secure - a
-ybody ca
- liste
- i
-;
-*   Requires registratio
- a
-d lice
-si
-g i
- most cou
-tries;*   Tra
-smissio
- stre
-gth varies duri
-g the day depe
-di
-g o
- solar activity;*   'Skip zo
-e': 
-o receptio
- betwee
- maximum exte
-t of direct wave (grou
-d wave) a
-d  lo
-ger radius starti
-g with the closest reflectio
-s from the io
-osphere;*   Staff have to be trai
-ed i
- order to take full adva
-tage of the 
-etwork; a
-d
-*   Tech
-ical expertise 
-eeded for i
-stallatio
-, a
-d HF ca
- i
-terfere with other electro
-ic equipme
-t if 
-ot i
-stalled correctly.
+*   Not secure - anybody can listen in;
+*   Requires registration and licensing in most countries;*   Transmission strength varies during the day depending on solar activity;*   'Skip zone': no reception between maximum extent of direct wave (ground wave) and  longer radius starting with the closest reflections from the ionosphere;*   Staff have to be trained in order to take full advantage of the network; and
+*   Technical expertise needed for installation, and HF can interfere with other electronic equipment if not installed correctly.

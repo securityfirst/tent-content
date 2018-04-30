@@ -1,70 +1,13 @@
 [Title]: # (Utiliser PGP)
 [Order]: # (2)
 
-Malheureuseme
-t, PGP à la réputatio
- d’être difficile à compre
-dre ou à utiliser. Heureuseme
-t, de 
-ombreux programmes arrive
-t à dissimuler la co
-ceptio
- a
-cie
+Malheureusement, PGP à la réputation d’être difficile à comprendre ou à utiliser. Heureusement, de nombreux programmes arrivent à dissimuler la conception ancienne de PGP et à en faciliter quelque peu l’utilisation, particulièrement en ce qui concerne le chiffrement et l’authentification des courriels, la principale utilisation de PGP.
 
-e de PGP et à e
- faciliter quelque peu l’utilisatio
-, particulièreme
-t e
- ce qui co
-cer
-e le chiffreme
-t et l’authe
-tificatio
- des courriels, la pri
-cipale utilisatio
- de PGP.
+Pour des instructions détaillées sur l’installation et l’utilisation du chiffrement PGP pour vos courriels, consultez :
 
-Pour des i
-structio
-s détaillées sur l’i
-stallatio
- et l’utilisatio
- du chiffreme
-t PGP pour vos courriels, co
-sultez :
-
-* [Comme
-t utiliser PGP pour macOS](umbrella://lesso
-/pgp-for-mac-os-x)
-* [Comme
-t utiliser PGP pour Wi
-dows](umbrella://lesso
-/pgp-for-wi
-dows)
-* [Comme
-t utiliser PGP pour Li
-ux](umbrella://lesso
-/pgp-for-li
-ux
+* [Comment utiliser PGP pour macOS](umbrella://lesson/pgp-for-mac-os-x)
+* [Comment utiliser PGP pour Windows](umbrella://lesson/pgp-for-windows)
+* [Comment utiliser PGP pour Linux](umbrella://lesson/pgp-for-linux
 
 
-Il pourrait sembler risqué d’e
-registrer votre clé privée de chiffreme
-t sur votre appareil mobile, mais l’ava
-tage de pouvoir e
-voyer et e
-registrer e
- toute sécurité des courriels chiffrés sur votre appareil mobile l’emporte sur les risques. Appre
-ez-e
- dava
-tage sur l’i
-stallatio
- et l’utilisatio
- du chiffreme
-t des courriels sur votre télépho
-e i
-tellige
-t da
-s le [Guide K9 et APG](umbrella://lesso
-/k9-\u0026-apg).
+Il pourrait sembler risqué d’enregistrer votre clé privée de chiffrement sur votre appareil mobile, mais l’avantage de pouvoir envoyer et enregistrer en toute sécurité des courriels chiffrés sur votre appareil mobile l’emporte sur les risques. Apprenez-en davantage sur l’installation et l’utilisation du chiffrement des courriels sur votre téléphone intelligent dans le [Guide K9 et APG](umbrella://lesson/k9-\u0026-apg).

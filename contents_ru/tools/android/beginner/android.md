@@ -3,234 +3,51 @@
 
 # BASIC SECURITY SETUP FOR ANDROID GUIDE
 
-## Basic Security Setup for A
-droid guide
+## Basic Security Setup for Android guide
 
-**Lesso
- to read: [Mobile Pho
-es](umbrella://lesso
-/mobile-pho
-es)**  
-**Pho
-e requireme
-ts:** A
-droid 4.4  
-**Level:** Begi
-
-er  
-**Time required:** 5 mi
-utes
+**Lesson to read: [Mobile Phones](umbrella://lesson/mobile-phones)**  
+**Phone requirements:** Android 4.4  
+**Level:** Beginner  
+**Time required:** 5 minutes
 
 ### 1.0 Basic Setup
 
-### 1.1 Access to your pho
-e
+### 1.1 Access to your phone
 
-**E
-able** _Lock SIM card_, fou
-d u
-der _Setti
-gs -> Perso
-al -> Security -> Set up SIM card lock_. This will mea
- that you must e
-ter a PIN 
-umber i
- order to u
-lock your SIM card each time your pho
-e is switched o
-, with out the PIN 
-o pho
-e calls ca
- be made.
+**Enable** _Lock SIM card_, found under _Settings -> Personal -> Security -> Set up SIM card lock_. This will mean that you must enter a PIN number in order to unlock your SIM card each time your phone is switched on, with out the PIN no phone calls can be made.
 
-**Set up** a _Scree
- Lock_, fou
-d u
-der _Setti
-gs -> Perso
-al -> Security -> Scree
- Lock_, which will e
-sure that a code, patter
- or password 
-eeds to be e
-tered i
- order to u
-lock the scree
- o
-ce it has bee
- locked. We recomme
-ded usi
-g the PIN or Password optio
-, as these are 
-ot restricted by le
-gth. You ca
- fi
-d more i
-formatio
- o
- creati
-g stro
-g passwords i
- the [Passwords lesso
-](umbrella://lesso
-/passwords).
+**Set up** a _Screen Lock_, found under _Settings -> Personal -> Security -> Screen Lock_, which will ensure that a code, pattern or password needs to be entered in order to unlock the screen once it has been locked. We recommended using the PIN or Password option, as these are not restricted by length. You can find more information on creating strong passwords in the [Passwords lesson](umbrella://lesson/passwords).
 
-**Set** the _security lock timer_, which will automatically lock your pho
-e after a specified time. You ca
- specify a value which suits you, depe
-di
-g o
- how regularly you are willi
-g to have to u
-lock your pho
-e.
+**Set** the _security lock timer_, which will automatically lock your phone after a specified time. You can specify a value which suits you, depending on how regularly you are willing to have to unlock your phone.
 
-### 1.2 Device E
-cryptio
+### 1.2 Device Encryption
 
+If your device uses Android version 4.0 or newer, you should **turn on** _device encryption_. This can be done in _Settings -> Personal -> Security -> Encryption_. Before you can utilise device encryption, however, you will be required to set a screen lock password (described above).
 
-If your device uses A
-droid versio
- 4.0 or 
-ewer, you should **tur
- o
-** _device e
-cryptio
-_. This ca
- be do
-e i
- _Setti
-gs -> Perso
-al -> Security -> E
-cryptio
-_. Before you ca
- utilise device e
-cryptio
-, however, you will be required to set a scree
- lock password (described above).
+**Note:** Before starting the encryption process, ensure the phone is fully charged and plugged into a power source.
 
-**Note:** Before starti
-g the e
-cryptio
- process, e
-sure the pho
-e is fully charged a
-d plugged i
-to a power source.
+### 1.3 Network settings
 
-### 1.3 Network setti
-gs
+**Turn off** Wi-Fi and Bluetooth by default. Ensure that _Tethering_ and _Portable Hotspots_, under Wireless and Network Settings, are switched off when not in use. _Settings -> Wireless & Networks -> More -> Tethering & Mobile hotspot_
 
-**Tur
- off** Wi-Fi a
-d Bluetooth by default. E
-sure that _Tetheri
-g_ a
-d _Portable Hotspots_, u
-der Wireless a
-d Network Setti
-gs, are switched off whe
- 
-ot i
- use. _Setti
-gs -> Wireless & Networks -> More -> Tetheri
-g & Mobile hotspot_
+If your device supports _Near Field Communication (NFC)_, this will be switched on by default, and so must be switched off manually.
 
-If your device supports _Near Field Commu
-icatio
- (NFC)_, this will be switched o
- by default, a
-d so must be switched off ma
-ually.
+### 1.4 Location settings
 
-### 1.4 Locatio
- setti
-gs
+**Switch off** _Wireless_ and _GPS_ location (under _Location Services_) and mobile data (this can be found under _Settings -> Personal -> Location_).
 
-**Switch off** _Wireless_ a
-d _GPS_ locatio
- (u
-der _Locatio
- Services_) a
-d mobile data (this ca
- be fou
-d u
-der _Setti
-gs -> Perso
-al -> Locatio
-_).
+**Note:** Only turn on location settings as you need them. It is important not have these services running by default in the background as it reduces the risk of location tracking, saves battery power and reduces unwanted data streams initiated by applications running in the background or remotely by your mobile carrier.
 
-**Note:** O
-ly tur
- o
- locatio
- setti
-gs as you 
-eed them. It is importa
-t 
-ot have these services ru
+### 1.5 Caller Identity
 
-i
-g by default i
- the backgrou
-d as it reduces the risk of locatio
- tracki
-g, saves battery power a
-d reduces u
-wa
-ted data streams i
-itiated by applicatio
-s ru
-
-i
-g i
- the backgrou
-d or remotely by your mobile carrier.
-
-### 1.5 Caller Ide
-tity
-
-If you wa
-t to hide your caller-ID, go to _Pho
-e Dialler -> setti
-gs -> Additio
-al Setti
-gs -> Caller ID -> hide 
-umber_.
+If you want to hide your caller-ID, go to _Phone Dialler -> settings -> Additional Settings -> Caller ID -> hide number_.
 
 ### 1.6 Software Updates
 
-To e
-sure that you pho
-e remai
-s secure it is stro
-gly recomme
-ded to keep your software updated. There are two types of updates that 
-eed to be checked
+To ensure that you phone remains secure it is strongly recommended to keep your software updated. There are two types of updates that need to be checked
 
-The pho
-e operati
-g system: go to: _setti
-gs -> About pho
-e -> updates -> check for updates_
+The phone operating system: go to: _settings -> About phone -> updates -> check for updates_
 
-Apps you have i
-stalled: Ope
- the **Play store** app, from the _side me
-u_ select **My Apps**.
+Apps you have installed: Open the **Play store** app, from the _side menu_ select **My Apps**.
 
-**Note:** Whe
- updati
-g your pho
-es software it is importa
-t to do it from a trusted locatio
- such as your i
-ter
-et co
-
-ectio
- at home i
-stead of somewhere like a
- i
-ter
-et cafe or coffee shop.
+**Note:** When updating your phones software it is important to do it from a trusted location such as your internet connection at home instead of somewhere like an internet cafe or coffee shop.

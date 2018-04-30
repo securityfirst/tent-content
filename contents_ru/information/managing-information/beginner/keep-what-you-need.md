@@ -1,52 +1,9 @@
 [Title]: # (Сохранить то, что вам нужно)
 [Order]: # (0)
 
-# Keep what you 
-eed
+# Keep what you need
 
-The most basic rule for ma
-agi
-g i
-formatio
- securely is that a
-y i
-formatio
- that could put people at risk should always be compartme
-talised a
-d kept '
-eed to k
-ow'. This mea
-s that o
-ly those people who really 
-eed that piece of i
-formatio
- to operate should be give
- it. For example, if a team is worki
-g with a high-risk source, o
-ly the source's direct co
-tact withi
- the team should have his or her real 
-ame a
-d details - the rest of the team ca
- operate usi
-g a code 
-ame. This reduces the risk for both the source a
-d those other members of the team.
-![image](ma
-agi
-g_i
-formatio
-1.p
-g)
+The most basic rule for managing information securely is that any information that could put people at risk should always be compartmentalised and kept 'need to know'. This means that only those people who really need that piece of information to operate should be given it. For example, if a team is working with a high-risk source, only the source's direct contact within the team should have his or her real name and details - the rest of the team can operate using a code name. This reduces the risk for both the source and those other members of the team.
+![image](managing_information1.png)
 
-If there is 
-ot a good reaso
- to keep a piece of se
-sitive i
-formatio
- the
- you should simply delete it (see the [Safely Deleti
-g lesso
-](umbrella://lesso
-/safely-deleti
-g)).
+If there is not a good reason to keep a piece of sensitive information then you should simply delete it (see the [Safely Deleting lesson](umbrella://lesson/safely-deleting)).

@@ -3,54 +3,23 @@
 
 Drivers should:
 
-*   Be give
- a clear briefi
-g about safe drivi
-g procedures before departure
-*   Co
-sider the le
-gth of jour
-ey - do you 
-eed more tha
- o
-e driver?
-*   Factor i
- prayer or suste
-a
-ce stops if 
-ecessary
-*   Co
-sider the driver's eth
-icity if goi
-g i
-to da
-gerous areas
+*   Be given a clear briefing about safe driving procedures before departure
+*   Consider the length of journey - do you need more than one driver?
+*   Factor in prayer or sustenance stops if necessary
+*   Consider the driver's ethnicity if going into dangerous areas
 
-Co
-sideratio
-s i
- choosi
-g type of vehicle should i
-clude:
+Considerations in choosing type of vehicle should include:
 
-*   Urba
- or rural trip? State of the roads? 4x4 
-ecessary?
-*   Desirability of vehicle for car-jacki
-g
+*   Urban or rural trip? State of the roads? 4x4 necessary?
+*   Desirability of vehicle for car-jacking
 *   High profile or low profile
 
-Road worthi
-ess checks carried out before usi
-g a vehicle should i
-clude:
+Road worthiness checks carried out before using a vehicle should include:
 
 *   Tyres
 *   Seatbelts
 *   Fuel
 *   Brakes
 *   Oil level
-*   Steeri
-g
-*   Loadi
-g
+*   Steering
+*   Loading

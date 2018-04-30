@@ -1,95 +1,19 @@
 [Title]: # (Что теперь?)
 [Order]: # (6)
 
-Swipe right for this lesso
-'s checklist
+Swipe right for this lesson's checklist
 
-Go to the Begi
+Go to the Beginner lesson for advice on how to avoid kidnapping.[Go to Beginner Lesson](umbrella://lesson/kidnapping/1)
 
-er lesso
- for advice o
- how to avoid kid
-appi
-g.[Go to Begi
-
-er Lesso
-](umbrella://lesso
-/kid
-appi
-g/1)
-
-Go to the Expert lesso
- for advice o
- what to do if a staff member is kid
-apped.[Go to Expert Lesso
-](umbrella://lesso
-/kid
-appi
-g/3)
+Go to the Expert lesson for advice on what to do if a staff member is kidnapped.[Go to Expert Lesson](umbrella://lesson/kidnapping/3)
 
 ### RELATED LESSONS/TOOLS
 
-*   [Travel Prep lesso
-](umbrella://lesso
-/preparatio
-)
+*   [Travel Prep lesson](umbrella://lesson/preparation)
 
 ### FURTHER READING
 
-*   [CARE I
-ter
-atio
-al: Safety & Security Ha
-dbook](https://www.eisf.eu/wp-co
-te
-t/uploads/2014/09/0614-Macpherso
--2004-CARE-I
-ter
-atio
-al-Safety-a
-d-Security-Ha
-dbook.pdf)
-*   [Good Practice Review Number 8: Operatio
-al security ma
-ageme
-t i
- viole
-t e
-viro
-me
-ts (Revised Ed.)](http://odihp
-.org/wp-co
-te
-t/uploads/2010/11/GPR_8_revised2.pdf)
-*   [ECHO Ge
-eric Security Guide for Huma
-itaria
- Orga
-isatio
-s](http://ec.europa.eu/echo/files/evaluatio
-/watsa
-2005/a
-
-ex_files/ECHO/ECHO12%20-%20echo_ge
-eric_security_guide_e
-.doc)
-*   [Protectio
- I
-ter
-atio
-al: New Protectio
- Ma
-ual for Huma
- Rights Defe
-ders (3rd Ed.)](http://protectio
-i
-ter
-atio
-al.org/publicatio
-/
-ew-protectio
--ma
-ual-for-huma
--rights-defe
-ders-3rd-editio
-/)
+*   [CARE International: Safety & Security Handbook](https://www.eisf.eu/wp-content/uploads/2014/09/0614-Macpherson-2004-CARE-International-Safety-and-Security-Handbook.pdf)
+*   [Good Practice Review Number 8: Operational security management in violent environments (Revised Ed.)](http://odihpn.org/wp-content/uploads/2010/11/GPR_8_revised2.pdf)
+*   [ECHO Generic Security Guide for Humanitarian Organisations](http://ec.europa.eu/echo/files/evaluation/watsan2005/annex_files/ECHO/ECHO12%20-%20echo_generic_security_guide_en.doc)
+*   [Protection International: New Protection Manual for Human Rights Defenders (3rd Ed.)](http://protectioninternational.org/publication/new-protection-manual-for-human-rights-defenders-3rd-edition/)

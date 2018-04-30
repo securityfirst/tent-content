@@ -1,77 +1,25 @@
 [Title]: # (Наблюдение)
 [Order]: # (11)
 
-# Surveilla
-ce
+# Surveillance
 
-Surveilla
-ce is the mo
-itori
-g of people's behaviour, activities, or other patter
-s for the purpose of harmi
-g, i
-flue
-ci
-g, ma
-agi
-g, directi
-g, or protecti
-g them.
-![image](surveilla
-ce1.p
-g)
+Surveillance is the monitoring of people's behaviour, activities, or other patterns for the purpose of harming, influencing, managing, directing, or protecting them.
+![image](surveillance1.png)
 
-**Why might people be i
-terested i
- keepi
-g you u
-der physical surveilla
-ce?**
+**Why might people be interested in keeping you under physical surveillance?**
 
-*   Break-i
-/ theft of se
-sitive materials
+*   Break-in/ theft of sensitive materials
 *   Arrest
-*   Mo
-itor who is comi
-g a
-d goi
-g from the office
-*   I
-timidatio
+*   Monitor who is coming and going from the office
+*   Intimidation
+*   Physical attack on staff
 
-*   Physical attack o
- staff
+**Who might be interested in keeping you under surveillance?**
 
-**Who might be i
-terested i
- keepi
-g you u
-der surveilla
-ce?**
-
-*   Authorities of the cou
-try i
- which the regio
-al office is located (police, i
-tellige
-ce, military)
-*   Exter
-al security age
-cies of other cou
-tries i
- the regio
-
-*   Crimi
-als
+*   Authorities of the country in which the regional office is located (police, intelligence, military)
+*   External security agencies of other countries in the region
+*   Criminals
 *   Terrorists
-*   Private co
-tractors
-*   Embassy officials of 'frie
-dly' cou
-tries
-*   I
-dividuals (may be disgru
-tled with the orga
-isatio
-)
+*   Private contractors
+*   Embassy officials of 'friendly' countries
+*   Individuals (may be disgruntled with the organisation)

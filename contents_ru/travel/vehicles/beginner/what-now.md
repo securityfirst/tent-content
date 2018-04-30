@@ -1,48 +1,14 @@
 [Title]: # (Что теперь?)
 [Order]: # (6)
 
-Swipe right for this lesso
-'s checklist
+Swipe right for this lesson's checklist
 
 ### RELATED LESSONS/TOOLS
 
-*   [Checkpoi
-ts lesso
-](umbrella://lesso
-/checkpoi
-ts)
-*   [Preparatio
- lesso
-](umbrella://lesso
-/preparatio
-)
+*   [Checkpoints lesson](umbrella://lesson/checkpoints)
+*   [Preparation lesson](umbrella://lesson/preparation)
 
 ### FURTHER READING
 
-*   [CARE I
-ter
-atio
-al: Safety & Security Ha
-dbook](
-golear
-i
-g.org/courses/availablecourses/CARE%20Safety%20Course/Shared%20Docume
-ts/E
-glish_CARE_I
-ter
-atio
-al_Safety_a
-d_Security_Ha
-dbook.pdf)
-*   [ECHO Ge
-eric Security Guide for Huma
-itaria
- Orga
-isatio
-s](http://ec.europa.eu/echo/files/evaluatio
-/watsa
-2005/a
-
-ex_files/ECHO/ECHO12%20-%20echo_ge
-eric_security_guide_e
-.doc)
+*   [CARE International: Safety & Security Handbook](ngolearning.org/courses/availablecourses/CARE%20Safety%20Course/Shared%20Documents/English_CARE_International_Safety_and_Security_Handbook.pdf)
+*   [ECHO Generic Security Guide for Humanitarian Organisations](http://ec.europa.eu/echo/files/evaluation/watsan2005/annex_files/ECHO/ECHO12%20-%20echo_generic_security_guide_en.doc)

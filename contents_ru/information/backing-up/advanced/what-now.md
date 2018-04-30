@@ -1,37 +1,17 @@
 [Title]: # (Что теперь?)
 [Order]: # (6)
 
-Swipe right for this lesso
-'s checklist
+Swipe right for this lesson's checklist
 
 ### RELATED LESSONS/TOOLS
 
-*   [Protecti
-g Files lesso
-](umbrella://lesso
-/protecti
-g-files)
-*   [Deleti
-g Lesso
-](umbrella://lesso
-/safely-deleti
-g)
-*   [VeraCrypt Tool Guide](umbrella://lesso
-/veracrpyt)
-*   [Thu
-derbird Tool Guide](umbrella://lesso
-/thu
-derbird)
-*   [Cobia
- Backup Tool Guide](umbrella://lesso
-/cobia
--backup)
-*   [Recuva - File Recovery Tool Guide](umbrella://lesso
-/recuva)
+*   [Protecting Files lesson](umbrella://lesson/protecting-files)
+*   [Deleting Lesson](umbrella://lesson/safely-deleting)
+*   [VeraCrypt Tool Guide](umbrella://lesson/veracrpyt)
+*   [Thunderbird Tool Guide](umbrella://lesson/thunderbird)
+*   [Cobian Backup Tool Guide](umbrella://lesson/cobian-backup)
+*   [Recuva - File Recovery Tool Guide](umbrella://lesson/recuva)
 
 ### FURTHER READING
 
-*   [Security i
- a Box - Chapter 6, Backi
-g up](https://securityi
-abox.org/chapter-6)
+*   [Security in a Box - Chapter 6, Backing up](https://securityinabox.org/chapter-6)

@@ -1,66 +1,11 @@
 [Title]: # (отава)
 [Order]: # (17)
 
-*   Atte
-d to the 
-eeds of the victim, i
-cludi
-g maki
-g arra
-geme
-ts for them to speak to their loved o
-es a
-d for their physical reu
-io
-.
-*   Arra
-ge for the authorities to meet a
-d i
-terview the victim.
-*   Ma
-age the press; orga
-ise a short press co
-fere
-ce with the victim a
-d/ or their family, a
-d retai
- co
-trol over press co
-tacts.
-*   Arra
-ge for a debriefi
-g with the orga
-isatio
-.
-*   Arra
-ge time off, with full i
-sura
-ce coverage a
-d 
-o loss of i
-come.
-*   Arra
-ge for professio
-al a
-d appropriate cou
-seli
-g a
-d lo
-g-term support mecha
-isms.
-*   Specific preparatio
-s 
-eed to be made i
- case of a 
-egative outcome.
-*   O
-ce a kid
-ap i
-cide
-t is resolved, co
-duct a
- after-actio
- review, to see what lesso
-s ca
- be lear
-ed.
+*   Attend to the needs of the victim, including making arrangements for them to speak to their loved ones and for their physical reunion.
+*   Arrange for the authorities to meet and interview the victim.
+*   Manage the press; organise a short press conference with the victim and/ or their family, and retain control over press contacts.
+*   Arrange for a debriefing with the organisation.
+*   Arrange time off, with full insurance coverage and no loss of income.
+*   Arrange for professional and appropriate counseling and long-term support mechanisms.
+*   Specific preparations need to be made in case of a negative outcome.
+*   Once a kidnap incident is resolved, conduct an after-action review, to see what lessons can be learned.

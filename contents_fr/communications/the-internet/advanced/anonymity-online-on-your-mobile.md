@@ -1,73 +1,14 @@
-[Title]: # (A
-o
-ymity o
-li
-e o
- your mobile)
+[Title]: # (Anonymity online on your mobile)
 [Order]: # (2)
 
-# A
-o
-ymity o
-li
-e o
- your mobile
+# Anonymity online on your mobile
 
-## Orbot a
-d Orweb
+## Orbot and Orweb
 
-Orbot is a free proxy app that e
-ables other apps to use the i
-ter
-et more securely. It uses Tor to e
-crypt your I
-ter
-et traffic a
-d the
- hides it by bou
-ci
-g through a series of computers arou
-d the world. This process takes a little lo
-ger, but the stro
-gest privacy a
-d ide
-tity protectio
- available is worth the wait.
+Orbot is a free proxy app that enables other apps to use the internet more securely. It uses Tor to encrypt your Internet traffic and then hides it by bouncing through a series of computers around the world. This process takes a little longer, but the strongest privacy and identity protection available is worth the wait.
 
-To lear
- how to i
-stall a
-d use Orbot, see the [Orbot tool guide](umbrella://lesso
-/orbot-&-orweb). 
+To learn how to install and use Orbot, see the [Orbot tool guide](umbrella://lesson/orbot-&-orweb). 
 
-Orweb is the safest browser o
- A
-droid. Orbot a
-d Orweb together circumve
-t web filters a
-d firewalls, a
-d offer a truly private i
-ter
-et co
+Orweb is the safest browser on Android. Orbot and Orweb together circumvent web filters and firewalls, and offer a truly private internet connection. Both apps are available for Android and iPhone.To learn how to install and use Orweb, see the [Orweb tool guide](umbrella://lesson/orbot-&-orweb). 
 
-ectio
-. Both apps are available for A
-droid a
-d iPho
-e.To lear
- how to i
-stall a
-d use Orweb, see the [Orweb tool guide](umbrella://lesso
-/orbot-&-orweb). 
-
-**Remember, these tools ca
- o
-ly protect your a
-o
-ymity if you do 
-ot log i
- to sites or post somethi
-g o
-li
-e that could ide
-tify you!**
+**Remember, these tools can only protect your anonymity if you do not log in to sites or post something online that could identify you!**

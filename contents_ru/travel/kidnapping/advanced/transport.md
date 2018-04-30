@@ -1,14 +1,5 @@
 [Title]: # (Транспорт)
 [Order]: # (2)
 
-*   You may be drugged, bli
-dfolded, restrai
-ed a
-d beate
-. Do 
-ot resist, the mai
- purpose is to make you more submissive.
-*   If bei
-g tra
-sported, use the time to compose yourself. Keep your mi
-d active.
+*   You may be drugged, blindfolded, restrained and beaten. Do not resist, the main purpose is to make you more submissive.
+*   If being transported, use the time to compose yourself. Keep your mind active.

@@ -1,41 +1,13 @@
-[Title]: # (Et mai
-te
-a
-t ?)
+[Title]: # (Et maintenant ?)
 [Order]: # (10)
 
-Faire glisser vers la droite pour obte
-ir la liste de co
-trôle de cette leço
+Faire glisser vers la droite pour obtenir la liste de contrôle de cette leçon
 
+[Aller à la leçon Débutant](umbrella://lesson/counter_surveillance/0)
 
-[Aller à la leço
- Débuta
-t](umbrella://lesso
-/cou
-ter_surveilla
-ce/0)
-
-Aller à la leço
- Expert pour obte
-ir des co
-seils sur les tech
-iques de co
-tre-surveilla
-ce qua
-d vous êtes da
-s u
- véhicule.
-[Aller à la leço
- Expert](umbrella://lesso
-/cou
-ter_surveilla
-ce/2)
+Aller à la leçon Expert pour obtenir des conseils sur les techniques de contre-surveillance quand vous êtes dans un véhicule.
+[Aller à la leçon Expert](umbrella://lesson/counter_surveillance/2)
 
 ### LEÇONS/OUTILS CONNEXES
 
-* [Les réu
-io
-s](umbrella://lesso
-/meeti
-gs)
+* [Les réunions](umbrella://lesson/meetings)

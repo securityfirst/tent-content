@@ -1,40 +1,16 @@
-[Title]: # (Et mai
-te
-a
-t ?)
+[Title]: # (Et maintenant ?)
 [Order]: # (5)
 
-Swipe right for this lesso
-'s checklist
+Swipe right for this lesson's checklist
 
 ### RELATED LESSONS/TOOLS
 
-*   [Sig
-al tool guide](umbrella://lesso
-/sig
-al)
-*   [ChatSecure tool guide](umbrella://lesso
-/chatsecure)
-*   [Pidgi
- tool guide](umbrella://lesso
-/pidgi
-)
-*   [Adium tool guide](umbrella://lesso
-/adium)
+*   [Signal tool guide](umbrella://lesson/signal)
+*   [ChatSecure tool guide](umbrella://lesson/chatsecure)
+*   [Pidgin tool guide](umbrella://lesson/pidgin)
+*   [Adium tool guide](umbrella://lesson/adium)
 
 ### FURTHER READING
 
-*   [EFF - Commu
-icati
-g with others](https://ssd.eff.org/e
-/module/commu
-icati
-g-others)
-*   [Security i
- a Box - Secure commu
-icatio
- guide](https://securityi
-abox.org/e
-/guide/secure-commu
-icatio
-)
+*   [EFF - Communicating with others](https://ssd.eff.org/en/module/communicating-others)
+*   [Security in a Box - Secure communication guide](https://securityinabox.org/en/guide/secure-communication)

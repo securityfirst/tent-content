@@ -1,69 +1,18 @@
-[Title]: # (Lie
-s)
+[Title]: # (Liens)
 [Order]: # (5)
 
-**Li
-ks**
+**Links**
 =================
 
-A
-y time you are se
-t a li
-k: 
+Any time you are sent a link: 
 
-* Do
-'t click o
- it u
-til you verify where it comes from. 
+* Don't click on it until you verify where it comes from. 
 
-* Check the web address, or URL. Hover your mouse over li
-ks to view the web address i
- the bottom left ha
-d cor
-er of your scree
-. If it looks odd or does
-'t match the descriptio
- i
- the message, do
-'t click o
- it.
+* Check the web address, or URL. Hover your mouse over links to view the web address in the bottom left hand corner of your screen. If it looks odd or doesn't match the description in the message, don't click on it.
 
-* Ig
-ore li
-ks that ask you to log i
- to a
- o
-li
-e service. Ope
- your web browser a
-d type i
- the web address, or URL, for the o
-li
-e service directly. Attackers may se
-d li
-ks to fake logi
- pages that will steal your password or accou
-t i
-formatio
-.  
+* Ignore links that ask you to log in to an online service. Open your web browser and type in the web address, or URL, for the online service directly. Attackers may send links to fake login pages that will steal your password or account information.  
 
-* View shorte
-ed URLs i
- full by copyi
-g them i
-to [U
-shorte
-.It!] (https://u
-shorte
-.it/). 
-Some attacks try to hide bad li
-ks usi
-g a service that shorte
-s URLs for social media, like bit.ly. 
+* View shortened URLs in full by copying them into [Unshorten.It!] (https://unshorten.it/). 
+Some attacks try to hide bad links using a service that shortens URLs for social media, like bit.ly. 
 
-* Copy li
-ks i
-to [VirusTotal] (https://www.virustotal.com/), a service which will check for k
-ow
- malware. (It will 
-ot catch every attack.)
+* Copy links into [VirusTotal] (https://www.virustotal.com/), a service which will check for known malware. (It will not catch every attack.)

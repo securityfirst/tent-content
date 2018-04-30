@@ -1,26 +1,6 @@
 [Title]: # (Похищение)
 [Order]: # (13)
 
-Deali
-g with the kid
-appi
-g of a member of staff is a very se
-sitive a
-d complex task. This lesso
- provides o
-ly the basic outli
-e for recomme
-ded actio
-s.
+Dealing with the kidnapping of a member of staff is a very sensitive and complex task. This lesson provides only the basic outline for recommended actions.
 
-**If o
-e of your staff is kid
-apped we highly recomme
-d readi
-g the detailed advice give
- i
- the 'Further Readi
-g' li
-ks at the e
-d of this lesso
-.**
+**If one of your staff is kidnapped we highly recommend reading the detailed advice given in the 'Further Reading' links at the end of this lesson.**

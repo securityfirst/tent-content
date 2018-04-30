@@ -1,71 +1,14 @@
 [Title]: # (Se protéger sur les réseaux sociaux)
 [Order]: # (0)
 
-# Protecti
-g Yourself o
- Social Networks
+# Protecting Yourself on Social Networks
 
-Social 
-etworki
-g sites are some of the most popular websites a
-d tools we use o
- the I
-ter
-et. Facebook, Google+, a
-d Twitter have hu
-dreds of millio
-s of users each. With social 
-etworki
-g platforms come ma
-y be
-efits, such as the u
-precede
-ted opportu
-ity to commu
-icate, publish, coordi
-ate, a
-d persuade. Ma
-y people use it for their professio
-al as well perso
-al lives. But, this also mea
-s that we're shari
-g a lot about ourselves o
-li
-e, usually more tha
- we realise. I
- some cases, this ca
- put our operatio
-s, our co
-tacts, or us at risk.
-![image](socialb1.p
-g)
+Social networking sites are some of the most popular websites and tools we use on the Internet. Facebook, Google+, and Twitter have hundreds of millions of users each. With social networking platforms come many benefits, such as the unprecedented opportunity to communicate, publish, coordinate, and persuade. Many people use it for their professional as well personal lives. But, this also means that we're sharing a lot about ourselves online, usually more than we realise. In some cases, this can put our operations, our contacts, or us at risk.
+![image](socialb1.png)
 
-Whe
- usi
-g social 
-etworks it is importa
-t to co
-sider:
+When using social networks it is important to consider:
 
-*   How ca
- I i
-teract while protecti
-g myself, my ide
-tity, my privacy a
-d my co
-tacts?
-*   What i
-formatio
- do I wa
-t keep private a
-d who do I wa
-t to keep it private from?
+*   How can I interact while protecting myself, my identity, my privacy and my contacts?
+*   What information do I want keep private and who do I want to keep it private from?
 
-Depe
-di
-g o
- your circumsta
-ces, you may 
-eed to protect yourself agai
-st the social media site itself, agai
-st other users of the site, or both.
+Depending on your circumstances, you may need to protect yourself against the social media site itself, against other users of the site, or both.

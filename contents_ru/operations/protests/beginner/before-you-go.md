@@ -3,81 +3,14 @@
 
 # Before You Go
 
-Protest marches, rallies or u
-pla
+Protest marches, rallies or unplanned gatherings may be small and self-limiting or may become riots and civil disturbance.
 
-ed gatheri
-gs may be small a
-d self-limiti
-g or may become riots a
-d civil disturba
-ce.
+It is important to prepare adequately (in proportion to the expected event) before going to cover it. This can have many different meanings depending on the size of the team you work with, but should include the following if possible and appropriate:
 
-It is importa
-t to prepare adequately (i
- proportio
- to the expected eve
-t) before goi
-g to cover it. This ca
- have ma
-y differe
-t mea
-i
-gs depe
-di
-g o
- the size of the team you work with, but should i
-clude the followi
-g if possible a
-d appropriate:
-
-*   Prepare emerge
-cy a
-d fall back pla
-s - agree at what stage you should pull out a
-d emerge
-cy meeti
-g poi
-ts;
-*   Source a
-d pack protective equipme
-t - see the Protective Equipme
-t lesso
- for more advice o
- this;
-*   Pack a first aid pack - you should also remi
-d yourself of how to admi
-ister basic first aid;
-*   Select broadcast equipme
-t carefully - you may wa
-t to use discreet cameras if filmi
-g becomes da
-gerous;
-*   Co
-tact your Safety Adviser or the perso
- respo
-sible for security i
- the orga
-isatio
- you are co
-tracted to - they should co
-sider the size of team 
-eeded a
-d whether or 
-ot it should i
-clude security perso
-
-el;
-*   Teams coveri
-g disorder, riots etc should have trai
-i
-g a
-d briefi
-g o
- safety i
- civil u
-rest situatio
-s. Experie
-ce is also a great help.
-*   For large protests a specific risk assessme
-t should be carried out.
+*   Prepare emergency and fall back plans - agree at what stage you should pull out and emergency meeting points;
+*   Source and pack protective equipment - see the Protective Equipment lesson for more advice on this;
+*   Pack a first aid pack - you should also remind yourself of how to administer basic first aid;
+*   Select broadcast equipment carefully - you may want to use discreet cameras if filming becomes dangerous;
+*   Contact your Safety Adviser or the person responsible for security in the organisation you are contracted to - they should consider the size of team needed and whether or not it should include security personnel;
+*   Teams covering disorder, riots etc should have training and briefing on safety in civil unrest situations. Experience is also a great help.
+*   For large protests a specific risk assessment should be carried out.

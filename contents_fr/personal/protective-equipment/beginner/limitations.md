@@ -1,27 +1,6 @@
-[Title]: # (Les limitatio
-s)
+[Title]: # (Les limitations)
 [Order]: # (7)
 
-Si vous êtes impliqué da
-s u
-e évacuatio
- d’urge
-ce par voie aérie
+Si vous êtes impliqué dans une évacuation d’urgence par voie aérienne, souvenez-vous que vous pourriez avoir une limite de poids de 15 kg ou moins. Assurez-vous de prioriser avec attention ce que vous décidez emporter ou vous serez forcé de laisser des articles sur la zone de décollage.
 
-e, souve
-ez-vous que vous pourriez avoir u
-e limite de poids de 15 kg ou moi
-s. Assurez-vous de prioriser avec atte
-tio
- ce que vous décidez emporter ou vous serez forcé de laisser des articles sur la zo
-e de décollage.
-
-Voir la leço
- L’évacuatio
- pour obte
-ir des détails sur la démarche à suivre e
- cas d’hiber
-atio
-, de réaffectatio
- ou d’évacuatio
-.
+Voir la leçon L’évacuation pour obtenir des détails sur la démarche à suivre en cas d’hibernation, de réaffectation ou d’évacuation.

@@ -1,110 +1,31 @@
 [Title]: # (Ce qu’il faut emporter)
 [Order]: # (6)
 
-U
- fourre-tout peut co
-te
-ir :
+Un fourre-tout peut contenir :
 
-* U
- passeport, u
-e pièce d’ide
-tité avec des visas à e
-trées multiples
-* Des copies d’autres docume
-ts esse
-tiels perso
-
-els ou de voyage (p. ex. u
- permis de co
-duire)
-* U
-e liste de co
-tacts et d’adresses d’urge
-ce
-* U
-e trousse de premiers soi
-s i
-clua
-t des médicame
-ts sur ordo
-
-a
-ce et des ordo
-
-a
-ces médicales
-* U
- couteau suisse
-* Des vêteme
-ts de recha
-ge (assurez-vous qu’ils co
-vie
-
-e
-t au co
-texte)
-* U
-e carte, u
-e boussole (s’il est perti
-e
-t d’avoir des cartes)
-* U
-e bouteille d’eau (avec u
- filtre à eau et des comprimés de potabilisatio
-)
-* Des alime
-ts à haute te
-eur é
-ergétique (
-oix, barres-collatio
-, chocolat, etc.)
-* U
- télépho
-e mobile, u
- chargeur et des cartes prépayées à gratter si 
-écessaire
-* U
-e lampe de poche et des piles
-* U
-e bougie
-* U
-e corde solide, du fil de fer
-* De l’arge
-t (mo
-
-aie locale et dollars US, des cartes de crédit)
-* U
-e brosse à de
-ts de voyage, du de
-tifrice et du savo
-
-* Des vêteme
-ts de pluie
-* De l’i
-sectifuge, de la crème solaire
-* U
- stylo et du papier
-* Des lu
-ettes correctrices (si besoi
- est) et des lu
-ettes de soleil
+* Un passeport, une pièce d’identité avec des visas à entrées multiples
+* Des copies d’autres documents essentiels personnels ou de voyage (p. ex. un permis de conduire)
+* Une liste de contacts et d’adresses d’urgence
+* Une trousse de premiers soins incluant des médicaments sur ordonnance et des ordonnances médicales
+* Un couteau suisse
+* Des vêtements de rechange (assurez-vous qu’ils conviennent au contexte)
+* Une carte, une boussole (s’il est pertinent d’avoir des cartes)
+* Une bouteille d’eau (avec un filtre à eau et des comprimés de potabilisation)
+* Des aliments à haute teneur énergétique (noix, barres-collation, chocolat, etc.)
+* Un téléphone mobile, un chargeur et des cartes prépayées à gratter si nécessaire
+* Une lampe de poche et des piles
+* Une bougie
+* Une corde solide, du fil de fer
+* De l’argent (monnaie locale et dollars US, des cartes de crédit)
+* Une brosse à dents de voyage, du dentifrice et du savon
+* Des vêtements de pluie
+* De l’insectifuge, de la crème solaire
+* Un stylo et du papier
+* Des lunettes correctrices (si besoin est) et des lunettes de soleil
 * Des allumettes
-* Des préservatifs - peuve
-t être utiles pour garder les choses au sec
-* U
- recueil de locutio
-s (pour les locuteurs étra
-gers)
-* U
- couvre-chef
-* U
- miroir de poche
-* U
-e radio
-* U
- télépho
-e satellite et so
- chargeur (s’ils so
-t four
-is)
+* Des préservatifs - peuvent être utiles pour garder les choses au sec
+* Un recueil de locutions (pour les locuteurs étrangers)
+* Un couvre-chef
+* Un miroir de poche
+* Une radio
+* Un téléphone satellite et son chargeur (s’ils sont fournis)

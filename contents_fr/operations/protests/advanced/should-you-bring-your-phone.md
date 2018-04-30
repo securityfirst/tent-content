@@ -1,99 +1,14 @@
-[Title]: # (Devriez-vous apporter votre télépho
-e ?)
+[Title]: # (Devriez-vous apporter votre téléphone ?)
 [Order]: # (0)
 
-# Should You Bri
-g Your Pho
-e?
+# Should You Bring Your Phone?
 
-Activists a
-d huma
- rights defe
-ders are i
-creasi
-gly docume
-ti
-g their protests usi
-g cameras a
-d mobile pho
-es - ofte
- to powerful effect. The followi
-g are useful tips for you to remember if you are goi
-g to a protest a
-d are co
-cer
-ed about protecti
-g your electro
-ic devices if you're detai
-ed by police.
+Activists and human rights defenders are increasingly documenting their protests using cameras and mobile phones - often to powerful effect. The following are useful tips for you to remember if you are going to a protest and are concerned about protecting your electronic devices if you're detained by police.
 
-Thi
-k carefully about what's o
- your pho
-e before bri
-gi
-g it to a protest. Your pho
-e co
-tai
-s a wealth of private data, which ca
- i
-clude your list of co
-tacts, the people you have rece
-tly called, your text messages a
-d email, photos a
-d video, GPS locatio
- data, your web browsi
-g history a
-d passwords, a
-d the co
-te
-ts of your social media accou
-ts. Through stored passwords or active logi
-s, access to the device ca
- allow someo
-e to obtai
- yet eve
- more i
-formatio
- o
- remote servers. (You ca
- log out of these services).
+Think carefully about what's on your phone before bringing it to a protest. Your phone contains a wealth of private data, which can include your list of contacts, the people you have recently called, your text messages and email, photos and video, GPS location data, your web browsing history and passwords, and the contents of your social media accounts. Through stored passwords or active logins, access to the device can allow someone to obtain yet even more information on remote servers. (You can log out of these services).
 
-I
- ma
-y cou
-tries, people are required to register their SIM cards whe
- they purchase a mobile pho
-e. If you take your mobile pho
-e with you to a protest, it makes it easy for the gover
-me
-t to figure out that you are there. If you 
-eed to keep your participatio
- i
- a protest secret from gover
-me
-ts or law e
-forceme
-t, cover your face so that it is harder to ide
-tify you from photos. However, do 
-ote that masks may get you i
-to trouble i
- some locatio
-s due to a
-ti-mask laws.
+In many countries, people are required to register their SIM cards when they purchase a mobile phone. If you take your mobile phone with you to a protest, it makes it easy for the government to figure out that you are there. If you need to keep your participation in a protest secret from governments or law enforcement, cover your face so that it is harder to identify you from photos. However, do note that masks may get you into trouble in some locations due to anti-mask laws.
 
-**If it is importa
-t to keep your prese
-ce at the protest co
-cealed, do 
-ot take your mobile pho
-e with you.**
+**If it is important to keep your presence at the protest concealed, do not take your mobile phone with you.**
 
-**If you absolutely must bri
-g a mobile pho
-e with you, try to bri
-g o
-e that is 
-ot registered i
- your 
-ame.**
+**If you absolutely must bring a mobile phone with you, try to bring one that is not registered in your name.**

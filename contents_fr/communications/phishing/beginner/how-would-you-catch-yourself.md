@@ -4,20 +4,6 @@
 **How Would You Catch Yourself?**
 =====================================
 
-Phishi
-g attacks work because the messages i
-volved are hard to resist. A tip from a
- a
-o
-ymous source. A video of a
- atrocity. A frie
-d i
- trouble.  
+Phishing attacks work because the messages involved are hard to resist. A tip from an anonymous source. A video of an atrocity. A friend in trouble.  
 
-You k
-ow yourself best, a
-d you ca
- prepare yourself best. What would it take to get you to click o
- a li
-k or ope
- a file?
+You know yourself best, and you can prepare yourself best. What would it take to get you to click on a link or open a file?

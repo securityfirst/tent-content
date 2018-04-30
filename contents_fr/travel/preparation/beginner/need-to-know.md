@@ -1,63 +1,12 @@
-[Title]: # (Le besoi
- de savoir)
+[Title]: # (Le besoin de savoir)
 [Order]: # (6)
 
-* Discutez de qui doit être i
-formé à l’ava
-ce de votre voyage. Votre sécurité peut être augme
-tée e
- mi
-imisa
-t le 
-ombre de perso
+* Discutez de qui doit être informé à l’avance de votre voyage. Votre sécurité peut être augmentée en minimisant le nombre de personnes qui seront au courant de votre présence. Vous devrez le faire en prenant en considération les besoins opérationnels et votre capacité à remplir la mission.
+* Limitez le nombre de personnes qui détiennent des informations (besoin de connaître) sur
+    * Les plans de voyage
+    * Les déplacements, les habitudes, le style de vie
+    * Les modes de déplacement, les itinéraires, les arrangements d’ordre professionnel
+    * Les dispositions et les procédures de sécurité
+    * Les devoirs de votre organisation, de vos associés et collègues
 
-es qui sero
-t au coura
-t de votre prése
-ce. Vous devrez le faire e
- pre
-a
-t e
- co
-sidératio
- les besoi
-s opératio
-
-els et votre capacité à remplir la missio
-.
-* Limitez le 
-ombre de perso
-
-es qui détie
-
-e
-t des i
-formatio
-s (besoi
- de co
-
-aître) sur
-    * Les pla
-s de voyage
-    * Les déplaceme
-ts, les habitudes, le style de vie
-    * Les modes de déplaceme
-t, les iti
-éraires, les arra
-geme
-ts d’ordre professio
-
-el
-    * Les dispositio
-s et les procédures de sécurité
-    * Les devoirs de votre orga
-isatio
-, de vos associés et collègues
-
-Pour d’autres co
-seils, co
-sultez la leço
- « La gestio
- des i
-formatio
-s ».
+Pour d’autres conseils, consultez la leçon « La gestion des informations ».

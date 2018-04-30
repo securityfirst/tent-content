@@ -1,65 +1,14 @@
 [Title]: # (Зрительные трекеров)
 [Order]: # (22)
 
-# Spotti
-g Trackers
+# Spotting Trackers
 
-A tracker is a device placed o
- a car to mo
-itor its locatio
-. This is ofte
- used by surveilla
-ce teams i
-stead of physically followi
-g a perso
-'s car.
+A tracker is a device placed on a car to monitor its location. This is often used by surveillance teams instead of physically following a person's car.
 
-Some trackers (particularly those used by gover
-me
-t age
-cies) allow the surveilla
-ce team to track a target i
- real time a
-d to mo
-itor historical paths. Some trackers o
-ly log the jour
-ey take
- by the target vehicle. They do 
-ot allow the surveilla
-ce team to track the vehicle live - i
-stead the tracker must be retrieved by the team a
-d a
-alysed o
- a laptop.
+Some trackers (particularly those used by government agencies) allow the surveillance team to track a target in real time and to monitor historical paths. Some trackers only log the journey taken by the target vehicle. They do not allow the surveillance team to track the vehicle live - instead the tracker must be retrieved by the team and analysed on a laptop.
 
-You should be particularly aware of the risk of trackers if you thi
-k your work is of i
-terest to the authorities a
-d your car is kept i
- a publicly accessible areas at a
-y time. You should regularly check your car for trackers a
-d particularly before goi
-g to a
-y se
-sitive meeti
-gs.
+You should be particularly aware of the risk of trackers if you think your work is of interest to the authorities and your car is kept in a publicly accessible areas at any time. You should regularly check your car for trackers and particularly before going to any sensitive meetings.
 
-Trackers are usually placed o
- the base of a car usi
-g mag
-ets. They ca
- also be placed i
- the boot or roof. You 
-eed to get right u
-der the car a
-d feel arou
-d cor
-ers with your ha
-ds to do a proper check.
+Trackers are usually placed on the base of a car using magnets. They can also be placed in the boot or roof. You need to get right under the car and feel around corners with your hands to do a proper check.
 
-Trackers ca
- be the size of a pho
-e or eve
- smaller. They ca
- also be covered i
- tape or oil to help disguise it as part of the car.
+Trackers can be the size of a phone or even smaller. They can also be covered in tape or oil to help disguise it as part of the car.

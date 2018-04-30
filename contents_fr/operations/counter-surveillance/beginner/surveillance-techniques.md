@@ -1,35 +1,10 @@
-[Title]: # (Les tech
-iques de surveilla
-ce)
+[Title]: # (Les techniques de surveillance)
 [Order]: # (12)
 
-# Quelles so
-t les tech
-iques de surveilla
-ce ?
+# Quelles sont les techniques de surveillance ?
 
-* La surveilla
-ce 
-umérique (le co
-trôle des commu
-icatio
-s 
-umériques, des télépho
-es mobiles, etc.)
-* La surveilla
-ce humai
-e (à pied, da
-s u
- véhicule)
-* La surveilla
-ce tech
-ique (les systèmes et appareils d’écoute, les caméras vidéo, les lecteurs de plaques d’immatriculatio
-, etc.)
+* La surveillance numérique (le contrôle des communications numériques, des téléphones mobiles, etc.)
+* La surveillance humaine (à pied, dans un véhicule)
+* La surveillance technique (les systèmes et appareils d’écoute, les caméras vidéo, les lecteurs de plaques d’immatriculation, etc.)
 
-Ces leço
-s explique
-t comme
-t co
-trecarrer la surveilla
-ce humai
-e.
+Ces leçons expliquent comment contrecarrer la surveillance humaine.

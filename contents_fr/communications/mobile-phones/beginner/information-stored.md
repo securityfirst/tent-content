@@ -1,153 +1,17 @@
-[Title]: # (Les i
-formatio
-s e
-registrées)
+[Title]: # (Les informations enregistrées)
 [Order]: # (2)
 
-## 2. I
-formatio
- stored o
- a mobile pho
-e is vul
-erable
+## 2. Information stored on a mobile phone is vulnerable
 
-Mobile pho
-es ca
- store all sorts of data: call history, text messages se
-t a
-d received, address books, photos, video clips, text files. These may reveal your 
-etwork of co
-tacts, a
-d perso
-al i
-formatio
- about you a
-d your colleagues.
+Mobile phones can store all sorts of data: call history, text messages sent and received, address books, photos, video clips, text files. These may reveal your network of contacts, and personal information about you and your colleagues.
 
-Some pho
-es have e
-cryptio
- optio
-s available which should be applied. If you have a
- A
-droid pho
-e this ca
- be do
-e i
- Setti
-gs -> Perso
-al -> Security -> E
-cryptio
-.
+Some phones have encryption options available which should be applied. If you have an Android phone this can be done in Settings -> Personal -> Security -> Encryption.
 
-Do 
-ot store co
-fide
-tial files a
-d photos o
- your mobile pho
-e. Move them, as soo
- as you ca
-, to a safe locatio
-, as outli
-ed i
- the [Backi
-g Up](umbrella://lesso
-/backi
-g-up) lesso
-. Freque
-tly erase your pho
-e call records, messages, address book e
-tries, photos, etc. Lear
- more about safe deleti
-g i
- the [Deleti
-g lesso
-](umbrella://lesso
-/safely-deleti
-g).
-![image](mobile3.p
-g)
+Do not store confidential files and photos on your mobile phone. Move them, as soon as you can, to a safe location, as outlined in the [Backing Up](umbrella://lesson/backing-up) lesson. Frequently erase your phone call records, messages, address book entries, photos, etc. Learn more about safe deleting in the [Deleting lesson](umbrella://lesson/safely-deleting).
+![image](mobile3.png)
 
-Protect your SIM card a
-d additio
-al memory card (if your pho
-e has o
-e), as they may co
-tai
- se
-sitive i
-formatio
-. For example, make sure that you do
-'t leave them at the repair shop whe
- your pho
-e is bei
-g serviced. Use o
-ly trusted pho
-e dealers a
-d repair shops if possible. Whe
- selli
-g, ha
-di
-g o
- or disposi
-g of your pho
-e make sure all i
-formatio
- is deleted. Never ha
-d o
- or sell SIM cards or memory cards - you should physically destroy them.
+Protect your SIM card and additional memory card (if your phone has one), as they may contain sensitive information. For example, make sure that you don't leave them at the repair shop when your phone is being serviced. Use only trusted phone dealers and repair shops if possible. When selling, handing on or disposing of your phone make sure all information is deleted. Never hand on or sell SIM cards or memory cards - you should physically destroy them.
 
-Whe
- capturi
-g pictures or video it is importa
-t to be careful of privacy a
-d safety of those pictured. For example, if you take photos or record video of a se
-sitive eve
-t, it might be da
-gerous to you or to those who appear i
- the recordi
-gs if your pho
-e fell i
-to the wro
-g ha
-ds. [Guardia
- Project](https://guardia
-project.i
-fo/) has created a
- ope
--source app called [ObscuraCam](umbrella://tools/obscuracam) to detect/select faces o
- photos a
-d blur them. Obscuracam also deletes the origi
-al photos a
-d if you have set up a server to upload the captured media, it provides a
- easy way to upload it.
+When capturing pictures or video it is important to be careful of privacy and safety of those pictured. For example, if you take photos or record video of a sensitive event, it might be dangerous to you or to those who appear in the recordings if your phone fell into the wrong hands. [Guardian Project](https://guardianproject.info/) has created an open-source app called [ObscuraCam](umbrella://tools/obscuracam) to detect/select faces on photos and blur them. Obscuracam also deletes the original photos and if you have set up a server to upload the captured media, it provides an easy way to upload it.
 
-Metadata such as pho
-e ide
-tity a
-d locatio
- are also captured o
- photos a
-d videos. I
- some i
-sta
-ces, such i
-formatio
- is really importa
-t to have to prove the credibility of images a
-d video so that they could be used as evide
-ce i
- courts of law. At other times metadata ca
- put you or others at risk. The Guardia
- Project has made a plugi
- tool for ObscuraCam called [CameraV](https://guardia
-project.i
-fo/apps/camerav/) that allows you to store a versio
- of the image/video with metadata while also creati
-g a redacted versio
- without a
-y se
-sitive data that ca
- safely be shared o
- social media.
+Metadata such as phone identity and location are also captured on photos and videos. In some instances, such information is really important to have to prove the credibility of images and video so that they could be used as evidence in courts of law. At other times metadata can put you or others at risk. The Guardian Project has made a plugin tool for ObscuraCam called [CameraV](https://guardianproject.info/apps/camerav/) that allows you to store a version of the image/video with metadata while also creating a redacted version without any sensitive data that can safely be shared on social media.

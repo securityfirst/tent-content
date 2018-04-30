@@ -1,27 +1,14 @@
-[Title]: # (Et mai
-te
-a
-t ?)
+[Title]: # (Et maintenant ?)
 [Order]: # (5)
 
-Swipe right for this lesso
-'s checklist
+Swipe right for this lesson's checklist
 
 ### RELATED LESSONS/TOOLS
 
-*   [Protecti
-g Files lesso
-](umbrella://lesso
-/protecti
-g-files)
-*   Darik's Boot a
-d Nuke tool guide
+*   [Protecting Files lesson](umbrella://lesson/protecting-files)
+*   Darik's Boot and Nuke tool guide
 
 ### FURTHER READING
 
-*   [EFF - How to delete your data securely](https://ssd.eff.org/e
-/module/how-delete-your-data-securely)
-*   [Security i
- a Box - Chapter 6, Secure deleti
-g](https://securityi
-abox.org/chapter-6)
+*   [EFF - How to delete your data securely](https://ssd.eff.org/en/module/how-delete-your-data-securely)
+*   [Security in a Box - Chapter 6, Secure deleting](https://securityinabox.org/chapter-6)

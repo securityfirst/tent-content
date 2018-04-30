@@ -1,102 +1,14 @@
 [Title]: # (Советы по безопасному использованию шифрования файлов)
 [Order]: # (1)
 
-# Tips o
- usi
-g file e
-cryptio
- safely
+# Tips on using file encryption safely
 
-There are a few thi
-gs you should bear i
- mi
-d whe
- usi
-g VeraCrypt a
-d tools like it. No matter how sturdy your safe is, it wo
-'t do you a whole lot of good if you leave the door ope
-. Whe
- your VeraCrypt volume or co
-tai
-er is 'mou
-ted' (what it calls ope
- to view your files), your data may be vul
-erable, so you should keep it closed except whe
- you are actually readi
-g or modifyi
-g the files i
-side it.
+There are a few things you should bear in mind when using VeraCrypt and tools like it. No matter how sturdy your safe is, it won't do you a whole lot of good if you leave the door open. When your VeraCrypt volume or container is 'mounted' (what it calls open to view your files), your data may be vulnerable, so you should keep it closed except when you are actually reading or modifying the files inside it.
 
-There are a few situatio
-s whe
- it is especially importa
-t that you remember to 'dismou
-t' (what it calls close) your e
-crypted volume:
+There are a few situations when it is especially important that you remember to 'dismount' (what it calls close) your encrypted volume:
 
-*   Dismou
-t it whe
- you walk away from your computer for a
-y le
-gth of time. Eve
- if you typically leave your computer ru
-
-i
-g over
-ight, you 
-eed to e
-sure that you do 
-ot leave your se
-sitive files accessible to physical or remote i
-truders while you are go
-e.
-*   Dismou
-t it before putti
-g your computer to sleep.
-*   Dismou
-t it before allowi
-g someo
-e else to ha
-dle your computer. Whe
- taki
-g a laptop through a security checkpoi
-t or border crossi
-g, it is importa
-t that you disco
-
-ect all e
-crypted volumes a
-d shut your computer dow
- completely.
-*   Dismou
-t it before i
-serti
-g a
- u
-trusted USB memory stick or other exter
-al storage device, i
-cludi
-g those belo
-gi
-g to frie
-ds a
-d colleagues.
-*   If you keep a
- e
-crypted volume o
- a
- exter
-al hard drive or a USB stick, remember that just removi
-g the device may 
-ot immediately disco
-
-ect the volume. Eve
- if you 
-eed to secure your files i
- a hurry, you have to dismou
-t the volume properly, the
- disco
-
-ect the exter
-al drive or memory stick, the
- remove the device.
+*   Dismount it when you walk away from your computer for any length of time. Even if you typically leave your computer running overnight, you need to ensure that you do not leave your sensitive files accessible to physical or remote intruders while you are gone.
+*   Dismount it before putting your computer to sleep.
+*   Dismount it before allowing someone else to handle your computer. When taking a laptop through a security checkpoint or border crossing, it is important that you disconnect all encrypted volumes and shut your computer down completely.
+*   Dismount it before inserting an untrusted USB memory stick or other external storage device, including those belonging to friends and colleagues.
+*   If you keep an encrypted volume on an external hard drive or a USB stick, remember that just removing the device may not immediately disconnect the volume. Even if you need to secure your files in a hurry, you have to dismount the volume properly, then disconnect the external drive or memory stick, then remove the device.

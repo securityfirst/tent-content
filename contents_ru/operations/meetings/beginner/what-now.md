@@ -1,23 +1,10 @@
 [Title]: # (Что теперь?)
 [Order]: # (7)
 
-Swipe right for this lesso
-'s checklist
+Swipe right for this lesson's checklist
 
 ### RELATED LESSONS/TOOLS
 
-*   [Cou
-ter-Surveilla
-ce lesso
-](umbrella://lesso
-/cou
-ter-surveilla
-ce)
-*   [Mobile pho
-es lesso
-](umbrella://lesso
-/mobile-pho
-es)
-*   [Email lesso
-](umbrella://lesso
-/email)
+*   [Counter-Surveillance lesson](umbrella://lesson/counter-surveillance)
+*   [Mobile phones lesson](umbrella://lesson/mobile-phones)
+*   [Email lesson](umbrella://lesson/email)

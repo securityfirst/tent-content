@@ -1,51 +1,15 @@
-[Title]: # (L’équipeme
-t)
+[Title]: # (L’équipement)
 [Order]: # (5)
 
-* Assurez-vous d’avoir suffisamme
-t d’arge
-t compta
-t ou d’autres modes de paieme
-t pour le voyage.
-* Emportez des éléme
-ts d’équipeme
-t esse
-tiels
-* U
- cade
-as de voyage
-* U
- cade
-as d’ordi
-ateur
-* U
- cale-porte
-* Du ruba
- adhésif i
-violable
-* U
- appareil Wi-Fi mobile
-* U
- chargeur solaire
-* U
- calepi
- bo
- marché duquel vous pourrez déchirer des pages sa
-s vous faire remarquer
-* U
-e moustiquaire, du répulsif à moustique, etc.
+* Assurez-vous d’avoir suffisamment d’argent comptant ou d’autres modes de paiement pour le voyage.
+* Emportez des éléments d’équipement essentiels
+* Un cadenas de voyage
+* Un cadenas d’ordinateur
+* Un cale-porte
+* Du ruban adhésif inviolable
+* Un appareil Wi-Fi mobile
+* Un chargeur solaire
+* Un calepin bon marché duquel vous pourrez déchirer des pages sans vous faire remarquer
+* Une moustiquaire, du répulsif à moustique, etc.
 
-*  Assurez-vous que tous les équipeme
-ts 
-umériques que vous emporterez avec vous, télépho
-e, ordi
-ateur, auro
-t été complèteme
-t réi
-itialisés ou réi
-stallés. Pour plus de co
-seils sur la faço
- de le faire, co
-sultez la leço
- « La protectio
- des fichiers ».
+*  Assurez-vous que tous les équipements numériques que vous emporterez avec vous, téléphone, ordinateur, auront été complètement réinitialisés ou réinstallés. Pour plus de conseils sur la façon de le faire, consultez la leçon « La protection des fichiers ».

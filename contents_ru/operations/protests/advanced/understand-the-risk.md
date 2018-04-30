@@ -1,67 +1,10 @@
 [Title]: # (Понять риск)
 [Order]: # (3)
 
-# U
-dersta
-d the Risk
+# Understand the Risk
 
-Please 
-ote that deliberately co
-ceali
-g or destroyi
-g evide
-ce may be co
-sidered a
- illegal act i
- itself i
- some jurisdictio
-s (i
-cludi
-g ma
-y social democracies).
+Please note that deliberately concealing or destroying evidence may be considered an illegal act in itself in some jurisdictions (including many social democracies).
 
-Be sure you u
-dersta
-d the law a
-d the risks before e
-gagi
-g i
- this pla
-. For i
-sta
-ce, if you are protesti
-g i
- a cou
-try with a stro
-g traditio
- of the rule of law a
-d where protesti
-g i
- itself is 
-ot a crime, it may be that co
-spiri
-g to lock out law e
-forceme
-t from your accou
-ts may lead to you breaki
-g the law whe
- previously you would be able to leave without charge.
+Be sure you understand the law and the risks before engaging in this plan. For instance, if you are protesting in a country with a strong tradition of the rule of law and where protesting in itself is not a crime, it may be that conspiring to lock out law enforcement from your accounts may lead to you breaking the law when previously you would be able to leave without charge.
 
-O
- the other ha
-d, if you are co
-cer
-ed for the physical safety of you a
-d your colleagues at the ha
-ds of a u
-checked militia, protecti
-g your co
-tacts' ide
-tities a
-d your ow
- data from them may be a greater priority tha
- complyi
-g with a
- i
-vestigatio
-.
+On the other hand, if you are concerned for the physical safety of you and your colleagues at the hands of a unchecked militia, protecting your contacts' identities and your own data from them may be a greater priority than complying with an investigation.

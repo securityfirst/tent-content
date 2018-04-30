@@ -3,91 +3,10 @@
 
 # At the Protest
 
-O
-ce you are at the protest, keep i
- mi
-d that law e
-forceme
-t may be mo
-itori
-g commu
-icatio
-s i
- the area. You may wish to e
-crypt your messages a
-d calls usi
-g Sig
-al. You ca
- read more i
- the Se
-di
-g a Message or Maki
-g a Call lesso
-s, or the Sig
-al tool guide.
+Once you are at the protest, keep in mind that law enforcement may be monitoring communications in the area. You may wish to encrypt your messages and calls using Signal. You can read more in the Sending a Message or Making a Call lessons, or the Signal tool guide.
 
-Please remember that eve
- if your commu
-icatio
-s are e
-crypted, your metadata is 
-ot; this mea
-s your mobile pho
-e will still give away your locatio
- a
-d i
-formatio
- such as whom you are talki
-g to a
-d for how lo
-g.
+Please remember that even if your communications are encrypted, your metadata is not; this means your mobile phone will still give away your location and information such as whom you are talking to and for how long.
 
-Whe
- capturi
-g pictures or video it is importa
-t to be careful of privacy a
-d safety of those pictured. For example, if you take photos or record video of a se
-sitive eve
-t, it might be da
-gerous to you or to those who appear i
- the recordi
-gs if your pho
-e fell i
-to the wro
-g ha
-ds. The Guardia
- Project has created a
- app called ObscuraCam to detect/select faces o
- photos a
-d blur them. It also deletes the origi
-al photos a
-d if you have set up a server to upload the captured media, it provides a
- easy way to upload it.
+When capturing pictures or video it is important to be careful of privacy and safety of those pictured. For example, if you take photos or record video of a sensitive event, it might be dangerous to you or to those who appear in the recordings if your phone fell into the wrong hands. The Guardian Project has created an app called ObscuraCam to detect/select faces on photos and blur them. It also deletes the original photos and if you have set up a server to upload the captured media, it provides an easy way to upload it.
 
-Metadata such as pho
-e ide
-tity a
-d locatio
- are also captured o
- photos a
-d videos. I
- some i
-sta
-ces, such i
-formatio
- is really importa
-t to have to prove the credibility of images a
-d video so that they could be used as evide
-ce i
- courts of law. At other times metadata ca
- put you or others at risk. The Guardia
- Project has made a plugi
- tool for ObscuraCam called I
-formaCam that allows you to store a versio
- of the image/video with metadata while also creati
-g a redacted versio
- without a
-y se
-sitive data that ca
- safely be shared o
- social media.
+Metadata such as phone identity and location are also captured on photos and videos. In some instances, such information is really important to have to prove the credibility of images and video so that they could be used as evidence in courts of law. At other times metadata can put you or others at risk. The Guardian Project has made a plugin tool for ObscuraCam called InformaCam that allows you to store a version of the image/video with metadata while also creating a redacted version without any sensitive data that can safely be shared on social media.

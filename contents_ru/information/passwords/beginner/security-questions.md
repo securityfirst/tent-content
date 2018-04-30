@@ -1,37 +1,8 @@
 [Title]: # (Вопросы о безопасности)
 [Order]: # (8)
 
-# Security Questio
-s
+# Security Questions
 
-Be aware of the "security questio
-s" (such as "What is your mother's maide
- 
-ame?" or "What was your first pet's 
-ame?") that websites use to co
-firm your ide
-tity if you do forget your password.
+Be aware of the "security questions" (such as "What is your mother's maiden name?" or "What was your first pet's name?") that websites use to confirm your identity if you do forget your password.
 
-Ho
-est a
-swers to ma
-y security questio
-s are publicly discoverable facts that a ca
- be easily fou
-d, a
-d therefore bypass your password e
-tirely. I
-stead, give fictio
-al a
-swers that, like your password, 
-o o
-e k
-ows but you. For example, if the password questio
- asks you your pet's 
-ame, you may have posted photos to photo shari
-g sites with captio
-s such as "Here is a photo of my cute cat, Spot!" I
-stead of usi
-g "Spot" as your password recovery a
-swer, you might choose "Rumplestiltski
-."
+Honest answers to many security questions are publicly discoverable facts that a can be easily found, and therefore bypass your password entirely. Instead, give fictional answers that, like your password, no one knows but you. For example, if the password question asks you your pet's name, you may have posted photos to photo sharing sites with captions such as "Here is a photo of my cute cat, Spot!" Instead of using "Spot" as your password recovery answer, you might choose "Rumplestiltskin."

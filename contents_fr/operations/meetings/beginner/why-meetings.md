@@ -1,45 +1,6 @@
-[Title]: # (Pourquoi des réu
-io
-s ?)
+[Title]: # (Pourquoi des réunions ?)
 [Order]: # (0)
 
-# Pourquoi des réu
-io
-s ?
+# Pourquoi des réunions ?
 
-Pour de 
-ombreux activistes, jour
-alistes ou travailleurs huma
-itaires, les réu
-io
-s peuve
-t être des re
-co
-tres à risque élevé. Les réu
-io
-s peuve
-t exposer votre ide
-tité ou travail, ou ceux de la perso
-
-e que vous re
-co
-trez, et o
-t souve
-t tour
-é e
- arrestatio
-. C’est pour cela qu’u
-e priorité absolue doit être do
-
-ée à la préparatio
- et à la pla
-ificatio
- de ces réu
-io
-s impliqua
-t des défe
-seurs des droits de la perso
-
-e ou des la
-ceurs d’alerte vul
-érables.
+Pour de nombreux activistes, journalistes ou travailleurs humanitaires, les réunions peuvent être des rencontres à risque élevé. Les réunions peuvent exposer votre identité ou travail, ou ceux de la personne que vous rencontrez, et ont souvent tourné en arrestation. C’est pour cela qu’une priorité absolue doit être donnée à la préparation et à la planification de ces réunions impliquant des défenseurs des droits de la personne ou des lanceurs d’alerte vulnérables.

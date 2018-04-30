@@ -3,64 +3,12 @@
 
 # Why back-up?
 
-Backi
-g up is the copyi
-g a
-d archivi
-g of computer data so it ca
- retrieve it if somethi
-g happe
-s to the origi
-al. Years of work ca
- disappear i
- a
- i
-sta
-t as a result of theft, careless
-ess, co
-fiscatio
-, or breakage, so it is extremely importa
-t to have a
- up-to-date backup a
-d a well-tested mea
-s of restori
-g it.
+Backing up is the copying and archiving of computer data so it can retrieve it if something happens to the original. Years of work can disappear in an instant as a result of theft, carelessness, confiscation, or breakage, so it is extremely important to have an up-to-date backup and a well-tested means of restoring it.
 
-Creati
-g a
- effective backup policy ca
- be tricky for a few reaso
-s:
+Creating an effective backup policy can be tricky for a few reasons:
 
-*   The 
-eed to store origi
-al data a
-d backups i
- differe
-t physical locatio
-s;
-*   The importa
-ce of keepi
-g backups co
-fide
-tial;
-*   The challe
-ge of coordi
-ati
-g amo
-g differe
-t people who share i
-formatio
- with o
-e a
-other usi
-g their ow
- portable storage devices.
+*   The need to store original data and backups in different physical locations;
+*   The importance of keeping backups confidential;
+*   The challenge of coordinating among different people who share information with one another using their own portable storage devices.
 
-I
- additio
- to backup a
-d file-recovery tactics, this lesso
- addresses two specific tools, Cobia
- Backup a
-d Recuva.
+In addition to backup and file-recovery tactics, this lesson addresses two specific tools, Cobian Backup and Recuva.

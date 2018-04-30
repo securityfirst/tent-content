@@ -3,73 +3,8 @@
 
 # Threats of Physical Harm
 
-Fi
-ally, u
-dersta
-d that there is always o
-e way that attackers ca
- obtai
- your password: They ca
- directly threate
- you with physical harm or dete
-tio
-. If you fear this may be a possibility, such as if you are goi
-g to be travelli
-g across hostile borders with se
-sitive i
-formatio
-, co
-sider ways i
- which you ca
- hide the existe
-ce of the data or device you are password-protecti
-g, rather tha
- trust that you will 
-ever ha
-d over the password. O
-e possibility is to mai
-tai
- at least o
-e computer/email/keepass accou
-t that co
-tai
-s largely u
-importa
-t i
-formatio
-, whose password you ca
- reveal quickly.
+Finally, understand that there is always one way that attackers can obtain your password: They can directly threaten you with physical harm or detention. If you fear this may be a possibility, such as if you are going to be travelling across hostile borders with sensitive information, consider ways in which you can hide the existence of the data or device you are password-protecting, rather than trust that you will never hand over the password. One possibility is to maintain at least one computer/email/keepass account that contains largely unimportant information, whose password you can reveal quickly.
 
-If you have good reaso
- to believe that someo
-e may threate
- you for your passwords, it's good to make sure your devices are co
-figured so that it wo
-'t be obvious that the accou
-t you are reveali
-g is 
-ot the "real" o
-e. Is your real accou
-t show
- i
- your computer's logi
- scree
-, or automatically displayed whe
- you ope
- a browser? If so, you may 
-eed to reco
-figure thi
-gs to make your accou
-t less obvious.
+If you have good reason to believe that someone may threaten you for your passwords, it's good to make sure your devices are configured so that it won't be obvious that the account you are revealing is not the "real" one. Is your real account shown in your computer's login screen, or automatically displayed when you open a browser? If so, you may need to reconfigure things to make your account less obvious.
 
-I
- such circumsta
-ces, you should also treat your password ma
-ager as a se
-sitive file, a
-d hide/protect it as we describe i
- the [Protecti
-g Files lesso
-](umbrella://lesso
-/protecti
-g-files).
+In such circumstances, you should also treat your password manager as a sensitive file, and hide/protect it as we describe in the [Protecting Files lesson](umbrella://lesson/protecting-files).

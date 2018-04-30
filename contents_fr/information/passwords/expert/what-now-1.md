@@ -1,56 +1,20 @@
-[Title]: # (Et mai
-te
-a
-t ?)
+[Title]: # (Et maintenant ?)
 [Order]: # (12)
 
-Faire glisser vers la droite pour obte
-ir la liste de co
-trôle de cette leço
+Faire glisser vers la droite pour obtenir la liste de contrôle de cette leçon
 
+Aller à la leçon Débutant pour obtenir des conseils sur la création d’un mot de passe robuste.
+[Aller à la leçon Débutant](umbrella://lesson/passwords/0)
 
-Aller à la leço
- Débuta
-t pour obte
-ir des co
-seils sur la créatio
- d’u
- mot de passe robuste.
-[Aller à la leço
- Débuta
-t](umbrella://lesso
-/passwords/0)
-
-Aller à la leço
- Ava
-cé pour obte
-ir des co
-seils sur la gestio
- de vos mots de passe.
-[Aller à la leço
- Ava
-cé](umbrella://lesso
-/passwords/1)
+Aller à la leçon Avancé pour obtenir des conseils sur la gestion de vos mots de passe.
+[Aller à la leçon Avancé](umbrella://lesson/passwords/1)
 
 ### LEÇONS/OUTILS CONNEXES
 
-* [Leço
- « La protectio
- des fichiers »](umbrella://lesso
-/protecti
-g-files)
-* [Leço
- « La préparatio
- »](umbrella://lesso
-/preparatio
-)
+* [Leçon « La protection des fichiers »](umbrella://lesson/protecting-files)
+* [Leçon « La préparation »](umbrella://lesson/preparation)
 
 
 ### LECTURE COMPLÉMENTAIRE
 
-* [FFÉ - Defe
-di
-g Privacy at the U.S. Border guide](https://www.eff.org/wp/defe
-di
-g-privacy-us-border-guide-travelers-carryi
-g-digital-devices)
+* [FFÉ - Defending Privacy at the U.S. Border guide](https://www.eff.org/wp/defending-privacy-us-border-guide-travelers-carrying-digital-devices)

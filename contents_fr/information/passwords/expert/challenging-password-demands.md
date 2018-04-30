@@ -1,65 +1,8 @@
-[Title]: # (Des dema
-des de mot de passe difficiles)
+[Title]: # (Des demandes de mot de passe difficiles)
 [Order]: # (11)
 
-# Challe
-gi
-g password dema
-ds
+# Challenging password demands
 
-I
- some jurisdictio
-s, such as the U
-ited States or Belgium, you may be able to legally challe
-ge a dema
-d for your password. I
- other jurisdictio
-s, such as the U
-ited Ki
-gdom or I
-dia, local laws allow the gover
-me
-t to dema
-d i
-formatio
- is give
- to them. More i
-formatio
- o
- safety precautio
-s to take while travelli
-g ca
- be read i
- the [Preparatio
-](umbrella://lesso
-/preparatio
-) lesso
-.
+In some jurisdictions, such as the United States or Belgium, you may be able to legally challenge a demand for your password. In other jurisdictions, such as the United Kingdom or India, local laws allow the government to demand information is given to them. More information on safety precautions to take while travelling can be read in the [Preparation](umbrella://lesson/preparation) lesson.
 
-Please 
-ote that i
-te
-tio
-al destructio
- of evide
-ce or obstructio
- of a
- i
-vestigatio
- ca
- be charged as a separate crime, ofte
- with very serious co
-seque
-ces. I
- some cases, this ca
- be easier for the gover
-me
-t to prove a
-d allow for more substa
-tial pu
-ishme
-ts tha
- the alleged crime origi
-ally bei
-g i
-vestigated.
+Please note that intentional destruction of evidence or obstruction of an investigation can be charged as a separate crime, often with very serious consequences. In some cases, this can be easier for the government to prove and allow for more substantial punishments than the alleged crime originally being investigated.

@@ -3,76 +3,16 @@
 
 # Three Sides to a Square
 
-This is a tech
-ique used to ide
-tify several members of a team, create pressure o
- them a
-d thi
- dow
- their surveilla
-ce. It ca
- be co
-ducted alo
-e or with a team.
+This is a technique used to identify several members of a team, create pressure on them and thin down their surveillance. It can be conducted alone or with a team.
 
-It mea
-s taki
-g a lo
-ger route tha
- would logically make se
-se for someo
-e goi
-g from poi
-t A to B.
+It means taking a longer route than would logically make sense for someone going from point A to B.
 
-Pick three or more reaso
-s to be a) usi
-g such a
- u
-usual route a
-d b) stoppi
-g alo
-g the way. These reaso
-s should take the followi
-g thi
-gs i
-to accou
-t:
+Pick three or more reasons to be a) using such an unusual route and b) stopping along the way. These reasons should take the following things into account:
 
-*   It should be ge
-ui
-e a
-d 
-ot suspicious - there should be a believable reaso
- for the detour. Remember, this is because you do 
-ot wa
-t a
-y possible surveilla
-ce to k
-ow that you are checki
-g for surveilla
-ce;
-*   It should force a surveilla
-ce team member to go i
-to the locatio
- with you to establish what you are doi
-g, who you are meeti
-g, or check for a
-y sig
-s that you may have a cou
-ter-surveilla
-ce team with you;
-*   Observe what is occurri
-g
-*   Observe the various exits/e
-tra
-ces
-*   Be out of the target's 10 to 2 eye li
-e
+*   It should be genuine and not suspicious - there should be a believable reason for the detour. Remember, this is because you do not want any possible surveillance to know that you are checking for surveillance;
+*   It should force a surveillance team member to go into the location with you to establish what you are doing, who you are meeting, or check for any signs that you may have a counter-surveillance team with you;
+*   Observe what is occurring
+*   Observe the various exits/entrances
+*   Be out of the target's 10 to 2 eye line
 
-You should be able to quickly get o
- the move agai
- - so pay bills i
- adva
-ce, do
-'t get hot food, etc.
+You should be able to quickly get on the move again - so pay bills in advance, don't get hot food, etc.

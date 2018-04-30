@@ -1,36 +1,6 @@
-[Title]: # (L’e
-lèveme
-t)
+[Title]: # (L’enlèvement)
 [Order]: # (13)
 
-Être aux prises avec l’e
-lèveme
-t d’u
- membre du perso
+Être aux prises avec l’enlèvement d’un membre du personnel est une tâche très délicate et compliquée. Cette leçon présente les grandes lignes des actions recommandées.
 
-el est u
-e tâche très délicate et compliquée. Cette leço
- prése
-te les gra
-des lig
-es des actio
-s recomma
-dées.
-
-**Si u
- membre de votre perso
-
-el est e
-levé, 
-ous recomma
-do
-s forteme
-t de co
-sulter les co
-seils détaillés do
-
-és e
- fi
- de leço
- sous Lectures compléme
-taires.**
+**Si un membre de votre personnel est enlevé, nous recommandons fortement de consulter les conseils détaillés donnés en fin de leçon sous Lectures complémentaires.**

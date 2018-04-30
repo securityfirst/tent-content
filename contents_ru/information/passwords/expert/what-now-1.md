@@ -1,49 +1,19 @@
 [Title]: # (Что теперь?)
 [Order]: # (12)
 
-Swipe right for this lesso
-'s checklist
+Swipe right for this lesson's checklist
 
-Go to the Begi
+Go to the Beginner lesson for advice on how to create a strong password.
+[Go to Beginner Lesson](umbrella://lesson/passwords/0)
 
-er lesso
- for advice o
- how to create a stro
-g password.
-[Go to Begi
-
-er Lesso
-](umbrella://lesso
-/passwords/0)
-
-Go to the Adva
-ced lesso
- for advice o
- how to ma
-age your passwords.
-[Go to Adva
-ced Lesso
-](umbrella://lesso
-/passwords/1)
+Go to the Advanced lesson for advice on how to manage your passwords.
+[Go to Advanced Lesson](umbrella://lesson/passwords/1)
 
 ### RELATED LESSONS/TOOLS
 
-*   [Protecti
-g Files lesso
-](umbrella://lesso
-/protecti
-g-files)
-*   [Preparatio
- lesso
-](umbrella://lesso
-/preparatio
-) 
+*   [Protecting Files lesson](umbrella://lesson/protecting-files)
+*   [Preparation lesson](umbrella://lesson/preparation) 
 
 ### FURTHER READING
 
-*   [EFF - Defe
-di
-g Privacy at the U.S. Border guide](https://www.eff.org/wp/defe
-di
-g-privacy-us-border-guide-travelers-carryi
-g-digital-devices)
+*   [EFF - Defending Privacy at the U.S. Border guide](https://www.eff.org/wp/defending-privacy-us-border-guide-travelers-carrying-digital-devices)

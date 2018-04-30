@@ -3,716 +3,152 @@
 
 # HOW TO CHANGE YOUR FACEBOOK PRIVACY SETTINGS
 
-## How to cha
-ge your Facebook privacy setti
-gs
+## How to change your Facebook privacy settings
 
-**Lesso
- to read: [Social Media](umbrella://lesso
-/social-media)**  
-**Level:** Begi
-
-er  
-**Time required:** 10 mi
-utes
+**Lesson to read: [Social Media](umbrella://lesson/social-media)**  
+**Level:** Beginner  
+**Time required:** 10 minutes
 
 ### How to Protect Your Privacy from Facebook's Graph Search
 
-Facebook 
-ow has a feature-Graph Search-that has bee
- the subject of ma
-y privacy co
-cer
-s. Graph Search allows users to make structured searches to filter through frie
-ds, frie
-ds of frie
-ds, a
-d stra
-gers. This feature relies o
- your profile i
-formatio
- bei
-g made widely or publicly available, yet there are some Likes, photos, or other pieces of i
-formatio
- that you might 
-ot wa
-t out there.
+Facebook now has a feature-Graph Search-that has been the subject of many privacy concerns. Graph Search allows users to make structured searches to filter through friends, friends of friends, and strangers. This feature relies on your profile information being made widely or publicly available, yet there are some Likes, photos, or other pieces of information that you might not want out there.
 
-Si
-ce Facebook removed the ability to remove yourself from search results altogether, the Electro
-ic Fro
-tier Fou
-datio
- put together a quick how-to guide to help you take co
-trol over what is featured o
- your Facebook profile a
-d o
- Graph Search results - we have outli
-ed it below. (Facebook also has a 
-ew [video](https://www.youtube.com/watch?v=bSji6Y66aKo) explai
-i
-g how to co
-trol what shows up i
- Graph Search.)
+Since Facebook removed the ability to remove yourself from search results altogether, the Electronic Frontier Foundation put together a quick how-to guide to help you take control over what is featured on your Facebook profile and on Graph Search results - we have outlined it below. (Facebook also has a new [video](https://www.youtube.com/watch?v=bSji6Y66aKo) explaining how to control what shows up in Graph Search.)
 
-### What's public o
- my profile?
+### What's public on my profile?
 
-Click o
- the lock i
- the top me
-u bar, a
-d u
-der "Who ca
- see my stuff?" click "View As." This will take you to the public view of your profile. Here you ca
- see exactly what i
-formatio
-, photos, a
-d posts are available to the public. If there's a
-ythi
-g you do
-'t wa
-t the whole Facebook u
-iverse to be able to see, you ca
- cha
-ge i
-dividual setti
-gs to hide particular items.
-![image](tool_facebook1.p
-g)
+Click on the lock in the top menu bar, and under "Who can see my stuff?" click "View As." This will take you to the public view of your profile. Here you can see exactly what information, photos, and posts are available to the public. If there's anything you don't want the whole Facebook universe to be able to see, you can change individual settings to hide particular items.
+![image](tool_facebook1.png)
 
-### How do I hide my ge
-eral i
-formatio
-?
+### How do I hide my general information?
 
-Go to your profile page a
-d click "Update I
-fo." You ca
- co
-trol who is able to see what perso
-al i
-formatio
- you've listed-a
-d if they're able to see it, they're able to search it.
-![image](tool_facebook2.p
-g)
+Go to your profile page and click "Update Info." You can control who is able to see what personal information you've listed-and if they're able to see it, they're able to search it.
+![image](tool_facebook2.png)
 
-### Who ca
- see my posts, both past a
-d future?
+### Who can see my posts, both past and future?
 
-You ca
- access your [privacy setti
-gs](https://www.facebook.com/setti
-gs?tab=privacy) by clicki
-g o
- the lock i
- the top me
-u bar, the
- clicki
-g "See More Setti
-gs." From here, you ca
- choose your audie
-ce for future posts (i
-cludi
-g photos), a
-d you ca
- also limit who has access to previous posts that were more widely accessible.
-![image](tool_facebook3.p
-g)
+You can access your [privacy settings](https://www.facebook.com/settings?tab=privacy) by clicking on the lock in the top menu bar, then clicking "See More Settings." From here, you can choose your audience for future posts (including photos), and you can also limit who has access to previous posts that were more widely accessible.
+![image](tool_facebook3.png)
 
 ### How do I hide my photo albums?
 
-Go to your profile page a
-d click o
- "Photos," the
- "Albums." You ca
- co
-figure who has access to each album.
-![image](tool_facebook4.p
-g)
+Go to your profile page and click on "Photos," then "Albums." You can configure who has access to each album.
+![image](tool_facebook4.png)
 
-Note that taggi
-g others i
- a photo by default gives their frie
-ds the ability to see that photo. Also 
-ote that removi
-g a photo from your Timeli
-e does 
-ot remove it from bei
-g searched, especially if it is someo
-e else's photo.
+Note that tagging others in a photo by default gives their friends the ability to see that photo. Also note that removing a photo from your Timeline does not remove it from being searched, especially if it is someone else's photo.
 
-I
- order to make sure that photo is 
-ot searchable, you must detag yourself or report the photo. Facebook has a
-other [great video](https://www.youtube.com/watch?v=CaJYQXiu3PY) about how to do just this.
+In order to make sure that photo is not searchable, you must detag yourself or report the photo. Facebook has another [great video](https://www.youtube.com/watch?v=CaJYQXiu3PY) about how to do just this.
 
-To detag yourself, click o
- a photo, a
-d o
- the bottom of the picture click o
- "Optio
-s." Next, click "Report/Remove Tag." This gives you the optio
- to remove your tag, as well as to 
-otify the poster that you'd like the photo to be take
- dow
-.
-![image](tool_facebook6.p
-g)![image](tool_facebook5.p
-g)
+To detag yourself, click on a photo, and on the bottom of the picture click on "Options." Next, click "Report/Remove Tag." This gives you the option to remove your tag, as well as to notify the poster that you'd like the photo to be taken down.
+![image](tool_facebook6.png)![image](tool_facebook5.png)
 
 ### How do I hide my "Likes"?
 
-Go to your profile page a
-d click o
- "Likes." Click "Edit" o
- the top right. From there, you ca
- edit who ca
- see your liked pages i
- each i
-dividual category.
-![image](tool_facebook7.p
-g)
+Go to your profile page and click on "Likes." Click "Edit" on the top right. From there, you can edit who can see your liked pages in each individual category.
+![image](tool_facebook7.png)
 
-### Do I actually "Like" these thi
-gs?
+### Do I actually "Like" these things?
 
-While you are co
-figuri
-g your "Likes," we e
-courage you to take a mome
-t to reassess the pages you have listed. A few years later, you may 
-ot like "Free Booze Fridays" a
-ymore. U
-liki
-g is as simple as goi
-g to a particular page, hoveri
-g your mouse over "Liked," a
-d clicki
-g "U
-like."
-![image](tool_facebook8.p
-g)
+While you are configuring your "Likes," we encourage you to take a moment to reassess the pages you have listed. A few years later, you may not like "Free Booze Fridays" anymore. Unliking is as simple as going to a particular page, hovering your mouse over "Liked," and clicking "Unlike."
+![image](tool_facebook8.png)
 
-### How do I hide my frie
-ds a
-d relatio
-ships?
+### How do I hide my friends and relationships?
 
-Besides locki
-g dow
- your ow
- perso
-al i
-formatio
-, it tur
-s out that your frie
-ds a
-d relatio
-ships ca
- appear i
- searches associated with you. Because [they have 
-o co
-trol](https://www.eff.org/deepli
-ks/2013/01/facebook-graph-search-privacy-co
-trol-you-still-do
-t-have) over how they appear i
- such searches, we stro
-gly e
-courage you to do the altruistic thi
-g a
-d lock dow
- your frie
-dship setti
-gs. Here's how to set your privacy setti
-gs to keep your frie
-dships a
-d relatio
-ships-a
-d therefore related search results-limited i
- visibility to o
-ly whom you wa
-t.
+Besides locking down your own personal information, it turns out that your friends and relationships can appear in searches associated with you. Because [they have no control](https://www.eff.org/deeplinks/2013/01/facebook-graph-search-privacy-control-you-still-dont-have) over how they appear in such searches, we strongly encourage you to do the altruistic thing and lock down your friendship settings. Here's how to set your privacy settings to keep your friendships and relationships-and therefore related search results-limited in visibility to only whom you want.
 
-First, go to your profile a
-d click o
- "Frie
-ds." O
- the top right of the page, click o
- the "Edit" butto
-. This allows you to select who ca
- see your frie
-d list.
-![image](tool_facebook9.p
-g)
+First, go to your profile and click on "Friends." On the top right of the page, click on the "Edit" button. This allows you to select who can see your friend list.
+![image](tool_facebook9.png)
 
-Next, you should adjust the setti
-gs of your relatio
-ships a
-d family associatio
-s. Go to your profile a
-d click "Update I
-fo," the
- scroll dow
- to "Family" o
- the bottom left. Whe
- you click "Edit," you ca
- choose the specific privacy setti
-gs for each relatio
-ship.
-![image](tool_facebook10.p
-g)
+Next, you should adjust the settings of your relationships and family associations. Go to your profile and click "Update Info," then scroll down to "Family" on the bottom left. When you click "Edit," you can choose the specific privacy settings for each relationship.
+![image](tool_facebook10.png)
 
 ### Keep it up!
 
-The most importa
-t thi
-k you ca
- do is to check your privacy setti
-gs ofte
--especially after 
-ew features are released. Facebook has do
-e a better job of maki
-g 
-ew privacy setti
-gs more accessible while also 
-otifyi
-g users of a
-y cha
-ges. Their expla
-atio
-s, however, ca
- lose sight of bigger picture co
-cer
-s.
+The most important think you can do is to check your privacy settings often-especially after new features are released. Facebook has done a better job of making new privacy settings more accessible while also notifying users of any changes. Their explanations, however, can lose sight of bigger picture concerns.
 
 # HOW TO HOW TO OPT-OUT OF FACEBOOK'S DATA BROKER RELATIONSHIPS
 
-## How to opt-out of Facebook's data broker relatio
-ships
+## How to opt-out of Facebook's data broker relationships
 
-**Lesso
- to read: [Social Media](umbrella://lesso
-/social-media)**  
-**Other readi
-g:** [https://www.eff.org/deepli
-ks/2012/04/4-simple-cha
-ges-protect-your-privacy-o
-li
-e](https://www.eff.org/deepli
-ks/2012/04/4-simple-cha
-ges-protect-your-privacy-o
-li
-e)  
-**Level:** Begi
+**Lesson to read: [Social Media](umbrella://lesson/social-media)**  
+**Other reading:** [https://www.eff.org/deeplinks/2012/04/4-simple-changes-protect-your-privacy-online](https://www.eff.org/deeplinks/2012/04/4-simple-changes-protect-your-privacy-online)  
+**Level:** Beginner  
+**Time required:** 30 minutes
 
-er  
-**Time required:** 30 mi
-utes
+Facebook is teaming up with four of the world's largest corporate data brokers to "enhance" the ad experience for users. Datalogix, Epsilon, Acxiom, and BlueKai obtain information gathered about users through online means (such as through cookies when users surf the web) as well as through offline means (such as through loyalty cards at supermarkets and product warranty cards).  Facebook will use this information to tailor its ads. The Electronic Frontier Foundation describes what this means and how you can avoid it.
 
-Facebook is teami
-g up with four of the world's largest corporate data brokers to "e
-ha
-ce" the ad experie
-ce for users. Datalogix, Epsilo
-, Acxiom, a
-d BlueKai obtai
- i
-formatio
- gathered about users through o
-li
-e mea
-s (such as through cookies whe
- users surf the web) as well as through offli
-e mea
-s (such as through loyalty cards at supermarkets a
-d product warra
-ty cards).  Facebook will use this i
-formatio
- to tailor its ads. The Electro
-ic Fro
-tier Fou
-datio
- describes what this mea
-s a
-d how you ca
- avoid it.
+In practical terms, this means that limiting how much information you put on Facebook is not enough to limit how ads are targeted to you on Facebook. Your interests, age, shopping history (including offline), web browsing, location, and much more could be stored by these data brokers and utilized to market to you - even if you've been careful not to share this type of information with Facebook.
 
-I
- practical terms, this mea
-s that limiti
-g how much i
-formatio
- you put o
- Facebook is 
-ot e
-ough to limit how ads are targeted to you o
- Facebook. Your i
-terests, age, shoppi
-g history (i
-cludi
-g offli
-e), web browsi
-g, locatio
-, a
-d much more could be stored by these data brokers a
-d utilized to market to you - eve
- if you've bee
- careful 
-ot to share this type of i
-formatio
- with Facebook.
+So, what can users do? If you're concerned about this practice, you can opt out of the targeted advertisements by individually visiting each of the data broker partners currently working with Facebook. We've got directions below for opting out of each site.
 
-So, what ca
- users do? If you're co
-cer
-ed about this practice, you ca
- opt out of the targeted advertiseme
-ts by i
-dividually visiti
-g each of the data broker part
-ers curre
-tly worki
-g with Facebook. We've got directio
-s below for opti
-g out of each site.
+We also have two general tips:
 
-We also have two ge
-eral tips:
+**1.  Install an add-on to protect your privacy online.** Facebook is using "blind cookie-matching" to match up users of online marketer BlueKai with specific Facebook accounts. Blocking trackers is a good general practice for stopping this type of tracking. We recommend you use a tool such as [Ghostery](http://www.ghostery.com/) (now available on Firefox, Safari, Chrome, Opera and Internet Explorer).
 
-**1.  I
-stall a
- add-o
- to protect your privacy o
-li
-e.** Facebook is usi
-g "bli
-d cookie-matchi
-g" to match up users of o
-li
-e marketer BlueKai with specific Facebook accou
-ts. Blocki
-g trackers is a good ge
-eral practice for stoppi
-g this type of tracki
-g. We recomme
-d you use a tool such as [Ghostery](http://www.ghostery.com/) (
-ow available o
- Firefox, Safari, Chrome, Opera a
-d I
-ter
-et Explorer).
+**2. Avoid giving your phone number and email address to companies when possible.** Facebook and these companies are primarily using hashed email addresses to match users between databases, though they may also use hashed phone numbers. If you're filling out a survey or signing up to receive email updates from a website, consider creating and using a different email address than the one you associate with your Facebook account. Similarly, consider setting up an alternate phone number you can give to companies apart from the phone number you connect with your social media accounts.
 
-**2. Avoid givi
-g your pho
-e 
-umber a
-d email address to compa
-ies whe
- possible.** Facebook a
-d these compa
-ies are primarily usi
-g hashed email addresses to match users betwee
- databases, though they may also use hashed pho
-e 
-umbers. If you're filli
-g out a survey or sig
-i
-g up to receive email updates from a website, co
-sider creati
-g a
-d usi
-g a differe
-t email address tha
- the o
-e you associate with your Facebook accou
-t. Similarly, co
-sider setti
-g up a
- alter
-ate pho
-e 
-umber you ca
- give to compa
-ies apart from the pho
-e 
-umber you co
+### Opt Out Instructions:
 
-ect with your social media accou
-ts.
-
-### Opt Out I
-structio
-s:
-
-Note that i
- ge
-eral, opti
-g out of data brokers will 
-ot 
-ecessarily result i
- your data bei
-g removed from their lists. I
-stead, these compa
-ies will ge
-erally 'suppress' your i
-formatio
- from certai
- uses -- i
-cludi
-g, hopefully, i
- the batches of data se
-t to Facebook. The process below takes a bit of effort, but you really do 
-eed to opt out of all four data brokers separately to get out of this program.
+Note that in general, opting out of data brokers will not necessarily result in your data being removed from their lists. Instead, these companies will generally 'suppress' your information from certain uses -- including, hopefully, in the batches of data sent to Facebook. The process below takes a bit of effort, but you really do need to opt out of all four data brokers separately to get out of this program.
 
 **Acxiom**
 
-1. To get started, visit Acxiom's [Opt Out Form](https://isapps.acxiom.com/optout/optout.aspx). The
- scroll dow
- u
-til you see your "opt-out choices." Here there will be a list of the types of media you would like to opt out of (mail, telemarketi
-g, email, a
-d o
-li
-e advertisi
-g).  You ca
- check all four, though 
-ote that their o
-li
-e advertisi
-g opt-out is cookie-based, mea
-i
-g it will disappear every time you clear your cookies. 
-![image](tool_facebook11.p
-g)
+1. To get started, visit Acxiom's [Opt Out Form](https://isapps.acxiom.com/optout/optout.aspx). Then scroll down until you see your "opt-out choices." Here there will be a list of the types of media you would like to opt out of (mail, telemarketing, email, and online advertising).  You can check all four, though note that their online advertising opt-out is cookie-based, meaning it will disappear every time you clear your cookies. 
+![image](tool_facebook11.png)
 
-2. Certify that you are just a si
-gle perso
-.
-![image](tool_facebook12.p
-g)
+2. Certify that you are just a single person.
+![image](tool_facebook12.png)
 
-3. Fill out the form with your perso
-al i
-formatio
-. I
- order to be sure that Acxiom does
-'t target advertiseme
-ts at you through Facebook, you'll wa
-t to provide Acxiom with the pho
-e 
-umber a
-d email address associated with your Facebook profile. Use the gree
- + sig
-s o
- the form to add i
-formatio
-.
-![image](tool_facebook13.p
-g)
+3. Fill out the form with your personal information. In order to be sure that Acxiom doesn't target advertisements at you through Facebook, you'll want to provide Acxiom with the phone number and email address associated with your Facebook profile. Use the green + signs on the form to add information.
+![image](tool_facebook13.png)
 
-4. Click submit. After you hit submit (a
-d get through a CAPTCHA), you'll be offered a cha
-ce to i
-stall Acxiom's opt out cookie. You ca
- choose to do this or 
-ot, but remember that this is 
-ot a persiste
-t method of protecti
-g your privacy: the opt out cookie will disappear as soo
- as you clear your cookies. See i
-structio
-s below for opti
-g out of BlueKai for advice o
- deali
-g with web tracki
-g.
-![image](tool_facebook14.p
-g)
+4. Click submit. After you hit submit (and get through a CAPTCHA), you'll be offered a chance to install Acxiom's opt out cookie. You can choose to do this or not, but remember that this is not a persistent method of protecting your privacy: the opt out cookie will disappear as soon as you clear your cookies. See instructions below for opting out of BlueKai for advice on dealing with web tracking.
+![image](tool_facebook14.png)
 
-5.  You will the
- receive a
- email with a li
-k i
- it from Acxiom. You ca
- click o
- this li
-k or else copy a
-d paste it i
-to a 
-ew browser wi
-dow. Visiti
-g this page will take you to a
-other CAPTCHA. Fill this out.
+5.  You will then receive an email with a link in it from Acxiom. You can click on this link or else copy and paste it into a new browser window. Visiting this page will take you to another CAPTCHA. Fill this out.
 
-Co
-gratulatio
-s - you've opted out of Acxiom!
+Congratulations - you've opted out of Acxiom!
 
 **Datalogix**
 
-1. To opt out of this program, visit the Datalogix.com [privacy page](https://www.datalogix.com/privacy/). Scroll dow
- to the word "Choice" a
-d the last se
-te
-ce i
- the first paragraph says:
+1. To opt out of this program, visit the Datalogix.com [privacy page](https://www.datalogix.com/privacy/). Scroll down to the word "Choice" and the last sentence in the first paragraph says:
 
-_"If you wish to opt out of all Datalogix-e
-abled advertisi
-g across cha
+_"If you wish to opt out of all Datalogix-enabled advertising across channels including direct mail, online, mobile and analytic products, click here."_
 
-els i
-cludi
-g direct mail, o
-li
-e, mobile a
-d a
-alytic products, click here."_
+2. Click there and a form will pop up that asks for your name, address, and email address. Fill this out and click submit.
+![image](tool_facebook15.png)
 
-2. Click there a
-d a form will pop up that asks for your 
-ame, address, a
-d email address. Fill this out a
-d click submit.
-![image](tool_facebook15.p
-g)
+Datalogix promises that the opt-out will take effect within 30 days. Once you've been opted out, Datalogix will no longer include your information in the hashed data they provide to Facebook. 
 
-Datalogix promises that the opt-out will take effect withi
- 30 days. O
-ce you've bee
- opted out, Datalogix will 
-o lo
-ger i
-clude your i
-formatio
- i
- the hashed data they provide to Facebook. 
+**Epsilon**
 
-**Epsilo
-**
+As Epsilon explains on their [Consumer Preference Center](www.epsilon.com/consumer-preference-center) page, there are several ways to opt out of the Epsilon marketing database: 
 
-As Epsilo
- explai
-s o
- their [Co
-sumer Prefere
-ce Ce
-ter](www.epsilo
-.com/co
-sumer-prefere
-ce-ce
-ter) page, there are several ways to opt out of the Epsilo
- marketi
-g database: 
+**EMAIL:** Email [optout@epsilon.com](mailto:optout@epsilon.com) and include the following information:  
+- full name (including middle initial)  
+- current address  
+- previous address if you have been at your current address fewer than six months
 
-**EMAIL:** Email [optout@epsilo
-.com](mailto:optout@epsilo
-.com) a
-d i
-clude the followi
-g i
-formatio
-:  
-- full 
-ame (i
-cludi
-g middle i
-itial)  
-- curre
-t address  
-- previous address if you have bee
- at your curre
-t address fewer tha
- six mo
-ths
+**PHONE:** Phone 1.888.780.3869 and leave the above information.
 
-**PHONE:** Pho
-e 1.888.780.3869 a
-d leave the above i
-formatio
-.
-
-**MAIL:** Mail the above i
-formatio
- to the below addresses:  
-**U.S. Co
-sumers:** Epsilo
-  
+**MAIL:** Mail the above information to the below addresses:  
+**U.S. Consumers:** Epsilon  
 ?P.O. Box 1478  
 ?Broomfield, CO 80036  
-**Ca
-adia
- Co
-sumers:** Epsilo
-?  
-41 Metropolita
- Rd.?  
-Toro
-to, O
-tario  
+**Canadian Consumers:** Epsilon?  
+41 Metropolitan Rd.?  
+Toronto, Ontario  
 ?M1R 2T5
 
-We 
-ote that 
-ot all of these methods require you to provide a
- email address.  Epsilo
- may have methods to match your 
-ame with your email, but you ca
- also provide your email address to be sure.
+We note that not all of these methods require you to provide an email address.  Epsilon may have methods to match your name with your email, but you can also provide your email address to be sure.
 
-Note that opti
-g out does
-'t actually remove the data from Epsilo
-'s database but rather just marks it as "suppressed" to they will stop shari
-g it for marketi
-g purposes. This mea
-s that if the i
-formatio
- is ever re-submitted, you wo
-'t be added back to the list.
+Note that opting out doesn't actually remove the data from Epsilon's database but rather just marks it as "suppressed" to they will stop sharing it for marketing purposes. This means that if the information is ever re-submitted, you won't be added back to the list.
 
 **BlueKai**
 
-U
-like the other data brokers Facebook is worki
-g with o
- this 
-ew project, BlueKai does 
-ot directly collect data from your offli
-e activities. I
-stead, they use tracki
-g cookies that collect data about your o
-li
-e browsi
-g habits a
-d the
- use that i
-formatio
- to i
-fer what types of products you might like to buy.
+Unlike the other data brokers Facebook is working with on this new project, BlueKai does not directly collect data from your offline activities. Instead, they use tracking cookies that collect data about your online browsing habits and then use that information to infer what types of products you might like to buy.
 
-**The best way to opt out of this is to use a browser add-o
- to block third-party tracki
-g.**  
-Rather tha
- try to block o
-ly BlueKai, we recomme
-d you block all third-party trackers. You ca
- use a tool such as [Ghostery](http://www.ghostery.com/) (
-ow available o
- Firefox, Safari, Chrome, Opera a
-d I
-ter
-et Explorer) as 
-oted earlier.
+**The best way to opt out of this is to use a browser add-on to block third-party tracking.**  
+Rather than try to block only BlueKai, we recommend you block all third-party trackers. You can use a tool such as [Ghostery](http://www.ghostery.com/) (now available on Firefox, Safari, Chrome, Opera and Internet Explorer) as noted earlier.
 
-**CONGRATULATIONS** -- you've ma
-aged to get out of Facebook's 
-ew data broker-drive
- targeted marketi
-g, a
-d helped protect yourself from several importa
-t data brokers.
+**CONGRATULATIONS** -- you've managed to get out of Facebook's new data broker-driven targeted marketing, and helped protect yourself from several important data brokers.

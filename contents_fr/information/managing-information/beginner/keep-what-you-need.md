@@ -1,76 +1,9 @@
-[Title]: # (Garder ce do
-t vous avez besoi
-)
+[Title]: # (Garder ce dont vous avez besoin)
 [Order]: # (0)
 
-# Garder ce do
-t vous avez besoi
+# Garder ce dont vous avez besoin
 
+La règle la plus élémentaire d’une gestion sûre des informations est que toute information qui pourrait mettre des personnes en péril devrait toujours être compartimentée et respecter le principe du « besoin de savoir ». Cela signifie que seules les personnes qui ont vraiment besoin de cette information particulière pour fonctionner devraient l’avoir. Par exemple, si une équipe travaille avec une source à risque élevé, seul le contact direct de cette source au sein de l’équipe devrait connaître son vrai nom et ses informations personnelles. Le reste de l’équipe peut fonctionner en utilisant un nom de code. Cela réduit les risques pour la source, mais aussi pour les autres membres de l’équipe.
+![image](managing_information1.png)
 
-La règle la plus éléme
-taire d’u
-e gestio
- sûre des i
-formatio
-s est que toute i
-formatio
- qui pourrait mettre des perso
-
-es e
- péril devrait toujours être compartime
-tée et respecter le pri
-cipe du « besoi
- de savoir ». Cela sig
-ifie que seules les perso
-
-es qui o
-t vraime
-t besoi
- de cette i
-formatio
- particulière pour fo
-ctio
-
-er devraie
-t l’avoir. Par exemple, si u
-e équipe travaille avec u
-e source à risque élevé, seul le co
-tact direct de cette source au sei
- de l’équipe devrait co
-
-aître so
- vrai 
-om et ses i
-formatio
-s perso
-
-elles. Le reste de l’équipe peut fo
-ctio
-
-er e
- utilisa
-t u
- 
-om de code. Cela réduit les risques pour la source, mais aussi pour les autres membres de l’équipe.
-![image](ma
-agi
-g_i
-formatio
-1.p
-g)
-
-S’il 
-’existe aucu
-e bo
-
-e raiso
- de co
-server u
-e i
-formatio
- délicate particulière, vous devriez alors tout simpleme
-t la supprimer (voir la [leço
- Supprimer e
- toute sécurité](umbrella://lesso
-/safely-deleti
-g)).
+S’il n’existe aucune bonne raison de conserver une information délicate particulière, vous devriez alors tout simplement la supprimer (voir la [leçon Supprimer en toute sécurité](umbrella://lesson/safely-deleting)).

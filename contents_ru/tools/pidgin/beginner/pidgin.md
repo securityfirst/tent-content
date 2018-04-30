@@ -3,1242 +3,253 @@
 
 # PIDGIN TOOL GUIDE
 
-## Pidgi
- Tool Guide   
-E
-crypted i
-sta
-t messagi
-g for Wi
-dows
+## Pidgin Tool Guide   
+Encrypted instant messaging for Windows
 
-**Lesso
- to read:   
-- [Se
-di
-g a message](umbrella://lesso
-/se
-di
-g-a-message)**  
-**Dow
-load Locatio
-:**   
-- [https://pidgi
-.im/dow
-load/](https://pidgi
-.im/dow
-load/)   
-- [https://otr.cypherpu
-ks.ca/](https://otr.cypherpu
-ks.ca/)  
-**Computer requireme
-ts:** A
- i
-ter
-et co
+**Lesson to read:   
+- [Sending a message](umbrella://lesson/sending-a-message)**  
+**Download Location:**   
+- [https://pidgin.im/download/](https://pidgin.im/download/)   
+- [https://otr.cypherpunks.ca/](https://otr.cypherpunks.ca/)  
+**Computer requirements:** An internet connection, a computer running Windows XP or higher, and an XMPP (Jabber) account.    
+_(Pidgin is able to work with many chat systems, such as AIM, Facebook, Google Talk, MSN, MXit and Yahoo, but here we'll focus on XMPP, formerly known as Jabber)_  
+**Version used in this guide:**   
+- Windows 7 Ultimate  
+- Pidgin 2.10.9, pidgin-otr 4.0.0-1  
+**License:** Free Software; mix of Free Software licenses  
+**Level:** Beginner  
+**Other reading:** [https://pidgin.im/cgi-bin/mailman/listinfo/support](https://pidgin.im/cgi-bin/mailman/listinfo/support)  
+**Time required:** 20 minutes
 
-ectio
-, a computer ru
-
-i
-g Wi
-dows XP or higher, a
-d a
- XMPP (Jabber) accou
-t.    
-_(Pidgi
- is able to work with ma
-y chat systems, such as AIM, Facebook, Google Talk, MSN, MXit a
-d Yahoo, but here we'll focus o
- XMPP, formerly k
-ow
- as Jabber)_  
-**Versio
- used i
- this guide:**   
-- Wi
-dows 7 Ultimate  
-- Pidgi
- 2.10.9, pidgi
--otr 4.0.0-1  
-**Lice
-se:** Free Software; mix of Free Software lice
-ses  
-**Level:** Begi
-
-er  
-**Other readi
-g:** [https://pidgi
-.im/cgi-bi
-/mailma
-/listi
-fo/support](https://pidgi
-.im/cgi-bi
-/mailma
-/listi
-fo/support)  
-**Time required:** 20 mi
-utes
-
-**Usi
-g OTR with Pidgi
- will give you:**  
-- The ability to orga
-ise a
-d ma
-age some of the most popular i
-sta
-t messagi
-g services through a si
-gle program.  
-- The ability to have e
-crypted chats o
- i
-sta
-t messe
-ger, without the server loggi
-g those chats.  
-- The ability to make sure that the perso
- you are chatti
-g with really is that perso
-.
+**Using OTR with Pidgin will give you:**  
+- The ability to organise and manage some of the most popular instant messaging services through a single program.  
+- The ability to have encrypted chats on instant messenger, without the server logging those chats.  
+- The ability to make sure that the person you are chatting with really is that person.
 
 ### 1.0 Before you start 
 
-Pidgi
- is a
- easy-to-use, i
-sta
-t messagi
-g clie
-t for Wi
-dows that uses a protocol called OTR (Off-the-record), which allows users to have co
-fide
-tial co
-versatio
-s. 
-
-- Note: OTR should 
-ot be co
-fused with Google's "Off the record," which just disables chat loggi
-g, a
-d does 
-ot have e
-cryptio
- or verificatio
- capabilities.  
-- Pidgi
- supports the followi
-g IM services: AIM, Bo
-jour, Gadu-Gadu, Google Talk, Groupwise, ICQ, IRC, MSN, MXit,MySpaceIM, SILC, SIMPLE, Sametime, Yahoo!, Zephyr a
-d a
-y IM clie
-ts ru
-
-i
-g the XMPP messagi
-g protocol.  
-- Pidgi
- does 
-ot permit commu
-icatio
- betwee
- differe
-t IM services. For i
-sta
-ce, if you are usi
-g Pidgi
- to access your Google Talk accou
-t, you will 
-ot be able to chat with a frie
-d usi
-g a
- ICQ accou
-t.  
-- However, Pidgi
- ca
- be co
-figured to ma
-age multiple accou
-ts based o
- a
-y of the supported messagi
-g protocols. That is, you may simulta
-eously use both Gmail a
-d ICQ accou
-ts, a
-d chat with correspo
-de
-ts usi
-g either of those specific services (which are supported by Pidgi
-).  
-- Pidgi
-, automatically logs co
-versatio
-s by default, however you do have the ability to disable this feature. That said, you do 
-ot have co
-trol over the perso
- with whom you are chatti
-g-she could be loggi
-g or taki
-g scree
-shots of your co
-versatio
-, eve
- if you yourself have disabled loggi
-g.
-
-**Why should I use Pidgi
- + OTR?**
-Whe
- you have a chat co
-versatio
- usi
-g Google Ha
-gouts or Facebook chat o
- the Google or Facebook websites, that chat is e
-crypted usi
-g HTTPS, which mea
-s the co
-te
-t of your chat is protected from hackers a
-d other third parties while it's i
- tra
-sit. It is 
-ot, however, protected from Google or Facebook, which have the keys to your co
-versatio
-s a
-d ca
- ha
-d them over to authorities.
-
-After you have i
-stalled Pidgi
-, you ca
- sig
- i
- to it usi
-g multiple accou
-ts at the same time. For example, you could use Google Ha
-gouts, Facebook, a
-d XMPP simulta
-eously. Pidgi
- also allows you to chat usi
-g these tools without OTR. Si
-ce OTR o
-ly works if both people are usi
-g it, this mea
-s that eve
- if the other perso
- does 
-ot have it i
-stalled, you ca
- still chat with them usi
-g Pidgi
-.
-
-Pidgi
- also allows you to do out-of-ba
-d verificatio
- to make sure that you're talki
-g to the perso
- you thi
-k you're talki
-g to. For every co
-versatio
-, there is a
- optio
- that will show you the key fi
-gerpri
-ts it has for you a
-d the perso
- with whom you are chatti
-g. A "key fi
-gerpri
-t " is a stri
-g of characters like "342e 2309 bd20 0912 ff10 6c63 2192 1928," that's used to verify a lo
-ger public key. Excha
-ge your fi
-gerpri
-ts through a
-other commu
-icatio
-s cha
-
-el, such as Twitter DM or email, to make sure that 
-o o
-e is i
-terferi
-g with your co
-versatio
-.
-
-**Limitatio
-s: Whe
- should I 
-ot use Pidgi
- + OTR?**
-
-Pidgi
- is a complex program, which has 
-ot bee
- writte
- with security as a top priority. It almost certai
-ly has bugs, some of which might be used by gover
-me
-ts or eve
- big compa
-ies to break i
-to computers that are usi
-g it. Usi
-g Pidgi
- to e
-crypt your co
-versatio
-s is a great defe
-ce agai
-st the ki
-d of u
-targeted surveilla
-ce that is used to spy o
- everyo
-e's I
-ter
-et co
-versatio
-s, but if you thi
-k you will be perso
-ally targeted by a well-resourced attacker (like a 
-atio
--state), you should co
-sider stro
-ger precautio
-s, such as PGP -e
-crypted email.
-
-### 2 Dow
-loadi
-g a
-d i
-stalli
-g
-
-### 2.1 Getti
-g Pidgi
-
-
-You ca
- get Pidgi
- o
- Wi
-dows by dow
-loadi
-g the i
-staller from the Pidgi
- dow
-load page.
-![image](tool_pidgi
-1.p
-g)
-
-Click o
- the _purple_ DOWNLOAD tab. _**Do
-'t** click the gree
- Dow
-load Now butto
- because you'll wa
-t to choose a differe
-t i
-staller file._ 
-You'll be take
- to the dow
-load page.
-![image](tool_pidgi
-2.p
-g)
-
-_Agai
-, **do
-'t** click the gree
- Dow
-load Now butto
- because we wa
-t to choose a differe
-t i
-staller file._ 
-The default i
-staller for Pidgi
- is small because it does
-'t co
-tai
- all the i
-formatio
- a
-d dow
-loads the files for you. This sometimes fails so you will have a better experie
-ce with the "offli
-e i
-staller" which co
-tai
-s all the 
-ecessary i
-stallatio
- material. 
-
-Click the "**offli
-e i
-staller**" li
-k. You will be take
- to a 
-ew page titled "Sourceforge" a
-d after a few seco
-ds, a small popup will ask whether you wa
-t to save a file.
-
-- Note: While Pidgi
-'s dow
-load page uses "HTTPS" a
-d is therefore relatively safe from tamperi
-g, the website it directs you to to dow
-load the Wi
-dows versio
- of Pidgi
- is curre
-tly Sourceforge, which uses u
-e
-crypted "HTTP," a
-d therefore offers 
-o protectio
-. That mea
-s that the software you dow
-load could be tampered with before you dow
-load it. This risk would mostly come from either someo
-e with access to the local I
-ter
-et i
-frastructure attempti
-g to co
-duct targeted surveilla
-ce agai
-st you perso
-ally (for i
-sta
-ce a malicious hot-spot provider), or a state or gover
-me
-t pla
-
-i
-g to distribute compromised software to ma
-y users. The [HTTPS Everywhere](https://www.eff.org/https-everywhere) exte
-sio
- ca
- rewrite Sourceforge dow
-load URLs to HTTPS, so it's recomme
-ded you i
-stall HTTPS Everywhere before dow
-loadi
-g a
-y other software. Additio
-ally, i
- our experie
-ce, Sourceforge ofte
- has co
-fusi
-g full-page ads o
- its dow
-load pages that ca
- trick people i
-to i
-stalli
-g somethi
-g they may 
-ot wa
-t to.  You ca
- i
-stall a
- ad blocker before a
-y other software to avoid these co
-fusi
-g ads. 
-
-Ma
-y browsers will ask you to co
-firm whether you wa
-t to dow
-load this file. I
-ter
-et Explorer 11 shows a bar at the bottom of the browser wi
-dow with a
- ora
-ge border.
-![image](tool_pidgi
-3.p
-g)
-
-For a
-y browser, it is best to first save the file before proceedi
-g, so click the "Save" butto
-. By default, most browsers save dow
-loaded files i
- the Dow
-loads folder.
-
-### 2.2 Getti
-g OTR
-
-You ca
- get pidgi
--otr, the OTR plugi
- for Pidgi
-, by dow
-loadi
-g the i
-staller from the [OTR dow
-load page](https://otr.cypherpu
-ks.ca/).
-![image](tool_pidgi
-4.p
-g)
-
-Click the "Dow
-loads" tab to be take
- to the "Dow
-loads" sectio
- of the page. Click the "Wi
-32 i
-staller for pidgi
-" li
-k.
-![image](tool_pidgi
-5.p
-g)
-
-Ma
-y browsers will ask you to co
-firm whether you wa
-t to dow
-load this file. I
-ter
-et Explorer 11 shows a bar at the bottom of the browser wi
-dow with a
- ora
-ge border.
-![image](tool_pidgi
-6.p
-g)
-
-For a
-y browser, it is best to first save the file before proceedi
-g, so click the "Save" butto
-. By default, most browsers save dow
-loaded files i
- the Dow
-loads folder.
-
-After dow
-loadi
-g Pidgi
- a
-d pidgi
--otr you should have two 
-ew files i
- your 
-
-Dow
-loads folder:
-![image](tool_pidgi
-7.p
-g)
-
-### 2.3 I
-stalli
-g Pidgi
-
-
-Keep the Wi
-dows Explorer wi
-dow ope
- a
-d double-click o
- pidgi
--2.10.9-offli
-e.exe. You'll be asked if you wa
-t to allow the i
-stallatio
- of this program. Click the "Yes" butto
-.
-![image](tool_pidgi
-8.p
-g)
-
-A small wi
-dow ope
-s aski
-g you to select a la
-guage. Click the "OK" butto
-.
-![image](tool_pidgi
-9.p
-g)
-
-A wi
-dow ope
-s up givi
-g you a quick overview of the i
-stallatio
- process. Click the "Next" butto
-.
-![image](tool_pidgi
-10.p
-g)
-
-Now you get a lice
-se overview. Click the "Next" butto
-.
-![image](tool_pidgi
-11.p
-g)
-
-Now you ca
- see what differe
-t compo
-e
-ts are i
-stalled. Do
-'t cha
-ge the setti
-gs. Click the "Next" butto
-.
-![image](tool_pidgi
-12.p
-g)
-
-Now you ca
- see where Pidgi
- will be i
-stalled. Do
-'t cha
-ge this i
-formatio
-. Click the "Next" butto
-.
-![image](tool_pidgi
-13.p
-g)
-
-Now you'll see a wi
-dow with scrolli
-g text u
-til it says "I
-stallatio
- Complete." Click the "Next" butto
-.
-![image](tool_pidgi
-14.p
-g)
-
-Fi
-ally, you'll see the last wi
-dow of the Pidgi
- i
-staller. Click the "Fi
-ish" butto
-.
-![image](tool_pidgi
-15.p
-g)
-
-### 2.4 I
-stalli
-g pidgi
--otr
-
-Go back to the Wi
-dows Explorer wi
-dow a
-d ope
- a
-d double-click o
- pidgi
--otr-4.0.0-1.exe. You'll be asked if you wa
-t to allow the i
-stallatio
- of this program. Click the "Yes" butto
-.
-![image](tool_pidgi
-16.p
-g)
-
-A wi
-dow ope
-s up givi
-g you a quick overview of the i
-stallatio
- process. Click the "Next" butto
-.
-![image](tool_pidgi
-17.p
-g)
-
-Now you get a lice
-se overview. Click the "I Agree" butto
-.
-![image](tool_pidgi
-18.p
-g)
-
-You will see where pidgi
--otr will be i
-stalled. Do
-'t cha
-ge this i
-formatio
-. Click the "I
-stall" butto
-.
-![image](tool_pidgi
-19.p
-g)
-
-Fi
-ally, you'll see the last wi
-dow of the pidgi
--otr i
-staller. Click the "Fi
-ish" butto
-.
-![image](tool_pidgi
-20.p
-g)
-
-### 3 Co
-figuratio
-
-
-### 3.1 Co
-figuri
-g Pidgi
-
-
-Go to the Start me
-u, click the Wi
-dows ico
-, a
-d select Pidgi
- from the me
-u.
-![image](tool_pidgi
-21.p
-g)
-
-### 3.2 Addi
-g a
- accou
-t
-
-Whe
- Pidgi
- lau
-ches for the first time, you will see this welcome wi
-dow givi
-g you a
- optio
- to add a
- accou
-t. Si
-ce you do
-'t have a
- accou
-t co
-figured yet, click the "Add" butto
-.
-![image](tool_pidgi
-22.p
-g)
-
-Now you'll see the "Add Accou
-t" wi
-dow. 
-
-**_Pidgi
- is able to work with ma
-y chat systems, such as AIM, Facebook, GoogleTalk, MSN, MXit a
-d Yahoo, but here we'll focus o
- XMPP, formerly k
-ow
- as Jabber._**
-
-At the Protocol e
-try, select the "XMPP" optio
-.
-
-At the User
-ame e
-try, e
-ter your XMPP user
-ame.
-
-At the Domai
- e
-try, e
-ter the domai
- of your XMPP accou
-t.
-
-At the Password e
-try, e
-ter your XMPP password.
-
-Checki
-g the box by the "Remember password" e
-try will make accessi
-g your accou
-t easier. Be aware that by clicki
-g "Remember password," your password will be saved o
- the computer, maki
-g it accessible to a
-yo
-e who may happe
- to access your computer. If this is a co
-cer
-, do 
-ot check this box. You will the
- be required to e
-ter your XMPP accou
-t password every time you start Pidgi
-.
-![image](tool_pidgi
-23.p
-g)
-
-### 3.3 Addi
-g a Buddy
-
-Now you will wa
-t to add someo
-e to chat with. Click the "Buddies" me
-u a
-d select "Add Buddy." A
- "Add Buddy" wi
-dow will ope
-.
-![image](tool_pidgi
-24.p
-g)
-
-At the "Add Wi
-dow," you ca
- e
-ter the user
-ame of the perso
- you wa
-t to chat with. This other user does 
-ot have to be from the same server, but does have to use the same protocol, such as XMPP.
-
-At the "Buddy's user
-ame" e
-try, e
-ter your buddy's user
-ame with the domai
- 
-ame. This will look like a
- email address.
-
-At the "(Optio
-al) Alias" e
-try, you ca
- e
-ter a 
-ame of your choice for your buddy. This is e
-tirely optio
-al, but ca
- help if the XMPP accou
-t of the perso
- you are chatti
-g with is hard to remember.
-
-Click the "Add" butto
-.
-![image](tool_pidgi
-25.p
-g)
-
-O
-ce you have clicked the "Add" butto
-, Boris will get a message aski
-g if he gives authorizatio
- for you to add him. O
-ce Boris does, he adds your accou
-t a
-d you will get the same request. 
-
-Click the "Authorize" butto
-.
-![image](tool_pidgi
-26.p
-g)
-
-### 3.4 Co
-figuri
-g the OTR plugi
-
-
-Now you will co
-figure the OTR plugi
- so you ca
- chat securely. Click the "Tools" me
-u a
-d select the "Plugi
-s" optio
-.
-![image](tool_pidgi
-27.p
-g)
-
-Scroll dow
- to the "Off-the-Record Messagi
-g" optio
-, a
-d check the box. 
-
-Click o
- the "Off-the-Record Messagi
-g" e
-try a
-d click the "Co
-figure Plugi
-" butto
-.
-![image](tool_pidgi
-28.p
-g)
-
-Now you will see the "Off-the-Record Messagi
-g" co
-figuratio
- wi
-dow. Notice that is says "No key prese
-t." 
-
-Click the "Ge
-erate" butto
-.
-![image](tool_pidgi
-29.p
-g)
-
-Now a small wi
-dow will ope
- a
-d ge
-erate a key. Whe
- it is do
-e, click the "OK" butto
-.
-![image](tool_pidgi
-30.p
-g)
-
-You'll see 
-ew i
-formatio
-: a 40 character stri
-g of text, broke
- up i
-to 5 groups of eight characters. This is your OTR fi
-gerpri
-t. Click the "Close" butto
-.
-![image](tool_pidgi
-31.p
-g)
-
-Now click the "Close" butto
- o
- the Plugi
-s wi
-dow.
-
-### 4.0 Chatti
-g securely
-
-You are 
-ow able to chat with Boris. The two of you ca
- se
-d messages back a
-d forth. However, we're still 
-ot chatti
-g securely. Eve
- if you are co
-
-ecti
-g to the XMPP server, it is possible that the co
-
-ectio
- betwee
- you a
-d Boris is 
-ot secure from s
-oopi
-g. 
-
-If you look at the chat wi
-dow, 
-otice that it says "Not private" i
- red o
- the bottom right. Click the "Not private" butto
-.
-![image](tool_pidgi
-32.p
-g)
-
-A me
-u will ope
- up, select "Authe
-ticate buddy."
-![image](tool_pidgi
-33.p
-g)
-
-A wi
-dow will ope
- up. You are asked: "How would you like to authe
-ticate your buddy?"
-
-The drop-dow
- has three optio
-s:
-
-**Optio
- 1: Shared secret**
-
-A shared secret is a li
-e of text you a
-d the perso
- you wa
-t to chat have agreed to use ahead of time. You should have shared this i
- perso
- a
-d 
-ever have excha
-ged it over i
-secure cha
-
-els such as email or Skype.
-
-You a
-d your buddy 
-eed to e
-ter this text together. Click the "Authe
-ticate" butto
-.
-![image](tool_pidgi
-34.p
-g)
-
-The shared secret verificatio
- is useful if you a
-d your buddy have already made arra
-geme
-ts to chat i
- the future but have
-'t yet created OTR fi
-gerpri
-ts o
- the computer you are usi
-g.
-
-**Optio
- 2: Ma
-ual fi
-gerpri
-t verificatio
-**
-
-Ma
-ual fi
-gerpri
-t verificatio
- is useful if you were already give
- your buddy's fi
-gerpri
-t a
-d are 
-ow co
-
-ecti
-g with Pidgi
-. This will 
-ot be useful if your buddy cha
-ged computers or had to create 
-ew fi
-gerpri
-ts.
-
-If the fi
-gerpri
-t you were give
- a
-d the fi
-gerpri
-t o
- the scree
- match, select "I have" a
-d click the "Authe
-ticate" butto
-.
-![image](tool_pidgi
-35.p
-g)
-
-**Optio
- 3: Questio
- a
-d a
-swer**
-
-Questio
- a
-d a
-swer verificatio
- is useful if you k
-ow your buddy but have 
-ot established a shared secret 
-or had a cha
-ce to share fi
-gerpri
-ts. This method is useful to establish verificatio
- based o
- somethi
-g both of you k
-ow, like a shared eve
-t or memory.
-
-E
-ter the questio
- you wa
-t to ask. Do
-'t make it so simple that someo
-e ca
- guess it easily, but do
-'t make it impossible. A
- example of a good questio
- would be "Where did we go for di
-
-er i
- Mi
-
-eapolis?" A
-d example of a bad questio
- would be "Ca
- you buy apples i
- Tokyo?"
-
-**The a
-swers must match exactly; so keep that i
- mi
-d whe
- choosi
-g a
- a
-swer to your questio
-. Capitalizatio
- matters, so you might co
-sider i
-cludi
-g a 
-ote like (for example: use capitals, lower case).**
-
-E
-ter the questio
- a
-d a
-swer the
- click the "Authe
-ticate" butto
-.
-![image](tool_pidgi
-36.p
-g)
-
-Your buddy will have a wi
-dow ope
- with the questio
- displayed aski
-g for the a
-swer. They will have to a
-swer a
-d click the "Authe
-ticate" butto
-. The
- they will receive a message letti
-g them k
-ow if the authe
-ticatio
- was successful.
-![image](tool_pidgi
-37.p
-g)![image](tool_pidgi
-38.p
-g)
-
-O
-ce your buddy had completed the authe
-ticatio
- procedure, you will get a wi
-dow letti
-g you k
-ow the authe
-ticatio
- succeeded.
-![image](tool_pidgi
-39.p
-g)
-
-Your buddy should also verify your accou
-t so that both of you ca
- be sure that the commu
-icatio
- is secure. Here is what it would like for Akiko a
-d Boris. Notice the gree
- "Private" ico
-s i
- the lower right of the chat wi
-dow.
-![image](tool_pidgi
-40.p
-g)
-
-### 5 Worki
-g with other software
-
-The mecha
-isms to verify the authe
-ticity should work betwee
- differe
-t chat software such as Pidgi
- a
-d Adium. You are 
-ot required to use the same chat software to use chat over XMPP a
-d OTR, but sometimes there are errors i
- the software. Adium, a chat software for OS X, has a
- error receivi
-g the Questio
- a
-d A
-swer verificatio
-. If you fi
-d that verifyi
-g others is faili
-g for you whe
- you are usi
-g Questio
- a
-d A
-swer verificatio
-, check whether they are usi
-g Adium a
-d see if you ca
- use a
-other verificatio
- method.
+Pidgin is an easy-to-use, instant messaging client for Windows that uses a protocol called OTR (Off-the-record), which allows users to have confidential conversations. 
+
+- Note: OTR should not be confused with Google's "Off the record," which just disables chat logging, and does not have encryption or verification capabilities.  
+- Pidgin supports the following IM services: AIM, Bonjour, Gadu-Gadu, Google Talk, Groupwise, ICQ, IRC, MSN, MXit,MySpaceIM, SILC, SIMPLE, Sametime, Yahoo!, Zephyr and any IM clients running the XMPP messaging protocol.  
+- Pidgin does not permit communication between different IM services. For instance, if you are using Pidgin to access your Google Talk account, you will not be able to chat with a friend using an ICQ account.  
+- However, Pidgin can be configured to manage multiple accounts based on any of the supported messaging protocols. That is, you may simultaneously use both Gmail and ICQ accounts, and chat with correspondents using either of those specific services (which are supported by Pidgin).  
+- Pidgin, automatically logs conversations by default, however you do have the ability to disable this feature. That said, you do not have control over the person with whom you are chatting-she could be logging or taking screenshots of your conversation, even if you yourself have disabled logging.
+
+**Why should I use Pidgin + OTR?**
+When you have a chat conversation using Google Hangouts or Facebook chat on the Google or Facebook websites, that chat is encrypted using HTTPS, which means the content of your chat is protected from hackers and other third parties while it's in transit. It is not, however, protected from Google or Facebook, which have the keys to your conversations and can hand them over to authorities.
+
+After you have installed Pidgin, you can sign in to it using multiple accounts at the same time. For example, you could use Google Hangouts, Facebook, and XMPP simultaneously. Pidgin also allows you to chat using these tools without OTR. Since OTR only works if both people are using it, this means that even if the other person does not have it installed, you can still chat with them using Pidgin.
+
+Pidgin also allows you to do out-of-band verification to make sure that you're talking to the person you think you're talking to. For every conversation, there is an option that will show you the key fingerprints it has for you and the person with whom you are chatting. A "key fingerprint " is a string of characters like "342e 2309 bd20 0912 ff10 6c63 2192 1928," that's used to verify a longer public key. Exchange your fingerprints through another communications channel, such as Twitter DM or email, to make sure that no one is interfering with your conversation.
+
+**Limitations: When should I not use Pidgin + OTR?**
+
+Pidgin is a complex program, which has not been written with security as a top priority. It almost certainly has bugs, some of which might be used by governments or even big companies to break into computers that are using it. Using Pidgin to encrypt your conversations is a great defence against the kind of untargeted surveillance that is used to spy on everyone's Internet conversations, but if you think you will be personally targeted by a well-resourced attacker (like a nation-state), you should consider stronger precautions, such as PGP -encrypted email.
+
+### 2 Downloading and installing
+
+### 2.1 Getting Pidgin
+
+You can get Pidgin on Windows by downloading the installer from the Pidgin download page.
+![image](tool_pidgin1.png)
+
+Click on the _purple_ DOWNLOAD tab. _**Don't** click the green Download Now button because you'll want to choose a different installer file._ 
+You'll be taken to the download page.
+![image](tool_pidgin2.png)
+
+_Again, **don't** click the green Download Now button because we want to choose a different installer file._ 
+The default installer for Pidgin is small because it doesn't contain all the information and downloads the files for you. This sometimes fails so you will have a better experience with the "offline installer" which contains all the necessary installation material. 
+
+Click the "**offline installer**" link. You will be taken to a new page titled "Sourceforge" and after a few seconds, a small popup will ask whether you want to save a file.
+
+- Note: While Pidgin's download page uses "HTTPS" and is therefore relatively safe from tampering, the website it directs you to to download the Windows version of Pidgin is currently Sourceforge, which uses unencrypted "HTTP," and therefore offers no protection. That means that the software you download could be tampered with before you download it. This risk would mostly come from either someone with access to the local Internet infrastructure attempting to conduct targeted surveillance against you personally (for instance a malicious hot-spot provider), or a state or government planning to distribute compromised software to many users. The [HTTPS Everywhere](https://www.eff.org/https-everywhere) extension can rewrite Sourceforge download URLs to HTTPS, so it's recommended you install HTTPS Everywhere before downloading any other software. Additionally, in our experience, Sourceforge often has confusing full-page ads on its download pages that can trick people into installing something they may not want to.  You can install an ad blocker before any other software to avoid these confusing ads. 
+
+Many browsers will ask you to confirm whether you want to download this file. Internet Explorer 11 shows a bar at the bottom of the browser window with an orange border.
+![image](tool_pidgin3.png)
+
+For any browser, it is best to first save the file before proceeding, so click the "Save" button. By default, most browsers save downloaded files in the Downloads folder.
+
+### 2.2 Getting OTR
+
+You can get pidgin-otr, the OTR plugin for Pidgin, by downloading the installer from the [OTR download page](https://otr.cypherpunks.ca/).
+![image](tool_pidgin4.png)
+
+Click the "Downloads" tab to be taken to the "Downloads" section of the page. Click the "Win32 installer for pidgin" link.
+![image](tool_pidgin5.png)
+
+Many browsers will ask you to confirm whether you want to download this file. Internet Explorer 11 shows a bar at the bottom of the browser window with an orange border.
+![image](tool_pidgin6.png)
+
+For any browser, it is best to first save the file before proceeding, so click the "Save" button. By default, most browsers save downloaded files in the Downloads folder.
+
+After downloading Pidgin and pidgin-otr you should have two new files in your 
+
+Downloads folder:
+![image](tool_pidgin7.png)
+
+### 2.3 Installing Pidgin
+
+Keep the Windows Explorer window open and double-click on pidgin-2.10.9-offline.exe. You'll be asked if you want to allow the installation of this program. Click the "Yes" button.
+![image](tool_pidgin8.png)
+
+A small window opens asking you to select a language. Click the "OK" button.
+![image](tool_pidgin9.png)
+
+A window opens up giving you a quick overview of the installation process. Click the "Next" button.
+![image](tool_pidgin10.png)
+
+Now you get a license overview. Click the "Next" button.
+![image](tool_pidgin11.png)
+
+Now you can see what different components are installed. Don't change the settings. Click the "Next" button.
+![image](tool_pidgin12.png)
+
+Now you can see where Pidgin will be installed. Don't change this information. Click the "Next" button.
+![image](tool_pidgin13.png)
+
+Now you'll see a window with scrolling text until it says "Installation Complete." Click the "Next" button.
+![image](tool_pidgin14.png)
+
+Finally, you'll see the last window of the Pidgin installer. Click the "Finish" button.
+![image](tool_pidgin15.png)
+
+### 2.4 Installing pidgin-otr
+
+Go back to the Windows Explorer window and open and double-click on pidgin-otr-4.0.0-1.exe. You'll be asked if you want to allow the installation of this program. Click the "Yes" button.
+![image](tool_pidgin16.png)
+
+A window opens up giving you a quick overview of the installation process. Click the "Next" button.
+![image](tool_pidgin17.png)
+
+Now you get a license overview. Click the "I Agree" button.
+![image](tool_pidgin18.png)
+
+You will see where pidgin-otr will be installed. Don't change this information. Click the "Install" button.
+![image](tool_pidgin19.png)
+
+Finally, you'll see the last window of the pidgin-otr installer. Click the "Finish" button.
+![image](tool_pidgin20.png)
+
+### 3 Configuration
+
+### 3.1 Configuring Pidgin
+
+Go to the Start menu, click the Windows icon, and select Pidgin from the menu.
+![image](tool_pidgin21.png)
+
+### 3.2 Adding an account
+
+When Pidgin launches for the first time, you will see this welcome window giving you an option to add an account. Since you don't have an account configured yet, click the "Add" button.
+![image](tool_pidgin22.png)
+
+Now you'll see the "Add Account" window. 
+
+**_Pidgin is able to work with many chat systems, such as AIM, Facebook, GoogleTalk, MSN, MXit and Yahoo, but here we'll focus on XMPP, formerly known as Jabber._**
+
+At the Protocol entry, select the "XMPP" option.
+
+At the Username entry, enter your XMPP username.
+
+At the Domain entry, enter the domain of your XMPP account.
+
+At the Password entry, enter your XMPP password.
+
+Checking the box by the "Remember password" entry will make accessing your account easier. Be aware that by clicking "Remember password," your password will be saved on the computer, making it accessible to anyone who may happen to access your computer. If this is a concern, do not check this box. You will then be required to enter your XMPP account password every time you start Pidgin.
+![image](tool_pidgin23.png)
+
+### 3.3 Adding a Buddy
+
+Now you will want to add someone to chat with. Click the "Buddies" menu and select "Add Buddy." An "Add Buddy" window will open.
+![image](tool_pidgin24.png)
+
+At the "Add Window," you can enter the username of the person you want to chat with. This other user does not have to be from the same server, but does have to use the same protocol, such as XMPP.
+
+At the "Buddy's username" entry, enter your buddy's username with the domain name. This will look like an email address.
+
+At the "(Optional) Alias" entry, you can enter a name of your choice for your buddy. This is entirely optional, but can help if the XMPP account of the person you are chatting with is hard to remember.
+
+Click the "Add" button.
+![image](tool_pidgin25.png)
+
+Once you have clicked the "Add" button, Boris will get a message asking if he gives authorization for you to add him. Once Boris does, he adds your account and you will get the same request. 
+
+Click the "Authorize" button.
+![image](tool_pidgin26.png)
+
+### 3.4 Configuring the OTR plugin
+
+Now you will configure the OTR plugin so you can chat securely. Click the "Tools" menu and select the "Plugins" option.
+![image](tool_pidgin27.png)
+
+Scroll down to the "Off-the-Record Messaging" option, and check the box. 
+
+Click on the "Off-the-Record Messaging" entry and click the "Configure Plugin" button.
+![image](tool_pidgin28.png)
+
+Now you will see the "Off-the-Record Messaging" configuration window. Notice that is says "No key present." 
+
+Click the "Generate" button.
+![image](tool_pidgin29.png)
+
+Now a small window will open and generate a key. When it is done, click the "OK" button.
+![image](tool_pidgin30.png)
+
+You'll see new information: a 40 character string of text, broken up into 5 groups of eight characters. This is your OTR fingerprint. Click the "Close" button.
+![image](tool_pidgin31.png)
+
+Now click the "Close" button on the Plugins window.
+
+### 4.0 Chatting securely
+
+You are now able to chat with Boris. The two of you can send messages back and forth. However, we're still not chatting securely. Even if you are connecting to the XMPP server, it is possible that the connection between you and Boris is not secure from snooping. 
+
+If you look at the chat window, notice that it says "Not private" in red on the bottom right. Click the "Not private" button.
+![image](tool_pidgin32.png)
+
+A menu will open up, select "Authenticate buddy."
+![image](tool_pidgin33.png)
+
+A window will open up. You are asked: "How would you like to authenticate your buddy?"
+
+The drop-down has three options:
+
+**Option 1: Shared secret**
+
+A shared secret is a line of text you and the person you want to chat have agreed to use ahead of time. You should have shared this in person and never have exchanged it over insecure channels such as email or Skype.
+
+You and your buddy need to enter this text together. Click the "Authenticate" button.
+![image](tool_pidgin34.png)
+
+The shared secret verification is useful if you and your buddy have already made arrangements to chat in the future but haven't yet created OTR fingerprints on the computer you are using.
+
+**Option 2: Manual fingerprint verification**
+
+Manual fingerprint verification is useful if you were already given your buddy's fingerprint and are now connecting with Pidgin. This will not be useful if your buddy changed computers or had to create new fingerprints.
+
+If the fingerprint you were given and the fingerprint on the screen match, select "I have" and click the "Authenticate" button.
+![image](tool_pidgin35.png)
+
+**Option 3: Question and answer**
+
+Question and answer verification is useful if you know your buddy but have not established a shared secret nor had a chance to share fingerprints. This method is useful to establish verification based on something both of you know, like a shared event or memory.
+
+Enter the question you want to ask. Don't make it so simple that someone can guess it easily, but don't make it impossible. An example of a good question would be "Where did we go for dinner in Minneapolis?" And example of a bad question would be "Can you buy apples in Tokyo?"
+
+**The answers must match exactly; so keep that in mind when choosing an answer to your question. Capitalization matters, so you might consider including a note like (for example: use capitals, lower case).**
+
+Enter the question and answer then click the "Authenticate" button.
+![image](tool_pidgin36.png)
+
+Your buddy will have a window open with the question displayed asking for the answer. They will have to answer and click the "Authenticate" button. Then they will receive a message letting them know if the authentication was successful.
+![image](tool_pidgin37.png)![image](tool_pidgin38.png)
+
+Once your buddy had completed the authentication procedure, you will get a window letting you know the authentication succeeded.
+![image](tool_pidgin39.png)
+
+Your buddy should also verify your account so that both of you can be sure that the communication is secure. Here is what it would like for Akiko and Boris. Notice the green "Private" icons in the lower right of the chat window.
+![image](tool_pidgin40.png)
+
+### 5 Working with other software
+
+The mechanisms to verify the authenticity should work between different chat software such as Pidgin and Adium. You are not required to use the same chat software to use chat over XMPP and OTR, but sometimes there are errors in the software. Adium, a chat software for OS X, has an error receiving the Question and Answer verification. If you find that verifying others is failing for you when you are using Question and Answer verification, check whether they are using Adium and see if you can use another verification method.

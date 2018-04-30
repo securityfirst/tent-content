@@ -1,36 +1,10 @@
-[Title]: # (Et mai
-te
-a
-t ?)
+[Title]: # (Et maintenant ?)
 [Order]: # (15)
 
-Swipe right for this lesso
-'s checklist
+Swipe right for this lesson's checklist
 
-Go to the Adva
-ced Lesso
- for advice o
- how to practice cou
-ter-surveilla
-ce whe
- you are out o
- foot.
-[Go to Adva
-ced Lesso
-](umbrella://lesso
-/cou
-ter_surveilla
-ce/1)
+Go to the Advanced Lesson for advice on how to practice counter-surveillance when you are out on foot.
+[Go to Advanced Lesson](umbrella://lesson/counter_surveillance/1)
 
-Go to the Expert Lesso
- for advice o
- how to practice cou
-ter-surveilla
-ce whe
- you are out i
- a vehicle.
-[Go to Expert Lesso
-](umbrella://lesso
-/cou
-ter_surveilla
-ce/2)
+Go to the Expert Lesson for advice on how to practice counter-surveillance when you are out in a vehicle.
+[Go to Expert Lesson](umbrella://lesson/counter_surveillance/2)

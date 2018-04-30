@@ -3,141 +3,17 @@
 
 # Que faire si votre courriel est piraté
 
-Da
-s de telles situatio
-s, il serait bo
- de pre
-dre quelques précautio
-s :
+Dans de telles situations, il serait bon de prendre quelques précautions :
 
-* **N’utilisez plus ce compte pour l’écha
-ge d’i
-formatio
-s délicates, au moi
-s jusqu’à ce que vous compre
-iez mieux la situatio
-.
-* **Cha
-gez dès que possible votre mot de passe** pour ce compte et tous les autres qui utilise
-t le même mot de passe.
-* **Cha
-gez les répo
-ses à vos questio
-s de sécurité** pour tous vos comptes (si vous e
- utilisez) afi
- qu’il soit impossible de les devi
-er, ou de trouver les répo
-ses e
- rechercha
-t des i
-formatio
-s sur vous.
-* **Si vous 
-’arrivez pas à vous co
-
-ecter** à votre compte pour e
- cha
-ger le mot de passe, e
-visagez co
-tacter votre four
-isseur de services de courriel pour repre
-dre possessio
- de votre compte.
-* **Atté
-uez la perte d’i
-formatio
-s et les co
-séque
-ces** pour votre commu
-auté. Détermi
-ez quelles sortes d’i
-formatio
-s délicates et de co
-tacts vous aviez da
-s votre compte et décidez qui doit être alerté. Décidez aussi quels services (Web, fi
-a
-ciers, etc.) vous devriez visiter ou a
-
-uler. Il est importa
-t que vous **vérifiiez les dossiers de votre compte** pour chercher ce qui aurait pu être e
-voyé à partir de votre compte et agir e
- co
-séque
-ce.
-* **Révisez les paramètres de votre compte** pour voir si des cha
-geme
-ts y o
-t été apportés. Vérifiez la prése
-ce de lie
-s ou de programmes malveilla
-ts da
-s les optio
-s de sig
-ature du compte, les optio
-s de réachemi
-eme
-t qui permettraie
-t de copier les courriels que vous recevez vers u
- compte tiers, le message d’abse
-ce, le 
-om d’affichage, etc.
-* **Cherchez comme
-t votre compte a été compromis.** Était-ce à cause d’u
- mot de passe faible ou d’u
-e i
-fectio
- par u
- logiciel malveilla
-t, etc. Plus vous e
- saurez, mieux vous pourrez répo
-dre à la situatio
- et protéger vos co
-tacts.
-* **Révisez la sécurité de tous vos appareils** qui accède
-t aux courriels de ce compte et les appareils sur lesquels le mot de passe de ce compte de courriel était e
-registré. A
-alysez votre ordi
-ateur : appre
-ez à le faire da
-s la leço
- [Les programmes malveilla
-ts](umbrella://lesso
-/malware). E
-visagez de cha
-ger pour des programmes plus sécurisés tels que Firefox, Thu
-derbird, LibreOffice et autres programmes libres et à code source ouvert. Après avoir amélioré la sécurité de vos appareils comme i
-diqué ci-dessus, défi
-issez u
- 
-ouveau mot de passe robuste pour votre compte.
-* **So
-gez à sig
-aler le piratage** de votre compte à votre four
-isseur de services de courriel.
-* **Pe
-sez à utiliser u
- compte plus sécurisé</b>, par exemple u
- compte qui vous sig
-ale et empêche l’accès de lieux ou d’appareils i
-habituels. Pe
-sez à utiliser u
- compte qui est hébergé e
- dehors de votre pays. Pe
-sez à utiliser le chiffreme
-t pour vos courriels, p.ex. PGP (sectio
- Ava
-cé de cette leço
-).
-* **E
-visagez de 
-e pas e
-registrer les courriels lus.**
-Il est importa
-t d’agir rapideme
-t et avec précisio
- da
-s u
-e telle situatio
-. Il pourrait vous être utile d’avoir u
- pla
- préparé et répété.
+* **N’utilisez plus ce compte pour l’échange d’informations délicates, au moins jusqu’à ce que vous compreniez mieux la situation.
+* **Changez dès que possible votre mot de passe** pour ce compte et tous les autres qui utilisent le même mot de passe.
+* **Changez les réponses à vos questions de sécurité** pour tous vos comptes (si vous en utilisez) afin qu’il soit impossible de les deviner, ou de trouver les réponses en recherchant des informations sur vous.
+* **Si vous n’arrivez pas à vous connecter** à votre compte pour en changer le mot de passe, envisagez contacter votre fournisseur de services de courriel pour reprendre possession de votre compte.
+* **Atténuez la perte d’informations et les conséquences** pour votre communauté. Déterminez quelles sortes d’informations délicates et de contacts vous aviez dans votre compte et décidez qui doit être alerté. Décidez aussi quels services (Web, financiers, etc.) vous devriez visiter ou annuler. Il est important que vous **vérifiiez les dossiers de votre compte** pour chercher ce qui aurait pu être envoyé à partir de votre compte et agir en conséquence.
+* **Révisez les paramètres de votre compte** pour voir si des changements y ont été apportés. Vérifiez la présence de liens ou de programmes malveillants dans les options de signature du compte, les options de réacheminement qui permettraient de copier les courriels que vous recevez vers un compte tiers, le message d’absence, le nom d’affichage, etc.
+* **Cherchez comment votre compte a été compromis.** Était-ce à cause d’un mot de passe faible ou d’une infection par un logiciel malveillant, etc. Plus vous en saurez, mieux vous pourrez répondre à la situation et protéger vos contacts.
+* **Révisez la sécurité de tous vos appareils** qui accèdent aux courriels de ce compte et les appareils sur lesquels le mot de passe de ce compte de courriel était enregistré. Analysez votre ordinateur : apprenez à le faire dans la leçon [Les programmes malveillants](umbrella://lesson/malware). Envisagez de changer pour des programmes plus sécurisés tels que Firefox, Thunderbird, LibreOffice et autres programmes libres et à code source ouvert. Après avoir amélioré la sécurité de vos appareils comme indiqué ci-dessus, définissez un nouveau mot de passe robuste pour votre compte.
+* **Songez à signaler le piratage** de votre compte à votre fournisseur de services de courriel.
+* **Pensez à utiliser un compte plus sécurisé</b>, par exemple un compte qui vous signale et empêche l’accès de lieux ou d’appareils inhabituels. Pensez à utiliser un compte qui est hébergé en dehors de votre pays. Pensez à utiliser le chiffrement pour vos courriels, p.ex. PGP (section Avancé de cette leçon).
+* **Envisagez de ne pas enregistrer les courriels lus.**
+Il est important d’agir rapidement et avec précision dans une telle situation. Il pourrait vous être utile d’avoir un plan préparé et répété.

@@ -1,97 +1,24 @@
-[Title]: # (Tactique : comme
-t trouver l’observateur)
+[Title]: # (Tactique : comment trouver l’observateur)
 [Order]: # (20)
 
-# Tactique : comme
-t trouver l’observateur
+# Tactique : comment trouver l’observateur
 
-Qua
-d vous cherchez des cas répétés d’observatio
- da
-s u
- véhicule, utilisez les tactiques suiva
-tes si vous pouvez le faire e
- toute sécurité :
+Quand vous cherchez des cas répétés d’observation dans un véhicule, utilisez les tactiques suivantes si vous pouvez le faire en toute sécurité :
 
-* Cherchez des cas répétés d’observatio
-
-* Utilisez le mauvais clig
-ota
-t
-* Co
-duisez vite, co
-duisez le
-teme
-t
-* Arrêtez-vous soudai
-eme
-t (essayez d’avoir u
-e raiso
- de le faire, comme vous arrêter da
-s u
-e statio
--service à la der
-ière mi
-ute ou pre
-dre u
- appel sur votre télépho
-e mobile)
+* Cherchez des cas répétés d’observation
+* Utilisez le mauvais clignotant
+* Conduisez vite, conduisez lentement
+* Arrêtez-vous soudainement (essayez d’avoir une raison de le faire, comme vous arrêter dans une station-service à la dernière minute ou prendre un appel sur votre téléphone mobile)
 * Faites demi-tour
-* Déplacez-vous da
-s u
-e file tour
-a
-t à droite et à la der
-ière mi
-ute co
-ti
-uez tout droit
-* Arrêtez-vous immédiateme
-t après avoir tour
-é à droite, ce qui forcera les autres à vous dépasser
-* Cha
-gez de file
-* Tour
-ez da
-s u
- cul-de-sac
-* Pre
-ez u
-e voie rapide telle qu’u
-e autoroute et quittez-la rapideme
-t
-* Quittez u
-e voie rapide, u
-e autoroute et repre
-ez-la tout de suite
+* Déplacez-vous dans une file tournant à droite et à la dernière minute continuez tout droit
+* Arrêtez-vous immédiatement après avoir tourné à droite, ce qui forcera les autres à vous dépasser
+* Changez de file
+* Tournez dans un cul-de-sac
+* Prenez une voie rapide telle qu’une autoroute et quittez-la rapidement
+* Quittez une voie rapide, une autoroute et reprenez-la tout de suite
 * Utilisez vos rétroviseurs
-* Créez des occasio
-s de regarder aux ale
-tours
+* Créez des occasions de regarder aux alentours
 * Étirez l’équipe
-* Créez des occasio
-s (si cela est absolume
-t esse
-tiel) d’échapper à l’équipe de surveilla
-ce
+* Créez des occasions (si cela est absolument essentiel) d’échapper à l’équipe de surveillance
 
-Si l’e
-viro
-
-eme
-t politique le permet, statio
-
-ez-vous deva
-t u
- poste de police ou appelez des collègues pour qu’ils vous re
-co
-tre
-t da
-s u
- lieu désig
-é où vous pourrez me
-er e
- toute sécurité les membres de l’équipe de surveilla
-ce qui vous suivraie
-t e
-core.
+Si l’environnement politique le permet, stationnez-vous devant un poste de police ou appelez des collègues pour qu’ils vous rencontrent dans un lieu désigné où vous pourrez mener en toute sécurité les membres de l’équipe de surveillance qui vous suivraient encore.

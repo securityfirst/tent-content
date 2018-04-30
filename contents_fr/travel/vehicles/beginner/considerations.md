@@ -1,85 +1,16 @@
 [Title]: # (Quelques facteurs)
 [Order]: # (2)
 
-Les questio
-s importa
-tes à pre
-dre e
- co
-sidératio
- lors de la pla
-ificatio
- d’u
- voyage i
-clue
-t :
+Les questions importantes à prendre en considération lors de la planification d’un voyage incluent :
 
-* Les i
-cide
-ts réce
-ts sur l’iti
-éraire. *Co
-sultez le tableau de bord pour obte
-ir des i
-formatio
-s sur votre régio
-*
+* Les incidents récents sur l’itinéraire. *Consultez le tableau de bord pour obtenir des informations sur votre région*
 * La météo
 * La durée du voyage, l’heure de départ et d’arrivée
-* Devriez-vous voyager e
- co
-voi avec u
- autre véhicule?
-* L’horaire des commu
-icatio
-s
-* Les postes de co
-trôle sur l’iti
-éraire. Quelle est la procédure pour les traverser? (voir la leço
- « Les postes de co
-trôle » pour obte
-ir des co
-seils à ce sujet)
-* Les autres e
-droits da
-gereux de l’iti
-éraire (l’iti
-éraire passe-t-il au travers d’u
-e zo
-e co
-trôlée par des militaires, u
- seig
-eur de guerre ou u
- chef local). Il y a-t-il eu des 
-égociatio
-s et les permissio
-s o
-t-elles été obte
-ues et comprises ava
-t le départ. Les traversées de lig
-es de co
-flit et de zo
-es peu sûres devraie
-t rigoureuseme
-t être passées e
- revue ava
-t le déplaceme
-t.
-* Les poi
-ts de chemi
-eme
-t sûrs de l’iti
-éraire
-* Les escales de ravitailleme
-t e
- carbura
-t
-* Les escales de ravitailleme
-t e
- 
-ourriture
-* Qu’est-il prévu e
- cas d’accide
-t de voiture ou de pa
-
-e ?
+* Devriez-vous voyager en convoi avec un autre véhicule?
+* L’horaire des communications
+* Les postes de contrôle sur l’itinéraire. Quelle est la procédure pour les traverser? (voir la leçon « Les postes de contrôle » pour obtenir des conseils à ce sujet)
+* Les autres endroits dangereux de l’itinéraire (l’itinéraire passe-t-il au travers d’une zone contrôlée par des militaires, un seigneur de guerre ou un chef local). Il y a-t-il eu des négociations et les permissions ont-elles été obtenues et comprises avant le départ. Les traversées de lignes de conflit et de zones peu sûres devraient rigoureusement être passées en revue avant le déplacement.
+* Les points de cheminement sûrs de l’itinéraire
+* Les escales de ravitaillement en carburant
+* Les escales de ravitaillement en nourriture
+* Qu’est-il prévu en cas d’accident de voiture ou de panne ?

@@ -1,49 +1,18 @@
-[Title]: # (Et mai
-te
-a
-t ?)
+[Title]: # (Et maintenant ?)
 [Order]: # (5)
 
-Faire glisser vers la droite pour obte
-ir la liste de co
-trôle de cette leço
+Faire glisser vers la droite pour obtenir la liste de contrôle de cette leçon
 
-
-Aller à la leço
- Débuta
-ts pour obte
-ir des co
-seils sur la faço
- d’améliorer la sécurité de base de vos courriels et pour savoir si vos courriels o
-t été piratés.
-[Aller à la leço
- Débuta
-ts](umbrella://lesso
-/email/0)
+Aller à la leçon Débutants pour obtenir des conseils sur la façon d’améliorer la sécurité de base de vos courriels et pour savoir si vos courriels ont été piratés.
+[Aller à la leçon Débutants](umbrella://lesson/email/0)
 
 ### LEÇONS/OUTILS CONNEXES
-*  [Leço
- I
-ter
-et](umbrella://lesso
-/the-i
-ter
-et)
-*  [PGP pour macOS](umbrella://lesso
-/pgp-for-mac-os-x)
-*  [PGP pour Wi
-dows](umbrella://lesso
-/pgp-for-wi
-dows)
-*  [PGP pour Li
-ux](umbrella://lesso
-/pgp-for-li
-ux)
-*  [K9 et APG](umbrella://lesso
-/k9-\\u0026-apg)
+*  [Leçon Internet](umbrella://lesson/the-internet)
+*  [PGP pour macOS](umbrella://lesson/pgp-for-mac-os-x)
+*  [PGP pour Windows](umbrella://lesson/pgp-for-windows)
+*  [PGP pour Linux](umbrella://lesson/pgp-for-linux)
+*  [K9 et APG](umbrella://lesson/k9-\\u0026-apg)
 
 ### LECTURE COMPLÉMENTAIRE
 
-* [FFÉ - La cryptographie à clé publique et PGP](https://ssd.eff.org/fr/module/pr%C3%A9se
-tatio
--de-la-cryptographie-%C3%A0-cl%C3%A9-publique-et-de-pgp)
+* [FFÉ - La cryptographie à clé publique et PGP](https://ssd.eff.org/fr/module/pr%C3%A9sentation-de-la-cryptographie-%C3%A0-cl%C3%A9-publique-et-de-pgp)

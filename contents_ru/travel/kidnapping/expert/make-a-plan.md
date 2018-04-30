@@ -1,46 +1,6 @@
 [Title]: # (Составить план)
 [Order]: # (15)
 
-*   Make a pla
-. Will you 
-egotiate directly with the kid
-appers, if that is possible?  Or will you appoi
-t a
- i
-termediary?  (A trusted i
-termediary is ofte
- thought preferable, to give time for decisio
--makers to co
-sider their respo
-ses to a
-y messages from the kid
-appers.)
-*   Decide whether to call i
- specialist advice, either from the police or from a reputable compa
-y specialisi
-g i
- hostage 
-egotiatio
-s.  It may help if co
-tact has bee
- made with such a compa
-y before a
-y kid
-ap occurs.  If you are 
-ot sure that you have the 
-ecessary expertise to ha
-dle a kid
-appi
-g, specialist advice from a reputable compa
-y is stro
-gly recomme
-ded.
-*   Allocate the 
-ecessary resources - huma
-, fi
-a
-cial a
-d other - to e
-sure that your pla
- has the best possible cha
-ce of success
+*   Make a plan. Will you negotiate directly with the kidnappers, if that is possible?  Or will you appoint an intermediary?  (A trusted intermediary is often thought preferable, to give time for decision-makers to consider their responses to any messages from the kidnappers.)
+*   Decide whether to call in specialist advice, either from the police or from a reputable company specialising in hostage negotiations.  It may help if contact has been made with such a company before any kidnap occurs.  If you are not sure that you have the necessary expertise to handle a kidnapping, specialist advice from a reputable company is strongly recommended.
+*   Allocate the necessary resources - human, financial and other - to ensure that your plan has the best possible chance of success
