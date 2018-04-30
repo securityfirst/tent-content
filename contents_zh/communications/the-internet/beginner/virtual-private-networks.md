@@ -12,6 +12,6 @@ Psiphon3是一個安全公共的躲避工具，它結合了VPN, SSH and HTTP 代
 
 Psiphon 3 是一個以VPN-為基礎的工具，它能夠代理你所有的網路交流 不只限於網頁瀏覧。但要注意的是， Psiphon不能讓個別用戶的 IP位置與任何訪問過的網路產生關聯 , Psiphon 是為了進行審查躲避而不是匿名。
 
-其它VPN 服務的資訊以及了解找出適合你的工具，請到[此處]((http://torrentfreak.com/which-vpn-services-take-your-anonymity-seriously-2014-edition-140315/)。不要使用你不信任的VPN。
+其它VPN 服務的資訊以及了解找出適合你的工具，請到[此處](http://torrentfreak.com/which-vpn-services-take-your-anonymity-seriously-2014-edition-140315/)。不要使用你不信任的VPN。
 
 VPN透過本機上的加密保護你的使用記錄，但是 VPN提供者仍然可以保留你訪問過的網站活動記錄甚致將其提供給第三方以直接窺探你的瀏覧歷史。依照你受威脅模式的程度，政府很可能監聽或是取得你的 VPN 記錄，這將是很大的風險。這些人則只看重使用VPN的短期好處。需要全程匿名的使用者，應該用Tor。相關的介紹可在本課程進階部份找到。
