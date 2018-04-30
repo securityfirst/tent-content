@@ -3,7 +3,7 @@
 
 # 從手機上傳送安全簡訊
 
-## Signal
+## Signa
 
 [Signal](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms) 是一個免費開源的好用傳送簡訊工具，其可用於點對點之間的簡訊加密傳送以及安全的語音通話. 此軟體可Androids and iPhones手機上使用，其替代之前的安卓手機應用TextSecure。(TextSecure 用戶或舊版Signal用戶應已收到更新通知或是可以自行到Playstore/Appstore 安裝更新)
 
