@@ -13,5 +13,4 @@
 ### 進階閱讀
 
 * [EFF電子前哨基金會 - 如何與他人安全通訊](https://ssd.eff.org/en/module/communicating-others)
-
 * [Security in a Box安全工具箱 - 安全通訊指南](https://securityinabox.org/en/guide/secure-communication)
