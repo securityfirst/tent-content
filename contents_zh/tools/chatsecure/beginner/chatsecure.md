@@ -5,20 +5,13 @@
 
 iPhone 與 Android 手機上的安全簡訊軟體
 
-**課程內容：** [傳送簡訊](umbrella://lesson/sending-a-message)
-
-**下載位置：** [https://chatsecure.org](https://chatsecure.org)；也可以從手機上的 [Apple App store](https://itunes.apple.com/us/app/chatsecure/id464200063) 或是 [Google Play store](https://play.google.com/store/apps/details?id=info.guardianproject.otr.app.im) 直接下載。
-
-**系統需求：** iOS 6.0, Android (各異)
-
-**本指南所用版本：** 2.2.4 (iPhone), 13.1.2 (Android)
-
-**版權宣告：** Apple, GPLv3; Android, Apache 2.0
-
-**其它參考資料:** [https://guardianproject.info/apps/chatsecure/](https://guardianproject.info/apps/chatsecure/)
-
-**程度：** 初學-中級
-
+**課程內容：** [傳送簡訊](umbrella://lesson/sending-a-message)  
+**下載位置：** [https://chatsecure.org](https://chatsecure.org)；也可以從手機上的 [Apple App store](https://itunes.apple.com/us/app/chatsecure/id464200063) 或是 [Google Play store](https://play.google.com/store/apps/details?id=info.guardianproject.otr.app.im) 直接下載。  
+**系統需求：** iOS 6.0, Android (各異)  
+**本指南所用版本：** 2.2.4 (iPhone), 13.1.2 (Android)  
+**版權宣告：** Apple, GPLv3; Android, Apache 2.0  
+**其它參考資料:** [https://guardianproject.info/apps/chatsecure/](https://guardianproject.info/apps/chatsecure/)  
+**程度：** 初學-中級  
 **所需時間：** 5-10 分鐘
 ![image](tool_chatsecure.png)
 
