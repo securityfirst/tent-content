@@ -3,14 +3,12 @@
 
 # 安卓手機的基本安全設定指南
 
-**學習內容：** [行動電話](umbrella://lesson/mobile-phones)
+## 安卓手機的基本安全設定指南
 
-**手機系統需求：** Android 4.4
-
-**程度：** 初學者
-
+**學習內容：** [行動電話](umbrella://lesson/mobile-phones)  
+**手機系統需求：** Android 4.4  
+**程度：** 初學者  
 **所需時間：** 5分鐘
-
 
 ### 1.0 基本設定
 
@@ -30,7 +28,7 @@
 
 ### 1.3 網路設定
 
-把無線網路與藍牙調整成**預設關閉**狀態，確認無線與網路設定下的 「網路共享」Tethering與「行動熱點」Portable Hotspots的功能在無須使用時關閉。其設定位於「設定」*Settings -> 「無線與網路」Wireless & Networks -> 「更多」More -> 「網路共享與行動熱點」Tethering & Mobile hotspot*
+把無線網路與藍牙調整成 **預設關閉** 狀態，確認無線與網路設定下的 「網路共享」Tethering與「行動熱點」Portable Hotspots的功能在無須使用時關閉。其設定位於「設定」*Settings -> 「無線與網路」Wireless & Networks -> 「更多」More -> 「網路共享與行動熱點」Tethering & Mobile hotspot*
 
 如果你的手機支援近場通訊(NFC)，一般原廠多預設為開啟，請務必記得手動將其改設為關閉 
 
