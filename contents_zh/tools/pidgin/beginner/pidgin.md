@@ -6,20 +6,22 @@
 ## Pidgin 工具指南
 Windows系統上的加密即時訊息軟體
 
-**學習內容：
-- [傳送訊息](umbrella://lesson/sending-a-message)**
+**學習內容：**
+- [傳送訊息](umbrella://lesson/sending-a-message)
+
 **下載點：**
 - [https://pidgin.im/download/](https://pidgin.im/download/)
 - [https://otr.cypherpunks.ca/](https://otr.cypherpunks.ca)
-**系統需求：**網路連線, 可運行 Windows XP 或更新版本的電腦，XMPP (Jabber)帳號。
-_(Pidgin 能運作於多款網路聊天協議諸如：AIM、Facebook、Google Talk、MSN、MXit 與 Yahoo 等等。我們在此則介紹 XMPP，其前身為Jabber)_
+
+**系統需求：** 網路連線, 可運行 Windows XP 或更新版本的電腦，XMPP (Jabber)帳號。  
+_(Pidgin 能運作於多款網路聊天協議諸如：AIM、Facebook、Google Talk、MSN、MXit 與 Yahoo 等等。我們在此則介紹 XMPP，其前身為Jabber)_  
 **本指南所用版本:
 - Windows 7 Ultimate; 
-- Pidgin 2.10.9; pidgin-otr 4.0.0-1
-**版權宣告：**自由軟體 ; 混合式自由軟體
-**程度：**初學者
-**其它參考資料：**[https://pidgin.im/cgi-bin/mailman/listinfo/support](https://pidgin.im/cgi-bin/mailman/listinfo/support)
-**所費時間：**20 分鐘
+- Pidgin 2.10.9; pidgin-otr 4.0.0-1  
+**版權宣告：** 自由軟體 ; 混合式自由軟體  
+**程度：** 初學者  
+**其它參考資料：** [https://pidgin.im/cgi-bin/mailman/listinfo/support](https://pidgin.im/cgi-bin/mailman/listinfo/support)  
+**所費時間：** 20 分鐘
 
 **使用OTR 加密 Pidgin可讓你:**
 - 透過單一軟體即可組織與管理大多數流行的網路即時通訊服務
