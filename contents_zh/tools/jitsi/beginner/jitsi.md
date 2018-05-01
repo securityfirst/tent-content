@@ -6,18 +6,12 @@
 ## Jitsi 工具指南
 安全的語音、視訊與即時通訊軟體
 
-**學習內容：** [撥打電話](umbrella://lesson/making-a-call)
-
-**下載地點：** [https://jitsi.org/Main/Download](https://jitsi.org/Main/Download)
-
-**電腦需求：** Windows、Mac OS X、Ubuntu、Linux 等作業環境
-
-**本指南中所用的軟體版本：** Jitsi 2.4
-
-**版權宣告：** 免費開源軟體
-
-**程度：** 初學者
-
+**學習內容：** [撥打電話](umbrella://lesson/making-a-call)  
+**下載地點：** [https://jitsi.org/Main/Download](https://jitsi.org/Main/Download)  
+**電腦需求：** Windows、Mac OS X、Ubuntu、Linux 等作業環境  
+**本指南中所用的軟體版本：** Jitsi 2.4  
+**版權宣告：** 免費開源軟體  
+**程度：** 初學者  
 **所需時間：** 15-20 分鐘
 
 ### 1.1 開始啟動　
