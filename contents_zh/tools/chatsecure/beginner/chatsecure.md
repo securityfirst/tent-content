@@ -28,7 +28,7 @@ ChatSecure 支援 XMPP 上的 OTR 加密。只要你通訊的對象也同樣使�
 
 當你利用 ChatSecure 傳送簡訊時, 這些簡訊並不會儲存在你手機記憶體。ChatSecure 和隱私外掛工具 Orbot 一同使用的話可以躲過大部份的防火牆、網路限制或黑名單。它也支援多帳號管理，所以你可以同時與臉書友人、Google 聯絡人或是其它有隱私顧慮的用戶選擇使用支援 OTR 加密功能的即時聊天軟體。
 
-### 如何安全與設定ＣhatSecure
+### 如何安全與設定 ChatSecure
 
 **1. 下載安裝 ChatSecure**
 
