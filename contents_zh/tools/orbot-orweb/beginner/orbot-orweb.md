@@ -10,7 +10,8 @@ Android手機上的反審查與線上匿名軟體
 **學習內容：** [網際網路](umbrella://lesson/the-internet)  
 **下載處：**
 * Orbot：[https://guardianproject.info/apps/](https://guardianproject.info/apps/)或是在手機上的[Google Play商店](https://play.google.com/store/apps/details?id=org.torproject.android)。  
-* Orweb：[https://guardianproject.info/apps/](https://guardianproject.info/apps/)或是手機上的[Google Play商店](https://market.android.com/details?id=info.guardianproject.browser)  
+* Orweb：[https://guardianproject.info/apps/](https://guardianproject.info/apps/)或是手機上的[Google Play商店](https://market.android.com/details?id=info.guardianproject.browser)
+
 **系統需求：** Android 2.3 以上版本(Orweb 則為 Android 1.6以上版本)  
 **本指南所用版本:** Orbot：14.0.4.3； Orweb：0.6.1  
 **版權宣告：** Orbot: 免費自由， BSD；Orweb：自由開源軟體(GPL v3)  
