@@ -28,8 +28,7 @@ Android的電子郵件加密軟體
 * [密碼課程](umbrella://lesson/passwords) 
 * [行動電話課程](umbrella://lesson/mobile-phones)  
 
-**程度：** 進階
-
+**程度：** 進階  
 **所需時間:** 30-40分鐘
 
 **K-9 & APG 可以:**
