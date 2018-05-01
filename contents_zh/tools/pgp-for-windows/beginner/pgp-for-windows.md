@@ -14,7 +14,7 @@ Windows　的郵件加密工具
 - Mozilla Thunderbird  
 - Enigmail
 
-**電腦需求：** 有網路連線,運行 WINDOWS 的電腦和一個電郵帳號
+**電腦需求：** 有網路連線,運行 WINDOWS 的電腦和一個電郵帳號  
 **本指南所使用的版本：**
 - Windows: Windows 7 旗艦版  
 - Mozilla Thunderbird 24.6.0  
@@ -56,7 +56,7 @@ Windows　的郵件加密工具
 ### 2 下載軟體
 
 ### 2.1 取得 GPG4Win
-可在　GPG4Win 下載頁， 下載　Windows 相似小型的安裝軟體　GnuPG (also known as GPG)。
+可在　GPG4Win 下載頁， 下載　Windows 相似小型的安裝軟體　GnuPG (也被称为GPG)。
 ![image](tool_pgpwin1.png)
 
 點擊只帶有 GnuPG 要件的輕量(香草或軟量)GnuPG　安裝版本。 
@@ -79,7 +79,7 @@ Mozilla Thunderbird 官網會偵察到用戶使用的語言，如果使用 Thund
 大多數瀏覽器會先詢問是否要下載此檔案， Internet Explorer 11 下方會顯示橙色邊框的瀏覽視窗。
 ![image](tool_pgpwin3.png)
 
-大多數瀏覽器在繼續一下步之前最好先儲存檔案，故請點擊"Save" button_. 大多數瀏覽器會默認儲存在「下載」資料夾。 
+大多數瀏覽器在繼續一下步之前最好先儲存檔案，故請點擊 _"Save" button_. 大多數瀏覽器會默認儲存在「下載」資料夾。 
 
 ### 2.3 下載 Enigmail
 
@@ -88,7 +88,7 @@ Mozilla Thunderbird 官網會偵察到用戶使用的語言，如果使用 Thund
 
 大多數瀏覽器會先詢問是否要下載此檔案， Internet Explorer 11 下方會顯示橙色邊框的瀏覽視窗。
 ![image](tool_pgpwin5.png)
-大多數瀏覽器在繼續一下步之前最好先儲存檔案，故請點擊"Save" button_. 大多數瀏覽器會默認儲存在「下載」資料夾。 
+大多數瀏覽器在繼續一下步之前最好先儲存檔案，故請點擊 _"Save" button_. 大多數瀏覽器會默認儲存在「下載」資料夾。 
 
 下載 Enigmail, GPG4Win　和 Mozilla Thunderbird　之後， Downloads 資料夾內該有這三個檔案：
 ![image](tool_pgpwin6.png)
@@ -145,7 +145,7 @@ Mozilla Thunderbird　會回報其檔案安裝的總結資訊，請點 "Install"
 
 ### 3.3. Enigmail 安裝
 
-**Step 1. 準備** 
+**第1步: 準備** 
 
 Mozilla Thunderbird 首次安裝時，會出現一個小小的確認視窗詢問一些默認設定問題。建議挑選 "Set as Default" 選項即可。
 ![image](tool_pgpwin21.png)
@@ -153,7 +153,7 @@ Mozilla Thunderbird 首次安裝時，會出現一個小小的確認視窗詢問
 這裏會詢問是否要有一個全新的電郵地址，在此請按 "Skip this and use my existing email"。現在須要設定 Mozilla Thunderbird 以便收發電郵。如果只習於使用 gmail.com, outlook.com, or yahoo.com, Mozilla Thunderbird 對你來說可能是一個全新體驗，會其實也大同小異。
 ![image](tool_pgpwin22.png)
 
-**Step 2. Mozilla Thunderbird　新增郵件帳號**
+**第2步: Mozilla Thunderbird　新增郵件帳號**
 
 出現一個新視窗
 ![image](tool_pgpwin23.png)
@@ -190,7 +190,7 @@ Outgoing Mail (SMTP) Server - Requires TLS
 
 Mozilla Thunderbird 開始把郵件下戴到你的電腦上，試著寄一封測測信看看。
 
-**步驟 3. 安裝 Enigmail**
+**第3步: 安裝 Enigmail**
 
 Mozilla Thunderbird 與 GPG4Win　底下 Enigmail 的安裝有點不同，之前提過，Enigmail 是 Mozilla Thunderbird　的一件外掛工具。請在 "Menu button," 或稱Hamburger 按鍵下，選擇"Add Ons."
 ![image](tool_pgpwin26.png)
@@ -230,10 +230,10 @@ Enigmail 提供三種郵件處理選項。如果有別人的公鑰，則默設�
 ![image](tool_pgpwin36.png)
 
 若默認使用PGP/Mime(稍後介紹其設定)，為了無縫轉移，下方的選項可以取消 (或重啟)：
-
 - 關閉不佳的文字。  
 - 以明文格式來查看訊息內容。
 - 不要以 HTML 格式編寫內容。
+
 最後的選項可以防止電子郵件在加密或解密上的潛在問題。請小心所選的功能可以移除粗體、畫底線或有色的文字，檢視過這些變動後，可點"OK button"
 
 
