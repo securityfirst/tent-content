@@ -7,13 +7,19 @@
 備分電腦檔案
 
 **學習內容：** [備份](umbrella://lesson/backing-up)
+
 **下載地址：** [http://www.cobiansoft.com/cobianbackup.htm](http://www.cobiansoft.com/cobianbackup.htm)
+
 **電腦要求：** 
-- XP, 2003, Vista, 2008, Windows 7; 
-- Windows 95, 98 and ME 可以相容Cobian 7版本。
+* XP, 2003, Vista, 2008, Windows 7; 
+* Windows 95, 98 and ME 可以相容Cobian 7版本。
+
 **本指南中所用軟體版本：** Cobian 10
+
 **License版權宣告：**自由軟體
+
 **程度：** 中級
+
 **所需時間：**30分鐘
 
 ### 1.0 開始前應知道的二三事
