@@ -6,20 +6,13 @@
 ## KeePassX 工具指南
 安全的密碼管理軟體
 
-**學習內容：** [密碼 Passwords]((umbrella://lesson/passwords))
-
-**下載位置：** [https://www.keepassx.org/downloads](https://www.keepassx.org/downloads) 
-
-**電腦系統要求：** Windows 2000 or higher, Mac OS X 10.4-10.9
-
-**本指南中所用軟體版本：** KeePassX 0.4.3 (KeePassX　是Windows作業系統上使用的KeePass程式的跨平台版本.)
-
-**版權宣告：** 自由開源軟體(主要為GPLv2)
-
-**其它參考資料：** [https://www.keepassx.org/forum/](https://www.keepassx.org/forum/)
-
-**程度：** 初學者
-
+**學習內容：** [密碼 Passwords]((umbrella://lesson/passwords))  
+**下載位置：** [https://www.keepassx.org/downloads](https://www.keepassx.org/downloads)  
+**電腦系統要求：** Windows 2000 or higher, Mac OS X 10.4-10.9  
+**本指南中所用軟體版本：** KeePassX 0.4.3 (KeePassX　是Windows作業系統上使用的KeePass程式的跨平台版本.)  
+**版權宣告：** 自由開源軟體(主要為GPLv2)  
+**其它參考資料：** [https://www.keepassx.org/forum/](https://www.keepassx.org/forum/)  
+**程度：** 初學者  
 **所需時間：** 5分鐘
 
 **KeePassX可以：**
