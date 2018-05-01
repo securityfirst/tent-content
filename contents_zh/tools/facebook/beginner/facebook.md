@@ -5,8 +5,10 @@
 
 ## 如何變更臉書隱私設定
 
-**學習課程：[社交平台](umbrella://lesson/social-media)**
-**程度：**初學者
+**學習課程：** [社交平台](umbrella://lesson/social-media)
+
+**程度：** 初學者
+
 **需要時間：** 10 分鐘
 
 ### 如何保護個人隱私不受臉書圖片搜尋
@@ -27,7 +29,7 @@
 
 ### 誰可以看到我的貼文，不管是過去還是未來？
 
-點擊上方的選單中的小鎖來進行[隱私設定](https://www.facebook.com/settings?tab=privacy)調整，請選「查看更多設定」。從這裏開始，可以選擇未來貼文（含照片）的觀眾，也可以限制誰可以讀取過去的貼文，但它們通常可以讓更多人能讀取。
+點擊上方的選單中的小鎖來進行[隱私設定](https://www.facebook.com/settings?tab=privacy) 調整，請選「查看更多設定」。從這裏開始，可以選擇未來貼文（含照片）的觀眾，也可以限制誰可以讀取過去的貼文，但它們通常可以讓更多人能讀取。
 ![image](tool_facebook3.png)
 
 ### 如何隱藏臉書相簿？
@@ -68,11 +70,14 @@
 
 # 如何退出臉書的資料仲介關係
 
-## 如何退出臉書的資料仲介關係Facebook's data broker relationships
+## 如何退出臉書的資料仲介關係
 
-**學習課程：[社交平台](umbrella://lesson/social-media)**
+**學習課程：** [社交平台](umbrella://lesson/social-media)
+
 **其它閱讀資源：** [https://www.eff.org/deeplinks/2012/04/4-simple-changes-protect-your-privacy-online](https://www.eff.org/deeplinks/2012/04/4-simple-changes-protect-your-privacy-online)
-**程度：**初學者
+
+**程度：** 初學者
+
 **需要時間：** 30 分鐘
 
 Facebook 與全球四個最大的資料仲介商合作，來「強化」使用者的廣告體驗。Datalogix, Epsilon, Acxiom 和 BlueKai 可以透過線上方式來取得用戶的資　訊（例如用戶瀏覽網頁時使用 cookies) 以及離線方式（例如超市的忠誠卡或產品保證卡等）。臉書將使用這些資訊來量身化打造用戶的廣告。美國電子前鋒基金會 EFF 　有完整的介紹這些方式以及用戶如何能避免。
@@ -85,7 +90,7 @@ Facebook 與全球四個最大的資料仲介商合作，來「強化」使用�
 
 **1. 安裝附加元件來保護線上隱私。** 臉書使用 "blind cookie-matching" 媒合 BlueKai 行銷欲找的特定臉書帳號。使用封鎖追踪器通常可以用來阻止這類的追踪。我們推薦的工具是 [Ghostery](http://www.ghostery.com/)（Firefox, Safari, Chrome, Opera 與 Internet Explorer　等瀏覽器皆支援)。
 
-**2. 避免把個人電話或地址提供給商業公司。** 臉書與這些企業主要透過解析電子郵件地址在不同的資料庫中找到符合的用戶，但他們也可能會利用電話號碼。如果填寫問卷或是從某個網站上登記透過電郵取得最新息，請考慮使用與登入臉書不同的電郵。同樣地，請考慮設置另一個電話號碼，其不同於用來連結自己社交網路帳號的門號　。
+**2. 避免把個人電話或地址提供給商業公司。** 臉書與這些企業主要透過解析電子郵件地址在不同的資料庫中找到符合的用戶，但他們也可能會利用電話號碼。如果填寫問卷或是從某個網站上登記透過電郵取得最新息，請考慮使用與登入臉書不同的電郵。同樣地，請考慮設置另一個電話號碼，其不同於用來連結自己社交網路帳號的門號。
 
 ### 退出的方式； 
 
@@ -125,20 +130,22 @@ Datalogix 保證這個退出申請會在　30 天內完成生效。一旦你完�
 Epsilon 在自家[Consumer Preference Center](www.epsilon.com/consumer-preference-center) 網頁上的說明，有幾種方式可以要求退出 Epsilon 行鎖計畫：
 
 **EMAIL:** Email [optout@epsilon.com](mailto:optout@epsilon.com) 並包含以下資訊：
-- 全名 (including middle initial)
-- 目前的地址
-- 如果現在地址不超過六個月，亦需之前的地址
+* 全名 (including middle initial)
+* 目前的地址
+* 如果現在地址不超過六個月，亦需之前的地址
 
 **電話:** 致電 1.888.780.3869 並留下上述資訊
 
 **信件郵寄：** 將上方的資訊寄到以下地址：
+
 **U.S. Consumers:** Epsilon
-?P.O. Box 1478
-?Broomfield, CO 80036
-**Canadian Consumers:** Epsilon?
-41 Metropolitan Rd.?
+P.O. Box 1478
+Broomfield, CO 80036
+
+**Canadian Consumers:** Epsilon
+41 Metropolitan Rd.
 Toronto, Ontario
-?M1R 2T5
+M1R 2T5
 
 我們注意到，並不是上述所有的方式都會要求提供電子郵件。Epsilon 可能有辦法透過你的名字來找到你的電郵，但你也可以提供電郵資訊以做確保。
 
@@ -148,7 +155,7 @@ Toronto, Ontario
 
 不像其它的資料仲介，臉書正在推動一個新項目，BlueKai 並不直接自你的下線活動來收集資料。相反地，他們使用追踪器來收集你的線上活動瀏覽習性，然後利用這些資料來推斷你可能會購買的商品類型。
 
-**　最佳的退出方式是利用瀏覽器的附加元件來封鎖第三方的追踪。**
+**最佳的退出方式是利用瀏覽器的附加元件來封鎖第三方的追踪。**
 除了試著封鎖 BlueKai 之外，建議可以封鎖全部的第三方追踪器，如先前提供，可使用[Ghostery](http://www.ghostery.com/) (可支援 Firefox, Safari, Chrome, Opera and Internet Explorer 等瀏覽器。)
 
 **恭喜** -- 你已成功地退出了臉書新資料交易導向的針對性行銷，有助於保護自己遠離一些資料仲介商大頭的禁臠。
