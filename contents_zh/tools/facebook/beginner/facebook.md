@@ -138,11 +138,15 @@ Epsilon 在自家[Consumer Preference Center](www.epsilon.com/consumer-preferenc
 
 **信件郵寄：** 將上方的資訊寄到以下地址：
 
-**U.S. Consumers:** Epsilon
+**U.S. Consumers:** 
+
+Epsilon
 P.O. Box 1478
 Broomfield, CO 80036
 
-**Canadian Consumers:** Epsilon
+**Canadian Consumers:** 
+
+Epsilon
 41 Metropolitan Rd.
 Toronto, Ontario
 M1R 2T5
