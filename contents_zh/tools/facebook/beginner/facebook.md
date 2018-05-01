@@ -141,7 +141,7 @@ Epsilon 在自家[Consumer Preference Center](www.epsilon.com/consumer-preferenc
   P.O. Box 1478  
   Broomfield, CO 80036
 
-**Canadian Consumers:** 
+**Canadian Consumers:**  
   Epsilon  
   41 Metropolitan Rd.  
   Toronto, Ontario  
