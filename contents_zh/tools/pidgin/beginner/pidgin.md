@@ -17,7 +17,8 @@ Windows系統上的加密即時訊息軟體
 _(Pidgin 能運作於多款網路聊天協議諸如：AIM、Facebook、Google Talk、MSN、MXit 與 Yahoo 等等。我們在此則介紹 XMPP，其前身為Jabber)_  
 **本指南所用版本:**
 - Windows 7 Ultimate; 
-- Pidgin 2.10.9; pidgin-otr 4.0.0-1  
+- Pidgin 2.10.9; pidgin-otr 4.0.0-1 
+
 **版權宣告：** 自由軟體 ; 混合式自由軟體  
 **程度：** 初學者  
 **其它參考資料：** [https://pidgin.im/cgi-bin/mailman/listinfo/support](https://pidgin.im/cgi-bin/mailman/listinfo/support)  
