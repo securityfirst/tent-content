@@ -4,13 +4,19 @@
 # ObscuraCam 工具指南
 
 ## ObscuraCam 工具指南
-**學習內容：**[行動電話](umbrella://lesson/mobile-phones)、[社交平台](umbrella://lesson/social-media)
-**下載處：**[ObscuraCam 官網](https://guardianproject.info/apps/obscuracam/)
-**手機需求：**Android 2.3.3 以上版本
-**本指南所用版本：**2.0-RC2b
-**版權宣告：**免費與開源軟體 (GPL v3)
-**程度：**基礎
-**所需時間：**5 分鐘
+
+**學習內容：** [行動電話](umbrella://lesson/mobile-phones)、[社交平台](umbrella://lesson/social-media)
+
+**下載處：** [ObscuraCam 官網](https://guardianproject.info/apps/obscuracam/)
+
+**手機需求：** Android 2.3.3 以上版本
+
+**本指南所用版本：** 2.0-RC2b
+
+**版權宣告：** 免費與開源軟體 (GPL v3)
+
+**程度：** 基礎
+**所需時間：** 5 分鐘
 
 **ObscuraCam 能讓你：**
 - 模糊手機拍攝的人像面孔以隱藏其身份識別；
