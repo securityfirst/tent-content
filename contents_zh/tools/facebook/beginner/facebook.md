@@ -140,19 +140,15 @@ Epsilon 在自家[Consumer Preference Center](www.epsilon.com/consumer-preferenc
 
 **U.S. Consumers:** 
 
-Epsilon
-
-P.O. Box 1478
-
-Broomfield, CO 80036
+  Epsilon
+  P.O. Box 1478
+  Broomfield, CO 80036
 
 **Canadian Consumers:** 
 
-Epsilon
-
-41 Metropolitan Rd.
-
-Toronto, Ontario
+  Epsilon
+  41 Metropolitan Rd.
+  Toronto, Ontario
 
 M1R 2T5
 
