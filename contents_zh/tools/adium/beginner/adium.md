@@ -6,15 +6,15 @@
 ## Adium & OTR
 Mac電腦上的安全的即時通訊軟體
 
-**學習內容:** [傳送訊息](umbrella://lesson/sending-a-message)
+**學習內容:  [傳送訊息](umbrella://lesson/sending-a-message)
 
-**下載網址:** [https://adium.im/](https://adium.im/)
+**下載網址: [https://adium.im/](https://adium.im/)
 
-**系統要求 (Adium 1.5 以上版本): Mac OS X 10.6.8 或更新, 蘋果麥金塔電腦.
+**系統要求 (Adium 1.5 以上版本):** Mac OS X 10.6.8 或更新, 蘋果麥金塔電腦.
 
-**本指南中所使用的版本: Adium 1.5.9
+**本指南中所使用的版本:** Adium 1.5.9
 
-**版權聲明:GNU GPL
+**版權聲明:** GNU GPL
 
 **其它參考資料:** [https://pressfreedomfoundation.org/encryption-works](https://pressfreedomfoundation.org/encryption-works);[https://adium.im/help/](https://adium.im/help/)
 
