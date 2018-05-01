@@ -141,14 +141,19 @@ Epsilon 在自家[Consumer Preference Center](www.epsilon.com/consumer-preferenc
 **U.S. Consumers:** 
 
 Epsilon
+
 P.O. Box 1478
+
 Broomfield, CO 80036
 
 **Canadian Consumers:** 
 
 Epsilon
+
 41 Metropolitan Rd.
+
 Toronto, Ontario
+
 M1R 2T5
 
 我們注意到，並不是上述所有的方式都會要求提供電子郵件。Epsilon 可能有辦法透過你的名字來找到你的電郵，但你也可以提供電郵資訊以做確保。
