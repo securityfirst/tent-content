@@ -5,10 +5,8 @@
 
 ## 如何變更臉書隱私設定
 
-**學習課程：** [社交平台](umbrella://lesson/social-media)
-
-**程度：** 初學者
-
+**學習課程：** [社交平台](umbrella://lesson/social-media)  
+**程度：** 初學者  
 **需要時間：** 10 分鐘
 
 ### 如何保護個人隱私不受臉書圖片搜尋
@@ -138,17 +136,15 @@ Epsilon 在自家[Consumer Preference Center](www.epsilon.com/consumer-preferenc
 
 **信件郵寄：** 將上方的資訊寄到以下地址：
 
-**U.S. Consumers:** 
-
-  Epsilon,
-  P.O. Box 1478,
+**U.S. Consumers:**  
+  Epsilon  
+  P.O. Box 1478  
   Broomfield, CO 80036
 
 **Canadian Consumers:** 
-
-  Epsilon,
-  41 Metropolitan Rd.,
-  Toronto, Ontario,
+  Epsilon  
+  41 Metropolitan Rd.  
+  Toronto, Ontario  
   M1R 2T5
 
 我們注意到，並不是上述所有的方式都會要求提供電子郵件。Epsilon 可能有辦法透過你的名字來找到你的電郵，但你也可以提供電郵資訊以做確保。
