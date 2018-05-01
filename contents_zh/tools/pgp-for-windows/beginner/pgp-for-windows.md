@@ -6,18 +6,21 @@
 ## PGP WINDOWS 電腦工具指南 
 Windows　的郵件加密工具
 
-**學習內容:   
-- [電子郵件](umbrella://lesson/email)**  
+**學習內容:**   
+- [電子郵件](umbrella://lesson/email) 
+
 **下載點：**   
 - GPG4Win  
 - Mozilla Thunderbird  
-- Enigmail  
+- Enigmail
+
 **電腦需求：** 有網路連線,運行 WINDOWS 的電腦和一個電郵帳號
-**本指南所使用的版本：**   
+**本指南所使用的版本：**
 - Windows: Windows 7 旗艦版  
 - Mozilla Thunderbird 24.6.0  
 - Enigmail 1.7  
-- GPG4Win 2.2.1  
+- GPG4Win 2.2.1 
+
 **許可授權：** 自由軟體；混合式自由軟體授權  
 **程度** 進階
 **所需時間：** 30-60 分鐘
