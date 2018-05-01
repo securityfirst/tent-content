@@ -7,7 +7,7 @@ If you want to finally throw a piece of hardware away or sell it on eBay, you'll
 
 # Discarding CD-ROMS
 
-When it comes to CD-ROMs, you should do the same thing you do with paper-shred them. There are inexpensive shredders that will chew up CD-ROMs. Never just throw a CD-ROM out in the rubbish unless you're absolutely sure there's nothing sensitive on it.
+When it comes to CD-ROMs, you should do the same thing you do with paper - shred them. There are inexpensive shredders that will chew up CD-ROMs. Never just throw a CD-ROM out in the rubbish unless you're absolutely sure there's nothing sensitive on it.
 
 # Secure deletion on solid-state disks (SSDs), USB flash drives, and SD cards
 
