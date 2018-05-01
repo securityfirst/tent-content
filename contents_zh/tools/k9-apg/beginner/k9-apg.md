@@ -2,30 +2,31 @@
 [Order]: # (0)
 
 ## K9 & APG工具指南:
+
 Android的電子郵件加密軟體
 
-**學習內容：**<a href="umbrella://lesson/email">Email</a>
+**學習內容：** <a href="umbrella://lesson/email">Email</a>
 **軟體下載：
-- [APG 官網](http://www.thialfihar.org/projects/apg/)  
-- [K9 Mail 官網](https://code.google.com/p/k9mail)**  
+* [APG 官網](http://www.thialfihar.org/projects/apg/)  
+* [K9 Mail 官網](https://code.google.com/p/k9mail)**  
 **手機系統要求：**
-- Android 1.5 以上版本
-- 安裝 K-9 Mail 之前必須先安裝好 APG
+* Android 1.5 以上版本
+* 安裝 K-9 Mail 之前必須先安裝好 APG
 **本指南中使用的軟體版本：**
-- APG 1.1.1
-- K-9 5.001
+* APG 1.1.1
+* K-9 5.001
 **版權宣告：**
-- APG:自由開源軟體(Gnu GPL v3)
-- K-9: 自由開源軟體(Apache 2.0)
+* APG:自由開源軟體(Gnu GPL v3)
+* K-9: 自由開源軟體(Apache 2.0)
 **其它參考資料：**
-- [密碼課程](umbrella://lesson/passwords) 
-- [行動電話課程](umbrella://lesson/mobile-phones)  
-**程度：**進階
-**所需時間:</b> 30-40分鐘
+* [密碼課程](umbrella://lesson/passwords) 
+* [行動電話課程](umbrella://lesson/mobile-phones)  
+**程度：** 進階
+**所需時間:** 30-40分鐘
 
 **K-9 & APG 可以:**
-- APG 用於加密、解密手機上的單一郵件或檔案
-- APG和K-9 一起使用可以讓你輕易地在手機上使用加密郵
+* APG 用於加密、解密手機上的單一郵件或檔案
+* APG和K-9 一起使用可以讓你輕易地在手機上使用加密郵
 
 **安卓設備上的 Android Privacy Guard (APG)**
 ![image](tool_k91.png)
