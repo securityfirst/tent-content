@@ -15,13 +15,13 @@ Todo el mundo tiene formas naturales de adaptación. Animar a la gente a usar su
 *   Haga ejercicio físico
 *   Encuentre maneras seguras para ayudar a otros en la crisis y participe en actividades de la comunidad
 
-**Desaliente las estrategias de supervivencia negativas/b>**
+**Desaliente las estrategias de supervivencia negativas**
 
-*   **Consumir drogas, fumar o beber alcohol.**
-*   **Dormir todo el día**
-*   **Trabajar todo el tiempo sin tomar tiempos de descanso y relajación**
-*   **Aislarse de sus amigos y seres queridos**
-*   **Descuido de higiene personal**
-*   **Ser agresivo**
+*   Consumir drogas, fumar o beber alcohol.
+*   Dormir todo el día
+*   Trabajar todo el tiempo sin tomar tiempos de descanso y relajación
+*   Aislarse de sus amigos y seres queridos
+*   Descuido de higiene personal
+*   Ser agresivo
 
-**Es crucial que en las semanas y meses después de un evento traumático mantenga una supervisión para controlar los cambios de actitud de la persona (depresión, frustración, etc.), ya que estos pueden ser síntomas de trastorno por estrés postraumático a más largo plazo (TEPT). Esto se trata en la lección de expertos.**
+Es crucial que en las semanas y meses después de un evento traumático mantenga una supervisión para controlar los cambios de actitud de la persona (depresión, frustración, etc.), ya que estos pueden ser síntomas de trastorno por estrés postraumático a más largo plazo (TEPT). Esto se trata en la lección de expertos.
