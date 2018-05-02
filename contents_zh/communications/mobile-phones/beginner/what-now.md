@@ -13,11 +13,11 @@
 * [備份資料課](umbrella://lesson/backing-up)
 * [安全刪除課](umbrella://lesson/safely-deleting)
 * [惡意軟體](umbrella://lesson/malware)
-* [ObscuraCam工具(umbrella://lesson/obscuracam)
+* [ObscuraCam工具](umbrella://lesson/obscuracam)
 * [安卓手機的基本安全設定](umbrella://lesson/android)
 
 ### 進階閱讀材料
 
-* [Security in a Box ? 第10章, 盡可能安全地使用手機
-* [Security in a Box ? 第11章, 盡可能安全地使用智慧型手機
-* [EFF電子前哨基金會 - 手機的問題
+* [Security in a Box 第10章, 盡可能安全地使用手機](https://securityinabox.org/en/guide/mobile-phones) 
+* [Security in a Box 第11章, 盡可能安全地使用智慧型手機](https://securityinabox.org/en/guide/smartphones)
+* [EFF電子前哨基金會 - 手機的問題](https://ssd.eff.org/en/module/problem-mobile-phones)
