@@ -3,7 +3,7 @@
 
 Desafortunadamente, PGP tiene una reputación de ser difícil de comprender, y usar. Las buenas noticias son que ahora hay muchos programas disponibles que pueden ocultar el antiguo diseño de PGP y hacer que sea en cierto modo más fácil de usar, especialmente cuando se trata de cifrar y autentificar el correo electrónico, el principal uso de PGP.
 
-p>Para instrucciones detalladas de cómo instalar y usar el cifrado PGP para su correo electrónico, vea:
+Para instrucciones detalladas de cómo instalar y usar el cifrado PGP para su correo electrónico, vea:
 
 *   [Como usar PGP para Mac OS X](umbrella://lesson/pgp-for-mac-os-x)
 *   [Como usar PGP para Windows](umbrella://lesson/pgp-for-windows)
