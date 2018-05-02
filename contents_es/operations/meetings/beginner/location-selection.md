@@ -1,6 +1,8 @@
 [Title]: # (Selección de la ubicación)
 [Order]: # (1)
 
+# Selección de la ubicación
+
 Se debe escoger el área donde planea llevar a cabo la reunión cuidadosamente. Debe ser una zona donde la persona con la que se va a reunir se sienta cómoda y conozca bien, y si es posible, usted también conozca. ¿Y si usted no la conoce? Recorra el lugar y conózcala. Debe ser capaz de planificar su enfoque, una posible vía de escape y posibles puntos seguros tales como socios, población local de apoyo, y embajadas.
 
 Una vez que haya elegido la zona, tiene que elegir el lugar de reunión específica. A menudo los lugares más obvios, como su oficina u hogar ofrecen una falsa sensación de seguridad y pueden ser más propensos a estar bajo vigilancia allí. Puede que sea mejor para reunirse un lugar público como una cafetería. Al elegir una cafetería, procure evitar los lugares habituales que los defensores de los derechos humanos frecuentan. Quizás los adversarios son conscientes de esto también. Trate de elegir un lugar no frecuentado por las personas que podrían ser objetivo de la vigilancia. Si no conoce un lugar y no tiene la oportunidad de verlo previamente, use internet para tratar de ver imágenes y recopilar información sobre el lugar.
