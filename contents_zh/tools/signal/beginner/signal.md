@@ -6,8 +6,8 @@
 ## Signal 工具指南   
 iPhones 撥打加密電話
 
-**閱讀課程:   
-- [打電話](umbrella://lesson/making-a-call)**  
+**閱讀課程: **  
+- [打電話](umbrella://lesson/making-a-call)  
 **下載處:** 這個應用可自[Apple App Store](https://itunes.apple.com/us/app/signal-private-messenger/id874139669?mt=8)下載  
 **電腦需求:** Requires iOS 7.0 或更新版。 相容於 iPhone, iPad, 和 iPod touch.  
 **本指南中使用的版本:** Signal - Private Messenger 1.0.5  
