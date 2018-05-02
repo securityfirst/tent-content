@@ -1,6 +1,6 @@
 [Title]: # (GNU/Linux)
 [Order]: # (49)
 
-# GNU/Linux
+# GNU / Linux 
 
-A FOSS operating system that provides an alternative to Microsoft Windows
+Un sistema operativo FOSS que proporciona una alternativa a Microsoft Windows

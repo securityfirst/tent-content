@@ -1,6 +1,6 @@
 [Title]: # (Indicadores de compromiso)
 [Order]: # (55)
 
-# Indicators of compromise
+# Indicadores de compromiso 
 
-Clues that show that your device may have been broken into or tampered with.
+Números que muestran que su dispositivo puede haberse roto o alterado.

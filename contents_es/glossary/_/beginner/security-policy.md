@@ -1,6 +1,6 @@
 [Title]: # (Política de seguridad)
 [Order]: # (106)
 
-# Security policy
+# Política de seguridad 
 
-A written document that describes how your organization can best protect itself from various threats, including a list of steps to be taken should certain security-related events take place
+Un documento escrito que describe cómo su organización puede protegerse mejor contra diversas amenazas, incluida una lista de pasos a seguir si se producen ciertos eventos relacionados con la seguridad.

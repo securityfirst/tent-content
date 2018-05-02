@@ -1,6 +1,6 @@
 [Title]: # (Pregunta de seguridad)
 [Order]: # (105)
 
-# Security question
+# Pregunta de seguridad 
 
-To supplement passwords, some systems use "security questions". These are queries to which only you are supposed to know the answer. The problem with security questions is that they are really just extra passwords that have potentially guessable answers. We recommend you treat them as any other password: create a long, novel, random, phrase to answer them, and record that somewhere safe. So the next time your bank asks you your mother's maiden name, you should be ready to answer "Correct Battery Horse Staple" or similar.
+ Para complementar las contraseñas, algunos sistemas usan "preguntas de seguridad ". Estas son consultas a las que solo se supone que debes saber la respuesta. El problema con las preguntas de seguridad es que en realidad son solo contraseñas extra que tienen respuestas potencialmente adivinadas. Le recomendamos que los trate como a cualquier otra contraseña: cree una frase larga, novedosa y aleatoria para responderlas y regístrela en un lugar seguro. Por lo tanto, la próxima vez que su banco le pregunte el nombre de soltera de su madre, debe estar listo para responder "Correcto, caballo, batería grapa" o similar.

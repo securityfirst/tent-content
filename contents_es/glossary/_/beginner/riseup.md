@@ -1,6 +1,6 @@
 [Title]: # (RiseUp)
 [Order]: # (98)
 
-# RiseUp
+# RiseUp 
 
-A email service run by and for activists that can be accessed securely either through webmail or using an email client such as Mozilla Thunderbird
+Un servicio de correo electrónico dirigido por y para activistas al que se puede acceder de forma segura ya sea a través de correo web o mediante un cliente de correo electrónico como Mozilla Thunderbird

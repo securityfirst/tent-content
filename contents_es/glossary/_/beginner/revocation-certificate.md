@@ -1,6 +1,6 @@
 [Title]: # (Certificado de revocación)
 [Order]: # (97)
 
-# Revocation certificate
+# Certificado de revocación 
 
-What happens if you lose access to a secret key, or it stops being secret? A revocation certificate is a file that you can generate that announces that you no longer trust that key. You generate it when you still have the secret key, and keep it for any future disaster.
+¿Qué sucede si pierde acceso a una clave secreta o deja de ser secreto? Un certificado de revocación es un archivo que puede generar que anuncia que ya no confía en esa clave. Lo genera cuando todavía tiene la clave secreta y la guarda para cualquier desastre futuro.

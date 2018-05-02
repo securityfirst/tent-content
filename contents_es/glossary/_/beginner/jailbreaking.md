@@ -1,6 +1,6 @@
 [Title]: # (Jailbreaking)
 [Order]: # (63)
 
-# Jailbreaking
+# Jailbreaking 
 
-The process of unlocking features on an iPhone, which are otherwise blocked, by the manufacturer or mobile carrier in order to gain full access to the operating system.
+El proceso de desbloqueo de funciones en un iPhone, que de lo contrario están bloqueadas, por parte del fabricante o operador de telefonía móvil para obtener acceso completo al sistema operativo.

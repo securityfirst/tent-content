@@ -1,6 +1,6 @@
 [Title]: # (Filtrado de internet)
 [Order]: # (56)
 
-# Internet filtering
+# Filtrado de Internet 
 
-Filtering is the politer term for blocking or censoring Internet traffic.
+Filtrado es el término de politer para bloquear o censurar el tráfico de Internet.

@@ -1,6 +1,6 @@
 [Title]: # (Windows Phone)
 [Order]: # (135)
 
-# Windows Phone
+# Windows Phone 
 
-A smartphone operating system developed by Microsoft.
+Un sistema operativo para teléfonos inteligentes desarrollado por Microsoft.

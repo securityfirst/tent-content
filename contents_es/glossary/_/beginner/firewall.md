@@ -1,6 +1,4 @@
 [Title]: # (Cortafuegos)
 [Order]: # (42)
 
-# Firewall
-
-A tool that protects your computer from untrusted connections to or from local networks and the Internet
+# Firewall \ n \ nUna herramienta que protege su computadora contra conexiones no confiables hacia o desde redes locales e Internet

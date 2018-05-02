@@ -1,6 +1,6 @@
-[Title]: # (Fuente de poder Ininterrumplible (USP)
-[Order]: # (128)
+[Title]: # (Fuente de alimentación ininterrumpible (UPS))
+[Order]: # (127)
 
-# Uninterruptable Power Supply (UPS)
+# Fuente de alimentación ininterrumpible (UPS)
 
-A piece of equipment that allows your critical computing hardware to continue operating, or to shut down gracefully, in the event of a brief loss of power
+Una pieza de equipo que permite que su hardware informático crítico continúe funcionando, o que se apague con elegancia, en el caso de una breve pérdida de potencia.

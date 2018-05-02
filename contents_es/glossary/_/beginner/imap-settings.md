@@ -1,6 +1,6 @@
 [Title]: # (Configuraciones IMAP)
 [Order]: # (54)
 
-# IMAP settings
+# Configuración de IMAP 
 
-IMAP is the way that many email programs communicates with services that send, receive and store your email. By changing the IMAP settings on your email program, you can choose to load email from different servers or set the level of security and encryption used to transfer the mail across the Internet to you.
+IMAP es la forma en que muchos programas de correo electrónico se comunican con los servicios que envían, reciben y almacenan su correo electrónico. Al cambiar la configuración de IMAP en su programa de correo electrónico, puede optar por cargar el correo electrónico desde diferentes servidores o establecer el nivel de seguridad y cifrado utilizado para transferir el correo a través de Internet.

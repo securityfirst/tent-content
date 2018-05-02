@@ -1,6 +1,6 @@
 [Title]: # (Modelo de amenazas)
 [Order]: # (120)
 
-# Threat model
+# Modelo de amenaza 
 
-A way of narrowly thinking about the sorts of protection you want for your data. It's impossible to protect against every kind of trick or attacker, so you should concentrate on which people might want your data, what they might want from it, and how they might get it. Coming up with a set of possible attacks you plan to protect against is called threat modelling. Once you have a threat model, you can conduct a risk analysis.
+Una manera de pensar en forma estrecha sobre los tipos de protección que desea para sus datos. Es imposible protegerse contra todo tipo de truco o ataque, por lo que debe concentrarse en qué personas podrían querer sus datos, qué podrían querer de ellos y cómo podrían obtenerlos. Venir con un conjunto de posibles ataques a los que planea proteger se llama modelado de amenazas. Una vez que tenga un modelo de amenaza, puede realizar un análisis de riesgo.

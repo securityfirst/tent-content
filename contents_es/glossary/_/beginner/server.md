@@ -1,6 +1,6 @@
 [Title]: # (Servidor)
 [Order]: # (108)
 
-# Server
+# Servidor 
 
-A computer that remains on and connected to the Internet in order to provide some service, such as hosting a webpage or sending and receiving email, to other computers
+Una computadora que permanece encendida y conectada a Internet para proporcionar algún servicio, como alojar una página web o enviar y recibir correo electrónico, a otras computadoras

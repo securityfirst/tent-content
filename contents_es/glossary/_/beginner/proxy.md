@@ -1,6 +1,6 @@
 [Title]: # (Proxy)
 [Order]: # (93)
 
-# Proxy
+# Proxy 
 
-An intermediary service through which you can channel some or all of your Internet communication and that can be used to bypass Internet censorship. A proxy may be public, or you may need to log in with a username and password to access it. Only some proxies are secure, which means that they use encryption to protect the privacy of the information that passes between your computer and the Internet services to which you connect through the proxy.
+Un servicio intermediario a través del cual puede canalizar parte o la totalidad de su comunicación de Internet y que puede usarse para eludir la censura de Internet. Un proxy puede ser público, o puede necesitar iniciar sesión con un nombre de usuario y contraseña para acceder. Solo algunos proxies son seguros, lo que significa que usan cifrado para proteger la privacidad de la información que pasa entre su computadora y los servicios de Internet a los que se conecta a través del proxy.

@@ -1,6 +1,6 @@
 [Title]: # (Amenaza física<)
 [Order]: # (91)
 
-# Physical threat
+# Amenaza física 
 
-In this context, any threat to your sensitive information that results from other people having direct physical access your computer hardware or from other physical risks, such as breakage, accidents or natural disasters
+En este contexto, cualquier amenaza a su información sensible que resulte de que otras personas tengan acceso físico directo al hardware de su computadora o de otros riesgos físicos, como roturas, accidentes o desastres naturales

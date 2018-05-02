@@ -1,6 +1,6 @@
 [Title]: # (Cable de seguridad)
 [Order]: # (107)
 
-# Security cable
+# Cable de seguridad 
 
-A locking cable that can be used to secure a laptop or other piece of hardware, including external hard drives and some desktop computers, to a wall or a desk in order to prevent it from being physically removed
+Un cable de bloqueo que se puede usar para asegurar una computadora portátil u otra pieza de hardware, incluidos discos duros externos y algunas computadoras de escritorio, a una pared o escritorio para evitar que se retire físicamente.

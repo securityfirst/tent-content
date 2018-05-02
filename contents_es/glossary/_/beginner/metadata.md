@@ -1,6 +1,6 @@
 [Title]: # (Metadatos)
 [Order]: # (76)
 
-# Metadata
+# Metadata 
 
-Metadata  (or "data about data") is everything about a piece of information, apart from the information itself. So the content of a message is not metadata, but who sent it, when, where from, and to whom, are all examples of metadata. Legal systems often protect content more than metadata: for instance, in the United States, law enforcement needs a warrant to listen to a person's telephone calls, but claims the right to obtain the list of who you have called far more easily. However, metadata can often reveal a great deal, and will often need to be protected as carefully as the data it describes.
+Metadata (o "datos sobre datos") es todo sobre una pieza de información, además de la información en sí misma. Por lo tanto, el contenido de un mensaje no son metadata, sino quién lo envió, cuándo, de dónde y para quién, son todos ejemplos de metadata. Los sistemas legales a menudo protegen el contenido más que los metadata: por ejemplo, en los Estados Unidos, las fuerzas del orden público necesitan una autorización para escuchar las llamadas telefónicas de una persona, pero reclaman el derecho a obtener la lista de las personas a las que llamó con mucha más facilidad. Sin embargo, los metadata a menudo pueden revelar una gran cantidad, y a menudo necesitarán ser protegidos tan cuidadosamente como los datos que describe.

@@ -1,6 +1,6 @@
-[Title]: # (Unidad de estado Sólido (SSD)
+[Title]: # (Unidad de estado sólido (SSD))
 [Order]: # (112)
 
-# Solid State Drive (SSD)
+# Unidad de estado sólido (SSD) 
 
-Historically, computers stored data on rotating magnetic discs. Mobile devices and increasing numbers of personal computers now store permanent data on non-moving drives. These SSD drives are currently more expensive, but much faster than magnetic storage. Unfortunately, it can be more difficult to reliably and permanently remove data from SSD drives.
+Históricamente, las computadoras almacenan datos en discos magnéticos giratorios. Los dispositivos móviles y un número cada vez mayor de computadoras personales ahora almacenan datos permanentes en unidades que no se mueven. Estas unidades SSD son actualmente más caras, pero mucho más rápidas que el almacenamiento magnético. Desafortunadamente, puede ser más difícil eliminar de manera confiable y permanente los datos de las unidades SSD.

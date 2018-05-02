@@ -1,6 +1,6 @@
 [Title]: # (PGP)
 [Order]: # (90)
 
-# PGP
+# PGP 
 
-PGP or Pretty Good Privacy was one of the first popular implementations of public key cryptography. Phil Zimmermann, its creator, wrote the program in 1991 to help activists and others protect their communications. The US government formally investigated him when the program spread outside the United States. At the time, exporting tools that included strong public key encryption was a violation of US law. PGP continues to exist as a commercial software product. A free implementation of the same underlying standard that PGP uses called GnuPG (or GPG) is also available. Because both use the same interchangeable approach, people will refer to using a "PGP key " or sending a "PGP message", even if they are using GnuPG.
+PGP o Pretty Good Privacy fue una de las primeras implementaciones populares de criptografía de clave pública. Phil Zimmermann, su creador, escribió el programa en 1991 para ayudar a activistas y otros a proteger sus comunicaciones. El gobierno de EE. UU. Lo investigó formalmente cuando el programa se extendió fuera de los Estados Unidos. En ese momento, exportar herramientas que incluían cifrado de clave pública fuerte era una violación de la ley de EE. UU. PGP continúa existiendo como un producto de software comercial. También está disponible una implementación gratuita del mismo estándar subyacente que PGP usa llamado GnuPG (o GPG). Debido a que ambos usan el mismo enfoque intercambiable, las personas se referirán al uso de una "clave PGP" o al envío de "mensaje PGP", incluso si están usando GnuPG.

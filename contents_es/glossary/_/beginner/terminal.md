@@ -1,6 +1,6 @@
 [Title]: # (Terminal)
 [Order]: # (117)
 
-# Terminal
+# Terminal 
 
-In ancient computer history, a terminal was a dedicated system of keyboard and screen that connected a user to a server. These days, it's more likely to be a program that allows you to talk to computers (either local or remote) over the command line.
+En la historia antigua de la computadora, una terminal era un sistema dedicado de teclado y pantalla que conectaba a un usuario con un servidor. En estos días, es más probable que sea un programa que le permite hablar con computadoras (ya sean locales o remotas) a través de la línea de comando.

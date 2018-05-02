@@ -1,6 +1,6 @@
 [Title]: # (Proxy basado en web)
 [Order]: # (133)
 
-# Web-based proxy
+# Proxy basado en la Web 
 
-A website that lets its users access other, blocked or censored websites. Generally, the web proxy will let you type a web address (or URL) onto a web page, and then redisplay that web address on the proxy page. Easier to use than most other censorship-circumventing services.
+Un sitio web que permite a sus usuarios acceder a otros sitios web bloqueados o censurados. En general, el proxy web le permitirá escribir una dirección web (o URL) en una página web, y luego volver a mostrar esa dirección web en la página proxy. Más fácil de usar que la mayoría de los otros servicios de elusión de la censura.

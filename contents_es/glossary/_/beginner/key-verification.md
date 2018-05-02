@@ -1,6 +1,6 @@
 [Title]: # (Verificación de llave)
 [Order]: # (71)
 
-# Key verification
+# Verificación de clave 
 
-In public key cryptography, each person has a set of keys. To send a message securely to a particular person, you encrypt your message using their public key. An attacker may be able to trick you into using their key, which means that they will be able to read your message, instead of the intended recipient. That means that you have to verify that a particular person is using a key. Key verification is any way that lets you match a key to a person.
+En la criptografía de clave pública, cada persona tiene un conjunto de claves. Para enviar un mensaje de forma segura a una persona en particular, cifre su mensaje usando su clave pública. Un atacante puede engañarlo para que use su clave, lo que significa que podrá leer su mensaje, en lugar del destinatario deseado. Eso significa que debe verificar que una persona en particular esté usando una clave. La verificación clave es cualquier forma que le permita hacer coincidir una clave con una persona.

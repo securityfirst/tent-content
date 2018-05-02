@@ -1,8 +1,6 @@
 [Title]: # (Spybot)
 [Order]: # (115)
 
-# Spybot
+# Spybot 
 
-A freeware anti-malware tool that scans for, removes and helps protect your computer from spyware  
-
-- **Steganography**: Any method of disguising sensitive information so that it appears to be something else, in order to avoid drawing unwanted attention to it
+nUna herramienta antimalware de software gratuito que busca, elimina y ayuda a proteger su computadora del spyware

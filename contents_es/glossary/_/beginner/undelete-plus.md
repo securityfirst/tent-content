@@ -1,6 +1,6 @@
 [Title]: # (Undelete Plus)
-[Order]: # (127)
+[Order]: # (126)
 
 # Undelete Plus
 
-A freeware tool that can sometimes restore information that you may have deleted accidentally
+Una herramienta de software gratuito que a veces puede restaurar información que puede haber eliminado accidentalmente
