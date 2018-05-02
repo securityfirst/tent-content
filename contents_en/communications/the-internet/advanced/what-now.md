@@ -10,7 +10,7 @@ Go to the Beginner lesson for advice on how to circumvent censorship.
 
 *   [Tor for Mac tool guide](umbrella://lesson/tor-for-mac-os-x)
 *   [Tor for Windows tool guide](umbrella://lesson/tor-for-windows)
-*	[Tor for LINUX tool guide] (umbrella://lesson/tor-for-linux)
+*	[Tor for LINUX tool guide](umbrella://lesson/tor-for-linux)
 *   [Orbot and Orfox tool guide](umbrella://lesson/orbot-and-orfox)
 
 
