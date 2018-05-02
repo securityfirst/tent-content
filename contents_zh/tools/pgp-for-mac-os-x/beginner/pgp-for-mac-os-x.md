@@ -44,7 +44,7 @@ PGP是一个开放标准，这意味着多个软件可以使用它。我们将�
 
 安装GPG Suite后，您可以首次设置密钥，然后在Apple Mail和Thunderbird上启用PGP。
 
-**第1步：安装程序。 ** 
+**第1步：安装程序。** 
 
 首先，在您的浏览器中转到[https://www.gpgtools.org/](https://www.gpgtools.org/) 并选择\“Download GPG Suite 
 ![image](tool_pgposx1.png)
@@ -118,7 +118,7 @@ PGP密钥包含一个名称和一个将密钥链接到您的电子邮件地址�
  
 要备份密钥，请打开GPG密钥链访问。选择您的密钥，然后单击工具栏中的“导出”。将USB驱动器放入机器，然后在“另存为...”对话框的“Where”部分中选择它。检查“允许密钥导出”复选框。
 
-**选项A)配置Apple Mail ** 
+**选项A) 配置 Apple Mail**
 
 当您第一次打开Apple Mail时，您会看到第一个运行向导，可帮助您设置您的电子邮件地址。填写您的姓名，电子邮件地址和您的电子邮件密码，然后单击“创建。”
 ![image](tool_pgposx8.png)
@@ -142,7 +142,7 @@ PGP密钥包含一个名称和一个将密钥链接到您的电子邮件地址�
 
 要绝对安全，您需要验证您从密钥服务器或您的同事获得的密钥。有关更多信息，请参阅EFF的指南[密钥验证](https://ssd.eff.org/en/module/key-verification#overlay=en/node/37/)。
 
-**选项B)使用PGP与Mozilla Thunderbird ** 
+**选项B) 使用PGP与 Mozilla Thunderbird**
 
 本演练演示如何将GPG与来自Mozilla的免费开源Thunderbird邮件客户端一起使用，以及用于电子邮件加密的Enigmail插件。
 
