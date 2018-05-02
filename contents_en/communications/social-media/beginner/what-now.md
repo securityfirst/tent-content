@@ -14,4 +14,4 @@ Swipe right for this lesson's checklist
 ### FURTHER READING
 
 *   [Security in a Box - Social networking](https://securityinabox.org/en/guide/social-networking/web/)
-* [*Guardian* reports on Cambridge Analytica] (https://www.theguardian.com/uk-news/cambridge-analytica)
+* [*Guardian* reports on Cambridge Analytica](https://www.theguardian.com/uk-news/cambridge-analytica)
