@@ -1,14 +1,13 @@
 [Title]: # (Consejos para usar gestores de contraseñas)
 [Order]: # (1)
 
-# Tips for using password managers
+# Consejos para usar administradores de contraseñas 
 
-There are few things to keep in mind when using password databases.
+Hay algunas cosas a tener en cuenta al usar bases de datos de contraseñas. 
 
-*   If you lose or accidentally delete your only copy of a password database, you will no longer have access to any of the accounts for which it contained passwords. This makes it extremely important that you back up your KeePass database. Read our [Backing Up lesson](umbrella://lesson/backing-up) for instructions on how to do this.
-*   If you forget your KeePass master password, there is no way to recover it or the contents of the database. So, be sure to choose a master password that is both secure and memorable!
+ * Si pierde o elimina accidentalmente su única copia de una base de datos de contraseñas, ya no tendrá acceso a ninguna de las cuentas para las cuales contenía contraseñas. Esto hace que sea extremadamente importante que haga una copia de seguridad de su base de datos KeePass. Lea nuestra [Copia de seguridad de la lección] (umbrella://lesson/backing-up) para obtener instrucciones sobre cómo hacerlo. 
+ * Si olvida su contraseña maestra de KeePass, no hay forma de recuperarla o el contenido de la base de datos. . Por lo tanto, asegúrese de elegir una contraseña maestra segura y memorable. 
+ * También es de vital importancia mantener su administrador de contraseñas seguro. 
 
-*   It is also crucially important to keep your password manager itself secure.
-
-- Some password managers will offer to store your passwords "in the cloud," which is to say, they will store your passwords encrypted on a remote server, and when you need them on a laptop or mobile, they will retrieve and decrypt them for you automatically. Password managers like this are more convenient, but the trade-off is that they are more vulnerable to attack. If you just keep your passwords on your computer, then someone who can take over your computer may be able to get hold of them. If you keep them in the cloud, your attacker may target that also. It's not usually a compromise you need to worry about unless your attacker has legal powers over the password manager company or is known for targeting companies or internet traffic.
-*   When you use a password manager, the security of your passwords and your master password is only as strong as the security of the computer where the password manager is installed and used. If your computer or device is compromised and spyware is installed, the spyware can watch you type your master password and could steal the contents of the password safe. So it's still very important to keep your computer and other devices clean of malicious software when using a password manager. You can learn more about this in the [Malware lesson](umbrella://lesson/malware).
+* Algunos administradores de contraseñas le ofrecerán almacenar sus contraseñas  "en la nube," es decir, almacenarán sus contraseñas encriptadas en un servidor remoto, y cuando las necesite en una computadora portátil o móvil, las recuperarán y descifrarán automáticamente. Los administradores de contraseñas como este son más convenientes, pero la desventaja es que son más vulnerables al ataque. Si solo guarda sus contraseñas en su computadora, entonces alguien que pueda hacerse cargo de su computadora puede obtenerlas. Si los mantienes en la nube, tu atacante también puede atacarlos. Generalmente no es un compromiso del que debe preocuparse a menos que su atacante tenga poderes legales sobre la compañía gestora de contraseñas o sea conocido por empresas o tráfico de Internet. 
+* Cuando usa un administrador de contraseñas, la seguridad de sus contraseñas y su contraseña maestra es tan fuerte como la seguridad de la computadora donde se instala y usa el administrador de contraseñas. Si su computadora o dispositivo está en peligro y el spyware está instalado, el spyware puede verlo escribir su contraseña maestra y robar el contenido de la contraseña. Por lo tanto, es muy importante mantener su computadora y otros dispositivos limpios de software malicioso cuando se usa un administrador de contraseñas. Puede obtener más información sobre esto en la [Lección de Malware] (umbrella://lesson/malware).
