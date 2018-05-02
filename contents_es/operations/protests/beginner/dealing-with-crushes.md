@@ -1,6 +1,8 @@
 [Title]: # (Enfrentándose a multitudes)
 [Order]: # (7)
 
+# Enfrentándose a multitudes
+
 Verse inmerso en multitudes o arremetidas policiales puede ser peligroso incluso como espectador. Puede mitigar el peligro tomando las siguientes precauciones:
 
 *   Asegúrese de que el equipo de trabajo cuenta con buenos canales de comunicación entre ellos y todas las personas conocen su ubicación entre si en todo momento.
