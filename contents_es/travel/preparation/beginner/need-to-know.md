@@ -8,4 +8,5 @@
     *   Medios de transporte, itinerarios, gestiones profesionales
     *   Medidas y procedimientos de seguridad
     *   Las funciones, colegas y asociados de su organiación
-*   Para más consejos, consulte la Lección sobre Administración de Información.
+    
+Para más consejos, consulte la Lección sobre Administración de Información.
