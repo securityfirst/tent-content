@@ -1,6 +1,8 @@
 [Title]: # (Casas seguras)
 [Order]: # (4)
 
+# Casas seguras
+
 La casa segura puede adoptar muchas formas. Pueden ser una casa segura de emergencia, que es una casa o un apartamento alquilado específicamente con este propósito o bien el refugi seguro puede ser una casa o apartamento que esté siendo ocupada por otras personas.
 
 Las casas o refugios seguros deben estar ubicados en un lugar que permita un grado relativo de anonimato y cuyos vecinos no sospechen qué sucede o en los que se pueda confiar que no informarán.
