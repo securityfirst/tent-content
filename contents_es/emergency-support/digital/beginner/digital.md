@@ -11,7 +11,7 @@ Apoyo normalmente disponible dentro de las primeras 24 horas.
 
 **Donde:** Global  
 **Tipo de Amenaza:** Incidentes de Seguridad Digital, en sitios web o redes sociales, dispositivos decomisados, mitigación de ataques de denegación de servicio (_DDoS_, Software malicioso _(malware)_  
-Acepta llamados urgentes? No
+**Acepta llamados urgentes?** No
 
 **Descripción:** El Kit de Seguridad Digital provee apoyo inicial a personas que están afrontando uno o varios tipos de amenazas digitales. El Kit ofrece un compendio de herramientas de auto diagnóstico para defensores y defensoras de derechos humanos, blogueros, activistas y periodistas que estén ya sea recibiendo ataques personales o que quieran apoyar a otros que estén bajo amenaza.
 
