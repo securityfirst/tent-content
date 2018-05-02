@@ -192,7 +192,8 @@ Nueva York, Tel: (+1) 212-290-4700
 
 **Descripción:** ISHR brinda información, capacitación y apoyo a los defensores de los derechos humanos en todo el mundo. Sus oficinas de defensores de los derechos humanos refuerzan los procedimientos de la ONU para apoyar a los defensores de los derechos humanos y promueven mecanismos similares en África y las Américas. No aceptan llamamientos urgentes, ya que se centran en la capacitación y la agregación de conocimiento.
 
-**Sitio web:** www.ishr.ch Ginebra, Tel: (+41) 22 733 51 23  
+**Sitio web:** www.ishr.ch  
+Ginebra, Tel: (+41) 22 733 51 23  
 
 ## Observatorio para la protección de los defensores de los derechos humanos
 
@@ -328,7 +329,7 @@ Ginebra, Tel .: (+41) 22 917 0656
 
 **Recursos adicionales:**
 *   [Universal Declaración de Derechos Humanos](http://www.unhchr.ch/udhr/index.htm)  
-*   Instrumentos internacionales de derechos humanos www2.ohchr.org/english/law/
+*   [Instrumentos internacionales de derechos humanos](http://www2.ohchr.org/english/law/)
 
 ## Comisión Interamericana de Derechos Humanos (Washington, DC) y Corte Interamericana de Derechos Humanos (San José)
 
