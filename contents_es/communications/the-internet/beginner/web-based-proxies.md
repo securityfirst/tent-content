@@ -4,7 +4,6 @@
 # Proxys basados en web
 
 Un proxy basado en web (como [https://proxy.org/](https://proxy.org/)) es una de las formas más simples de elusión de la censura. Es un sitio web que permite a sus usuarios acceder a otros sitios web bloqueados o censurados. Para usar un proxy basado en web, todo lo que necesita hacer es introducir la dirección filtrada por el censor que desee usar en el campo de la página web del proxy; el proxy mostrará entonces el contenido solicitado dentro de su propia página web.
-
 ![image](internetb3.png)
 
 Los proxys basados en web son una buena forma de acceder rápidamente a sitios web bloqueados, pero también tienen ciertas desventajas.
