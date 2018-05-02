@@ -7,4 +7,6 @@ Para instrucciones detalladas de cómo instalar y usar el cifrado PGP para su co
 
 *   [Como usar PGP para Mac OS X](umbrella://lesson/pgp-for-mac-os-x)
 *   [Como usar PGP para Windows](umbrella://lesson/pgp-for-windows)
-*   [Como usar PGP for Linux](umbrella://lesson/pgp-for-linux)p>Guardar su clave de cifrado privada en su dispositivo móvil puede parecer arriesgado. Pero la ventaja de poder enviar y guardar correos cifrados de forma segura desde el dispositivo portable podría compensar el riesgo. Aprenda cómo instalar y usar el cifrado para correo electrónico en su smartphone con la [Guía de K9 y APG](umbrella://lesson/k9-&-apg).
+*   [Como usar PGP for Linux](umbrella://lesson/pgp-for-linux)
+
+Guardar su clave de cifrado privada en su dispositivo móvil puede parecer arriesgado. Pero la ventaja de poder enviar y guardar correos cifrados de forma segura desde el dispositivo portable podría compensar el riesgo. Aprenda cómo instalar y usar el cifrado para correo electrónico en su smartphone con la [Guía de K9 y APG](umbrella://lesson/k9-&-apg).
