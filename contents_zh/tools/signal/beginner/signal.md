@@ -30,7 +30,10 @@ iPhones 撥打加密電話
 **步驟 1:** 下載和安裝 Signal - Private Messenger在 iOS 設備, 進入 App Store 並搜尋 "Signal" 選取該應用 "Signal - Private Messenger" by Open Whisper Systems.
 點擊下載應用並選擇"接受" iTunes Store 服務條款。此應用程式即會自動下載與安裝。點擊"Open"以啟動該應用。
 
-**步驟 2:** 註冊與驗證手機門號 當看到像這樣的畫面時:[image](tool_signal1.png)請輸入手機門號並點擊"註冊" 為了驗證手機門號，你將透過簡訊收到一組6位數字的註冊碼；請在以下空格中填入這個代碼。如果一直沒收到 SMS 簡訊，另一個方式是透過接收語音電話來驗證電話號碼。點擊 "驗證"
+**步驟 2:** 註冊與驗證手機門號 當看到像這樣的畫面時:
+![image](tool_signal1.png)
+
+請輸入手機門號並點擊"註冊" 為了驗證手機門號，你將透過簡訊收到一組6位數字的註冊碼；請在以下空格中填入這個代碼。如果一直沒收到 SMS 簡訊，另一個方式是透過接收語音電話來驗證電話號碼。點擊 "驗證"
 
 ### 2.0 使用 Signal
 為了使用 Signal, 欲通話的對方也必須有安裝 Signal 或 RedPhone。如果使用 Signal 試著打電話給某人但他們的手機並未安裝 Signal 或 RedPhone，這時 Signal 會詢問你是否要透過 SMS 邀請對方安裝 Signal, 它無法讓你繼續在該應用程式下完成電話通訊。
