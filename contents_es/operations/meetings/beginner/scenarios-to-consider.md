@@ -1,6 +1,8 @@
 [Title]: # (Escenarios a considerar)
 [Order]: # (2)
 
+# Escenarios a considerar
+
 Hay una serie de escenarios y situaciones que deben pasar por su cabeza antes de ir a un encuentro. Algunas de éstas no suponen un riesgo adicional, pero es conveniente pensar en esto de antemano.
 
 *   Tienen que viajar a través de puestos de control? Si es así cuál será su excusa o coartada?
