@@ -5,7 +5,7 @@
 
 Hay un amplio rango de posibles síntomas de estrés negativo, y la gente difiere en lo que se refiere a los síntomas que exhiben.
 
-*   Los síntomas físicos pueden incluir:
+Los síntomas físicos pueden incluir:
     *   Extenuación
     *   Hiperactividad
     *   Dificultades para dormir o sueño excesivo
@@ -13,7 +13,8 @@ Hay un amplio rango de posibles síntomas de estrés negativo, y la gente difier
     *   Dolores de cabeza
     *   Presión sanguínea y pulsaciones elevadas
     *   Nauseas o vómitos
-*   Los síntomas conductuales pueden incluir:
+    
+Los síntomas conductuales pueden incluir:
     *   Evitar el contacto y las relaciones sociales genuinas
     *   Abuso de sustancias (cafeina/ alcohol/ drogas)
     *   Una serie de relaciones románticas/sexuales breves y casuales
@@ -21,7 +22,8 @@ Hay un amplio rango de posibles síntomas de estrés negativo, y la gente difier
     *   Síndrome de abstinencia
     *   Irritabilidad o tendencia constante a la disputa
     *   Agresión
-*   Los síntomas relativos al trabajo pueden incluir:
+    
+Los síntomas relativos al trabajo pueden incluir:
     *   Alargar mucho el horario de trabajo
     *   Retrasos y ausentismo
     *   Falta de concentración
@@ -31,7 +33,8 @@ Hay un amplio rango de posibles síntomas de estrés negativo, y la gente difier
     *   Deterioro en el juicio y el pensamiento lógico
     *   Reducción de la creatividad
     *   Deterioro de la comunicación
-*   Los efectos emocionales pueden incluir:
+    
+Los efectos emocionales pueden incluir:
     *   Baja moral
     *   Pesimismo y cinismo
     *   Ansiedad
