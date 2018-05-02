@@ -46,7 +46,7 @@ TrueCrypt提供了创建标准加密卷或隐藏卷的功能。任何一个都�
 
 **第1步。** 双击 _TrueCrypt安装程序7.1a.exe_ ; 可能会出现 _Open File  -  Security Warning_ 对话框。如果确实如此，请点击“下一步”以激活TrueCrypt _License_ 屏幕。
 
-**步骤2.** 检查我接受并同意接受_license terms_选项以启用接受按钮;点击 "Accept" 激活以下屏幕：
+**步骤2.** 检查我接受并同意接受 _license terms_ 选项以启用接受按钮;点击 "Accept" 激活以下屏幕：
 ![image](tool_truecrypt2.png)
 
 - 安装模式：此选项适用于不想隐藏使用TrueCrypt的用户他们的电脑。 
@@ -54,12 +54,12 @@ TrueCrypt提供了创建标准加密卷或隐藏卷的功能。任何一个都�
 
 **注意：** 当只提取TrueCrypt时，选项（例如整个分区和磁盘加密)将不起作用。
 
-**注意：** 尽管此处推荐使用默认的_Install_模式，但您以后仍然可以在便携模式下使用TrueCrypt。 
+**注意：** 尽管此处推荐使用默认的 _Install_ 模式，但您以后仍然可以在便携模式下使用TrueCrypt。 
 
 **第3步。点击** "下一步”激活以下屏幕：
 ![image](tool_truecrypt3.png)
 
-**第4步。** “以激活_Installing_屏幕开始在您的系统上安装TrueCrypt。
+**第4步。** “以激活 _Installing_ 屏幕开始在您的系统上安装TrueCrypt。
 
 **步骤5.** 单击”确定“，然后单击”完成“以激活以下屏幕：
 ![image](tool_truecrypt4。 png)
@@ -68,7 +68,7 @@ TrueCrypt提供了创建标准加密卷或隐藏卷的功能。任何一个都�
 
 ### 2.1关于TrueCrypt 
 
-TrueCrypt是一个通过防止没有正确密码的人访问文件来保护文件的程序。它的功能就像一个电子保险箱，让你锁定你的文件，只有拥有正确密码的人才能打开它们。 TrueCrypt通过让您在计算机上设置_volumes_或部分来安全地存储文件。当您在这些卷中创建数据或将数据移动到这些卷时，TrueCrypt将自动加密该信息。打开或取出文件时，会自动解密以供使用。这个过程称为_on-the-fly_加密。
+TrueCrypt是一个通过防止没有正确密码的人访问文件来保护文件的程序。它的功能就像一个电子保险箱，让你锁定你的文件，只有拥有正确密码的人才能打开它们。 TrueCrypt通过让您在计算机上设置 _volumes_ 或部分来安全地存储文件。当您在这些卷中创建数据或将数据移动到这些卷时，TrueCrypt将自动加密该信息。打开或取出文件时，会自动解密以供使用。这个过程称为 _on-the-fly_ 加密。
 
 ### 2.2如何创建标准卷
 
@@ -81,7 +81,7 @@ TrueCrypt是一个通过防止没有正确密码的人访问文件来保护文�
 **第2步。** 从TrueCrypt窗格的列表中选择一个驱动器，如下所示：
 ![image](tool_truecrypt5.png)
 
-**第3步。** 点击“Create Volume”激活_TrueCrypt卷创建向导_，如下所示：
+**第3步。** 点击“Create Volume”激活 _TrueCrypt卷创建向导_ ，如下所示：
 ![image](tool_truecrypt6.png)
 
 加密 _Standard Volume_ 
@@ -99,7 +99,7 @@ TrueCrypt是一个通过防止没有正确密码的人访问文件来保护文�
 **第6步。** 点击"下一步"激活以下屏幕：
 ![image](tool_truecrypt8.png)
 
-您可以在 _Volume Creation Wizard  -  Volume Location_ 屏幕中指定要存储 _Standard Volume_ 的位置。此文件可以像任何其他文件一样存储。
+您可以在 _Volume Creation Wizard - Volume Location_ 屏幕中指定要存储 _Standard Volume_ 的位置。此文件可以像任何其他文件一样存储。
 
 **第7步。** 将文件的名称输入到文本字段中，或者单击“选择文件”以激活以下屏幕：
 ![image](tool_truecrypt9.png)
@@ -115,7 +115,7 @@ TrueCrypt是一个通过防止没有正确密码的人访问文件来保护文�
 
 ### 2.3如何在USB记忆棒上创建标准音量
 
-要在USB记忆棒上创建TrueCrypt  _Standard Volume_ ，请执行第2.2节“如何创建标准卷”中的第1步到第7步，在该步骤中激活 _选择TrueCrypt卷_ 屏幕。选择 _My Documents_ 作为您的文件位置，而不是选择 **您的** USB记忆棒。然后 **输入** 一个文件名，并在那里创建 _Standard Volume_ 。
+要在USB记忆棒上创建TrueCrypt _Standard Volume_ ，请执行第2.2节“如何创建标准卷”中的第1步到第7步，在该步骤中激活 _选择TrueCrypt卷_ 屏幕。选择 _My Documents_ 作为您的文件位置，而不是选择 **您的** USB记忆棒。然后 **输入** 一个文件名，并在那里创建 _Standard Volume_ 。
 
 ### 2.4如何创建一个标准卷（续)
 
