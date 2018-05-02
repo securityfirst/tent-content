@@ -4,7 +4,6 @@
 ## 4. Los teléfonos se pueden usar para espiar al propietario
 
 Si un teléfono está infectado con el malware adecuado es posible que su micrófono o cámara sea activado de forma remota permitiendo a alguien escuchar o ver cualquier cosa que esté ocurriendo en la misma habitación que el teléfono. Esto puede ocurrir incluso cuando el teléfono parece estar apagado.
-
 ![image](mobile5.png)
 
 Como resultado, las personas que tengan un encuentro o conversación sensible a veces se le dice que apaguen sus teléfono y les extraigan la batería. Aunqeu esto asegurará que su teléfono no puede usarse para escucharle, también tiene su propia desventaja: si muchas personas en una ubicación apagan sus teléfonos al mismo tiempo, es un signo para los operadores móviles de que todos pensaban que algo les compensaba al apagar sus teléfonos, como una reunión sensible.
