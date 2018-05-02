@@ -1,6 +1,8 @@
 [Title]: # (Fase Cuatro - Evacuación)
 [Order]: # (3)
 
+# Fase Cuatro - Evacuación
+
 La evacuación, una vez iniciada, debe prevalecer sobre cualquier otra actividad. El personal nacional o contratistas puede continuar con las operaciones en la oficina si es apropiado o bien se puede suspender actividades por completo. Durante la evacuación, considere:
 
 *   Si hay riesgo de saqueo, desconectar o inhabilitar radios, equipo y vehículos así como desocupar y abrir todas las cajas fuertes.
