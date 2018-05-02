@@ -1,6 +1,8 @@
 [Title]: # (Fase Tres - Evacuación inmediata)
 [Order]: # (2)
 
+# Fase Tres - Evacuación inmediata
+
 Cuando la evacuación es inminente, por lo general la oficina debe suspender la mayoría de sus operaciones normales para concentrarse en los preparativos de evacuación. El personal que potencialmente debe ser evacuado puede ser reubicado en una zona segura preseleccionada o trabajar desde casa. Convoque o reubique al personal que trabaja fuera de las oficinas. El personal que esté fuera de la región debe permanecer en un lugar seguro y no regresar. El personal no esencial y sus familiares pueden ser evacuados. Las tareas durante esta fase, que puede durar semanas o sólo unas pocas horas, incluyen:
 
 *   Mantener a todo el personal plenamente informado
