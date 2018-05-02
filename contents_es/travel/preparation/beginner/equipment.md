@@ -11,4 +11,5 @@
     *   Cargador solar
     *   Libreta para anotaciones en las que pueda arrancar páginas sin dejar señales de ello
     *   Mosquitero y/o repelente para insectos
-*   ¿Garantizó que todo el equipo digital que lleva consigo (teléfonos, computadoras, dispositivos de memoria USB, etcétera) esta limpio y sin contener información sensible? Para más consejos sobre cómo hacer esto consulte la Lección sobre Protección de archivos
+    
+¿Garantizó que todo el equipo digital que lleva consigo (teléfonos, computadoras, dispositivos de memoria USB, etcétera) esta limpio y sin contener información sensible? Para más consejos sobre cómo hacer esto consulte la Lección sobre Protección de archivos
