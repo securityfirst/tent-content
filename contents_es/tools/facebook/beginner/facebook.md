@@ -15,7 +15,7 @@ Facebook ahora tiene una función-Búsqueda de gráficos-que ha sido la tema de 
 
 Ya que Facebook eliminó la posibilidad de retirarte de los resultados de búsqueda , la Electronic Frontier Foundation elaboró una guía práctica rápida para ayudarlo a tomar el control de lo que aparece en su perfil de Facebook y en los resultados de la búsqueda de gráficos, que hemos resumido a continuación. (Facebook también tiene un nuevo [video](https://www.youtube.com/watch?v=bSji6Y66aKo) explicando cómo controlar lo que aparece en Graph Search.)
 
-### Lo que es público en mi perfil?
+### ¿Lo que es público en mi perfil?
 
 Haga clic en el candado de la barra de menú superior, y debajo de "¿Quién puede ver mis cosas?", haga clic en "Ver como." Esto lo llevará a la vista pública de su perfil. Aquí puede ver exactamente qué información, fotos y publicaciones están disponibles para el público. Si hay algo que no desea que todo el universo de Facebook pueda ver, puede cambiar las configuraciones individuales para ocultar elementos particulares.
 ![Image](tool_facebook1.png)
