@@ -11,14 +11,18 @@ Atención y anonimato en línea para Android
 **Ubicación de descarga:**
 - Orbot: [https://guardianproject.info/apps/](https://guardianproject.info/apps/) o desde [Google Play](https://play.google.com/store/apps/details?id=org.torproject.android)
 - Orweb: [https://guardianproject.info/apps/](https://guardianproject.info/apps /) o desde [Google Play](https://market.android.com/details?id=info.guardianproject.browser)
+
 **Requisitos del teléfono:**
 - Android 2.3 y versiones posteriores (Android 1.6 y hasta para Orweb)
+
 **Versión utilizada en esta guía:**
 - Orbot: 14.0.4.3
 - Orweb: 0.6.1
+
 **Licencia:**
 - Orbot: Freeware - BSD
 - Orweb: Software gratuito y de código abierto (GPL v3)
+
 **Nivel:** Avanzado  
 **Tiempo requerido:** 30-40 minutos  
 
