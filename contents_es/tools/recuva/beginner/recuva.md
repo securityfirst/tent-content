@@ -14,9 +14,9 @@ Recuperación de datos y eliminación segura
 **Tiempo requerido:** 20 minutos.  
 
 **El uso de Recuva le dará:**
--La capacidad de realizar diferentes técnicas de escaneo 
--La capacidad de recuperar archivos previamente eliminados en su computadora, incluidos correos electrónicos, imágenes y videos 
--La capacidad de eliminar de forma segura información privada o confidencial 
+- La capacidad de realizar diferentes técnicas de escaneo 
+- La capacidad de recuperar archivos previamente eliminados en su computadora, incluidos correos electrónicos, imágenes y videos 
+- La capacidad de eliminar de forma segura información privada o confidencial 
 
 **Los usuarios de Mac OS podrían usar [TestDisk y PhotoRec](www.cgsecurity.org/), como alternativa, que también son compatibles con Microsoft Windows y GNU Linux.**
 
