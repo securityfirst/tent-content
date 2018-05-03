@@ -6,7 +6,8 @@
 ## K9 & APG Guía de herramientas
  Correo electrónico encriptado para Android
  
-**Lección para leer:** [Correo electrónico](umbrella://lesson/email)  
+**Lección para leer:** [Correo electrónico](umbrella://lesson/email)
+
 **Ubicación de descarga:**
 - **[Página de inicio de APG](http://www.thialfihar.org/projects/apg/)**
 - **[Página de inicio de K-9 Mail](https://code.google.com/p/k9mail)**
