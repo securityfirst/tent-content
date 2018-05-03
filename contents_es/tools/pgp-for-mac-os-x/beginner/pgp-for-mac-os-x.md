@@ -176,7 +176,7 @@ Haga clic en el botón de menú, desplace el mouse sobre Preferencias y seleccio
 
 Vaya a OpenPGP Security lengüeta. Asegúrese de que "Habilite el soporte de OpenPGP (Enigmail) para esta identidad" esté marcado. "Usar ID de clave de OpenPGP específico" debe seleccionarse, y si su clave no está ya seleccionada, puede hacer clic en "Seleccionar clave" para seleccionarla.
 
-También debe marcar "Firmar mensaje no cifrado por predeterminado","Firme mensajes cifrados de forma predeterminada" y "Usar PGP/MIME de forma predeterminada, "pero no(para la mayoría de la gente)" Cifre los mensajes por defecto."
+También debe marcar "Firmar mensaje no cifrado por predeterminado","Firme mensajes cifrados de forma predeterminada" y "Usar PGP/MIME de forma predeterminada, "pero no (para la mayoría de la gente)" Cifre los mensajes por defecto."
 
 Si la mayoría de las personas que el correo electrónico use PGP (o le gustaría animarlos a que lo hagan), es posible que desee encriptar de forma predeterminada. Sería ideal cifrar todos los correos electrónicos que envíe, pero eso no siempre es posible. Recuerde que solo puede enviar correos electrónicos cifrados a otras personas que usan PGP, y necesita tener sus claves públicas en su llavero. Para la mayoría de las personas, la elección manual de encriptar cada correo electrónico que envíe probablemente funcione mejor.
 ![image](tool_pgposx17.png)
@@ -186,5 +186,5 @@ A continuación, haga clic en "OK" para guardar todas las configuraciones.
 Felicitaciones, ¡ahora tienes configurados Thunderbird y Enigmail! Aquí hay un par de consejos rápidos:
 
 - Puede hacer clic en el botón de menú, colocar el puntero sobre OpenPGP y abrir Key Management para ver el administrador de claves de PGP que está incorporado en Enigmail. Es muy similar al acceso llavero GPG, y es tu elección la que utilizas.
-- Cuando redacta un mensaje nuevo, hay dos iconos en la esquina inferior derecha de la ventana: un lápiz(correo electrónico de firma digital) y una clave(cifra de correo electrónico). Si los íconos son dorados, significa que están seleccionados, y si son plateados significa que no están seleccionados. Haga clic en ellos para alternar la firma y el cifrado del correo electrónico que está escribiendo.
+- Cuando redacta un mensaje nuevo, hay dos iconos en la esquina inferior derecha de la ventana: un lápiz (correo electrónico de firma digital) y una clave (cifra de correo electrónico). Si los íconos son dorados, significa que están seleccionados, y si son plateados significa que no están seleccionados. Haga clic en ellos para alternar la firma y el cifrado del correo electrónico que está escribiendo.
 ![image](tool_pgposx18.png)
