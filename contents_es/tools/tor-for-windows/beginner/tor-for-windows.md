@@ -6,7 +6,7 @@
 Guía de herramientas de Tor para Windows  
 Anonimato y elusión en línea
 
-**Lección para leer:** [Internet](umbrella://lesson/the-internet) 
+**Lección para leer:** [Internet](umbrella://lesson/the-internet)  
 **Esta guía describe cómo usar el [Tor Browser Bundle](https://www.torproject.org/projects/torbrowser.html.en) en Windows.**  
 **Requisitos informáticos:** una conexión a Internet, una computadora con Windows   
 **Versión utilizada en esta guía:** Windows: Windows 7 Ultimate; Tor Browser Bundle: 3.6.2   
