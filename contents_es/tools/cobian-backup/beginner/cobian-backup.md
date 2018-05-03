@@ -132,7 +132,7 @@ Para que su copia de seguridad automática funcione, debe completar la sección 
 Para configurar las opciones de programación, realice los siguientes pasos:
 
 **Paso 1.** Seleccione "Programar" desde la barra lateral izquierda, para activar el siguiente panel:
-![image](tool_cobian7.png )
+![image](tool_cobian7.png)
 
 Las opciones _Esquema tipo_ se enumeran en el menú desplegable y se describen a continuación:
 
@@ -216,7 +216,7 @@ La ventana del descompresor aparece de la siguiente manera:
 
 **Paso 2.** Haga clic en el ícono de abrir archivo para abrir una ventana de exploración para permitirle seleccionar el archivo que desea descomprimir.
 
-**Paso 3.** Seleccione el archivo (_.zip_ o _ .7x_ file) y luego haga clic en "OK ".
+**Paso 3.** Seleccione el archivo (_.zip_ o _.7x_ file) y luego haga clic en "OK ".
 
 **Paso 4.** Seleccione un directorio en el cual desempaquetará (salida) el archivo archivado.
 
