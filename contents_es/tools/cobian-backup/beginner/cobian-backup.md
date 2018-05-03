@@ -183,7 +183,7 @@ Las siguientes opciones están disponibles para usted cuando haces clic en la li
 
 - 3,5": Disquete. Esta opción es lo suficientemente grande como para realizar una copia de seguridad de un pequeña cantidad de documentos
 - Zip: Zip Disk (verifique la capacidad del que está utilizando). Necesitará una unidad Zip especial en su computadora y los discos a medida
--CD-R-CD: (verifique la capacidad del que está usando). Necesitará un escritor de CD en su computadora y un programa de grabación de CD (consulte la versión [DeepBurner Free](http://www.deepburner.com/) u otras [herramientas de grabación en disco](http://www.thefreecountry.com/utilities/dvdcdburning.shtml)).
+- CD-R-CD: (verifique la capacidad del que está usando). Necesitará un escritor de CD en su computadora y un programa de grabación de CD (consulte la versión [DeepBurner Free](http://www.deepburner.com/) u otras [herramientas de grabación en disco](http://www.thefreecountry.com/utilities/dvdcdburning.shtml)).
 - DVD: Disco DVD (verifique la capacidad del que está usando). Necesitará un DVD Writer en su computadora y un DVD. Programa de escritura (vea la versión [DeepBurner Free](http://www.deepburner.com/) u otras [herramientas de grabación de disco](http://www.thefreecountry.com/utilities/dvdcdburning.shtml)).
 
 Si está realizando una copia de seguridad en varias tarjetas de memoria USB, es posible que desee t o establecer un tamaño personalizado.
