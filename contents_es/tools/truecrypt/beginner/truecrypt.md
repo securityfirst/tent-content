@@ -11,7 +11,7 @@ Almacenamiento seguro de archivos
 **Ubicación de descarga:** [https://truecrypt.ch/downloads/](https://truecrypt.ch/downloads/)  
 **Requisitos de la computadora:**
 - Una conexión a Internet, Windows 2000 / XP / 2003 / Vista / 7, Mac OS X o GNU Linux (Esta guía se ejecuta en Windows) 
-- Derechos de administrador necesarios para la instalación o para crear volúmenes pero no para acceder a volúmenes existentes 
+- Derechos de administrador necesarios para la instalación o para crear volúmenes pero no para acceder a volúmenes existentes  
 **Versión utilizada en esta guía:** 7.1a (La página web de desarrolladores ofrece una nueva versión 7.2 de TrueCrypt con algunas funcionalidades eliminadas. A pesar de esta nueva versión, le recomendamos que continúe usando la versión anterior 7.1a.)  
 **Licencia:** Gratis y de código abierto Software  
 **Nivel:** Avanzado  
