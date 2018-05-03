@@ -139,7 +139,7 @@ Para asegurarse de que ha recibido la clave pública GPG correcta para su colega
 **Paso 1:** Desde la ventana principal de **APG**, toque la entrada de su llave para llevarlo a la pantalla _info_ de su llave GPG. Su contacto debería hacer lo mismo y tocar la tecla que tienen para usted.
 ![image](tool_k914.png)
 
-**Paso 2:** Ubica la línea **Fingerprint** debajo del encabezado ** MASTER KEY ** y lee la cuerda larga de 40 caracteres una línea a la vez.
+**Paso 2:** Ubica la línea **Fingerprint** debajo del encabezado **MASTER KEY** y lee la cuerda larga de 40 caracteres una línea a la vez.
 ![image](tool_k915.png)
 
  **Paso 3:** Su contacto debe verificar que la huella dactilar que leyó sea la huella digital que se muestra para su llave en su teléfono o computadora.
@@ -154,11 +154,11 @@ El cifrado de mensajes en **APG** puede ser útil si desea almacenar notas cifra
 
 ### 1.2.1 Cifrado de mensajes - Clave pública
 
-**Paso 1:** Expande el menú lateral en cualquier pantalla ** APG ** presionando "APG" en la parte superior izquierda de tu pantalla.
+**Paso 1:** Expande el menú lateral en cualquier pantalla **APG** presionando "APG" en la parte superior izquierda de tu pantalla.
 
 **Paso 2:** Seleccione "Encriptar" para que aparezca la pantalla de encriptación.
 
-**Paso 3:** Para ver la lista de posibles destinatarios, presione el botón "Seleccionar" con el icono de la persona. ** Nota:** Si desea poder descifrar el mensaje en otro momento, deberá recordar incluirse en la lista de destinatarios.
+**Paso 3:** Para ver la lista de posibles destinatarios, presione el botón "Seleccionar" con el icono de la persona. **Nota:** Si desea poder descifrar el mensaje en otro momento, deberá recordar incluirse en la lista de destinatarios.
 
 **Paso 4:** En la pantalla de selección de destinatarios, marque todas las personas que necesitan descifrar el mensaje y presione "Aceptar".
 ![image](tool_k916.png)
@@ -171,7 +171,7 @@ El cifrado de mensajes en **APG** puede ser útil si desea almacenar notas cifra
 
 **Paso 2:** Seleccione "Encriptar" para que aparezca la pantalla de encriptación.
 
-**Paso 3:** Presione el botones a ambos lados de **CLAVE PUBLICA** para cambiar el tipo de encriptación a PASAPRASE.
+**Paso 3:** Presione el botones a ambos lados de **CLAVE PUBLICA** para cambiar el tipo de encriptación a _PassPhrase_.
 
 **Paso 4:** Ingrese una contraseña segura en los campos provistos.
 
@@ -272,7 +272,7 @@ Al igual que con el cifrado de mensajes, la clave pública es el método de cifr
 
 **Nota:** Antes de comenzar a utilizar el Correo K-9, deberá tener una cuenta de correo electrónico, como Gmail, que admita conexiones seguras POP3 o IMAP.
 
-**Paso 1.** En su dispositivo Android, **descargue** y **instale** la aplicación en la [tienda Google Play aquí](https://play.google.com/store/apps/details? id = com.fsck.k9) almacenar tocando "Instalar".
+**Paso 1.** En su dispositivo Android, **descargue** y **instale** la aplicación en la [tienda Google Play aquí](https://play.google.com/store/apps/details?id=com.fsck.k9) almacenar tocando "Instalar".
 ![image](tool_k928.png)
 
 **Paso 2.** Antes de que comience el proceso de instalación, se le pedirá que revise el acceso que la aplicación tendrá en su teléfono. Revisa esto cuidadosamente. Una vez que esté satisfecho con los permisos que se le otorgarán, toque "Aceptar" y la instalación se completará. Si no está de acuerdo con los permisos que se otorgarán, toque el botón Atrás y la instalación se cancelará.
