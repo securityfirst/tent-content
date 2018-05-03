@@ -27,7 +27,7 @@ Aunque utiliza números de teléfono como contactos, las llamadas realmente usan
 
 **Paso 1:** Descargar e instalar Signal Private Messenger
 
-En su dispositivo iOS, ingrese a App Store y busque "Signal". Seleccione la aplicación Signal Private Messenger for Open Whisper Systems.
+En su dispositivo iOS, ingrese a App Store y busque "Signal". Seleccione la aplicación Signal Private Messenger par Open Whisper Systems.
 
 Haga clic para descargar la aplicación y acepte los Términos y condiciones de iTunes Store seleccionando "Aceptar". La aplicación se descargará e instalará automáticamente. Haga clic en "Abrir" para iniciar la aplicación.
 
