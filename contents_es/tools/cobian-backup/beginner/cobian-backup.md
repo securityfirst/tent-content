@@ -136,19 +136,19 @@ Para configurar las opciones de programación, realice los siguientes pasos:
 
 Las opciones _Esquema tipo_ se enumeran en el menú desplegable y se describen a continuación:
 
-_Una vez:_ La copia de seguridad se realizará una sola vez en la fecha y hora especificadas en el área _Fecha/Hora_.
+_Once:_ La copia de seguridad se realizará una sola vez en la fecha y hora especificadas en el área _Fecha/Hora_.
 
 _Daily:_ La copia de seguridad se realizará todos los días a la hora especificada en el área _Date/Time_.
 
 _Weekly:_ La copia de seguridad se realizará los días de la semana seleccionada. En el ejemplo anterior, la copia de seguridad se realizará los viernes. También puede seleccionar otros días. La copia de seguridad se realizará en todos los días seleccionados en el momento especificado en el área _Fecha/Hora_.
 
-_Mesimo:_ La copia de seguridad se realizará los días ingresados en el cuadro de días del mes a la hora especificada en _Fecha/Time_ area.
+_Monthly:_ La copia de seguridad se realizará los días ingresados en el cuadro de días del mes a la hora especificada en _Fecha/Time_ area.
 
 _Yearly:_ La copia de seguridad se realizará los días ingresados en el cuadro de días del mes, durante el mes especificado, y en el momento especificado en el área _Date/Time_.
 
 _Timer:_ The la copia de seguridad se realizará repetidamente a los intervalos especificados en el cuadro de texto del Temporizador en el área _Fecha/Hora_.
 
-_Manualmente:_ Deberá ejecutar la copia de seguridad usted mismo desde la ventana principal del programa.
+_Manually:_ Deberá ejecutar la copia de seguridad usted mismo desde la ventana principal del programa.
 
 **Paso 2.** Haga clic en "Aceptar" para confirmar las opciones y configuraciones para la programación de la copia de seguridad de la siguiente manera:
 ![Image](tool_cobian8.png)
@@ -195,7 +195,7 @@ Para ello, realice los siguientes pasos:
 Para darle una idea de los tamaños
 - 1KB (kilobyte) = 1024 bytes, un documento de texto de una página hecho en Open Office es aproximadamente 20kb
 - 1MB (megabyte) = 1024 KB - una foto tomada en una cámara digital es generalmente entre 1 - 3 MB
-- 1 GB (gigabyte) = 1024 MB - aproximadamente media hora de una película de calidad DVD
+- 1GB (gigabyte) = 1024 MB - aproximadamente media hora de una película de calidad DVD
 
 **Nota:** Cuando elija un tamaño personalizado para dividir su copia de seguridad un disco CD o DVD, Cobian Backup no copiará la copia de seguridad automáticamente en su dispositivo extraíble. Más bien, creará su archivo en esos archivos en la computadora y tendrá que grabarlos en el disco de CD o DVD usted mismo.
 
