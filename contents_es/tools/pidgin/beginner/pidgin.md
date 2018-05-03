@@ -238,10 +238,11 @@ Ingrese la pregunta que desea formular. No lo hagas tan simple que alguien pueda
 **Las respuestas deben coincidir exactamente; así que tenlo en cuenta al elegir una respuesta a tu pregunta. Las mayúsculas importan, por lo que podría considerar incluir una nota como (por ejemplo: use letras mayúsculas, minúsculas).**
 
 Ingrese la pregunta y la respuesta, luego haga clic en el botón "Autenticar".
-![image](tool_pidgin36 .png)
+![image](tool_pidgin36.png)
 
 Tu amigo tendrá una ventana abierta con la pregunta que se muestra pidiendo la respuesta. Tendrán que responder y hacer clic en el botón "Autenticar". Luego, recibirán un mensaje que les informará si la autenticación fue exitosa.
-![image](tool_pidgin37.png)![image](tool_pidgin38.png)
+![image](tool_pidgin37.png)
+![image](tool_pidgin38.png)
 
 Una vez que su amigo haya completado el procedimiento de autenticación, obtendrá una ventana que le permite saber que la autenticación fue exitosa.
 ![image](tool_pidgin39.png)
