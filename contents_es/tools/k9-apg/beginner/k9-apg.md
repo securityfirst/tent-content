@@ -26,7 +26,8 @@ Correo electrónico encriptado para Android
 
 **Otra lectura:**
 - [Contraseñas](umbrella://lesson/passwords)  
-- [Teléfonos móviles](umbrella://lesson/mobile-phones)   
+- [Teléfonos móviles](umbrella://lesson/mobile-phones)
+
 **Nivel:** Avanzado  
 **Tiempo requerido:** 30-40 minutos  
 
