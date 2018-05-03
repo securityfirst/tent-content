@@ -166,7 +166,7 @@ Tus cambios entrarán en vigencia después reinicia Jitsi.
 
 **Paso 2.** Eliminar toda la carpeta del historial de registros _history_ver1.0_ de la carpeta del perfil de usuario de Jitsi. Puede eliminar una subcarpeta de _history_ver1.0_ si desea deshacerse solo de parte del historial. La ubicación de las carpetas _user profile_ y _log history_ depende del sistema operativo:
 
-- En Windows XP y versiones anteriores, esta se encuentra en _C:\Documents and Settings\&lt;Windows login/user name&gt;\Application Data\Jitsi\history_ver1.0_
+- En Windows XP y versiones anteriores, esta se encuentra en _C:\Documents and Settings\Windows login/user name\Application Data\Jitsi\history_ver1.0_
 - En Windows Vista, 7, 8, esto es _C:\Users\Windows login/user name\AppData\Roaming\Jitsi\history_ver1.0_
 - Mac OS X: desde su carpeta de inicio _~/Library/Application Support/Jitsi/history_ver1.0_
 - Linux: desde su carpeta de inicio _~/.jitsi/history_ver1.0_
