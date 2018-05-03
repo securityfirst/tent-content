@@ -3,4 +3,4 @@
 
 # TrueCrypt
 
-A FOSS file encryption tool that allows you to store sensitive information securely
+Una herramienta de cifrado de archivos FOSS que le permite almacenar información confidencial de forma segura
