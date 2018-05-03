@@ -14,7 +14,7 @@ Mensajería instantánea cifrada para Windows
 **Requisitos de la computadora:** Una conexión a Internet, una computadora con Windows XP o superior y una cuenta XMPP (Jabber). _(Pidgin puede trabajar con muchos sistemas de chat, como AIM, Facebook, Google Talk, MSN, MXit y Yahoo, pero aquí nos centraremos en XMPP, anteriormente conocido como Jabber)_  
 **Versión utilizada en esta guía:**
 - Windows 7 Ultimate
--Pidgin 2.10.9, pidgin-otr 4.0.0-1
+- Pidgin 2.10.9, pidgin-otr 4.0.0-1
 
 **Licencia:** Software libre; combinación de licencias de Software Libre  
 **Nivel:** Principiante  
