@@ -98,7 +98,7 @@ La interfaz de usuario Piriform Recuva enumera información sobre cada archivo e
 
 **Nombre de archivo:** Muestra el nombre y la extensión de archivo del archivo eliminado. Haga clic en el título _Nombre de archivo para organizar los archivos eliminados en orden alfabético._
 
-**Ruta:** Esto muestra dónde se encontró el archivo eliminado. Dado que la opción _En la Papelera de reciclaje se habilitó en este ejemplo, la ruta del archivo es C: RECYCLER para todos los archivos eliminados. Haga clic en el título _Ruta_ para ver todos los archivos enumerados en un directorio o ruta de archivo en particular.
+**Ruta:** Esto muestra dónde se encontró el archivo eliminado. Dado que la opción _En la Papelera de reciclaje_ se habilitó en este ejemplo, la ruta del archivo es _C:\RECYCLER_ para todos los archivos eliminados. Haga clic en el título _Ruta_ para ver todos los archivos enumerados en un directorio o ruta de archivo en particular.
 
 **Última modificación:** Muestra la última vez que se realizó el archivo modificado antes de su eliminación, y puede ser útil para ayudar a identificar el archivo que desea recuperar. Haga clic en _Última modificación_ para mostrar los archivos eliminados según el formato más antiguo o más reciente.
 
@@ -245,7 +245,7 @@ Recuva ofrece diferentes opciones para seleccionar los documentos, archivos o ca
 
 **La comprobación** generalmente se usa para seleccionar rápidamente varios archivos no contiguos o separados para recuperación o sobrescritura segura. 
 
-**Resaltar** generalmente se utiliza para seleccionar rápidamente múltiples archivos contiguos en un bloque o grupo para recuperación o sobreescritura segura.**
+**Resaltar** generalmente se utiliza para seleccionar rápidamente múltiples archivos contiguos en un bloque o grupo para recuperación o sobreescritura segura.
 
 Haga clic derecho en un archivo eliminado que se muestra en Recuva para activar el siguiente Menú emergente: 
 ![image](tool_recuva21.png)
