@@ -30,7 +30,7 @@ Mensajería instantánea cifrada para Windows
 
 Pidgin es un cliente de mensajería instantánea fácil de usar para Windows que usa un protocolo llamado OTR (Off-the-record), que permite a los usuarios mantener conversaciones confidenciales.
 
-- **Nota:** OTR no debe confundirse con "Off the record" de Google, que solo deshabilita el registro de chat, y no tiene capacidades de cifrado o verificación.
+**Nota:** OTR no debe confundirse con "Off the record" de Google, que solo deshabilita el registro de chat, y no tiene capacidades de cifrado o verificación.
 -Pidgin admite los siguientes servicios de mensajería instantánea: AIM, Bonjour, Gadu-Gadu, Google Talk, Groupwise, ICQ, IRC, MSN, MXit, MySpaceIM, SILC, SIMPLE, Sametime, Yahoo !, Zephyr y cualquier cliente de mensajería instantánea que ejecute XMPP protocolo de mensajes.
 - Pidgin no permite la comunicación entre diferentes servicios de mensajería instantánea. Por ejemplo, si está usando Pidgin para acceder a su cuenta de Google Talk, no podrá chatear con un amigo usando una cuenta ICQ.
 - Sin embargo, Pidgin puede configurarse para administrar varias cuentas según cualquiera de los protocolos de mensajería compatibles. Es decir, puede usar simultáneamente cuentas de Gmail e ICQ, y chatear con corresponsales usando cualquiera de esos servicios específicos (que son compatibles con Pidgin).
