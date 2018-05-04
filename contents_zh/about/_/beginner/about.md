@@ -18,6 +18,6 @@ Security First也提供真實世界或數位世界的安全訓練給倡議者、
 * Vesna Planko -> 設計東西
 * Adam Schakaki ->修東西
 
-[Licences](umbrella://licences/) 
+[凭照](umbrella://licences/) 
 
-[Thank you](umbrella://thankyou/)
+[谢谢](umbrella://thankyou/)
