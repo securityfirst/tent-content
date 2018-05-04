@@ -5,7 +5,7 @@ Unfortunately, PGP has a reputation for being difficult to understand, or use. T
 
 For detailed instructions on how to install and use PGP encryption for your email, see:
 
-*	[Mailvelope (PGP for webmail)] (umbrella://lesson/mailvelope)
+*	[Mailvelope (PGP for webmail)](umbrella://lesson/mailvelope)
 *   [PGP for Mac OS](umbrella://lesson/pgp-for-mac-os-x)
 *   [PGP for Windows](umbrella://lesson/pgp-for-windows)
 *   [PGP for Linux](umbrella://lesson/pgp-for-linux)
