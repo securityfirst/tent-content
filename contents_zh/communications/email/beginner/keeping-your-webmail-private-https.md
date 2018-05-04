@@ -11,7 +11,7 @@ HTTPS, (同時可參考 SSL or TLS), 加密你的通訊內容因此同一網路�
 
 大多數的電子郵件服務商提供透過瀏覧器如Firefox or Chrome，在網頁上讀取郵件. 這些電郵服務, 多半也有支援HTTPS。你應該在登入帳號讀取或傳送郵件前，先確定你的連線是安全。電郵服務商是否提供HTTPS支援可從你登入頁面的網址來判斷：你的網址以HTTPS為開頭而非HTTP (例如: https://mail.google.com)
 
-如果你的電子郵件提供商支援 HTTPS,但未把它設為預設，試著作調整它以取代HTTP，然後再重整頁面. 如果你希望確保你隨時都是透過 HTTPS造訪有此加密保護的網站， 可以安裝下載[HTTPS Everywhere](https://www.eff.org/https-everywhere)查看Firefox or Chrome瀏覧器上的外掛.</p><p>網頁郵件預設使用HTTPS包括Gmail, RiseUp 以及Yahoo
+如果你的電子郵件提供商支援 HTTPS,但未把它設為預設，試著作調整它以取代HTTP，然後再重整頁面. 如果你希望確保你隨時都是透過 HTTPS造訪有此加密保護的網站， 可以安裝下載[HTTPS Everywhere](https://www.eff.org/https-everywhere)查看Firefox or Chrome瀏覧器上的外掛. 網頁郵件預設使用HTTPS包括Gmail, RiseUp 以及Yahoo.
 
 有些網頁郵件提供商，如Hotmail則是讓你可以在設定選單上決定是否使用HTTPS
 
