@@ -3,7 +3,7 @@
 
 # Que faire si votre courriel est piraté
 
-Dans de telles situations, il serait bon de prendre quelques précautions :
+Dans de telles situations, il serait bon de prendre quelques précautions:
 
 * **N'utilisez plus ce compte pour l’échange d’informations délicates**, au moins jusqu’à ce que vous compreniez mieux la situation.
 * **Changez dès que possible votre mot de passe** pour ce compte et tous les autres qui utilisent le même mot de passe.
