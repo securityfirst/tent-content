@@ -7,11 +7,11 @@
 [初級者課程](umbrella://lesson/email/0)
 
 ### 相關的課程工具
-* [Internet lesson](umbrella://lesson/the-internet)
-* [PGP for Mac OSX tool](umbrella://lesson/pgp-for-mac-os-x)
-* [PGP for Windows tool](umbrella://lesson/pgp-for-windows
-* [PGP for Linux tool](umbrella://lesson/pgp-for-linux)
-* [K9 \u0026 APG tool](umbrella://lesson/k9-\u0026-apg
+* [互联网课程](umbrella://lesson/the-internet)
+* [PGP for Mac OSX工具](umbrella://lesson/pgp-for-mac-os-x)
+* [PGP for Windows工具](umbrella://lesson/pgp-for-windows)
+* [PGP for Linux工具](umbrella://lesson/pgp-for-linux)
+* [K9 \u0026 APG工具](umbrella://lesson/k9-\u0026-apg)
 
 ### 進階閱讀材料
-* [EFF - Public key cryptography and PGP](https://ssd.eff.org/en/module/introduction-public-key-cryptography-and-pgp)
+* [EFF - 公钥加密和PGP](https://ssd.eff.org/en/module/introduction-public-key-cryptography-and-pgp)
