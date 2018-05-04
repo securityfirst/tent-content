@@ -3,4 +3,4 @@
 
 # Blacklist
 
-A list of blocked websites and other Internet services that can not be accessed due to a restrictive filtering policy
+Список заблокированных веб-сайтов и других интернет-сервисов, к которым невозможно получить доступ из-за ограничительной политики фильтрации
