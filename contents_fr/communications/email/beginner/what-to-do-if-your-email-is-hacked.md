@@ -16,4 +16,5 @@ Dans de telles situations, il serait bon de prendre quelques précautions :
 * **Songez à signaler le piratage** de votre compte à votre fournisseur de services de courriel.
 * **Pensez à utiliser un compte plus sécurisé**, par exemple un compte qui vous signale et empêche l’accès de lieux ou d’appareils inhabituels. Pensez à utiliser un compte qui est hébergé en dehors de votre pays. Pensez à utiliser le chiffrement pour vos courriels, p.ex. PGP (section Avancé de cette leçon).
 * **Envisagez de ne pas enregistrer les courriels lus.**
+
 Il est important d’agir rapidement et avec précision dans une telle situation. Il pourrait vous être utile d’avoir un plan préparé et répété.
