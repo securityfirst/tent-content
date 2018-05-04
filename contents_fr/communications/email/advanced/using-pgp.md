@@ -7,7 +7,6 @@ Pour des instructions détaillées sur l’installation et l’utilisation du ch
 
 * [Comment utiliser PGP pour macOS](umbrella://lesson/pgp-for-mac-os-x)
 * [Comment utiliser PGP pour Windows](umbrella://lesson/pgp-for-windows)
-* [Comment utiliser PGP pour Linux](umbrella://lesson/pgp-for-linux
-
+* [Comment utiliser PGP pour Linux](umbrella://lesson/pgp-for-linux)
 
 Il pourrait sembler risqué d’enregistrer votre clé privée de chiffrement sur votre appareil mobile, mais l’avantage de pouvoir envoyer et enregistrer en toute sécurité des courriels chiffrés sur votre appareil mobile l’emporte sur les risques. Apprenez-en davantage sur l’installation et l’utilisation du chiffrement des courriels sur votre téléphone intelligent dans le [Guide K9 et APG](umbrella://lesson/k9-\u0026-apg).
