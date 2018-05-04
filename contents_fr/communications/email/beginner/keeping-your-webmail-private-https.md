@@ -11,7 +11,7 @@ HTTPS (aussi connu en tant que SSL ou TLS) chiffre vos communications afin qu’
 
 La plupart des fournisseurs de services de courriel vous permettent d’accéder à votre courriel en utilisant un navigateur Web tel que Firefox ou Chrome. De ces fournisseurs, la plupart offrent la prise en charge de HTTPS. Vous devriez toujours vous assurer que votre connexion est sécurisée avant de vous connecter, de lire vos courriels, ou d’en envoyer. Vous pouvez déterminer si votre fournisseur de services de courriels prend en charge HTTPS si, après vous êtes connecté à votre courriel Web, l’URL en haut de votre navigateur commence par les lettres HTTPS au lieu de HTTP (par exemple: https://mail.google.com).
 
-Si votre fournisseur de services de courriel prend en charge HTTPS, mais ne le fait pas par défaut, essayez de remplacer HTTP par HTTPS dans l’URL et actualisez la page. Si vous souhaitez vous assurer de toujours utiliser HTTPS sur les sites qui le prennent en charge, téléchargez l’extension de navigateur [«HTTPS Everywhere»](https://www.eff.org/https-everywhere) pour Firefox et Chrome.
+Si votre fournisseur de services de courriel prend en charge HTTPS, mais ne le fait pas par défaut, essayez de remplacer HTTP par HTTPS dans l’URL et actualisez la page. Si vous souhaitez vous assurer de toujours utiliser HTTPS sur les sites qui le prennent en charge, téléchargez l’extension de navigateur [HTTPS Everywhere](https://www.eff.org/https-everywhere) pour Firefox et Chrome.
 
 Les fournisseurs de services de courriel Web qui utilisent HTTPS par défaut incluent Gmail, RiseUp et Yahoo.
 
