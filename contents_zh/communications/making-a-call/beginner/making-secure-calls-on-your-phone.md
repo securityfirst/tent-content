@@ -5,7 +5,7 @@
 
 ## Signal
 
-Signal是一個免費、開源的工具提供端對端之間加密的語音通話與簡訊安全傳送。它可以運行在Androids與iPhones，取代之前的android應用程式Redphone。( RedPhone 的舊用戶將會彈出一個要求安裝Signal取代更新的訊息。如果你已安裝了Signal installed, 就可以移除RedPhone. 因為後者不再進行維護。)
+Signal是一個免費、開源的工具提供端對端之間加密的語音通話與簡訊安全傳送。它可以運行在Androids與iPhones，取代之前的android應用程式Redphone。( RedPhone 的舊用戶將會彈出一個要求安裝Signal取代更新的訊息。如果你已安裝了Signal installed, 就可以移除RedPhone. 因為後者不再進行維護)。
 
 Signal 目前整合了安全簡訊的應用程式Textsecure，這表示你只是簡單地安裝它就可以同時達到安全通話與簡訊傳送的保護作用，但前提是對方也有使用Signal。
 
