@@ -1,4 +1,4 @@
 [Title]: # (О приложении)
 [Order]: # (0)
 
-Some of the technical terms that you will encounter, as you read through Umbrella's lessons, are defined below:
+Ниже перечислены некоторые технические термины, с которыми вы столкнетесь, когда вы читаете уроки Umbrella:
