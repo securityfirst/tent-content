@@ -1,6 +1,6 @@
 [Title]: # (Explorador Web)
 [Order]: # (132)
 
-# Web browser
+# Navegador web 
 
-The program you use to view web sites. Firefox, Safari, Internet Explorer and Chrome are all web browsers. Smartphones have a built-in web browser app for the same purpose
+El programa que usa para ver sitios web. Firefox, Safari, Internet Explorer y Chrome son todos navegadores web. Los teléfonos inteligentes tienen una aplicación de navegador web incorporada para el mismo propósito

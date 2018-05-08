@@ -1,6 +1,8 @@
 [Title]: # (Enfrentando la violencia)
 [Order]: # (8)
 
+# Enfrentando la violencia
+
 La violencia en medio de la multitud puede incluir acoso físico, residuos lanzados, bombas de gasolina, fuego, uso de armas o gases lacrimógenos. Para mitigar estos peligros, debe tomar todas las precauciones indicadas en la lección "Enfrentando la multitud" y las que siguen a continuación:
 
 *   Use ropa protectora adecuada, por ejemplo, fibras naturales que sean retardantes del fuego.

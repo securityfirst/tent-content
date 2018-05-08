@@ -1,6 +1,6 @@
 [Title]: # (Tarjeta SIM)
 [Order]: # (109)
 
-# SIM card
+# Tarjeta SIM 
 
-A small, removable card that can be inserted into a mobile phone in order to provide service with a particular mobile phone company. SIM cards can also store phone numbers and text messages.
+Una tarjeta pequeña y extraíble que se puede insertar en un teléfono móvil para proporcionar servicio a una empresa de telefonía móvil en particular. Las tarjetas SIM también pueden almacenar números de teléfono y mensajes de texto.

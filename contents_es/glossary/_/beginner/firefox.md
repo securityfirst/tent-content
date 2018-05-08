@@ -3,4 +3,4 @@
 
 # Firefox
 
-A popular FOSS Web browser that provides an alternative to Microsoft Internet Explorer
+Un popular navegador web FOSS que proporciona una alternativa a Microsoft Internet Explorer

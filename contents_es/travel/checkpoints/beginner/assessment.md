@@ -14,4 +14,4 @@ Los puestos de control en los cruces, puentes, puertos de montaña y las entrada
 
 Si sospecha que hay un riesgo de violencia u otros problemas graves, es mejor dar la vuelta o conducir de manera constante, si es seguro hacerlo.
 
-Antes de acercarse o alejarse de un puesto de control, es bueno informarse de la base por radio. Hacerlo de una manera discreta, lo suficientemente lejos del punto de control para evitar que ellos le vean que está utilizando la radio
+Antes de acercarse o alejarse de un puesto de control, es bueno informarse de la base por radio. Hacerlo de una manera discreta, lo suficientemente lejos del punto de control para evitar que ellos le vean que está utilizando la radio.

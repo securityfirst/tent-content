@@ -1,6 +1,6 @@
 [Title]: # (Contraseña maestra)
 [Order]: # (75)
 
-# Master password
+# Contraseña maestra
 
-A password used to unlock a store of other passwords or other ways to unlock programs or messages. You should make a master password as strong as you can.
+Una contraseña utilizada para desbloquear una tienda de otras contraseñas u otras formas de desbloquear programas o mensajes. Debe hacer una contraseña maestra lo más fuerte que pueda.

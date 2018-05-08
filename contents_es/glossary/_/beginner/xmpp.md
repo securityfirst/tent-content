@@ -1,6 +1,6 @@
 [Title]: # (XMPP)
 [Order]: # (137)
 
-# XMPP
+# XMPP 
 
-An open standard for instant messages - Google uses XMPP for Google Chat; Facebook used to offer it, but stopped. Non-corporate independent instant messaging services will usually use XMPP. Services like WhatsApp have their own, closed and secret protocol.
+Un estándar abierto para mensajes instantáneos: Google usa XMPP para Google Chat; Facebook solía ofrecerlo, pero se detuvo. Los servicios de mensajería instantánea independientes no corporativos usualmente usarán XMPP. Los servicios como WhatsApp tienen su propio protocolo cerrado y secreto.

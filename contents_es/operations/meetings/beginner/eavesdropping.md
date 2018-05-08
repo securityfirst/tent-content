@@ -1,6 +1,8 @@
 [Title]: # (Espionaje)
 [Order]: # (5)
 
+# Espionaje
+
 Desafortunadamente los equipos de escucha son muy baratos, estan disponibles con facilidad y son efectivos. Es muy, muy difícil de encontrar equipos de escucha que se han plantado para escucharle a usted, muchos se parecen a artículos electrónicos ordinarios. En algunos países, muchos hoteles de alto perfil son blancos para la escucha regular debido a la frecuente presencia de personas de negocios, diplomáticos, ONG's, etc.
 
 La mejor táctica para evitar este tipo de dispositivos es ser impredecible y cambiar de lugar con frecuencia si estás en un viaje de alto riesgo y con la necesidad de evitar vigilancia. Se debe ser muy cuidadoso y evitar la realización de actividades sensibles en lugares fijos (tales como la oficina de un socio o una habitación de hotel) durante demasiado tiempo o de forma repetitiva. Debe limitar el suministro de información por adelantado (por ejemplo, de cuáles habitaciones serán utilizadas para conferencias en hoteles específicos). Esto es también es útil ya que reduce el tiempo en que una organización hostil tiene para plantar un dispositivo de escucha. Reunirse al aire libre, fuera de edificios o locales también puede ser un buen lugar para discutir asuntos sensibles. Asegúrese de que no esté bajo vigilancia.

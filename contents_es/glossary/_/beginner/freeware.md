@@ -3,4 +3,4 @@
 
 # Freeware
 
-Includes software that is free of charge but subject to legal or technical restrictions that prevent users from accessing the source code used to create it
+Incluye software que es gratuito pero está sujeto a restricciones legales o técnicas que impiden a los usuarios acceder al código fuente utilizado para crearlo

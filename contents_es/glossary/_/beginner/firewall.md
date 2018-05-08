@@ -3,4 +3,4 @@
 
 # Firewall
 
-A tool that protects your computer from untrusted connections to or from local networks and the Internet
+Una herramienta que protege su computadora contra conexiones no confiables hacia o desde redes locales e Internet

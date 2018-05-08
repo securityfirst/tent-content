@@ -1,6 +1,6 @@
-[Title]: # (Borrado)
+[Title]: # (Borrando)
 [Order]: # (136)
 
-# Wiping
+# Wiping 
 
-The process of deleting information securely and permanently
+El proceso de eliminar información de forma segura y permanente

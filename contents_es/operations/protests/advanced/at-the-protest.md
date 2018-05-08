@@ -1,6 +1,8 @@
 [Title]: # (En la protesta)
 [Order]: # (4)
 
+# En la protesta
+
 Una vez que esté en la protesta, tenga en cuenta que la policía puede realizar el seguimiento de las comunicaciones en la zona. Es posible que desee cifrar sus mensajes utilizando TextSecure (Android) o Signal (iPhones), o cifrar sus llamadas telefónicas usando RedPhone (Android) o, de nuevo, Signal (iPhones). Todas estas aplicaciones son compatibles. Puede leer más esto en las lecciones de envío de mensajes o hacer llamadas
 
 Por favor, recuerde que incluso si se cifran sus comunicaciones, los metadatos; esto significa que su teléfono móvil aún brindará su ubicación e información como con quien está hablando y por cuánto tiempo.

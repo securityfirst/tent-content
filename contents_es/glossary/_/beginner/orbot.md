@@ -1,6 +1,6 @@
 [Title]: # (Orbot)
 [Order]: # (83)
 
-# Orbot
+# Orbot 
 
-A FOSS app for Android smartphones that enables apps such as Orweb and Gibberbot to connect to the Tor network.
+Una aplicación FOSS para teléfonos inteligentes Android que permite que aplicaciones como Orweb y Gibberbot se conecten a la red Tor.

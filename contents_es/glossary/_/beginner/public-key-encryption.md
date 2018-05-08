@@ -1,6 +1,6 @@
 [Title]: # (Cifrado de llave pública)
 [Order]: # (96)
 
-# Public key encryption
+# Cifrado de clave pública 
 
-Traditional encryption systems use the same secret, or key, to encrypt and decrypt a message. So if I encrypted a file with the password "bluetonicmonster", you would need both the file and the secret "bluetonicmonster" to decode it. Public key encryption uses two keys: one to encrypt, and other to decrypt. This has all kinds of useful consequences. For one, it means that you can hand out the key to encrypt messages to you, and as long as you keep the other key secret, anyone with that key can talk to you securely. The key you hand out widely is known as the "public key": hence the name of the technique. Public key encryption is used to encrypt email and files by Pretty Good Privacy  (PGP), OTR for instant messaging, and SSL/TLS for web browsing.
+Los sistemas de cifrado tradicionales usan el mismo secreto o clave para cifrar y descifrar un mensaje. Entonces, si encriptara un archivo con la contraseña "bluetonicmonster", necesitaría tanto el archivo como el secreto "bluetonicmonster" para decodificarlo. El cifrado de clave pública utiliza dos claves: una para encriptar y otra para descifrar. Esto tiene todo tipo de consecuencias útiles. Por un lado, significa que puede entregar la clave para cifrar los mensajes para usted, y siempre que mantenga la otra clave en secreto, cualquier persona con esa clave puede hablar con usted de forma segura. La clave que distribuye ampliamente se conoce como "clave pública": de ahí el nombre de la técnica. El cifrado de clave pública se utiliza para cifrar correos electrónicos y archivos mediante Pretty Good Privacy (PGP), OTR para mensajería instantánea y SSL / TLS para navegación web.

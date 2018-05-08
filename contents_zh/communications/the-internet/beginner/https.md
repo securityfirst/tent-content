@@ -8,4 +8,4 @@ HTTPS 是HTTP 通訊協議的安全版本。有時候審查者只會封鎖網站
 
 如果你懷疑有這類簡單的封鎖,試試在網址列打入 https:// 取代 http://。
 
-試試電子前哨基金會 EFF的[HTTPS Everywhere]("https://www.eff.org/https-everywhere)這是一個瀏覧器外掛可以自動地把網址轉向有支援 HTTPS 的網站。
+試試電子前哨基金會 EFF的[HTTPS Everywhere](https://www.eff.org/https-everywhere)這是一個瀏覧器外掛可以自動地把網址轉向有支援 HTTPS 的網站。

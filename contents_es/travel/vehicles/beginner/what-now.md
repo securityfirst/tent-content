@@ -5,8 +5,8 @@ Pase la derecha a la lista de comprobación de esta lección
 
 ### LECCIONES / HERRAMIENTAS RELACIONADAS 
 
- * [Lección de puntos de control](sombrilla: // lección / puntos de control) 
- * [lección de preparación] )  
+ * [Lección de puntos de control](umbrella://lesson/checkpoints)
+ * [lección de preparación](umbrella://lesson/preparation) 
 
 ### LECTURAS ADICIONALES 
 

@@ -1,6 +1,6 @@
 [Title]: # (Llave)
 [Order]: # (65)
 
-# Key
+# Key 
 
-In cryptography, a piece of data which gives you the capability to encrypt or decrypt a message.
+In criptografía, una pieza de datos que le da la capacidad de cifrar o descifrar un mensaje.

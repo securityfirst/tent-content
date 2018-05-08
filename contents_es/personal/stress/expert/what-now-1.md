@@ -1,7 +1,7 @@
 [Title]: # (¿Y ahora qué?)
 [Order]: # (14)
 
-p>Deslice a la derecha para la Lista de Comprobación de lecciones
+Deslice a la derecha para la Lista de Comprobación de lecciones
 
 Ir a la lección para principiantes para el asesoramiento sobre cómo lidiar con el estrés crónico.
 

@@ -21,5 +21,4 @@ Debe hacer una tabla de todos los tipos de información que identificó anterior
 * La localización física que el dispositivo se guarda generalmente.
 
 Esta tabla le ayudará a ver cuál de sus datos (o copias maestras) es sólo en un lugar y, por lo tanto, vulnerable.
-
 ![image](backing1.png)

@@ -6,14 +6,14 @@
 ## KeePassX Guía de herramientas
 Gestión segura de contraseñas
 
-**Lección para leer: [Passwords](umbrella://lesson/passwords)**
-**Ubicación de descarga:** [https://www.keepassx.org/downloads](https://www.keepassx.org/downloads)
-**Requisitos de la computadora:** Windows 2000 o superior, Mac OS X 10.4-10.9
-**Versión utilizada en esta guía:** KeePassX 0.4.3 (KeePassX es una versión multiplataforma del programa KeePass solo para Windows).
-**Licencia:** Software gratuito y de código abierto (principalmente GPLv2)
-**Otra lectura:** [https://www.keepassx.org/forum/](https://www.keepassx.org/forum/)
-**Nivel:** Principiante
-**Tiempo requerido:** 5 minutos
+**Lección para leer:** [Passwords](umbrella://lesson/passwords)  
+**Ubicación de descarga:** [https://www.keepassx.org/downloads](https://www.keepassx.org/downloads)  
+**Requisitos de la computadora:** Windows 2000 o superior, Mac OS X 10.4-10.9  
+**Versión utilizada en esta guía:** KeePassX 0.4.3 (KeePassX es una versión multiplataforma del programa KeePass solo para Windows).  
+**Licencia:** Software gratuito y de código abierto (principalmente GPLv2)  
+**Otra lectura:** [https://www.keepassx.org/forum/](https://www.keepassx.org/forum/)  
+**Nivel:** Principiante  
+**Tiempo requerido:** 5 minutos  
 
 **El uso de KeePassX te dará:**
 
@@ -24,7 +24,7 @@ Gestión segura de contraseñas
 
 KeePassX es una contraseña segura, un programa que puede usar para almacenar todas sus contraseñas para varios sitios web y servicios. Una contraseña segura es una gran herramienta porque le permite utilizar contraseñas diferentes difíciles de adivinar para todos sus servicios, sin necesidad de recordarlos. En cambio, solo necesita recordar una contraseña maestra que le permite descifrar una base de datos de todas sus contraseñas. Las cajas fuertes de contraseñas son convenientes y le permiten organizar todas sus contraseñas en una ubicación.
 
-** Cabe señalar que el uso de una contraseña segura crea un único punto de falla y establece un objetivo obvio para los malos actores o adversarios. La investigación ha sugerido que muchas de las cajas fuertes de contraseñas comúnmente utilizadas tienen vulnerabilidades, así que tenga cuidado al determinar si esta es o no la herramienta adecuada para usted. **
+**Cabe señalar que el uso de una contraseña segura crea un único punto de falla y establece un objetivo obvio para los malos actores o adversarios. La investigación ha sugerido que muchas de las cajas fuertes de contraseñas comúnmente utilizadas tienen vulnerabilidades, así que tenga cuidado al determinar si esta es o no la herramienta adecuada para usted.**
 
 ### 1.1 Cómo funciona KeePassX
 
@@ -65,7 +65,7 @@ También tenga en cuenta que puede usar cualquier archivo existente como archivo
 
 También tenga en cuenta que a veces abrir un archivo en otro programa puede ser suficiente para modificarlo; la mejor práctica es no abrir el archivo, excepto para desbloquear KeePassX. (Sin embargo, es seguro mover o cambiar el nombre del archivo de claves).
 
-Una vez que haya inicializado con éxito su base de datos de contraseñas, debe guardarla seleccionando "Guardar base de datos" en el menú Archivo. (Tenga en cuenta que si lo desea, puede mover el archivo de la base de datos de contraseñas más adelante a donde desee en su disco duro, o moverlo a otras computadoras; aún podrá abrirlo usando KeePassX y la contraseña/archivo de claves que especificó antes .)
+Una vez que haya inicializado con éxito su base de datos de contraseñas, debe guardarla seleccionando "Guardar base de datos" en el menú Archivo. (Tenga en cuenta que si lo desea, puede mover el archivo de la base de datos de contraseñas más adelante a donde desee en su disco duro, o moverlo a otras computadoras; aún podrá abrirlo usando KeePassX y la contraseña/archivo de claves que especificó antes.)
 
 ### 2.1 Organización de contraseñas
 
@@ -73,7 +73,7 @@ KeePassX le permite organizar contraseñas en "Grupos", que básicamente son sol
 
 ### 2.2 Almacenamiento/generación/edición de contraseñas
 
-Para crear una nueva contraseña o almacenar una contraseña que ya tiene, haga clic derecho en el Grupo en el que desea almacenar la contraseña y elija "Agregar nueva entrada" (también puede elegir "Entradas> Agregar nueva entrada" en la barra de menú ) Para el uso básico de la contraseña, haga lo siguiente:
+Para crear una nueva contraseña o almacenar una contraseña que ya tiene, haga clic derecho en el Grupo en el que desea almacenar la contraseña y elija "Agregar nueva entrada" (también puede elegir _Entradas> Agregar nueva entrada_ en la barra de menú ) Para el uso básico de la contraseña, haga lo siguiente:
 
 - Ingrese un título descriptivo que puede usar para reconocer esta entrada de contraseña en el campo "Título".
 - Ingrese el nombre de usuario asociado con esta entrada de contraseña en el campo "Nombre de usuario". (Esto puede estar en blanco si no hay un nombre de usuario).
@@ -81,7 +81,7 @@ Para crear una nueva contraseña o almacenar una contraseña que ya tiene, haga 
  * Tenga en cuenta que si genera una contraseña aleatoria, no es necesario que recuerde (¡ni siquiera sepa!) Cuál es esa contraseña. KeePassX lo almacena por usted, y en cualquier momento que lo necesite podrá copiarlo/pegarlo en el programa apropiado. Este es el objetivo de una contraseña segura: puede usar diferentes contraseñas aleatorias largas para cada sitio/servicio, sin siquiera saber cuáles son las contraseñas.
  * Debido a esto, debe crear la contraseña siempre que el servicio permita y use tantos tipos diferentes de caracteres como sea posible.
  * Una vez que esté satisfecho con las opciones, haga clic en "Generar" en la esquina inferior derecha para generar la contraseña, y luego haga clic en "Aceptar". La contraseña aleatoria generada se ingresará automáticamente en los campos "Contraseña" y "Repetir". (Si no está generando una contraseña aleatoria, deberá ingresar nuevamente la contraseña elegida en el campo "Repetir").
-- Por último, haz clic en "Aceptar". Su contraseña ahora está almacenada en su base de datos de contraseñas. Para asegurarse de que se guardan los cambios, asegúrese de guardar la base de datos de contraseñas editada yendo a "Archivo> Guardar base de datos". (Alternativamente, si cometió un error, puede cerrar y luego volver a abrir el archivo de la base de datos y se perderán todos los cambios).
+- Por último, haz clic en "Aceptar". Su contraseña ahora está almacenada en su base de datos de contraseñas. Para asegurarse de que se guardan los cambios, asegúrese de guardar la base de datos de contraseñas editada yendo a _Archivo > Guardar base de datos_. (Alternativamente, si cometió un error, puede cerrar y luego volver a abrir el archivo de la base de datos y se perderán todos los cambios).
 
 Si alguna vez necesita cambiar/editar la contraseña almacenada, puede simplemente elegir el Grupo en el que está y hacer doble clic en su título en el panel derecho, y el cuadro de diálogo "Nueva entrada" aparecerá de nuevo.
 
@@ -95,15 +95,15 @@ Una de las características más útiles de KeePassX es que puede escribir autom
 
 Para habilitar esta característica, haga lo siguiente.
 
- _1. Elige tu tecla de acceso rápido global. Selecciona "Configuración" en el menú "Extras" y luego elige "Avanzado" en el panel de la izquierda. Haga clic dentro del campo "Acceso directo de tipo automático global" y luego presione la combinación de teclas de método abreviado que desea usar. (Por ejemplo, mantenga presionadas las teclas Ctrl, Alt y Shift, y luego presione "p". Puede usar cualquier combinación de teclas que desee, pero querrá asegurarse de que no entre en conflicto con las teclas rápidas que utilizan otras aplicaciones, así que trate de mantenerse alejado de cosas como Ctrl + X o Alt + F4.) Una vez que esté satisfecho, haga clic en "Aceptar".
+1. Elige tu tecla de acceso rápido global. Selecciona "Configuración" en el menú "Extras" y luego elige "Avanzado" en el panel de la izquierda. Haga clic dentro del campo "Acceso directo de tipo automático global" y luego presione la combinación de teclas de método abreviado que desea usar. (Por ejemplo, mantenga presionadas las teclas Ctrl, Alt y Shift, y luego presione "p". Puede usar cualquier combinación de teclas que desee, pero querrá asegurarse de que no entre en conflicto con las teclas rápidas que utilizan otras aplicaciones, así que trate de mantenerse alejado de cosas como Ctrl + X o Alt + F4.) Una vez que esté satisfecho, haga clic en "Aceptar".
 
- _2. Configure el tipo automático para una contraseña específica. Asegúrese de que tiene la ventana abierta donde desea ingresar la contraseña. Luego vaya a KeePassX, busque la entrada para la cual desea habilitar el tipo automático, y haga doble clic en el título de la entrada para abrir el cuadro de diálogo "Nueva entrada".
+2. Configure el tipo automático para una contraseña específica. Asegúrese de que tiene la ventana abierta donde desea ingresar la contraseña. Luego vaya a KeePassX, busque la entrada para la cual desea habilitar el tipo automático, y haga doble clic en el título de la entrada para abrir el cuadro de diálogo "Nueva entrada".
 
- _3._ Haga clic en el botón "Herramientas" en la parte inferior izquierda, y seleccione "Tipo automático: seleccione la ventana de destino". En el diálogo que aparece, expanda el cuadro desplegable y elija el título de la ventana en la que desea ingresar el nombre de usuario y la contraseña. Haga clic en Aceptar y luego en Aceptar de nuevo.
+3. Haga clic en el botón "Herramientas" en la parte inferior izquierda, y seleccione "Tipo automático: seleccione la ventana de destino". En el diálogo que aparece, expanda el cuadro desplegable y elija el título de la ventana en la que desea ingresar el nombre de usuario y la contraseña. Haga clic en Aceptar y luego en Aceptar de nuevo.
 
-¡Pruébalo! _ Ahora, para autenticar tu nombre de usuario y contraseña, dirígete a la ventana/sitio web donde deseas que KeePassX configure automáticamente tu nombre de usuario/contraseña. Asegúrate de que el cursor esté en el cuadro de texto de tu nombre de usuario, y luego presiona la combinación de teclas que seleccionaste arriba para la tecla de acceso directo global. Siempre que KeePassX esté abierto (incluso si está minimizado o no está enfocado), su nombre de usuario y contraseña deben ingresarse automáticamente.
+**¡Pruébalo!** Ahora, para autenticar tu nombre de usuario y contraseña, dirígete a la ventana/sitio web donde deseas que KeePassX configure automáticamente tu nombre de usuario/contraseña. Asegúrate de que el cursor esté en el cuadro de texto de tu nombre de usuario, y luego presiona la combinación de teclas que seleccionaste arriba para la tecla de acceso directo global. Siempre que KeePassX esté abierto (incluso si está minimizado o no está enfocado), su nombre de usuario y contraseña deben ingresarse automáticamente.
 
-Tenga en cuenta que, dependiendo de cómo esté configurado el sitio web/la ventana, es posible que esta característica no funcione al 100% correctamente desde el principio. (Podría ingresar el nombre de usuario, pero no la contraseña, por ejemplo). Aunque puede solucionar problemas y personalizar esta característica, para obtener más información, le recomendamos consultar la documentación de KeePass [aquí](http://keepass.info/help/base) /autotipo.html). (Aunque hay algunas diferencias entre KeePass y KeePassX, esa página debería ser suficiente para guiarlo en la dirección correcta).
+Tenga en cuenta que, dependiendo de cómo esté configurado el sitio web/la ventana, es posible que esta característica no funcione al 100% correctamente desde el principio. (Podría ingresar el nombre de usuario, pero no la contraseña, por ejemplo). Aunque puede solucionar problemas y personalizar esta característica, para obtener más información, le recomendamos consultar la documentación de KeePass [aquí](http://keepass.info/help/base/autotipo.html). (Aunque hay algunas diferencias entre KeePass y KeePassX, esa página debería ser suficiente para guiarlo en la dirección correcta).
 
 Se recomienda que use una combinación de teclas que sea difícil de golpear accidentalmente. ¡No querrás pegar accidentalmente la contraseña de tu cuenta bancaria en una publicación de Facebook!
 
@@ -113,6 +113,6 @@ Puede buscar en su base de datos escribiendo algo en el cuadro de búsqueda (el 
 
 También puede ordenar sus entradas haciendo clic en el encabezado de la columna en la ventana principal.
 
-También puede "bloquear" KeePassX seleccionando "Archivo> Bloquear área de trabajo" para que pueda dejar abierto KeePassX, pero solicite su contraseña maestra (y/o archivo de claves) antes de que pueda acceder nuevamente a su base de datos de contraseñas. También puede hacer que KeePassX se bloquee automáticamente después de un cierto período de inactividad. Esto puede evitar que alguien acceda a sus contraseñas si se aleja de su computadora. Para habilitar esta función, elija "Extras> Configuración" en el menú y haga clic en las opciones de seguridad. Luego marque la casilla que dice "Bloquear base de datos después de inactividad de {número} segundos".
+También puede "bloquear" KeePassX seleccionando *Archivo > Bloquear área de trabajo* para que pueda dejar abierto KeePassX, pero solicite su contraseña maestra (y/o archivo de claves) antes de que pueda acceder nuevamente a su base de datos de contraseñas. También puede hacer que KeePassX se bloquee automáticamente después de un cierto período de inactividad. Esto puede evitar que alguien acceda a sus contraseñas si se aleja de su computadora. Para habilitar esta función, elija *Extras > Configuración* en el menú y haga clic en las opciones de seguridad. Luego marque la casilla que dice "Bloquear base de datos después de inactividad de {número} segundos".
 
 KeePassX también puede almacenar más que solo nombres de usuario y contraseñas. Por ejemplo, puede crear entradas para almacenar cosas importantes como números de cuenta, claves de producto, números de serie o cualquier otra cosa. No es necesario que los datos que ingresa en el campo "Contraseña" tengan que ser una contraseña. Puede ser cualquier cosa que desee: simplemente ingrese lo que desea almacenar en el campo "Contraseña" en lugar de una contraseña real (y deje el campo "Nombre de usuario" en blanco si no hay ningún nombre de usuario) y KeePassX lo recordará de manera segura y segura.

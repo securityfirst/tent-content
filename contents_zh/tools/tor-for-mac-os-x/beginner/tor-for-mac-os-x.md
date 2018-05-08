@@ -5,14 +5,14 @@
 
 ## Mac 系統下的TOR工具指南 
 
-**學習內容：[網際網路](umbrella://lesson/the-internet)
-**本指南將簡介如何在Mac電腦上使用 [Tor瀏覧器軟體包](https://www.torproject.org/projects/torbrowser.html.en)**
-**電腦系統需求：**網路連線、運行於 Mac OSX 環境的電腦
-**本指南使用版本：**Tor Browser Bundle: 3.6.2
-**版權宣告：**免費自由軟體；混合式自由軟體
-**程度:**中級
-**其它參考資料：** [https://tor.stackexchange.com/](https://tor.stackexchange.com/)
-**所需時間：**15-30 分鐘
+**學習內容：** [網際網路](umbrella://lesson/the-internet)  
+**本指南將簡介如何在Mac電腦上使用** [Tor瀏覧器軟體包](https://www.torproject.org/projects/torbrowser.html.en)  
+**電腦系統需求：** 網路連線、運行於 Mac OSX 環境的電腦  
+**本指南使用版本：** Tor Browser Bundle: 3.6.2  
+**版權宣告：** 免費自由軟體；混合式自由軟體  
+**程度:** 中級  
+**其它參考資料：** [https://tor.stackexchange.com/](https://tor.stackexchange.com/)  
+**所需時間：** 15-30 分鐘  
 
 **使用Tor可讓你：**
 - 瀏覧網路躲避審查;
@@ -26,7 +26,7 @@ Tor 是由志工所維護的一個網路服務，它透過遮蔽來源與身份�
 
 ### 2.0 取得Tor 瀏覧器軟體包
 
-開啟原用的網頁瀏覧器，如Mozilla Firefox 或Internet Explorer，然後在網址處輸入：[https://www.torproject.org/projects/torbrowser.html.en](https://www.torproject.org/projects/torbrowser.html.en)。如果你是透過搜尋引擊來找 Tor 瀏覧器軟體包，請確認它的網址是正確的。
+開啟原用的網頁瀏覧器，如Mozilla Firefox 或Internet Explorer，然後在網址處輸入：[https://www.torproject.org/projects/torbrowser.html.en](https://www.torproject.org/projects/torbrowser.html.en) 。如果你是透過搜尋引擊來找 Tor 瀏覧器軟體包，請確認它的網址是正確的。
 ![image](tool_torosx1.png)
 
 點擊紫色的下載按鍵來下載程式安裝包
@@ -44,7 +44,7 @@ Tor 是由志工所維護的一個網路服務，它透過遮蔽來源與身份�
 下載完成後，你可以到檔案暫存的位置來開啟資料夾。通常暫存的位置是在「下載」目錄裏。滑鼠雙擊程式安裝檔案，雙擊所下載的程式安裝檔案。它會自動開啟 .dmg 格式檔。(近期版本的 OS X, 你可能會被警告此軟體來自一個未經辨別的開發者"unidentified developer"，你可以點選滑鼠和“control”來選擇 "open"以避開這些警告訊息)。把這些檔案拖曳到應用程式集下，Tor 瀏覧器應用程式將會出現，你也可以把它釘在下方的工具列中。
 ![image](tool_torosx4.png)
 
-**第一次使用 Tor 瀏覧器：**從應用程式集來打開 Tor 瀏覧器目錄，然後雙擊一個檔名為“Tor Browser”的檔案。第一次啟動 Tor 瀏覧器你會看到一個視窗可讓你調整必要的更動。當然也可以之後再回來進行變動，所以先來連上 Tor 網路，請點擊「連線」。點擊連線後，會出現一個綠色列桿的新視窗顯示 Tor 瀏覧器正在啟動中。
+**第一次使用 Tor 瀏覧器：** 從應用程式集來打開 Tor 瀏覧器目錄，然後雙擊一個檔名為“Tor Browser”的檔案。第一次啟動 Tor 瀏覧器你會看到一個視窗可讓你調整必要的更動。當然也可以之後再回來進行變動，所以先來連上 Tor 網路，請點擊「連線」。點擊連線後，會出現一個綠色列桿的新視窗顯示 Tor 瀏覧器正在啟動中。
 ![image](tool_torosx5.png)
 
 通常第一次啟動會花較長的時間，請保持耐心。過幾分鐘後，Tor 瀏覧器就完成連線設定而會開啟網頁瀏覧器。恭喜你成功安裝好 Tor 瀏覧器！

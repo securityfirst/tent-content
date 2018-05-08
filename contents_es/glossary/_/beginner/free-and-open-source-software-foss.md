@@ -1,6 +1,6 @@
-[Title]: # (Software gratiuito de código abierto (FOSS)
+[Title]: # (Software libre y de código abierto)
 [Order]: # (44)
 
-# Free and Open Source Software (FOSS)
+# Software gratuito y de código abierto (FOSS) 
 
-This family of software is available free of charge and has no legal restrictions to prevent a user from testing, sharing or modifying it
+Esta familia de software está disponible de forma gratuita y no tiene restricciones legales para evitar que un usuario la pruebe, comparta o modifique.

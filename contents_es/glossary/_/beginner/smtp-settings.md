@@ -1,6 +1,6 @@
 [Title]: # (Configuraciones de SMTP)
 [Order]: # (111)
 
-# SMTP settings
+# Configuración de SMTP 
 
-SMTP is one method for sending mail between computers. You can configure most email programs to encrypt messages between your e-mail software and the email server by changing your programs' SMTP settings  (as long as your email service supports it)
+SMTP es un método para enviar correo entre computadoras. Puede configurar la mayoría de los programas de correo electrónico para cifrar mensajes entre su software de correo electrónico y el servidor de correo electrónico al cambiar la configuración SMTP de sus programas (siempre que su servicio de correo electrónico lo admita).

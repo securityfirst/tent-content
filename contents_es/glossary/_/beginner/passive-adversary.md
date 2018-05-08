@@ -1,6 +1,6 @@
 [Title]: # (Adversario pasivo)
 [Order]: # (86)
 
-# Passive adversary
+# Adversario pasivo 
 
-A passive adversary is one that can listen to your communications, but cannot directly tamper with them.
+Un adversario pasivo es aquel que puede escuchar sus comunicaciones, pero no puede manipularlas directamente.

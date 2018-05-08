@@ -1,13 +1,13 @@
 [Title]: # (Grabación de contraseñas de forma segura)
 [Order]: # (0)
 
-# Recording passwords securely
+# Grabar contraseñas de forma segura
 
-Our Basic section showed you how to create a strong, memorable password. However, because you need a different password for every account or service and also need to change them every few months, it can soon become difficult to remember them all. Fortunately, there are software tools to help with this - a password manager is a software application that can generate random, secure passwords for each of your accounts and record them in a portable, encrypted password database, such as KeePass.
+Nuestra sección básica le mostró cómo crear una contraseña segura y memorable. Sin embargo, debido a que necesita una contraseña diferente para cada cuenta o servicio y también necesita cambiarlos cada pocos meses, pronto puede ser difícil recordarlos todos. Afortunadamente, hay herramientas de software para ayudar con esto? un administrador de contraseñas es una aplicación de software que puede generar contraseñas seguras y aleatorias para cada una de sus cuentas y registrarlas en una base de datos de contraseñas portátil y encriptada, como KeePass.
 ![image](password_adv1.png)
 
-The password manager protects all of your passwords with a single master password so you only have to remember one thing. Of course, if you use this method, it becomes especially important that you create and remember a very secure password for KeePass, or whatever tool you choose. Whenever you need to enter a password for a specific account, you can look it up using only your master password, which makes it much easier to follow all of the suggestions above.
+El administrador de contraseñas protege todas sus contraseñas con una sola contraseña maestra, por lo que solo debe recordar una cosa. Por supuesto, si usa este método, es especialmente importante que cree y recuerde una contraseña segura para KeePass o la herramienta que elija. Siempre que necesite ingresar una contraseña para una cuenta específica, puede buscarla usando solo su contraseña maestra, lo que hace que sea mucho más fácil seguir todas las sugerencias anteriores.
 
-KeePass sits on your desktop, and it also portable, which means that you can put the database on a USB memory stick in case you need to look up a password while you are away from your primary computer.
+KeePass se encuentra en su escritorio, y también es portátil, lo que significa que puede poner la base de datos en una memoria USB en caso de que necesite buscar una contraseña mientras se encuentra lejos de su computadora principal.
 
-You can learn how to set up and use this tool in the [Keepass tool guide](umbrella://lesson/keepassx).
+Puede aprender a configurar y usar esta herramienta en [la guía de la herramienta Keepass](umbrella://lesson/keepassx).

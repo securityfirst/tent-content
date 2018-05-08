@@ -6,23 +6,22 @@
 ## Guía de herramientas de Psiphon
 Exciencia de la atención
 
-**Lección para leer:**
-- [Internet](umbrella://lesson/the-internet)**
-** Ubicación de descarga: ** [https://psiphon.ca/en/download.html](https://psiphon.ca/en/download.html)
-** Requisitos de computadora: ** Una conexión a Internet, una computadora con Windows o un teléfono Android 2.2 o superior (las versiones de Psiphon 3 para iPhones y Mac OS X llegarán pronto)
-** Versión utilizada en esta guía: ** Psiphon 3
-** Licencia: ** Software de código abierto gratuito ; GNU GPL Versión 3
-** Nivel: ** Principiante
-** Otra lectura: ** [https://psiphon.ca/en/user-guide.html](https://psiphon.ca/en/ user-guide.html)
-** Tiempo requerido: ** 5 minutos
+**Lección para leer:** [Internet](umbrella://lesson/the-internet)  
+**Ubicación de descarga:** [https://psiphon.ca/en/download.html](https://psiphon.ca/en/download.html)  
+**Requisitos de computadora:** Una conexión a Internet, una computadora con Windows o un teléfono Android 2.2 o superior (las versiones de Psiphon 3 para iPhones y Mac OS X llegarán pronto)  
+**Versión utilizada en esta guía:** Psiphon 3  
+**Licencia:** Software de código abierto gratuito ; GNU GPL Versión 3  
+**Nivel:** Principiante  
+**Otra lectura:** [https://psiphon.ca/en/user-guide.html](https://psiphon.ca/en/ user-guide.html)  
+**Tiempo requerido:** 5 minutos  
 
-** El uso de Psiphon le dará: **
+**El uso de Psiphon le dará:**
 - La capacidad de evitar la censura de Internet para acceder a sitios web y aplicaciones bloqueados en su teléfono o computadora.
 
 ### 1 Antes de comenzar
 
-- **ALERTA:** El equipo Psiphon ha descubierto una instancia específica de malware disfrazada como un ejecutable de Psiphon 3 Windows. El malware se distribuye como un archivo comprimido llamado "pisphone3.zip" en www.copy.com y puede estar disponible en otras fuentes. El archivo zip contiene un archivo binario maligno denominado "pisphone3.exe" con las propiedades descritas en [Virus Total](https://www.virustotal.com/en/file/54201e181615c7eb18ee5a5ca3a0b7924cf3097ac5214fbee530741b6a6bc3da/analysis/1372262585/). Tenga en cuenta la falta de ortografía del nombre. Este ejecutable de Windows no está firmado digitalmente por Psiphon Inc. Nunca ejecute una nueva descarga de Psiphon sin verificar su firma digital, como se describe [aquí](https://psiphon.ca/en.html#is_my_psiphon_3_for_windows_authentic).
-- Cabe señalar que aunque Psiphon no permite que las direcciones IP de los usuarios individuales se asocien con ningún sitio web visitado individualmente, Psiphon está destinado principalmente a ser una herramienta de evasión de censura, en lugar de una que garantiza el anonimato.
+**ALERTA:** El equipo Psiphon ha descubierto una instancia específica de malware disfrazada como un ejecutable de Psiphon 3 Windows. El malware se distribuye como un archivo comprimido llamado "pisphone3.zip" en www.copy.com y puede estar disponible en otras fuentes. El archivo zip contiene un archivo binario maligno denominado "pisphone3.exe" con las propiedades descritas en [Virus Total](https://www.virustotal.com/en/file/54201e181615c7eb18ee5a5ca3a0b7924cf3097ac5214fbee530741b6a6bc3da/analysis/1372262585/). Tenga en cuenta la falta de ortografía del nombre. Este ejecutable de Windows no está firmado digitalmente por Psiphon Inc. Nunca ejecute una nueva descarga de Psiphon sin verificar su firma digital, como se describe [aquí](https://psiphon.ca/en.html#is_my_psiphon_3_for_windows_authentic).  
+Cabe señalar que aunque Psiphon no permite que las direcciones IP de los usuarios individuales se asocien con ningún sitio web visitado individualmente, Psiphon está destinado principalmente a ser una herramienta de evasión de censura, en lugar de una que garantiza el anonimato.
 
 ## # 2 Psiphon para Android
 
@@ -67,10 +66,10 @@ Psiphon comienza a conectarse automáticamente cuando lo ejecuta. Mientras se es
 
 Puedes seleccionar uno de los siguientes modos de túnel: **VPN, SSH o SSH +**
 
-- Recomendamos que **selecciones la opción VPN**, lo que significa que todo tu tráfico se canaliza automáticamente a través de túneles. Psiphon.
+- Recomendamos que **selecciones la opción VPN**, lo que significa que todo tu tráfico se canaliza automáticamente a través de túneles Psiphon.
 - La diferencia clave entre SSH / SSH + y VPN es que SSH es específico de la aplicación, mientras que una VPN encripta todo el tráfico en su computadora. Con VPN, enciendes la VPN y luego todo tu tráfico se cifra para que el navegador web, Skype y el correo electrónico eviten la censura siempre que la VPN esté activada.
 - En los modos SSH y SSH + de Psiphon, establece automáticamente la configuración de proxy y el tráfico para las aplicaciones que respetan estas configuraciones túnel a través de Psiphon. Estas configuraciones son respetadas por defecto por todos los principales navegadores web. La ofuscación SSH plus agrega una capa aleatorizada sobre SSH para evitar la toma de huellas dactilares del protocolo.
-- En los modos SSH y SSH +, Psiphon ofrece una opción de división donde el tráfico internacional se tuneliza a través del proxy y el tráfico doméstico no. Compruebe la opción "No proxy ..." para habilitar la división de túneles. Cuando esta opción está activada, los dominios no procesados ​​se informan en el área de mensajes.
+- En los modos SSH y SSH +, Psiphon ofrece una opción de división donde el tráfico internacional se tuneliza a través del proxy y el tráfico doméstico no. Compruebe la opción "No proxy ..." para habilitar la división de túneles. Cuando esta opción está activada, los dominios no procesados se informan en el área de mensajes.
 - Use las opciones SSH / SSH + si desea acceder rápidamente a los sitios nacionales y su modelo de amenaza lo permite. Sin embargo, recomendamos **seleccionar la opción de VPN**.
 
 La conexión con el servidor de Psiphon se establece cuando el ícono de tilde verde se muestra a la izquierda de la ventana.

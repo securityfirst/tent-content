@@ -6,14 +6,14 @@
 ## Adium & OTR 
 Seguridad de mensajería instantánea para Mac 
 
-**Lección para leer: [Enviar un mensaje](umbrella://lesson/sending-a-message)** 
-**Ubicación de descarga:** [https://adium.im/](https://adium.im/) 
-**Requisitos de computadora** (Adium 1.5 o posterior): Mac OS X 10.6.8 o más reciente, una computadora Macintosh de marca Apple. 
-**Versión utilizada en esta guía:** Adium 1.5.9 
-**Licencia:** GNU GPL 
-**Otra lectura:** [https://pressfreedomfoundation.org/encryption-works](https://pressfreedomfoundation.org/encryption-works);[https://adium.im/help/](https://adium.im/help/) 
-**Nivel:** Beginner-Intermediate 
-**Tiempo requerido:** 15-20 minutos 
+**Lección para leer:** [Enviar un mensaje](umbrella://lesson/sending-a-message)  
+**Ubicación de descarga:** [https://adium.im/](https://adium.im/)  
+**Requisitos de computadora** (Adium 1.5 o posterior): Mac OS X 10.6.8 o más reciente, una computadora Macintosh de marca Apple.  
+**Versión utilizada en esta guía:** Adium 1.5.9  
+**Licencia:** GNU GPL  
+**Otra lectura:** [https://pressfreedomfoundation.org/encryption-works](https://pressfreedomfoundation.org/encryption-works);[https://adium.im/help/](https://adium.im/help/)  
+**Nivel:** Beginner-Intermediate  
+**Tiempo requerido:** 15-20 minutos  
 
 Adium es un cliente de mensajería instantánea de código abierto para OS X que le permite chatear con personas a través de múltiples protocolos de chat, incluidos Google Hangouts, Yahoo! Messenger, chat de Facebook, Windows Live Messenger, AIM, ICQ y XMPP. 
 
@@ -37,7 +37,7 @@ Los tecnólogos tienen un término para describir cuándo un programa o tecnolog
 
 Paso 1: Instale el programa 
 
-Primero, vaya a [https: // adium. im /](https://adium.im/) en su navegador. Elija "Descargar Adium 1.5.9. " El archivo se descargará como .dmg, o imagen de disco, y probablemente se guardará en su carpeta "downloads". 
+Primero, vaya a [https://adium.im/](https://adium.im/) en su navegador. Elija "Descargar Adium 1.5.9. " El archivo se descargará como .dmg, o imagen de disco, y probablemente se guardará en su carpeta "downloads". 
 
 Haga doble clic en el archivo; eso abrirá una ventana que se ve así: 
 ![image](tool_adium1.png) 

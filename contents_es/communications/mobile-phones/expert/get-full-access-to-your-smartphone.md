@@ -12,7 +12,6 @@ _ADVERTENCIA:_ Rootear o hacer jailbreaking puede no ser un proceso reversible, 
 *   Hay un riesgo de hacer que su smartphone se vuelva inoperable permanentemente, o convertirlo en un ladrillo (bricking).
 *   La garantía del fabricante o del operador móvil puede resultar anulada.
 *   En algunos lugares, este proceso puede ser ilegal.
-
 ![image](mobileexp1.png)
 
 Pero si tiene cuidado, un dispositivo rooteado es una forma directa de ganar más control sobre su smartphone para hacerlo mucho más seguro.

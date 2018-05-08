@@ -1,6 +1,6 @@
-[Title]: # (Asociación de Datos Infrarrojos (IrDA)
+[Title]: # (Asociación de datos infrarrojos (IrDA))
 [Order]: # (61)
 
-# Infrared Data Association (IrDA)
+# Asociación de datos de infrarrojos (IrDA) 
 
-A physical wireless communications standard for the short-range exchange of data using infrared spectrum light. IrDA is replaced by Bluetooth in modern devices.
+Un estándar de comunicaciones inalámbricas físicas para el intercambio de datos a corto plazo utilizando luz de espectro infrarrojo. IrDA es reemplazado por Bluetooth en dispositivos modernos.

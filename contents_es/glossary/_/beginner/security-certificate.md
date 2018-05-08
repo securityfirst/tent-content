@@ -1,6 +1,6 @@
 [Title]: # (Certificado de seguridad)
 [Order]: # (104)
 
-# Security certificate
+# Certificado de seguridad 
 
-A way for secure websites and other Internet services to prove, using encryption, that they are who they claim to be. In order for your browser to accept a security certificate as valid, however, the service must pay for a digital signature from a trusted organization. Because this costs money that some service operators are unwilling or unable to spend, however, you will occasionally see a security certificate error even when visiting a valid service.
+Una forma de que los sitios web seguros y otros servicios de Internet demuestren, mediante el cifrado, que son quienes dicen ser. Sin embargo, para que su navegador acepte un certificado de seguridad como válido, el servicio debe pagar por una firma digital de una organización confiable. Debido a que esto cuesta dinero que algunos operadores de servicios no quieren o no pueden gastar, sin embargo, ocasionalmente verá un error de certificado de seguridad incluso cuando visite un servicio válido.

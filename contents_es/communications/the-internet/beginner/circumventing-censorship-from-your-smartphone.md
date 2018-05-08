@@ -11,7 +11,7 @@ Los usuarios con un modelo de amenaza alta que necesiten asegurar el anonimato t
 
 ## Proxys
 
-Usar proxys con su teléfono móvil le permitirá acceder a sitios web que de otro modo estarían bloqueados. Puede acceder a proxys descargando la versión para Firefox móvil ? [Firefox mobile](http://f-droid.org/repository/browse/?fdid=org.mozilla.firefox) junto con el complemento [Proxy Mobile](https://guardianproject.info/apps/proxymob-firefox-add-on/) que facilita la proxyficación con Firefox. Es útil en casos de censura, pero todavía puede revelar sus peticiones a menos que la conexión desde su cliente al proxy esté cifrada. Esto se puede usar en dispositivos Android además de iPhones.
+Usar proxys con su teléfono móvil le permitirá acceder a sitios web que de otro modo estarían bloqueados. Puede acceder a proxys descargando la versión para Firefox móvil? [Firefox mobile](http://f-droid.org/repository/browse/?fdid=org.mozilla.firefox) junto con el complemento [Proxy Mobile](https://guardianproject.info/apps/proxymob-firefox-add-on/) que facilita la proxyficación con Firefox. Es útil en casos de censura, pero todavía puede revelar sus peticiones a menos que la conexión desde su cliente al proxy esté cifrada. Esto se puede usar en dispositivos Android además de iPhones.
 
 ## Red privada virtual (VPN)
 

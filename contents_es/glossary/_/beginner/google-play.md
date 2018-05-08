@@ -1,6 +1,6 @@
 [Title]: # (Google Play)
 [Order]: # (48)
 
-# Google Play
+# Google Play 
 
-The default repository from which Android applications can be found and downloaded.
+El repositorio predeterminado desde el que se pueden encontrar y descargar las aplicaciones de Android.

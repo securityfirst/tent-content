@@ -1,6 +1,8 @@
 [Title]: # (La reunión en sí)
 [Order]: # (4)
 
+# La reunión en sí
+
 Es importante mantener el control sobre como se lleva a cabo la reunión. Después de las presentaciones, debe empezar por tocar el tema de la seguridad de la persona: ponerse de acuerdo en un momento y lugar alternativo para la reunión si se presenta un problema; hacerles saber lo que puede y no puede hacer para ayudarlos si hay un problema; ponerse de acuerdo en una señal discreta en caso de que haya un problema.
 
 Trate de no ordenar por servicio que tome demasiado tiempo en servirse y pagar por lo que consumen de inmediato y en efectivo, esto evita presentar su identificación y permite realizar una salida rápida en caso necesario.

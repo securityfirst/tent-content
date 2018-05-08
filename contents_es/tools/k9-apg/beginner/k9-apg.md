@@ -4,26 +4,32 @@
 # K9 & APG GUÍA DE HERRAMIENTAS
 
 ## K9 & APG Guía de herramientas
- Correo electrónico encriptado para Android
+Correo electrónico encriptado para Android
  
-**Lección para leer: [Correo electrónico](umbrella://lesson/email)**
+**Lección para leer:** [Correo electrónico](umbrella://lesson/email)
+
 **Ubicación de descarga:**
 - **[Página de inicio de APG](http://www.thialfihar.org/projects/apg/)**
 - **[Página de inicio de K-9 Mail](https://code.google.com/p/k9mail)**
+
 **Requisitos del teléfono:**
 - Android 1.5 o superior
 - APG debe estar instalado antes de instalar K-9 Mail
+
 **Versión utilizada en esta guía:**
 - APG 1.1.1
 - K-9 5.001
+
 **Licencia:**
 - APG: software libre y de código abierto (Gnu GPL v3)
 - K-9: Software gratuito y de código abierto (Apache 2.0)
+
 **Otra lectura:**
-- [Contraseñas](paraguas: // lección / contraseñas)
-- [Teléfonos móviles](paraguas: // lección / teléfonos móviles)
-**Nivel:** Avanzado
-**Tiempo requerido:** 30-40 minutos
+- [Contraseñas](umbrella://lesson/passwords)  
+- [Teléfonos móviles](umbrella://lesson/mobile-phones)
+
+**Nivel:** Avanzado  
+**Tiempo requerido:** 30-40 minutos  
 
 **El uso de K-9 y APG te dará:**
 - APG se puede utilizar para cifrar, descifrar y firmar correos electrónicos y archivos individuales localmente en su teléfono.
@@ -45,7 +51,7 @@
 Para encriptar archivos o mensajes la primera vez que inicie APG, se le pedirá que importe claves GPG existentes o que cree una nueva clave pública y privada en su teléfono.
 ![image](tool_k94.png)
 
-** Nota:** Si desea enviar archivos cifrados o mensajes a otras personas, deberá importar sus claves públicas o decidir una contraseña compartida.
+**Nota:** Si desea enviar archivos cifrados o mensajes a otras personas, deberá importar sus claves públicas o decidir una contraseña compartida.
 
 ### 1.1.1 Gestión de claves: crea tus claves públicas y privadas
 
@@ -57,7 +63,7 @@ Si aún no tiene su clave GPG pública y privada o desea usar una clave GPG sepa
 
 **Paso 3:** En la siguiente pantalla, a continuación:
 
-- Le recomendamos encarecidamente que proteja sus claves GPG con contraseña. Para hacer esto, presione "Establecer frase de contraseña" y proporcione una contraseña segura. Consulte ** [Contraseñas lección](paraguas: // lección / contraseñas) ** sobre la mejor manera de hacerlo;
+- Le recomendamos encarecidamente que proteja sus claves GPG con contraseña. Para hacer esto, presione "Establecer frase de contraseña" y proporcione una contraseña segura. Consulte **[Contraseñas lección](umbrella://lesson/passwords)** sobre la mejor manera de hacerlo;
 - Complete su _name, dirección de correo electrónico_;
 - Es importante que establezca una fecha de caducidad en las claves GPG, después de lo cual las claves ya no se pueden usar para cifrar archivos.
 ![image](tool_k95.png)
@@ -101,9 +107,7 @@ Las claves GPG se pueden enviar en el cuerpo de un correo electrónico en lugar 
 **Paso 6:** Toca "Importar teclas seleccionadas" en la parte inferior de la pantalla para finalizar la importación de la clave en APG
 ![image](tool_k910.png)
 
-### 1.1.4 Gestión de claves: comparte tu clave pública
-Como un archivo
-
+### 1.1.4 Gestión de claves: comparte tu clave pública Como un archivo
 
 Para que sus contactos puedan enviarle correos encriptados, primero deberá enviarles su _public key_
 
@@ -117,9 +121,7 @@ Para que sus contactos puedan enviarle correos encriptados, primero deberá envi
 
 **Paso 4:** El archivo guardado no puede entregarse a sus contactos, por ejemplo, por correo electrónico o mensajería instantánea.
 
-### 1.1.5 Gestión de claves: comparte tu clave pública
-Desde el portapapeles
-
+### 1.1.5 Gestión de claves: comparte tu clave pública Desde el portapapeles
 
 **Paso 1:** Desde la ventana principal de APG, toque la entrada de su llave para llevarlo a la pantalla _info_ de su llave GPG.
 
@@ -137,7 +139,7 @@ Para asegurarse de que ha recibido la clave pública GPG correcta para su colega
 **Paso 1:** Desde la ventana principal de **APG**, toque la entrada de su llave para llevarlo a la pantalla _info_ de su llave GPG. Su contacto debería hacer lo mismo y tocar la tecla que tienen para usted.
 ![image](tool_k914.png)
 
-**Paso 2:** Ubica la línea **Fingerprint** debajo del encabezado ** MASTER KEY ** y lee la cuerda larga de 40 caracteres una línea a la vez.
+**Paso 2:** Ubica la línea **Fingerprint** debajo del encabezado **MASTER KEY** y lee la cuerda larga de 40 caracteres una línea a la vez.
 ![image](tool_k915.png)
 
  **Paso 3:** Su contacto debe verificar que la huella dactilar que leyó sea la huella digital que se muestra para su llave en su teléfono o computadora.
@@ -152,11 +154,11 @@ El cifrado de mensajes en **APG** puede ser útil si desea almacenar notas cifra
 
 ### 1.2.1 Cifrado de mensajes - Clave pública
 
-**Paso 1:** Expande el menú lateral en cualquier pantalla ** APG ** presionando "APG" en la parte superior izquierda de tu pantalla.
+**Paso 1:** Expande el menú lateral en cualquier pantalla **APG** presionando "APG" en la parte superior izquierda de tu pantalla.
 
 **Paso 2:** Seleccione "Encriptar" para que aparezca la pantalla de encriptación.
 
-**Paso 3:** Para ver la lista de posibles destinatarios, presione el botón "Seleccionar" con el icono de la persona. ** Nota:** Si desea poder descifrar el mensaje en otro momento, deberá recordar incluirse en la lista de destinatarios.
+**Paso 3:** Para ver la lista de posibles destinatarios, presione el botón "Seleccionar" con el icono de la persona. **Nota:** Si desea poder descifrar el mensaje en otro momento, deberá recordar incluirse en la lista de destinatarios.
 
 **Paso 4:** En la pantalla de selección de destinatarios, marque todas las personas que necesitan descifrar el mensaje y presione "Aceptar".
 ![image](tool_k916.png)
@@ -169,7 +171,7 @@ El cifrado de mensajes en **APG** puede ser útil si desea almacenar notas cifra
 
 **Paso 2:** Seleccione "Encriptar" para que aparezca la pantalla de encriptación.
 
-**Paso 3:** Presione el botones a ambos lados de **CLAVE PUBLICA** para cambiar el tipo de encriptación a PASAPRASE.
+**Paso 3:** Presione el botones a ambos lados de **CLAVE PUBLICA** para cambiar el tipo de encriptación a _PassPhrase_.
 
 **Paso 4:** Ingrese una contraseña segura en los campos provistos.
 
@@ -201,15 +203,14 @@ Al igual que con el cifrado de mensajes, la clave pública es el método de cifr
 
 **Paso 1:** Expande el menú lateral en cualquier pantalla APG presionando "APG" en la parte superior izquierda de tu pantalla.
 
-
 **Paso 2:** Seleccione "Encriptar" para que aparezca la pantalla de encriptación.
 
-**Paso 3:** Para ver la lista de posibles destinatarios, presione "Seleccionar" con el icono de la persona. ** Nota:** Si desea poder descifrar el archivo usted mismo más adelante, deberá recordar incluirse en la lista de destinatarios.
+**Paso 3:** Para ver la lista de posibles destinatarios, presione "Seleccionar" con el icono de la persona. **Nota:** Si desea poder descifrar el archivo usted mismo más adelante, deberá recordar incluirse en la lista de destinatarios.
 
 **Paso 4:** En la pantalla de selección de destinatarios, marque todas las personas que desee para poder descifrar el archivo y presione "Aceptar".
 ![image](tool_k919.png)
 
- **Paso 5:** Presione el botones a ambos lados de ** MENSAJE ** para cambiar el tipo de encriptación a ** ARCHIVO **.
+ **Paso 5:** Presione el botones a ambos lados de **MENSAJE** para cambiar el tipo de encriptación a **ARCHIVO**.
  
  **Paso 6:** Toque el ícono del archivo abierto para abrir el buscador de archivos y seleccione el archivo que desea encriptar.
 ![image](tool_k920.png)
@@ -226,14 +227,12 @@ Al igual que con el cifrado de mensajes, la clave pública es el método de cifr
 **Paso 2:** Seleccione "Encriptar" para que aparezca la pantalla de encriptación.
 
 **Paso 3:** Presione el
- botones a cada lado de ** CLAVE PÚBLICA ** para cambiar el tipo de encriptación a ** PASAPORTE **
+ botones a cada lado de **CLAVE PÚBLICA** para cambiar el tipo de encriptación a **PASAPORTE**
  .
-
-
 **Paso 4:** Ingrese una contraseña segura en los campos provistos.
 
 **Paso 5:** Presione el
- botones a ambos lados de ** MENSAJE ** para cambiar el tipo de encriptación a ARCHIVO.
+ botones a ambos lados de **MENSAJE** para cambiar el tipo de encriptación a ARCHIVO.
 
  **Paso 6:** Toque el ícono del archivo abierto para abrir el buscador de archivos y seleccione el archivo que desea encriptar.
 ![image](tool_k922.png)
@@ -271,10 +270,9 @@ Al igual que con el cifrado de mensajes, la clave pública es el método de cifr
 
 ### 2.0 Cómo instalar _K-9 Mail_
 
+**Nota:** Antes de comenzar a utilizar el Correo K-9, deberá tener una cuenta de correo electrónico, como Gmail, que admita conexiones seguras POP3 o IMAP.
 
-** Nota:** Antes de comenzar a utilizar el Correo K-9, deberá tener una cuenta de correo electrónico, como Gmail, que admita conexiones seguras POP3 o IMAP.
-
-**Paso 1.** En su dispositivo Android, **descargue** y **instale** la aplicación en la [tienda Google Play aquí](https://play.google.com/store/apps/details? id = com.fsck.k9) almacenar tocando "Instalar".
+**Paso 1.** En su dispositivo Android, **descargue** y **instale** la aplicación en la [tienda Google Play aquí](https://play.google.com/store/apps/details?id=com.fsck.k9) almacenar tocando "Instalar".
 ![image](tool_k928.png)
 
 **Paso 2.** Antes de que comience el proceso de instalación, se le pedirá que revise el acceso que la aplicación tendrá en su teléfono. Revisa esto cuidadosamente. Una vez que esté satisfecho con los permisos que se le otorgarán, toque "Aceptar" y la instalación se completará. Si no está de acuerdo con los permisos que se otorgarán, toque el botón Atrás y la instalación se cancelará.
@@ -312,15 +310,15 @@ Donde sea posible, K-9 Mail intentará configurar automáticamente su cuenta de 
 **Nota:** tendrá que consultar la configuración del cliente de correo electrónico en su computadora para saber qué tipo de cuenta utiliza su servidor de correo electrónico.
 ![image](tool_k933.png)
 
-**Paso 3:** A continuación están las configuraciones del servidor entrante. Si no está seguro, consulte la configuración del cliente de correo electrónico en su computadora. Asegúrese siempre de que _security type_ esté configurado en _STARTTLS_ o _SSL / TLS_. ** Nunca ** use la opción _none_.
+**Paso 3:** A continuación están las configuraciones del servidor entrante. Si no está seguro, consulte la configuración del cliente de correo electrónico en su computadora. Asegúrese siempre de que _security type_ esté configurado en _STARTTLS_ o _SSL / TLS_. **Nunca** use la opción _none_.
 ![image](tool_k934.png)
 
-**Paso 4:** **Correo K-9** se conectará a su servidor de correo para verificar si su configuración es correcta. Puede mostrar una advertencia sobre el certificado de su conexión segura. _¡No ignore esto! _ Esta es la única vez que puede verificar que el certificado realmente pertenece a su servidor de correo. Si ignora esto, no puede estar seguro si no está sujeto a un ataque _Man-in-the-Middle_ y sus comunicaciones podrían ser interceptadas. Puede ver una huella digital SHA-1 al final de la advertencia. O bien ** verifique ** en su computadora si el certificado instalado de su servidor de correo tiene la misma huella dactilar o busque una forma de verificar el certificado de su servidor de correo directamente de su proveedor.
+**Paso 4:** **Correo K-9** se conectará a su servidor de correo para verificar si su configuración es correcta. Puede mostrar una advertencia sobre el certificado de su conexión segura. **_¡No ignore esto!_** Esta es la única vez que puede verificar que el certificado realmente pertenece a su servidor de correo. Si ignora esto, no puede estar seguro si no está sujeto a un ataque _Man-in-the-Middle_ y sus comunicaciones podrían ser interceptadas. Puede ver una huella digital SHA-1 al final de la advertencia. O bien **verifique** en su computadora si el certificado instalado de su servidor de correo tiene la misma huella dactilar o busque una forma de verificar el certificado de su servidor de correo directamente de su proveedor.
 
-**Paso 5:** **K-9 Mail** le pide que configure la configuración del servidor saliente. De nuevo, ** asegúrese ** de que _Security Type_ sea _STARTTLS_ o _SSL / TLS_. Para todas las configuraciones adicionales, ** verifique ** el cliente de correo electrónico de su computadora o la configuración de su proveedor de correo electrónico.
+**Paso 5:** **K-9 Mail** le pide que configure la configuración del servidor saliente. De nuevo, **asegúrese** de que _Security Type_ sea _STARTTLS_ o _SSL / TLS_. Para todas las configuraciones adicionales, **verifique** el cliente de correo electrónico de su computadora o la configuración de su proveedor de correo electrónico.
 ![image](tool_k935.png)
 
-**Paso 6.** K-9 Mail ahora le pregunta con qué frecuencia desea que sondee automáticamente por correo electrónico. Establezca la opción en _never_ y desmarque _enable push mail_ para esta cuenta, si solo desea recibir correos electrónicos cuando los comprueba manualmente; de ​​lo contrario, deje la configuración tal como está para recibir automáticamente el correo electrónico cuando llegue a su cuenta.
+**Paso 6.** K-9 Mail ahora le pregunta con qué frecuencia desea que sondee automáticamente por correo electrónico. Establezca la opción en _never_ y desmarque _enable push mail_ para esta cuenta, si solo desea recibir correos electrónicos cuando los comprueba manualmente; de lo contrario, deje la configuración tal como está para recibir automáticamente el correo electrónico cuando llegue a su cuenta.
 ![image](tool_k936.png)
 
 **Paso 7.** Las últimas piezas de información para proporcionar son un apodo para la cuenta de correo electrónico que se mostrará en K-9 Mail y para configurar el nombre que desea que se muestre en todos los correos electrónicos salientes.

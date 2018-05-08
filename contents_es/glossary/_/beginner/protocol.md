@@ -1,6 +1,6 @@
 [Title]: # (Protocolo)
 [Order]: # (95)
 
-# Protocol
+# Protocolo 
 
-A communications protocol is a way of sending data between programs or computers. Software programs that use the same protocol can talk to each other: so web browsers and web servers speak the same protocol, called "http". Some protocols use encryption to protect their contents. The secure version of the http protocol is called "https ". Another example of an encrypted protocol used by many different programs is OTR  (Off-the-Record), a protocol for secure instant messaging.
+Un protocolo de comunicaciones es una forma de enviar datos entre programas o computadoras. Los programas de software que usan el mismo protocolo pueden comunicarse entre sí: por lo tanto, los navegadores web y los servidores web hablan el mismo protocolo, llamado "http". Algunos protocolos usan cifrado para proteger sus contenidos. La versión segura del protocolo http se llama "https". Otro ejemplo de un protocolo cifrado utilizado por muchos programas diferentes es OTR (Off-the-Record), un protocolo para mensajería instantánea segura.

@@ -4,7 +4,6 @@
 # Teléfonos prepago (burner)
 
 Los teléfonos que son usados temporalmente y luego descartados a menudo se les llama teléfonos prepago. Las personas que están tratando de evitar la vigilancia, a veces tratan de cambiar de teléfonos y números frecuentemente para dificultar el reconocimiento de sus comunicaciones. Necesitarán usar teléfonos prepago (no asociados con una tarjeta de crédito personal o una cuenta bancaria) y asegurar que los teléfonos y tarjetas SIM no estuvieran registrados con su identidad; en algunos países estos pasos son directos, mientras que en otros puede haber obstáculos legales o prácticos para obtener un servicio de telefonía móvil anónimo.
-
 ![image](mobile7.png)
 
 Hay ciertas limitaciones con los teléfonos prepago (burner) que ocultan su identidad.

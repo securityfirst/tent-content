@@ -1,6 +1,6 @@
 [Title]: # (Lista blanca)
 [Order]: # (134)
 
-# Whitelist
+# Whitelist 
 
-A list of websites or Internet services to which some form of access is permitted, when other sites are automatically blocked
+Una lista de sitios web o servicios de Internet a los que se permite alguna forma de acceso, cuando otros sitios se bloquean automáticamente

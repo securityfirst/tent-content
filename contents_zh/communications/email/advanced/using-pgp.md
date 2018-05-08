@@ -5,8 +5,8 @@
 
 如何在電子郵件中使用PGP，請見下方進一步詳細的說明：
 
-* [How to: Use PGP for Mac OS X](umbrella://lesson/pgp-for-mac-os-x)
-* [How to: Use PGP for Windows](umbrella://lesson/pgp-for-windows)
-* [How to: Use PGP for Linux](umbrella://lesson/pgp-for-linux)
+* [如何：为Mac OS X使用PGP](umbrella://lesson/pgp-for-mac-os-x)
+* [如何：为Windows使用PGP](umbrella://lesson/pgp-for-windows)
+* [如何：为Linux使用PGP](umbrella://lesson/pgp-for-linux)
 
 保存你的PGP秘鑰在手機上可能有風險，但它的好處是可以在移動設備上傳送與儲存加密電郵。學習如何在智慧型手機上安裝使用電子郵件加密工具 [K9 and APG Guide](umbrella://lesson/k9-\u0026-apg)

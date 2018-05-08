@@ -3,4 +3,4 @@
 
 # Peacefire
 
-ubscribers to this free service receive periodical emails containing an updated list of circumvention proxies, which can be used to bypass Internet censorship
+Los suscriptores de este servicio gratuito reciben correos electrónicos periódicos que contienen una lista actualizada de proxies de elusión, que pueden utilizarse para eludir la censura de Internet.

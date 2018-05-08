@@ -8,7 +8,6 @@ Los teléfonos móviles pueden almacenar todo tipo de datos: historial de llamad
 Algunos teléfonos tienen opciones de cifrado disponibles que deben aplicarse. Si tiene un teléfono Android esto se puede hacer en Configuración -> Personal -> Seguridad -> Cifrado.
 
 No almacene ficheros confidenciales y fotos en su teléfono móvil. Muévalos tan pronto como pueda a una ubicación segura, como se describe en la lección [Hacer copias de seguridad](umbrella://lesson/backing-up). Borre frecuentemente sus registros de llamadas y mensajes, entradas de libreta de direcciones, fotos, etc. Conozca más acerca de borrado seguro en la lección [Borrado](umbrella://lesson/safely-deleting).
-
 ![image](mobile3.png)
 
 Proteja su tarjeta SIM y tarjeta de memoria adicional (si su teléfono tiene una), ya que puede contener información sensible. Por ejemplo, asegúrese de que no se las deja en la tienda de reparaciones cuando lleve su teléfono a recibir este servicio. Use sólo vendedores de teléfonos y tiendas de reparación de confianza, si es posible. Al vender, transmitir o disponer de su teléfono, asegúrese de borrar toda la información. Nunca transmita o venda tarjetas SIM o tarjetas de memoria ? debe destruirlas físicamente.

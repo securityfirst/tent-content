@@ -9,7 +9,6 @@ Los teléfonos móviles son básicamente inseguros:
 2.  La información almacenada en un teléfono móvil es vulnerable
 3.  Los teléfonos móviles arrojan información acerca de su localización
 4.  Los teléfonos móviles se pueden usar para espiar comunicaciones
-
 ![image](mobile1.png)
 
 No sólo la compañía que opera su red de telefonía móvil puede interceptar sus llamadas y mensajes de texto (si no están cifrados), y monitorizar su ubicación ? muchas compañías también pueden elegir, o se les requiere, compartir esta información con gobiernos si se les pide.

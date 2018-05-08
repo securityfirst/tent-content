@@ -11,4 +11,4 @@ Ir a la lección de principiante para los consejos sobre qué empacar en un male
 
 ### Lecturas
 
-*   [Comité para la Protección de Periodistas)](https://cpj.org/reports/2012/04/armed-conflict.php)
+*   [Comité para la Protección de Periodistas](https://cpj.org/reports/2012/04/armed-conflict.php)

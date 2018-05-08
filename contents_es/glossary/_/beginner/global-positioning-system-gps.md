@@ -1,6 +1,6 @@
-[Title]: # (Sistema de posicionamiento global (GPS)
+[Title]: # (Sistema de posicionamiento global (GPS))
 [Order]: # (50)
 
-# Global Positioning System (GPS)
+# Sistema de posicionamiento global (GPS) 
 
-A space-based global navigation satellite system that provides location and time information in all weather, anywhere on or near the Earth, where there is an (almost) unobstructed sky view.
+Un sistema de navegación por satélite global basado en el espacio que proporciona información de ubicación y hora en cualquier clima, en cualquier lugar de la Tierra o cerca de ella, donde hay una vista del cielo (casi) sin obstrucciones.

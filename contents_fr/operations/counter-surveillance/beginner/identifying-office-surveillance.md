@@ -1,0 +1,12 @@
+[Title]: # (Repérer la surveillance au bureau)
+[Order]: # (13)
+
+## Comment déterminer si votre bureau est sous surveillance
+
+La surveillance exige généralement que les adversaires puissent observer les activités de leurs cibles. Cela signifie qu’il existe un nombre limité de sites physiques qu’ils peuvent utiliser pour la surveillance. La meilleure chose à faire pour savoir si l’on est sous surveillance est d’essayer de penser comme un adversaire. Que feriez-vous si vous tentiez de surveiller votre bureau? Quel serait votre point d’observation ?
+
+* **Prendre une base de référence**Il est important de comprendre à quoi des conditions « normales » ressemblent (par exemple, où les automobiles sont stationnées et les personnes se tiennent normalement).
+* **Déterminer et enregistrer**Par la suite, essayez de déterminer et d’enregistrer toute activité inhabituelle (par exemple, des personnes se trouvant où elles ne devraient pas, où elles ne sont pas normalement).
+* **Filtrer les coïncidences**Filtrez les possibilités que quelque chose soit une coïncidence en vous concentrant sur les activités inhabituelles et en faisant preuve de bon sens (par exemple, si quelqu’un se tient en un lieu où personne ne se tient habituellement, portez-y particulièrement attention. Cette personne vous semble-t-elle être du coin ? Fait-elle plus attention à vos activités qu’elle ne devrait ?). Cherchez trois signes que quelque chose est anormal ou trois cas d’observation répétés.
+* **Prévenir les autres**Il est important de prévenir les autres de vos soupçons et de garder un journal. Cela permet un suivi des tendances qui autrement pourraient ne pas être évidentes. Par exemple, si vous remarquez quelque chose de suspect et qu’ensuite un collègue remarque autre chose de suspect sans que les informations soient partagées, vous pourriez manquer une occasion précieuse de confirmer une menace de sécurité.
+* **Faire confiance à vos sens**Faites confiance à vos sens, il pourrait y avoir des signes d’une arrestation ou d’une attaque violente potentielle. Souvent, les défenseurs des droits de la personne rapportent qu’il y avait des signes avant-coureurs d’une attaque, mais qu’ils avaient choisi d’ignorer ces prodromes ou de les mettre de côté comme étant de la paranoïa.

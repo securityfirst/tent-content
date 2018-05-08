@@ -1,6 +1,6 @@
 [Title]: # (Rooteo)
 [Order]: # (100)
 
-# Rooting
+# Rooting 
 
-The process of unlocking features on an Android Phone which are otherwise blocked by the manufacturer or mobile carrier in order to gain full access to the operating system.
+El proceso de desbloqueo de funciones en un teléfono Android bloqueado por el fabricante o el operador de telefonía móvil para obtener acceso completo al sistema operativo.
