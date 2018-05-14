@@ -1,7 +1,8 @@
 [Title]: # (Recordando contraseñas seguras)
 [Order]: # (7)
 
-# Recordar contraseñas segurasHay algunos trucos que pueden ayudarle a crear contraseñas que son fáciles de recordar pero muy difíciles de adivinar.
+# Recordar contraseñas seguras
+Hay algunos trucos que pueden ayudarle a crear contraseñas que son fáciles de recordar pero muy difíciles de adivinar.
 
 *	**Variación de mayúsculas, como:** "Mi NOMBRE no es MR. Marca
 *	**Alterar números y letras, tales como:** 'a11 w0Rk 4nD N0 p14Y'

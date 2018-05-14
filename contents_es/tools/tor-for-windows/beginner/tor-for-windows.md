@@ -1,23 +1,22 @@
 [Title]: # ()
 [Order]: # (0)
 
-##TOR GUÍA DE HERRAMIENTAS PARA WINDOWS
+## TOR GUÍA DE HERRAMIENTAS PARA WINDOWS
 
-Guía de herramientas de Tor para Windows 
+Guía de herramientas de Tor para Windows  
 Anonimato y elusión en línea
 
-**Lección para leer: [Internet](umbrella://lesson/the-internet) 
-**Esta guía describe cómo usar el [Tor Browser Bundle]( https://www.torproject.org/projects/torbrowser.html .en ) en Windows. 
-**Requisitos informáticos: una conexión a Internet, una computadora con Windows 
-**Versión utilizada en esta guía: Windows: Windows 7 Ultimate; Tor Browser Bundle: 3.6.2 
-**Licencia: Software gratuito; combinación de licencias de Software Libre 
-**Nivel: Intermedio 
-**Otra lectura: [https: //tor.stackexchange.com/](https://tor.stackexchange.com/) 
-Tiempo requerido:** 15-30 minutos 
+**Lección para leer:** [Internet](umbrella://lesson/the-internet)  
+**Esta guía describe cómo usar el [Tor Browser Bundle](https://www.torproject.org/projects/torbrowser.html.en) en Windows.**  
+**Requisitos informáticos:** una conexión a Internet, una computadora con Windows   
+**Versión utilizada en esta guía:** Windows: Windows 7 Ultimate; Tor Browser Bundle: 3.6.2   
+**Licencia:** Software gratuito; combinación de licencias de Software Libre   
+**Nivel:** Intermedio  
+**Otra lectura:** [https://tor.stackexchange.com/](https://tor.stackexchange.com/)  
+**Tiempo requerido:** 15-30 minutos   
 **El uso de Tor le dará:** 
 -La capacidad de evitar la censura de Internet 
 -La capacidad de conectarse en línea anónimamente
-
 
 ### 1.0 Antes de comenzar
 
@@ -50,7 +49,7 @@ Para cualquier navegador, lo mejor es guardar primero el archivo antes de contin
 Una vez que se complete la descarga, es posible que tenga una opción para abrir la carpeta donde se descargó el archivo La ubicación predeterminada es la carpeta Descargas. Haga doble clic en el archivo _torbrowser-install-X.X.X_en-US.exe_
 ![image](tool_torwin5.png) 
 
-Después de hacer doble clic en el instalador Tor Browser , se abrirá una ventana con una advertencia sobre el origen del software. Siempre debe tomar estas advertencias en serio y asegurarse de que confía en el software que desea instalar y de que obtuvo una copia auténtica del sitio oficial a través de una conexión segura. Como sabe lo que quiere, y sabe dónde obtener el software, y la descarga fue del sitio HTTPS seguro de Tor Project, vaya y haga clic en Ejecutar.
+Después de hacer doble clic en el instalador Tor Browser, se abrirá una ventana con una advertencia sobre el origen del software. Siempre debe tomar estas advertencias en serio y asegurarse de que confía en el software que desea instalar y de que obtuvo una copia auténtica del sitio oficial a través de una conexión segura. Como sabe lo que quiere, y sabe dónde obtener el software, y la descarga fue del sitio HTTPS seguro de Tor Project, vaya y haga clic en Ejecutar.
 ![image](tool_torwin6.png)
 
 Se abrirá una pequeña ventana preguntando qué idioma desea usar para el paquete del navegador Tor. Hay varios para elegir. Elija el idioma que desee y haga clic en el botón Aceptar.
@@ -69,17 +68,17 @@ El paquete del navegador Tor no se instalará con otros programas y no aparecer�
 
 **Iniciando el navegador Tor por primera vez**
 
--Decidió no iniciar Tor Browser cuando terminó con el instalador, por lo tanto, ahora inicie Tor Browser por primera vez. Si siguió todas las configuraciones predeterminadas de la instalación, verá una carpeta en su escritorio llamada Tor Browser.
+- Decidió no iniciar Tor Browser cuando terminó con el instalador, por lo tanto, ahora inicie Tor Browser por primera vez. Si siguió todas las configuraciones predeterminadas de la instalación, verá una carpeta en su escritorio llamada Tor Browser.
 ![image](tool_torwin11.png) 
 
--Abra la carpeta Tor Browser y haga doble clic en el archivo llamado Start Tor Browser.
-![image](tool_torwin12.png)** 
+- Abra la carpeta Tor Browser y haga doble clic en el archivo llamado Start Tor Browser.
+![image](tool_torwin12.png) 
 
--La primera vez que se inicia Tor Browser, obtendrá una ventana que le permite modificar algunos ajustes si es necesario. Es posible que deba volver y cambiar algunas configuraciones, pero continúe e intente conectarse a la red Tor haciendo clic en el botón Conectar.
+- La primera vez que se inicia Tor Browser, obtendrá una ventana que le permite modificar algunos ajustes si es necesario. Es posible que deba volver y cambiar algunas configuraciones, pero continúe e intente conectarse a la red Tor haciendo clic en el botón Conectar.
 ![image](tool_torwin13.png) 
 
--Después de hacer clic en Conectar, se abrirá una nueva ventana con una barra verde que se alargará a medida que se inicie el software Tor.
+- Después de hacer clic en Conectar, se abrirá una nueva ventana con una barra verde que se alargará a medida que se inicie el software Tor.
 ![image](tool_torwin14.png)
 
--La primera vez que arranca el Navegador Tor puede llevar un poco más tiempo de lo habitual, pero tenga paciencia, en pocos minutos Tor Browser estará listo y se abrirá un navegador web felicitándolo.
+- La primera vez que arranca el Navegador Tor puede llevar un poco más tiempo de lo habitual, pero tenga paciencia, en pocos minutos Tor Browser estará listo y se abrirá un navegador web felicitándolo.
 ![image](tool_torwin14.png)

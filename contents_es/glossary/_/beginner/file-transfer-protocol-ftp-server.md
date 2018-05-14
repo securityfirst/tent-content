@@ -1,6 +1,6 @@
-[Title]: # (Protocolo de transferencia de archivos (FTP)
+[Title]: # (Protocolo de transferencia de archivos (servidor FTP))
 [Order]: # (40)
 
-# File Transfer Protocol (FTP server)
+# Protocolo de transferencia de archivos (servidor FTP) 
 
-An old method for copying files from a local computer to a remote one, or vice versa. The job of FTP programs (and the FTP servers that stored the files) has mostly been replaced by web browsers and web servers, or file synchronising programs like Dropbox.
+Un método antiguo para copiar archivos de una computadora local a una remota, o viceversa. El trabajo de los programas FTP (y los servidores FTP que almacenaron los archivos) ha sido reemplazado principalmente por navegadores web y servidores web, o programas de sincronización de archivos como Dropbox.

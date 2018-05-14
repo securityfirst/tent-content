@@ -8,5 +8,4 @@ La vigilancia física sigue siendo un peligro significativo para quienes trabaja
 La contravigilancia es el proceso de detección y mitigación de la vigilancia hostil. En esta lección aprenderá a practicar contra-vigilancia durante uno de los momentos más importantes de su trabajo cuando usa un vehículo, por ejemplo, para trasladarse a una reunión sensible.
 
 Pasa recibir consejo sobre contra-vigilancia cuando sale a pie vaya a la lección Avanzada.
-
 ![image](surveillance4.png)

@@ -1,7 +1,7 @@
 [Title]: # (Tratar con ella)
 [Order]: # (13)
 
-# Como tratar con ella/h1>
+# Como tratar con ella
 
 Es normal experimentar pensamientos perturbadores y confusos después de un evento traumático, pero en la mayoría de las personas esto mejorará de forma natural en unas pocas semanas. Sin embargo, usted debe visitar a su médico, si está teniendo problemas cuatro semanas después de la experiencia traumática, o si los síntomas son particularmente problemáticos. Su médico puede remitirlo con un psicólogo.
 

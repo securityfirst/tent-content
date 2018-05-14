@@ -1,6 +1,8 @@
 [Title]: # (Fase Dos - Alerta)
 [Order]: # (1)
 
+# Fase Dos - Alerta
+
 La agudización de las tensiones o la inestabilidad puede hacer que usted o su organización deba recomendar limitar las operaciones, incrementar las medidas de seguridad y revisar el plan de evacuación. El trabajo por fuera de la oficina o del espacio inmediatamente vecino a ella podría ser suspendido. Algunas tareas durante esta etapa son:
 
 *   Informe de la situación a toda la planta de personal nacional e internaciol.

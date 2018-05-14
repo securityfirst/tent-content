@@ -13,5 +13,3 @@
 *   Mantenga los teléfonos apagados hasta que se encuentre fuera el aeropuerto. Los aeropuertos son áreas comunes para el seguimiento e instalación de virus.
 *   Mantenga la señal de Wi-Fi de su teléfono apagada si no es vital, evite conectarse al Wi-Fi del aeropuerto.
 *   De antemano póngase de acuerdo con sus colegas sobre la ubicación en el edificio donde se encontrarán después de realizado el trámite de inmigración y coordine un tiempo establecido para encender los teléfonos móviles si no podido llegar a encontrarse en este punto y se hace necesario comunicarse.
-
-/p>

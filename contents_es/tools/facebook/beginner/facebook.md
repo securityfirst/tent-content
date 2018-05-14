@@ -5,19 +5,19 @@
 
 ## Cómo cambiar la configuración de privacidad de Facebook
 
-**Lección para leer: [Redes sociales](umbrella://lesson/social-media)**
-**Nivel:** Principiante
-**Tiempo requerido:** 10 minutos
+**Lección para leer:** [Redes sociales](umbrella://lesson/social-media)  
+**Nivel:** Principiante  
+**Tiempo requerido:** 10 minutos  
 
 ### Cómo proteger su privacidad de la búsqueda de gráficos de Facebook
 
 Facebook ahora tiene una función-Búsqueda de gráficos-que ha sido la tema de muchas preocupaciones de privacidad. La búsqueda de gráficos permite a los usuarios realizar búsquedas estructuradas para filtrar a través de amigos, amigos de amigos y desconocidos. Esta función depende de que la información de tu perfil se publique ampliamente o esté disponible públicamente, aunque hay algunos "Me gusta", fotos u otros datos que no te interesan.
 
-Ya que Facebook eliminó la posibilidad de retirarte de los resultados de búsqueda , la Electronic Frontier Foundation elaboró ​​una guía práctica rápida para ayudarlo a tomar el control de lo que aparece en su perfil de Facebook y en los resultados de la búsqueda de gráficos, que hemos resumido a continuación. (Facebook también tiene un nuevo [video](https://www.youtube.com/watch?v=bSji6Y66aKo) explicando cómo controlar lo que aparece en Graph Search.)
+Ya que Facebook eliminó la posibilidad de retirarte de los resultados de búsqueda , la Electronic Frontier Foundation elaboró una guía práctica rápida para ayudarlo a tomar el control de lo que aparece en su perfil de Facebook y en los resultados de la búsqueda de gráficos, que hemos resumido a continuación. (Facebook también tiene un nuevo [video](https://www.youtube.com/watch?v=bSji6Y66aKo) explicando cómo controlar lo que aparece en Graph Search.)
 
-### Lo que es público en mi perfil ?
+### ¿Lo que es público en mi perfil?
 
-Haga clic en el candado de la barra de menú superior, y debajo de "¿Quién puede ver mis cosas? ", haga clic en "Ver como. " Esto lo llevará a la vista pública de su perfil. Aquí puede ver exactamente qué información, fotos y publicaciones están disponibles para el público. Si hay algo que no desea que todo el universo de Facebook pueda ver, puede cambiar las configuraciones individuales para ocultar elementos particulares.
+Haga clic en el candado de la barra de menú superior, y debajo de "¿Quién puede ver mis cosas?", haga clic en "Ver como." Esto lo llevará a la vista pública de su perfil. Aquí puede ver exactamente qué información, fotos y publicaciones están disponibles para el público. Si hay algo que no desea que todo el universo de Facebook pueda ver, puede cambiar las configuraciones individuales para ocultar elementos particulares.
 ![Image](tool_facebook1.png)
 
 ### ¿Cómo me escondo? ¿Mi información general?
@@ -27,7 +27,7 @@ Vaya a su página de perfil y haga clic en "Actualizar información." Puede cont
 
 ### ¿Quién puede ver mis publicaciones, pasadas y futuras?
 
-Puedes acceder a tu [configuración de privacidad](https://www.facebook.com/settings?tab=privacy) haciendo clic en el candado en la barra de menú superior, luego haga clic en "Ver más configuraciones. " Desde aquí, puede elegir su público para futuras publicaciones (incluidas fotos), y también puede limitar quién tiene acceso a publicaciones anteriores que fueron más ampliamente accesibles.
+Puedes acceder a tu [configuración de privacidad](https://www.facebook.com/settings?tab=privacy) haciendo clic en el candado en la barra de menú superior, luego haga clic en "Ver más configuraciones." Desde aquí, puede elegir su público para futuras publicaciones (incluidas fotos), y también puede limitar quién tiene acceso a publicaciones anteriores que fueron más ampliamente accesibles.
 ![image](tool_facebook3.png)
 
 ### ¿Cómo oculto mis álbumes de fotos?
@@ -39,19 +39,18 @@ Tenga en cuenta que etiquetar a otros en una foto de manera predeterminada les d
 
 Para asegurarse de que no se pueda buscar en la foto, debe separarse o informar la foto. Facebook tiene otro [gran video](https://www.youtube.com/watch?v=CaJYQXiu3PY) acerca de cómo hacer esto.
 
-Para disgregarse, haga clic en una foto y en la parte inferior de la imagen haga clic en "Opciones." A continuación, haga clic en "Informar/Eliminar etiqueta. " Esto le da la opción de eliminar su etiqueta, así como también notificar al póster que desea que se elimine la foto.
-![image](tool_facebook6.png)![image](tool_facebook5.png)
+Para disgregarse, haga clic en una foto y en la parte inferior de la imagen haga clic en "Opciones." A continuación, haga clic en "Informar/Eliminar etiqueta." Esto le da la opción de eliminar su etiqueta, así como también notificar al póster que desea que se elimine la foto.
+![image](tool_facebook6.png)
+![image](tool_facebook5.png)
 
-### ¿Cómo oculto mis "Me gusta "?
+### ¿Cómo oculto mis "Me gusta"?
 
 Voy a su página de perfil y hago clic en "Me gusta." Haga clic "Editar" en la parte superior derecha. Desde allí, puede editar quién puede ver sus páginas favoritas en cada categoría individual.
 ![Image](tool_facebook7.png)
 
-### ¿De verdad "Me gusta " estas cosas?
+### ¿De verdad "Me gusta" estas cosas?
 
-While está configurando sus "Me gusta", le recomendamos que se tome un momento para volver a evaluar las páginas que ha enumerado. Unos años más tarde, puede que ya no te gusten "Free Booze Friday ". No simpatizar es tan simple como ir a una página en particular, colocando el mouse sobre "Me gustó " y haciendo clic en "A diferencia
-
-
+While está configurando sus "Me gusta", le recomendamos que se tome un momento para volver a evaluar las páginas que ha enumerado. Unos años más tarde, puede que ya no te gusten "Free Booze Friday". No simpatizar es tan simple como ir a una página en particular, colocando el mouse sobre "Me gustó" y haciendo clic en "A diferencia."
 ![Image](tool_facebook8.png)
 
 ### ¿Cómo hago? ¿esconder a mis amigos y relaciones?
@@ -72,20 +71,20 @@ Lo más importante te parece puede hacer es verificar su configuración de priva
 
 ## Cómo inhabilitar las relaciones con los intermediarios de datos de Facebook
 
-**Lección para leer: [Redes sociales](umbrella://lesson/social-media)**
-**Otra lectura:** [https://www.eff.org/deeplinks/2012/04/4 -simple-changes-protect-your-privacy-online](https://www.eff.org/deeplinks/2012/04/4-simple-changes-protect-your-privacy-online)
-**Nivel:** Principiante
-**Tiempo requerido:** 30 minutos
+**Lección para leer:** [Redes sociales](umbrella://lesson/social-media)  
+**Otra lectura:** [https://www.eff.org/deeplinks/2012/04/4 -simple-changes-protect-your-privacy-online](https://www.eff.org/deeplinks/2012/04/4-simple-changes-protect-your-privacy-online)  
+**Nivel:** Principiante  
+**Tiempo requerido:** 30 minutos  
 
 Facebook se está asociando con cuatro de los intermediarios de datos corporativos más grandes del mundo para "mejorar" la experiencia publicitaria de los usuarios. Datalogix, Epsilon, Acxiom y BlueKai obtienen información recopilada sobre los usuarios a través de medios en línea (como cookies cuando los usuarios navegan en la web) y también a través de medios fuera de línea (como tarjetas de fidelidad en supermercados y tarjetas de garantía de productos). Facebook usará esta información para adaptar sus anuncios. Electronic Frontier Foundation describe lo que esto significa y cómo puede evitarlo.
 
-En términos prácticos, esto significa que limitar la cantidad de información que coloca en Facebook no es suficiente para limitar la orientación de los anuncios en Facebook. Sus intereses, edad, historial de compras (incluso fuera de línea), navegación web, ubicación y mucho más podrían ser almacenados por estos intermediarios de datos y utilizados para comercializar para usted, incluso si ha tenido cuidado de no compartir este tipo de información con Facebook. .
+En términos prácticos, esto significa que limitar la cantidad de información que coloca en Facebook no es suficiente para limitar la orientación de los anuncios en Facebook. Sus intereses, edad, historial de compras (incluso fuera de línea), navegación web, ubicación y mucho más podrían ser almacenados por estos intermediarios de datos y utilizados para comercializar para usted, incluso si ha tenido cuidado de no compartir este tipo de información con Facebook.
 
 Entonces, ¿qué pueden hacer los usuarios? Si le preocupa esta práctica, puede optar por excluirse de los anuncios dirigidos al visitar individualmente cada uno de los socios de los intermediarios de datos que actualmente trabajan con Facebook. A continuación, incluimos instrucciones para inhabilitar cada sitio.
 
 También tenemos dos sugerencias generales:
 
-**1. Instale un complemento para proteger su privacidad en línea.** Facebook está usando "compatibilidad de cookies a ciegas " para hacer coincidir a los usuarios del vendedor en línea BlueKai con cuentas específicas de Facebook. El bloqueo de rastreadores es una buena práctica general para detener este tipo de rastreo. Le recomendamos que utilice una herramienta como [Ghostery](http://www.ghostery.com/) (ahora disponible en Firefox, Safari, Chrome, Opera e Internet Explorer).
+**1. Instale un complemento para proteger su privacidad en línea.** Facebook está usando "compatibilidad de cookies a ciegas" para hacer coincidir a los usuarios del vendedor en línea BlueKai con cuentas específicas de Facebook. El bloqueo de rastreadores es una buena práctica general para detener este tipo de rastreo. Le recomendamos que utilice una herramienta como [Ghostery](http://www.ghostery.com/) (ahora disponible en Firefox, Safari, Chrome, Opera e Internet Explorer).
 
 **2. Evite dar su número de teléfono y dirección de correo electrónico a las empresas cuando sea posible.** Facebook y estas empresas utilizan principalmente direcciones de correo electrónico hash para hacer coincidir los usuarios entre bases de datos, aunque también pueden usar números de teléfono hash. Si va a completar una encuesta o registrarse para recibir actualizaciones por correo electrónico de un sitio web, considere la posibilidad de crear y utilizar una dirección de correo electrónico diferente de la que asocia con su cuenta de Facebook. Del mismo modo, considere configurar un número de teléfono alternativo que pueda proporcionar a las empresas además del número de teléfono que conecta con sus cuentas de redes sociales.
 
@@ -95,7 +94,7 @@ Tenga en cuenta que, en general, se excluyen los datos los corredores no necesar
 
 **Acxiom**
 
-1. Para comenzar, visite el [Formulario de exclusión] de Acxiom (https://isapps.acxiom.com/optout/optout.aspx). Luego desplácese hacia abajo hasta que vea sus "opciones de exclusión voluntaria ". Aquí encontrará una lista de los tipos de medios de comunicación a los que le gustaría optar (correo, telemarketing, correo electrónico y publicidad en línea). Puede verificar los cuatro, aunque tenga en cuenta que su opción de exclusión de publicidad en línea está basada en cookies, lo que significa que desaparecerá cada vez que borre sus cookies.
+1. Para comenzar, visite el [Formulario de exclusión](https://isapps.acxiom.com/optout/optout.aspx) de Acxiom. Luego desplácese hacia abajo hasta que vea sus "opciones de exclusión voluntaria". Aquí encontrará una lista de los tipos de medios de comunicación a los que le gustaría optar (correo, telemarketing, correo electrónico y publicidad en línea). Puede verificar los cuatro, aunque tenga en cuenta que su opción de exclusión de publicidad en línea está basada en cookies, lo que significa que desaparecerá cada vez que borre sus cookies.
 ![image](tool_facebook11.png)
 
 2. Certifique que es solo una persona.
@@ -113,9 +112,9 @@ Felicidades: ¡ha optado por salir de Acxiom!
 
 **Datalogix**
 
-1. Para optar por no participar en este programa, visite la página de privacidad [Datalogix.com](https://www.datalogix.com/privacy/). Desplácese hasta la palabra "Elección " y la última oración del primer párrafo dice:
+1. Para optar por no participar en este programa, visite la página de privacidad [Datalogix.com](https://www.datalogix.com/privacy/). Desplácese hasta la palabra "Elección" y la última oración del primer párrafo dice:
 
-_ "Si desea inhabilitar toda la publicidad compatible con Datalogix en todos los canales, incluidos el correo directo, en línea, móvil y productos analíticos , haz clic aquí. "_
+_"Si desea inhabilitar toda la publicidad compatible con Datalogix en todos los canales, incluidos el correo directo, en línea, móvil y productos analíticos, haz clic aquí."_
 
 2. Haga clic allí y aparecerá un formulario que le pedirá su nombre, dirección y dirección de correo electrónico. Complete esto y haga clic en enviar.
 ![Image](tool_facebook15.png)
@@ -126,25 +125,28 @@ Datalogix promete que la exclusión tendrá efecto dentro de los 30 días. Una v
 
 Como explica Epsilon en su página [Consumer Preference Center](www.epsilon.com/consumer-preference-center), hay varias formas de optar por no participar en la base de datos de marketing de Epsilon:
 
-**CORREO ELECTRÓNICO: ** Envíe un correo electrónico [optout@epsilon.com](mailto: optout@epsilon.com) e incluya la siguiente información:
+**CORREO ELECTRÓNICO:** Envíe un correo electrónico [optout@epsilon.com](mailto: optout@epsilon.com) e incluya la siguiente información:
 - nombre completo (incluida la inicial del segundo nombre)
 - dirección actual
 - dirección anterior si ha estado en su dirección actual menos de seis meses
 
-**TELÉFONO:** Teléfono 1.888.780.3869 y deje la información anterior.
+**TELÉFONO:** Teléfono 1.888.780.3869 y deje la información anterior.  
+**CORREO:** Envíe la información anterior a las siguientes direcciones:
 
-**CORREO: ** Envíe la información anterior a las siguientes direcciones:
-**US Consumidores: ** Epsilon
-? P.O. Cuadro 1478
-? Broomfield, CO 80036
-**Consumidores canadienses:** Epsilon?
-41 Metropolitan Rd.?
-Toronto, Ontario
-? M1R 2T5
+**US Consumidores:**  
+Epsilon  
+P.O. Box 1478  
+Broomfield, CO 80036  
+
+**Consumidores canadienses:**  
+Epsilon  
+41 Metropolitan Rd.  
+Toronto, Ontario  
+M1R 2T5
 
 Notamos que no todos estos métodos requieren que proporcione una dirección de correo electrónico. Epsilon puede tener métodos para hacer coincidir su nombre con su correo electrónico, pero también puede proporcionar su dirección de correo electrónico para estar seguro.
 
-Tenga en cuenta que la exclusión no elimina los datos de la base de datos de Epsilon, sino que simplemente los marca como "suprimidos". "para que dejen de compartirlo con fines de marketing. Esto significa que si la información alguna vez se vuelve a enviar, no se volverá a agregar a la lista.
+Tenga en cuenta que la exclusión no elimina los datos de la base de datos de Epsilon, sino que simplemente los marca como "suprimidos", para que dejen de compartirlo con fines de marketing. Esto significa que si la información alguna vez se vuelve a enviar, no se volverá a agregar a la lista.
 
 **BlueKai**
 

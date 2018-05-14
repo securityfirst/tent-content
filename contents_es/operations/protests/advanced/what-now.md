@@ -12,4 +12,4 @@ Ir a la lección para principiantes para el asesoramiento sobre cubrir una prote
 
 ### Lecturas
 
-*   EFF - Asistencia a las protestas
+*   [EFF - Asistencia a las protestas](https://ssd.eff.org/en/module/attending-protests-international)

@@ -12,9 +12,9 @@ Una vez que se haya instalado el borrador, si desea eliminar de forma segura un 
  Alternativamente, puede borrar de forma segura todos los datos eliminados previamente de su computadora.
  
 *  Inicie el Borrador. 
-*  Haga clic en el botón hacia abajo -flecha de puntero al lado de \ "Borrar programa " y elegir \ "Nueva tarea. " 
+*  Haga clic en el botón hacia abajo - flecha de puntero al lado de "Borrar programa" y elegir "Nueva tarea." 
 *  En el cuadro de diálogo "Propiedades de tarea" que aparece, configure "Tipo de tarea" en "Ejecutar inmediatamente. 
-*  Luego haga clic en el botón " Agregar datos" cerca de la parte inferior del cuadro de diálogo. 
-*  En el cuadro de diálogo " Seleccionar datos para borrar "que aparece, seleccione " Espacio en disco no utilizado" y asegúrese de que esté seleccionada la unidad de disco correcta en el cuadro desplegable (muy probablemente la unidad "(C:)"). 
+*  Luego haga clic en el botón "Agregar datos" cerca de la parte inferior del cuadro de diálogo. 
+*  En el cuadro de diálogo "Seleccionar datos para borrar" que aparece, seleccione "Espacio en disco no utilizado" y asegúrese de que esté seleccionada la unidad de disco correcta en el cuadro desplegable (muy probablemente la unidad "(C:)"). 
 *  Haga clic en "Aceptar" para salir de ambos cuadros de diálogo, y Eraser debería comenzar a borrarse. 
-*  Una vez que se haya borrado, la tarea desaparecerá de la lista de tareas en el "Erase Schedule. "
+*  Una vez que se haya borrado, la tarea desaparecerá de la lista de tareas en el "Erase Schedule."

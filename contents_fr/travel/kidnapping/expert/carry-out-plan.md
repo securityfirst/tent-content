@@ -1,0 +1,8 @@
+[Title]: # (Mise en oeuvre du plan)
+[Order]: # (16)
+
+* Mettez votre plan en oeuvre.
+* Bien que vous souhaitiez naturellement mettre fin à l’incident en toute sécurité et aussi rapidement que possible, les négociations en cas de prise d’otage peuvent parfois prendre des mois et même des années. Préparez l’équipe de gestion de crise à cette éventualité, tout en les encourageant à rester optimistes. Maintenez le moral ; il est important d’avoir suffisamment de nourriture et de repos, mais le plus grand soutien au moral est une bonne gestion de l’incident, avec une circulation complète des informations et en prenant en considération les meilleurs conseils possibles.
+* Assurez-vous d’une confidentialité des plus stricte dès le début de la crise. Les informations ne devraient être partagées qu’en cas de besoin de savoir. Cela pourrait exiger que la chaîne de gestion habituelle soit ignorée, p. ex. si quelqu’un fait partie de l’équipe de gestion de crise, il ne devrait pas avoir à remonter les informations concernant la crise à son supérieur.
+* La rançon ne devrait pas être payée. Toutes les organisations humanitaires devraient avoir une politique claire de non-paiement de rançon en cas d’enlèvement, car un tel paiement encourage davantage d’enlèvements.
+* Pendant la crise, les événements et les décisions significatifs devraient être enregistrés et des leçons devraient si possible être tirées.

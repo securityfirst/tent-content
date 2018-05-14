@@ -3,4 +3,4 @@
 
 # LiveCD
 
-A CD that allows your computer to run a different operating system temporarily.
+Un CD que permite que su computadora ejecute un sistema operativo diferente temporalmente.

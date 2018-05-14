@@ -1,6 +1,6 @@
-[Title]: # (Llavero)
+[Title]: # (Juego de claves)
 [Order]: # (69)
 
-# Keyring
+# Keyring 
 
-If you use public key cryptography, you'll need to keep track of many keys: your secret, private key, your public key, and the public keys of everyone you communicate with. The collection of these keys is often referred to as your key ring.
+Si usa la criptografía de clave pública, necesitará realizar un seguimiento de muchas claves: su clave secreta, privada, su clave pública y las claves públicas de todas las personas con las que se comunique. La recolección de estas claves a menudo se conoce como su llavero.

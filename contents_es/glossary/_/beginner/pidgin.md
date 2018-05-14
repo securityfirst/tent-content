@@ -1,6 +1,6 @@
 [Title]: # (Pidgin)
 [Order]: # (92)
 
-# Pidgin
+# Pidgin 
 
-A FOSS instant messaging tool that supports an encryption plugin called Off the Record (OTR)
+Una herramienta de mensajería instantánea FOSS que admite un complemento de cifrado llamado Off the Record (OTR)

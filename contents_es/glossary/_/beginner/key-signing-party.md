@@ -1,6 +1,6 @@
 [Title]: # (Reunión de firmado de llaves (Key-signing party))
 [Order]: # (70)
 
-# Key-signing party
+# Parte de firma de clave 
 
-When you're using public key encryption, it's important to be sure that the key you use to encrypt a message really belongs to the recipient (see key verification). PGP makes this a little easier by having a way to tell others "I believe this key belongs to this person -- and if you trust me, you should believe that too." Telling the world that you trust someone's key is called "signing their key": it means anyone who uses that key can see you vouched for it. To encourage everyone to check and sign each other's keys, PGP users organize key-signing parties. They're almost, but not quite, as exciting as they sound.
+Cuando usa cifrado de clave pública, es importante asegurarse de que la clave que utiliza para encriptar un mensaje realmente le pertenece al destinatario (consulte la verificación de clave). PGP hace que esto sea un poco más fácil al contarle a los demás "Creo que esta clave pertenece a esta persona, y si confías en mí, debes creer eso también". Decirle al mundo que confías en la clave de alguien se llama "firmando su clave": significa que cualquier persona que use esa clave puede ver que lo avala. Para alentar a todos a verificar y firmar las llaves de los demás, los usuarios de PGP organizan fiestas de firma de llaves. Son casi, pero no del todo, tan emocionantes como suenan.

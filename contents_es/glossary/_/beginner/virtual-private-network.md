@@ -1,6 +1,6 @@
 [Title]: # (Red Privada Virtual)
 [Order]: # (130)
 
-# Virtual Private Network
+# Red privada virtual 
 
-A virtual private network is a method for connecting your computer securely to the network of an organization on the other side of the Internet. When you use a VPN, all of your computer's Internet communications is packaged together, encrypted and then relayed to this other organization, where it is decrypted, unpacked, and then sent on to its destination. To the organization's network, or any other computer on the wider Internet, it looks like your computer's request is coming from inside the organization, not from your location. VPNs are used by businesses to provide secure access to internal resources (like file servers or printers). They are also used by individuals to bypass local censorship, or defeat local surveillance.
+Una red privada virtual es un método para conectar su computadora de forma segura a la red de una organización al otro lado de Internet. Cuando utiliza una VPN, todas las comunicaciones de Internet de su computadora se empaquetan juntas, se cifran y luego se retransmiten a esta otra organización, donde se descifran, desempaquetan y envían a su destino. Para la red de la organización, o cualquier otra computadora en Internet, parece que la solicitud de su computadora proviene de la organización, no de su ubicación. Las VPN son utilizadas por las empresas para proporcionar acceso seguro a recursos internos (como servidores de archivos o impresoras). También son utilizados por individuos para eludir la censura local o vencer la vigilancia local.

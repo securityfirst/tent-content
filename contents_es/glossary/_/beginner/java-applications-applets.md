@@ -1,6 +1,6 @@
-[Title]: # (Aplicaciones Java (Applets)
+[Title]: # (Aplicaciones Java (Applets))
 [Order]: # (62)
 
-# Java Applications (Applets)
+# Aplicaciones Java (Applets)
 
- Small programs that can run under many operating systems and are cross-platform. They are frequently used to provide improved functionalities within web pages.
+ Pequeños programas que pueden ejecutarse bajo muchos sistemas operativos y son multiplataforma. Se utilizan con frecuencia para proporcionar funcionalidades mejoradas dentro de las páginas web.

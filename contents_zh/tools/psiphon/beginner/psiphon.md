@@ -6,14 +6,14 @@
 ## Psiphon 工具指南
 規避網路審查
 
-**學習內容：**[網際網路](umbrella://lesson/the-internet)
-**下載處：**[https://psiphon.ca/en/download.html](https://psiphon.ca/en/download.html)
-**系統需求：**網路連線、運行 Windows 系統的電腦或是 Android 2.2 版本以上的手機(給 iPhones 和 Mac OS X 的 Psiphon 3 即將發佈)
-**本指南所用版本：**Psiphon 3
-**版權宣告：**自由開源軟體；GNU GPL Version 3
-**程度：**初學者
-**其它參考資料：**[https://psiphon.ca/en/user-guide.html](https://psiphon.ca/en/user-guide.html)
-**所費時間：**5 分鐘
+**學習內容：** [網際網路](umbrella://lesson/the-internet)  
+**下載處：** [https://psiphon.ca/en/download.html](https://psiphon.ca/en/download.html)  
+**系統需求：** 網路連線、運行 Windows 系統的電腦或是 Android 2.2 版本以上的手機(給 iPhones 和 Mac OS X 的 Psiphon 3 即將發佈)  
+**本指南所用版本：** Psiphon 3  
+**版權宣告：** 自由開源軟體；GNU GPL Version 3  
+**程度：** 初學者  
+**其它參考資料：** [https://psiphon.ca/en/user-guide.html](https://psiphon.ca/en/user-guide.html)  
+**所費時間：** 5 分鐘
 
 **Psiphon 可讓你：**
 －透過電腦和手機安全地近用網際網路上被封鎖的網站與應用程式。
@@ -25,15 +25,15 @@
 ### 2 在安卓手機上使用 Psiphon
 到[此處下載](https://psiphon.ca/en/download.html)合適的版本。 
 
-從手機上的郵件連結網址或是透過瀏覧器下載其APK檔案後開始安裝。(如果遇上錯誤訊息，可能需要[開啟「網頁載入」(siteloading)](https://psiphon.ca/en/faq.html#android-enable-sideloading)功能。
+從手機上的郵件連結網址或是透過瀏覧器下載其APK檔案後開始安裝。(如果遇上錯誤訊息，可能需要 [開啟「網頁載入(siteloading)](https://psiphon.ca/en/faq.html#android-enable-sideloading)功能。
 
 當啟動 Psiphon 應用程式，它會自動地連結到 Psiphon 網路。當你看到左上角 Psiphon 旁邊的＂P＂出現,就表示 Psiphon 正透過 VPN 連線或是整個設備模式中所有的應用程式皆經由 Psiphon 隧道對外連線。在狀態分頁下，可看到螢幕中間有一個＂P＂出現。這個＂P＂字的顏色顯示了 Psiphon　的連線狀態。
 - 灰色：連線中；
-- 紅色：無連線
+- 紅色：無連線;
 - 藍色：已連線
 ![image](tool_psiphon1.png)
 
-若要將Psiphon通道運行在_全機 Whole Device_ 模式，你的手機必須運行 Android 4.0 以上版本或是取得 rooted 最高權限，否則該功能無法運行。一旦應用程式已連上網路，它會自動開啟 Psiphon 內鍵的瀏覧器。而手機版的 Psiphon 則無法自動將手機上其它程式的網路連線預設通過其對外連線，唯有 Psiphon 內鍵的瀏覧器會通過Psiphon網路運行。
+若要將Psiphon通道運行在 _全機 Whole Device_ 模式，你的手機必須運行 Android 4.0 以上版本或是取得 rooted 最高權限，否則該功能無法運行。一旦應用程式已連上網路，它會自動開啟 Psiphon 內鍵的瀏覧器。而手機版的 Psiphon 則無法自動將手機上其它程式的網路連線預設通過其對外連線，唯有 Psiphon 內鍵的瀏覧器會通過Psiphon網路運行。
 ![image](tool_psiphon2.png)
 
 當開啟 Psiphon 瀏覧器時：
@@ -42,10 +42,10 @@
 - 下方的＂X＂鍵則是關閉目前分頁;
 - 同樣也是頁面下方的星星則是可將目前所在頁面存到書籤中＂+＂則是開啟另一個新分頁。
 
-### 3 Psiphon for Windows</b>
+### 3 Psiphon for Windows
 [此處下載](https://psiphon.ca/en/download.html)合適的版本後，執行該程式。(記得要[先確認](https://psiphon.ca/en/faq.html#authentic-windows)所下載的Psiphon是經過認證授權。)
 
-當執行時,它會自動彈出一個安全警示視窗顯示該程式是由 Psiphon Inc. 的合法產品<img src="tool_psiphon3.png" />
+當執行時,它會自動彈出一個安全警示視窗顯示該程式是由 Psiphon Inc. 的合法產品
 ![image](tool_psiphon3.png)
 
 當你執行 Psiphon 後它會自動連上網路，當其試著連線時會出現一個旋轉的小圖示。你可以選擇以下任一個隧道模式: **VPN、SSH 或 SSH+**

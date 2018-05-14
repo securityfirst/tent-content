@@ -1,6 +1,6 @@
-[Title]: # (Dirección de Protocolo de Internet (Dirección IP)
+[Title]: # (Dirección de Protocolo de Internet (dirección IP))
 [Order]: # (59)
 
-# Internet Protocol address (IP address)
+# Dirección de protocolo de Internet (dirección IP) 
 
-A unique identifier assigned to your computer when it is connected to the Internet
+Un identificador único asignado a su computadora cuando está conectado a Internet

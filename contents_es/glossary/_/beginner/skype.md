@@ -1,6 +1,6 @@
 [Title]: # (Skype)
 [Order]: # (110)
 
-# Skype
+# Skype 
 
-A freeware Voice over IP (VoIP) tool that allows you to speak with other Skype users for free and to call telephones for a fee. The company that maintains Skype claims that conversations with other Skype users are encrypted. Because it is a closed-source tool, there is no way to verify this claim, but many people believe it to be true. Skype also supports instant messaging.
+Una herramienta freeware Voz sobre IP (VoIP) que le permite hablar con otros usuarios de Skype de forma gratuita y llamar a teléfonos por una tarifa. La compañía que mantiene Skype afirma que las conversaciones con otros usuarios de Skype están encriptadas. Debido a que es una herramienta de código cerrado, no hay forma de verificar este reclamo, pero muchas personas creen que es cierto. Skype también es compatible con la mensajería instantánea.

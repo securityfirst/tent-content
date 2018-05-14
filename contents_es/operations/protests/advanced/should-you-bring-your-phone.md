@@ -1,6 +1,8 @@
 [Title]: # (¿Debe llevar su teléfono?)
 [Order]: # (0)
 
+# ¿Debe llevar su teléfono?
+
 Personas activistas y defensoras de los derechos humanos están documentando cada vez más las protestas utilizando cámaras y teléfonos móviles - A menudo logrando un efecto de gran alcance. Los siguientes son consejos útiles para recordar si usted va a una protesta y le preocupa la protección de sus dispositivos electrónicos en el caso que fuese detenido por la policía.
 
 Piense con cuidado que información se encuentra en su teléfono antes de llevarlo a una protesta. Su teléfono contiene una gran cantidad de datos privados, que puede incluir su lista de contactos, las personas a las que ha llamado recientemente, mensajes de texto y correo electrónico, fotos y vídeo, datos de localización GPS, el historial de navegación en internet y contraseñas, además del contenido de su cuentas de redes sociales. A través de las contraseñas almacenadas o cuentas activas, un acceso al dispositivo por parte de terceros puede significar revelar aún más información que se encuentra almacenada en servidores remotos. (Puede cerrar la sesión de estos servicios desde otro dispositivo).

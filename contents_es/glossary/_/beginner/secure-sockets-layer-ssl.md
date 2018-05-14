@@ -1,6 +1,6 @@
-[Title]: # (Capa de conexiones seguras (Secure Sockets Layer o SSL)
+[Title]: # (Secure Sockets Layer (capa de puertos seguros, SSL))
 [Order]: # (103)
 
-# Secure Sockets Layer (SSL)
+# Secure Sockets Layer (SSL) 
 
-The technology that permits you to maintain a secure, encrypted connection between your computer and some of the websites and Internet services that you visit. When you are connected to a website through SSL, the address of the website will begin with HTTPS rather than HTTP.
+La tecnología que le permite mantener una conexión segura y encriptada entre su computadora y algunos de los sitios web y servicios de Internet que visita. Cuando esté conectado a un sitio web a través de SSL, la dirección del sitio web comenzará con HTTPS en lugar de HTTP.

@@ -1,6 +1,6 @@
 [Title]: # (VautletSuite 2 Go)
-[Order]: # (129)
+[Order]: # (128)
 
-# VautletSuite 2 Go
+# VautletSuite 2 Go 
 
-A Freeware encrypted email program
+Un programa de correo electrónico codificado Freeware

@@ -1,6 +1,6 @@
 [Title]: # (Guardian Project)
 [Order]: # (51)
 
-# Guardian Project
+# Guardian Project 
 
-An organisation that creates smartphone apps, mobile devices operating system enhancements and customisations with privacy and security in mind.
+Una organización que crea aplicaciones de teléfonos inteligentes, mejoras y personalizaciones del sistema operativo de dispositivos móviles con la privacidad y la seguridad en mente.

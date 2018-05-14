@@ -1,6 +1,8 @@
 [Title]: # (Llegar a una reunión)
 [Order]: # (3)
 
+# Llegar a una reunión
+
 Si es posible, debería quitar las baterías de los teléfonos antes de viajar al lugar de la reunión, con el fin de evitar el seguimiento a distancia. (Vea la lección de teléfonos móviles para obtener más consejos sobre la mitigación de los riesgos de los teléfonos).
 
 Lo ideal sería que todas las partes lleven a cabo contra-vigilancia cuando se viaja a la reunión. Ver la lección contra-vigilancia para consejos sobre cómo hacer esto. Si la persona con la que se va a reunir no tiene entrenamiento en este aspecto y tiene dudas sobre su seguridad, uno de sus colegas debería ser capaz de comprobar si el contacto ha sido seguido. Debe asegurarse de que está limpio antes de llegar. Si es posible, usted debería llegar primero y comprobar que el área esté libre, revisar los baños, salidas de emergencia y otros accesos.

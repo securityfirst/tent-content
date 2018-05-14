@@ -6,14 +6,15 @@
 ## Cobian Backup
 Realizar los archivos de su computadora
 
-**Lección para leer: [Copia de seguridad](umbrella://lesson/backing-up)**
-**Ubicación de la descarga:** [http://www.cobiansoft.com/cobianbackup.htm](http://www.cobiansoft.com/cobianbackup.htm)
+**Lección para leer:** [Copia de seguridad](umbrella://lesson/backing-up)  
+**Ubicación de la descarga:** [http://www.cobiansoft.com/cobianbackup.htm](http://www.cobiansoft.com/cobianbackup.htm)  
 **Requisitos de la computadora:**
 - XP, 2003 , Vista, 2008, Windows 7
 - Windows 95, 98 y ME son compatibles con la versión 7 de Cobian.
-**Versión utilizada en esta guía:** Cobian 10
-**Licencia:** Freeware
-**Nivel:** Intermedio
+
+**Versión utilizada en esta guía:** Cobian 10  
+**Licencia:** Freeware  
+**Nivel:** Intermedio  
 **Tiempo requerido:** 30 minutos
 
 ### 1. Cosas que debe saber sobre esta herramienta antes de comenzar
@@ -25,34 +26,34 @@ Cobian Backup se utiliza para archivar, (o para crear copia de seguridad) de sus
 - La capacidad de comprimir y descomprimir su archivos de respaldo
 - La capacidad de encriptar y desencriptar sus archivos archivados
 
-** Instalar Cobian - en resumen **
+**Instalar Cobian - en resumen**
 - Abrir www.cobiansoft.com/cobianbackup.htm
-- Haga clic en el enlace "Descargar Cobian Backup "en la página.
+- Haga clic en el enlace "Descargar Cobian Backup" en la página.
 - Guarde el instalador, luego búsquelo y haga doble clic en él
 - Lea la 'Nota de instalación' a continuación antes de continuar
 - Después de instalar con éxito Cobian, puede eliminar el programa de instalación de su computadora.
 
 ### 2.0 Cómo instalar Cobian Backup
 
-** Nota de instalación: ** Antes de comenzar el proceso de instalación, verifique que tenga las últimas versiones de **Instalador de Microsoft Windows** y **Microsoft.NET Framework**.
+**Nota de instalación:** Antes de comenzar el proceso de instalación, verifique que tenga las últimas versiones de **Instalador de Microsoft Windows** y **Microsoft.NET Framework**.
 
 Instalar Cobian Backup es un procedimiento relativamente fácil y rápido.
 
 **Paso 1.** Haga doble clic en "cbsetup.exe "; el cuadro de diálogo _Open File - Security Warning_ puede aparecer. Si lo hace, haga clic en "Ejecutar " para activar el color azul claro _Extrayendo la barra de estado de progreso de resource_, seguido unos momentos más tarde por la siguiente pantalla:
 ![Image](tool_cobian1.png)
 
-**Paso 2.** Haga clic en "Siguiente " para activar el _Lea y acepte la pantalla del acuerdo de licencia_ marque la opción _I accept_ y luego haga clic en "Siguiente" nuevamente para activar la siguiente pantalla:
+**Paso 2.** Haga clic en "Siguiente" para activar el _Lea y acepte la pantalla del acuerdo de licencia_ marque la opción _I accept_ y luego haga clic en "Siguiente" nuevamente para activar la siguiente pantalla:
 ![Image](tool_cobian2.png)
 
 **Paso 3.** Haga clic en "Siguiente" para activar la siguiente pantalla:
 ![image](tool_cobian3.png)
 
-**Paso 4.** Compruebe la _Utilice la opción Account_System local en el panel _Service options_, para que la suya se asemeje a la Figura 3 anterior. Esta opción asegura que Cobian Backup se ejecutará silenciosamente en segundo plano todo el tiempo, para que las copias de seguridad se realicen según lo programado.
+**Paso 4.** Compruebe la _Utilice la opción Account_ System local en el panel _Service options_, para que la suya se asemeje a la Figura 3 anterior. Esta opción asegura que Cobian Backup se ejecutará silenciosamente en segundo plano todo el tiempo, para que las copias de seguridad se realicen según lo programado.
 
-**Paso 5.** Haga clic en "Siguiente " para activar el siguiente mensaje:
+**Paso 5.** Haga clic en "Siguiente" para activar el siguiente mensaje:
 ![image](tool_cobian4.png)
 
-**Paso 6.** Haga clic en "Sí " para activar la siguiente pantalla de instalación, y luego haga clic en "Siguiente " para continuar con el proceso de instalación.
+**Paso 6.** Haga clic en "Sí" para activar la siguiente pantalla de instalación, y luego haga clic en "Siguiente" para continuar con el proceso de instalación.
 
 **Paso 7.** Haga clic en "Hecho" para completar el proceso de instalación. Una vez que se haya completado el proceso de instalación, aparecerá el icono de Cobian Backup en la **Bandeja del sistema de Windows**.
 
@@ -102,7 +103,7 @@ _Pleta obsoleta:_ Puede usar esta opción para que su computadora se ejecute o c
 
 Para comenzar a crear un archivo de respaldo, realice los siguientes pasos:
 
-**Paso 1.** Haga clic en "Archivos " en la barra lateral izquierda de la _Nueva tarea_ ventana para mostrar una _blank_ versión de la siguiente pantalla:
+**Paso 1.** Haga clic en "Archivos" en la barra lateral izquierda de la _Nueva tarea_ ventana para mostrar una _blank_ versión de la siguiente pantalla:
 ![image](tool_cobian6.png)
 
 **Paso 2.** Seleccione los archivos que desea hacer una copia de seguridad. (En _Figura 3_ arriba, la carpeta _My Documents_ está seleccionada.)
@@ -131,25 +132,25 @@ Para que su copia de seguridad automática funcione, debe completar la sección 
 Para configurar las opciones de programación, realice los siguientes pasos:
 
 **Paso 1.** Seleccione "Programar" desde la barra lateral izquierda, para activar el siguiente panel:
-![image](tool_cobian7.png )
+![image](tool_cobian7.png)
 
 Las opciones _Esquema tipo_ se enumeran en el menú desplegable y se describen a continuación:
 
-_Una vez:_ La copia de seguridad se realizará una sola vez en la fecha y hora especificadas en el área _Fecha/Hora_.
+_Once:_ La copia de seguridad se realizará una sola vez en la fecha y hora especificadas en el área _Fecha/Hora_.
 
 _Daily:_ La copia de seguridad se realizará todos los días a la hora especificada en el área _Date/Time_.
 
 _Weekly:_ La copia de seguridad se realizará los días de la semana seleccionada. En el ejemplo anterior, la copia de seguridad se realizará los viernes. También puede seleccionar otros días. La copia de seguridad se realizará en todos los días seleccionados en el momento especificado en el área _Fecha/Hora_.
 
-_Mesimo:_ La copia de seguridad se realizará los días ingresados ​​en el cuadro de días del mes a la hora especificada en _Fecha/Time_ area.
+_Monthly:_ La copia de seguridad se realizará los días ingresados en el cuadro de días del mes a la hora especificada en _Fecha/Time_ area.
 
-_Yearly:_ La copia de seguridad se realizará los días ingresados ​​en el cuadro de días del mes, durante el mes especificado, y en el momento especificado en el área _Date/Time_.
+_Yearly:_ La copia de seguridad se realizará los días ingresados en el cuadro de días del mes, durante el mes especificado, y en el momento especificado en el área _Date/Time_.
 
 _Timer:_ The la copia de seguridad se realizará repetidamente a los intervalos especificados en el cuadro de texto del Temporizador en el área _Fecha/Hora_.
 
-_Manualmente:_ Deberá ejecutar la copia de seguridad usted mismo desde la ventana principal del programa.
+_Manually:_ Deberá ejecutar la copia de seguridad usted mismo desde la ventana principal del programa.
 
-**Paso 2.** Haga clic en "Aceptar " para confirmar las opciones y configuraciones para la programación de la copia de seguridad de la siguiente manera:
+**Paso 2.** Haga clic en "Aceptar" para confirmar las opciones y configuraciones para la programación de la copia de seguridad de la siguiente manera:
 ![Image](tool_cobian8.png)
 
 Una vez que haya decidido hacer una copia de seguridad, habrá completado el último paso. La copia de seguridad ahora se ejecutará en las carpetas especificadas de acuerdo con la programación que haya elegido.
@@ -158,7 +159,7 @@ Una vez que haya decidido hacer una copia de seguridad, habrá completado el úl
 
 **Paso 1.** Cree una tarea de respaldo como se documenta en la sección 2.3, que contiene los archivos de respaldo que desea archivar.
 
-**Paso 2.** Seleccione "Archivar " desde la barra lateral izquierda para activar la pantalla _New task_ de la siguiente manera:
+**Paso 2.** Seleccione "Archivar" desde la barra lateral izquierda para activar la pantalla _New task_ de la siguiente manera:
 ![Image](tool_cobian9. png)
 
 El panel **Compresión** se usa para especificar el método para comprimir su copia de seguridad.
@@ -169,21 +170,21 @@ Las tres subopciones de la lista desplegable _Compresión tipo_ son:
 
 _No Compresión:_ Esta opción no funciona cualquier compresión, como era de esperar.
 
-_Compresión de compresión:_ Esta opción es la técnica de compresión estándar para sistemas ** Windows ** y la más conveniente. Los archivos una vez creados se pueden abrir con las herramientas estándar de Windows (o puede descargar el programa [ZipGenius](http://www.zipgenius.it/) para acceder a ellos).
+_Compresión de compresión:_ Esta opción es la técnica de compresión estándar para sistemas **Windows** y la más conveniente. Los archivos una vez creados se pueden abrir con las herramientas estándar de Windows (o puede descargar el programa [ZipGenius](http://www.zipgenius.it/) para acceder a ellos).
 
 Seleccionar un tipo de compresión enumerado automáticamente habilita las _Opciones de división_ sección, y su lista desplegable correspondiente.
 
 Las _Opciones de división_ se aplican al almacenamiento en medios extraíbles, por ejemplo, CD, DVD, disquetes y memorias USB. Las distintas opciones de división subdividirán el archivo en tamaños que se ajustarán a su dispositivo de almacenamiento preferido.
 
-Ejemplo: Digamos que está archivando una gran cantidad de archivos y desea grabarlos en un CD. Sin embargo, su tamaño de archivo resulta ser más grande que 700 MB (el tamaño de un CD). La función de división dividirá el archivo en partes menores o iguales a 700 MB, que luego puede grabar en sus CD. Si planea hacer una copia de seguridad en el disco duro de su computadora, o los archivos que desea respaldar son más pequeños que el dispositivo en el que planea almacenarlos, puede omitir esta sección.
+**Ejemplo:** Digamos que está archivando una gran cantidad de archivos y desea grabarlos en un CD. Sin embargo, su tamaño de archivo resulta ser más grande que 700 MB (el tamaño de un CD). La función de división dividirá el archivo en partes menores o iguales a 700 MB, que luego puede grabar en sus CD. Si planea hacer una copia de seguridad en el disco duro de su computadora, o los archivos que desea respaldar son más pequeños que el dispositivo en el que planea almacenarlos, puede omitir esta sección.
 
 Las siguientes opciones están disponibles para usted cuando haces clic en la lista desplegable _Split options_. Su elección dependerá del tipo de dispositivo de almacenamiento extraíble disponible para usted.
 ![Image](tool_cobian10.png)
 
-- 3,5 "- Disquete. Esta opción es lo suficientemente grande como para realizar una copia de seguridad de un pequeña cantidad de documentos
-- Zip - Zip Disk (verifique la capacidad del que está utilizando). Necesitará una unidad Zip especial en su computadora y los discos a medida
--CD-R-CD (verifique la capacidad del que está usando). Necesitará un escritor de CD en su computadora y un programa de grabación de CD (consulte la versión [DeepBurner Free](http://www.deepburner.com/) u otras [herramientas de grabación en disco](http://www.thefreecountry.com/utilities/dvdcdburning.shtml)).
-- DVD - Disco DVD (verifique la capacidad del que está usando). Necesitará un DVD Writer en su computadora y un DVD. programa de escritura (vea la versión [DeepBurner Free](http://www.deepburner.com/) u otras [herramientas de grabación de disco](http://www.thefreecountry.com/utilities/dvdcdburning.shtml)).
+- 3,5": Disquete. Esta opción es lo suficientemente grande como para realizar una copia de seguridad de un pequeña cantidad de documentos
+- Zip: Zip Disk (verifique la capacidad del que está utilizando). Necesitará una unidad Zip especial en su computadora y los discos a medida
+- CD-R-CD: (verifique la capacidad del que está usando). Necesitará un escritor de CD en su computadora y un programa de grabación de CD (consulte la versión [DeepBurner Free](http://www.deepburner.com/) u otras [herramientas de grabación en disco](http://www.thefreecountry.com/utilities/dvdcdburning.shtml)).
+- DVD: Disco DVD (verifique la capacidad del que está usando). Necesitará un DVD Writer en su computadora y un DVD. Programa de escritura (vea la versión [DeepBurner Free](http://www.deepburner.com/) u otras [herramientas de grabación de disco](http://www.thefreecountry.com/utilities/dvdcdburning.shtml)).
 
 Si está realizando una copia de seguridad en varias tarjetas de memoria USB, es posible que desee t o establecer un tamaño personalizado.
 
@@ -194,11 +195,11 @@ Para ello, realice los siguientes pasos:
 Para darle una idea de los tamaños
 - 1KB (kilobyte) = 1024 bytes, un documento de texto de una página hecho en Open Office es aproximadamente 20kb
 - 1MB (megabyte) = 1024 KB - una foto tomada en una cámara digital es generalmente entre 1 - 3 MB
-- 1 GB (gigabyte) = 1024 MB - aproximadamente media hora de una película de calidad DVD
+- 1GB (gigabyte) = 1024 MB - aproximadamente media hora de una película de calidad DVD
 
 **Nota:** Cuando elija un tamaño personalizado para dividir su copia de seguridad un disco CD o DVD, Cobian Backup no copiará la copia de seguridad automáticamente en su dispositivo extraíble. Más bien, creará su archivo en esos archivos en la computadora y tendrá que grabarlos en el disco de CD o DVD usted mismo.
 
-_ Contraseña protegida:_ Esta opción le permite ingresar una contraseña para proteger el archivo. Simplemente escriba, luego vuelva a escribir una contraseña en los dos cuadros provistos. Cuando intente descomprimir el archivo, se le pedirá la contraseña antes de que comience la tarea.
+_Password protected_ Esta opción le permite ingresar una contraseña para proteger el archivo. Simplemente escriba, luego vuelva a escribir una contraseña en los dos cuadros provistos. Cuando intente descomprimir el archivo, se le pedirá la contraseña antes de que comience la tarea.
 
 **Nota:** Si desea proteger su archivo, debe pensar en utilizar otro método que no sea una contraseña. Cobian Backup te permite encriptar tu archivo. Esto se trata a continuación.
 
@@ -208,26 +209,26 @@ _Comment:_ Esta opción le permite escribir algo descriptivo sobre el archivo, p
 
 Para descomprimir su copia de seguridad , realice los siguientes pasos:
 
-**Paso 1. Seleccione > Herramientas > Descompresor.**
+**Paso 1.** *Seleccione > Herramientas > Descompresor.*
 
 La ventana del descompresor aparece de la siguiente manera:
 ![image](tool_cobian11.png)
 
 **Paso 2.** Haga clic en el ícono de abrir archivo para abrir una ventana de exploración para permitirle seleccionar el archivo que desea descomprimir.
 
-**Paso 3.** Seleccione el archivo (_.zip_ o _ .7x_ file) y luego haga clic en "OK ".
+**Paso 3.** Seleccione el archivo (_.zip_ o _.7x_ file) y luego haga clic en "OK ".
 
 **Paso 4.** Seleccione un directorio en el cual desempaquetará (salida) el archivo archivado.
 
 **Paso 5.** Haga clic en el icono de compresión para abrir otra ventana que le permite elegir la carpeta en la que desea descomprimir el archivo.
 
-**Paso 6.** Seleccione una carpeta, y luego haga clic en "OK ".
+**Paso 6.** Seleccione una carpeta, y luego haga clic en "OK".
 
 Use Explorador de Windows para ver los archivos que van a esa carpeta.
 
 ### 4.0 Acerca de Encriptación
 
-La encriptación puede ser una necesidad para aquellos que deseen o mantener su copia de seguridad segura del acceso no autorizado. El cifrado es el proceso de codificación o codificación de datos de tal manera que parece ininteligible para cualquiera que no tenga la clave específica necesaria para decodificar el mensaje. Para obtener más información sobre encriptación, lea la lección [Protecting Files](umbrella: // lesson/protect-files).
+La encriptación puede ser una necesidad para aquellos que deseen o mantener su copia de seguridad segura del acceso no autorizado. El cifrado es el proceso de codificación o codificación de datos de tal manera que parece ininteligible para cualquiera que no tenga la clave específica necesaria para decodificar el mensaje. Para obtener más información sobre encriptación, lea la lección [Protecting Files](umbrella://lesson/protect-files).
 
 ### 4.1 Cómo cifrar su archivo de respaldo
 
@@ -239,11 +240,11 @@ Para simplificar las cosas, le recomendamos que elija entre los métodos _Blowfi
 
 **Paso 2.** Seleccione el tipo _Encryption_ que desea usar.
 
-** Nota: * * _Rijndael_ y _Blowfish_ ofrecen aproximadamente el mismo nivel de seguridad. _DES_ es más débil pero el proceso de encriptación es más rápido.
+**Nota:** _Rijndael_ y _Blowfish_ ofrecen aproximadamente el mismo nivel de seguridad. _DES_ es más débil pero el proceso de encriptación es más rápido.
 
 **Paso 3.** Escriba y vuelva a escribir la contraseña en los dos cuadros provistos.
 
-La fortaleza de la contraseña se indica mediante la barra marcada 'Frase de contraseña' calidad'. Cuanto más se mueve la barra hacia la derecha, más fuerte es la frase de contraseña. Consulte la **[Lección Contraseñas](umbrella://lesson/passwords)** para obtener información sobre cómo crear y almacenar contraseñas seguras.
+La fortaleza de la contraseña se indica mediante la barra marcada 'Frase de contraseña' calidad. Cuanto más se mueve la barra hacia la derecha, más fuerte es la frase de contraseña. Consulte la **[Lección Contraseñas](umbrella://lesson/passwords)** para obtener información sobre cómo crear y almacenar contraseñas seguras.
 
 **Paso 4.** Haga clic en "Aceptar".
 
@@ -251,14 +252,14 @@ La fortaleza de la contraseña se indica mediante la barra marcada 'Frase de con
 
 Descifrar el archivo de respaldo es fácil y rápido. Para descifrar su archivo de copia de seguridad, realice los siguientes pasos:
 
-**Paso 1. Seleccione > Herramientas > Descifrador y Teclas:**
+**Paso 1.** *Seleccione > Herramientas > Descifrador y Teclas:*
 
 _Esto activará la ventana Descifrador y Teclas de la siguiente manera:_
 ![image](tool_cobian12.png)
 
-**Paso 2.** Haga clic en "Seleccionar " para seleccionar el archivo que desea descifrar.
+**Paso 2.** Haga clic en "Seleccionar" para seleccionar el archivo que desea descifrar.
 
-**Paso 3.** Haga clic en "Destino " "para seleccionar la carpeta en la que almacenar el archivo descifrado.
+**Paso 3.** Haga clic en "Destino" para seleccionar la carpeta en la que almacenar el archivo descifrado.
 
 **Paso 4.** Seleccione el mismo tipo de cifrado que seleccionó anteriormente, en la sección 4.1 Cómo cifrar su archivo de respaldo, en la lista desplegable _Métodos_ .
 
@@ -266,6 +267,6 @@ _Esto activará la ventana Descifrador y Teclas de la siguiente manera:_
 
 **Paso 5.** Escriba su frase de contraseña en los campos de texto _Passphrase_.
 
-**Paso 6.** Haga clic en "Descifrar! "
+**Paso 6.** Haga clic en "Descifrar!"
 
 Los archivos se descifrarán a la ubicación que usted especificó. Si los archivos también se comprimieron, tendrá que descomprimirlos como se describe en la sección 3.1 Cómo descomprimir su copia de seguridad.

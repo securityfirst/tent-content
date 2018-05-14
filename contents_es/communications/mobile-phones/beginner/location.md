@@ -4,7 +4,6 @@
 ## 3. Los teléfonos arrojan información acerca de su ubicación
 
 La mayor amenaza a la privacidad desde los teléfonos móviles es la manera en que anuncian su ubicación todo el día y la noche a través de las señales que emiten. Todo teléfono móvil informa automática y regularmente al proveedor del servicio teléfonico de dónde está en ese momento. Sólo si un teléfono está apagado o sin señal se evitará que emita tales señales.
-
 ![image](mobile4.png)
 
 Si tiene un smartphone, su ubicación también se puede rastrear desde las aplicaciones, el Wi-Fi, o el Bluetooth. Muchas aplicaciones usan su ubicación GPS para ayudárles a proporcionar servicios, o sólo para recopilar datos para su propio uso. Sólo debe activar su localización cuando lo necesite, y asegúrese de que sólo concede permisos de localización a las aplicaciones en las que confíe y para las que haya una buena razón para que sepan dónde está usted.

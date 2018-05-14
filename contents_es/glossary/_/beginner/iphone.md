@@ -1,6 +1,6 @@
 [Title]: # (iPhone)
 [Order]: # (58)
 
-# iPhone
+# iPhone 
 
-A brand of smartphones designed by Apple that run the Apple's iOS operating system.
+Una marca de teléfonos inteligentes diseñada por Apple que ejecuta el sistema operativo iOS de Apple.

@@ -6,14 +6,14 @@
 ## WINDOWS 系統下的 TOR 工具指南
 線上匿名與對抗網路審查利器
  
-**學習內容：[網際網路](umbrella://lesson/the-internet)**
-**本指南將簡介如何使用 [Tor瀏覧器軟體包](https://www.torproject.org/projects/torbrowser.html.en)於 Windows 作業系統。
-**電腦系統需求：**網路連線，運行於 Windows 環境的電腦
-**本指南使用版本：**Windows: Windows 7 Ultimate; Tor Browser Bundle: 3.6.2
-**版權宣告：**免費自由軟體; 混合式自由軟體
-**程度：**中級
-**其它參考資料：**[https://tor.stackexchange.com](https://tor.stackexchange.com/)
-**所需時間：**15-30 分鐘
+**學習內容：** [網際網路](umbrella://lesson/the-internet)  
+**本指南將簡介如何使用** [Tor瀏覧器軟體包](https://www.torproject.org/projects/torbrowser.html.en)於 Windows 作業系統。  
+**電腦系統需求：** 網路連線，運行於 Windows 環境的電腦  
+**本指南使用版本：** Windows: Windows 7 Ultimate; Tor Browser Bundle: 3.6.2  
+**版權宣告：** 免費自由軟體; 混合式自由軟體  
+**程度：** 中級  
+**其它參考資料：** [https://tor.stackexchange.com](https://tor.stackexchange.com/)  
+**所需時間：** 15-30 分鐘  
 
 **使用Tor可讓你：**
 - 瀏覧網路躲避審查；
@@ -31,7 +31,7 @@ Tor 是由志工所維護的一個網路服務，它透過遮蔽來源與身份�
 
 ### 2.0 取得Tor 瀏覧器軟體包
 
-開啟原用的網頁瀏覧器，如 Mozilla Firefox 或 Internet Explorer，然後在網址處輸入：[https://www.torproject.org/projects/torbrowser.html.en](https://www.torproject.org/projects/torbrowser.html.en)。如果是透過搜尋引擊來找 Tor 瀏覧器軟體包，請確認它的網址是正確的。
+開啟原用的網頁瀏覧器，如 Mozilla Firefox 或 Internet Explorer，然後在網址處輸入：[https://www.torproject.org/projects/torbrowser.html.en](https://www.torproject.org/projects/torbrowser.html.en) 。如果是透過搜尋引擊來找 Tor 瀏覧器軟體包，請確認它的網址是正確的。
 ![image](tool_torwin1.png)
 
 點擊紫色的下載按鍵來下載程式安裝包。
@@ -68,7 +68,7 @@ Tor 瀏覧器軟體包並未一併安裝其它程式，也不會出現在你電�
 
 ### 3.0 使用 Tor 瀏覧器軟體包 
 
-**第一次使用 Tor 瀏覧器**：當你完成程式安裝時，並未選擇立即啟動，這是第一次啟動 Tor 瀏覧器。如果你完全按照預設的安裝設定，你將會在電腦桌面上看到一個名為“Tor Browser”的資料夾。
+**第一次使用 Tor 瀏覧器** ：當你完成程式安裝時，並未選擇立即啟動，這是第一次啟動 Tor 瀏覧器。如果你完全按照預設的安裝設定，你將會在電腦桌面上看到一個名為“Tor Browser”的資料夾。
 ![image](tool_torwin11.png)
 
 打開這個資料然後雙擊其中一個叫作“Start Tor Browser”的檔案

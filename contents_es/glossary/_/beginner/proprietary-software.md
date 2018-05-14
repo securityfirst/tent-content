@@ -1,6 +1,6 @@
 [Title]: # (Software propietario)
 [Order]: # (94)
 
-# Proprietary software
+# Software propietario 
 
-The opposite of Free and Open-Source Software (FOSS). These applications are usually commercial, but can also be freeware with restrictive license requirements.
+Lo opuesto al software libre y de código abierto (FOSS). Estas aplicaciones suelen ser comerciales, pero también pueden ser freeware con requisitos de licencia restrictivos.

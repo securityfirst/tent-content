@@ -1,6 +1,6 @@
 [Title]: # (Cifrado de disco completo)
 [Order]: # (46)
 
-# Full disk encryption
+# Cifrado completo del disco 
 
-If you're planning on securing data on your local device, you could choose to just encrypt a few key files, or you could encrypt everything on the computer. "Full disk encryption " is the term for encrypting everything. It's usually safer (and often easier) to use full disk encryption than to manage just a few individually encrypted files. If you try to encrypt just individual files, your computer might make temporary unencrypted copies of those files without you noticing. And some software might keep some unencrypted records about your use of your computer. Apple's OS X, Linux and high-end versions of Windows all have built-in full disk encryption, but it is usually not turned on by default.
+Si está planeando proteger los datos en su dispositivo local, puede optar por simplemente encriptar algunos archivos clave, o puede encriptar todo en la computadora. "Encriptación completa de disco" es el término para encriptar todo. Por lo general, es más seguro (y a menudo más fácil) utilizar el cifrado de disco completo que administrar solo unos pocos archivos individualmente cifrados. Si intenta encriptar solo archivos individuales, su computadora puede realizar copias temporales sin cifrar de esos archivos sin que usted se dé cuenta. Y algunos programas pueden mantener algunos registros no encriptados sobre el uso de su computadora. Las versiones de Windows X, Linux y de high-end de Apple tienen cifrado de disco completo incorporado, pero por lo general no está activado por defecto.

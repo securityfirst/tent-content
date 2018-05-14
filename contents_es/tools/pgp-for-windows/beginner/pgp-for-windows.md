@@ -6,21 +6,22 @@
 ## PGP para Windows PC Guía de herramientas
 Email encriptado para Windows
 
-**Lección para leer:**
-- **[Correo electrónico](umbrella://lesson/email)**
+**Lección para leer:** [Correo electrónico](umbrella://lesson/email)  
 **Ubicación de descarga:**
 - GPG4Win
 - Mozilla Thunderbird
 - Enigmail
-**Requisitos de computadora:** Una conexión a Internet, una computadora con Mac OS X, una cuenta de correo electrónico
+
+**Requisitos de computadora:** Una conexión a Internet, una computadora con Mac OS X, una cuenta de correo electrónico  
 **Versión utilizada en esta guía:**
 - Windows: Windows 7 Ultimate
 - Mozilla Thunderbird 24.6.0
 - Enigmail 1.7
 - GPG4Win 2.2.1
-**Licencia:** Software libre; combinación de licencias de Software Libre
-**Nivel:** Avanzado
-**Tiempo requerido:** 30-60 minutos
+
+**Licencia:** Software libre; combinación de licencias de Software Libre  
+**Nivel:** Avanzado  
+**Tiempo requerido:** 30-60 minutos  
 
 **El uso de PGP le dará:**
 - La capacidad de proteger su correo electrónico comunicaciones de ser leído por cualquier persona, excepto sus destinatarios previstos.
@@ -36,13 +37,13 @@ La gente normalmente usará esto solo en sus propios dispositivos personales, no
 
 ### 1.1 Información general
 
-Para usar PGP para intercambiar correos electrónicos seguros, debe unir tres programas: GPG4Win (GNU Privacy Guard para Windows conocido como GnuPG), Mozilla Thunderbird y Enigmail. .
+Para usar PGP para intercambiar correos electrónicos seguros, debe unir tres programas: GPG4Win (GNU Privacy Guard para Windows conocido como GnuPG), Mozilla Thunderbird y Enigmail.
 
 - GnuPG es el programa que realmente encripta y descifra el contenido de su correo.
 - Mozilla Thunderbird es un cliente de correo electrónico que le permite leer y escribir correos electrónicos sin usar un navegador.
 - Enigmail es un complemento de Mozilla Thunderbird que lo une todo.
 
-Nota! Lo que esta guía enseña es cómo usar PGP con Mozilla Thunderbird, un programa cliente de correo electrónico que realiza una función similar a la de Outlook. Puede tener su propio programa de software de correo electrónico favorito (o utilizar un servicio de correo web como Google Mail o Outlook.com). Esta guía no le dirá cómo usar PGP con estos programas. Puede optar por instalar Thunderbird y experimentar con PGP con un nuevo cliente de correo electrónico, o puede investigar otras soluciones para usar PGP con su software habitual. Todavía no hemos encontrado una solución satisfactoria para estos otros programas.
+**Nota! Lo que esta guía enseña es cómo usar PGP con Mozilla Thunderbird, un programa cliente de correo electrónico que realiza una función similar a la de Outlook. Puede tener su propio programa de software de correo electrónico favorito (o utilizar un servicio de correo web como Google Mail o Outlook.com). Esta guía no le dirá cómo usar PGP con estos programas. Puede optar por instalar Thunderbird y experimentar con PGP con un nuevo cliente de correo electrónico, o puede investigar otras soluciones para usar PGP con su software habitual. Todavía no hemos encontrado una solución satisfactoria para estos otros programas.**
 
 **El uso de PGP no encripta completamente su correo electrónico: la información del remitente y del receptor aún no está encriptada, al igual que la línea de asunto.**
 
@@ -88,7 +89,6 @@ Many los navegadores le pedirán que confirme si desea descargar este archivo. I
 ![image](tool_pgpwin5.png)
 Para cualquier navegador, lo mejor es guardar primero el archivo antes de continuar, haga clic en el botón "Guardar "botón. De forma predeterminada, la mayoría de los navegadores guardan los archivos descargados en la carpeta de descargas.
 
-
 Después de descargar Enigmail, GPG4Win y Mozilla Thunderbird debe tener tres archivos nuevos en su carpeta de descargas:
 ![image](tool_pgpwin6.png)
 
@@ -111,8 +111,8 @@ El paquete GPG4Win Vanilla no tiene componentes para seleccionar, entonces haga 
 Siguiente, tendrá la posibilidad de elegir dónde está instalado GPG. No cambie la configuración predeterminada. Haga clic en el botón "Siguiente".
 ![image](tool_pgpwin11.png)
 
-Las siguientes dos ventanas tendrán algunas opciones de instalación. Haga clic en el botón "Siguiente" y luego haga clic en el botón "Instalar ":
-![Imagen](herramienta_pgpwin12.png)![Imagen](herramienta_pgpwin13.png)
+Las siguientes dos ventanas tendrán algunas opciones de instalación. Haga clic en el botón "Siguiente" y luego haga clic en el botón "Instalar":
+![Image](herramienta_pgpwin12.png)![Imagen](herramienta_pgpwin13.png)
 
 Verá una ventana con un progreso bar: cuando termine, dirá "Instalación completa." Haga clic nuevamente en el botón "Siguiente".
 ![image](tool_pgpwin14.png)
@@ -174,12 +174,9 @@ Correo saliente (SMTP) Servidor: requiere TLS
 - Requiere autenticación: Sí
 - Use la misma configuración que el servidor de correo entrante
 
-**Nombre completo o nombre para mostrar:** [su nombre o seudónimo]
-
-**Nombre de la cuenta o nombre de usuario:** su dirección completa de Gmail (username@gmail.com). Usuarios de Google Apps, ingresen username@your_domain.com
-
-**Dirección de correo electrónico:** su dirección completa de Gmail (username@gmail.com) Usuarios de Google Apps, ingresen username@your_domain.com
-
+**Nombre completo o nombre para mostrar:** su nombre o seudónimo  
+**Nombre de la cuenta o nombre de usuario:** su dirección completa de Gmail (username@gmail.com). Usuarios de Google Apps, ingresen username@your_domain.com  
+**Dirección de correo electrónico:** su dirección completa de Gmail (username@gmail.com) Usuarios de Google Apps, ingresen username@your_domain.com  
 **Contraseña:** su contraseña de Gmail
 
 **Si usa la autenticación de dos factores con Google (y dependiendo de su modelo de amenaza, probablemente debería hacerlo) no puede usar su contraseña estándar de Gmail con Thunderbird. En su lugar, deberá crear una nueva contraseña específica de la aplicación para que Thunderbird acceda a su cuenta de Gmail. Consulte [Guía propia de Google](https://support.google.com/mail/answer/1173270?hl=en) para hacer esto.**
@@ -191,14 +188,14 @@ Mozilla Thunderbird comenzará a descargar copias de su correo electrónico a su
 
 **Paso 3. Instalar Enigmail**
 
-Enigmail se instala de forma diferente a Mozilla Thunderbird y GPG4Win. Como se mencionó anteriormente, Enigmail es un complemento para Mozilla Thunderbird. Haga clic en el "Botón de menú," también llamado botón Hamburger, y seleccione "Agregar Ons. "
+Enigmail se instala de forma diferente a Mozilla Thunderbird y GPG4Win. Como se mencionó anteriormente, Enigmail es un complemento para Mozilla Thunderbird. Haga clic en el "Botón de menú," también llamado botón Hamburger, y seleccione "Agregar Ons."
 ![image](tool_pgpwin26.png)
 
 Se lo llevará a la pestaña del Administrador de Complementos .
 ![image](tool_pgpwin27.png)
 
 Haga clic en el engranaje para abrir un pequeño menú y seleccione "Instalar add-on desde el archivo" que abrirá una ventana de selección de archivos.
-![ imagen](tool_pgpwin28.png)
+![ image](tool_pgpwin28.png)
 
 Es muy probable que la ventana de selección de archivos se abra en la carpeta Descargas. Si no lo hace, vaya a la carpeta de Descargas (donde se guardó Enigmail) haga clic en enigmail-1.7-tb + sm.xpi y luego haga clic en el botón "Abrir".
 ![image](tool_pgpwin29.png)
@@ -210,7 +207,7 @@ Después de instalar el complemento Enigmail, Mozilla Thunderbird le pedirá que
 ![image](tool_pgpwin31.png)
 
 Cuando se reinicie Mozilla Thunderbird, se abrirá una ventana adicional que iniciará el proceso de configuración de Enigmail Añadir. Mantenga el botón "Sí, me gustaría que el asistente me haga funcionar" y haga clic en el botón "Siguiente".
-![Imagen](tool_pgpwin32.png)
+![Image](tool_pgpwin32.png)
 
 Enigmail le proporciona tres opciones para manejo de correo. La opción predeterminada es cifrar los correos electrónicos si tiene la "clave pública" de otra persona, Enigmail cifrará el correo electrónico que envía pero dejará los correos electrónicos sin cifrar si todavía no tiene la clave pública del destinatario. También tiene la opción de encriptar correos electrónicos todo el tiempo a todos con las llaves PGP, lo que significa que tendrá que encontrar las claves públicas para las personas para las que aún no las tiene, o desactivar por completo el cifrado automático y solo usar PGP cuando se lo indique.
 ![image](tool_pgpwin33.png)
@@ -233,8 +230,8 @@ Las siguientes opciones puede ser desmarcado (reactivado), para una transición 
 - Deshabilitar texto circulado
 - Ver el cuerpo del mensaje como texto sin formato
 - No redacte mensajes HTML.
-La opción final evita posibles problemas en el cifrado y descifrado de su correo electrónico. Tenga en cuenta que al seleccionar esta casilla se eliminará la posibilidad de enviar texto en negrita, subrayado o coloreado. Después de revisar los cambios, haga clic en el botón "Aceptar. "
 
+La opción final evita posibles problemas en el cifrado y descifrado de su correo electrónico. Tenga en cuenta que al seleccionar esta casilla se eliminará la posibilidad de enviar texto en negrita, subrayado o coloreado. Después de revisar los cambios, haga clic en el botón "Aceptar."
 
 La pequeña ventana se cerrará. Haga clic en el botón "Siguiente".
 
@@ -245,9 +242,9 @@ Ahora comenzará a crear su clave privada y clave pública.
 Instalación y configuración de Enigmail add- encendido está completo. Ahora tendrá la opción de crear su par de claves pública y privada. Esto supone que no ha creado una clave privada antes.
 
 Haga clic en el botón "Siguiente".
-![Imagen](tool_pgpwin37.png)
+![Image](tool_pgpwin37.png)
 
-A menos que haya configurado más de una cuenta de correo electrónico, Enigmail elija la cuenta de correo electrónico que ya ha configurado. Lo primero que tendrá que hacer es crear una contraseña segura para su clave privada. Consulte la ** [lección de contraseñas](paraguas: // lección / contraseñas) ** para obtener más información sobre cómo hacer esto.
+A menos que haya configurado más de una cuenta de correo electrónico, Enigmail elija la cuenta de correo electrónico que ya ha configurado. Lo primero que tendrá que hacer es crear una contraseña segura para su clave privada. Consulte la **[lección de contraseñas](umbrella://lesson/passwords)** para obtener más información sobre cómo hacer esto.
 
 Asegúrese de haber anotado esta frase de contraseña en papel hasta que la haya memorizado. Guárdelo en algún lugar donde pueda saber si se lo tomaron o vieron (como su billetera o cartera). Solo asegúrese de no dejar este documento por ahí.
 
@@ -263,7 +260,7 @@ Es posible prolongar el período de vigencia de una clave existente dándole una
 Enigmail generará la clave y, cuando se complete, se abrirá una pequeña ventana que le pedirá que genere un certificado de revocación. Es importante tener este certificado de revocación, ya que le permite hacer que la clave privada y la clave pública no sean válidas. Es importante tener en cuenta que simplemente eliminar la clave privada no invalida la clave pública y puede hacer que las personas le envíen mensajes encriptados que no puede descifrar.
 
 Haga clic en el botón "Generar certificado".
-![ imagen](tool_pgpwin39.png)
+![image](tool_pgpwin39.png)
 
 Se abrirá una ventana para proporcionarle un lugar donde guardar el certificado de revocación. Mientras puede guardar el archivo en su computadora, le recomendamos que guarde el archivo en una unidad USB que está utilizando para nada más y que guarde la unidad en un lugar seguro. También recomendamos eliminar el certificado de revocación de la computadora con las claves, solo para evitar la revocación involuntaria.
 
@@ -336,7 +333,7 @@ Resalte el certificado en negrita, luego haga clic con el botón derecho para ab
 ![image](tool_pgpwin50.png)
 
 Una ventana pequeña aparecerá con tres botones. Haga clic en el botón "Exportar solo claves públicas".
-![Imagen](tooL_pgpwin51.png)
+![image](tooL_pgpwin51.png)
 
 Asegúrese de no hacer clic en el botón "Exportar claves secretas" porque exportar la clave secreta podría permitir que otros para suplantarlo si pueden adivinar su contraseña.
 
@@ -375,7 +372,7 @@ Si vuelve a abrir la ventana de administración de claves Enigmail, puede verifi
 
 Es posible que obtenga una clave pública descargándola de un sitio web o que alguien la haya enviado a través del software de chat. En un caso como este, supondrá que ha descargado el archivo en la carpeta Descargas.
 
-Abra el Enigmail Key Manager y haga clic en el menú "Archivo". Seleccione "Importar claves del archivo. "
+Abra el Enigmail Key Manager y haga clic en el menú "Archivo". Seleccione "Importar claves del archivo."
 ![image](tool_pgpwin57.png)
 
 La clave pública puede tener terminaciones de nombre de archivo muy diferentes, como .asc, .pgp o .gpg. Seleccione el archivo y haga clic en el botón "Abrir".
@@ -386,10 +383,10 @@ Se abrirá una pequeña ventana que le mostrará los resultados de la importaci�
 
 **c) Obtener una clave pública de un servidor de claves**
 
-Seriedores de servidores puede ser una forma muy útil de obtener claves públicas Intenta buscar una clave pública. Abra el administrador de claves y luego haga clic en el menú "Keyserver" y seleccione "Search for Keys. "
+Seriedores de servidores puede ser una forma muy útil de obtener claves públicas Intenta buscar una clave pública. Abra el administrador de claves y luego haga clic en el menú "Keyserver" y seleccione "Search for Keys."
 ![image](tool_pgpwin60.png)
 
-Una ventana pequeña aparecerá con un campo de búsqueda. Puede buscar por una dirección de correo electrónico completa, una dirección de correo electrónico parcial o un nombre. En este caso, buscará certificados que contengan "eff.org. "
+Una ventana pequeña aparecerá con un campo de búsqueda. Puede buscar por una dirección de correo electrónico completa, una dirección de correo electrónico parcial o un nombre. En este caso, buscará certificados que contengan "eff.org."
 ![image](tool_pgpwin61.png)
 
 Una ventana más grande aparecerá con muchas opciones. Si se desplaza hacia abajo notará que algunos certificados están en cursiva y atenuados. Estos son certificados que han sido revocados o caducados por su cuenta.
@@ -414,9 +411,9 @@ Ahora enviará su primer correo cifrado a un destinatario. En la ventana princip
 Escriba su mensaje e ingrese un destinatario. Para esta prueba, seleccione un destinatario cuya clave pública ya tiene. Enigmail detectará esto y encriptará automáticamente el correo electrónico.
 ![image](tool_pgpwin67.png)
 
-Note que la línea de asunto no estará encriptada, así que elige algo inocuo, como "hello." _
+Note que la línea de asunto no estará encriptada, así que elige algo inocuo, como "hello."
 
-Cuando hace clic en el botón "Enviar ", se le dará una ventana para ingresar la contraseña de su clave PGP. ¡Recuerde que esto es diferente de su contraseña de correo electrónico!
+Cuando hace clic en el botón "Enviar", se le dará una ventana para ingresar la contraseña de su clave PGP. ¡Recuerde que esto es diferente de su contraseña de correo electrónico!
 
 Ingrese su contraseña y luego haga clic en el botón "OK" y su correo electrónico será encriptado y enviado.
 ![image](tool_pgpwin68.png)
@@ -447,7 +444,7 @@ Las claves PGP generadas por Enigmail expiran automáticamente después de cinco
 Podría tener una buena razón para desactivar la clave PGP antes de que caduque. Quizás desee generar una clave PGP nueva y más sólida. La forma más fácil de revocar su propia clave PGP en Enigmail es a través del Enigmail Key Manager.
 ![image](tool_pgpwin74.png)
 
-Haga clic con el botón derecho en su clave PGP (está en negrita) y seleccione la" Revoque la opción "clave
+Haga clic con el botón derecho en su clave PGP (está en negrita) y seleccione la "Revoque la opción" clave
 ![image](tool_pgpwin75.png)
 
 Aparecerá una ventana que le informará qué sucede y le pedirá confirmación. Haga clic en el botón "Revocar clave".
@@ -474,7 +471,8 @@ Es posible que recibas certificados de revocación de amigos como un aviso de qu
 
 En la sección anterior, habrás notado que Enigmail genera e importa un certificado de revocación internamente cuando utiliza Enigmail Key Manager para revocar una clave. Como ya tiene un certificado de revocación, usará el que generó anteriormente para revocar su propia clave.
 
-Comience con Enigmail Key Manager y haga clic en el menú "Archivo" y seleccione "Importar claves del archivo. "\ n![image](tool_pgpwin80.png)
+Comience con Enigmail Key Manager y haga clic en el menú "Archivo" y seleccione "Importar claves del archivo."
+![image](tool_pgpwin80.png)
 
 Se abrirá una ventana para que pueda seleccionar el certificado de revocación. Haga clic en el archivo y haga clic en el botón "Abrir".
 ![image](tool_pgpwin81.png)

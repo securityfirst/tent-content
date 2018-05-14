@@ -1,6 +1,6 @@
-[Title]: # (Voz sobre IP (VoIP)
+[Title]: # (Voz sobre IP (VoIP))
 [Order]: # (131)
 
-# Voice over IP (VoIP)
+# Voz sobre IP (VoIP) 
 
-The technology that allows you to use the Internet for voice communication with other VoIP users and telephones
+La tecnología que le permite usar Internet para comunicarse por voz con otros usuarios de VoIP y teléfonos

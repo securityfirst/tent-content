@@ -1,192 +1,188 @@
 [Title]: # ()
 [Order]: # (0)
 
-# PGP FOR MAC O SX TOOL GUIDE
+# PGP FOR MAC OSX 工具指南
 
-## PGP for Mac O SX Tool Guide   
-Encrypted email for Mac
+## PGP for Mac OSX 工具指南
+为Mac加密的电子邮件
 
-**Lesson to read:   
-- [Email](umbrella://lesson/email)**  
-**Download Location:**  
- - [GPG Suite](https://gpgtools.org/)   
-- [Mozilla Thunderbird](https://www.mozilla.org/thunderbird/)   
+**课程阅读：**
+- [电子邮件](伞：//课程/电子邮件) 
+**下载位置：** 
+- [GPG Suite](https://gpgtools.org/)
+- [Mozilla Thunderbird](https://www.mozilla.org/thunderbird/) 
 - [Enigmail](https://www.enigmail.net/home/index.php)  
-**Computer requirements:** An internet connection, a computer running Mac OS X, an email account  
-**Version used in this guide:** - GPG Suite Beta 4  
-- Mozilla Thunderbird 31.2.0  
-- Enigmail 1.7.2  
-**License:** Free Software; mix of Free Software licenses  
-**Level:** Advanced  
-**Other reading:** [http://support.gpgtools.org/](http://support.gpgtools.org/)  
-**Time required:** 30-60 minutes
+**计算机要求：** 互联网连接，运行Mac OS X的计算机，电子邮件帐户  
+**本指南中使用的版本：** 
+- GPG Suite Beta 4 
+- Mozilla Thunderbird 31.2.0 
+- Enigmail 1.7.2   
+**许可证：** 免费软件;自由软件许可证的混合
+**级别：** 高级  
+**其他阅读：** [http://support.gpgtools.org/](http://support.gpgtools.org/)  
+**所需时间：** 30-60分钟
 
-**Using PGP will give you:**  
-- The ability to protect your email communications from being read by anyone except their intended recipients.  
-- The ability to prove that an email came from a particular person, instead of being a fake message sent by another sender (it is otherwise very easy for email to be fabricated). Both of these are important defenses if you're being targeted for surveillance or misinformation.
+**使用PGP将为您提供：** 
+- 保护您的电子邮件通讯不被任何人阅读，但他们的目标收件人除外。 
+- 能够证明电子邮件来自某个特定的人，而不是由另一个发件人发送的假消息（否则电子邮件很容易被伪造)。这些都是重要的防御措施，如果您是针对监控或错误信息。
 
-### 1.0 Before you start 
+### 1.0开始之前
 
-To use Pretty Good Privacy (PGP), you will need to install some extra software that will work with your current email program. You will also need to create a private key, which you will keep private. The private key is what you will use to decrypt emails sent to you, and to digitally sign emails that you send to show they truly came from you. Finally, you'll learn how to distribute your public key-a small chunk of information that others will need to know before they can send you encrypted mail, and that they can use to verify emails you send.
+要使用Pretty Good Privacy（PGP)，您需要安装一些额外的软件使用您当前的电子邮件程序。您还需要创建一个私人密钥，您将保密。私钥用于解密发送给您的电子邮件，并对您发送的电子邮件进行数字签名，以显示它们确实来自您。最后，您将学习如何分发您的公钥 - 其中一小部分信息是其他人在向您发送加密邮件之前需要知道的信息，并且可用于验证您发送的电子邮件。
 
-This guide will show you how to use PGP with an Apple Mac (but not iPad or iPhone), with either the Mac's built-in Mail program, or with Mozilla Thunderbird, a popular alternative email program.
+本指南将显示您可以通过Mac内置的Mail程序或Mozilla Thunderbird（一种流行的替代电子邮件程序)，与Apple Mac（但不包括iPad或iPhone)一起使用PGP。
 
-You can't currently use PGP directly with a web email service like Gmail, Hotmail, Yahoo! Mail, or Outlook Live. You can still use your webmail address; you'll just have to configure it with the Thunderbird program on your computer.
+您目前无法直接使用PGP Gmail，Hotmail，Yahoo!等网页电子邮件服务。邮件或Outlook Live。您仍然可以使用您的网络邮件地址;您只需在计算机上使用Thunderbird程序对其进行配置。
 
-**Note that both ends of the email conversation need to be using PGP-compatible software for it to work.**
+**请注意，电子邮件对话的两端都需要使用PGP兼容软件才能正常工作。** 
 
-People will normally use this only on their own personal devices, not on shared devices. Fortunately, PGP is available for most desktop computers and mobile devices, and you can point them to these guides to help them set up their own version. This guide is for Mac users.
+人们将通常只在他们自己的个人设备上使用，而不是在共享设备上使用。幸运的是，PGP可用于大多数台式电脑和移动设备，您可以将它们指向这些指南以帮助他们设置自己的版本。本指南适用于Mac用户。
 
-### 2.0 Installing GPGTools on your Mac 
+### 2.0在Mac上安装GPGTools 
 
-PGP is an open standard, which means that more than one piece of software can use it. The software we're going to use for PGP is called the GPG Suite, from GPG Tools, because it works on Macs, is free for anyone to use, and it's open source: the underlying source code is available for anyone to check for bugs and backdoors.
+PGP是一个开放标准，这意味着多个软件可以使用它。我们将用于PGP的软件称为GPG套件，来自GPG Tools，因为它可以在Mac上使用，任何人都可以免费使用，而且它是开源的：底层的源代码可供任何人检查错误和后门程序。
 
-Once the GPG Suite is installed, you can set up your keys for the first time, and then enable PGP on Apple Mail and, optionally, Thunderbird.
+安装GPG Suite后，您可以首次设置密钥，然后在Apple Mail和Thunderbird上启用PGP。
 
-**Step 1: Install the program.**
+**第1步：安装程序。** 
 
-First, go to [https://www.gpgtools.org/](https://www.gpgtools.org/) in your browser and choose "Download GPG Suite.
+首先，在您的浏览器中转到[https://www.gpgtools.org/](https://www.gpgtools.org/) 并选择\“Download GPG Suite 
 ![image](tool_pgposx1.png)
 
-You'll end up with a disk image that you can click on to install the software. If you're not accustomed to installing third-party software on your computer, ask a nearby Mac expert - this is a step most techies can help you with, even if they don't know PGP or encryption.
+您将得到一个磁盘映像，您可以点击它来安装该软件。如果您不习惯在计算机上安装第三方软件，请向附近的Mac专家咨询 - 是大多数技术人员可以帮助您的一步，即使他们不知道PGP或加密。
 ![image](tool_pgposx2.png)
 
-Clicking on install will give you a list of tools that will be added to your computer.
+单击安装会为您提供将添加到你的电脑。
 ![image](tool_pgposx3.png)
 
-**_What exactly am I installing here?_**
+**_我究竟在什么安装在这里？_** 
 
-These are tools will mostly work behind the scenes so that more than one program on your Mac can use PGP. Think of them as programs that other programs can use, rather than applications that you will use directly. GPGMail lets Apple Mail send and read PGP emails, GPG Keychain Access lets you keep your private and public keys in the same manner as you can save other passwords on your Mac.
+这些工具将主要在幕后工作，以便Mac上的多个程序可以使用PGP。把它们想象成其他程序可以使用的程序，而不是直接使用的应用程序。 GPGMail允许Apple Mail发送和阅读PGP电子邮件，GPG Keychain Access允许您以保存其他密码的方式保存您的私钥和公钥。
 
-GPGServices optionally adds a feature to OS X to let you use PGP directly in programs other than email (for instance, in a word processor). GPGPreferences is for changing PGP settings in Apple's preferences. Finally, MacGPG2 is the basic tool that any program needs to use to do encryption or signing.
+GPGServices可选地向OS X添加一项功能以供您使用PGP直接在电子邮件以外的程序中（例如，在文字处理器中)。 GPGPreferences用于在Apple的偏好设置中更改PGP设置。最后，MacGPG2是任何程序需要用来进行加密或签名的基本工具。
 
-In October 2014, the GPG Tools team announced that they would soon be charging for GPGMail, the part of their package that lets you use GPG with Apple's Mail application. This tutorial is about using GPG with Thunderbird, so it doesn't use that component. You can just use the zero-cost part of the GPG Suite, as outlined here, if you like. This option has the added benefit that all of these tools are "free software" meaning you are still allowed to freely examine, edit and redistribute GPG Mail's underlying source code, so they are even more secure. For more information, see GPG Tools' [own FAQ](https://gpgtools.org/news.html) on their decision. 
+ 2014年10月，GPG工具团队宣布他们很快将对GPGMail收费，GPGMail是他们软件包的一部分，可让您使用GPG与苹果的邮件应用程序。本教程是关于在Thunderbird中使用GPG，因此它不使用该组件。如果您愿意，您可以使用GPG套件的零成本部分，如此处所述。这个选项带来的额外好处是，所有这些工具都是“免费软件”，这意味着您仍然可以自由检查，编辑和重新分配GPG Mail的底层源代码，因此它们更加安全。有关更多信息，请参阅GPG工具的[自己的常见问题](https://gpgtools.org/news.html)。 
 
-
-Click "Continue" to install GPG Suite.
+单击“继续”安装GPG套件。
 ![image](tool_pgposx4.png)
 
-When the installation is complete, open GPG Keychain (found in your applications folder) if it doesn't automatically open and prompt you to generate your PGP keys after installation.  Click "New" to generate your PGP keys.
+安装完成后，如果GPG钥匙串没有运行，请打开GPG钥匙串t会自动打开并提示您在安装后生成PGP密钥。 
 ![image](tool_pgposx5.png)
 
-**Step 2: Create your PGP key**
+**步骤2：创建您的PGP密钥** 
 
-Sometimes when you install new software, your computer will pester you with questions that have no obvious answer, without actually giving you any advice on how to reply. This is one of those times.
+有时当您安装新软件时，您的计算机会用没有明显答案的问题来纠缠你，而实际上却没有给你任何关于如何回复的建议。这是其中一次。
 
-It's important to spend a little time thinking about the answers you'll give here, because changing your PGP key details can be difficult later, and if you've chosen to publish your key somewhere, you won't be able to unpublish it. (There are still thousands of old public keys from the 1990's floating around, with the names and old email addresses of the people who made them back then.)
+重要的是花一点时间思考您在此给出的答案，因为稍后更改您的PGP密钥细节可能很困难，并且如果您选择在某处发布密钥，您将无法取消发布。（从1990年代起，仍然有成千上万的旧密钥随着人们的姓名和旧电子邮件地址而变化。)
 
-PGP keys contain a name and an email address that link the key to you. The email address will be one of the ways others can discover which key to use when they are encrypting a message to you.
+PGP密钥包含一个名称和一个将密钥链接到您的电子邮件地址。电子邮件地址是其他人可以在向您加密邮件时发现使用哪个密钥的方式之一。
 
-**_When should I not put my real name or email address on my PGP key? When shouldn't I upload my key?_**
+**_何时不应将我的真实姓名或电子邮件地址放在我的PGP密钥上？什么时候不应该上传我的密钥？_** 
 
-For most people, it makes sense to add a real email address to your key, and upload it to the public keyservers - it's how people will match the right key to you. They can send you an email directly, and know it will be encrypted with the right key, and when they receive a signed email from you, the digital signature will be marked with your name.
+对于大多数人来说，为密钥添加一个真实的电子邮件地址并将其上传到公钥服务器是有意义的 - 这就是人们如何将正确的密钥与您匹配。他们可以直接向您发送电子邮件，并知道将使用正确的密钥进行加密，并且当他们收到您签名的电子邮件时，数字签名将标有您的姓名。
 
-For some people, though, it will not make sense to add your real name to your key, for instance if your threat model means that having your identity publicly attached to your key (and the linked email address) is not a good idea. Edward Snowden communicated with journalists using PGP and an anonymous email address before he revealed his identity; his PGP key certainly wasn't marked with his name.
+但对于某些人，它会将真实姓名添加到密钥上是没有意义的，例如，如果您的威胁模型意味着将您的身份公开地添加到密钥（和链接的电子邮件地址)不是一个好主意。在他透露自己的身份之前，爱德华斯诺登与使用PGP和匿名电子邮件地址的记者进行了沟通;他的PGP密钥肯定没有用他的名字标记。
 
-**Uploading your key is normal practice, but it can reveal that you're using encryption, even if you don't use your own name. Also, as we'll see, others might upload your key and associate their own key with it, implying that you and they have a connection. That can be harmful if you are communicating and don't want people to know it. It can also be troublesome if you're not communicating, but your attacker wants people to think that you are associated.**
+**上传密钥是正常的做法，但它可以显示您正在使用加密，即使您不使用自己的名字。另外，正如我们将看到的，其他人可能会上传您的密钥并将其与自己的密钥相关联，这意味着您和他们有联系。如果你正在交流并且不希望别人知道这件事，这可能是有害的。如果你没有交流，也可能很麻烦，但是你的攻击者希望人们认为你是相关的。** 这是一个粗略的指导方针：如果你一般在考虑使用假名，那么使用假名（和替代电子邮件)标记您的密钥。如果您处于更危险的环境中，当您不想让人们知道您使用PGP或知道您与谁进行通信时，请勿将密钥上传至公钥服务器 - 并确保小型你与之沟通的一群人知道不要上传你的钥匙。还有其他一些验证密钥的方法，这些方法不依赖公钥服务器提供的密钥 - 请参阅EFF的指南[密钥验证](https://ssd.eff.org/en/module/key-verification#overlay=n/node/37/)以获取更多信息。
 
-Here's a rough guideline: if you're thinking about using a pseudonym generally, use that pseudonym (and alternative email) when labeling your key. If you are in a more dangerous environment, when you don't want people to know you're using PGP at all, or know who you are communicating with, don't upload your key to the public keyservers - and make sure the small group of people you're communicating with know not to upload your key either. There are other ways of verifying keys that don't rely on them being available on the public key server - see EFF's guide to [Key Verification](https://ssd.eff.org/en/module/key-verification#overlay=en/node/37/) for more information.
+如果您希望让其他人快速找到您的密钥，以便他们能够向您发送加密消息，请单击“上传后再上传公钥”框。这就像是将您的电话号码添加到公共电话目录中：您不需要它，但这对其他人很方便。
 
-Click the "Upload public key after generation" box if you'd like to let others find your key quickly so that they can send you encrypted messages. It's like adding your phone number to a public phone directory: you don't need it, but it's convenient for others.
-
-Before generating the key, expand "Advanced options." You can leave the comment blank, and leave the key type "RSA and RSA (default)." But make sure to change the Length field to 4096.
+在生成密钥之前，请展开“高级选项”。您可以将注释留空，然后离开密钥类型“RSA和RSA（默认)”但请确保将长度字段更改为4096. 
 ![image](tool_pgposx6.png)
 
-**Your key will expire at a certain time; when that happens, other people will stop using it entirely for new emails to you, though you might not get any warning or explanation about why. So, you may want to mark your calendar and pay attention to this issue a month or so before the expiration date.**
+**您的密钥将在某个时间到期;当发生这种情况时，其他人将不再使用它来完全发送给你的新邮件，尽管你可能没有得到任何关于原因的警告或解释。因此，您可能希望标记日历，并在到期日期前一个月左右注意此问题。** 
 
-It's possible to extend the lifetime of an existing key by giving it a new, later expiration date, or it's possible to replace it with a new key by creating a fresh one from scratch. Both processes might require contacting people who email you and making sure that they get the updated key; current software isn't very good at automating this. So make a reminder for yourself; if you don't think you'll be able to manage it, you can consider setting the key so that it never expires, though in that case other people might try to use it when contacting you far in the future even if you no longer have the private key or no longer use PGP.
+可以通过为现有密钥提供一个新的过期日期来延长其使用期限，或者可以通过从头开始创建一个新密钥来替换它。这两个流程都可能需要联系向您发送电子邮件的人员，并确保他们获得更新的密钥;目前的软件并不擅长自动化。所以请提醒你自己;如果你不认为自己能够管理它，那么你可以考虑设置密钥以便它永不过期，尽管在这种情况下，其他人可能会在将来与你联系时尝试使用它，即使你不再有私钥或不再使用PGP。
 
-When you're ready, click the "Generate key" button.
+当您准备好时，请点击“生成密钥”按钮。
 
-You computer will start generating both your public and private key. It shouldn't take any more than a couple of minutes to finish (it takes a while because to create your keys, your computer needs to gather random numbers. Think of it as your computer throwing a pair of dice many, many, many times.)
+您的计算机将开始生成公钥和私钥。完成时间不应该超过几分钟（这需要一段时间，因为要创建您的密钥，您的计算机需要收集随机数字。将其视为您的计算机会多次，多次地掷出一对骰子。)
 ![image](tool_pgposx7.png)
 
-When you're done generating your key, you'll see it key listed in GPG Keychain Access. You can double-click on your key to see information about it, including its "fingerprint "-a unique way to identify your PGP key.
+当您完成密钥生成时，您会看到GPG Keychain Access中列出的密钥。您可以双击密钥以查看有关密钥的信息，包括它的“fingerprint” - 一种识别您的PGP密钥的独特方式。
 
-Now is a good time to generate a revocation certificate. (A revocation certificate is a file that you can generate that announces that you no longer trust that key. You generate it when you still have the secret key, and keep it for any future disaster.) In the future, if you ever worry that your private key has been copied by someone, you accidentally delete or lose your private key, or you forget your passphrase, you can tell everyone it has been revoked, or cancelled, by using a revocation certificate. 
+现在是生成撤销证书的好时机。（撤销证书是一个文件，您可以生成该文件，宣布您不再信任该密钥，当您仍然拥有密钥时生成该密钥，并将其保留用于将来的任何灾难。)将来，如果您担心您的私钥已被某人复制，您意外删除或丢失了您的私钥，或者您忘记了密码，可以通过使用吊销证书告诉所有人它已被吊销或取消。 
 
-It's better to create one now, because you need the private key and passphrase to create a revocation certificate. If you leave it until later, you might lose one or the other, and then it will be too late. So create a certificate by clicking on your key, choosing the "Key" menu entry, and then "Create Revocation Certificate." You'll be prompted for somewhere to save the file. You might want to keep it with a backup copy of the key (see next step).
+现在创建一个更好，因为您需要私钥和密码来创建撤销证书。如果你把它留到以后，你可能会失去一个或另一个，然后就太迟了。因此，通过点击您的密钥，选择“Key ”菜单条目，然后“创建吊销证书”来创建证书。系统会提示您在某处保存文件。您可能希望保留该密钥的备份副本（请参阅下一步)。
 
-**Step 3: Back up your PGP key**
+**第3步：备份您的PGP密钥** 
 
-If you lose access to your private key, you won't be able to decrypt any incoming PGP mail, or your old mail. On the other hand, you want to keep your private key as securely as you can.
+如果您失去对私钥的访问权限，无法解密任何传入的PGP邮件或您的旧邮件。另一方面，您希望尽可能安全地保留您的私钥。
 
-You might want to save a backup copy to a USB key, which you keep safely hidden. You will only need it if you lose your original key, but for safety you will want to keep it out of the hands of your potential attackers.
+您可能希望将备份副本保存到USB密钥中，并将其保密。如果您丢失了原始密钥，您只需要它，但为了安全起见，您不希望将其从潜在攻击者的手中移除。
 
-**_Is everything lost if my attackers get hold of my PGP private key?_**
+**_如果攻击者获得我的PGP私钥，一切都会丢失吗？_** 
 
-What if you get your Mac stolen, or your backup key is taken from you? Does that mean your PGP messages are vulnerable? No: if you've chosen a good passphrase and nobody has been able to learn what it is, you should still be mostly protected. To be safe, you may want to revoke your old key, and create a new PGP key. This won't stop your old key from being able to decrypt your old email, but it will discourage other people from using the old key for their new emails to you.
+如果您的Mac被盗，或者您的备份密钥已被盗取？这是否意味着你的PGP信息是脆弱的？否：如果您选择了一个好的密码并且没有人能够知道它是什么，那么您仍然应该受到大部分保护。为了安全起见，您可能需要撤销旧密钥，并创建一个新的PGP密钥。这不会阻止您的旧密钥解密您的旧电子邮件，但它会阻止其他人将旧密钥用于他们的新电子邮件。
 
+ 
+要备份密钥，请打开GPG密钥链访问。选择您的密钥，然后单击工具栏中的“导出”。将USB驱动器放入机器，然后在“另存为...”对话框的“Where”部分中选择它。检查“允许密钥导出”复选框。
 
-To backup your key, open GPG Keychain Access. Select your key, and click "Export" in the toolbar. Put your USB drive into the machine, and choose it in the "Where" part of the "Save As..." dialog. Check the "Allow secret key export" checkbox.
+**选项A) 配置 Apple Mail**
 
-**OPTION A) Configuring Apple Mail**
-
-When you first open Apple Mail, you'll see a first run wizard that helps you set up your email address. Fill out your name, email address, and your email password and click "Create."
+当您第一次打开Apple Mail时，您会看到第一个运行向导，可帮助您设置您的电子邮件地址。填写您的姓名，电子邮件地址和您的电子邮件密码，然后单击“创建。”
 ![image](tool_pgposx8.png)
 
-**Mail account setup wizard**
+**邮件帐户设置向导** 
 
-If you use popular free email services like Gmail, Mail should be able to automatically detect your email settings when you click Continue. If it doesn't, you may need to manually configure your IMAP and SMTP settings. Talk to the company you use for email, or ask someone technical who is familiar with your email provider (so, an IT person at work, or a technical friend who uses the same ISP as you. They don't need to know about PGP, but you can ask them "Can you set up Apple Mail for me?").
+如果您使用流行Gmail等免费电子邮件服务，当您点击继续时，Mail应该能够自动检测您的电子邮件设置。如果没有，您可能需要手动配置您的IMAP和SMTP设置。与您使用电子邮件的公司联系，或询问熟悉您的电子邮件提供商的技术人员（所以，工作中的IT人员或与您使用相同ISP的技术人员，他们不需要了解PGP ，但你可以问他们“你可以为我设置Apple Mail吗？”)。
 ![image](tool_pgposx9.png)
 
-**Mail account setup auto-detect
+**邮件帐户设置自动检测** 
 
+当您撰写新邮件时，主题字段下方会显示两个图标。有一个挂锁（加密电子邮件)和一个明星（数字签名电子邮件)。如果挂锁已关闭，则意味着此电子邮件将被加密，如果明星已签入，则表示此电子邮件将进行数字签名。
 
+ 
+**发送PGP签名或加密电子邮件** 
+ ![image](tool_pgposx10.png)
 
-When you're composing a new message, there are two icons just beneath the Subject field. There's a padlock (encrypt email) and a star (digitally sign email). If the padlock is closed it means this email will be encrypted, and if the star has a check in it, it means this email will be digitally signed.
+即使收件人不使用PGP，您也可以随时在电子邮件上签名。由于数字签名电子邮件需要您的密钥，因此Mail会在您首次签署电子邮件时弹出一个窗口询问您的密码。
 
+如果您通过电子邮件发送的人使用PGP并且您拥有该人的公钥，则只能对电子邮件进行加密。如果加密挂锁图标被解锁并变灰，所以您无法点击它，这意味着您首先需要导入收件人的公钥。请求他们发送给您，或者使用GPG Keychain Access应用程序从公钥服务器中找到密钥。
 
-Sending PGP Signed or Encrypted Email**
-![image](tool_pgposx10.png)
+要绝对安全，您需要验证您从密钥服务器或您的同事获得的密钥。有关更多信息，请参阅EFF的指南[密钥验证](https://ssd.eff.org/en/module/key-verification#overlay=en/node/37/)。
 
-You can always sign your email, even if the recipient doesn't use PGP. Because digitally signing emails requires your secret key, Mail will pop up a window asking for your passphrase when you first sign an email.
+**选项B) 使用PGP与 Mozilla Thunderbird**
 
-You can only encrypt emails if the person you're emailing uses PGP and you have that person's public key. If the encryption padlock icon is unlocked and greyed out so you can't click on it, this means you first need to import the recipient's public key. Either ask them to send it to you, or use the GPG Keychain Access app to find the key to from a public keyserver.
+本演练演示如何将GPG与来自Mozilla的免费开源Thunderbird邮件客户端一起使用，以及用于电子邮件加密的Enigmail插件。
 
-To be absolutely safe, you'll need to verify the keys you get from the keyserver or your colleague. See EFF's guide to [Key Verification](https://ssd.eff.org/en/module/key-verification#overlay=en/node/37/) for more information.
-
-**OPTION B) Using PGP with Mozilla Thunderbird**
-
-This walkthrough shows how to use GPG with the free, open source, Thunderbird mail client from Mozilla, together with the Enigmail plugin for email encryption.
-
-First, download Thunderbird from [https://www.mozilla.org/thunderbird](https://www.mozilla.org/thunderbird), mount the disk image as you did with GPG Tools, and drag the Thunderbird into Applications. When you open it for the first time it will ask if you want to set it as your default email client. Go ahead and click "Set as Default."
+首先，从[https：/ / /www.mozilla.org/thunderbird](https://www.mozilla.org/thunderbird) ，像使用GPG Tools一样安装磁盘映像，然后将Thunderbird拖放到应用程序中。当你第一次打开时，它会询问你是否想将它设置为默认的电子邮件客户端。继续并单击“设置为默认值”。
 ![image](tool_pxposx11.png)
 
-Then you will see the first run wizard. To set up your existing email address, click "Skip this and use my existing email." Then enter your name, email address, and the password to your email account.
+然后您将看到第一个运行向导。要设置您的现有电子邮件地址，请点击“跳过此并使用我现有的电子邮件。”然后在您的电子邮件帐户中输入您的姓名，电子邮件地址和密码。
 ![image](tool_pgposx12.png)
 
-If you use popular free email services like Gmail, Thunderbird should be able to automatically detect your email settings when you click Continue. If it doesn't, you may need to manually configure your IMAP and SMTP settings-ask your ISP, or a technical friend who knows about setting up email, to help. Sometimes, Thunderbird can just guess the correct settings.
+如果您使用Gmail等流行的免费电子邮件服务，则当您单击继续时，Thunderbird应该能够自动检测您的电子邮件设置。如果没有，您可能需要手动配置您的IMAP和SMTP设置 - 请询问您的ISP或知道设置电子邮件的技术朋友以获取帮助。有时，Thunderbird只能猜出正确的设置。
 
-**If you use two-factor authentication with Google (and depending on your threat model you probably should!) you cannot use your standard Gmail password with Thunderbird. Instead, you will need to create a new application-specific password for Thunderbird to access your Gmail account. See [Google's own guide](https://support.google.com/mail/answer/1173270?hl=en) for doing this.** 
+**如果您对Google使用双因素身份验证（并且取决于您的威胁模型，您可能应该！)，因此无法在Thunderbird中使用标准Gmail密码。相反，您需要为Thunderbird创建一个新的应用程序专用密码才能访问您的Gmail帐户。请参阅[Google自己的指南](https://support.google.com/mail/answer/1173270?hl=zh-CN)。** 
 ![image](tool_pgposx13.png)
 
-After you're done configuring Thunderbird to check your email, click "Done." Then click on "Inbox" in the top left to load your emails.
+在“重新配置Thunderbird来检查你的电子邮件，点击“完成”。然后点击左上角的“收件箱”加载你的电子邮件。
 
-Now that you've installed and configured Thunderbird to work with your email, you need to install [Enigmail](https://www.enigmail.net/home/index.php), the GPG add-on for Thunderbird. In Thunderbird, click the menu icon in the top-right, and choose Add-ons.
+现在你已经安装并配置了Thunderbird来处理你的电子邮件，您需要安装Thunderbird的GPG附件[Enigmail](https://www.enigmail.net/home/index.php)。在Thunderbird中，点击右上角的菜单图标，然后选择附加组件。
 ![image](tool_pgposx14.png)
 
-Search for "enigmail" in the search box in the top right.
+在右上角的搜索框中搜索enigmail 
 ![image](tooL_pgposx15.png)
 
-Click the Install button next to the Enigmail extension to download and install Enigmail. When it's done, click "Restart Now" to restart Thunderbird.
+点击Enigmail扩展旁边的安装按钮下载并安装Enigmail。完成后，单击“立即重新启动”以重新启动Thunderbird。
 
-The first time you run Thunderbird with Enigmail enabled it opens the OpenPGP Setup Wizard. Click "Cancel." We will manually configure Enigmail instead.
+首次运行启用Enigmail的Thunderbird时，将打开OpenPGP安装向导。 
 
-Click the menu button, hover over Preferences, and choose Account Settings.
+请点击菜单按钮，将鼠标悬停在首选项上，然后选择帐户设置。
 ![image](tool_pgposx16.png)
 
-Go to the OpenPGP Security tab. Make sure "Enable OpenPGP support (Enigmail) for this identity" is checked. "Use specific OpenPGP key ID" should be selected, and if your key isn't already selected you can click "Select Key" to select it.
+转到OpenPGP安全性标签。确保选中“为此标识启用OpenPGP支持（Enigmail)”。“使用特定的OpenPGP密钥ID”应该被选中，如果你的密钥没有被选中，你可以点击“选择密钥”来选择它。
 
-You should also check "Sign non-encrypted message by default," "Sign encrypted messages by default," and "Use PGP/MIME by default," but not (for most people) "Encrypt messages by default."
+你还应该检查“默认情况下，“”默认情况下对加密邮件进行签名“和”默认使用PGP/MIME“，但不是（对大多数人)”默认加密邮件“
 
-If most of the people that you email use PGP (or you would like to encourage them to do so), you may wish to encrypt by default. It would be ideal to encrypt all the emails you send, but that is not always possible. Remember that you can only send encrypted email to other people who use PGP, and you need to have their public keys in your keychain. For most people, manually choosing to encrypt each email you send will probably work best.
+如果大多数人你的电子邮件使用PGP（或者你想鼓励他们这样做)，你可能希望默认进行加密。加密您发送的所有电子邮件将是理想的，但这并非总是可行。请记住，您只能将加密电子邮件发送给使用PGP的其他人，并且您需要将公钥存储在钥匙串中。 
 ![image](tool_pgposx17.png)
 
-Then click "OK" to save all of the settings.
+然后点击“确定”保存所有的设置。
 
-Congratulations, you now have Thunderbird and Enigmail set up! Here are a couple of quick pointers:
+恭喜，您可以通过手动选择加密您发送的每封电子邮件，你现在已经成立了Thunderbird和Enigmail！以下是一些快速指示器：
 
-- You can click the menu button, hover over OpenPGP, and open Key Management to see the PGP key manager that's build-in to Enigmail. It's very similar to GPG Keychain Access, and it's your choice which you use.  
-- When you're composing a new message, there are two icons in the bottom right corner of the window: a pen (digitally sign email) and a key (encrypt email). If the icons are gold it means they are selected, and if they're silver it means they're not selected. Click on them to toggle signing and encrypting the email you're writing.
+- 您可以单击菜单按钮，将鼠标悬停在OpenPGP上，然后打开密钥管理以查看内置于Enigmail的PGP密钥管理器。这与GPG Keychain Access非常相似，您可以选择使用它。 
+- 当您撰写新消息时，窗口右下角有两个图标：一支笔（数字签名电子邮件)和一个密钥（加密电子邮件)。如果图标是黄金，则表示它们已被选中，如果它们是银色，则表示它们未被选中。点击它们来切换签名和加密您正在撰写的电子邮件。
 ![image](tool_pgposx18.png)

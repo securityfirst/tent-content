@@ -4,7 +4,6 @@
 # Vigilancia
 
 La vigilancia es la monitorización de comportamientos, actividades y otros patrones de las personas con el objetivo de protegerlas o dañarlas, influenciarlas, dirigirlas o controlarlas.
-
 ![image](surveillance1.png)
 
 **Por qué alguien podría estar interesado en vigilarle físicamente?**

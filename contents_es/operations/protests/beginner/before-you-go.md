@@ -1,6 +1,8 @@
 [Title]: # (Antes de ir)
 [Order]: # (6)
 
+# Antes de ir
+
 Las marchas de protesta, manifestaciones o encuentros no planificados pueden ser pequeños y autolimitados o pueden llegar a ser revoltosos y con disturbios civiles.
 
 Es importante preparar adecuadamente (en proporción a la acción esperada) antes de ir a cubrirlo. Esto puede tener muchos significados diferentes dependiendo del tamaño del equipo con que trabaja, pero debería además incluir lo siguiente de ser posible:

@@ -1,10 +1,10 @@
 [Title]: # (Amenazas a la seguridad física)
 [Order]: # (10)
 
-# Threats of Physical Harm
+# Amenazas de daño físico
 
-Finalmente, Entendemos que siempre hay una forma en que atancantes pueden obtener tu constraseña: They can directly threaten you with physical harm or detention. If you fear this may be a possibility, such as if you are going to be travelling across hostile borders with sensitive information, consider ways in which you can hide the existence of the data or device you are password-protecting, rather than trust that you will never hand over the password. One possibility is to maintain at least one computer/email/keepass account that contains largely unimportant information, whose password you can reveal quickly.
+Finalmente, comprenda que siempre hay una forma en que los atacantes pueden obtener su contraseña: pueden amenazarlo directamente con daños físicos o detención. Si teme que esto sea una posibilidad, como por ejemplo, si va a viajar a través de fronteras hostiles con información confidencial, considere formas en que puede ocultar la existencia de los datos o el dispositivo que está protegiendo con contraseña, en lugar de confiar en que nunca entregará la contraseña. Una posibilidad es mantener al menos una cuenta de computadora / correo electrónico / keepass que contenga información sin importancia, cuya contraseña puede revelar rápidamente.
 
-If you have good reason to believe that someone may threaten you for your passwords, it's good to make sure your devices are configured so that it won't be obvious that the account you are revealing is not the ?real? one. Is your real account shown in your computer's login screen, or automatically displayed when you open a browser? If so, you may need to reconfigure things to make your account less obvious.
+Si tiene buenas razones para creer que alguien puede amenazarlo con sus contraseñas, es bueno asegurarse de que sus dispositivos estén configurados para que no sea obvio que la cuenta que está revelando no es la real. uno. ¿Su cuenta real se muestra en la pantalla de inicio de sesión de su computadora, o se muestra automáticamente cuando abre un navegador? Si es así, es posible que deba volver a configurar las cosas para que su cuenta sea menos obvia.
 
-In such circumstances, you should also treat your password manager as a sensitive file, and hide/protect it as we describe in the [Protecting Files lesson](umbrella://lesson/protecting-files).
+En tales circunstancias, también debe tratar su administrador de contraseñas como un archivo confidencial, y ocultarlo / protegerlo como describimos en la lección [Archivo de protección](umbrella://lesson/protecting-files).

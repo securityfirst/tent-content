@@ -1,7 +1,7 @@
 [Title]: # (¿En qué debo firjarme?)
 [Order]: # (1)
 
-h1>Cómo se ven los vigilantes?
+# Cómo se ven los vigilantes?
 
 Hay algunos indicadores de que una persona está haciendo seguimientos a pie.
 
@@ -48,5 +48,4 @@ Si puede identificar un potencial miembro de un equipo de vigilancia, puede usar
 *   Haciendo contacto visual
 *   Haciendo señas con las manos
 *   Por tener una apariencia similar
-
 ![image](surveillance3.png)

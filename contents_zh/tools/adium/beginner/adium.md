@@ -6,14 +6,14 @@
 ## Adium & OTR
 Mac電腦上的安全的即時通訊軟體
 
-**學習內容:[傳送訊息](umbrella://lesson/sending-a-message)**
-**下載網址:** [https://adium.im/](https://adium.im/)
-**系統要求 (Adium 1.5 以上版本): Mac OS X 10.6.8 或更新, 蘋果麥金塔電腦.
-**本指南中所使用的版本: Adium 1.5.9
-**版權聲明:GNU GPL
-**其它參考資料:**[https://pressfreedomfoundation.org/encryption-works](https://pressfreedomfoundation.org/encryption-works);[https://adium.im/help/](https://adium.im/help/)
-**程度:**初學者-中級
-**所費時間:**15-20 分鐘
+**學習內容:**  [傳送訊息](umbrella://lesson/sending-a-message)  
+**下載網址:** [https://adium.im/](https://adium.im/)  
+**系統要求 (Adium 1.5 以上版本):** Mac OS X 10.6.8 或更新, 蘋果麥金塔電腦.  
+**本指南中所使用的版本:** Adium 1.5.9  
+**版權聲明:** GNU GPL  
+**其它參考資料:** [https://pressfreedomfoundation.org/encryption-works](https://pressfreedomfoundation.org/encryption-works);[https://adium.im/help/](https://adium.im/help/)  
+**程度:** 初學者-中級  
+**所費時間:** 15-20 分鐘
 
 Adium是運行於蘋果電腦上一套免費開源的即時通訊軟體，它可讓你和使用不同聊天協議的朋友進行多方對話，包括：Google Hangouts、Yahoo! Messenger、 Facebook chat、Windows Live Messenger、AIM、ICQ、XMPP等等。
 
@@ -35,16 +35,16 @@ Adium 可以進行額外認證以確保你聊天的對象是你所認為的人�
 
 ### 在你的Mac電腦安裝Adium + OTR
 
-第1步：安裝程式
+**第1步：** 安裝程式
 
-首先,在你瀏覧器上打開[https://adium.im/](https://adium.im/)網址，選擇下載 Adium 1.5.9.下載的檔案格式為末檔名 .dmg 或是磁碟映像檔，將之存於某一個資料夾下（大多為downloads folder）。
+首先,在你瀏覧器上打開 [https://adium.im/](https://adium.im/) 網址，選擇下載 Adium 1.5.9.下載的檔案格式為末檔名 .dmg 或是磁碟映像檔，將之存於某一個資料夾下（大多為downloads folder）。
 
 雙擊已下載的檔案，將會自動跳出視窗如下:
 ![image](tool_adium1.png)
 
 將Adium 圖示移到應用程式資料夾下進行安裝.一但安裝完畢在你的應用程式資料夾下找到它並雙擊開啟。
 
-第2步: 設置（多個）帳號
+**第2步:** 設置（多個）帳號
 
 首先, 你要決定使用哪一種聊天工具或是通訊協議。這個設定過程都有幾分類似但不同的工具並不完全相同。你需要知道每一種工具或通訊協議的用戶名稱以及你的密碼。
 
@@ -57,7 +57,7 @@ Adium 可以進行額外認證以確保你聊天的對象是你所認為的人�
 
 一旦登入帳號後，你就可以開始使用OTR。
 
-**記住：為了正確使用OTR通話,雙方的聊天程式都必須支援OTR。**
+**記住：** 為了正確使用OTR通話,雙方的聊天程式都必須支援OTR。
 第1步：啟動OTR chat
 
 首先,確認對方有使用OTR,然後開始與他們透過Adium 聊天. 開啟聊天視窗後，你會在左上方看到一個小小鎖鑰圖示的. 點擊這個鎖然後選擇"Initiate Encrypted OTR Chat"

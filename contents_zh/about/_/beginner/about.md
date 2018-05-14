@@ -9,12 +9,15 @@ Security First也提供真實世界或數位世界的安全訓練給倡議者、
 
 若想知道更多，可以以各種形式協助我們(包括提供Code、募款或資料內容)，或透過造訪我們的[網站](https://secfirst.org) 或email到 info@secfirst.org，讓我們知道你的想法。我們歡迎所有讓我們更好的評論或批判！
 
-我們的團隊：
+我們的團隊:
+
 * Rok Biderman -> 建造東西
 * Rory Byrne -> 保護東西
 * Holly Kilroy -> 寫東西
 * Mitesh Patel -> 改善東西
 * Vesna Planko -> 設計東西
 * Adam Schakaki ->修東西
-[Licences](umbrella://licences/) 
-[Thank you](umbrella://thankyou/)
+
+[凭照](umbrella://licences/) 
+
+[谢谢](umbrella://thankyou/)
