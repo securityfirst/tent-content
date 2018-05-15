@@ -25,6 +25,8 @@ Encrypted email for Mac
 - The ability to protect your email communications from being read by anyone except their intended recipients.  
 - The ability to prove that an email came from a particular person, instead of being a fake message sent by another sender (it is otherwise very easy for email to be fabricated). Both of these are important defenses if you're being targeted for surveillance or misinformation.
 
+**Note:** If you are concerned that PGP encrypted email may not be safe after vulnerabilities were reported in May 2018, read the Efail section of our advanced [email] (umbrella://lesson/email/2) lesson.
+
 ### 1.0 Before you start 
 
 To use Pretty Good Privacy (PGP), you will need to install some extra software that will work with your current email program. You will also need to create a private key, which you will keep private. The private key is what you will use to decrypt emails sent to you, and to digitally sign emails that you send to show they truly came from you. Finally, you'll learn how to distribute your public key-a small chunk of information that others will need to know before they can send you encrypted mail, and that they can use to verify emails you send.
