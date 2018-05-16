@@ -10,6 +10,7 @@
 **Sources:** Security in a Box, [K9 WITH APG FOR ANDROID] (https://securityinabox.org/en/guide/k9/android/), Open Keychain [FAQ] (https://www.openkeychain.org/faq/). 
 
 **K-9 Mail** is a free and open source email client for Android devices. 
+
 **Open Keychain** is a free and open source application that lets you encrypt, decrypt and sign files, messages or emails using Public Key Encryption (like OpenPGP). It's based on code from a similar tool called APG, now unmaintained. 
 
 **Using K-9 Mail with Open Keychain will give you:**  
@@ -106,7 +107,7 @@ If you choose to transfer your private key file, take precautions:
 - Connect your trusted Android device to your trusted computer using a USB cable to transfer it directly, or enable Bluetooth on your trusted computer and your trusted Android device (check the pairing codes match) and use the "send file to device" function; or, 
 - See [Open Keychain's] (https://www.openkeychain.org/faq/#what-is-the-best-way-to-transfer-my-own-key-to-openkeychain) advice for password-protecting your key using the command line before transferring it over the internet.
 
-In Open Keychain's *Manage my keys* window, tap *Import key from file* and then the file icon. Navigate to the folder where you moved the file, select it, and tap *OPEN*. You can also use the *Import key from file* to transfer public keys that other people have shared with you. Successfully imported keys will now appear in your list of keys.    
+In Open Keychain's *Manage my keys* window, tap *Import key from file* and then the file icon. Navigate to the folder where you moved the file, select it, and tap *OPEN*. You can also use the *Import key from file* to transfer public keys that other people have shared with you. Successfully imported keys will now appear in your list of keys. Once you see them in Open Keychain, delete the files from your device. Don't leave them sitting in a folder.     
 
 (To learn more about managing keys, read the Keyring and Key-signing party entries in the Umbrella glossary.)
 
