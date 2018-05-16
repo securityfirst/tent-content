@@ -4,7 +4,7 @@
 # K-9 & OPEN KEYCHAIN TOOL GUIDE
 
 
-**Lesson to read: [Email Advanced] (umbrella://lesson/email).**  
+**Lesson to read: [Email Advanced] (umbrella://lesson/email/1).**  
 **Level**: Advanced    
 **Published:** May 2018    
 **Sources:** Security in a Box, [K9 WITH APG FOR ANDROID] (https://securityinabox.org/en/guide/k9/android/), Open Keychain [FAQ] (https://www.openkeychain.org/faq/). 
