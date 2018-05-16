@@ -1,7 +1,7 @@
 [Title]: # ()
 [Order]: # (0)
 
-# K-9 TOOL GUIDE
+# K-9 & OPEN KEYCHAIN TOOL GUIDE
 
 
 **Lesson to read: [Email Advanced] (umbrella://lesson/email).**  
@@ -127,4 +127,4 @@ Tap the grey lock icon; it will turn green when encryption is active.
 
 **Step 4:** Send the message.
 
-**Step 5:** When you receive an encrypted reply, K-9 Mail will automatically prompt you to enter your GPG passphrase and decrypt the mail. 
+**Step 5:** When you receive an encrypted reply, K-9 Mail will automatically prompt you to enter your GPG passphrase and decrypt the mail.
