@@ -13,7 +13,7 @@ Go to the Beginner lesson for advice on how to improve basic email security and 
 *   [PGP for macOS tool guide](umbrella://lesson/pgp-for-mac-os-x)
 *   [PGP for Windows tool guide](umbrella://lesson/pgp-for-windows)
 *   [PGP for Linux tool guide](umbrella://lesson/pgp-for-linux)
-*   [K9 & APG tool guide](umbrella://lesson/k9-&-apg)
+*   [K-9 tool guide](umbrella://lesson/k9-&-apg)
 
 ### FURTHER READING
 
