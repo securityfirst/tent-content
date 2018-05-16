@@ -11,7 +11,7 @@
 
 **K-9 Mail** is a free and open source email client for Android devices. 
 
-**Open Keychain** is a free and open source application that lets you encrypt, decrypt and sign files, messages or emails using Public Key Encryption (like OpenPGP). It's based on code from a similar tool called APG, now unmaintained. 
+**Open Keychain** is a free and open source application that lets you encrypt, decrypt and sign files, messages or emails using public key encryption like OpenPGP. It's based on code from a similar tool called APG, now unmaintained. 
 
 **Using K-9 Mail with Open Keychain will give you:**  
 - The ability to use encrypted email on your Android device.
