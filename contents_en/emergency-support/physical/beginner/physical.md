@@ -3,14 +3,12 @@
 
 ### If you are having a physical security emergency, the following are useful resources.
 
-# IMMEDIATE SUPPORT
-
-Normally available for support within the first 24 hours  
+For support within the first 24 hours, contact your embassy first. Front Line Defenders also operates a 24-hour helpline.   
 
 **Where:** Global Embassy Listings
  [https://embassy-finder.com](https://embassy-finder.com)
 
-## Front Line
+## Front Line Defenders
 
 **Where:** Global  
 
@@ -22,14 +20,12 @@ Normally available for support within the first 24 hours
 
 **Description:** Front Line protects Human Rights Defenders through a 24hour emergency hotline (phone and encrypted email), international advocacy, security training and training manuals, grants and fellowships (including emergency funding), and evacuation support. Front Line's Dublin Platform links grassroots human rights defenders with UN mechanisms, international human rights networks, and each other.  
 
-**Web site:** frontlinedefenders.org  
-Dublin, Tel: (+353) 1 212 3750  
-**Email:** info@frontlinedefenders.org  
-Brussels, Tel: (+32) 2 230 93 83  
-**Secure Online Communication:** web https://secure.hyperlink.ie/frontline/  
-comment.en.html  
-
-24 hour emergency support, Tel: (+353) 1 21 00 489
+**Website:** [frontlinedefenders.org] (https://www.frontlinedefenders.org/)  
+24 hour emergency support, Tel: (+353) 1 210 0489
+Dublin Tel: (+353) 1 212 3750   
+Brussels, Tel: (+32) 2 230 93 83
+**Email:** info@frontlinedefenders.org 
+**Secure Online Contact Form:** https://www.frontlinedefenders.org/secure/comment.php?l=en   
 
 ## Rory Peck Trust
 
@@ -43,7 +39,7 @@ comment.en.html
 
 **Description:** The principal objectives of the Trust are to provide practical assistance and support to freelance newsgatherers and their families worldwide, to raise their profile, promote their welfare and safety, and to support their right to report freely and without fear.  
 
-**Web site:** [www.rorypecktrust.org](www.rorypecktrust.org)  
+**Website:** [rorypecktrust.org](https://rorypecktrust.org/)  
 London, Tel: (+44) 203 219 7860
 
 ## U.S. Centers for Disease Control and Prevention
@@ -56,12 +52,8 @@ London, Tel: (+44) 203 219 7860
 
 **Description:** The U.S. government agency is a public source for information on common diseases, disorders, and treatments. The CDC website provides information about sickness and disease, healthy living, safety and emergency care, and disaster preparedness and response.  
 
-**Web site:** www.cdc.gov  
+**Web site:** [cdc.gov] (www.cdc.gov)  
 Atlanta, Tel: +1-800-232-4636 (24-hour health information hotline, Monday through Friday)
-
-# DELAYED SUPPORT
-
-Normally available for support after first 24 hours
 
 ## Amnesty International
 
@@ -75,7 +67,7 @@ Normally available for support after first 24 hours
 
 **Description:** Amnesty International leads a global movement of research, solidarity, and action on behalf of victims of human rights violations. Amnesty International campaigns to end discrimination, abuse, and infringements on human rights, physical and mental integrity, and the freedom of thought and expression.  
 
-**Web site:** www.amnesty.org  
+**Web site:** [amnesty.org] (https://www.amnesty.org/en/)  
 New York, Tel: (+1) 212 807-8400  
 London, Tel: (+44) 20-74135500
 
@@ -90,9 +82,9 @@ London, Tel: (+44) 20-74135500
 
 **Description:** The Asian Human Rights Commission monitors, investigates, advocates, and takes solidarity action around human rights violations across Asia. AHRC's Urgent Appeal Programme mobilizes thousands of individu- als to speak out around particular cases. (Directed by Ashoka Fellow Basil Fernando.)  
 
-**Web site:** www. ahrchk.net  
+**Web site:** [humanrights.asia] (http://www.humanrights.asia/)
 Hong Kong, Tel: 852-2698 6339  
-**Email:** ahrchk@ahrchk.org
+**Online contact form:** [http://www.humanrights.asia/contact-us] (http://www.humanrights.asia/contact-us)
 
 ## Committee to Protect Journalists
 
@@ -102,46 +94,14 @@ Hong Kong, Tel: 852-2698 6339
 
 **Language:** English  
 
-**Accept Urgent Appeals?** Yes  
+**Accept Urgent Appeals?** Yes!  
 
-**Description:** The Committee to Protect Journalists promotes press freedom worldwide by defending the rights of journalists to report the news without fear of reprisal. CPJ reveals abuses against the press, acts on behalf of imprisoned or threatened journalists, and warns journalists of attacks on press freedom. CPJ's Journalist Assistance Program offers emergency sup- port around medical attention, relocation, legal aid, and evacuation.  
+**Description:** The Committee to Protect Journalists promotes press freedom worldwide by defending the rights of journalists to report the news without fear of reprisal. CPJ reveals abuses against the press, acts on behalf of imprisoned or threatened journalists, and warns journalists of attacks on press freedom. CPJ's Journalist Assistance Program offers emergency support around medical attention, relocation, legal aid, and evacuation.  
 
-**Web site:** [www.cpj.org](www.cpj.org)  
+**Web site:** [cpj.org](https://cpj.org/)  
 New York, Tel: (+1) 212 465-1004  
-**Email:** JournAsst@cpj.org
-
-## Conectas
-
-**Where:** Brazil; Latin America, Africa, Asia  
-
-**Type of Threat:** Threats of Violence, Imprisonment, Lawsuit, Infringement on Rights, Discrimination  
-
-**Eligible:** Human Rights advocates (activists and academics)  
-
-**Language:** English, Portuguese, Spanish  
-
-**Accept Urgent Appeals?** No  
-
-**Description:** Conectas' Justice Program supports strategic litigation and pro bono legal services to support vulnerable groups and victims of human rights violations. Conectas' Global South Program links human rights aca- demics and activists in Africa, Asia, and Latin America to share knowledge, connect them to the UN, and strengthen the new generation of human rights defenders. (Directed by Ashoka Senior Member Oscar Vilhena.)  
-
-**Web site:** conectas.org   
-Sao Paulo, Tel: (+5511) 3884-7440  
-**Email:** conectas@conectas.org
-
-## CIVICUS & Civil Society Watch
-
-**Where:** Global  
-**Type of Threat:** Physical Assault, Imprisonment, Lawsuit, Infringement on  
-Rights, Discrimination, Attack on Freedom of Expression  
-
-**Language:** English  
-**Accept Urgent Appeals?** Yes  
-
-**Description:** CIVICUS strengthens civil society and civic action around the world through an international alliance of more than 1000 members across 100 countries. Civil Society Watch (CSW) mobilizes rapid responses in situations in which rights and liberties of citizens are threatened or limited. CSW makes statements of protests, letter-writing campaigns, press campaigns, public marches, and missions to verify acts of violations of rights.  
-
-**Web sites:** www.civicus.org; www.civilsocietywatch.org  
-**Emails:** info@civicus.org; cswatch@civicus.org  
-South Africa, Tel: (+27 11) 833-5959
+**Email:** report_violations@cpj.org 
+**Secure Drop address:** 2x2hb5ykeu4qlxqe.onion (only accessible via the Tor browser. For instructions, click [here] (https://cpj.org/emergency-response/how-to-get-help.php. Learn how to use the Tor browser for [Windows](umbrella://lesson/tor-for-windows), [Mac] (umbrella://lesson/tor-for-mac-os-x), and [Linux] (umbrella://lesson/tor-for-linux).) 
 
 ## European Interagency Security Forum
 
@@ -151,8 +111,8 @@ South Africa, Tel: (+27 11) 833-5959
 
 **Description:** EISF's aim is to improve holistic security risk management (SRM) approaches allowing sustainable access of aid workers to populations in need. The EISF Secretariat works in collaboration with its' Members to produce original research, arrange biannual forum meetings and regular workshops and facilitate information sharing between members and the wider NGO community.  
 
-**Web site:** [www.eisf.eu](www.eisf.eu) London,  
-Tel: (+44) 203 195 1360  
+**Web site:** [eisf.eu](https://www.eisf.eu/) 
+London, Tel: (+44) 203 195 1360  
 **Email:** eisf-coordinator@eisf.eu
 
 ## Federation for Human Rights
@@ -178,7 +138,7 @@ Paris, Tel: (+33) 1 43 55 25 18
 
 **Description:** The Fund for Global Human Rights channels financial resources to on-the-ground human rights organizations, strengthening human rights movements and communities around the world. The Fund for Global Human Rights pools funding from international donors, funds local and regional human rights groups, and creates networks to link often isolated activists.  
 
-**Web site:** [www.globalhumanrights.org](www.globalhumanrights.org)  
+**Web site:** [globalhumanrights.org](https://globalhumanrights.org/)  
 Washington, DC, Tel: (+1) 202 347-7488  
 **Email:** info@globalhumanrights.org
 
@@ -188,11 +148,11 @@ Washington, DC, Tel: (+1) 202 347-7488
 **Type of Threat:** Threats of Violence, Physical Assault, Imprisonment, Infringement on Rights, Discrimination, Attack on Freedom of Expression  
 **Language:** English  
 
-**Accept Urgent Appeals?** Yes  
+**Accept Urgent Appeals?** Yes!
 
-**Description:** Human Rights First protects people at risk, including victims of human rights violations and discrimination. Their Human Rights Defenders program supports human rights defenders targeted for threats and attack through advocacy and mobilizing their volunteer network.  
+**Description:** U.S.-based Human Rights First protects people at risk, including victims of human rights violations and discrimination. Their Human Rights Defenders program supports human rights defenders who look to the U.S. for support, including connecting them with U.S. officials capable of influencing foreign policy.  
 
-**Web site:**[www.humanrightsfirst.org](www.humanrightsfirst.org)  
+**Web site:** [humanrightsfirst.org](https://www.humanrightsfirst.org/resource/resources-human-rights-defenders)  
 New York, Tel: (+1) 212 845-5200
 
 ## Human Rights Watch
