@@ -1,14 +1,14 @@
 [Title]: # (What now?)
 [Order]: # (6)
 
-Swipe right for this lesson's checklist
+Swipe right for this lesson's checklist.
 
 ### RELATED LESSONS/TOOLS
 
-*   [Checkpoints lesson](umbrella://lesson/checkpoints)
-*   [Preparation lesson](umbrella://lesson/preparation)
+*   [Checkpoints](umbrella://lesson/checkpoints)
+*   [Preparation](umbrella://lesson/preparation)
 
 ### FURTHER READING
 
-*   [CARE International: Safety & Security Handbook](ngolearning.org/courses/availablecourses/CARE%20Safety%20Course/Shared%20Documents/English_CARE_International_Safety_and_Security_Handbook.pdf)
-*   [ECHO Generic Security Guide for Humanitarian Organisations](http://ec.europa.eu/echo/files/evaluation/watsan2005/annex_files/ECHO/ECHO12%20-%20echo_generic_security_guide_en.doc)
+*   CARE International, [Safety & Security Handbook](https://www.eisf.eu/wp-content/uploads/2014/09/0614-Macpherson-2004-CARE-International-Safety-and-Security-Handbook.pdf).
+*   ECHO, Generic Security Guide for Humanitarian Organisations, available at [eisf.eu](https://www.eisf.eu/library/generic-security-guide-for-humanitarian-organisations/).
