@@ -1,14 +1,14 @@
 [Title]: # (What now?)
 [Order]: # (3)
 
-Swipe right for this lesson's checklist
+Swipe right for this lesson's checklist.
 
 ### RELATED LESSONS/TOOLS
 
-*   [Preparation lesson](umbrella://lesson/preparation)
-*   [Arrest lesson](umbrella://lesson/arrests)
+*   [Preparation](umbrella://lesson/preparation)
+*   [Arrests](umbrella://lesson/arrests)
 
 ### FURTHER READING
 
-*   [Good Practice Review Number 8: Operational security management in violent environments (Revised Ed.)](www.odihpn.org/download/gpr_8_revised2pdf)
-*   [CARE International: Safety & Security Handbook](ngolearning.org/courses/availablecourses/CARE%20Safety%20Course/Shared%20Documents/English_CARE_International_Safety_and_Security_Handbook.pdf)
+*   Humanitarian Practice Network, [Good Practice Review Number 8: Operational security management in violent environments (Revised Ed.)](www.odihpn.org/download/gpr_8_revised2pdf).
+*   CARE International, [Safety & Security Handbook](https://www.eisf.eu/wp-content/uploads/2014/09/0614-Macpherson-2004-CARE-International-Safety-and-Security-Handbook.pdf).
