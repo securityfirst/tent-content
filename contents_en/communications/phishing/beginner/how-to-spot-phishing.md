@@ -1,9 +1,6 @@
 [Title]: # (How to Spot Phishing)
 [Order]: # (2)
 
-**How to Spot Phishing**
-==============================
-
 Web browsers and mail services can detect some phishing attempts. If you see a warning about a suspicious website or message, don't ignore it!   
 
 But not all attacks will be detected. Learn to recognise a phishing attempt for yourself by checking the following in your incoming messages:
@@ -28,5 +25,4 @@ But not all attacks will be detected. Learn to recognise a phishing attempt for 
 	something attractive, or warn you to act immediately to prevent disaster? Attackers hope your emotional response will override common sense.
 *   Links or attachments. 
 	* Does the message contain anything that you weren't expecting, like a file or link to a photo of you sent out of the blue? Attackers want you to take action by clicking on something. 
-	* Links could look like a button or an image instead of a web address. Be wary of unexpected invitations to view documents in services like Google Drive or Dropbox, even if they look official.   
-
+	* Links could look like a button or an image instead of a web address. Be wary of unexpected invitations to view documents in services like Google Drive or Dropbox, even if they look official.
