@@ -1,17 +1,16 @@
 [Title]: # (What now?)
 [Order]: # (6)
 
-Swipe right for this lesson's checklist
+Swipe right for this lesson's checklist.
 
 ### RELATED LESSONS/TOOLS
 
-*   [Protecting Files lesson](umbrella://lesson/protecting-files)
-*   [Deleting Lesson](umbrella://lesson/safely-deleting)
-*   [VeraCrypt Tool Guide](umbrella://lesson/veracrpyt)
-*   [Thunderbird Tool Guide](umbrella://lesson/thunderbird)
-*   [Cobian Backup Tool Guide](umbrella://lesson/cobian-backup)
-*   [Recuva - File Recovery Tool Guide](umbrella://lesson/recuva)
+*   [Protecting Files](umbrella://lesson/protecting-files)
+*   [Safely Deleting](umbrella://lesson/safely-deleting)
+*   [VeraCrypt](umbrella://lesson/veracrypt)
+*   [Cobian Backup](umbrella://lesson/cobian-backup)
+*   [Recuva](umbrella://lesson/recuva)
 
 ### FURTHER READING
 
-*   [Security in a Box - Chapter 6, Backing up](https://securityinabox.org/chapter-6)
+*   Security in a Box, [Protect the Sensitive Files on your Computer](https://securityinabox.org/en/guide/secure-file-storage/).
