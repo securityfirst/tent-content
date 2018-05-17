@@ -1,9 +1,6 @@
 [Title]: # (Attachments)
 [Order]: # (4)
 
-**Attachments**
-===================
-
 If you're suspicious about any attachment: 
 
 * Don't open the file unless you can verify where it comes from. 
@@ -19,4 +16,4 @@ If you receive any unexpected attachment, even if you're not otherwise susipciou
 For any attachment at all: 
 
 * Don't double click on it, even if you confirm it's safe. 
-* Open attachments through the relevant program on your computer. For example, start Microsoft Word, and click Open under the File menu to open a .docx file. You're less likely to contract malware so it's a good habit to get into. 
+* Open attachments through the relevant program on your computer. For example, start Microsoft Word, and click Open under the File menu to open a .docx file. You're less likely to contract malware so it's a good habit to get into.
