@@ -237,13 +237,13 @@ Latin America, Tel: (+57) 1 368 6155; (+57) 312 562 1321
 **Web Site:** [witness.org](https://witness.org/)  
 New York, Tel: (+1) 718.783.2000
 
-# B. LEGAL NETWORKS
+# LEGAL NETWORKS
 
 ## Advocates for International Development (A4ID)
 
 **Description:** Advocates for International Development (A4ID) mobilizes the skills and expertise of the legal profession to combat poverty and inequality of opportunity worldwide. A4ID promotes awareness of social, economic, and legal issues while strengthening the capacity of citizen sector organizations.  
 
-**Web site:** [www.a4id.org](www.a4id.org)  
+**Web site:** [a4id.org](http://www.a4id.org/)  
 **Email:** info@a4id.org
 
 ## Cyrus R. Vance Center for International Justice
@@ -251,7 +251,7 @@ New York, Tel: (+1) 718.783.2000
 
 **Description:** The Cyrus R. Vance Center for International Justice supports lawyers worldwide who promote access to justice, equitable judicial systems, socially-oriented public policies, and confidence in the legal profession. The Vance Center championed the Pro Bono Declaration for the Americas and manages the Global Network for Justice Initiatives (GNJI).  
 
-**Web site:** www.nycbar.org/VanceCenter/index.htm; [www.gnji.net](www.gnji.net)  
+**Web site:** [vancecenter.org](http://www.vancecenter.org/vancecenter/)  
 New York, Tel: (+1) 212 382-4718
 
 
@@ -260,7 +260,7 @@ New York, Tel: (+1) 212 382-4718
 **Where:** India, South Asia
 Description: HRLN uses the legal system to advance human rights. HRLN lawyers collaborate with human rights organizations and grass-roots develop- ment collectives to defend the rights of marginalized and vulnerable groups. HRLN provides pro bono legal services and conducts public interest litigation, engages in advocacy and campaigns, conducts legal awareness programs, investigates violations, and publishes "Know Your Rights" materials.  
 
-**Web site:** www.hrln.org  
+**Web site:** [hrln.org] (http://hrln.org/)
 New Delhi, Tel: +91-11-24374501, 24376922
 
 ## International Senior Lawyers Project
@@ -269,26 +269,26 @@ New Delhi, Tel: +91-11-24374501, 24376922
 
 **Description:** ISLP provides volunteer legal services from skilled and experienced attorneys to advance democracy and the rule of law, protect human rights and promote equitable economic development worldwide. Through the pro bono work of retired and active practitioners, working independently and in law firms, ISLP helps governments and citizens develop and implement legal reforms, assists programs that advance the social and economic well-being of people in developing countries, and builds the capacity of local organizations and professionals to meet the needs of their communities.  
 
-**Web site:** [www.islp.org](www.islp.org)  
-New York, Tel: (+1) 212 895-1359
+**Web site:** [islp.org](http://islp.org/)  
+**Email:** info@islp.org
 
 ## Lex Mundi Pro Bono Foundation
 
 **Description:** The Lex Mundi Pro Bono Foundation engages Lex Mundi's global network of 160 top-tier business law firms present in over 100 countries to provide pro bono legal assistance to social entrepreneurs.  
 
-**Web site:** [www.lexmundiprobono.org](www.lexmundiprobono.org)  
+**Web site:** [lexmundiprobono.org](https://www.lexmundiprobono.org/lexmundiprobono/default.asp)  
 Washington, DC, Tel: (+1) 202 429-8169
 
 ## Public Interest Law Initiative (PILI)
 
 **Where:** Central & Eastern Europe, Russia  
 Description: PILI advances human rights around the world by stimulating public interest advocacy and developing the institutions necessary to sustain it. PILI is strengthening the use of law as an instrument for achieving social justice.  
-**Web site:** [www.pili.org](www.pili.org)  
+**Web site:** [pili.org](http://pili.org/)  
 Budapest, Tel: (+36) 1 461-5700  
 Moscow, Tel: (+7) 795 628 00 20  
 New York, Tel: (+1) 212 803-5381
 
-# C. INTERNATIONAL MECHANISMS
+# INTERNATIONAL MECHANISMS
 
 In addition to citizen sector organizations, inter-governmental institutions offer additional support to human rights defenders and individuals who have suffered human rights violations.
 
@@ -297,7 +297,7 @@ In addition to citizen sector organizations, inter-governmental institutions off
 **Where:** Global  
 **Accept Urgent Appeals?** Yes  
 
-**Description:** The UN Special Representative on Human Rights Defenders supports and gathers information on behalf of human rights defenders around the world. The Special Representative operates in complete independence of any state, is not a UN staff member, and does not receive a salary.  
+**Description:** The UN Special Rapporteur on Human Rights Defenders supports and gathers information on behalf of human rights defenders around the world. The Special Representative operates in complete independence of any state, is not a UN staff member, and does not receive a salary.  
 **Web site:** http://[www2.ohchr.org/english/issues/defenders/](www2.ohchr.org/english/issues/defenders/)  
 Geneva, Tel: (+41) 22 917 1234  
 **Email a complaint:** urgent-action@ohchr.org  
@@ -315,24 +315,24 @@ Geneva, Tel: (+41) 22 917 1234
 
 **Web site:** http://[www2.ohchr.org/english/issues/defenders/](www2.ohchr.org/english/issues/defenders/)  
 Geneva, Tel: (+41) 22 917 0656  
-**Email a complaint:** civilsocietyunit@ohchr.org  
+**Email a complaint:** urgent-action@ohchr.org (Follow the instructions [here] (http://www2.ohchr.org/english/bodies/chr/special/communications.htm))
 
 **Additional Resources:**
 
-*   Universal Decl. of Human Rights http://[www.unhchr.ch/udhr/index.htm](www.unhchr.ch/udhr/index.htm)
-*   International human rights instruments www2.ohchr.org/english/law/
+*   [Universal Declaration of Human Rights](http://www.ohchr.org/EN/UDHR/Pages/UDHRIndex.aspx)
+*   [International human rights law] (http://www.ohchr.org/EN/ProfessionalInterest/Pages/InternationalLaw.aspx)
 
 ## Inter-American Commission of Human Rights (Washington, DC) and Inter-American Court of Human Rights (San Jose)
 
-**Where:** the Americas  
+**Where:** The Americas  
 **Languages:** English, French, Portuguese, Spanish  
 **Accept Urgent Appeals?** Yes  
 
 **Description:** The Inter-American Commission a) receives, analyzes, and investigates petitions alleging human rights violations; b) observes the general human rights situation in member states; c) carries out on-site visits to analyze specific situations; and d) submits cases to the Inter-American Court for litigation. The Inter-American Court issues and enforces judgments. Both are comprised of representatives from members of the Organization of American States.  
 **Note:** Individuals and citizen sector organizations may directly petition the Inter-American Commission, only after exhausting all options within their State to address the situation.  
 
-**Web Sites:** Inter-American Commission [www.cidh.org](www.cidh.org)  
-Inter-American Court www.corteidh.or.cr
+**Websites:** [Inter-American Commission] (https://www.oas.org/es/cidh/)  
+[Inter-American Court] (http://www.corteidh.or.cr/)
 
 ## African Commission on Human and People's Rights
 
@@ -344,8 +344,8 @@ Inter-American Court www.corteidh.or.cr
 
 **Note:** Individuals, citizen sector organizations, and States party to the African Charter may directly petition the Inter-American Commission, only after exhausting all options within their State to address the situation.  
 
-**Web Sites:** African Commission [www.achpr.org](www.achpr.org)  
-Banjul, Tel 220 39 29 62 Africa Union (Addis Ababa) www.africa-union.org
+**Websites:** African Commission [achpr.org](http://www.achpr.org/)  
+**Email:** au-banjul@africa-union.org
 
 ## European Court of Human Rights
 
@@ -353,14 +353,14 @@ Banjul, Tel 220 39 29 62 Africa Union (Addis Ababa) www.africa-union.org
 Languages: English, French  
 **Accept Urgent Appeals?** Yes  
 
-**Description:** the European Court of Human Rights ensures that States respect the rights guaranteed by the European Convention on Human Rights. The European Court examines complaints (known as "applications") lodged by individuals, and issues binding judgments where the State is found in violation of these rights.  
+**Description:** The European Court of Human Rights ensures that States respect the rights guaranteed by the European Convention on Human Rights. The European Court examines complaints (known as "applications") lodged by individuals, and issues binding judgments where the State is found in violation of these rights.  
 
 **Note:** Individuals may file complaints directly to the Court, only after exhausting all options within their State to address the situation.  
 
-**Web Site:** www.echr.coe.int/ECHR
+**Web Site:** [echr.coe.int] (https://www.echr.coe.int/Pages/home.aspx?p=home)
 
 ## International Criminal Court
 
 **Description:** Founded in part by the United Nations and based in The Hague, the International Criminal Court tries individuals accused of inter- national crimes including genocide, crimes against humanity, and war crimes. Only States and the international communicate can bring cases to the ICC. The ICC is an independent body and is based on a treaty, joined by 105 countries.  
 
-**Web Site:** www.icc-cpi.int
+**Web Site:** [icc-cpi.int] (https://www.icc-cpi.int/)
