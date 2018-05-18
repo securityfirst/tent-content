@@ -14,5 +14,5 @@ This depends on:
 * What you're doing;
 * Who you're working with.
 
-This is called threat modelling.
+This is called threat modelling. Conducting frequent threat modeling assessments is good practice.
 ![image](managing_information2.png)
