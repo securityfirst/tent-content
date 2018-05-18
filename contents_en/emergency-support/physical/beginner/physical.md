@@ -163,7 +163,7 @@ New York, Tel: (+1) 212 845-5200
 **Language:** Arabic, Chinese, English, French, German, Hebrew, Korean, Persian, Portuguese, Russian  
 **Accept Urgent Appeals?** Yes  
 
-**Description:** Human Rights Watch stands with victims and activists to prevent discrimination, uphold political freedom, protects people from inhumane conduct in wartime, and brings offenders to justice by exposing human rights violations and holding abusers accountable. HRW's principal advocacy strategy is to shame offenders through press attention, exert dip- lomatic and economic pressure, and build coalitions around specific human rights issues.  
+**Description:** Human Rights Watch stands with victims and activists to prevent discrimination, uphold political freedom, protects people from inhumane conduct in wartime, and brings offenders to justice by exposing human rights violations and holding abusers accountable. HRW's principal advocacy strategy is to shame offenders through press attention, exert diplomatic and economic pressure, and build coalitions around specific human rights issues.  
 
 **Web site:** [www.hrw.org](www.hrw.org)  
 New York, Tel: (+1) 212-290-4700  
@@ -179,7 +179,8 @@ New York, Tel: (+1) 212-290-4700
 
 **Description:** ISHR provides information, training, and support to human rights defenders around the world. Their Human Rights Defenders Offices strengthens UN procedures to support Human Rights Defenders, and is promoting similar mechanisms in Africa and the Americas. They do not take urgent appeals, as they focus on training and aggregating knowledge.  
 
-**Web site:** www.ishr.ch Geneva, Tel: (+41) 22 733 51 23
+**Web site:** [ishr.ch] (http://www.ishr.ch/)  
+Geneva, Tel: (+41) 22 733 51 23
 
 ## Observatory for the Protection of Human Rights Defenders
 
@@ -191,7 +192,7 @@ New York, Tel: (+1) 212-290-4700
 
 **Description:** The Observatory is among the largest coalitions of NGOs (nearly 300 local, national, and regional organizations) fighting against arbitrary detention and executions, torture, forced disappearances, and other forms of violence. The Observatory has denounced and stopped attacks against human rights defenders through urgent appeals, fact-finding missions, lobbying, training, and reports. They do take urgent appeals.  
 
-**Web site:** www.omct.org click on "Human Rights Defenders"  
+**Web site:** [omct.org/human-rights-defenders] (http://www.omct.org/human-rights-defenders/observatory/)   
 **Email:** omct@omct.org  
 Switzerland, Tel: (+41) 22 809 4939
 
@@ -204,24 +205,25 @@ Switzerland, Tel: (+41) 22 809 4939
 
 **Description:** Peace Brigades International offers protective accompaniment to human rights organizations to deter potential attacks and provide moral support. While PBI does not work directly for threatened organizations, they build international support networks and pressure governments to protect their citizens. PBI also supports Peace Education Programs.  
 
-**Web site:** [www.peacebrigades.org](www.peacebrigades.org)  
-London, Tel: +44 20 7065 0775
+**Web site:** [peacebrigades.org](https://www.peacebrigades.org/)  
+London, Tel: (+44) 20 7065 0775
 
-## Urgent Action Fund for Women's Human Rights and Urgent Action Fund Africa
+## Urgent Action Fund for Women's Human Rights 
 
-**Where:** Global  
+**Where:** Global (regional funds operate in [Africa] (http://www.uaf-africa.org/), [Latin America] (http://www.fondoaccionurgente.org.co/), and [Asia Pacific] (https://www.uafanp.org/).) 
 
 **Type of Threat:** Threats of Violence, Physical Assault, Imprisonment, Lawsuit,Infringement on Rights, Discrimination, Attack on Freedom of Expression  
 **Language:** Arabic, Albanian, Bahasa, English, French, Nepali, Spanish, Russian,  
 
 **Accept Urgent Appeals?** Yes!  
 
-**Description:** UAF and UAF-Africa operate Rapid Response Grant-making programs to support women activists around: a) peace-building in situations of armed conflict, escalating violence, or politically volatile environments;b) potentially precedent-setting legal and legislative actions; and c) protection of women human rights defenders. Their Research, Publications, and Advocacy program is a resource for activists, funders, and allies of women's human rights activism.  
+**Description:** UAF operate Rapid Response Grant-making programs to support women activists around: a) peace-building in situations of armed conflict, escalating violence, or politically volatile environments;b) potentially precedent-setting legal and legislative actions; and c) protection of women human rights defenders. Their Research, Publications, and Advocacy program is a resource for activists, funders, and allies of women's human rights activism. 
 
 **Web site:** www.urgentactionfund.org  
-USA, Tel: (+1) 303 442-2388 (all requests outside Africa)  
-Kenya, Tel: (+254) 20 2931095 (all requests in Africa)  
-**Email:** urgentact@urgentactionfund.org; proposal@urgentactionfund-africa.or.ke
+Global, Tel: (+1) 303 442-2388  
+Africa, Tel: (+254) 20 2931095   
+Latin America, Tel: (+57) 1 368 6155; (+57) 312 562 1321
+**Email:** urgentact@urgentactionfund.org; info@uaf-africa.org (Africa); apoyos3@fondoaccionurgente.org.co (Latin America); info@uafanp.org (Asia Pacific)
 
 ## Witness
 
@@ -232,7 +234,7 @@ Kenya, Tel: (+254) 20 2931095 (all requests in Africa)
 
 **Description:** WITNESS uses video and online technologies to open the eyes of the world to human rights violations. We empower people to transform personal stories of abuse into powerful tools for justice, promoting public engagement and policy change. WITNESS regularly conducts on-site trainings with our Core Partners, teaching them how to document human rights abuses safely and effectively with video and how to use video to further their advocacy goals.  
 
-**Web Site:** [www.witness.org](www.witness.org)  
+**Web Site:** [witness.org](https://witness.org/)  
 New York, Tel: (+1) 718.783.2000
 
 # B. LEGAL NETWORKS
