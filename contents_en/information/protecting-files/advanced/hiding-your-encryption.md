@@ -1,9 +1,14 @@
 [Title]: # (Hiding your encryption)
 [Order]: # (3)
 
-# Hiding your encryption
+# Disguise VeraCrypt
 
-If you are concerned about encryption software being found on your computer regardless of what's in it, there are a few tricks to help disguise VeraCrypt.
+If you are concerned about encryption software being found on your device:
 
-*   You can rename your encrypted volume to look like a different type of file. Using the '.iso' file extension, to disguise it as a CD image, is one option that works well for large volumes of around 700 MB. Other extensions would be more realistic for smaller volumes.
-*   You can also rename the VeraCrypt program itself, assuming you have stored it as you would a regular file, rather than installing it as a program. The [VeraCrypt Guide](umbrella://lesson/veracrypt) explains how to do this.
+*   Name your encrypted volume to look like a different type of file. 
+
+Adding an '.iso' file extension makes volumes around 700 MB look like a CD image. Other extensions would be more realistic for smaller volumes.
+
+*   Use a portable version of VeraCrypt, instead of installing it on your computer. (Even in portable mode, VeraCrypt may leave traces indicating it has been used on your device.) 
+
+Learn more in the [VeraCrypt] (umbrella://lesson/veracrypt) tool guide.
