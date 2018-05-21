@@ -1,15 +1,17 @@
 [Title]: # (What now?)
 [Order]: # (5)
 
-Swipe right for this lesson's checklist
+Swipe right for this lesson's checklist.
 
 ### RELATED LESSONS/TOOLS
 
-*   [Managing Information Lesson](umbrella://lesson/managing-information)
-*   [Malware Lesson](umbrella://lesson/malware)
-*   [VeraCrypt Tool Guide](umbrella://lesson/veracrypt)
+*   [Managing Information](umbrella://lesson/managing-information)
+*   [Malware](umbrella://lesson/malware)
+*	[Passwords] (umbrella://lesson/passwords/0)
+*   [VeraCrypt](umbrella://lesson/veracrypt)
 
 ### FURTHER READING
 
-* [Security First - Free Online Training - Secure Passwords and Encryption of Data](https://advocacyassembly.org/en/partners/securityfirst/)  
-*   [EFF - Encryption](https://ssd.eff.org/en/module/what-encryption)
+* 	Security First, [Secure Passwords and Encryption of Data](https://advocacyassembly.org/en/courses/31/#/chapter/1/lesson/1), a free online training at Advocacy Assembly.  
+*   EFF, Surveillance Self-Defense, [Encryption](https://ssd.eff.org/en/module/what-encryption)
+*	Global Partners Digital, [World map of encryption laws and policies] (https://www.gp-digital.org/world-map-of-encryption/)
