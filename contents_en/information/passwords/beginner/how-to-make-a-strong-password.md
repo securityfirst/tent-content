@@ -9,7 +9,9 @@ A password should be difficult for a computer program to guess, difficult for ot
 
 The longer a password is, the longer it takes to guess. Short passwords of any kind, even totally random ones, are not strong enough for use with encryption today.
 
-*   **Make it complex:** Include upper case letters, lower case letters, numbers and symbols.
+*   **Make it complex:** Include upper case letters, lower case letters, numbers and symbols. 
+
+A little effort to make the password more complex goes a very long way. Increasing the length of a password even just by a few characters, or by adding numbers or special characters, makes it much more difficult to crack. Check the strength of passwords at [Passfault](http://www.passfault.com/).
 
 *   **Don't make it personal:** Don't choose a word or phrase based on information such as your name, telephone number, child's name, pet's name, birth date, or anything else that a person could learn by doing a little research about you.
 
@@ -27,6 +29,6 @@ The longer you keep one password, the more opportunity others have to figure it 
 
 *   **Make it memorable:**  If you write your password down because you can't remember it, it becomes vulnerable. 
 
-A piece of paper can be seen by anyone with access to your workplace. A computer file like a Microsoft Word document, even if it is password protected, can be broken in seconds using tools that are freely available on the internet. 
+A piece of paper can be seen by anyone with access to your workplace. A computer file like a Microsoft Word document is equally insecure. Even password protected files can be broken in seconds using tools that are freely available on the internet. 
 
 ![image](password2.png)
