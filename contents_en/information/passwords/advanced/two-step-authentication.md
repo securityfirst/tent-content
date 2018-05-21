@@ -11,7 +11,7 @@ In order to log in, you need to be in possession of a certain physical object:
 
 * A phone that can receive a code by SMS text message; 
 * A phone with an authenticator app that you have set up to generate codes; 
-* A special device called a universal second factor (U2F) token or key. 
+* A universal second factor (U2F) token or key, like a Yubikey. 
 
 Even if your password is hacked or stolen, the thief won't be able to log in unless they also have control of the second device, such as your phone, and the special codes that only it can create.
 
@@ -21,7 +21,4 @@ Even if your password is hacked or stolen, the thief won't be able to log in unl
 
 SMS text messages can be intercepted, and most U2F devices cost money. The best solution for most people is to use an app like [Google Authenticator](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2). 
 
-The [Two Factor Auth] (https://twofactorauth.org/) project tracks services and software that allow you to add 2FA. 
-
-
-
+The [Two Factor Auth] (https://twofactorauth.org/) project tracks services and software that allow you to add 2FA.
