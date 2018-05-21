@@ -1,11 +1,29 @@
 [Title]: # (How to protect sensitive files)
 [Order]: # (0)
 
-# How to protect sensitive files
+# Why protect your files? 
 
-Many human rights activists have sensitive information that could have serious consequences if seen by the wrong people. The [Managing Information lesson](umbrella://lesson/managing-information) can help you determine your threat model. Following the steps laid out in the Home/Office section and the [Malware](umbrella://lesson/malware) lesson will help you to protect your computer physically and digitally. However there may be situations where these precautions fail or you need to show your computer to someone whom you don't want to see the files. This is why you should also protect the files themselves. You can do this by encrypting them so that only you can read them.
+Many people have sensitive information to protect from an adversary. 
+
+(Learn to identify your adversary in the [managing information](umbrella://lesson/managing-information) lesson.) 
+
+The [Malware](umbrella://lesson/malware) and [Passwords](umbrella://lesson/passwords/0) lessons will help you to protect your device and your accounts from attack. 
+
+However, these precautions may fail, or you may be required to undermine them. (Learn about threats and password demands in [Passwords Expert](umbrella://lesson/passwords/2).) 
+
+This is why you should also protect the files themselves. 
 ![image](protecting1.png)
 
-Encryption is a way to enhance the security of a message or file by scrambling the contents so that it can only be read by someone who has the right encryption key to unscramble it. Many activists use TrueCrypt, but serious vulnerabilities have recently been found in it. VeraCrypt is a good, free, open-source, alternative that we recommend instead. Much like a safe, VeraCrypt creates an encrypted container on your computer or hard drive, that you can put as many files as you like into. (Learn how to use [VeraCrypt] (umbrella://lesson/veracrypt).)
+# Encryption 
+
+You can do this by encrypting files so that only you can read them.
+
+Encryption enhances security by scrambling content. Only someone who has the right key can unscramble and read it. 
+
+VeraCrypt is a free, open-source tool to encrypt files. VeraCrypt creates an encrypted container like a safe on your hard drive. You can keep as many files as you like in the container, and even hide it.  
+
+This lesson introduces VeraCrypt. (For step by step instructions, see the [VeraCrypt] (umbrella://lesson/veracrypt) tool guide.)
+
+*Note: Vulnerabilities have been found in TrueCrypt, an earlier version of VeraCrypt that is no longer maintained. Use VeraCrypt instead. 
 
 

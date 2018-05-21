@@ -1,10 +1,6 @@
 [Title]: # (Links)
 [Order]: # (5)
 
-
-**Links**
-=================
-
 Any time you are sent a link: 
 
 * Don't click on it until you verify where it comes from. 
@@ -16,5 +12,4 @@ Any time you are sent a link:
 * View shortened URLs in full by copying them into [Unshorten.It!] (https://unshorten.it/). 
 Some attacks try to hide bad links using a service that shortens URLs for social media, like bit.ly. 
 
-* Copy links into [VirusTotal] (https://www.virustotal.com/), a service which will check for known malware. (It will not catch every attack.) 
-
+* Copy links into [VirusTotal] (https://www.virustotal.com/), a service which will check for known malware. (It will not catch every attack.)

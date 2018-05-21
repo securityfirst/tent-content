@@ -1,18 +1,17 @@
 [Title]: # (What now?)
 [Order]: # (13)
 
-Swipe right for this lesson's checklist
+Swipe right for this lesson's checklist.
 
-Go to the Advanced lesson for advice on how to send encrypted emails for sensitive information.
-[Go to Advanced Lesson](umbrella://lesson/email/1)
+Learn how to encrypt sensitive emails in [Email Advanced](umbrella://lesson/email/1).
 
 ### RELATED LESSONS/TOOLS
 
-*   [Malware lesson](umbrella://lesson/protecting-files)
-*   [Internet lesson](umbrella://lesson/the-internet)
-*   [Passwords lesson](umbrella://lesson/passwords)
+*   [Malware](umbrella://lesson/malware)
+*   [Internet](umbrella://lesson/the-internet)
+*   [Passwords](umbrella://lesson/passwords)
 
 ### FURTHER READING
 
-* 	[Security First - Free Online Training - Secure Communications](https://advocacyassembly.org/en/partners/securityfirst/) 
-*   [Security in a Box - Secure communication guide](https://securityinabox.org/en/guide/secure-communication)
+* 	Security First, [Secure Communications](https://advocacyassembly.org/en/courses/33/#/chapter/1/lesson/1), a free online training at Advocacy Assembly.
+*   Security in a Box, [Keep your Online Communication Private](https://securityinabox.org/en/guide/secure-communication).

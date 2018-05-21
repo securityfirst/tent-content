@@ -1,9 +1,6 @@
 [Title]: # (If you've been Phished)
 [Order]: # (7)
 
-**If You've Been Phished**
-================================
-
 If you catch a phishing attack before you click:
 
 * Nice one! 
@@ -22,5 +19,4 @@ If you click on a link or attachment carrying malware:
 *   Consider reinstalling the operating system (eg Windows, Android, IOS) on your device. This will remove most malware, but some sophisticated variants may persist.
 *   If you need further help, seek [Emergency Support] (umbrella://lesson/emergency-support/digital).
 
-If you're not sure if your device has been compromised, read "Is my computer infected" under [Malware] (umbrella://lesson/malware)? 
- 
+If you're not sure if your device has been compromised, read "Is my computer infected" under [Malware] (umbrella://lesson/malware)?

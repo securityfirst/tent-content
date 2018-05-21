@@ -1,8 +1,18 @@
 [Title]: # (Security Questions)
 [Order]: # (8)
 
-# Security Questions
+# Security questions are also passwords
 
-Be aware of the "security questions" (such as "What is your mother's maiden name?" or "What was your first pet's name?") that websites use to confirm your identity if you do forget your password.
+*Answering honestly could allow attackers to bypass your password.* 
 
-Honest answers to many security questions are publicly discoverable facts that a can be easily found, and therefore bypass your password entirely. Instead, give fictional answers that, like your password, no one knows but you. For example, if the password question asks you your pet's name, you may have posted photos to photo sharing sites with captions such as "Here is a photo of my cute cat, Spot!" Instead of using "Spot" as your password recovery answer, you might choose "Rumplestiltskin."
+Many websites use security questions to confirm your identity if you forget your password (such as "What is your mother's maiden name?" or "What was your first pet's name?"). 
+
+The real answers to these questions are often public information, or can be easily found. 
+
+> For example, you or family members may have public posts saying "Here is a photo of our first cat, Spot!" 
+
+## Make up the answers instead
+
+*Give fictional answers that no one knows but you.* 
+
+Instead of using "Spot" as your password recovery answer, you might choose "Rumplestiltskin."

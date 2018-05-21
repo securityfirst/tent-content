@@ -1,24 +1,43 @@
 [Title]: # (Identifying and organising your information)
 [Order]: # (1)
 
-# Identifying and organising your information
+# Do you know where your data is? 
 
-The first step to formulating a backup policy is to figure out where all your personal and work information is currently located. This may include the following:
+To create a backup policy, start with a four-column table.  
 
-*   Email may be stored on the provider's mail server, on your own computer, or both.
-*   Documents, address books, or chat histories on the computers you use, which may be in the office or at home.
-*   Information may also be stored on USB sticks, portable hard drives, or CDs.
-*   Contacts and important text messages on your mobile phone.
-*   Your website may contain important information or collection of work.
-*   Don't forget your non-digital information, such as paper notebooks, diaries and letters.
+## Column 1: Information type. 
 
-Next, you need to work out which of these files are 'master copies,' and which are duplicates. The master copy is generally the most up-to-date version of a file and is the one you will want to back-up.
+Consider: 
 
-You should make a table of all the information types you identified above and for each of them note:
+*   Email.
+*   Documents. 
+*	Chat history and important text messages.
+*   Contacts and address books.
+*   Publications.
+*   Paper notebooks, diaries and letters.
 
-*   Whether that information is master copy or duplicate;
-*   The device or devices they are stored on;
-*   The physical location that the device is usually kept.
+## Column 2: Storage device.
 
-This table will help you see which of your information (or master copies) is only in one location and therefore vulnerable.
+Consider: 
+
+* Computers, phones, and other devices.
+* Remote servers operated by email or cloud storage providers.
+* USB sticks, portable hard drives, or CD-ROMs.
+* Websites.
+* Filing cabinets. 
+
+## Column 3: Device location.
+
+Consider home, work, online, with you, and other locations. 
+
+## Column 4: Master or duplicate?
+
+Identify master copies, generally the most up-to-date version (this is the one to back up), or duplicates.
+
+# Identify your weakness.
+
+Which files could you access if your primary computer crashed or your phone was stolen? 
+
+Information stored on one device or in one location is vulnerable.
+
 ![image](backing1.png)

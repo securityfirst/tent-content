@@ -1,7 +1,18 @@
 [Title]: # (Threat Modelling)
 [Order]: # (1)
 
-# Threat Modelling
+# Understand the threat
 
-There is no single solution for keeping your information safe. Managing your information securely isn't about which tools you use; it's about understanding the threats you face and how you can counter those threats. To become more secure, you should figure out what you need to protect, and whom you need to protect it from. Threats can change depending on where you're located, what you're doing, and whom you're working with. The easiest way to figure out what solutions are best for you is to carry out a threat modelling assessment.
+No single solution will keep information safe for everyone. You must identify and understand specific threats before you can counter them.  
+
+Figure out: 
+* What you need to protect;
+* Who you need to protect it from. 
+
+This depends on: 
+* Where you are; 
+* What you're doing;
+* Who you're working with.
+
+This is called threat modelling. Conducting frequent threat modeling assessments is good practice.
 ![image](managing_information2.png)

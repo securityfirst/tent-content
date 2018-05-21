@@ -1,10 +1,10 @@
 [Title]: # (What now?)
 [Order]: # (7)
 
-Swipe right for this lesson's checklist
+Swipe right for this lesson's checklist.
 
 ### RELATED LESSONS/TOOLS
 
-*   [Counter-Surveillance lesson](umbrella://lesson/counter-surveillance)
-*   [Mobile phones lesson](umbrella://lesson/mobile-phones)
-*   [Email lesson](umbrella://lesson/email)
+*   [Counter-Surveillance](umbrella://lesson/counter-surveillance/0)
+*   [Mobile Phones](umbrella://lesson/mobile-phones)
+*   [Email](umbrella://lesson/email)

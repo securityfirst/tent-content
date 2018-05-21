@@ -1,15 +1,17 @@
 [Title]: # (Secure deletion on Mac OS)
 [Order]: # (2)
 
-# Secure deletion on Mac OS
+# Insecure delete
 
-On Mac OS X 10.4 and above, you can securely delete individual files by simply:
+The Secure Empty Trash feature was removed in OS X 10.11, because Apple could not guarantee secure deletion on the fast flash (SSD) drives used in most of its modern models. 
 
-*   Moving them to the Trash;
-*   Then selecting Finder > Secure Empty Trash.
+(On OS X 10.4 to 10.10, you can move sensitive files to the Trash, then select Finder > Secure Empty Trash.)
 
-Alternatively, you may want to securely erase all the previously deleted data from your computer. Apple's advice on this is to:
+# Protect sensitive files
 
-*   Open Disk Utility (in Applications/Utilities);
-*   Choose Help > Disk Utility Help;
-*   Search for help on erasing free disk space.
+Protect sensitive files using encryption instead: 
+
+* Make sure the built-in FileVault utility is enabled (this requires you to enter a password to use your Mac).  
+* Use VeraCrypt, a free, open-source tool for file encryption. 
+
+Learn more about [protecting files] (umbrella://lesson/protecting-files) and using [VeraCrypt] (umbrella://lesson/veracrypt).

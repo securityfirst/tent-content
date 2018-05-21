@@ -1,26 +1,58 @@
 [Title]: # (Assessment questions)
 [Order]: # (2)
 
-# Assessment questions
-
-When carrying out an assessment, there are five main questions you should ask yourself:
-
 ## 1. What do you want to protect?
 
-What information could put you, your work or others at risk if were public? This is often the kind of information kept in your emails, contact lists, messages and files. It might relate to a specific sensitive campaign you are working on.
+What information could leave you or others vulnerable if it were in the wrong hands? Where do you keep it? 
+
+* Email accounts?
+* Contact lists? 
+* Messages? 
+* Files? 
+* Where else?
+
+*Make a list of your assets: data that you keep, where it’s kept, who has access to it, and what stops others from accessing it.* 
 
 ## 2. Who do you want to protect it from?
 
-This could be any person or entity that poses a threat against an your or your work, also known as an adversary. Think about who would have a motive in reading or deleting your information or disrupting your work. Examples could be a government, a company you are exposing, your boss, or a hacker.
+Which person or entity poses a threat to you or your work? Who has a motive to read or destroy the information you want to protect?
+
+* A government?
+* A company?  
+* Your boss?
+* A hacker?
+* Who else? 
+
+This is your adversary.  
+
+*Make a list of your adversaries, or those who might want to get ahold of your assets.* 
 
 ## 3. How likely is it that you will need to protect it?
 
-It is important to distinguish between threats and risks. While a threat is a bad thing that can happen, risk is the likelihood that the threat will occur. Calculating risk means figuring out the chance that a threat might actually occur - how likely is it that a threat would be carried out? You also need to think about the capability of potential attackers. For example, your mobile phone provider has access to all of your phone records and therefore has the capability to use or share that data. A hacker on an open Wi-Fi network can access your unencrypted communications. A government might have stronger capabilities.
+A threat is a bad thing that can happen. Risk is the likelihood that the threat will occur. This question calculates risk. 
+
+* Is it likely that your adversary will attack your information?
+* Has it happened before?
+* Has it happened to someone like you? 
+
+*Write down which threats you are going to take seriously, and which may be too rare or too harmless (or too difficult to combat) to worry about.*
 
 ## 4. How bad are the consequences if you fail?
 
-The motives of adversaries differ widely, as do their attacks. A company trying to prevent the spread of a video showing their illegal activity may simply want to delete the video, whereas a government may wish to gain access to the names/details of activists it sees as a threat to the state in order to arrest or harass them.
+### What is the adversary's motive?  
 
-## 5. How much trouble are you willing to go through in order to try to prevent those?
+A company accused of wrongdoing may want to delete the evidence. Government officials may seek to arrest or harass an opponent.
 
-This means figuring out which threats you are going to take seriously, and which may be too rare or too harmless (or too difficult to combat) to worry about. Many people find certain threats unacceptable no matter what the risk, because the presence of the threat at any likelihood is not worth the cost. In other cases, people disregard high risks because they don't view the threat as a problem.
+### What is the adversary capable of?  
+
+For example, your mobile phone provider has access to all your phone records and thus has the capability to use that data against you. A hacker on an open Wi-Fi network can access your unencrypted communications. Your government might have stronger capabilities. 
+
+*Write down what your adversary might want to do with your private data.*
+
+## 5. How much trouble will it take to protect it?
+
+Some threats are rare or harmless. Some are easier to prevent than others. Some people find certain threats unacceptable no matter what the risk. 
+
+Which threats you are going to take seriously?
+
+*Write down what options you have available to you to help mitigate your unique threats. Note if you have any financial constraints, technical constraints, or social constraints.*

@@ -1,14 +1,13 @@
 [Title]: # (What now?)
 [Order]: # (5)
 
-Swipe right for this lesson's checklist
+Swipe right for this lesson's checklist.
 
 ### RELATED LESSONS/TOOLS
 
-*   [Protecting Files lesson](umbrella://lesson/protecting-files)
-*   Darik's Boot and Nuke tool guide
+*   [Protecting Files](umbrella://lesson/protecting-files)
 
 ### FURTHER READING
 
-*   [EFF - How to delete your data securely](https://ssd.eff.org/en/module/how-delete-your-data-securely)
-*   [Security in a Box - Chapter 6, Secure deleting](https://securityinabox.org/chapter-6)
+*   EFF, Surveillance Self-Defense, How to delete your data on [Linux] (https://ssd.eff.org/en/module/how-delete-your-data-securely-linux), [Mac OS] (https://ssd.eff.org/en/module/how-delete-your-data-securely-mac-os-x), and [Windows] (https://ssd.eff.org/en/module/how-delete-your-data-securely-windows). 
+*   Security in a Box, [Destroy Sensitive Information](https://securityinabox.org/en/guide/destroy-sensitive-information/).

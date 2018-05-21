@@ -1,13 +1,13 @@
 [Title]: # (What now?)
 [Order]: # (11)
 
-Swipe right for this lesson's checklist
+Swipe right for this lesson's checklist.
 
-Go to the Advanced lesson for advice on using a satelite phone securely.[Go to Advanced Lesson](umbrella://lesson/radios-and-satellite-phones/1)
+Learn to use a satelite phone securely in [Radio and Satellite Phones Advanced](umbrella://lesson/radios-and-satellite-phones/1).
 
 ### RELATED LESSONS/TOOLS
 
-*   [Making a Call](umbrella://lesson/making-a-call)
+*   [Making a Call] (umbrella://lesson/making-a-call)
 
 ### FURTHER READING
 
