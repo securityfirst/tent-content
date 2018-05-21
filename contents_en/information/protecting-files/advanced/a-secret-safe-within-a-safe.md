@@ -1,10 +1,16 @@
 [Title]: # (A secret safe within a safe)
 [Order]: # (2)
 
-# A secret safe within a safe
+# Secret volumes
 
-One of the weaknesses with some encryption tools is their visibility - you may be worried that someone could find the encrypted volume, see that you were trying to conceal information, and use intimidation, blackmail or interrogation to force you into opening it.
+If an adversary finds encrypted files, they may use intimidation, blackmail or interrogation to force you to open them.
 
-However VeraCrypt allows you to create a secret volume, inside your regular encrypted volume, to hide your most sensitive information. It is similar to installing a secret 'false bottom' inside your office safe. If an intruder steals your key, or intimidates you into giving them the safe's combination, they will find some convincing decoy material, but not the information that you truly care about protecting.
+However, VeraCrypt allows you to create a secret volume inside your standard encrypted volume, to hide your most sensitive information.
 
-You open this secret volume by providing an alternate password that is different from the one you would normally use. Even if a technically sophisticated intruder gains access to the standard volume, he will be unable to prove that a hidden one exists.
+Secret volumes are like a false bottom in a safe. An intruder may steal what they see in the safe, but miss the truly valuable content hidden beneath the false bottom.
+
+# Alternate passwords
+
+Set up secret volumes with a second, alternate password that is different from one you use to open the standard volume. 
+
+An adversary will be unable to prove that the secret volume exists, even if they gain access to the standard volume.
