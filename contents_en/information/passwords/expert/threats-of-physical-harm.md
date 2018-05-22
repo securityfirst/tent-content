@@ -1,7 +1,7 @@
 [Title]: # (Threats of Physical Harm)
 [Order]: # (10)
 
-Attackers can obtain your password by threatening you with physical harm or detention. 
+# Attackers can threaten you with harm or detention to obtain your password. 
 
 Decide if this is a possibility for you, for example, if you plan to cross a hostile border with sensitive information. 
 
@@ -19,7 +19,7 @@ If you maintain an account with unimportant information on a computer, email ser
 
 ## Check your device
 
-Your devices are often configured to display your primary account, for example, on your computer login screen, or a tab that loads automatically when you open a web browser.  
+Your devices are often configured to display your primary account, for example, on your computer login screen, or a tab that loads automatically in your web browser.  
 
 If you are hiding an account or using a decoy, reconfigure your device accordingly.
 
