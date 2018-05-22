@@ -1,12 +1,33 @@
 [Title]: # (Regular SMS Text messages)
 [Order]: # (0)
 
-# Regular SMS Text messages
+# SMS is insecure
 
-SMS messages are not well encrypted so you should not rely on them to transmit sensitive information securely. Sent SMS messages can be intercepted and kept by your service operator or by third parties with inexpensive equipment. Those messages will carry the phone numbers of the sender and recipient as well as the content of the message. What's more, SMS messages can easily be altered or forged by third parties.
+## Weak encryption
 
-If you do need to use SMS for something, consider establishing a code system between you and your recipients. Codes may make your communication more secure and may provide an additional way of confirming the identity of the person you're communicating with. Code systems need to be secure and change frequently.
+SMS (short message service) text messages are not well encrypted.
 
-Saved messages on your phone can easily be accessed by anybody who gets hold of your phone so consider deleting all received and sent messages straightaway.
+## Easily intercepted
 
-_Regular SMS text messages to or from your mobile phone are not secure._ 
+Sent SMS messages, along with the sender and recipient phone numbers, are vulnerable to interception by:
+
+*	Your phone company;
+*	Any government or organization with power over your phone company; 
+*	People close to your phone with inexpensive technology. 
+*	People who get access to message history saved on your phone. 
+
+Messages will carry the phone numbers of the sender and recipient as well as the content of the message. 
+
+## Easily faked 
+
+SMS messages can be altered or forged by third parties.
+
+# Precautions
+
+*	Avoid sharing sensitive information by SMS. 
+*	If you do need to use SMS, use code words for sensitive information and to confirm the identity of the person you're communicating with. (Establish code systems in advance and change them frequently.)
+*	Delete all received and sent messages immediately.
+
+
+
+
