@@ -18,10 +18,10 @@ Your location may reveal:
 *	Political participation; 
 *	Personal relationships. 
 
-![image](mobile4.png)
-
 ## Turn off GPS 
 
 * 	Turn on your GPS only when you need it;
 *	Only give location permissions to apps that you trust and that have a good reason to know where you are.
+
+![image](mobile4.png)
 
