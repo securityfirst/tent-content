@@ -1,9 +1,7 @@
-[Title]: # (Secure messaging on your computer)
+[Title]: # (Other secure messaging options)
 [Order]: # (4)
 
-# Secure messaging on your computer
-
-We recommend one of the following for secure messaging on a computer:
+For secure messaging on a computer, we also recommend:
 
 ## Pidgin
 
@@ -14,7 +12,3 @@ Pidgin supports many features of these chat networks, such as file transfers, aw
 ## Adium
 
 A good alternative to Pidgin for Mac OS is [Adium](http://adium.im/). 
-
-## Signal Desktop
-
-A desktop version of Signal that runs on Windows, Mac, or LINUX is available [here] (https://signal.org/download/).
