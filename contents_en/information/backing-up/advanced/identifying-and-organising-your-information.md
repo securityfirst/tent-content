@@ -28,7 +28,12 @@ Consider:
 
 ## Column 3: Device location.
 
-Consider home, work, online, with you, and other locations. 
+Consider: 
+
+* Home.
+* Work.
+* Online. 
+* With you. 
 
 ## Column 4: Master or duplicate?
 
