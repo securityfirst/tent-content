@@ -1,7 +1,7 @@
 [Title]: # (Remembering secure passwords)
 [Order]: # (7)
 
-A few tricks will help you create passwords that are easy to remember but difficult to guess.
+## A few tricks will help you create passwords that are easy to remember but difficult to guess.
 
 *   **Vary capitalisation:**'My naME is Not MR. MarSter'
 
@@ -13,4 +13,4 @@ A few tricks will help you create passwords that are easy to remember but diffic
 
 *   **Use acronyms:**'Are you happy today?' becomes 'rU:-)2d@y?'
 
-(Learn about secure password databases like [KeePassXC](umbrella://lesson/keepassx) in [Passwords Advanced] ((umbrella://lesson/passwords/1).
+(Learn about secure password databases like [KeePassXC](umbrella://lesson/keepassx) in [Passwords Advanced] (umbrella://lesson/passwords/1).
