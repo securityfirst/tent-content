@@ -1,13 +1,14 @@
 [Title]: # (2FA)
 [Order]: # (2)
 
-# Two-Factor Authentication (2FA)
+# Two-Factor Authentication (2FA)  
 
-It's easy to add extra security to your accounts with 2FA, and recommended for everyone.  
+*	**Accounts with a password protect your information with something you *know.*** 
+*	**Accounts with 2FA also protect your information with something that you *have.* **
 
-Accounts with a password protect your information with something you *know.* Accounts with 2FA also protect your information with something that you *have.* 
+It's easy to add extra security to your accounts with 2FA, and recommended for everyone.
 
-In order to log in, you need to be in possession of a certain physical object:  
+## To log in with 2FA, set up a second device:  
 
 * A phone that can receive a code by SMS text message; 
 * A phone with an authenticator app that you have set up to generate codes; 
