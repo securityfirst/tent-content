@@ -7,11 +7,11 @@ Eraser is a free, open-source secure deletion tool for Windows. It is much bette
 
 [Download](http://eraser.heidi.ie/download/) a stable build from the official website and double click to run the file.
 
-To securely delete a single file or folder:
+## To securely delete a single file or folder:
 
 *    Right-click on the file or folder and choose Eraser > Erase from the right-click menu.
 
-To securely delete older data:
+## To securely delete older data:
 
 *   Launch Eraser.
 *   Click the downward-pointing arrow next to "Erase Schedule" and choose "New Task."
