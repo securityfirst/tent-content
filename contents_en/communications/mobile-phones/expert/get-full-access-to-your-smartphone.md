@@ -1,7 +1,7 @@
 [Title]: # (Get full access to your smartphone)
 [Order]: # (9)
 
-# Get full access to your smartphone
+# Experts only
 
 Firmware is the permanent software that a manufacturer programmes into a device's read-only memory. They run in cooperation with the device's operating system and are responsible for basic operations of the hardware of your smartphone, such as the speaker, microphone, cameras, touchscreen, memory, keys, antennas, etc. Most functionalities are 'locked in' so the user is not capable of controlling or altering these functions. There are however, some applications and functionalities that can enhance the security of data and communications on a smartphone. Also there are some other existing functionalities that can be removed to avoid security risks.
 
