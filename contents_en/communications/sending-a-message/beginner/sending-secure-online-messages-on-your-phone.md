@@ -1,4 +1,4 @@
-[Title]: # (Sending secure messages)
+[Title]: # (Secure messaging apps)
 [Order]: # (2)
 
 # Use Signal
@@ -32,4 +32,4 @@ Telegram, a secure messaging app, does use end-to-end encryption in some modes, 
 
 *	There have been serious concerns over the quality of Telegram encryption; 
 *	Telegram has been shown to gather significant information on users, including their contacts; 
-*	Users activate end-to-end encryption manually in secret chats.  
+*	Users activate end-to-end encryption manually in secret chats.
