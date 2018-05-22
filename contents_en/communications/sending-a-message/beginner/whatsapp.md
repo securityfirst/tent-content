@@ -1,30 +1,43 @@
 [Title]: # (WhatsApp)
 [Order]: # (3)
 
-# WhatsApp
+# The most popular mobile communication tool in the world. 
 
-WhatsApp is the most popular mobile communication tool in the world, offering free messaging to individuals and groups on a range of devices and operating systems. 
+WhatsApp offers free messaging to individuals and groups on a range of devices and operating systems. 
 
-Between 2014 and 2016, WhatsApp integrated secure code from the respected privacy and technology company Open Whisper Systems. WhatsApp messages are now protected with end-to-end encryption as long as all parties are using the most up to date version of the app, and WhatsApp can no longer view or be forced to reveal the content of messages. (Read WhatsApp's [security policy] (https://www.whatsapp.com/security/).)  
+## End-to-end encryption
 
-Note:
+*	Between 2014 and 2016, WhatsApp integrated secure code from Open Whisper Systems, who build Signal;
+
+*	WhatsApp messages are end-to-end encrypted as long as all parties use the most recent version; WhatsApp cannot view or be forced to reveal the content. 
+
+(Read WhatsApp's [security policy] (https://www.whatsapp.com/security/).)  
+
+## Security considerations
 
 *   WhatsApp does not encrypt pictures once they arrive on your phone.
-*   While WhatsApp or others cannot view the content of your messages, they can still access information that reveals that you are communicating with someone (metadata). In some cases, this may still have negative security consequences.
-* 	It is possible for someone to try to intercept your communications by changing a contact's security code. To ensure you are warned about someone trying to do this, go to Settings -> Account -> Security -> Turn on "Show security notifications"
+*   WhatsApp can still access metadata, information that reveals that you are communicating with someone. In some cases, this may still have negative security consequences.
+* 	An attacker may try to intercept WhatsApp communications by changing your contact's security code. Go to Settings > Account > Security > Show security notifications to switch on warnings about this activity. 
+*	WhatsApp is owned by Facebook and shares at least some user data with the company.  
 
 *We still recommend Signal for secure messaging and calls.* (Learn how to use Signal for [Android] (umbrella://lesson/signal-for-android) and [iOS] (umbrella://lesson/singal-for-ios).) 
 
-**Two-Step Verification**
+## Turn on 2FA
 
-Two-step verification is an optional feature that adds more security to your WhatsApp account. When you have two-step verification enabled, any attempt to verify your phone number on WhatsApp must be accompanied by the six-digit passcode that you created using this feature.
+Add security to your WhatsApp account by enabling two-step verification, a form of two-factor authentication (2FA).
 
-To enable two-step verification, open WhatsApp > Settings > Account > Two-step verification > Enable.
+(Learn about 2FA in [Passwords Advanced](umbrella://lesson/passwords/1))
 
-Upon enabling this feature, you can also optionally enter your email address. This email address will allow WhatsApp to send you a link via email to disable two-step verification in case you ever forget your six-digit passcode, and also to help safeguard your account. WhatsApp does not verify this email address to confirm its accuracy. 
+*	Go to Settings > Account > Two-step verification > Enable.
+*	Create a six-digit PIN. WhatsApp will periodically prompt you to enter it. 
 
-If you receive an email to disable two-step verification, but did not request this, do not click on the link. Someone could be attempting to verify your phone number on WhatsApp.
+WhatsApp will email a link to disable 2FA to users who provide an email address. Note: 
 
-If you have two-step verification enabled, your number will not be permitted to reverify on WhatsApp within 7 days of last using WhatsApp without your passcode. If you forget your own passcode, but did not provide an email to disable two-step verification, you will not be permitted to reverify on WhatsApp within 7 days of last using WhatsApp. After these 7 days, your number will be permitted to reverify on WhatsApp without your passcode, but you will lose all pending messages upon reverifying - they will be deleted. If your number is reverified on WhatsApp after 30 days of last using WhatsApp, and without your passcode, your account will be deleted and a new one will be created upon successfully reverifying.
+*	WhatsApp does not verify this email address. 
+* 	If you skip this step and later receive an email to disable two-step verification, someone else could be attempting to register your phone number. *Do not click on the link.*
+*	If you skip this step and later forget your PIN, WhatsApp will not allow you to reverify for seven days. You will lose all pending messages when you reverify. 
+* 	If you reverify after 30 days, your old account will be deleted and replaced with a new one.
 
-To help you remember your passcode, WhatsApp will periodically ask you to enter your passcode. There is no option to disable this without disabling the two-step verification feature.
+(Read WhatsApp's [two-step verification] (https://faq.whatsapp.com/en/general/26000021/?category=5245245) policy.)
+
+

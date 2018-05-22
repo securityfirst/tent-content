@@ -5,14 +5,18 @@
 
 No single solution will keep information safe for everyone. You must identify and understand specific threats before you can counter them.  
 
-Figure out: 
-* What you need to protect;
-* Who you need to protect it from. 
+## Figure out: 
 
-This depends on: 
-* Where you are; 
-* What you're doing;
-* Who you're working with.
+* 	What you need to protect;
+* 	Who you need to protect it from. 
 
-This is called threat modelling. Conducting frequent threat modeling assessments is good practice.
+## This depends on: 
+
+* 	Where you are; 
+* 	What you're doing;
+* 	Who you're working with.
+
+This is called threat modelling. 
+
+Conducting frequent threat modeling assessments is good practice.
 ![image](managing_information2.png)

@@ -3,9 +3,11 @@
 
 # Use a password manager
 
-You know how to [create a strong, memorable password] (umbrella://lesson/passwords/0). Now you need to create a different password for every account, and to change it every few months. It can soon become difficult to remember them all. Fortunately, there are tools to help. 
+You know how to [create a strong password] (umbrella://lesson/passwords/0). But creating a different password for every account and changing it every few months makes it difficult to remember them all. 
 
-A password manager can: 
+Fortunately, there are tools to help. 
+
+## A password manager can: 
 
 * Generate random, secure passwords for each of your accounts;
 * Record them in a portable, encrypted password database; 
@@ -14,6 +16,7 @@ A password manager can:
 ![image](password_adv1.png)
 
 Whenever you need to enter a password for a specific account, you can look it up using your master password. 
+
 **This makes it especially important that you create and remember a very secure master password.** 
 
 ## KeePassXC

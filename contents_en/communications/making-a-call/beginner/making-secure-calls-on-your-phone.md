@@ -1,12 +1,39 @@
-[Title]: # (Making secure calls on your phone)
+[Title]: # (Secure calls)
 [Order]: # (2)
 
-# Making secure calls on your phone
+# Signal
 
-## Signal
+Signal is a free, simple, open-source tool that protects voice calls with end-to-end encryption. 
 
-Signal is a free, simple open-source tool for sending secure end-to-end messages and making encrypted phone calls.  It is available for [Android](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms), [iPhone](https://itunes.apple.com/ie/app/signal-private-messenger/id874139669), and Desktop. It requires that person you are communicating with also has Signal installed.
+Download Signal for: 
 
-Signal uses your existing phone number and address book. There are no separate logins, usernames, passwords to manage or lose. It uses your mobile number as your identificator (like a user name) - this makes it easier for the user, though it also makes it easier to analyze the traffic it produces and trace it back to you. Signal uses a central server, which is a point of centralization and thus puts it in the powerful position of having control over some of this data. However, they cannot hear your conversations or see your messages, so no one else can either. Signal also allows you to set a time for messages to disappear once they have been read by the person you are sending them to.
+*	[Android](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms); 
+*	[iPhone](https://itunes.apple.com/ie/app/signal-private-messenger/id874139669); 
+*	[Desktop] (https://signal.org/download/). 
 
-Learn more about Signal and how to set it up in the Signal tool guides for [Android] (umbrella://lesson/signal-for-android) and [iOS] (umbrella://lesson/signal-for-ios).
+The person you are communicating with must also install Signal.
+
+## Your phone number is your Signal username. 
+
+*	There is no separate username or password to manage or lose. 
+*	This makes it easier for you; it could also make it easier to analyze the traffic it produces and trace it back to you. 
+*	You mobile number may identify you and undermine anonymous communication. 
+
+## Signal uses a central server. 
+
+*	Signal developers [Open Whisper Systems] operate a central server. You can't run your own, which would give you more control over your security. 
+*	However, they cannot hear your conversations, so no one else can either. 
+
+Learn more about security trade-offs and privacy features in the Signal tool guides for [Android] (umbrella://lesson/signal-for-android) and [iOS] (umbrella://lesson/signal-for-ios).
+
+(We also recommend Signal for [sending a message] (umbrella://lesson/sending-a-message).)  
+
+# JitsiMeet
+
+JitsiMeet is another free, open-source VoIP tool which allows group conferencing. You do not need to sign up or create an account. 
+
+* 	Enter your own meeting name at [https://meet.jit.si](https://meet.jit.si). 
+* 	Meeting names should have no spaces and be difficult to guess. 
+*	Share the link. Simple as that.
+
+JitsiMeet is also available for [Android] (https://play.google.com/store/apps/details?id=org.jitsi.meet) and [iOS] (https://itunes.apple.com/us/app/jitsi-meet/id1165103905). 

@@ -15,8 +15,8 @@ There are inexpensive shredders that will chew up CD-ROMs. Never just throw a CD
 
 # Encrypt SSDs, USB flash drives, and SD cards
 
-Secure deletion is difficult, if not impossible. 
+Secure deletion is difficult, if not impossible, in these formats. 
 
-Use encryption so that even if the file is still on the disk, it will at least look like code to gibberish to anyone without the key to decrypt it. 
+Use encryption so that even if the file is still on the disk, it will at least look like gibberish to anyone without the key to decrypt it. 
 
 (Learn more about [protecting files](umbrella://lesson/protecting-files).)

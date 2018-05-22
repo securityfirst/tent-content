@@ -1,8 +1,12 @@
 [Title]: # (VoIP Calls)
 [Order]: # (1)
 
-# VoIP Calls
+# Use secure VoIP 
 
-The easiest way to ensure you have good encryption on voice conversations is to use VoIP instead of regular calls. VoIP (Voice over Internet Protocol) refers to calls made using the internet. Using VoIP is generally free (or significantly cheaper than mobile phone calls) and leaves few data traces. Good call encryption software is currently only supported on a few models of smart phones.
+VoIP (Voice over Internet Protocol) calls made using the internet:
 
-In order to have end-to-end encrypted VoIP conversations, both parties must be using the same (or compatible) software. Conversations between providers such as Skype and mobile phones are not encrypted either, since at some point, the signal will move to the mobile network, where end-to-end encryption is NOT in place.
+*	Are generally free or significantly cheaper than mobile phone calls;
+*	Leave fewer data traces;
+*	Can be encrypted end-to-end if both parties use the same (or compatible) software. 
+
+*Note: conversations between VoIP and mobile phones use the mobile network, and are not encrypted.*

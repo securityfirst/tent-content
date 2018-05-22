@@ -1,13 +1,35 @@
 [Title]: # (General Precautions)
 [Order]: # (5)
 
-# General Precautions
+# Physically protect your device and SIM
 
-As is the case with other devices, the first line of defence for the safety of the information on your mobile phone is to physically protect the phone and its SIM card from being taken or tampered with.
+## Keep devices with you at all times. 
 
-*   Keep your phone with you at all times and avoid leaving it out in public.
-*   Always use your phone's security lock codes or Personal Identification Numbers (PINs) and keep them secret. Always change these from the default factory settings.
-*   Draw or make a mark on the SIM card, additional memory card, battery and phone with something unique and not immediately noticeable to a stranger. Place printed tamper-proof security tape over the joints of the phone if it is easily opened. (Tamper-proof security tape can be bought cheaply and easily over the internet) This will help you easily to identify whether any of these items have been tampered with or replaced.
-*   If your phone is locked, ask someone you trust about unlocking it. A locked phone poses higher risk as it means all your data is controlled by one operator.
-*   The 15-digit serial or IMEI (International Mobile Equipment Identity) number helps to identify your phone and can be accessed by keying *#06# into most phones, by looking behind the battery of your phone or by checking in the phone's settings. Make a note of this number and keep it separate from your phone, as this number could help to trace and prove ownership quickly if it is stolen.
-*   Consider the advantages and disadvantages of registering your phone with the service provider. If you report your phone stolen, the service provider should then be able to stop further use of your phone. However, registering it means your phone usage is tied to your identity.
+*	Avoid leaving phones or tablets out in public.
+
+## Use a security code.
+
+*	Add a Personal Identification Number (PIN), preferably 5 or 6 digits;
+*	Change the default factory code;
+*	Keep your code secret. 
+
+## Monitor for tampering. 
+
+* 	Mark your SIM card, memory card, battery and device with something unique and not immediately noticeable to ensure items are not replaced. 
+*	Use tamper-proof security tape at the edge of devices that open easily. (Tamper-proof security tape is cheap and easy to purchase online.)
+
+## Use an unlocked phone where possible.
+
+*   If your phone is locked to a single provider, the provider has more control over your data. 
+*	Consider whether your provider requires you to register personal information.
+*	Ask someone you trust about unlocking your device. 
+
+## Keep your IMEI number separate from your phone.
+
+*   The 15-digit serial or IMEI (International Mobile Equipment Identity) number may help to trace and prove ownership if your phone is stolen.
+
+To find your IMEI: 
+
+*	Key *#06# into most phones; 
+*	Look behind the battery; 
+*	Check the phone settings.  

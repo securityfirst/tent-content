@@ -1,7 +1,9 @@
 [Title]: # (Your backup strategy)
 [Order]: # (2)
 
-Your challenge is to make sure that each data type is stored in at least two separate locations.
+# Secure copies
+
+Your challenge is to make sure that each data type is stored securely in at least two separate locations.
 
 You will need a combination of software and processes. 
 

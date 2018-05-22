@@ -1,16 +1,35 @@
-[Title]: # (Sending secure online messages on your phone)
+[Title]: # (Secure messaging apps)
 [Order]: # (2)
 
-# Sending secure online messages on your phone
+# Use Signal
 
-## Signal
+Signal is a free, simple, open-source tool that protects messages with end-to-end encryption. 
 
-Signal is a free, simple open-source tool for sending end-to-end encrypted messages and making secure calls (see [Making a Call](umbrella://lesson/making-a-call).  It works for [Android](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms), [iPhone](https://itunes.apple.com/us/app/signal-private-messenger/id874139669?mt=8) and Desktop, and replaces the previous android app TextSecure and secure voice calling app, Redphone. The person you are communicating with must have Signal too.
+Download Signal for: 
 
-Signal uses your existing phone number and address book. There are no separate logins, usernames, passwords, or PINs to manage or lose. It uses your mobile number as your identificator (like a user name) - this makes it easier for the user, though it also makes it easier to analyze the traffic it produces and trace it back to you. Signal uses a central server, which is a point of centralization and thus puts it in the powerful position of having control over some of this data. However they cannot hear your conversations or see your messages, so no one else can either.  
+*	[Android](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms); 
+*	[iPhone](https://itunes.apple.com/ie/app/signal-private-messenger/id874139669); 
+*	[Desktop] (https://signal.org/download/). 
 
-Learn more about Signal at the project's [website](https://signal.org) or view the Signal tool guides for [Android](umbrella://lesson/signal-for-android) and [iOS](umbrella://lesson/signal-for-ios).
+## Your phone number is your Signal username. 
 
-## Don't use Telegram
+*	There is no separate username or password to manage or lose. 
+*	This makes it easier for you; it could also make it easier to analyze the traffic it produces and trace it back to you. 
+*	You mobile number may identify you and undermine anonymous communication. 
 
-Telegram, a secure messaging app, does use end-to-end encryption in some modes, but there have been serious concerns with the quality of their encryption and the amount of information it gathers on users, including their full contact lists. Users must also remember to start a new "Secret Chat" before encryption is activated. Given these concerns we cannot recommend Telegram as a secure method of communicating.
+## Signal uses a central server. 
+
+*	Signal developers [Open Whisper Systems] operate a central server. You can't run your own, which would give you more control over your security. 
+*	However, they cannot hear your conversations, so no one else can either. 
+
+Learn more about security trade-offs and privacy features in the Signal tool guides for [Android] (umbrella://lesson/signal-for-android) and [iOS] (umbrella://lesson/signal-for-ios).
+
+(We also recommend Signal for [making a call](umbrella://lesson/making-a-call))  
+
+# Don't use Telegram
+
+Telegram, a secure messaging app, does use end-to-end encryption in some modes, but we don't recommend it.
+
+*	There have been serious concerns over the quality of Telegram encryption; 
+*	Telegram has been shown to gather significant information on users, including their contacts; 
+*	Users activate end-to-end encryption manually in secret chats.
