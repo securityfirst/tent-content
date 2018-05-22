@@ -1,9 +1,9 @@
-[Title]: # (Making secure calls on your phone)
+[Title]: # (Secure calls)
 [Order]: # (2)
 
 # Signal
 
-Signal is a free, simple, open-source tool for messaging and voice calls with end-to-end encryption.  
+Signal is a free, simple, open-source tool that protects voice calls with end-to-end encryption. 
 
 Download Signal for: 
 
@@ -13,20 +13,27 @@ Download Signal for:
 
 The person you are communicating with must also install Signal.
 
-# How it works
+## Your phone number is your Signal username. 
 
-## Your number is your username. 
-
-*	There are no separate logins, usernames, or passwords to manage or lose. 
+*	There is no separate username or password to manage or lose. 
 *	This makes it easier for you; it could also make it easier to analyze the traffic it produces and trace it back to you. 
+*	You mobile number may identify you and undermine anonymous communication. 
 
 ## Signal uses a central server. 
 
 *	Signal developers [Open Whisper Systems] operate a central server. You can't run your own, which would give you more control over your security. 
-*	However, they cannot hear your conversations or see your messages, so no one else can either. 
+*	However, they cannot hear your conversations, so no one else can either. 
 
-## Built-in privacy features.
+Learn more about security trade-offs and privacy features in the Signal tool guides for [Android] (umbrella://lesson/signal-for-android) and [iOS] (umbrella://lesson/signal-for-ios).
 
-Signal allows you to set messages to disappear, along with other privacy features.
+(We also recommend Signal for [sending a message] (umbrella://lesson/sending-a-message).)  
 
-Learn how to set it up in the Signal tool guides for [Android] (umbrella://lesson/signal-for-android) and [iOS] (umbrella://lesson/signal-for-ios).
+# JitsiMeet
+
+JitsiMeet is another free, open-source VoIP tool which allows group conferencing. You do not need to sign up or create an account. 
+
+* 	Enter your own meeting name at [https://meet.jit.si](https://meet.jit.si). 
+* 	Meeting names should have no spaces and be difficult to guess. 
+*	Share the link. Simple as that.
+
+JitsiMeet is also available for [Android] (https://play.google.com/store/apps/details?id=org.jitsi.meet) and [iOS] (https://itunes.apple.com/us/app/jitsi-meet/id1165103905). 
