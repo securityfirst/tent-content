@@ -1,15 +1,17 @@
 [Title]: # (Threats of Physical Harm)
 [Order]: # (10)
 
-## Hide secret accounts
-
 Attackers can obtain your password by threatening you with physical harm or detention. 
 
-Decide if this is a possibility for you, for example, if you plan to cross a hostile border with sensitive information. (Learn more about assessing your own risk in the [managing information] (umbrella://lesson/managing-information) lesson.)
+Decide if this is a possibility for you, for example, if you plan to cross a hostile border with sensitive information. 
 
-If so, consider how to hide the existence of the data or device you are protecting with a password.  
+(Learn more about assessing your own risk in the [managing information] (umbrella://lesson/managing-information) lesson.)
 
-Do not trust that you will never hand over the password. 
+If so: 
+
+## Hide secret accounts
+
+Do not trust that you will never hand over the password. Consider how to hide the existence of the data or device you are protecting with a password.  
 
 ## Maintain a decoy
 
@@ -21,4 +23,4 @@ Your devices are often configured to display your primary account, for example, 
 
 If you are hiding an account or using a decoy, reconfigure your device accordingly.
 
-Learn more about hiding secret files in the [protecting files](umbrella://lesson/protecting-files) lesson.
+Learn more about hiding secret files in the [protecting files](umbrella://lesson/protecting-files/1) lesson.
