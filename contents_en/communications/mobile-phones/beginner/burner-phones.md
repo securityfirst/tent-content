@@ -24,14 +24,14 @@ You might be the only person who calls both your relative and your colleague. Yo
 
 Physical surveillance of the place where the phone is sold or used, or voice recognition, could reveal your identity. 
 
-## Do:
+# Do:
 
 *	Use prepaid phones (not associated with a personal credit card or bank account);
 *	Avoid registering the phone or SIM cards if possible. 
 
 *Note: in some countries there are legal or practical obstacles to obtaining anonymous mobile phone service.*
 
-## Don't:
+# Don't:
 
 *   Reuse SIM cards or devices;
 *   Carry different devices together;
