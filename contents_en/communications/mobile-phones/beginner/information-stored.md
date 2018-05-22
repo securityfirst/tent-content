@@ -1,17 +1,73 @@
 [Title]: # (Information stored)
 [Order]: # (2)
 
-## 2. Information stored on a mobile phone is vulnerable
+# Protect personal information
 
-Mobile phones can store all sorts of data: call history, text messages sent and received, address books, photos, video clips, text files. These may reveal your network of contacts, and personal information about you and your colleagues.
+Mobile phones may store all sorts of data: 
 
-Some phones have encryption options available which should be applied. If you have an Android phone this can be done in Settings -> Personal -> Security -> Encryption. (Learn [Basic Security for Android](umbrella://lesson/android) and how to [Encrypt your iPhone] (umbrella://lesson/encrypt-your-iphone).)
+*	Call history;
+*	Text messages (sent and received); 
+*	Addresses and contacts; 
+*	Photos and video;
+*	Text files. 
 
-Do not store confidential files and photos on your mobile phone. Move them, as soon as you can, to a safe location, as outlined in the [Backing Up](umbrella://lesson/backing-up) lesson. Frequently erase your phone call records, messages, address book entries, photos, etc. Learn more about safe deleting in the [Deleting lesson](umbrella://lesson/safely-deleting).
+Take these steps to minimize the risk of exposing personal information about you and your colleagues.
+
+## Encrypt your device.
+
+If the device allows encryption under settings, apply it.
+
+(Learn [basic security for Android](umbrella://lesson/android) and how to [encrypt your iPhone] (umbrella://lesson/encrypt-your-iphone).)
+
+## Move data.
+
+Move confidential files and photos from your phone to a secure location as soon as possible.
+
+(Learn about [protecting files] (umbrella://lesson/protecting-files) and [backing up](umbrella://lesson/backing-up). 
+
+## Erase data.
+
+Erase sensitive information regularing, including call records, messages, contacts, or photos.
+
+(Learn more about [safely deleting] (umbrella://lesson/safely-deleting).)
+
+## Protect your device
+
+*	Only use trusted phone dealers and repair shops.
+*	Delete all information before selling, handing on or disposing of your phone. 
+
+## Protect your SIM
+
+Keep SIM cards and memory cards you use in your phone secure:
+
+*	Don't leave them at the repair shop when your phone is being serviced. 
+*	Physically destroy SIM cards or memory cards. Never sell or hand them on. 
+
+## Use ObscuraCam
+
+ObscuraCam is a free, open-source app by the [Guardian Project](https://guardianproject.info/). Use it to protect privacy when capturing pictures or video. 
+
+> *For example, if you take photos or record video of a sensitive event, it might be dangerous to you or to those who appear in the recordings if your phone fell into the wrong hands.* 
+
+ObscuraCam can:
+
+*	Blur faces in photos;
+*	Delete the original photos;
+*	Upload media to your server if you set one up.
+
+(Learn how to use [ObscuraCam](umbrella://tools/obscuracam).)  
+
+## Use CameraV
+
+Photos and videos you take on your phone include metadata. Metadata can reveal the identity and location of your device. 
+
+Metadata supports the credibility of images and video used as evidence. But metadata can also put you or others at risk. 
+
+[CameraV](https://guardianproject.info/apps/camerav/) is a plugin for ObscuraCam. 
+
+CameraV can: 
+
+*	Store media with valuable metadata securely; 
+*	Strip metadata from images and video to share on social media.
+
 ![image](mobile3.png)
-
-Protect your SIM card and additional memory card (if your phone has one), as they may contain sensitive information. For example, make sure that you don't leave them at the repair shop when your phone is being serviced. Use only trusted phone dealers and repair shops if possible. When selling, handing on or disposing of your phone make sure all information is deleted. Never hand on or sell SIM cards or memory cards - you should physically destroy them.
-
-When capturing pictures or video it is important to be careful of privacy and safety of those pictured. For example, if you take photos or record video of a sensitive event, it might be dangerous to you or to those who appear in the recordings if your phone fell into the wrong hands. [Guardian Project](https://guardianproject.info/) has created an open-source app called [ObscuraCam](umbrella://tools/obscuracam) to detect/select faces on photos and blur them. Obscuracam also deletes the original photos and if you have set up a server to upload the captured media, it provides an easy way to upload it.
-
-Metadata such as phone identity and location are also captured on photos and videos. In some instances, such information is really important to have to prove the credibility of images and video so that they could be used as evidence in courts of law. At other times metadata can put you or others at risk. The Guardian Project has made a plugin tool for ObscuraCam called [CameraV](https://guardianproject.info/apps/camerav/) that allows you to store a version of the image/video with metadata while also creating a redacted version without any sensitive data that can safely be shared on social media.
