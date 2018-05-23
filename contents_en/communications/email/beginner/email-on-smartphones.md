@@ -3,7 +3,7 @@
 
 # Avoid email on your smartphone
 
-A smartphone is more vulnerable to theft, monitoring and intrusion than a computer.
+A smartphone is generally more vulnerable to theft, monitoring and intrusion than a computer.
 
 ## When email on a smartphone is unavoidable: 
 
