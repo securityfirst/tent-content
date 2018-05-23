@@ -1,11 +1,36 @@
 [Title]: # (Public Key Encryption)
 [Order]: # (1)
 
-PGP is built upon the concept of Public Key Encryption. This is a cryptographic system that uses two keys - a public key known to everyone and a private key known only to the recipient of the message. When John wants to send a secure message to Jane, he uses Jane's public key to encrypt the message. Jane then uses her private key to decrypt it.
+PGP is based on a cryptographic system called public key encryption. 
 
-*   So public key encryption lets you encrypt and send messages safely to anyone whose public key you know.
-*   If others know your public key, they can send you messages, which only you can decode.
-*   And if people know your public key, you can sign messages so that those people will know they could only have come from you.
-*   And if you know someone else's public key, you can decode a message signed by them, and know that it only came from them.
+## Everyone using it has two keys.
 
-You should keep your private key stored somewhere safe, and protected with a long password or passphrase. (If someone else gets a copy of your private key, they can pretend to be you, and sign messages claiming that they were written by you.) You can give your public key to anyone you want to communicate with you, or who wants to learn whether a message truly came from you.
+1.	A public key that everyone knows;
+2.	A private key only you know. 
+
+For example: 
+
+1. 	You encrypt a message for me using my public key; 
+2. 	I decrypt it with my private key.
+
+## Use PGP to: 
+
+* 	Encrypt email for anyone, as long as you have their public key.
+
+*   Stop anyone else from reading your email.
+
+(You can also use keys to sign email and verify someone else's signature.) 
+
+## Protect your private key. 
+
+If someone else gets your private key, they can read emails intended for you, and pretend to be you.
+
+*	Store your private key somewhere safe.
+
+(Learn more about [protecting files] (umbrella://lesson/protecting-files).)  
+
+*	Protect your private key with a strong password.
+
+(Learn more about [passwords](umbrella://lesson/passwords).)
+
+
