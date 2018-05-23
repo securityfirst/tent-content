@@ -11,4 +11,4 @@ A smartphone is generally more vulnerable to theft, monitoring and intrusion tha
 
 *   Encrypt email with secure apps where available. 
 
-(Learn about encryption in [email advanced] (umbrella://lesson/email/1) and how to encrypt email for Android with [k-9 & Open Keychain] (umbrella://lesson/k9-apg)) 
+(Learn about encryption in [email advanced] (umbrella://lesson/email/1) and how to encrypt email with [k-9 & Open Keychain] (umbrella://lesson/k9-apg) for Android.) 
