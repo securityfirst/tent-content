@@ -1,20 +1,61 @@
 [Title]: # (What to do if your email is hacked)
 [Order]: # (12)
 
-# What to do if your email is hacked
+# Act fast.
 
-In such situations you may want to take some cautionary action:
+## Reclaim your account. 
 
-*   **Stop using this email account for sensitive information exchange**, at least until you understand the situation better.
-*   **Change your password** for this and all other accounts with a similar password as soon as possible.   
-*	**Change your security question answers** (if you use them) for all accounts, so they are impossible to guess, or find the answer through researching information about you.
-*   **If you are not able to log in** to your account to change the passwords, consider getting in contact with your email provider to try to reclaim your account.
-*   **Mitigate information loss and impact** to your community. Determine what kinds of sensitive information and contacts you had in your account and decide whom you should alert. Determine what services (web, financial, etc.) you need to revisit or cancel. It is important that you **check the folders of your account** to research on what could have been sent from your account and to act accordingly.
-*   **Review your account settings** to see possible changes that has been made. Check accounts signature option for links and malware, forwarding options that would allow to copy emails that you receive to third account, away message, display name, etc.
-*   **Research how your account was compromised.** Was it because of having a weak password, or due to malware infection, etc. The more you will establish about this, the better you will be able to respond to the situation and better you will be able to protect your contacts.
-*   **Review security of all of your devices** that access emails from this account, and devices on which you stored the password to this email account. Scan your computer: learn how in the [Malware](umbrella://lesson/malware) lesson. Consider switching to more secure programs like Firefox, Thunderbird, LibreOffice and other Free and Open Source Programs. After making the above improvements to the security of your devices, change your account passwords again to new, stronger ones.
-*   **Consider reporting hacking** of your account to your email provider.
-*   **Consider using a more secure account**, e.g. one that notifies you of and prevent access from unusual places or devices. Consider using account that is hosted outside of your country. Consider using email encryption, such as PGP, outlines in the Advanced section of this lesson.
-*   **Consider avoiding storing read emails.**
+Contact your email provider to re-establish access if you are locked out.
 
-It is important that you act quickly and precisely in the situation like this. Having a prepared and rehearsed plan may help you.
+## Stop using the account.
+
+At least until you understand the situation.
+
+## Change your passwords and security questions.
+
+Choose new, strong passwords for your email and all linked accounts. Linked accounts use your email to log in, recover login information, or verify your identity.  
+
+(Use [strong passwords] (umbrella://lesson/passwords/0) and [2FA.] (umbrella://lesson/passwords/1))
+
+## Secure your devices
+
+Any device you use to access email from the compromised account is vulnerable. Scan your computer for [malware](umbrella://lesson/malware/0) and refresh your [mobile phone] ((umbrella://lesson/mobile-phones/0) security.
+
+(Learn [basic security for Android](umbrella://lesson/android) and how to [encrypt your iPhone] (umbrella://lesson/encrypt-your-iphone).)
+
+## Check account settings and activity.
+
+Attackers with access to your account may try to: 
+
+*	Circulate malware in links or attachments;
+*	Spy on you by forwarding or copying messages;
+* 	Steal or destroy saved email;
+*	Impersonate or discredit you.
+
+Review all settings for signs of this activity. Include folders, signatures, away messages, display name, and filters.
+
+## Debrief.
+
+How was your account compromised? Was your password broken? Were you tricked into installing malware? The more you understand the attack, the better you can respond.
+
+## Alert your community.
+
+Determine what sensitive information and contacts may be exposed and inform those affected. Share information to prevent others from falling victim to a similar attack.  
+ 
+## Report the attack. 
+
+If appropriate for your situation and threat model, inform your email provider or law enforcement.  
+ 
+## Switch software.
+
+Consider free, open-source email software like Thunderbird. 
+
+(Learn about open-source software in [Malware Advanced] ([malware](umbrella://lesson/malware/1) and how to add encryption in [Email Advanced.] (umbrella://lesson/email/1)) 
+
+## Switch provider.
+
+If appropriate, consider switching email providers to one with strong privacy policies hosted in another country.
+ 
+## Change your passwords. 
+ 
+Seriously. After upgrading your security, change your passwords. Again.   
