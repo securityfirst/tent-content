@@ -3,7 +3,7 @@
 
 # Alternate domain names
 
-Censors may only block one domain name or URL. 
+Censors using a blacklist may only block one domain name or URL. 
 
 But many sites have variations:
 
