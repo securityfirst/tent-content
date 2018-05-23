@@ -1,11 +1,21 @@
 [Title]: # (HTTPS)
 [Order]: # (5)
 
-# HTTPS
+HTTPS is the secure version of the HTTP protocol used to access websites. 
 
-HTTPS is the secure version of the HTTP protocol used to access websites. Sometimes a censor will block the insecure version of a site only, allowing you to access that site simply by entering the version of the domain that starts with HTTPS. This is particularly useful if the filtering you're experiencing is based on keywords or only blocks individual web pages. HTTPS stops censors from reading your web traffic, so they cannot tell what keywords are being sent, or which individual web page you are visiting (censors can still see the domain names of all websites you visit).
+## HTTPS for circumvention
+
+Censors may only block sites using HTTP. 
+
+1.	Look for http:// at the start of the web address.
+2.	Reload the site with https:// instead. 
+
+## HTTPS Everywhere
+
+HTTPS stops censors from reading web traffic and detecting keywords, making individual web pages harder to block. Censors can still detect and block domain names like Facebook.com. 
+
+* 	Download the [HTTPS Everywhere](https://www.eff.org/https-everywhere) browser add-on for Firefox or Chrome to automatically use HTTPS wherever it is supported.
+
+(Learn how HTTPS protects your webmail in [Email Beginner] (umbrella://lesson/email/0))
+
 ![image](internetb2.png)
-
-If you suspect this type of simple blocking, try entering https:// before the domain in place of http://.
-
-Try EFF's [HTTPS Everywhere](https://www.eff.org/https-everywhere) plug-in to automatically turn on HTTPS for those sites that support it.
