@@ -3,7 +3,7 @@
 
 # Basic protection 
 
-Only the the recipient should be able to read your email.
+Only the recipient should be able to read your email.
 
 Other people can intercept unencrypted communications sent over your web browser, including sites you visit and email content.
 
