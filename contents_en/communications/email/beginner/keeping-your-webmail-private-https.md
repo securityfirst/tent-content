@@ -1,21 +1,32 @@
-[Title]: # (Keeping your webmail private - HTTPS)
+[Title]: # (HTTPS)
 [Order]: # (6)
 
-# Keeping your webmail private - HTTPS
+# Basic protection 
 
-There are a few important steps that you can take in order to increase the security of your email communication. The first is to make sure that only the person to whom you send a given message is able to read it.
+Only the the recipient should be able to read your email.
 
-## Keeping your webmail private - HTTPS
+Other people can intercept unencrypted communications sent over your web browser, including sites you visit and email content.
 
-HTTPS, (also referred to as SSL or TLS), encrypts your communications so that it cannot be read by other people on your network. This can include the other people using the same Wi-Fi in an airport or at a café, the other people at your office or school, the administrators at your ISP, malicious hackers, governments, or law enforcement officials. Communications sent over your web browser, including the web pages that you visit and the content of your emails, using HTTP rather than HTTPS are very easy for an attacker to intercept and read.
+These could include:
 
-Most email providers give you a way of accessing your email using a web browser, such as Firefox or Chrome. Of these providers, most of them provide support for HTTPS. You should always make sure that your connection is secure before logging in, reading your email, or sending a message. You can tell that your email provider supports HTTPS if you log in to your webmail and the URL at the top of your browser begins with the letters HTTPS instead of HTTP (for example: https://mail.google.com).
+*	People using the same Wi-Fi in an airport or café; 
+*	People at your office or school; 
+*	Your internet service provider; 
+*	Malicious hackers; 
+*	Government or law enforcement officials. 
 
-If your email provider supports HTTPS, but does not do so by default, try replacing HTTP with HTTPS in the URL and refresh the page. If you'd like to make sure that you are always using HTTPS on sites where it is available, download the [HTTPS Everywhere](https://www.eff.org/https-everywhere) browser add-on for Firefox or Chrome.
+## What is HTTPS? 
 
-Webmail providers that use HTTPS by default include Gmail, RiseUp and Yahoo.
+HTTPS, (also known as SSL or TLS), encrypts your communications so that they cannot be read by other people on the network. Make sure your webmail supports HTTPS. 
 
-Some webmail providers give you the option of choosing to use HTTPS by default by selecting it in your settings, such as Hotmail.
+## "S" for Secure
 
-HTTPS is the most basic level of encryption for your web browsing that we recommend for everybody. It is as basic as putting on your seat belt when you drive.
+To find out, look for https:// (not http://) at the start of the web address: https://mail.google.com. 
+
+Even if your webmail uses HTTPS by default (they should): 
+
+*	Always check for https:// before logging in. If you only see http://, add "s" and refresh the page. 
+
+* 	Download the [HTTPS Everywhere](https://www.eff.org/https-everywhere) browser add-on for Firefox or Chrome.
+
 ![image](email1.png)
