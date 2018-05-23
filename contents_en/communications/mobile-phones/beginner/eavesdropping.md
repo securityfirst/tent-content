@@ -11,7 +11,7 @@ Consider these options to protect yourself during sensitive meetings.
 
 Turn off all phones and remove the batteries to make sure they can't be used to listen in on you.
 
-*Note: many devices switched off at the same time may signal that a sensitive meeting is underway. To avoid this, take the battery out of your phone before you travel to the meeting or isolate your phone.
+*Note: many devices switched off at the same time may signal that a sensitive meeting is underway. To avoid this, take the battery out of your phone before you travel to the meeting or isolate your phone.*
 
 ## Isolate your phone
 
