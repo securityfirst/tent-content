@@ -3,7 +3,7 @@
 
 A web-based proxy is a website that lets users access other websites. It is one of the simplest ways to circumvent censorship.
 
-Find examples at [proxy.org/](https://proxy.org/).
+Find examples at [proxy.org](https://proxy.org/).
 
 ## To use a proxy:
 
@@ -19,7 +19,8 @@ Find examples at [proxy.org/](https://proxy.org/).
 *	**Performance:** Many do not display pages correctly, especially complex websites, audio and video.
 *   **Options:** Only work for webpages, not services like email. 
 
-Some proxy tools offer encrypted connections, or at least use HTTPS. 
+Some proxy tools offer encrypted connections, or at least use HTTPS. But the proxy provider can still see what you do online, and store information about you. 
 
-*Note: these tools do not provide anonymity. The tool may still have access to your personal data.* 
+*Proxies do not provide anonymity.*
 
+(Learn to stay anonymous online in [Internet Advanced] (umbrella://lesson/the-internet/1).)
