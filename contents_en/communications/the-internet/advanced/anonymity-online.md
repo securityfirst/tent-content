@@ -1,9 +1,20 @@
 [Title]: # (Anonymity Online)
 [Order]: # (0)
 
-# Anonymity Online
+Accessing the Internet and publishing information on the Internet leaves traces.
 
-Accessing information on the Internet, or publishing material online such as photos or videos, leaves many traces of who and where you are and what you are doing. This may put you at risk. You can reduce your risks through the use of anonymising tools such as Tor.
-![image](interneta1.png)
+## These traces can reveal: 
+
+*	Who you are;
+*	Where you are;
+*	What you are doing. 
+
+This may put you at risk. 
+
+(Learn to assess your risk in the [managing information.] (umbrella://lesson/managing-information) lesson.)
+
+You can reduce your risk by using Tor. 
 
 **Remember, these tools can only protect your anonymity if you do not log in to sites or post something online that could identify you!**
+
+![image](interneta1.png)
