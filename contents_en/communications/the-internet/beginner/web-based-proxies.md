@@ -1,7 +1,11 @@
 [Title]: # (Web-based proxies)
 [Order]: # (7)
 
-A web-based proxy is a website that lets users access other websites. It is one of the simplest ways to circumvent censorship.
+A web-based proxy is a website that lets you access other websites from another location. 
+
+If a website is blocked in your location, a proxy helps you access it from the proxy's location. 
+
+It is one of the simplest ways to circumvent censorship.
 
 Find examples at [proxy.org](https://proxy.org/).
 
