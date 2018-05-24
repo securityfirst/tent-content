@@ -1,12 +1,16 @@
 [Title]: # (Tor)
 [Order]: # (1)
 
-# Tor
+[Tor] (https://www.torproject.org/) is free, open-source software designed to give you anonymity on the web. Tor Browser is a web browser built on top of the Tor anonymity network. 
 
-Tor is free and open-source software that provides anonymity as well as allowing you to circumvent censorship. When you use Tor, the information you transmit is safer because your traffic is bounced around a distributed network of servers. This can provide anonymity, since the computer with which you're communicating will never see your IP address, but instead will see the IP address of the last Tor router through which your traffic travelled.
+# Anonymity
 
-One of Tor's strengths is that it does not just work with a browser but can be used with various types of Internet software. Email programs, including Mozilla Thunderbird, and instant messaging programs, including Pidgin, can operate through Tor, either to access filtered services or to hide your use of those services.
+When you use Tor, your Internet traffic is bounced around a distributed network of servers. The network you're communicating will only see the IP address of the last Tor router the traffic travelled through.
 
-Tor is the gold standard for secure censorship circumvention. It can be slow and tricky to use. However, it also provides a reliable, secure and public means of circumvention that saves you from having to worry about whether or not you trust the individuals who operate your proxies and the websites you visit. Tor is free and open source.
+If properly configured, it can protect your identity from an adversary listening in on your country’s networks. 
 
-Learn how to install and use the Tor Browser for [Windows](umbrella://lesson/tor-for-windows), [Mac] (umbrella://lesson/tor-for-mac-os-x), and [LINUX] (umbrella://lesson/tor-for-linux). 
+# Circumvention
+
+Because of how Tor routes your web traffic, it also provides a reliable, secure and public means of circumvention that saves you from having to assess proxies and VPNs for privacy and security. 
+
+(Learn how to use the Tor Browser for [Windows](umbrella://lesson/tor-for-windows), [Mac] (umbrella://lesson/tor-for-mac-os-x), and [Linux] (umbrella://lesson/tor-for-linux).)
