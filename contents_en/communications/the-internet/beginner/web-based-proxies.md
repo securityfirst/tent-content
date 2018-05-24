@@ -1,11 +1,11 @@
 [Title]: # (Web-based proxies)
 [Order]: # (7)
 
+# Simple circumvention
+
 A web-based proxy is a website that lets you access other websites from another location. 
 
 If a website is blocked in your location, a proxy helps you access it from the proxy's location. 
-
-It is one of the simplest ways to circumvent censorship.
 
 Find examples at [proxy.org](https://proxy.org/).
 
@@ -16,12 +16,14 @@ Find examples at [proxy.org](https://proxy.org/).
 
 ![image](internetb3.png)
 
-## What web-based proxies lack:
+## What web-based proxies lack
 
 *	**Security:** Many are insecure, especially if someone is monitoring your connection.
-*   **Privacy:** Many record what users do online.
+*   **Privacy:** Proxies can see what you do online and may store information about you.
 *	**Performance:** Many do not display pages correctly, especially complex websites, audio and video.
-*   **Options:** Only work for webpages, not services like email. 
+*   **Options:** Proxies work for websites, but not services like email. 
+
+## Encrypted proxies 
 
 Some proxy tools offer encrypted connections, or at least use HTTPS. But the proxy provider can still see what you do online, and store information about you. 
 
