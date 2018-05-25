@@ -1,23 +1,31 @@
 [Title]: # (Think about what you share)
 [Order]: # (4)
 
-# Before you publish a post, ask yourself:  
+# Investigate yourself
 
-## Who can access this?
+Are you comfortable with the amount of information about you that is already public? 
 
-## Who will control or profit from this?
+Find out by [investigating yourself.] (https://myshadow.org/self-doxing-exploring-you-visible-data-traces)
 
-## Who might share this?
+# Before you publish more information, always ask:  
 
-## Who might mind if I share this?
+### Who can access this?
 
-## How much do I trust the companies and users I'm sharing with?
+### Who will control or profit from this?
+
+### Who might share this?
+
+### Who might mind if I share this?
+
+### How much do I trust the companies and users I'm sharing with?
 
 ### Remember: 
 
-*	It is easy for someone to copy or share information unintentionally, even people you trust.
+*	It is easy for people to copy or share information, even people you trust, even unintentionally.
 
 *	You can't see everything you're sharing. Every post reveals metadata about you and people you interact with. 
+
+
 
 
 
