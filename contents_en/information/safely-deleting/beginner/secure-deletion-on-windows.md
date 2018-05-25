@@ -1,22 +1,20 @@
 [Title]: # (Secure deletion on Windows)
 [Order]: # (1)
 
-# Eraser
+# Bleachbit
 
-Eraser is a free, open-source secure deletion tool for Windows. It is much better than the built-in options.
+Bleachbit is a free, open-source secure deletion tool for Windows. It is much better than the built-in options.
 
-[Download](http://eraser.heidi.ie/download/) a stable build from the official website and double click to run the file.
+[Download](http://bleachbit.sourceforge.net/download/windows) it from the official website and save the file. Double click on the downloaded file to install it. 
 
 ## To securely delete a single file or folder:
 
-*    Right-click on the file or folder and choose Eraser > Erase from the right-click menu.
+*    Click the File menu and select Shred Files or Shred Folders.
 
 ## To securely delete older data:
 
-*   Launch Eraser.
-*   Click the downward-pointing arrow next to "Erase Schedule" and choose "New Task."
-*   In the "Task Properties" dialog that pops up, set the "Task Type" to "Run immediately."
-*   Click the "Add Data" button near the bottom of the dialog.
-*   In the new "Select Data to Erase" dialog that pops up, choose "Unused disk space" and make sure the correct disk drive is selected in the drop down box (most likely the "(C:)" drive).
-*   Click "OK" to exit both dialogs, and Eraser should start erasing.
-*   Once it's done erasing, the task will disappear from the list of tasks in the "Erase Schedule."
+*	Click the File menu and select Wipe Free Space.
+
+This will attempt to remove any traces of files you have already deleted by overwriting supposedly empty parts of the hard drive with random data. The process can take a while. 
+
+Documentation is available [here] (https://docs.bleachbit.org/). 
