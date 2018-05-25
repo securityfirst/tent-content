@@ -1,8 +1,23 @@
 [Title]: # (Access sites securely)
-[Order]: # (9)
+[Order]: # (0.1)
 
-# Access sites securely
+# HTTPS
 
-Access social networking sites using https:// to safeguard your username, password and other information you post. Using https:// rather than http:// adds another layer of security by encrypting the traffic from your browser to your social networking site. 
+Look for http:// at the start of the web address before you access social media sites. 
 
-Be careful when accessing your social network account in public internet spaces. Delete your password and browsing history when using a browser on a public machine.
+HTTPS is the secure version of the HTTP protocol used to access websites. It encrypts your communications so that they cannot be read by other people on the network.
+
+Using https:// stops people from intercepting your username, password and any other information you post. 
+
+(Use HTTPS whenever you use the [internet](umbrella://lesson/the-internet/0). and send [email](umbrella://lesson/email/0).) 
+
+Never access social media from:
+
+*	A device or a network that you don't trust; 
+*	A device that could host malware;
+*	A public computers that may store your password or browsing history.
+
+(Learn how to check for [malware](umbrella://lesson/malware/0).)
+
+
+
