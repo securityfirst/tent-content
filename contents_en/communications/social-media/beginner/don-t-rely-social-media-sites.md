@@ -20,6 +20,8 @@ Never:
 
 (Learn more about [phishing] (umbrella://lesson/phishing).)
 
+*If you really have to use Facebook Messenger, turn on Secret Conversations in the Android or iOS app. (Learn how in [Facebook privacy](umbrella://lesson/facebook).)*  
+
 ![image](socialb4.png)
 
 # Storage
