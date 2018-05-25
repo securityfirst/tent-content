@@ -15,7 +15,7 @@ Use your judgement before you publish or repost multimedia content, and encourag
 
 Informed means they understand the purpose, potential audience, and potential risks of your post. 
 
-*Note: vulnerable people may not be able to give informed consent, including children. Consent can also be withdrawn.* 
+*Note: vulnerable people may not be able to give informed consent, including children.* 
 
 *	As a rule of thumb, don't share anything about people you know unless they ask you to or have already shared it themselves.
 
@@ -29,7 +29,7 @@ Informed means they understand the purpose, potential audience, and potential ri
 
 *	Could your broadcast cause unintended harm? 
 
-(Learn about covering [protests] (umbrella://lesson/protests/0).)
+(Learn about [documenting] (umbrella://lesson/protests/0) and [attending] (umbrella://lesson/protests/1) protests.)
 
 ## Content shared by someone else 
 
@@ -50,6 +50,8 @@ Many cameras embed hidden data (metadata tags) that reveal information about the
 Social media sites may publish this information when you upload content.
 
 Metadata supports the credibility of images and video used as evidence. But metadata can also put you or others at risk. 
+
+# Tools
 
 ## Use ObscuraCam
 
