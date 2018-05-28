@@ -29,13 +29,13 @@ La forma más fácil de usar el La red Tor utilizará el Tor Browser Bundle, que
 
 # 2.0 Obtención del paquete del navegador Tor 
 Abra un navegador como Mozilla Firefox o Internet Explorer y escriba: [https://www.torproject.org/projects/torbrowser.html.en](https://www.torproject.org/projects/torbrowser.html.en) en la barra de URL. Si está utilizando un motor de búsqueda para buscar el paquete del navegador Tor, asegúrese de que la URL sea correcta.
-![Image](tool_torosx1.png) 
+![Image](tool_torosx1.jpeg) 
 
 Haga clic en el botón grande de descarga púrpura para obtener el programa de instalación de Tor Browser Bundle.
-![Image](tool_torosx2.png) 
+![Image](tool_torosx2.jpeg) 
 
 El sitio web habrá detectado su sistema operativo y obtendrá el archivo correcto para Windows. Si, por algún motivo, desea un archivo de instalación diferente, puede desplazarse hacia abajo a la sección Descargas del navegador Tor. 
-![Image](tool_torosx3.png) 
+![Image](tool_torosx3.jpeg) 
 
 Muchos navegadores le solicitarán que confirme si desea descargar este archivo. archivo. 
 
@@ -49,7 +49,7 @@ Haga doble clic en el instalador Tor Browser. Esto abre el archivo .dmg.
 (En versiones recientes de OS X, es posible que reciba una advertencia de que es de un "desarrollador no identificado"; puede evitar esta queja haciendo clic y seleccionando "abrir".) 
 
 Deslice el archivo incluido en su carpeta Aplicaciones y tendrá una aplicación Tor Browser en su idioma elegido que puede fijar en su Dock. 
-![image](tool_torosx4.png) 
+![image](tool_torosx4.jpeg) 
 
 **Iniciando Tor Browser para el primera vez** 
 
@@ -58,7 +58,7 @@ Deslice el archivo incluido en su carpeta Aplicaciones y tendrá una aplicación
 La primera vez que inicia el Navegador Tor, puede obtener una ventana que le permite modificar algunas configuraciones si es necesario . Es posible que deba volver y cambiar algunas configuraciones, pero continúe e intente conectarse a la red Tor haciendo clic en el botón Conectar. 
 
 Después de hacer clic en el botón Conectar, se abrirá una nueva ventana con una barra verde que se mientras el software Tor se inicie. 
-![image](tool_torosx5.png) 
+![image](tool_torosx5.jpeg) 
 
 La primera vez que Tor Browser se inicia puede tardar un poco más de lo normal, pero tenga paciencia, dentro de unos minutos el navegador Tor estará listo y se abre un navegador web felicitándolo.
-![image](tool_torosx6.png)
+![image](tool_torosx6.jpeg)
