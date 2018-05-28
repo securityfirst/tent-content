@@ -52,7 +52,7 @@ Double-click on the Tor Browser installer. This opens the .dmg file.
 (On recent versions of macOS, you might get a warning that it's from an "unidentified developer" - you can get around this complaint by control-clicking and selecting "open".)  
 
 Drag the included file into your Applications folder and you will have a Tor Browser application in your chosen language that you can pin on your Dock.
-![image](tool_torosx4.jpeg)
+![image](tool_torosx4.png)
 
 **Starting Tor Browser for the first time**
 

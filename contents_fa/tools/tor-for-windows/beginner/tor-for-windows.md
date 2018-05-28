@@ -32,54 +32,54 @@ The easiest way to use the Tor network is to use the Tor Browser Bundle, which c
 ### 2.0 Getting Tor Browser Bundle
 
 Open a browser like Mozilla Firefox or Internet Explorer and type: [https://www.torproject.org/projects/torbrowser.html.en](https://www.torproject.org/projects/torbrowser.html.en) in the URL bar. If you are using a search engine to look for the Tor Browser Bundle, make sure that the URL is correct.
-![image](tool_torwin1.png)
+![image](tool_torwin1.jpeg)
 
 Click the big purple download button to get the installation program for Tor Browser Bundle.
-![image](tool_torwin2.png)
+![image](tool_torwin2.jpeg)
 
 The website will have detected your operating system and you'll get the correct file for Windows. If, for any reason, you want a different installer file you can scroll down to the Tor Browser Downloads section.
-![image](tool_torwin3.png)
+![image](tool_torwin3.jpeg)
 
 Many browsers will ask you to confirm whether you want to download this file. Internet Explorer 11 shows a bar at the bottom of the browser window with an orange border.
-![image](tool_torwin4.png)
+![image](tool_torwin4.jpeg)
 
 For any browser, it is best to save the file first before proceeding. So click the Save button. This example shows Tor Browser Bundle version 3.6.2, which was the current version at the time we wrote this. There will probably be a more recent version available for download by the time you read this.
 
 ### 2.1 Installing Tor Browser Bundle
 
 After the download is complete, you might get an option to open the folder where the file was downloaded to. The default location is the Downloads folder. Double-click on the file _torbrowser-install-3.6.2_en-US.exe_
-![image](tool_torwin5.png)
+![image](tool_torwin5.jpeg)
 
 After double-clicking on the Tor Browser installer, a window will open with a warning about the origin of the software. You should always take these warnings seriously and make sure you trust the software you want to install and that you got an authentic copy from the official site over a secure connection. Since you know what you want, and you know where to get the software, and the download was from the Tor Project's secure HTTPS site, go ahead and click Run.
-![image](tool_torwin6.png)
+![image](tool_torwin6.jpeg)
 
 A small window will open asking what language you want to use for the Tor Browser Bundle. There are several to choose from. Pick the language you want and click the OK button.
-![image](tool_torwin7.png)
+![image](tool_torwin7.jpeg)
 
 You'll find a new window that will tell you where the Tor Browser Bundle will be installed. The default location is your desktop. You can change this to be a different location if you want, but for now keep the default.
-![image](tool_torwin8.png)
+![image](tool_torwin8.jpeg)
 
 The installation process is complete when you see a window that says you have completed the installation process. If you click the Finish button, the Tor Browser will start immediately. For now, uncheck the box by "Run Tor Browser Bundle." We'll come back to using Tor Browser Bundle in a bit. If you missed unchecking the checkbox and Tor Browser starts, just close the window for now.
-![image](tool_torwin9.png)
+![image](tool_torwin9.jpeg)
 
 Tor Browser Bundle will not be installed with other programs and will not show up in your start menu.
-![image](tool_torwin10.png)
+![image](tool_torwin10.jpeg)
 
 ### 3.0 Using Tor Browser Bundle
 
 **Starting Tor Browser for the first time**
 
 You chose not to start Tor Browser when you finished with the installer, so now go ahead and start Tor Browser for the first time. If you followed all the default settings from the installation you'll see a folder on your desktop called Tor Browser.
-![image](tool_torwin11.png)
+![image](tool_torwin11.jpeg)
 
 Open the Tor Browser folder and double click on the file called Start Tor Browser.
-![image](tool_torwin12.png)
+![image](tool_torwin12.jpeg)
 
 The first time Tor Browser starts, you'll get a window that allows you to modify some settings if necessary. You might have to come back and change some configuration settings, but go ahead and try to connect to the Tor network by clicking the Connect button.
-![image](tool_torwin13.png)
+![image](tool_torwin13.jpeg)
 
 After clicking the connect button, a new window will open with a green bar that will get longer as the Tor software starts up.
-![image](tool_torwin14.png)
+![image](tool_torwin14.jpeg)
 
 The first time Tor Browser starts it might take a bit longer than usual, but be patient, within a few minutes Tor Browser will be done and a web browser opens up congratulating you.
-![image](tool_torwin14.png)
+![image](tool_torwin14.jpeg)

@@ -49,7 +49,7 @@ Haga doble clic en el instalador Tor Browser. Esto abre el archivo .dmg.
 (En versiones recientes de OS X, es posible que reciba una advertencia de que es de un "desarrollador no identificado"; puede evitar esta queja haciendo clic y seleccionando "abrir".) 
 
 Deslice el archivo incluido en su carpeta Aplicaciones y tendrá una aplicación Tor Browser en su idioma elegido que puede fijar en su Dock. 
-![image](tool_torosx4.jpeg) 
+![image](tool_torosx4.png) 
 
 **Iniciando Tor Browser para el primera vez** 
 
