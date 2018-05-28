@@ -152,7 +152,7 @@ To be absolutely safe, you'll need to verify the keys you get from the keyserver
 This walkthrough shows how to use GPG with the free, open source, Thunderbird mail client from Mozilla, together with the Enigmail plugin for email encryption.
 
 First, download Thunderbird from [https://www.mozilla.org/thunderbird](https://www.mozilla.org/thunderbird), mount the disk image as you did with GPG Tools, and drag the Thunderbird into Applications. When you open it for the first time it will ask if you want to set it as your default email client. Go ahead and click "Set as Default."
-![image](tool_pxposx11.png)
+![image](tool_pgposx11.png)
 
 Then you will see the first run wizard. To set up your existing email address, click "Skip this and use my existing email." Then enter your name, email address, and the password to your email account.
 ![image](tool_pgposx12.png)
@@ -168,7 +168,7 @@ Now that you've installed and configured Thunderbird to work with your email, yo
 ![image](tool_pgposx14.png)
 
 Search for "enigmail" in the search box in the top right.
-![image](tooL_pgposx15.png)
+![image](tool_pgposx15.png)
 
 Click the Install button next to the Enigmail extension to download and install Enigmail. When it's done, click "Restart Now" to restart Thunderbird.
 

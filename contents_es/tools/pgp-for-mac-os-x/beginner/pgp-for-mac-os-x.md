@@ -149,7 +149,7 @@ Para estar absolutamente seguro, deberá verificar las llaves que obtiene del se
 Este tutorial muestra cómo usar GPG con el cliente de correo Thunderbird gratuito y de código abierto de Mozilla, junto con el complemento Enigmail para el cifrado del correo electrónico.
 
 Primero, descargue Thunderbird de [https://www.mozilla.org/thunderbird](https://www.mozilla.org/thunderbird), monte la imagen de disco como lo hizo con las Herramientas de GPG, y arrastre el Thunderbird a Aplicaciones. Cuando lo abra por primera vez, le preguntará si desea configurarlo como su cliente de correo electrónico predeterminado. Continúe y haga clic en "Establecer como predeterminado."
-![image](tool_pxposx11.png)
+![image](tool_pgposx11.png)
 
 A continuación, verá el asistente de la primera ejecución. Para configurar su dirección de correo electrónico existente, haga clic en "Omitir esto y use mi correo electrónico existente." Luego ingrese su nombre, dirección de correo electrónico y contraseña en su cuenta de correo electrónico.
 ![image](tool_pgposx12.png)
@@ -165,7 +165,7 @@ Ahora que ha instalado y configurado Thunderbird para trabajar con su correo ele
 ![image](tool_pgposx14.png)
 
 Busque _enigmail_ en el cuadro de búsqueda en la esquina superior derecha.
-![image](tooL_pgposx15.png)
+![image](tool_pgposx15.png)
 
 Haga clic en el botón Instalar al lado de la extensión Enigmail para descargar e instalar Enigmail. Cuando termine, haga clic en "Reiniciar ahora" para reiniciar Thunderbird.
 
