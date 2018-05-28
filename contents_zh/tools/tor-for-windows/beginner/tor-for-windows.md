@@ -41,7 +41,7 @@ Tor 是由志工所維護的一個網路服務，它透過遮蔽來源與身份�
 ![image](tool_torwin3.jpeg)
 
 許多瀏覧器會詢問確認你是否要下載該檔案，例如 Internet Explorer 11 會在視窗下方顯示出一個橙色的警示列。
-![image](tool_torwin4.jpeg)
+![image](tool_torwin4.png)
 
 一般最好是先把檔案存在電腦上再進行安裝，所以先點擊儲存鍵。這個示範中顯示了 Tor 3.6.2 版本的安裝包,這是本指南撰寫時所介紹的安裝版本；或許你在讀本手冊時，已有了其它更新的版本。
 
@@ -75,10 +75,10 @@ Tor 瀏覧器軟體包並未一併安裝其它程式，也不會出現在你電�
 ![image](tool_torwin12.jpeg)
 
 第一次啟動 Tor 瀏覧器，你會看到一個視窗可讓你調整必要的更動。當然也可以之後再回來進行變動，所以先來連上 Tor 網路，請點擊「連線」。
-![image](tool_torwin13.jpeg)
+![image](tool_torwin13.png)
 
 點擊連線後，會出現一個綠色列桿的新視窗顯示 Tor 瀏覧器正在啟動中。
-![image](tool_torwin14.jpeg)
+![image](tool_torwin14.png)
 
 通常第一次啟動會花較長的時間，請保持耐心。過幾分鐘後，Tor 瀏覧器就完成連線設定而會開啟網頁瀏覧器，恭喜你成功安裝好 Tor 瀏覧器。
-![image](tool_torwin14.jpeg)
+![image](tool_torwin14.png)

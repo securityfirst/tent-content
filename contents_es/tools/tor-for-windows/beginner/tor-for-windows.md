@@ -40,7 +40,7 @@ El sitio web habrá detectado su sistema operativo y obtendrá el archivo correc
 ![image](tool_torwin3.jpeg)
 
 Muchos navegadores le solicitarán que confirme si desea para descargar este archivo Internet Explorer 11 muestra una barra en la parte inferior de la ventana del navegador con un borde naranja.
-![image](tool_torwin4.jpeg)
+![image](tool_torwin4.png)
 
 Para cualquier navegador, lo mejor es guardar primero el archivo antes de continuar. Entonces haz clic en el botón Guardar. Este ejemplo muestra Tor Browser Bundle versión 3.6.2, que era la versión actual en el momento en que escribimos esto. Probablemente haya una versión más reciente disponible para descargar en el momento de leer esto.
 
@@ -75,10 +75,10 @@ El paquete del navegador Tor no se instalará con otros programas y no aparecer�
 ![image](tool_torwin12.jpeg) 
 
 - La primera vez que se inicia Tor Browser, obtendrá una ventana que le permite modificar algunos ajustes si es necesario. Es posible que deba volver y cambiar algunas configuraciones, pero continúe e intente conectarse a la red Tor haciendo clic en el botón Conectar.
-![image](tool_torwin13.jpeg) 
+![image](tool_torwin13.png) 
 
 - Después de hacer clic en Conectar, se abrirá una nueva ventana con una barra verde que se alargará a medida que se inicie el software Tor.
-![image](tool_torwin14.jpeg)
+![image](tool_torwin14.png)
 
 - La primera vez que arranca el Navegador Tor puede llevar un poco más tiempo de lo habitual, pero tenga paciencia, en pocos minutos Tor Browser estará listo y se abrirá un navegador web felicitándolo.
-![image](tool_torwin14.jpeg)
+![image](tool_torwin14.png)

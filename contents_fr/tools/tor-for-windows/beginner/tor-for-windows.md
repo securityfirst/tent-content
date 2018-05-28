@@ -41,7 +41,7 @@ The website will have detected your operating system and you'll get the correct 
 ![image](tool_torwin3.jpeg)
 
 Many browsers will ask you to confirm whether you want to download this file. Internet Explorer 11 shows a bar at the bottom of the browser window with an orange border.
-![image](tool_torwin4.jpeg)
+![image](tool_torwin4.png)
 
 For any browser, it is best to save the file first before proceeding. So click the Save button. This example shows Tor Browser Bundle version 3.6.2, which was the current version at the time we wrote this. There will probably be a more recent version available for download by the time you read this.
 
@@ -76,10 +76,10 @@ Open the Tor Browser folder and double click on the file called Start Tor Browse
 ![image](tool_torwin12.jpeg)
 
 The first time Tor Browser starts, you'll get a window that allows you to modify some settings if necessary. You might have to come back and change some configuration settings, but go ahead and try to connect to the Tor network by clicking the Connect button.
-![image](tool_torwin13.jpeg)
+![image](tool_torwin13.png)
 
 After clicking the connect button, a new window will open with a green bar that will get longer as the Tor software starts up.
-![image](tool_torwin14.jpeg)
+![image](tool_torwin14.png)
 
 The first time Tor Browser starts it might take a bit longer than usual, but be patient, within a few minutes Tor Browser will be done and a web browser opens up congratulating you.
-![image](tool_torwin14.jpeg)
+![image](tool_torwin14.png)
