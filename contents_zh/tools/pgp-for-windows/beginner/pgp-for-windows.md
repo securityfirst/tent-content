@@ -431,7 +431,7 @@ Enigmail 金鑰管理員現在顯示新增的證明：
 ### 7.2 收到 PGP 加密電郵
 
 接下來看看收到加密電郵的情況。 Mozilla Thunderbird 會通知有新郵件，請直接按此訊息。
-![image](too.png;_pgpwin71)
+![image](tool_pgpwin71.png)
 
 出現一個小視窗會詢問 PGP 金鑰的密鑰，記住：不會輸入成 email 密碼，然後按 "OK"。 
 ![image](tool_pgpwin72.png)

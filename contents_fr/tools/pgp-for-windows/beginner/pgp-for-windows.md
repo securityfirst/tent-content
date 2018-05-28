@@ -430,7 +430,7 @@ Will be transformed into:
 ### 7.2 Receiving PGP encrypted mail
 
 Let's go through what happens when you receive encrypted email. Notice that that Mozilla Thunderbird is letting you know you have new mail. Click on the message.
-![image](too.png;_pgpwin71)
+![image](tool_pgpwin71.png)
 
 A small window opens asking you for the password to the PGP key. Remember: Don't enter your email password. Click the "OK" button.
 ![image](tool_pgpwin72.png)
