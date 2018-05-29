@@ -1,6 +1,10 @@
 [Title]: # (Satellite phones)
 [Order]: # (10)
 
-# Satellite phones
+*	High-quality, direct-dial voice, fax, and email.
+*	Often supplement radio networks, especially in moderate- to high-risk areas. 
+*	Rugged, portable, and may be cheaper to operate than cellular phones in some areas. 
 
-Satellite phones, which provide high-quality, direct-dial voice, fax, and e-mail, are often used to supplement a radio network, especially in moderate- to high-risk areas. Today's satellite terminals are rugged, portable, and may be cheaper to operate than cellular phones in some areas. Modern satellite phone networks encrypt voice traffic to prevent eavesdropping and so are usually thought of as safer than radios. However, anyone with cheap computer equipment and radio could eavesdrop on calls by breaking this encryption quite easily.
+Note: 
+
+Modern satellite phone networks encrypt voice traffic to prevent eavesdropping and so are usually thought of as safer than radios. However, anyone with cheap computer equipment and radio could easily break this encryption eavesdrop on calls.
