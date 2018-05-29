@@ -23,7 +23,7 @@ If the device allows encryption under settings, apply it.
 
 Move confidential files and photos from your phone to a secure location as soon as possible.
 
-(Learn about [protecting files] (umbrella://lesson/protecting-files) and [backing up](umbrella://lesson/backing-up). 
+(Learn about [protecting files] (umbrella://lesson/protecting-files) and [backing up](umbrella://lesson/backing-up).) 
 
 ## Erase data.
 

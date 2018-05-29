@@ -1,15 +1,36 @@
 [Title]: # (Don't rely on social media sites)
 [Order]: # (8)
 
-# Don't use social media sites for instant chats
+# Messaging
 
-Many social networking sites have tools that allow you to have discussions with your friends in real time. These operate like Instant Messaging and are one of the most insecure ways to communicate on the internet, both because they may reveal who you are communicating with, and what you are communicating about.
+Social networking sites often allow you to chat with contacts in real time, but most are highly insecure. Use a messenger with end-to-end encryption instead. 
 
-Never engage in chats with people you don't know, especially those who want to send you documents or pictures. This is a method commonly used by authorities to put malware in activists' computers.
+(Learn more about your options for [sending a message](umbrella://lesson/sending-a-message).) 
+
+Using an insecure chat app affiliated with a social media company could: 
+
+1. Reveal who you are communicating with;
+2. Reveal what you are communicating about;
+3. Expose you to phishing attacks. 
+
+Never: 
+
+*	Chat with people you don't know. Even real accounts can be duplicated to trick you into chatting.  
+*	Click on links to documents or pictures in direct messages. These may carry malware. 
+
+(Learn more about [phishing] (umbrella://lesson/phishing).)
+
+*If you really have to use Facebook Messenger, turn on Secret Conversations in the Android or iOS app. (Learn how in [Facebook privacy](umbrella://lesson/facebook).)*  
+
 ![image](socialb4.png)
 
-You should use a specific application for your chats, such as Pidgin with an Off-the-record plugin, which uses encryption. Read the [Sending a Message lesson](umbrella://lesson/sending-a-message) or [Pidgin tool guide](umbrella://lesson/pidgin) to find out how. 
+# Storage
 
-## Don't rely on social media for storage
+Social networking sites should never by the primary host for your content. 
 
-Be cautious about how safe your content is on a social networking site. Never rely on a social networking site as a primary host for your content or information. It is very easy for governments to block access to a social networking site within their boundaries if they suddenly find its content objectionable.
+*	The provider of the site may change or close down;
+*	Adversaries may allege that your content violates a site's terms or guidelines in order to have it removed; 
+*	Governments or internet service providers may block access to the site.
+
+(Learn more about [backing up](umbrella://lesson/backing-up) your files.)
+

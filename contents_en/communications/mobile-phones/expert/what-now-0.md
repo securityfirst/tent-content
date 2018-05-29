@@ -11,5 +11,5 @@ Learn the dangers of using mobile phones in [Mobile Phones Beginner.](umbrella:/
 
 ### FURTHER READING
 
-* 	[Security First, [Secure Communications](https://advocacyassembly.org/en/courses/33/#/chapter/1/lesson/1), a free online training at Advocacy Assembly. 
-*   Security in a Box, [Use smart phones as securely as possible](https://securityinabox.org/en/guide/smartphones)
+* 	Security First, [Secure Communications](https://advocacyassembly.org/en/courses/33/#/chapter/1/lesson/1), a free online training at Advocacy Assembly. 
+*   Security in a Box, [Use smart phones as securely as possible.](https://securityinabox.org/en/guide/smartphones)

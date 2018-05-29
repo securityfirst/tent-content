@@ -18,7 +18,7 @@ The real answers to these questions are often public information, or can be easi
 
 *	Invent fictional answers that no one knows but you.
 
-> *For example, instead of using "Spot" as your password recovery answer, you might choose "Rumplestiltskin."
+> *For example, instead of using "Spot" as your password recovery answer, you might choose "Rumplestiltskin."*
 
 *	Use a password manager to store random answers. 
 

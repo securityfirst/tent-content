@@ -1,13 +1,16 @@
 [Title]: # (Encryption of volumes)
 [Order]: # (11)
 
-# Encryption of device
-If you have an iPhone 3GS or later, your phone should have full device encryption enabled as standard. If you have an Android, you have to turn encryption on in the settings. (Learn [Basic Security Setup for Android](umbrella://lesson/android).)
+# Encrypt your device
 
-# Data encryption tools
+Review [Mobile Phones Beginner] (umbrella://lesson/mobile-phones/0), [basic security for Android](umbrella://lesson/android) and how to [encrypt your iPhone] (umbrella://lesson/encrypt-your-iphone).
 
-The [Open Keychain] (https://play.google.com/store/apps/details?id=org.sufficientlysecure.keychain)  allows OpenGPG encryption for files and emails. It can be used to keep your files and documents safe on your phone, as well when emailing.  
+# Encrypt your data
+
+[Open Keychain] (https://play.google.com/store/apps/details?id=org.sufficientlysecure.keychain)  allows OpenGPG encryption for files and emails. 
+
+(Learn how to encrypt [email]  (umbrella://lesson/email) and use [K-9 & Open Keychain] (umbrella://lesson/k9-apg).)
 
 ![image](mobileexp2.png)
 
-Rooting your phone will also allow you to encrypt its entire data storage or create a volume on the smartphone to protect certain information. [Cryptonite](https://code.google.com/p/cryptonite/) is another open source files encryption tool with more advanced features on it, and specially prepared for rooted Android phones with a custom firmware.
+Rooting your phone will also allow you to encrypt data storage or create a volume for protecting certain information. [Cryptonite](https://code.google.com/p/cryptonite/) is another open source files encryption tool with more advanced features, and specially prepared for rooted Android phones with a custom firmware.

@@ -11,7 +11,9 @@ If you accidentally delete information, this security vulnerability can work to 
 
 # Recovery software
 
-Several programs can restore access to recently deleted files, such as Recuva. 
+Several programs can restore access to recently deleted files, such as Recuva for Windows. 
+
+TestDisk and PhotoRec by [CGSecurity] (www.cgsecurity.org/) offer free, open-source data recovery for Linux, Mac, and Windows.
 
 (Learn how to use [Recuva] (umbrella://lesson/recuva) in our tool guide.)
 
@@ -21,6 +23,6 @@ Several programs can restore access to recently deleted files, such as Recuva.
 
 *	The longer you use your computer before attempting to restore the file, the less likely you are to succeed. 
 
-## Install Recuva *before* you need it! 
+## Install recovery software *before* you need it! 
 
-Or use the portable version of Recuva. Don't install it for the first time *after* you delete an important file by accident. 
+Or use the portable version of a program like Recuva. Don't install it for the first time *after* you delete an important file by accident.

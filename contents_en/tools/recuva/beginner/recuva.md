@@ -26,7 +26,7 @@ Mac OS users could use [TestDisk and PhotoRec](www.cgsecurity.org/), as an alter
 
 In situations where private or sensitive files may have been mistakenly deleted, Recuva can help you to scan for and restore some of them. As discussed in the **[Deleting lesson](umbrella://lesson/safely-deleting)**, a file deleted using the standard Windows operating system Delete function, even after the Recycle Bin has been emptied, might still exist on the computer.
 
-However, there are circumstances under which Recuva cannot retrieve information. If you have permanently deleted or wiped any temporary files by running CCleaner with the Secure file deletion (Slower) option enabled, those files are virtually unrecoverable. Recuva cannot recover files after programs like CCleaner or Eraser have been used to wipe free disk space or if Windows itself has already overwritten any previously occupied space. Recuva also cannot recover damaged documents and files.
+However, there are circumstances under which Recuva cannot retrieve information. If you have permanently deleted or wiped any temporary files by overwriting them or running secure deletion software, Recuva cannot recover files them. Recuva also cannot recover damaged documents and files.
 
 Recuva can also be used to securely overwrite your private or sensitive data.
 
@@ -92,7 +92,7 @@ Files are most frequently deleted from Recycle Bin in the Windows operating syst
 **Step 5.** Click "Start" to begin recovering your deleted files.
 
 During the file recovery process, two progress status bars appear in quick succession. The _Scanning the drive for deleted files_ progress bar lists the deleted files. The _Analyzing the file contents_ progress bar groups and sorts the deleted files into file types and degree of recoverability. They also display the duration of the scanning and analysis processes. Your _Piriform Recuva_ main user interface may then resemble the following screen:
-![image](tool_revua6.png)
+![image](tool_recuva6.png)
 
 The _Piriform Recuva_ main user interface lists information about each deleted file, arranged in six columns. Each column is described as follows:
 
@@ -196,7 +196,7 @@ A single pass may prove quite effective in overwriting a given document, file or
 
 - **Show zero-byte files:** This option lets you show you files that have little to no content, and which are basically irrecoverable.Show securely deleted files: This option lets you display files that have been securely deleted in the results pane.
 
-**Note:** If you have already used CCleaner or a similar program, it changes the filename to ZZZZZZZ.ZZZ when it securely deletes a file, for security reasons.
+**Note:** Some secure deletion software changes the deleted filename to ZZZZZZZ.ZZZ for security reasons.
 
 - **Deep Scan:** This option lets you scan the entire drive for the deleted document or file; if previous scans have proven ineffective in locating your file, the Deep Scan may prove useful. However, it does require more time. Please refer to section 3.3 How to Perform a Deep Scan Using Recuva.
 

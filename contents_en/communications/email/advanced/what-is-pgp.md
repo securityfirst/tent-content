@@ -1,9 +1,19 @@
 [Title]: # (What is PGP?)
 [Order]: # (0)
 
-# What is PGP?
+# Pretty Good Privacy (PGP)
 
-If your threat model includes a government or law enforcement, or you have some other reason for wanting to make sure that your email provider is not able to turn over the contents of your email communications to a third party, you may want to consider using end-to-end encryption for your email communications. End-to-End Encryption is uninterrupted protection of data traveling between two communicating parties. 
-![image](email3.png)
+End-to-end encryption protects your data from everyone except you and the recipient.  
 
-PGP is the standard for end-to-end encryption of your email. PGP stands for Pretty Good Privacy. It's actually very good privacy. If used correctly, it can protect the contents of your messages, text, and even files from being understood even by well-funded government surveillance programs. 
+PGP is the standard for end-to-end encryption. 
+
+If used correctly, it can protect content from being read by:
+
+*	Your email provider;
+*	Government or law enforcement officials.
+
+Whether you need end-to-end encryption for your email depends on your threat model.
+
+(Learn to assess your threat model in the [managing information] (umbrella://lesson/managing-information) lesson.)
+
+![image](email3)

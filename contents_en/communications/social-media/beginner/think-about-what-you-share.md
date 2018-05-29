@@ -1,17 +1,34 @@
 [Title]: # (Think about what you share)
 [Order]: # (4)
 
-# Think about what you share
+# Investigate yourself
 
-Always ask the questions:
+Are you comfortable with the amount of information about you that is already public? 
 
-*   Who can access the information I am putting online?
-*   Who controls and owns the information I put into a social networking site?
-*   What information about me are my contacts passing on to other people?
-*   Will my contacts mind if I share information about them with other people?
-*   Do I trust everyone with whom I'm connected?
+Find out by [investigating yourself.] (https://myshadow.org/self-doxing-exploring-you-visible-data-traces)
 
-Be careful about putting too much information into your status updates - even if you trust the people in your networks. It is easy for someone to copy your information or unintentionally share something.
+# Before you publish more information, always ask:  
 
-It's easy to share a link to a website and get your friend's attention. But who else will be paying attention, and what kind of reaction will they have? 
+### Who can access this?
+
+### Who will control or profit from this?
+
+### Who might share this?
+
+### Who might mind if I share this?
+
+### How much do I trust the companies and users I'm sharing with?
+
+### Remember: 
+
+*	It is easy for people to copy or share information, even people you trust, even unintentionally.
+
+*	You can't see everything you're sharing. Every post reveals metadata about you and people you interact with. 
+
+
+
+
+
+
+
 ![image](socialb3.png)

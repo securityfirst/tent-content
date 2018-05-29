@@ -82,4 +82,4 @@ After clicking the connect button, a new window will open with a green bar that 
 ![image](tool_torwin14.png)
 
 The first time Tor Browser starts it might take a bit longer than usual, but be patient, within a few minutes Tor Browser will be done and a web browser opens up congratulating you.
-![image](tool_torwin14.png)
+![image](tool_torwin15.png)

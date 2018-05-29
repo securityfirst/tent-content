@@ -1,5 +1,16 @@
 [Title]: # (Why Radio)
 [Order]: # (5)
 
-Radios are an insecure method of communication and should not be used for senstive communication if at all possible. If possible, use alternative options as outlined in the [Making a Call lesson](umbrella://lesson/making-a-call). However many in the humanitarian field still need to use them sometimes. If necessary, develop a system of code words between those communicating so that your message will not be so easily understood.
+# Radios are insecure. 
+
+For sensitive communication, choose something more secure if possible. 
+
+(Learn more about [sending a message] (umbrella://lesson/sending-a-message) and
+[making a call](umbrella://lesson/making-a-call).) 
+
+However, radios are generally robust and independent of public facilities, while telecommunications networks may be overloaded or shut down in a crisis.
+
+If necessary, use an inconspicuous code for sensitive words.
+
+*	Agree emergency code words with colleagues in advance.
 ![image](radios.png)
