@@ -13,3 +13,4 @@ Swipe right for this lesson's checklist.
 ### SOURCES
 
 *   Take Back the Tech, [Blackmail](https://www.takebackthetech.net/know-more/blackmail).
+*   Take Back the Tech, [Cyberstalking](https://www.takebackthetech.net/know-more/cyberstalking)
