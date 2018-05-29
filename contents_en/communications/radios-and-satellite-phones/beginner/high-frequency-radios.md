@@ -1,9 +1,9 @@
-[Title]: # (High Frequency radios)
+[Title]: # (HF radios)
 [Order]: # (7)
 
 *	3 to 30 MHz frequency 
 *	Allow voice communications over medium and long range without repeaters (conceivably around the world). 
-*	HF signals can "bend" around hills and buildings, so less affected by obstacles;
+*	High Frequency (HF) signals can "bend" around hills and buildings, so less affected by obstacles;
 
 Note:
 
