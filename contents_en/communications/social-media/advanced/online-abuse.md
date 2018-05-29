@@ -29,4 +29,5 @@ Revenge porn is an act of violence and should not be conflated with pornographic
  	
 Doxing involves publishing someone's personal contact information online to intimidate or punish them. It may accompany other abuse, like the publication of intimate images. 
 
-Doxing is an obvious violation of your right to privacy.
+Doxing is an obvious violation of your right to privacy. Generally, in law, the right to privacy trumps freedom of expression.
+
