@@ -3,7 +3,9 @@
 
 Swipe right for this lesson's checklist.
 
-Learn about online abuse in [social media advanced](umbrella://lesson/social-media/1).
+Learn about hate speech in [Social Media Advanced](umbrella://lesson/social-media/1).
+
+Learn to combat other types of abuse in [Social Media Expert](umbrella://lesson/social-media/2).
 
 ### RELATED LESSONS/TOOLS
 
