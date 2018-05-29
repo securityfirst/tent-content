@@ -1,9 +1,11 @@
 [Title]: # (HF radios)
 [Order]: # (7)
 
-*	3 to 30 MHz frequency 
-*	Allow voice communications over medium and long range without repeaters (conceivably around the world). 
-*	High Frequency (HF) signals can "bend" around hills and buildings, so less affected by obstacles;
+*	3 to 30 MHz frequency; 
+*	Allow medium and long range voice communications (conceivably around the world); 
+*	High Frequency (HF) signals can "bend" around hills, buildings, and other obstacles;
+*	Work without repeaters.  
+*	Commonly used brands: Codan and Barrett.
 
 Note:
 
