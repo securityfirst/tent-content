@@ -92,7 +92,7 @@ Files are most frequently deleted from Recycle Bin in the Windows operating syst
 **Step 5.** Click "Start" to begin recovering your deleted files.
 
 During the file recovery process, two progress status bars appear in quick succession. The _Scanning the drive for deleted files_ progress bar lists the deleted files. The _Analyzing the file contents_ progress bar groups and sorts the deleted files into file types and degree of recoverability. They also display the duration of the scanning and analysis processes. Your _Piriform Recuva_ main user interface may then resemble the following screen:
-![image](tool_revua6.png)
+![image](tool_recuva6.png)
 
 The _Piriform Recuva_ main user interface lists information about each deleted file, arranged in six columns. Each column is described as follows:
 
