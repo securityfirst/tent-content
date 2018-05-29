@@ -31,3 +31,13 @@ Doxing involves publishing someone's personal contact information online to inti
 
 Doxing is an obvious violation of your right to privacy. Generally, in law, the right to privacy trumps freedom of expression.
 
+# Cyberstalking 
+
+Cyberstalking is a technologically-based attack on a person for reasons of anger, revenge or control.
+
+Cyberstalking may include:
+*	Harassment, humiliation and embarrassment of the person targeted;
+*	Harassing family, friends and employers to isolate the person;
+*	Tactics to make the target fearful;
+*	Taking on the identity of the other person;
+*	Monitoring (e.g., using Facebook notifications to find out where the person is going, using spy ware, activating GPS).
