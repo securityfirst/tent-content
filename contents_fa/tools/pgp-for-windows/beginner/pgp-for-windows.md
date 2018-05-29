@@ -335,7 +335,7 @@ Highlight the certificate in bold, then right-click to bring up the menu and sel
 ![image](tool_pgpwin50.png)
 
 A small window will pop up with three buttons. Click the "Export Public Keys Only" button.
-![image](tooL_pgpwin51.png)
+![image](tool_pgpwin51.png)
 
 Make sure you don't click the "Export Secret Keys" button because exporting the secret key could allow others to impersonate you if they are able to guess your password.
 
@@ -429,7 +429,7 @@ Will be transformed into:
 ### 7.2 Receiving PGP encrypted mail
 
 Let's go through what happens when you receive encrypted email. Notice that that Mozilla Thunderbird is letting you know you have new mail. Click on the message.
-![image](too.png;_pgpwin71)
+![image](tool_pgpwin71.png)
 
 A small window opens asking you for the password to the PGP key. Remember: Don't enter your email password. Click the "OK" button.
 ![image](tool_pgpwin72.png)

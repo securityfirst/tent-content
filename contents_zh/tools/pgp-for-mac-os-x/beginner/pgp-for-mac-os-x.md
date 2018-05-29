@@ -147,7 +147,7 @@ PGP密钥包含一个名称和一个将密钥链接到您的电子邮件地址�
 本演练演示如何将GPG与来自Mozilla的免费开源Thunderbird邮件客户端一起使用，以及用于电子邮件加密的Enigmail插件。
 
 首先，从[https：/ / /www.mozilla.org/thunderbird](https://www.mozilla.org/thunderbird) ，像使用GPG Tools一样安装磁盘映像，然后将Thunderbird拖放到应用程序中。当你第一次打开时，它会询问你是否想将它设置为默认的电子邮件客户端。继续并单击“设置为默认值”。
-![image](tool_pxposx11.png)
+![image](tool_pgposx11.png)
 
 然后您将看到第一个运行向导。要设置您的现有电子邮件地址，请点击“跳过此并使用我现有的电子邮件。”然后在您的电子邮件帐户中输入您的姓名，电子邮件地址和密码。
 ![image](tool_pgposx12.png)
@@ -163,7 +163,7 @@ PGP密钥包含一个名称和一个将密钥链接到您的电子邮件地址�
 ![image](tool_pgposx14.png)
 
 在右上角的搜索框中搜索enigmail 
-![image](tooL_pgposx15.png)
+![image](tool_pgposx15.png)
 
 点击Enigmail扩展旁边的安装按钮下载并安装Enigmail。完成后，单击“立即重新启动”以重新启动Thunderbird。
 

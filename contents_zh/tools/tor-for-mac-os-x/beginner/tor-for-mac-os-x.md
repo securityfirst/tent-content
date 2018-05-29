@@ -27,13 +27,13 @@ Tor 是由志工所維護的一個網路服務，它透過遮蔽來源與身份�
 ### 2.0 取得Tor 瀏覧器軟體包
 
 開啟原用的網頁瀏覧器，如Mozilla Firefox 或Internet Explorer，然後在網址處輸入：[https://www.torproject.org/projects/torbrowser.html.en](https://www.torproject.org/projects/torbrowser.html.en) 。如果你是透過搜尋引擊來找 Tor 瀏覧器軟體包，請確認它的網址是正確的。
-![image](tool_torosx1.png)
+![image](tool_torosx1.jpeg)
 
 點擊紫色的下載按鍵來下載程式安裝包
-![image](tool_torosx2.png)
+![image](tool_torosx2.jpeg)
 
 網站會自動偵測你的作業系統，因此用WINDOWS戶將可以得到所合適的檔案. 如果你想要不同的程式安裝版本,你可以滑動到下方的Tor 瀏覧器下載區來找到你需要的檔案。
-![image](tool_torosx3.png)
+![image](tool_torosx3.jpeg)
 
 許多瀏覧器會詢問確認你是否要下載該檔案。
 
@@ -45,7 +45,7 @@ Tor 是由志工所維護的一個網路服務，它透過遮蔽來源與身份�
 ![image](tool_torosx4.png)
 
 **第一次使用 Tor 瀏覧器：** 從應用程式集來打開 Tor 瀏覧器目錄，然後雙擊一個檔名為“Tor Browser”的檔案。第一次啟動 Tor 瀏覧器你會看到一個視窗可讓你調整必要的更動。當然也可以之後再回來進行變動，所以先來連上 Tor 網路，請點擊「連線」。點擊連線後，會出現一個綠色列桿的新視窗顯示 Tor 瀏覧器正在啟動中。
-![image](tool_torosx5.png)
+![image](tool_torosx5.jpeg)
 
 通常第一次啟動會花較長的時間，請保持耐心。過幾分鐘後，Tor 瀏覧器就完成連線設定而會開啟網頁瀏覧器。恭喜你成功安裝好 Tor 瀏覧器！
-![image](tool_torosx5.png)
+![image](tool_torosx5.jpeg)

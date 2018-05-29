@@ -31,13 +31,13 @@ La forma más sencilla de usar la red Tor es utilizar el paquete del navegador T
 ### 2.0 Obtención del paquete del navegador Tor
 
 Abra un navegador como Mozilla Firefox o Internet Explorer y escriba: [https://www.torproject.org/projects /torbrowser.html.en](https://www.torproject.org/projects/torbrowser.html.en) en la barra de URL. Si está utilizando un motor de búsqueda para buscar el paquete del navegador Tor, asegúrese de que la URL sea correcta.
-![image](tool_torwin1.png)
+![image](tool_torwin1.jpeg)
 
 Haga clic en el botón grande de descarga púrpura para obtener la instalación programa para el paquete del navegador Tor.
-![image](tool_torwin2.png)
+![image](tool_torwin2.jpeg)
 
 El sitio web habrá detectado su sistema operativo y obtendrá el archivo correcto para Windows. Si, por algún motivo, desea un archivo de instalación diferente, puede desplazarse hacia abajo a la sección Descargas del navegador Tor.
-![image](tool_torwin3.png)
+![image](tool_torwin3.jpeg)
 
 Muchos navegadores le solicitarán que confirme si desea para descargar este archivo Internet Explorer 11 muestra una barra en la parte inferior de la ventana del navegador con un borde naranja.
 ![image](tool_torwin4.png)
@@ -47,32 +47,32 @@ Para cualquier navegador, lo mejor es guardar primero el archivo antes de contin
 ### 2.1 Instalación del paquete del navegador Tor
 
 Una vez que se complete la descarga, es posible que tenga una opción para abrir la carpeta donde se descargó el archivo La ubicación predeterminada es la carpeta Descargas. Haga doble clic en el archivo _torbrowser-install-X.X.X_en-US.exe_
-![image](tool_torwin5.png) 
+![image](tool_torwin5.jpeg) 
 
 Después de hacer doble clic en el instalador Tor Browser, se abrirá una ventana con una advertencia sobre el origen del software. Siempre debe tomar estas advertencias en serio y asegurarse de que confía en el software que desea instalar y de que obtuvo una copia auténtica del sitio oficial a través de una conexión segura. Como sabe lo que quiere, y sabe dónde obtener el software, y la descarga fue del sitio HTTPS seguro de Tor Project, vaya y haga clic en Ejecutar.
-![image](tool_torwin6.png)
+![image](tool_torwin6.jpeg)
 
 Se abrirá una pequeña ventana preguntando qué idioma desea usar para el paquete del navegador Tor. Hay varios para elegir. Elija el idioma que desee y haga clic en el botón Aceptar.
-![image](tool_torwin7.png) 
+![image](tool_torwin7.jpeg) 
 
 Encontrará una nueva ventana que le indicará dónde se instalará el paquete del navegador Tor. La ubicación predeterminada es tu escritorio. Puedes cambiar esto para que sea una ubicación diferente si lo deseas, pero por ahora conserva el valor predeterminado.
-![image](tool_torwin8.png) 
+![image](tool_torwin8.jpeg) 
 
 El proceso de instalación se completa cuando ves una ventana que te dice ha completado el proceso de instalación. Si hace clic en el botón Finalizar, el Navegador Tor comenzará de inmediato. Por ahora, desmarque la casilla por? Ejecutar el paquete del navegador Tor.? Volveremos a usar el paquete del navegador Tor en un momento. Si no seleccionó la casilla de verificación y se inicia Tor Browser, simplemente cierre la ventana por ahora.
-![image](tool_torwin9.png) 
+![image](tool_torwin9.jpeg) 
 
 El paquete del navegador Tor no se instalará con otros programas y no aparecerá. en el menú de inicio.
-![image](tool_torwin10.png) 
+![image](tool_torwin10.jpeg) 
 
 ### 3.0 Usando el paquete del navegador Tor
 
 **Iniciando el navegador Tor por primera vez**
 
 - Decidió no iniciar Tor Browser cuando terminó con el instalador, por lo tanto, ahora inicie Tor Browser por primera vez. Si siguió todas las configuraciones predeterminadas de la instalación, verá una carpeta en su escritorio llamada Tor Browser.
-![image](tool_torwin11.png) 
+![image](tool_torwin11.jpeg) 
 
 - Abra la carpeta Tor Browser y haga doble clic en el archivo llamado Start Tor Browser.
-![image](tool_torwin12.png) 
+![image](tool_torwin12.jpeg) 
 
 - La primera vez que se inicia Tor Browser, obtendrá una ventana que le permite modificar algunos ajustes si es necesario. Es posible que deba volver y cambiar algunas configuraciones, pero continúe e intente conectarse a la red Tor haciendo clic en el botón Conectar.
 ![image](tool_torwin13.png) 

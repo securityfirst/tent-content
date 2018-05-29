@@ -337,7 +337,7 @@ Enigmail 會產生密鑰，有一個小視窗會彈出來詢問是否要生成�
 ![image](tool_pgpwin50.png)
 
 此時會出現一個帶有三個按鈕的小視窗，請選擇其中的"Export Public Keys Only"按鈕。
-![image](tooL_pgpwin51.png)
+![image](tool_pgpwin51.png)
 
 確認沒有誤選到 "Export Secret Keys" 按鈕，因為這會滙出私鑰，讓別人可以假冒你的身份，如果他們成功地猜出你使用的密碼。
 
@@ -431,7 +431,7 @@ Enigmail 金鑰管理員現在顯示新增的證明：
 ### 7.2 收到 PGP 加密電郵
 
 接下來看看收到加密電郵的情況。 Mozilla Thunderbird 會通知有新郵件，請直接按此訊息。
-![image](too.png;_pgpwin71)
+![image](tool_pgpwin71.png)
 
 出現一個小視窗會詢問 PGP 金鑰的密鑰，記住：不會輸入成 email 密碼，然後按 "OK"。 
 ![image](tool_pgpwin72.png)

@@ -31,13 +31,13 @@ The easiest way to use the Tor network is to use the Tor Browser Bundle, which c
 # 2.0 Getting Tor Browser Bundle
 
 Open a browser like Mozilla Firefox or Internet Explorer and type: [https://www.torproject.org/projects/torbrowser.html.en](https://www.torproject.org/projects/torbrowser.html.en) in the URL bar. If you are using a search engine to look for the Tor Browser Bundle, make sure that the URL is correct.
-![image](tool_torosx1.png)
+![image](tool_torosx1.jpeg)
 
 Click the big purple download button to get the installation program for Tor Browser Bundle.
-![image](tool_torosx2.png)
+![image](tool_torosx2.jpeg)
 
 The website will have detected your operating system and you'll get the correct file for Windows. If, for any reason, you want a different installer file you can scroll down to the Tor Browser Downloads section.
-![image](tool_torosx3.png)
+![image](tool_torosx3.jpeg)
 
 Many browsers will ask you to confirm whether you want to download this file. 
 
@@ -61,7 +61,7 @@ Open the Tor Browser folder from your Applications folder and double click on th
 The first time Tor Browser starts, you may get a window that allows you to modify some settings if necessary. You might have to come back and change some configuration settings, but go ahead and try to connect to the Tor network by clicking the Connect button.
 
 After clicking the connect button, a new window will open with a green bar that will get longer as the Tor software starts up.
-![image](tool_torosx5.png)
+![image](tool_torosx5.jpeg)
 
 The first time Tor Browser starts it might take a bit longer than usual, but be patient, within a few minutes Tor Browser will be done and a web browser opens up congratulating you.
-![image](tool_torosx6.png)
+![image](tool_torosx6.jpeg)

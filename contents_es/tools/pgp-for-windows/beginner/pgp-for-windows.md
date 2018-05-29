@@ -333,7 +333,7 @@ Resalte el certificado en negrita, luego haga clic con el botón derecho para ab
 ![image](tool_pgpwin50.png)
 
 Una ventana pequeña aparecerá con tres botones. Haga clic en el botón "Exportar solo claves públicas".
-![image](tooL_pgpwin51.png)
+![image](tool_pgpwin51.png)
 
 Asegúrese de no hacer clic en el botón "Exportar claves secretas" porque exportar la clave secreta podría permitir que otros para suplantarlo si pueden adivinar su contraseña.
 
