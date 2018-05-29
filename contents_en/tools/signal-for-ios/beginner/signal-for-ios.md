@@ -120,7 +120,7 @@ Once a call is established, your call is encrypted.
 
 To make an encrypted video call, simply call someone as described above:
 
-![](tool_signalios_initial_video_screen_0.png)
+![](tool_signalandroid_initial_video_screen.png)
 
 and tap the video camera icon. You may have to allow Signal to access video from your camera. This shares your video with your friend (your friend may have to do the same).
 
