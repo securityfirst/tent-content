@@ -1,12 +1,23 @@
 [Title]: # (Need to Know)
 [Order]: # (6)
 
-*   Discuss who needs to have advance knowledge of your trip - minimising the number of people who know about your presence is a good way to increase your security. This needs to be balanced with operational practicalities and the ability to complete the assignment.
-*   Trip plans
-*   Movements, patterns, lifestyle
-*   Travel modes, itineraries, professional arrangements
-*   Security arrangements & procedures
-*   Your organisation's duties, associates and colleague
+# Who *really* needs to know? 
 
-For more advice, see the [Managing Information lesson](umbrella://lesson/managing-information).
+Telling fewer people about your trip helps keep it more secure. But travel preparation often involves sharing information. 
 
+Balance security and practicality with a need to know policy. 
+
+(Learn more about need to know in [managing information](umbrella://lesson/managing-information).)
+
+Information you have prepared about your trip may include: 
+
+*   Strategic, context, and risk assessment;
+*	Copies of key documents and medical information;
+*	Communication methods and contact information;
+*   Itinerary and other standard operating procedures;
+*   Security and emergency protocols. 
+
+For each item, ask: 
+
+*	Who needs to have knowledge of this information? 
+*	How will they protect it? 
