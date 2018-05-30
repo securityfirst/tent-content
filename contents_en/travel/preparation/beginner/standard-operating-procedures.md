@@ -38,11 +38,15 @@ Check in regularly with someone who is not travelling with you and can provide s
 
 # 2. The backup plan
 
-Have an alternative plan to exit the country. Do you have a 'stand-by' visa for a neighbouring country?
-
+*	Have an alternative plan to exit the country. 
+		* Carry extra passport-size photos for emergency documents. 
+		* Do you need a 'stand-by' visa for a neighbouring country?
+		         
 ## Create a constant companion
 
 A "constant companion" contains everything you need for evacuation. 
+
+(Learn more about [evacuation](umbrella://lesson/evacuation).)
 
 Consider: 
 *	Cash;
@@ -52,7 +56,7 @@ Consider:
 
 ### Carry your constant companion on your person at all times. 
 
-(Learn more about [evacuation](umbrella://lesson/evacuation).)
+(Learn about grab bags in [protective equipment](umbrella://lesson/protective-equipment).)
 
 ## Prepare for serious security incidents
 
