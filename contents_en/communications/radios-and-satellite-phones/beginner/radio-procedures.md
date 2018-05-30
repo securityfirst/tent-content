@@ -21,7 +21,7 @@
 
 *   Be brief but precise with clear pauses between statements.
 
-*   Use common procedure words.
+*   Use common procedure words (prowords). View a list [here](http://arkisto.teres.fi/toiminta/koulutus/procedure_for_radio_communication.pdf).
 
 *   Use call signs instead of personal names. 
 
@@ -37,4 +37,4 @@
 
 *	Discuss transfer of cash or goods.
 
-(Learn recommended protocols to evade tracking in [Radio and Satellite Phones Advanced](umbrella://lesson/radio-and-satellite-phones/1)) 
+(Learn recommended protocols to evade tracking in [Radio and Satellite Phones Advanced](umbrella://lesson/radio-and-satellite-phones/1))
