@@ -1,10 +1,38 @@
 [Title]: # (Communications)
 [Order]: # (1)
 
-*   Traveller to ensure they understand how to operate communications equipment.
-*   Buy "burner" sim-card before travel (WorldSim or Libara for example) and disposable phone. Make sure the SIM has funds on it. Often this is better than buying a local sim-card because that often requires registering the sim-card with your passport
-*   Check phone will function in the country travelled to
-*   Bring a satellite phone if necessary (e.g. if phone lines are poor or possibility of censorship during high tensions) - check they are legal in the country you are going to
-*   Programme essential numbers into your phone, but not sensitive numbers. Put sensitive numbers into the 'notes' section of your phone but need to disguise them effectively.
-*   Additionally, ensure you have key numbers - such as embassies - stored remotely or written elsewhere (coded where necessary).
-*   Note 112/911/999 or equivalent Emergency number(s)
+1. Choose a communications method.
+2. Obtain and learn to use equipment.
+
+(Learn about [sending a message](umbrella://lesson/sending-a-message) and [making a call](umbrella://lesson/making-a-call).) 
+
+## Burner phones
+
+*   Buy a prepaid SIM card and add funds. 
+		* Example brands: WorldSim, Lebara.
+        * Purchasing a SIM card at your destination may require you to register. 
+*	Buy a disposable device. (Check it will work at your destination.)  
+
+(Learn about burner [mobile phones](umbrella://lesson/mobile-phones/0).)
+
+## Satellite phones
+
+Satphones may be necessary if telecommunications networks are unreliable or may be shut down in a crisis. Check they are legal at your destination. 
+
+(Learn about [radio](umbrella://lesson/radio-and-satellite-phones/0) and [satellite phones](umbrella://lesson/radio-and-satellite-phones/1).)
+
+## Contacts
+
+*   Programme essential contact information into your device, but not sensitive numbers. 
+*   Add emergency numbers (such as 112, 911, 999 or similar).
+*   Store emergency numbers separate from your device in case it is lost or stolen. Use code words where necessary.
+*	Store sensitive contact information securely. 
+*	If you really need to add sensitive contact information to your device in a hurry, use notes instead of the phone book. Disguise phone numbers and use code words where necessary.
+
+(Learn about [protecting files] (umbrella://lesson/protecting-files).)  
+
+
+
+
+
+
