@@ -28,10 +28,11 @@ Check in regularly with someone who is not travelling with you and can provide s
 (Learn how to cross [borders](umbrella://lesson/borders) and [checkpoints](umbrella://lesson/checkpoints).)
 
 *   Only carry information you really need.  
+		* Delete non-essential information from devices.  
 		* Back up information securely before travel.
         * Carry sensitive information securely. 
        
-(Learn about [backing up](umbrella://lesson/backing-up) and [protecting files](umbrella://lesson/protecting-files).)
+(Learn about [backing up](umbrella://lesson/backing-up), [safely deleting](umbrella://lesson/safely-deleting), and [protecting files](umbrella://lesson/protecting-files).)
 
 *	Schedule security or equipment training if required. 
 
@@ -60,6 +61,3 @@ Consider:
 *   Schedule personal security training if necessary. 
 
 (Learn about [arrests](umbrella://lesson/arrests) and [kidnapping](umbrella://lesson/kidnapping).)
-
-
-
