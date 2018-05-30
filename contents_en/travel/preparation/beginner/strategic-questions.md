@@ -1,14 +1,39 @@
 [Title]: # (Strategic Questions)
 [Order]: # (0)
 
-*   Ask some strategic questions before your trip
-    *   What is the objective of the trip? (ensure clear Terms of Reference)
-    *   What profile are you/your organisation taking? High profile / low profile? Why?
-    *   What is the threshold of acceptable risk your organisation is willing to take?
-    *   What about the risk to partners who you are meeting with?
-    *   What damage could this trip cause potential adversaries? How interested will potential adversaries be in this trip?
-*   Gather information about destination and partner organisations before deciding whether trip is currently safe and should be undertaken (context assessment)
-*   Complete a risk assessment
-*   Discuss trip with regional security focal point to confirm whether trip falls within threshold of acceptable risk
-*   Where possible, organise post-arrival context/ security briefings from partners
-*   Where possible, organise post-arrival context/ security briefings from partners
+# Before your trip
+
+## Conduct a strategy assessment
+
+*   What is your objective? Ensure clear terms of reference.
+    
+*   Will you or your team be high or low profile? Why?
+    
+*   What level of risk are you willing to accept?
+    
+*   What level of risk are you willing to accept for people you meet or work with?
+    
+*   What damage could this trip cause your adversary? How interested will they be in your trip?
+    
+(Learn to identify your adversary in the [managing information] (umbrella://lesson/managing-information) lesson.)
+  
+## Conduct a context assessment    
+
+*   Gather information about your destination.
+
+*	Gather information about people or teams you will meet or work with.
+
+*	Is the trip currently safe? Should you proceed?  
+
+## Conduct a risk assessment
+
+*   Discuss strategy and context with experts
+
+*	Does the trip fall within the threshold of acceptable risk?
+
+# Revisit your assessments
+
+*   Monitor the context and update your assessments as needed.
+
+*	Organise briefings from teams you will meet or work with when you arrive. Update your assessments as needed. 
+
