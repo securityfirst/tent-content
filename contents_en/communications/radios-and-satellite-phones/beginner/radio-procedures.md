@@ -27,7 +27,7 @@
 
 *   Speak clearly with normal rhythm and moderate volume.
 
-*   Hold the microphone 5 cm from your mouth.
+*   Hold the microphone 5cm from your mouth.
 
 ## Never: 
 
@@ -37,3 +37,4 @@
 
 *	Discuss transfer of cash or goods.
 
+(Learn recommended protocols to evade tracking in [Radio and Satellite Phones Advanced](umbrella://lesson/radio-and-satellite-phones/1)) 
