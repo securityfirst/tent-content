@@ -15,7 +15,9 @@
 *   Obtain or establish written procedures. For example: 
 		* What to do in an emergency;
         * Security protocols for your team or organisation. 
+        * See "Standard Operating Procedures."
 *   Obtain insurance and check it is valid.
+*	Obtain proof of immunization and create emergency medical card (see "Medical").
 
 # Protect your documents
 
@@ -34,11 +36,4 @@
 		* Your family;
         * The trip organiser;
         * Your team; 
-        * Human resources. 
-        
-        
-
-
-        
-        
-
+        * Human resources.
