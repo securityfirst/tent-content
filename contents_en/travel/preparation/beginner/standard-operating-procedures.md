@@ -1,15 +1,67 @@
 [Title]: # (Standard Operating Procedures)
 [Order]: # (3)
 
-*   Discuss Standard Operating Procedures prior to departure
-*   Agree before you travel on an itinerary and communication schedule. This should be given to a trusted colleague or family member who is not travelling with you and will be responsible for liason and management of any security issues or support.
-*   You should carry your 'constant companion' on your person at all times. A constant companion includes some cash, your key documentation needed for evacuation, and a list of emergency names, addresses, phone numbers, and the names of reputable hotels along the route.
-*   Only minimal data should be brought with you - it should be backed up and, if appropriate, encrypted.
-*   If carrying sensitive information decide how to discreetly carry it in to the country.
-*    What's your story? Prepare to answer questions at airports and elsewhere. (For advice on both of these, see the [Borders lesson](umbrella://lesson/borders))
-*   If any sensitive meetings are to be held, or meetings with vulnerable human rights defenders, follow the advice laid out in the [Meeting lesson](umbrella://lesson/meetings).
-*   Have an alternative plan to exit the country. Do you have a 'stand-by' visa for a neighbouring country?
-*   If driving or being driven in a vehicle, follow the advice laid out in the [Vehicles lesson](umbrella://lesson/vehicles).
-*   You should understand tools, systems and techniques for good personal security management, counter-surveillance, safe use of email etc. (training might be necessary) This may include making yourself familiar with the advice in the [Arrest and Kidnapping lessons](umbrella://lesson/kidnapping).
-*   Inform authorities and embassies of the trip.
-*   Will a curfew be respected? Will solo movement be allowed?
+Standard operating procedures are step-by-step instructions for any scenario.  
+
+Establish these before your trip and share them with your team. 
+
+# 1. The plan
+
+## Itinerary 
+*   Create a schedule of travel, meetings, and events. 
+
+If required, inform authorities or embassies of your travel plans.
+
+(Learn how to prepare for sensitive [meetings](umbrella://lesson/meetings).)
+
+*	Create a communication schedule. 
+
+Check in regularly with someone who is not travelling with you and can provide support in an emergency.
+
+*   Establish curfews, deadlines, and no-go areas. 
+
+(Learn to plan long drives in [vehicles](umbrella://lesson/vehicles).)
+
+## Security measures 
+*    Prepare a cover story for airports and elsewhere. 
+
+(Learn how to cross [borders](umbrella://lesson/borders) and [checkpoints](umbrella://lesson/checkpoints).)
+
+*   Only carry information you really need.  
+		* Delete non-essential information from devices.  
+		* Back up information securely before travel.
+        * Carry sensitive information securely. 
+       
+(Learn about [backing up](umbrella://lesson/backing-up), [safely deleting](umbrella://lesson/safely-deleting), and [protecting files](umbrella://lesson/protecting-files).)
+
+*	Schedule security or equipment training if required. 
+
+# 2. The backup plan
+
+*	Have an alternative plan to exit the country. 
+		* Carry extra passport-size photos for emergency documents. 
+		* Do you need a 'stand-by' visa for a neighbouring country?
+		         
+## Create a constant companion
+
+A "constant companion" contains everything you need for evacuation. 
+
+(Learn more about [evacuation](umbrella://lesson/evacuation).)
+
+Consider: 
+*	Cash;
+*	Key documents;
+*	Emergency names and contact information;
+*	Reputable hotels or other emergency destinations.
+
+### Carry your constant companion on your person at all times. 
+
+(Learn about grab bags in [protective equipment](umbrella://lesson/protective-equipment).)
+
+## Prepare for serious security incidents
+
+* 	Develop procedures based on context assessment. 
+
+*   Schedule personal security training if necessary. 
+
+(Learn about [arrests](umbrella://lesson/arrests) and [kidnapping](umbrella://lesson/kidnapping).)

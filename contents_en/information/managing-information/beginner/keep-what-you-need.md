@@ -7,7 +7,7 @@
 
 If there is no good reason to keep sensitive information, delete it. 
 
-(Learn more about [Safely Deleting lesson](umbrella://lesson/safely-deleting)).
+(Learn more about [safely deleting](umbrella://lesson/safely-deleting)).
 
 ## 2. Keep it need to know.
 
