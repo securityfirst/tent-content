@@ -7,7 +7,12 @@ What you reveal to border authorities depends on context and risk.
 
 (Learn about risk assessment for travel [preparation](umbrella://lesson/preparation).)
 
-It may not be wise, or possible, to lie, but neither should you volunteer information.
+A cover story does not have to be the full truth, but it should be: 
+		*   Simple;
+		*   Easily repeatable;
+		*   Verifiable.
+
+It may not be wise, or possible, to lie, but neither should you volunteer information. 
 
 *   Provide minimal details.
 
@@ -46,4 +51,3 @@ It may not be wise, or possible, to lie, but neither should you volunteer inform
 *	Be polite, calm, and firm with border authorities.
 
 *	Do not get separated from your belongings, especially electronic items. If they are taken away, assume they are compromised.
-
