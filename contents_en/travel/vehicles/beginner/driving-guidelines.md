@@ -34,3 +34,13 @@ Passengers:
 
 *	If threatened, provide transportation. 
 *	In the event of an attempted carjacking, you should not risk your life to save a vehicle.
+
+## Create a transportation policy
+
+A transportation policy should include these, and other specific guidelines for your needs. 
+
+The goal of the policy is to ensure:  
+
+*	Vehicles are maintained; 
+*	Journeys are planned; 
+*	Vehicle users are prepared to respond to a range of possible incidents. 
