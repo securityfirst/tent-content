@@ -19,6 +19,8 @@
 
 These may be necessary if telecommunications networks are unreliable or may be shut down in a crisis. Check they are legal at your destination. 
 
+*Note: radio antennae are conspicuous. Use mobile phones with a satphone as backup if you are travelling low profile.*
+
 (Learn about [radio](umbrella://lesson/radio-and-satellite-phones/0) and [satellite phones](umbrella://lesson/radio-and-satellite-phones/1).)
 
 ## Contacts
