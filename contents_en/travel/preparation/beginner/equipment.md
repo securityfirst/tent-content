@@ -29,13 +29,14 @@ Consider:
 Consider:
 
 *	Device and SIM (see "Communications");
+*	Small USB sticks or microSD cards. 
 *	Camera;
 *   Mobile Wi-Fi device;
 *	Batteries;
 *   Solar charger;
 *	Adapters, cables, and headphones, as needed;
 *   Pens and cheap notebook from which you can rip out pages unnoticed;
-*   Tamper-proof scotch tape.
+*   Tamper-proof scotch tape helps enhance security of equipment, hotel safe, laptop ports, and more.
 
 (Learn to tape your device to detect tampering in [mobile phones](umbrella://lesson/mobile-phones/0).)
 

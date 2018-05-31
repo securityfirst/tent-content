@@ -20,8 +20,6 @@ Check in regularly with someone who is not travelling with you and can provide s
 
 *   Establish curfews, deadlines, and no-go areas. 
 
-(Learn to plan long drives in [vehicles](umbrella://lesson/vehicles).)
-
 ## Security measures 
 *    Prepare a cover story for airports and elsewhere. 
 
@@ -35,6 +33,8 @@ Check in regularly with someone who is not travelling with you and can provide s
 (Learn about [backing up](umbrella://lesson/backing-up), [safely deleting](umbrella://lesson/safely-deleting), and [protecting files](umbrella://lesson/protecting-files).)
 
 *	Schedule security or equipment training if required. 
+
+(Learn about guidelines and policies for [vehicles](umbrella://lesson/vehicles).)
 
 # 2. The backup plan
 
