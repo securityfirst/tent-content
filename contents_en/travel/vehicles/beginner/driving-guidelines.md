@@ -1,16 +1,36 @@
 [Title]: # (Driving Guidelines)
-[Order]: # (0)
+[Order]: # (0.1)
 
-Vehicle-related accidents are the major cause of injuries and fatalities among aid personnel. Driving in unfamiliar and sometimes difficult conditions can increase the likelihood of an accident. Other dangers include ambush, robbery and aggressive behaviour of armed personnel at checkpoints. If available and practical, all staff members should receive driver safety training.
+## Parked cars
 
-The most important piece of security advice an aid worker or human rights defender can be given is ALWAYS WEAR A SEATBELT.
+*   Park in well-lit, populated areas. 
+*	Close all windows and lock doors before leaving. 
+*	Have keys ready in hand on return. 
+*	Check the back seat before entering.
+*   Immediately lock doors upon entry. 
+*   Keep a spare vehicle key in a secure location, like an office.
 
-Driving Guidelines
+## While driving
 
-*   Park in well-lit, heavily populated areas. Close all windows and lock doors before leaving the vehicle. Have keys ready in hand when returning to vehicle. Check the back seat before entering.
-*   Immediately lock doors upon entry. Open windows no more than 5 cm and only those windows near occupied seats.
-*   Do not speed or drive too fast for conditions. Observe local driving laws and regulations.
-*   Avoid night driving or driving alone where possible.
-*   Avoid letting the fuel tank fall below half full.
-*   Keep a spare vehicle key in the office.
-*   Never voluntarily carry unauthorized passengers, especially soldiers. However, if threatened, provide the transportation. In the event of an attempted carjacking, you should not risk your life to save a vehicle.
+*	Always wear a seatbelt.
+*	Only open windows near occupied seats.
+*	Open windows no more than 5 cm.
+*   Do not speed or drive too fast for conditions. 
+*	Observe local driving laws and regulations.
+*   Avoid night driving or driving alone.
+*   Keep the fuel tank at least half full.
+
+## Avoid passengers
+
+Passengers: 
+  *	May not be covered by insurance;
+  * May violate organisational policies if you are driving for work;
+  *	May represent a security risk;
+  *	May damage perceptions of you and your work. 
+
+*For example, carrying a soldier as a passenger may create the appearance that you are travelling or working together and compromise your independence.*
+
+## Don't risk your life
+
+*	If threatened, provide transportation. 
+*	In the event of an attempted carjacking, you should not risk your life to save a vehicle.
