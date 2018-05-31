@@ -12,12 +12,17 @@
   
 # Other documents
 
+*	Ensure your driver's licence is valid, if needed. 
+*   Obtain insurance and check it is valid. Consider travel, health, accident and other coverage, as appropriate. 
+*	Obtain proof of immunization and create emergency medical card (see "Medical").
+*	Obtain permits to travel to restricted areas or transport restricted items if required.
+
+(Learn more about restricted routes in [vehicles](umbrella://lesson/vehicles).)
+
 *   Obtain or establish written procedures. For example: 
 		* What to do in an emergency;
         * Security protocols for your team or organisation. 
         * See "Standard Operating Procedures."
-*   Obtain insurance and check it is valid.
-*	Obtain proof of immunization and create emergency medical card (see "Medical").
 
 # Protect your documents
 
