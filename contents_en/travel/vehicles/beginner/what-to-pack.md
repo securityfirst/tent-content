@@ -29,6 +29,7 @@ Consider:
 *	Roadside assistance contact information;
 *	Lease documents, if appropriate;
 *	Maintenance records;
+*	Logbook and blank accident report;
 *   Other key documents (ID, proof of immunization, etc.)
 
 (Learn more about key documents in [preparation](umbrella://lesson/preparation).)
