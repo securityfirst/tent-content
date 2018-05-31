@@ -1,7 +1,7 @@
 [Title]: # (Why Radio)
 [Order]: # (5)
 
-# Radios are insecure. 
+# Radios are insecure and conspicuous. 
 
 For sensitive communication, choose something more secure if possible. 
 
