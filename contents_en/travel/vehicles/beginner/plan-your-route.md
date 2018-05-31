@@ -9,11 +9,11 @@
 
 *	Avoid choke points, such as narrow alleys.
 
-*   Consult experts about route conditions change routes as necessary. 
+*   Consult experts about route conditions. Change routes as necessary. 
 
 *	Monitor traffic ahead, especially when approaching checkpoints or obstructions.
 
-### Look for:
+### Look up:
 
 *	Weather reports.
 *   Recent incidents. *Check the Dashboard for information about your area*
@@ -28,13 +28,3 @@
 *   Safe waypoints.
 *   Refuelling stops.
 *   Food stops. 
-
-## Prepare your vehicle
-
-*   If you are driving a work vehicle, displaying your logo may be appropriate. 
-
-*   Consider posting a decal indicating guns are not permitted in the vehicle.
-
-*   Avoid transporting sensitive documents or equipment in areas prone to banditry. 
-
-*	Arrange permits to transport items that could be interpreted as useful to combatants or terrorists.
