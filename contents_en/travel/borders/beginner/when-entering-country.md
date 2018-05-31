@@ -17,7 +17,7 @@ It may not be wise, or possible, to lie, but neither should you volunteer inform
 
 *Note: Providing real information may increase your risk, but providing false information may be a red flag.* 
 
-*	Set boundaries. What sensitive information will you absolutely not reveal?
+*	Set boundaries in advance. What sensitive information will you absolutely not reveal?
 
 ## Coordinate
 
