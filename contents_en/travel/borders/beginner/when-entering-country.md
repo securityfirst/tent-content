@@ -46,8 +46,21 @@ It may not be wise, or possible, to lie, but neither should you volunteer inform
 
 *   Do not discuss your trip, either with your team or on the phone. You may be overheard. 
 
+## Arrange to be met.
+
+Airports, stations, and ports are high-crime areas. Arrange to be met on arrival.
+
+In order of preference, choose:
+
+*	Someone you know;
+*	A pre-booked service including driver name and vehicle registration (check identification);
+*	Official taxi with a meter.
+
+*Risks of local taxis vary by country.*
+
 ## Remember:
 
-*	Be polite, calm, and firm with border authorities.
+*	Be polite, calm, confidant, and firm with border authorities.
 
 *	Do not get separated from your belongings, especially electronic items. If they are taken away, assume they are compromised.
+
