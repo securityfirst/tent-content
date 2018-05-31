@@ -1,32 +1,49 @@
 [Title]: # (Before You Leave)
 [Order]: # (0)
 
-If travelling, you should first follow the advice outlined in the Preparation lesson.
+Borders represent the possibility for detention, intimidation, interrogation, and search.
 
-This lesson focuses specifically on how to cross borders if travelling for sensitive work or with sensitive information. In establishing the potential risk and risk mitigation measures for crossing borders, it is important to establish a few basics about the reasons for, and possible sensitivities of, your trip. It is vital to be aware of the nature of the information you will be carrying into and out of the country, and how you will carry it.
+If you travel with sensitive information or equipment, or to carry out sensitive work, there are steps you can take to mitigate risk.
 
-Sensitive or revealing information you may carry could include:
+## Understand:
 
-*   Data on people at high risk who you are meeting
-*   Travel plans, passwords, access codes
-*   Censored/ banned information
-*   Organisation sensitive information
-*   Personal information
-*   Embarrassing/ incriminating information
-*   Legal - encryption or data not allowed for export
-*   Receipts
-*   Reports
+*	The reasons for your trip; 
+*	Possible sensitivities of your trip. 
 
+(Learn about risk assessment for travel [preparation](umbrella://lesson/preparation).)
 
-This information may be stored in/on notebooks, publications, laptops, phones, USBs, CDs, or SD cards.
+This may depend on: 
 
-Remember:
+1. The nature of the information you will be carrying;
+2. How you will carry it.
 
-*   Only minimal data should be brought with you
-*   Bring a "clean" laptop and phone if possible
-*   Carry sensitive information and electronic equipment in hand luggage, as at least you know If it has been tampered with
-*   Small, encrypted USB sticks or Micro SD cards can be useful for security and being able to hide sensitive data if necessary. See the Protecting Files lesson for advice on how to encrypt files.
-*   Bring a cheap notebook in which you can rip out the pages unnoticed
-*   Tamper proof Scotch tape can be useful for enhancing the security of your equipment, hotel safe, laptop ports etc.
-*   Check pockets, wallet, bags everything before travel
-*   Prepare your story (More in next section)
+## 1. Sensitive information may include:
+
+*   Communications with people you work with or plan to meet;
+*   Banned information or publications; 
+*   Financial information or receipts;
+*   Embarrassing or incriminating information;
+*	Itineraries, standard operating procedures, and security protocols.
+
+(Learn about procedures in travel [preparation](umbrella://lesson/preparation).)
+
+## 2. Sensitive information may be stored in: 
+
+*	Laptops, phones, or other devices;
+*	Remote servers operated by email or cloud storage providers;
+*	Notebooks and publications;
+*	USB stick, portable hard drives, SD card, or CD-ROMs.
+ 
+(Learn about identifying and organising information in [backing up](umbrella://lesson/backing-up).)
+
+# Remember:
+
+### Only carry information you really need.  
+		* Delete non-essential information from devices.  
+		* Back up information securely before travel.
+        * Carry sensitive information securely. 
+
+### Carry sensitive information and equipment in hand luggage.
+If sensitive items are with you, you will know if they have been tampered with. 
+
+### Empty pockets, wallet, and bags of non-essential items. 
