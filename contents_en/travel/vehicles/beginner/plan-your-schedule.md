@@ -3,6 +3,10 @@
 
 ## Plan your schedule
 
+*	Consider the length of the journey. Do you need more than one driver?
+
+*   Schedule prayer or food stops as necessary.
+
 *   Notify others of travel times, destinations, and steps they should take if you are late.
 
 *   Create a communications schedule to check in regularly.
