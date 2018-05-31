@@ -15,9 +15,9 @@
 
 (Learn about burner [mobile phones](umbrella://lesson/mobile-phones/0).)
 
-## Satellite phones
+## Radio or Satphones
 
-Satphones may be necessary if telecommunications networks are unreliable or may be shut down in a crisis. Check they are legal at your destination. 
+These may be necessary if telecommunications networks are unreliable or may be shut down in a crisis. Check they are legal at your destination. 
 
 (Learn about [radio](umbrella://lesson/radio-and-satellite-phones/0) and [satellite phones](umbrella://lesson/radio-and-satellite-phones/1).)
 
@@ -25,14 +25,11 @@ Satphones may be necessary if telecommunications networks are unreliable or may 
 
 *   Programme essential contact information into your device, but not sensitive numbers. 
 *   Add emergency numbers (such as 112, 911, 999 or similar).
-*   Store emergency numbers separate from your device in case it is lost or stolen. Use code words where necessary.
+*	Try to memorize emergency phone numbers. 
+*   Store essential numbers separate from your device in case it is lost or stolen. Use code words where necessary.
 *	Store sensitive contact information securely. 
-*	If you really need to add sensitive contact information to your device in a hurry, use notes instead of the phone book. Disguise phone numbers and use code words where necessary.
+*	If you really need to add sensitive contact information to your device in a hurry, create notes or reminders instead of the phone book. Disguise phone numbers and use code words where necessary.
 
-(Learn about [protecting files] (umbrella://lesson/protecting-files).)  
+*Note numbers as dates, measurements, coordinates, quantities on a shopping list, or another formulation.*   
 
-
-
-
-
-
+(Learn about [protecting files] (umbrella://lesson/protecting-files).)
