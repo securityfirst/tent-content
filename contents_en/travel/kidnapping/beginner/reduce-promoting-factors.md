@@ -1,7 +1,36 @@
 [Title]: # (Reduce promoting factors)
 [Order]: # (9)
 
-*   **Stay low profile**Don't use big expensive cars; avoid 'no-go' areas in town; don't display assets etc.
-*   **Build key relationships**Build relationships with key actors who may be of use in the prevention of kidnapping. In environments where a host is responsible for the wellbeing of their guests, it might be a good idea to obtain local protection. Likewise, asking respected elders to join a site visit may offer a form of protection. Only good knowledge of the context will determine whether this tactic will reduce the risk.
-*   **Be aware of how work is received**If the political or conflict situation is putting your work at a heightened risk be prepared to suspend the programme if necessary and leave the country for a period of time if appropriate. (See Evacuation lesson for more advice on this)
-*   **Have a public policy of no ransom**
+# To avoid kidnap 
+
+*	Reduce the incentives and opportunities for kidnap
+*	Make it hard for prospective kidnappers.
+
+## Stay low profile.
+
+*	Don't use large, expensive cars;
+*	Avoid 'no-go' areas in town; 
+*	Don't display assets.
+
+(Learn about choosing a [vehicle](umbrella://lesson/vehicles).) 
+
+## Build key relationships.
+
+* Build relationships with key actors, leaders, or respected elders who may help prevent kidnapping. 
+
+*Only good knowledge of the context will determine whether this tactic will reduce the risk.*
+
+   	* Are hosts responsible for the wellbeing of their guests? 
+    * Can you travel or work with a local representative?
+
+(Learn about context assessments in [preparation](umbrella://lesson/preparation).)
+
+## Monitor the environment. 
+
+*	The political situation or a conflict may increase your risk. 
+*	Be prepared to suspend your plans if necessary. 
+*	Leave the country for a period of time if necessary. 
+
+(Learn about [evacuation](umbrella://lesson/evacuation).)
+
+## Have a public policy of no ransom.
