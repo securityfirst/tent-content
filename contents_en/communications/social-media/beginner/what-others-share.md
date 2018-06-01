@@ -11,8 +11,8 @@ Talk to your friends about what you feel comfortable sharing.
 
 # Privacy is not retroactive
 
-You may have the option to untag yourself, depending on the platform, or ask someone else to take it down.
+You may have the option to untag yourself, or ask someone else to take it down, but this depends on the platform. Once published, information is hard to control. 
 
 # When your boundaries are violated
 
-Learn about online abuse in [social media advanced](umbrella://lesson/social-media/1).
+Learn about [hate speech](umbrella://lesson/social-media/1) and [online abuse](umbrella://lesson/social-media/2).
