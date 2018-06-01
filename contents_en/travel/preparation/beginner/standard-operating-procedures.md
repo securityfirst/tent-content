@@ -20,10 +20,10 @@ Check in regularly with someone who is not travelling with you and can provide s
 
 *   Establish curfews, deadlines, and no-go areas. 
 
-## Security measures 
+## Information security 
 *    Prepare a cover story for airports and elsewhere. 
 
-(Learn how to cross [borders](umbrella://lesson/borders) and [checkpoints](umbrella://lesson/checkpoints).)
+(Learn about [borders](umbrella://lesson/borders) and [checkpoints](umbrella://lesson/checkpoints).)
 
 *   Only carry information you really need.  
 
@@ -56,7 +56,7 @@ Consider:
 *	Emergency names and contact information;
 *	Reputable hotels or other emergency destinations.
 
-### Carry your constant companion on your person at all times. 
+**Carry your constant companion on your person at all times.** 
 
 (Learn about grab bags in [protective equipment](umbrella://lesson/protective-equipment).)
 
