@@ -1,11 +1,11 @@
 [Title]: # (Hate speech against women)
 [Order]: # (2) 
 
-> *"[Anonymous online harassment] discourages women from writing and earning a living online. It interferes with their professional lives. It brands them as incompetent workers and inferior sexual objects."* Danielle Keats Citron, US lawyer 
-
-Women with visibility on the internet receive a disproportionate amount of abuse because the internet remains a male-dominated space. 
+Women with visibility on the internet receive a disproportionate amount of hateful speech because the internet remains a male-dominated space. 
 
 Women's visibility in online spaces challenges gender inequality and male privilege.
+
+(Learn about [gender-based violence online](umbrella://lesson/social-media/2)) 
 
 ## The goal of abuse
 
