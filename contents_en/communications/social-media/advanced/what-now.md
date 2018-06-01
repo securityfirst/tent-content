@@ -16,4 +16,5 @@ Learn to combat other types of abuse in [Social Media Expert](umbrella://lesson/
 
 ### SOURCES
 
-*   Take Back the Tech, [Hate Speech](https://www.takebackthetech.net/know-more/hate-speech).
+*   Take Back the Tech, [Hate Speech](https://www.takebackthetech.net/know-more/hate-speech);
+*	PEN America, [Online Harassment Field Guide](https://onlineharassmentfieldmanual.pen.org/).
