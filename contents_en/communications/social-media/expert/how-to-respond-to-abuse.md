@@ -1,7 +1,7 @@
 [Title]: # (How to respond to abuse)
 [Order]: # (3)
 
-## IT'S NOT YOUR FAULT.
+# IT'S NOT YOUR FAULT
 You may feel helpless, but you can take action. The following strategies have proven useful for other survivors.
 
 ## Keep records
@@ -81,3 +81,7 @@ Report incidents to [Take Back the Tech](https://www.takebackthetech.net/mapit/)
 Experiencing and responding to abuse can be isolating and stressful. A supportive community, online or off, can help.
 
 (Learn more about [unhealthy stress](umbrella://lesson/stress/0)).
+
+# Help others 
+
+*Read: PEN America, [Best Practices for Allies and Witnesses] (https://onlineharassmentfieldmanual.pen.org/best-practices-for-allies-and-witnesses/)* and *[Best Practices for Employers of Writers and Journalists](https://onlineharassmentfieldmanual.pen.org/best-practices-for-employers-of-writers-and-journalists/)*
