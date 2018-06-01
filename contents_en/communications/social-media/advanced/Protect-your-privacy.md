@@ -2,12 +2,12 @@
 [Title]: # (Protect your privacy)
 [Order]: # (4) 
 
-# Privacy for writers, bloggers, journalists, and commentators 
+# For yourself 
 
 ## Domain name registration
 When you register a domain name, your contact information is made public. This is a transparency requirement in many countries. 
 
-*	Use an organisational address and phone number or one that does not reveal your home location. 
+*	Use a work address and phone number or one that does not reveal your home location. 
 * 	Create an email account exclusively for managing the domain.
 
 *Note: Domain proxy services which offer to protect privacy for a fee have proven unreliable in the face of legal or public pressure to reveal registry information.* 
@@ -21,11 +21,11 @@ When you register a domain name, your contact information is made public. This i
 * 	If you are a journalist with a public email address, talk to your employer about a system that will filter out abusive emails.
 
 ## Protect your location. 
-*	If you are journalist who travels to report, don't post information that can be used to identify your exact location, including your hotel and where you plan to eat.
+*	Don't post information that can be used to identify your exact location, including your hotel and where you plan to eat.
 
 ## Consider blogging anonymously. 
 
-Some bloggers use a pseudonym or simply write under a last name that does not match the one on their mailbox. 
+Some bloggers use a pseudonym or write under a variation of their name. 
 
 (Learn more about how to stay anonymous on the [Internet](umbrella://lesson/the-internet/1).)
 
@@ -58,3 +58,9 @@ Some bloggers use a pseudonym or simply write under a last name that does not ma
 *	Enlist friends and colleagues to unpublish hateful comments. 
 
 *	Encourage your support network to tweet or post support for you whenever they notice hate speech on your social media accounts.
+
+# Help others 
+
+Create policies to help your team protect themselves from hate speech. 
+
+*Read: PEN America, [Best Practices for Employers of Writers and Journalists](https://onlineharassmentfieldmanual.pen.org/best-practices-for-employers-of-writers-and-journalists/)*
