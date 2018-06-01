@@ -26,9 +26,10 @@ Check in regularly with someone who is not travelling with you and can provide s
 (Learn how to cross [borders](umbrella://lesson/borders) and [checkpoints](umbrella://lesson/checkpoints).)
 
 *   Only carry information you really need.  
-		* Delete non-essential information from devices.  
-		* Back up information securely before travel.
-        * Carry sensitive information securely. 
+
+	* Delete non-essential information from devices.  
+	* Back up information securely before travel.
+    * Carry sensitive information securely. 
        
 (Learn about [backing up](umbrella://lesson/backing-up), [safely deleting](umbrella://lesson/safely-deleting), and [protecting files](umbrella://lesson/protecting-files).)
 
@@ -39,8 +40,9 @@ Check in regularly with someone who is not travelling with you and can provide s
 # 2. The backup plan
 
 *	Have an alternative plan to exit the country. 
-		* Carry extra passport-size photos for emergency documents. 
-		* Do you need a 'stand-by' visa for a neighbouring country?
+
+	* Carry extra passport-size photos for emergency documents. 
+	* Do you need a 'stand-by' visa for a neighbouring country?
 		         
 ## Create a constant companion
 
