@@ -14,6 +14,8 @@ Journalist Dawn Foster decided not to engage: "In the end, I discovered the best
 
 Columnist and fiction writer Bina Shah uses all the tools at her disposal, including reporting: "Be ready to report them if they threaten you with violence. Expose them. They expect you to cower with fear. Don’t do it. Show them who’s boss."
 
+(Learn to report other types of [online abuse](umbrella://lesson/social-media/2).)
+
 ## Expose them
 
 Blogger Cath Elliot wants to make sure abusers are seen for what they are: "I think it's imperative that women who write online continue to speak out about the abuse we're subjected to, and that we expose the Internet misogynists at every opportunity we get."
