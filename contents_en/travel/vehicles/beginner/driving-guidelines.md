@@ -28,7 +28,7 @@ Passengers:
   *	May represent a security risk;
   *	May damage perceptions of you and your work. 
 
-*For example, carrying a soldier as a passenger may create the appearance that you are travelling or working together and compromise your independence.*
+*Travelling with armed or uniformed personnel may imply that you are working together and compromise your independence.*
 
 ## Don't risk your life
 
@@ -43,4 +43,4 @@ The goal of the policy is to ensure:
 
 *	Vehicles are maintained; 
 *	Journeys are planned; 
-*	Vehicle users are prepared to respond to a range of possible incidents. 
+*	Vehicle users are prepared to respond to a range of possible incidents.
