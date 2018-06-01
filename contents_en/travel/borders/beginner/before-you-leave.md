@@ -1,11 +1,13 @@
 [Title]: # (Before You Leave)
 [Order]: # (0)
 
+# Know your risk
+
 Borders represent the possibility for detention, intimidation, interrogation, and search.
 
 If you travel with sensitive information or equipment, or to carry out sensitive work, there are steps you can take to mitigate risk.
 
-## Understand:
+First, understand: 
 
 *	The reasons for your trip; 
 *	Possible sensitivities of your trip. 
@@ -36,14 +38,15 @@ This may depend on:
  
 (Learn about identifying and organising information in [backing up](umbrella://lesson/backing-up).)
 
-# Remember:
+## Remember:
 
 ### Only carry information you really need.  
-		* Delete non-essential information from devices.  
-		* Back up information securely before travel.
-        * Carry sensitive information securely. 
+
+	* Delete non-essential information from devices.  
+	* Back up information securely before travel.
+    * Carry sensitive information securely. 
 
 ### Carry sensitive information and equipment in hand luggage.
 If sensitive items are with you, you will know if they have been tampered with. 
 
-### Empty pockets, wallet, and bags of non-essential items. 
+### Empty pockets, wallet, and bags of non-essential items.
