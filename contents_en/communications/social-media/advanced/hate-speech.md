@@ -1,9 +1,15 @@
 [Title]: # (Hate speech)
 [Order]: # (0)
 
-Hate speech includes written, spoken or visual discrimination, harassment, threats or violence against a person or group on the basis of their gender, disability, sexual orientation, race, etc.
+Hate speech is an inexact term, but is understood to refer to discrimination, harassment, threats or violence against a person or group on the basis of their gender, disability, sexual orientation, race, or identity. 
 
-Any speech that trivialises, glorifies or incites violence against women is hate speech, just as speech that trivialises the Holocaust is anti-semitic and speech that glorifies attacks on people because of their race is racist.
+Hate speech may be written, spoken or visual.
+
+Examples include:
+
+*	Speech that trivialises, glorifies or incites violence against women. 
+*	Speech that trivialises the Holocaust. 
+*	Speech that glorifies attacks on people because of their race.
 
 ## Hate speech is not free speech
 
@@ -17,5 +23,3 @@ Any speech that trivialises, glorifies or incites violence against women is hate
 ![image](hatespeech-2.png)
 ![image](hatespeech-3.png)
 ![image](hatespeech-4.png)
-
-
