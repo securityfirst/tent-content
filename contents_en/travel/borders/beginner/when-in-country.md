@@ -36,22 +36,27 @@ Sensitive paper could include:
 
 # Take simple precautions
 
-*   Minimise the amount of information you share during meetings and other interactions. 
+## Don't chat.
 
-*Casual, social queries may be overheard or staged to elicit information.*  
+*   Minimise the amount of information you share during meetings and other interactions. 
+*	Casual, social queries may be overheard or staged to elicit information.
 
 *   Advise hotel staff not to share information about you.
 
 *Be aware they could be monitoring you.*
 
-*   Travel by different routes at different times.
+## Don't be obvious.
 
-*   Avoid walking alone or at night.
+*   Travel by different routes at different times.
 
 *   Agree a signal to alert your team to danger. 
 
 *Choose something easy to do that would not happen accidentally.*
 
-*   Always wear seatbelts!
+## Use common sense.
+
+*   Avoid walking alone or at night.
+
+*   Always wear a seatbelt.
 
 (Learn more about [vehicles](umbrella://lesson/vehicles).)
