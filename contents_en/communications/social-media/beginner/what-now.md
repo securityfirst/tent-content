@@ -18,5 +18,6 @@ Learn to combat other types of abuse in [Social Media Expert](umbrella://lesson/
 
 ### FURTHER READING
 
+*	Tactical Tech, [Me and My Shadow](https://myshadow.org/)
 *   Security in a Box, [Social Networking Platforms](https://securityinabox.org/en/guide/social-networking/web/).
 * *The Guardian* [news reports] (https://www.theguardian.com/uk-news/cambridge-analytica) on Cambridge Analytica.
