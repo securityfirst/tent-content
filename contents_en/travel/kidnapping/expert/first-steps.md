@@ -1,7 +1,7 @@
 [Title]: # (First Steps)
 [Order]: # (14)
 
-**1. Set up a crisis management team, in HQ if possible.** 
+**1. Set up a crisis management team in HQ.** 
 **2. Appoint a manager to coordinate.** 
 
 _Next steps depend on the circumstances and the manager's assessment of the best course of action._
@@ -10,7 +10,7 @@ Consider:
 
 *   Contacting next of kin.  
 
-Failure to do this quickly can damage the relationship of trust, particularly if family hear the news through the media.  
+Failure to do this quickly can damage the relationship of trust, particularly if news is published first in the media.  
 
 *Lack of trust makes crisis management much harder.*
 
@@ -20,6 +20,6 @@ Failure to do this quickly can damage the relationship of trust, particularly if
 *   Answering enquiries from the press
 *   Keeping contact with other relevant colleagues or agencies;
 *   Providing 24-hour communications;
-*	Logging all messages and events;
-*   Marking maps;
-*   Ensuring that the crisis management team has sufficient food, water, and rest. 
+*	Recording decisions, communications and events;
+*   Obtain maps;
+*   Ensuring that the crisis management team has sufficient food, water, and rest.
