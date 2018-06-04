@@ -18,7 +18,7 @@ The greatest aid to morale is to manage the incident well.
 *	Keep everyone fully informed;
 *	Take the best available advice;
 *	Record significant events and decisions;
-*	Evaluate lessons learned and refine future security management where possible.
+*	Evaluate lessons learned where possible.
 
 ## Need to know
 
@@ -35,6 +35,4 @@ The greatest aid to morale is to manage the incident well.
 *	Paying ransom or making a concession may endanger more colleagues by encouraging further kidnaps.
 *	Have a public policy of no ransom.
 
-(Learn more about this in [kidnapping beginner] (umbrella://lesson/kidnapping/0).) 
-
-
+(Learn more about this in [kidnapping beginner] (umbrella://lesson/kidnapping/0).)
