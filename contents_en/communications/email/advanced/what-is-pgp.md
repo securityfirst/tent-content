@@ -16,4 +16,4 @@ Whether you need end-to-end encryption for your email depends on your threat mod
 
 (Learn to assess your threat model in the [managing information] (umbrella://lesson/managing-information) lesson.)
 
-![image](email3)
+![image](email3.png)
