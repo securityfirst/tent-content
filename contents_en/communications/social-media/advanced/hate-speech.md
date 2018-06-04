@@ -19,7 +19,7 @@ Examples include:
 
 *	Freedom of expression does not trump freedom from violence. If abuse is expressed in a particularly aggressive, inflammatory or sustained manner, then it may be considered hate speech.
 
-![image](hatespeech-1.png)
-![image](hatespeech-2.png)
-![image](hatespeech-3.png)
-![image](hatespeech-4.png)
+![image](Hatespeech-1.png)
+![image](Hatespeech-2.png)
+![image](Hatespeech-3.png)
+![image](Hatespeech-4.png)
