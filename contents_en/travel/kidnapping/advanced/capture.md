@@ -1,10 +1,37 @@
 [Title]: # (Capture)
 [Order]: # (1)
 
-The first 15 - 45 minutes are the most dangerous moments in the event; the abductors will be under stress, they are probably armed and most likely to use weapons if resistance is shown. Your objective is to survive, hence:
+# The first 15 - 45 minutes 
 
-*   Be calm and cooperative, speak only when spoken to, listen carefully and attentively, avoid sudden moves. Do not behave aggressively or try to be a hero: accept the situation.
-*   If in a group, try not to be separated. Appoint one person to speak for the group, selected on the basis of ability rather than formal rank.
-*   Do not attempt to escape and or to physically resist.
-*   Do not make eye contact it may be mistaken for aggression.
-*   Recognise that fear and shock are normal reactions.
+This is the most dangerous time.
+
+Kidnappers are likely to:
+
+*	Be under stress;
+*	Be armed;
+*	Use weapons if you show resistance. 
+
+### Remember, your goal is to survive and regain freedom.
+
+## Cooperate. 
+
+*   Be calm and cooperative; 
+*	Speak only when spoken to;
+*	Listen carefully and attentively;
+*	Avoid sudden moves;
+*   Avoid eye contact, which may appear aggressive.
+
+## Accept the situation.
+
+*	Do not be aggressive;
+*	Do not physically resist;
+*	Do not be a hero;
+*   Do not attempt escape;
+*	Fear and shock are normal reactions.
+
+## Stay together
+*   If in a group, try not to be separated;
+*	Appoint a spokesperson based on ability, not rank.
+
+
+
