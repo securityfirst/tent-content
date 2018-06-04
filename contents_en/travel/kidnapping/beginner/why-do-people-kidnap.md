@@ -38,3 +38,5 @@ Understanding who carries out kidnappings, and why, will help shape your avoidan
 *   Inadequate political, legal or military response encouraging more actors to become involved;
 *   Media coverage of successful kidnap attempts;
 *   High financial rewards from kidnapping.
+
+(Learn survival techniques if [you](umbrella://lesson/kidnapping/1) or [a colleague](umbrella://lesson/kidnapping/2) is kidnapped.)
