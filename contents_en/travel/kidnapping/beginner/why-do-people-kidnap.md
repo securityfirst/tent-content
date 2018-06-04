@@ -1,33 +1,36 @@
 [Title]: # (Why do kidnappings occur?)
 [Order]: # (7)
 
-# Have a plan
+# Prevent kidnapping
 
 The best defence against kidnapping is to have *and practise* a high-quality security management plan. 
 
 Base security management on a thorough understanding of your location:
 
 * General context and risks; 
-* The specific threat of kidnapping. 
+* The specific threat of kidnapping, including:
+	*	Past incidents;
+    *	Presence of actors that carry out kidnapping;
+    *	Factors that may encourage kidnapping.
 
 (Learn about general context and risk assessments in [preparation](umbrella://lesson/preparation).)
 
 Understanding who carries out kidnappings, and why, will help shape your avoidance and survival strategies.
 
-## The main reasons for kidnappings are:
+## Kidnappers usually seek:
 
-*   To hold for ransom
-*   To cause a political effect
-*   To achieve publicity
-*   To be used as human shields
+*   Ransom;
+*   Political effect;
+*   Publicity;
+*   Human shields.
 
-## The main actors that carry out kidnappings are:
+## Actors that mainly carry out kidnappings:
 
-*   Criminals
-*   Political extremists
-*   Terrorists
-*   Militia groups
-*   Regimes that use terror
+*   Criminals;
+*   Political extremists;
+*   Terrorists;
+*   Militia groups;
+*   Regimes that use terror.
 
 ## Factors that may encourage kidnapping:
 
