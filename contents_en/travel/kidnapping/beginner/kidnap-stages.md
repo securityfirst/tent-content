@@ -1,7 +1,12 @@
 [Title]: # (Kidnap Stages)
 [Order]: # (0)
 
-A kidnapping or hostage situation has five stages. 
+Kidnap strategies are based on:
+
+*	Avoidance;
+*	Survival.
+
+A kidnapping has five stages: 
 
 ### 1.  Surveillance 
 
@@ -11,10 +16,14 @@ A kidnapping or hostage situation has five stages.
 
 ### 4.  Confinement
 
-### 5.  Release/Termination
+### 5.  Release or termination
+
+## Avoidance
 
 Kidnapping beginner outlines how to evade surveillance and capture.
 
+## Survival
+
 [Kidnapping advanced](umbrella://lesson/kidnapping/1) outlines survival strategies for capture, transport, confinement and release.
 
-[Kidnapping expert](umbrella://lesson/kidnapping/2) offers resources when a colleague is kidnapped.
+[Kidnapping expert](umbrella://lesson/kidnapping/2) outlines incident management when a colleague is kidnapped.
