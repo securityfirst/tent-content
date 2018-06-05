@@ -1,25 +1,24 @@
 [Title]: # (Surveillance)
 [Order]: # (11)
 
-# Surveillance
-
-Surveillance is the monitoring of people's behaviour, activities, or other patterns for the purpose of harming, influencing, managing, directing, or protecting them.
+Surveillance is the monitoring of people's behaviour, activities, or other patterns to harm, influence, manage, direct, or protect them.
 ![image](surveillance1.png)
 
-**Why might people be interested in keeping you under physical surveillance?**
+Consider who might consider you a surveillance target, and why.  
 
-*   Break-in/ theft of sensitive materials
-*   Arrest
-*   Monitor who is coming and going from the office
-*   Intimidation
-*   Physical attack on staff
+**Who?**
 
-**Who might be interested in keeping you under surveillance?**
+*   Local authorities (police, intelligence, military);
+*   International intelligence agencies;
+*	Embassy officials from other countries;
+*   Criminals;
+*   Terrorists;
+*   Private contractors;
+*   Disgruntled individuals. 
 
-*   Authorities of the country in which the regional office is located (police, intelligence, military)
-*   External security agencies of other countries in the region
-*   Criminals
-*   Terrorists
-*   Private contractors
-*   Embassy officials of 'friendly' countries
-*   Individuals (may be disgruntled with the organisation)
+**Why?**
+
+*	To learn what you are doing;
+*	While planning a serious incident, such as theft, arrest, kidnap, intimidation, or attack.
+
+(Learn more about [kidnapping](umbrella://lesson/kidnapping/0) and [arrest](umbrella://lesson/arrests).) 
