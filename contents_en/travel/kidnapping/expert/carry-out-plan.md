@@ -1,4 +1,4 @@
-[Title]: # (Carry out Plan)
+[Title]: # (Things to remember)
 [Order]: # (16)
 
 ## Mentally prepare
@@ -19,16 +19,6 @@ The greatest aid to morale is to manage the incident well.
 *	Take the best available advice;
 *	Record significant events and decisions;
 *	Evaluate lessons learned where possible.
-
-## Need to know
-
-*   Keep incident details strictly confidential;  
-*	Implement a need to know policy.
-
-(Learn more about this in [preparation](umbrella://lesson/preparation).) 
-
-*	Bypass the usual chain of command if necessary; 
-*	Exempt crisis management team from reporting to usual supervisors. 
 
 ## Avoid paying ransom 
 
