@@ -11,8 +11,6 @@
 
 (Learn about [counter-surveillance](umbrella://lesson/counter-surveillance/0).) 
 
-*	If a participant at risk is not trained, ask a colleague to check if they are being followed. 
-
 ## Check the meeting place
 
 *	Arrive first to check for possible surveillance;
@@ -25,7 +23,6 @@
 *	Sit where you can see the rest of the space;
 *	Sit with your back to a wall; 
 *	Sit near the exit or identify an escape route.
-*	Position a colleague nearby if possible to monitor the meeting, entrance, and exits. Ask if they can overhear you. 
 
 ## Observe other people
 
@@ -34,3 +31,12 @@
 *	Look for indicators of a surveillance team.
 
 (Learn more about this in [counter-surveillance advanced](umbrella://lesson/counter-surveillance/1).)
+
+## Collaborate 
+
+Team members who do not need to participate can arrive separately. 
+
+*	Don't indicate that you know each other. 
+*	Position them nearby to check for surveillance. 
+*	Ask them to signal if there is a problem or they can overhear your conversation. 
+*	If a participant at risk is not counter-surveillance trained, ask a team member to check for surveillance.
