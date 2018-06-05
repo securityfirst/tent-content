@@ -1,12 +1,30 @@
-[Title]: # (Arrival at a Meeting)
+[Title]: # (Arriving)
 [Order]: # (3)
 
-# Arrival at a Meeting
+## Practise counter-surveillance
 
-If possible you should remove batteries from phones before travelling to the meeting location, so as to avoid remote tracking. (See the [Mobile phones lesson](umbrella://lesson/mobile-phones) for more advice on mitigating the risks of phones)
+*	Remove phone batteries before you arrive to avoid being tracked. 
 
-Ideally all parties would conduct counter-surveillance when travelling to the meeting. See the [Counter-Surveillance](umbrella://lesson/counter-surveillance/0) lesson for advice on how to do this. If the person you are meeting is not trained in this, and you are unsure of their security, one of your colleagues may be able to check whether your contact has been followed. You should ensure you are clear before you arrive. If possible you should arrive first and check the area is clear - check the toilets, emergency exits and likely approaches.
+(Learn more about this in [mobile phones](umbrella://lesson/mobile-phones))
 
-Try to sit where you can observe the whole location but still have your back to a wall and be close to/ have a clear path to an escape route. If you have a second colleague available who is not needed in the meeting, they can take a seat nearby with a clear view of you and exits.
+*	Practise counter-surveillance en route. Ensure you are clear before you arrive. 
 
-Do not commit to staying somewhere by buying something until you are sure you are clear - You might attract suspicion leaving otherwise. Agree a subtle and simple signal to alert your colleague if you feel something is wrong.
+(Learn about [counter-surveillance](umbrella://lesson/counter-surveillance).) 
+
+*	If a participant at risk is not trained, ask a colleague to watch for signs they are being followed. 
+
+## Check the meeting place
+
+*	Arrive first to check for possible surveillance;
+*	Survey approaches, entrance, exits, and toilets;
+*	Do not buy anything or you unpack until you are sure you are clear;
+*	Be prepared to wwitch to your alternate location at the last minute if there is a problem or risk of surveillance. 
+
+## Monitor the meeting place
+
+*	Sit where you can see the rest of the space;
+*	Sit with your back to a wall; 
+*	Sit near the exit or identify an escape route.
+*	Position a colleague nearby if they do not need to participate. Monitor the meeting, entrance, and exits. 
+
+
