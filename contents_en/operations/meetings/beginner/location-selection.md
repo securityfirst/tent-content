@@ -19,11 +19,12 @@ Plan:
 
 # Choose a meeting place
 
-*	If participants may be surveillance targets, avoid homes, offices, and frequented locations.  
+*	If participants may be surveillance targets, avoid homes, hotels, offices, and other frequented locations.  
 *	Choose a neutral public place, such as a café. 
 *	Choose somewhere easy to fit in.
 *	Avoid places known to attract certain groups or people at risk. 
 *	Look for images and information online if you can't go in advance.
+*	Open spaces make eavesdropping harder, but may also make it harder to fit in.
 
 Consider:
 
