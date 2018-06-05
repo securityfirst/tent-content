@@ -17,15 +17,15 @@
 
 *	Arrive first to check for possible surveillance;
 *	Survey approaches, entrance, exits, and toilets;
-*	Do not buy anything or you unpack until you are sure you are clear;
-*	Be prepared to wwitch to your alternate location at the last minute if there is a problem or risk of surveillance. 
+*	Do not buy anything or unpack until you are sure you are clear;
+*	Be prepared to switch to your alternate location at the last minute if there is a problem. 
 
 ## Monitor the meeting place
 
 *	Sit where you can see the rest of the space;
 *	Sit with your back to a wall; 
 *	Sit near the exit or identify an escape route.
-*	Position a colleague nearby if possible to monitor the meeting, entrance, and exits.
+*	Position a colleague nearby if possible to monitor the meeting, entrance, and exits. Ask if they can overhear you. 
 
 ## Observe other people
 
@@ -34,6 +34,3 @@
 *	Look for indicators of a surveillance team.
 
 (Learn more about this in [counter-surveillance advanced](umbrella://lesson/counter-surveillance/1).)
-
-  
-
