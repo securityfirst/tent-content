@@ -3,28 +3,24 @@
 
 # Prevent kidnapping
 
-The best defence against kidnapping is to have *and practise* a high-quality security management plan. 
+The best defence against kidnapping is to have *and practise* a high-quality security manement plan. 
 
 Base security management on a thorough understanding of your location:
 
-* General context and risks; 
+* General context and risks. 
+
+(Learn more about this in [preparation](umbrella://lesson/preparation).)
+
 * The specific threat of kidnapping, including:
 	*	Past incidents;
     *	Presence of actors that carry out kidnapping;
-    *	Factors that may encourage kidnapping.
+    *	Promoting factors.
 
-(Learn about general context and risk assessments in [preparation](umbrella://lesson/preparation).)
+This understanding will help you reduce promoting factors and reduce opportunity. 
 
-Understanding who carries out kidnappings, and why, will help shape your avoidance and survival strategies.
+## Who and why? 
 
-## Kidnappers usually seek:
-
-*   Ransom;
-*   Political effect;
-*   Publicity;
-*   Human shields.
-
-## Actors that mainly carry out kidnappings:
+### Kidnappers may be:
 
 *   Criminals;
 *   Political extremists;
@@ -32,11 +28,28 @@ Understanding who carries out kidnappings, and why, will help shape your avoidan
 *   Militia groups;
 *   Regimes that use terror.
 
-## Factors that may encourage kidnapping:
+### They may seek:
+
+*   Ransom;
+*   Political effect;
+*   Publicity.
+
+*Note: Kidnappers make demands. Abductors take people against their will. Hostage takers hold people under siege in a known location.*   
+
+### Promoting factors may include:
 
 *   The state's inability to provide protection and prosecute kidnappers;
 *   Inadequate political, legal or military response encouraging more actors to become involved;
 *   Media coverage of successful kidnap attempts;
 *   High financial rewards from kidnapping.
 
-(Learn survival techniques if [you](umbrella://lesson/kidnapping/1) or [a colleague](umbrella://lesson/kidnapping/2) is kidnapped.)
+## Prepare
+
+If you operate in a high-risk location: 
+
+*	Identify a reputable company specialising in hostage negotiations.
+
+Connect with specialist advice in advance of a potential crisis.
+
+*	Share completed [proof of life](umbrella://forms/proof-life-form) forms with your team.
+
