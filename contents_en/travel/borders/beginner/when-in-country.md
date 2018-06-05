@@ -16,7 +16,10 @@ Sensitive paper could include:
 ## Avoid paper: 
 
 *	Photograph receipts you need for your records and destroy the originals. 
+
 *	When meeting people, ask for digital publications, links, or emails instead of paper.
+
+(Learn about [meetings](umbrella://lesson/meetings).)
 
 ## Secure your notes: 
 
@@ -30,8 +33,10 @@ Sensitive paper could include:
 
 ## Destroy sensitive paper: 
 
-*	Don't delay. You might forget or give someone the chance to see or photograph the information. 
-*	Go somewhere unexpected. Cleaners or security staff may retrieve waste from your hotel or office. 
+*	Don't delay. You might forget or give someone the chance to see or photograph the information.
+
+*	Go somewhere unexpected. Cleaners or security staff may retrieve waste from your hotel or office.
+
 *	Soak notes in water to make them unreadable.
 
 # Take simple precautions
@@ -39,6 +44,7 @@ Sensitive paper could include:
 ## Don't chat.
 
 *   Minimise the amount of information you share during meetings and other interactions. 
+
 *	Casual, social queries may be overheard or staged to elicit information.
 
 *   Advise hotel staff not to share information about you.
@@ -59,4 +65,4 @@ Sensitive paper could include:
 
 *   Always wear a seatbelt.
 
-(Learn more about [vehicles](umbrella://lesson/vehicles).)
+(Learn more about this in [vehicles](umbrella://lesson/vehicles).)
