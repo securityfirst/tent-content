@@ -31,7 +31,7 @@ Bugs, listening devices, video cameras, or number plate readers.
 
 (Learn more about this in [meetings](umbrella://lesson/meetings).)
 
-### Digital  
+### Digital surveillance 
 
 Monitoring of digital communications and devices.
 
