@@ -9,9 +9,14 @@
 Plan:
 *	Your approach;
 *	Possible escape routes;
-*	Nearby safe spots such as partner offices, supportive local people, or embassies.
+*	Nearby safe spots such as partner offices, supportive local people, or embassies;
 
 (Learn more about this in [vehicles](umbrella://lesson/vehicles).)
+
+*   A cover story for borders or checkpoints.
+
+(Learn more about this in [borders](umbrella://lesson/borders) and [checkpoints](umbrella://lesson/checkpoints).)
+
 
 # Choose a meeting place
 
@@ -32,14 +37,5 @@ Consider:
 
 ## Have a backup
 
-Choose an alternative meeting place nearby.
-
-Switch at the last minute if there is a risk of surveillance or if you identify problems at your first meeting place. 
-
-## At the meeting place
-
-*	Sit where you can see the rest of the meeting place;
-*	Have your back to a wall; 
-*	Sit near the exit or identify an escape route. 
-
-
+*	Choose an alternate meeting place nearby.
+*	Agree a simple, subtle signal to alert others if something is wrong.
