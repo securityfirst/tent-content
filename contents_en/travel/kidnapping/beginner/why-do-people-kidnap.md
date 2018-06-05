@@ -53,3 +53,5 @@ Connect with specialist advice in advance of a potential crisis.
 
 *	Share completed [proof of life](umbrella://forms/proof-life-form) forms with your team.
 
+*	Train in serious incident management or kidnap negotiation. 
+
