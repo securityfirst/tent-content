@@ -17,7 +17,6 @@ Plan:
 
 (Learn more about this in [borders](umbrella://lesson/borders) and [checkpoints](umbrella://lesson/checkpoints).)
 
-
 # Choose a meeting place
 
 *	If participants may be surveillance targets, avoid homes, offices, and frequented locations.  
@@ -38,4 +37,6 @@ Consider:
 ## Have a backup
 
 *	Choose an alternate meeting place nearby.
-*	Agree a simple, subtle signal to alert others if something is wrong.
+*	Agree a discreet signal to alert others if something is wrong.
+
+(Learn about [sending a message](umbrella://lesson/sending-a-message).)
