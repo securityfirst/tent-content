@@ -3,7 +3,7 @@
 
 ## Mentally prepare
 
-*   Anticipate periods of isolation and other methods of intimidation;
+*   Anticipate periods of isolation and intimidation;
 *	Prepare for a long wait;
 *	Do not believe everything you are told. 
 
@@ -13,7 +13,7 @@
 *	Try to persuade them to contact your colleagues or the authorities. Find reasons why this would benefit them.
 *	Keep to subjects of mutual interest, such as family and children; 
 *	Encourage kidnappers to view you as a person.
-*	Do not discuss politics.
+*	Do not discuss politics or religion.
 
 ## Keep your dignity. 
 
@@ -29,7 +29,7 @@ _Avoid exchanging clothes with kidnappers which may make it harder for rescuers 
 
 ## Do not threaten
 
-*   Be aware of body language and non-verbal communication styles; 
+*   Be aware of body language and non-verbal communication; 
 *	Do not threaten to testify or retaliate; 
 *	Do not indicate that you recognise kidnappers who are concealing their identity.
 
@@ -37,8 +37,8 @@ _Avoid exchanging clothes with kidnappers which may make it harder for rescuers 
 
 Taking mental notes may help establish communication, monitor potential risks, and help the authorities after your release.
 
-*   Note kidnapper mannerisms, behaviour, speech, clothes, rank, etc.
-*	Try to understand their profile, attitude and intentions;
+*   Note kidnapper mannerisms, behaviour, speech, clothes, rank, etc;
+*	Try to understand their attitude and intentions.
 
 **Keep a low profile. Do not appear to study your abductors.** 
 
