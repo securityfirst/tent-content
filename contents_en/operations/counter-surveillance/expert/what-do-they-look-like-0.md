@@ -1,33 +1,35 @@
 [Title]: # (What do they look like?)
 [Order]: # (17)
 
-# What do they look like?
+# Look for vehicles:
 
-There are a number of indicators that might let you know if a vehicle is being used to conduct mobile surveillance.
+## Equipped for surveillance
 
-Look out for:
+*   Mounted with unusual aerials or boxes;
+*   Carrying maps, radios, GPS, binoculars, cameras, etc.
+*	Carrying rubbish or supplies for a long wait. 
 
-*   Common vehicles for the area - a team will try to use the most inconspicuous vehicle for the local environment
-*   Unusual aerials
-*   Modified boxes on top
-*   Equipment in the car - Maps, radios, GPS, binoculars, cameras etc.
-*   Rubbish in a car
-*   Parking for quick exit
-*   Windows left slightly open
-*   Boot/Trunk - they may have placed a person in the rear of the vehicle to observe through a gap in the shelf of the boot/trunk
-*   One or at most two people in a vehicle
-*   Radio operator talking into a radio
-*   Two people in a stopped car talking but not apparently to each other
-*	Sun visors down to make it harder to recognise faces
-*   Leaving an engine on unnecessarily
-*   Brake lights being activated when a vehicle is stationary
-*   Don't forget taxis, rickshaws or expensive looking cars.
+## Easy to overlook
 
-**Identifying Teams**  
+*   The most common makes and colours;
+*	Taxis, rickshaws, vans or expensive cars, depending on the location.
 
-If you identify one potential surveillance team member, you can use that knowledge to identify others. Members of a surveillance team can cross-contaminate other members:
+## Behaving differently
 
-*   By looking in their direction
-*   By using hand signals
-*   By parking their car or stopping in the same place (e.g. they have relieved each other)
-*   By poor discipline/drills/boredom and pulling their cars up alongside each other in order to have an unnecessary conversation.
+Consider stationary vehicles: 
+
+*   Parked to allow a quick exit;
+*	With shades or sun visors down to obscure faces;
+*   Running the engine or with brake lights on;
+*   With cracked windows;
+*   With one or two occupants;
+*   With occupants who talk, but not apparently to each other; or operate a radio. 
+
+*Note: people may sit in the back or observe from the boot or trunk of a parked vehicle.* 
+
+## Working together  
+
+Two vehicles stopping in the same place may indicate:
+
+*	A watcher is being relieved;
+*   A team with poor discipline is having a chat. 
