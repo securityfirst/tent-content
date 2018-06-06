@@ -1,8 +1,30 @@
 [Title]: # (What to do?)
 [Order]: # (14)
 
-# What To Do If Your Office Is Under Surveillance
+# If you Identify Surveillance
 
-*   **Consider the risks** Confrontation with suspicious people should be done with caution, before doing so, consider the risks. For example, what might that person be doing? What is the past history of threats against your organisation or yourself? Is it likely that they will attack you immediately if you confront them or is it more likely that they will just leave and send someone else? If you confront someone they are likely to be replaced by another (unknown) agent, and you then lose the benefit of being able to monitor the surveillance being carried out against you.
-*   **Increase protection** Increase your office protection by reducing the ability of an adversary to conduct surveillance. For example by putting up screening near your building, using CCTV and/or guards, closing blinds, locking gates, selecting sites which are not easily overlooked, strict access controls to your building etc.
-*   **Continue monitoring** Continue to monitor the general security environment and increase your observation of threats during periods of higher tension - e.g. protests, elections, sensitive national holidays etc.
+### Assess the risk
+
+Some teams will want to confront anyone suspicious.  
+
+*	What might they be doing? 
+*	Is there a history of threats against you or your team? How serious? 
+*	Is it likely that they will attack you?
+*	Is it likely that they will leave and be replaced? (This may undermine your ability to identify and monitor surveillance.)
+
+### Increase protection
+
+Reduce the adversary's ability to conduct surveillance. 
+Consider: 
+
+*	Closing blinds;
+*	Locking gates;
+*	Putting up a screen or barrier;
+*	Making it harder to access the building;
+*	Installing CCTV or guards;
+*	Moving to a site which cannot be overlooked.
+
+### Continue monitoring
+
+*	Monitor the general security environment for possible threats;
+*	Increase monitoring during periods of tension, such as protests, elections, or sensitive national holidays.
