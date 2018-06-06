@@ -1,8 +1,30 @@
-[Title]: # (Tactics: Get on a bus)
+[Title]: # (Use public transport)
 [Order]: # (8)
 
-# Tactics: Get on a bus
+Switching from walking to riding makes it harder for watchers to keep up.
 
-It is difficult for surveillance teams to keep up if you suddenly get on a bus, going from on foot to mobile in a vehicle. This is particularly true because buses are slower than other vehicles so are difficult to follow by car too. Ensure you have change for the fare. Sit as far back in the bus as possible and if it's left-hand drive, sit on the right side of the bus to be able to observe any vehicles which might over take the bus.
+# Get on a bus
 
-If conducting overt anti-surveillance - get on, get off at the next stop, and then rapidly get on the next bus. If you want to appear covert - get on a bus with one number, then get off and get a bus with another number, to make it look like you might be lost.
+Buses are slower than other vehicles, making them harder to follow by car. 
+ 
+*	Ensure you can pay the fare. 
+*	Sit at the back to observe who follows.
+*	Sit where you can observe other vehicles overtaking.
+*	For covert counter-surveillance, switch to a second bus going a different way to make it look like you are lost.
+*	For overt anti-surveillance, get off at the next stop, and rapidly get on another bus. 
+
+# Get on a train
+
+Trains are faster than other vehicles, making them hard to follow.  
+
+*	Try to be the last passenger on the train. 
+*	Stand at the end of the platform to observe other passengers. 
+*	Get off before your destination.
+*	For covert counter-surveillance, switch to a second train going a different way to make it look like you are lost.
+*	For overt anti-surveillance, rapidly change trains at the last minute. 
+
+# Get a taxi
+
+Taxi drivers may have useful local knowledge. In some countries they can use bus lanes, making them harder for surveillance vehicles to follow.
+
+[Learn about [borders](umbrella://lesson/borders).)
