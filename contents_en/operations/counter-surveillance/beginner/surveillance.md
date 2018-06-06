@@ -4,7 +4,9 @@
 Surveillance is the monitoring of people's behaviour, activities, or other patterns to harm, influence, manage, direct, or protect them.
 ![image](surveillance1.png)
 
-Consider who might consider you a surveillance target, and why.  
+Counter-surveillance measures help you detect and mitigate hostile surveillance.
+
+Consider who might make you a surveillance target, and why.  
 
 ## Who?
 
