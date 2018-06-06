@@ -18,10 +18,10 @@ Look for 3 repeat sightings of the same unexpected person to confirm that you ar
 
 ## 4 sides, 3 stops
 
-Filter out coincidental sightings.
+Filter out coincidental sightings on 3 sides of a square.
 
-*	To get from A to B, add C and D to your route to create a 4-sided shape. 
-*	Make at least 3 unscheduled stops between A and C, C and D, and D and B.  
+*	Make 3 unscheduled turns (move in a square instead of a line).   
+*	Make unscheduled stops on 3 sides of the square.  
 
 ## 5 breaks the box
 
