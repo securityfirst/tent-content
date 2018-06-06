@@ -26,8 +26,6 @@ _Where do people usually stand?_
 
 _Is someone standing somewhere unexpected?_
 
-(Learn more about this in [counter-surveillance advanced](umbrella://lesson/counter_surveillance/1).)
-
 ### Filter out coincidence 
 
 *	Concentrate on unusual activities;
@@ -36,6 +34,8 @@ _Is someone standing somewhere unexpected?_
 _Do they look local? Are they paying unusual attention to you? _
 
 **Look for 3 unusual signs or 3 repeat sightings.**
+
+(Learn more about this in [counter-surveillance advanced](umbrella://lesson/counter_surveillance/1).)
 
 ### Notify others
 
