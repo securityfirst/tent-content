@@ -5,7 +5,7 @@
 
 If you suspect surveillance, do not react or raise the surveillance team's suspicions. 
 
-**Remember, your goal is to find out whether you are being followed, not to lose them.**
+**Remember your first goal is to find out whether you are being followed, not to lose them.**
 
 # Take action 
 
@@ -27,13 +27,13 @@ If you must stick to your plan, and if you feel it is safe:
 
 3.	**Lose the surveillance overtly (risky):** 
 
-If it is absolutely vital to lose the surveillance, and it is not possible to do so covertly.
+If it is absolutely vital to lose the surveillance, and it is not possible to do so covertly:
 
 *	Lose the surveillance team *even if* it makes them aware that they have been made.  
 
-However, this action: 
+Overt counter-surveillance is also known as anti-surveillance. 
 
-*	Confirms that you don't want to be watched;
-*	Increases the likelihood of further surveillance. 
+Be aware that this strategy may: 
 
-
+*	Confirm that you don't want to be watched;
+*	Increase the likelihood of further surveillance.
