@@ -26,6 +26,8 @@ _Where do people usually stand?_
 
 _Is someone standing somewhere unexpected?_
 
+(Learn more about this in [counter-surveillance advanced](umbrella://lesson/counter_surveillance/1).)
+
 ### Filter out coincidence 
 
 *	Concentrate on unusual activities;
@@ -46,4 +48,4 @@ _Do they look local? Are they paying unusual attention to you? _
 *	Don't ignore suspicions;
 *	Don't assume you are paranoid. 
 
-Unusual activity may be a warning sign of a pending security incident. 
+Unusual activity may be a warning sign of a pending security incident.
