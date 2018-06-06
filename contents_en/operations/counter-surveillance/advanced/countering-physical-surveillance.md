@@ -1,11 +1,14 @@
-[Title]: # (Countering Physical Surveillance)
+[Title]: # (Surveillance on Foot)
 [Order]: # (0)
 
-# Countering Physical Surveillance
+Counter-surveillance is the process of detecting and mitigating hostile surveillance. 
 
-Physical surveillance continues to be a significant danger to those working on human rights. Other than a human source, it is the only way to build detail on what is occurring at meetings. It is obviously important to know how to identify if you, your colleagues, or partners are under surveillance.
+(Learn more about this in [counter-surveillance beginner](umbrella://lesson/counter_surveillance/0).) 
 
-Counter-surveillance is the process of detecting and mitigating hostile surveillance. This lesson lets you know how to practice counter-surveillance at one of the most important times - when you are out and about on foot, such as going to a sensitive meeting.
+This lesson involves surveillance on foot.
 
-For advice on how to practice counter-surveillance when in a vehicle, go to the Expert lesson.
+[Counter-surveillance expert](umbrella://lesson/counter_surveillance/2) involves surveillance in a vehicle.
+
 ![image](surveillance2.png)
+
+
