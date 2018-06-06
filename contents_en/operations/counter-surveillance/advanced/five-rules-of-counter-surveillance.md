@@ -25,7 +25,7 @@ Filter out coincidental sightings.
 
 ## 5 breaks the box
 
-Surveillance teams may surround you by positioning themselves on the corners of an imaginary box. Keeping you in the box makes you easier to follow. 
+Surveillance teams may surround you by positioning themselves on the corners of an imaginary box. Keeping you in the box makes you easier to follow, because it covers all possible directions you might move in. 
 
 *	Strike out in an unexpected direction to break the box.
-*	Watch for the team to make mistakes while they adapt. 
+*	Watch for the team to make mistakes while they adapt.
