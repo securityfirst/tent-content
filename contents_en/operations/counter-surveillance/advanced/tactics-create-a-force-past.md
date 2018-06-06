@@ -1,15 +1,21 @@
-[Title]: # (Tactics: Create a force-past)
+[Title]: # (Create a force-past)
 [Order]: # (6)
 
-# Tactics: Create a force-past
+Create a situation that forces anyone following you to pass you or expose their position. 
 
-A force-past is when you create a situation in which someone following you would have to go past you or expose their position. There are several easily created force-past points:
+## Possible force-past points
 
-*   Traffic crossing point
-*   Bus stop
-*   Taking an escalator
-*   Using a lift to go up (until all passengers have left), then go down and exiting via an underground car park
-*   Rapidly turning a corner then suddenly entering into a shop
-*   Go into a shop/pub/building through one entrance and then rapidly exit via another
-*   Corner hanging - turn a corner then rapidly stop
-*   Change your clothing to make it harder to identify you
+### Outdoors
+
+*   Street crossings;
+*   Bus stops;
+*   Corners (stop or enter a building immediately after turning);
+*   Buildings (enter through one entrance, then exit rapidly via another).
+
+### Indoors
+
+*   Escalators;
+*   Lifts (go up, let other passengers leave, then immediately go down again. Exit via a back door or car park);
+*	Doors (hold them open to let others overtake you).
+
+
