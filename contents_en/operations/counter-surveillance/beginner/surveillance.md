@@ -43,9 +43,8 @@ Physical monitoring of a fixed location, someone on foot, or someone in a vehicl
 
 This lesson addresses human surveillance.
 
-Counter-suveillance beginner involves fixed locations, like your office. 
+Counter-surveillance beginner involves fixed locations, like your office. 
 
-[Counter-suveillance advanced](umbrella://lesson/counter_surveillance/1) involves surveillance on foot.
+[Counter-surveillance advanced](umbrella://lesson/counter_surveillance/1) involves surveillance on foot.
 
-[Counter-suveillance expert](umbrella://lesson/counter_surveillance/2) involves surveillance in a vehicle.
-
+[Counter-surveillance expert](umbrella://lesson/counter_surveillance/2) involves surveillance in a vehicle.
