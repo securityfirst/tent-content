@@ -1,51 +1,50 @@
 [Title]: # (What do they look like?)
 [Order]: # (1)
 
-# What do they look like?
+Look out for people who are:
 
-There are a number of indicators that might let you know if a person is conducting surveillance on foot.
+## Equipped for surveillance
 
-Look out for:
+*   Wearing comfortable or outdoor clothing and footwear;
+*   Carrying personal equipment, such as:
+	*	Sports or smart watch;
+	*	Communications device, including an earpiece or radio switch. 
 
-*   Bulky, loose clothing
-*   Outdoor clothing
-*   Military-style sports watch
-*   Radio broadcast switch on their wrist
-*   Earpiece with/without a wire
-*   Comfortable footwear
+## Easily overlooked 
 
-Surveillance teams often try to use people who would easily be overlooked. Don't disregard people such as:
+*   Women (many people expect surveillance to be conducted by men);
+*   In couples or groups;
+*   Wearing expensive clothes;
+*   Younger or older;
+*   Jogging or dog walking;
+*   Homeless or begging;
+*   Service staff in hotels, restaurants, or parks;
+*   Maintenance or construction workers;
+*   Driving delivery vehicles;
+*   Minorities (for example, from an ethnic group not common in the local area)
+*   Pushing a pram, or carrying shopping bags. 
 
-*   Women (many people expect surveillance members to be men)
-*   Couples/groups
-*   People wearing expensive clothes
-*   Young/old looking people
-*   People jogging
-*   Beggars
-*   Hotel staff, gardeners
-*   Road workers
-*   Commercial outfits (e.g. electricity company)
-*   Unlikely minorities (for example, people from an ethnic group not common in the local area)
-*   People with a pram/dog/shopping bags
+## Behaving differently
 
-Tells' that might give away someone who is conducting surveillance on foot include:  
+*   Adjusting personal equipment;
+*   Touching an earpiece;
+*   Talking into a device;
+*   Unusually distracted or concentrated;
+*   Behaving unusually;
+*   Trying to avoid the target;
+*   Looking around corners or through windows;
+*   Mirroring the target's behaviour;
+*   Stopping in unusual places. 
 
-*   Readjusting personal equipment
-*   Touching earpiece
-*   Visibly talking into their microphones
-*   Glazed eyes
-*   Unusual behaviour or demeanour
-*   Trying to avoid the target's gaze
-*   Looking around corners/through windows
-*   Mirroring behaviour
-*   Stopping in unusual places
+## Working in teams
 
-**Identifying Teams**
+If you suspect one person of conducting surveillance, watch them to identify others. 
 
-If you identify one potential surveillance member, you can use that knowledge to identify others. Members of a surveillance team can cross-contaminate other members:
+One person can cross-contaminate another team member by:
 
-*   By speaking directly to them
-*   By looking in their direction
-*    By using hand signals
-*    By appearing or dressing in a similar manner
+*   Speaking to them;
+*   Looking in their direction;
+*   Using hand signals;
+*   Behaving or dressing in a similar manner.
+
 ![image](surveillance3.png)
