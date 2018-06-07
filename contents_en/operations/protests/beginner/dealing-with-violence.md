@@ -20,8 +20,10 @@ Crowds can turn very quickly. Trust your instinct.
 
 *	Natural fibres are less likely to catch fire than synthetic fibres. 
 
-*	Safety glasses, gas masks, or a wet towel over your nose and mouth can help protect your face from tear gas. 
+*	Safety glasses, gas masks, or a wet towel over your nose and mouth can help protect your face from tear gas. Contact lenses and lotion may make the effects of tear gas worse. 
 
 *   Protective vests and caps are available in riot kits.  
+
+*Avoid masks or equipment that make you look like police.*
 
 (Learn more about this in [protective equipment](umbrella://lesson/protective-equipment).)
