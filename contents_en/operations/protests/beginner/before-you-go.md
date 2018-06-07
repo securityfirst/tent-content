@@ -1,11 +1,13 @@
 [Title]: # (Before You Go)
 [Order]: # (6)
 
-# Observing protests
+# Witnessing protests
 
 Protest marches, rallies or unplanned gatherings may be small and self-limiting, or they may escalate and turn into a riot.
 
-Journalists, bloggers, and civilians should prepare before observing, documenting, or covering protests.
+Journalists, bloggers, and civilians should prepare before observing or covering protests.
+
+(Learn about participating in protests in [protests advanced](umbrella://lesson/protests/1).)
 
 ## Preparation
 
@@ -43,6 +45,4 @@ Consider:
 
     *	Attend with someone experienced;
 	*   Get training on safety during civil unrest;
-    *	Hire security personnel. 
-
-
+    *	Hire security personnel.
