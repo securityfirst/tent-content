@@ -23,6 +23,6 @@ Find a safe vantage point, such as an upstairs window (seek permission).
 *	Plan emergency escape routes and meeting points.
 *	Stay alert to crowd behaviour.
 *	Leave as soon as the crowd becomes unpredictable.
-*   Wear loose or outdoor clothing and footwear to move fast, even if there is debris. 
+*   Wear comfortable or outdoor clothing and footwear to move fast, even if there is debris. 
 
 *Do not wear high heels or open-toed shoes.*
