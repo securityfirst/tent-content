@@ -32,4 +32,10 @@ Consider stationary vehicles:
 Two vehicles stopping in the same place may indicate:
 
 *	A watcher is being relieved;
-*   A team with poor discipline is having a chat. 
+*   A team with poor discipline is having a chat.
+
+# Document vehicle descriptions
+
+*	Vehicle registration;
+*	Colour, make, and model;
+*	Unique descriptive features.
