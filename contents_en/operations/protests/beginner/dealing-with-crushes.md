@@ -1,13 +1,28 @@
-[Title]: # (Dealing with Crushes)
+[Title]: # (Crushes)
 [Order]: # (7)
 
-# Dealing with Crushes
+Crowds pressing together in a crush can be dangerous, even to bystanders. 
 
-Crushing in crowds or police charges can be dangerous even as a bystander. You can mitigate the danger by taking the following precautions:
+A police charge, or an unpredictable crowd, can easily cause a crush during a protest.  
 
-*   Take someone else with you. 
-*   Ensure there are good working communication channels between everyone in your team, and that everybody's location is known at all times.
-*   Unless you absolutely need to be in the crowd, retreat to a safe vantage point, e.g. an upstairs window of a nearby building with permission of the owner.
-*   Park vehicles in accessible location, positioned for easy departure. Plan positions including emergency escape routes and fallback plans.
-*	Stay alert to changes in situation and leave if crowd behaviour becomes unpredictable.
-*   Wear clothing and footwear that will enable easy movement around any debris. Do not wear high heels or open toed shoes.
+## Avoid a crush
+
+### Stay together
+
+*   Go in a team; 
+*   Ensure good communication channels;
+*	Ensure everyone's location is known at all times.
+
+### Watch from afar
+
+Find a safe vantage point, such as an upstairs window (seek permission).
+
+### Prepare a getaway
+
+*   Park vehicles in an accessible location for easy departure. 
+*	Plan emergency escape routes and meeting points.
+*	Stay alert to crowd behaviour.
+*	Leave as soon as the crowd becomes unpredictable.
+*   Wear loose or outdoor clothing and footwear to move fast, even if there is debris. 
+
+*Do not wear high heels or open-toed shoes.*
