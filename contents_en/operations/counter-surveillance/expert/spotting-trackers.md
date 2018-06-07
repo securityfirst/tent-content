@@ -1,14 +1,30 @@
-[Title]: # (Spotting Trackers)
+[Title]: # (Trackers)
 [Order]: # (22)
 
-# Spotting Trackers
+A tracker is a device placed on a vehicle to monitor its location.
 
-A tracker is a device placed on a car to monitor its location. This is often used by surveillance teams instead of physically following a person's car.
+Sophisticated trackers monitor the target in real time, and store historical data. Others only reveal the target's route after they are retrieved.
 
-Some trackers (particularly those used by government agencies) allow the surveillance team to track a target in real time and to monitor historical paths. Some trackers only log the journey taken by the target vehicle. They do not allow the surveillance team to track the vehicle live - instead the tracker must be retrieved by the team and analysed on a laptop.
+### You may be at risk if:
 
-You should be particularly aware of the risk of trackers if you think your work is of interest to the authorities and your car is kept in a publicly accessible areas at any time. You should regularly check your car for trackers and particularly before going to any sensitive meetings.
+*	Your movements are of interest to an adversary with resources;
+*	You routinely use the same vehicle and park it somewhere accessible. 
 
-Trackers are usually placed on the base of a car using magnets. They can also be placed in the boot or roof. You need to get right under the car and feel around corners with your hands to do a proper check.
+## Check for trackers
 
-Trackers can be the size of a phone or even smaller. They can also be covered in tape or oil to help disguise it as part of the car.
+1. Regularly;
+2. Before sensitive trips.
+
+### Trackers may be: 
+
+*	Stuck to the underside of a car with magnets; 
+*	In the boot or trunk;
+*	On the roof;
+*	The size of a phone or smaller;
+*	Disguised with tape or oil.
+
+_Get right under the car and feel around corners._
+
+Devices in the vehicle, like a mobile or satellite phone, can also be tracked. 
+
+(Learn more about this in [mobile phones](umbrella://lesson/mobile-phones/0) and [radio and satellite phones](umbrella://lesson/radio-and-satellite-phones/1).) 
