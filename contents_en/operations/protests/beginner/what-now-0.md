@@ -1,10 +1,10 @@
 [Title]: # (What now?)
 [Order]: # (9)
 
-Swipe right for this lesson's checklist
+Swipe right for this lesson's checklist.
 
-Go to the Advanced lesson for advice on partaking in protests as an activist.[Go to Advanced Lesson](umbrella://lesson/protests/1)
+Learn about participating in protests in [Protests Advanced](umbrella://lesson/protests/1).
 
-### RELATED LESSONS/TOOLS
+### RELATED LESSONS
 
-*   [Protective Equipment lesson] (umbrella://lesson/protective-equipment)
+*   [Protective Equipment] (umbrella://lesson/protective-equipment)
