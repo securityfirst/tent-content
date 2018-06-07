@@ -24,6 +24,4 @@ A police charge, or an unpredictable crowd, can easily cause a crush during a pr
 *	Plan emergency escape routes and meeting points.
 *	Stay alert to crowd behaviour.
 *	Withdraw to a safe area if the crowd becomes unpredictable.
-*   Wear comfortable or outdoor clothing and footwear to move fast, even if there is debris. 
 
-*Do not wear high heels or open-toed shoes.*
