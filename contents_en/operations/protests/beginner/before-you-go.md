@@ -20,7 +20,12 @@ Consider:
 	*	When to pull out;
     *	Emergency meeting points.
 
-*   **Protective equipment**
+*   **Clothing and equipment**
+
+	*	Wear comfortable or outdoor clothing and footwear to move fast, even if there is debris. 
+    *	Avoid colours associated with protesters or police. 
+
+*Do not wear high heels or open-toed shoes.*
 
 (Learn more about [Protective Equipment](umbrella://lesson/protective-equipment).)
 
@@ -29,15 +34,16 @@ Consider:
 	*	Supplies;
     *	Basic knowledge or training.
 
-*   **Devices** 
+*   **Filming** 
 
 	*	Select discreet equipment if filming could be dangerous.
+    *	If you have press ID, keep it hidden but accessible. Display it if being mistaken for a protester could be dangerous.
 
 (Learn more about this in [social media] (umbrella://lesson/social-media/0).)
 
-*	**Risk assessment**
+*	**Risk assessments**
 
-	*	For large protests.
+Conduct a specific risk assessement before attending large protests. 
 
 (Learn more about this in [preparation](umbrella://lesson/preparation) and [managing information](umbrella://lesson/managing-information).) 
 
