@@ -13,6 +13,8 @@ If you confirm you are under surveillance, you have three options:
 
 1.	**Change your plans (safe, recommended)** 
 
+For example, ask your team to meet you at a neutral location where you can safely lead a watcher. 
+
 This allows you to: 
 
 *	Keep your original plan secure;
@@ -37,3 +39,8 @@ Be aware that this strategy may:
 
 *	Confirm that you don't want to be watched;
 *	Increase the likelihood of further surveillance.
+
+*Consider leading a watcher to a police station if you anticipate a serious incident and are not at risk from the police. This will depend on your threat model.*
+
+(Learn more about this in [managing information.] (umbrella://lesson/managing-information))
+
