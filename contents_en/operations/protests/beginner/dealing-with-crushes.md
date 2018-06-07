@@ -15,14 +15,15 @@ A police charge, or an unpredictable crowd, can easily cause a crush during a pr
 
 ### Watch from afar
 
-Find a safe vantage point, such as an upstairs window (seek permission).
+*	Find a safe vantage point, such as an upstairs window (seek permission).
+*	Stand to the side of the protest. Avoid the middle. 
 
 ### Prepare a getaway
 
 *   Park vehicles in an accessible location for easy departure. 
 *	Plan emergency escape routes and meeting points.
 *	Stay alert to crowd behaviour.
-*	Leave as soon as the crowd becomes unpredictable.
+*	Withdraw to a safe area if the crowd becomes unpredictable.
 *   Wear comfortable or outdoor clothing and footwear to move fast, even if there is debris. 
 
 *Do not wear high heels or open-toed shoes.*
