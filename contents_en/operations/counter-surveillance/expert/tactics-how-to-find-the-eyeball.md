@@ -1,24 +1,43 @@
-[Title]: # (Tactics: How to find the eyeball)
+[Title]: # (Identify the eyeball)
 [Order]: # (20)
 
-# Tactics: How to find the eyeball
+The eyeball is whoever is watching you at the time. 
 
-When looking for repeat sightings in a vehicle, use the following tactics if safe to do so:
+(Learn more about this in [counter-surveillance advanced] (umbrella://lesson/counter-surveillance/1).)
 
-*   Look for repeat sightings
-*   Use a false indicator
-*   Drive fast / slow
-*   Stop suddenly (try to have a reason for this - such as pulling in at a petrol station at the very last minute or taking a mobile phone call)
-*   U-turn
-*   Move into a filter lane turning right and at the last minute continue straight
-*   Stop immediately after taking a left turn - will force others to overtake
-*   Change lanes
-*   Turn into a dead end
-*   Enter onto a fast road such as a dual carriageway/motorway and then come off it quickly
-*   Exit a dual carriageway/motorway and then come straight back onto it again
-*   Use your mirrors
-*   Create opportunities to look around
-*   Stretch out the team
-*   Create opportunities (if absolutely vital) to evade a surveillance team
+## Only act if it is safe to do so while driving
 
-If the political environment allows, pull in to a police station or ring colleagues/ backup to meet you at a designated spot where you can aim to safely lead any potential surveillance team members which you haven't broken contact with.
+### Create natural opportunities to look for repeat sightings of a person or vehicle.
+
+*   Use your mirrors;
+
+*   Drive faster or slower;
+
+*	Change lanes;
+
+*   Indicate or change lanes as if to turn, but don't actually turn;
+
+*	Make a U-turn;
+
+*	Turn into a dead end;
+
+*	Drive onto a motorway or highway, then take the next exit;
+
+*	Exit a motorway or highway, then turn back onto it again.
+
+*	If in a team, spread out.
+
+### Create natural opportunities to stop unexpectedly.
+
+*   Fill the tank;
+
+*	Take a phone call;
+
+*   Stop immediately after taking a turn to force others to overtake
+
+*Only create opportunities to evade surveillance if absolutely vital.* 
+
+
+
+
+
