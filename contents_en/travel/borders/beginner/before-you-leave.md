@@ -38,13 +38,15 @@ This may depend on:
  
 (Learn about identifying and organising information in [backing up](umbrella://lesson/backing-up).)
 
-## Remember:
+## Protect your information
 
-### Only carry information you really need.  
+### Only carry what you really need.  
 
-	* Delete non-essential information from devices.  
-	* Back up information securely before travel.
-    * Carry sensitive information securely. 
+* Delete non-essential information from devices.  
+* Back up information securely and remotely before travel.
+* Carry sensitive information securely. (If necessary, keep a small USB stick or microSD card somewhere harder to find.)
+
+(Learn about [backing up](umbrella://lesson/backing-up), [safely deleting](umbrella://lesson/safely-deleting), and [protecting files](umbrella://lesson/protecting-files).)
 
 ### Carry sensitive information and equipment in hand luggage.
 If sensitive items are with you, you will know if they have been tampered with. 
