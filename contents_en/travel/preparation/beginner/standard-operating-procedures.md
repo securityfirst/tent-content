@@ -16,7 +16,7 @@ If required, inform authorities or embassies of your travel plans.
 
 *	Create a communication schedule. 
 
-Check in regularly with someone who is not travelling with you and can provide support in an emergency.
+Check in regularly with someone who is not travelling with you and can provide support if you fail to check in due to an emergency.
 
 *   Establish curfews, deadlines, and no-go areas. 
 
