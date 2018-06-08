@@ -5,7 +5,7 @@
 
 Protest marches, rallies or unplanned gatherings may be small and self-limiting, or they may escalate and turn into a riot.
 
-Journalists, bloggers, and civilians should prepare before observing or covering protests.
+Journalists and civilians should prepare before observing or covering protests.
 
 (Learn about participating in protests in [protests advanced](umbrella://lesson/protests/1).)
 
@@ -19,6 +19,8 @@ Consider:
 
 	*	When to pull out;
     *	Emergency meeting points.
+
+_Remember: telecommunications networks may be overloaded or shut down in a crisis._
 
 *   **Clothing and equipment**
 
