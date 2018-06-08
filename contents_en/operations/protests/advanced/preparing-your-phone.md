@@ -17,22 +17,6 @@ _This is a barrier to most, but not to expert analysts._
 
 (Learn [basic security for Android](umbrella://lesson/android) and [encrypt your iPhone] (umbrella://lesson/encrypt-your-iphone).)
 
-## Use secure tools
-
-*   **To communicate:**  
-
-Install Signal for [Android](umbrella://lesson/signal-for-android) and [iOS](umbrella://lesson/signal-for-ios).) 
-
-(Learn about [sending a message](umbrella://lesson/sending-a-message).) 
-
-*   **To share photos and videos:** 
-
-Install [ObscuraCam](umbrella://lesson/obscuracam).
-
-(Learn more about this in [social media](umbrella://lesson/social-media/0).)
-
-*   **For emergencies:** Panic Button (Android only)
-
 ## Emergency communication
 
 *	**Write an emergency number on your body** 
@@ -86,5 +70,3 @@ If you have sensitive information on your phone, or need to conceal your presenc
 *	You would not mind losing. 
 
 (Learn more about this in [mobile phones](umbrella://lesson/mobile-phones).)
-
-
