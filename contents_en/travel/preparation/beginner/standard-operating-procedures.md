@@ -20,6 +20,16 @@ Check in regularly with someone who is not travelling with you and can provide s
 
 *   Establish curfews, deadlines, and no-go areas. 
 
+*	Arrange to be met on arrival in insecure locations or high-crime areas like airports and stations. 
+
+In order of preference, choose:
+
+*	Someone you know;
+*	A pre-booked service including driver name and vehicle registration (check identification);
+*	Official taxi with a meter.
+
+*Risks of local taxis vary by country.*
+
 ## Information security 
 *    Prepare a cover story for airports and elsewhere. 
 
@@ -42,7 +52,7 @@ Check in regularly with someone who is not travelling with you and can provide s
 *	Have an alternative plan to exit the country. 
 
 	* Carry extra passport-size photos for emergency documents. 
-	* Do you need a 'stand-by' visa for a neighbouring country?
+	* Do you need a standby visa for a neighbouring country?
 		         
 ## Create a constant companion
 
