@@ -1,4 +1,4 @@
-[Title]: # (What is Internet Censorship)
+[Title]: # (What is Internet Censorship?)
 [Order]: # (3)
 
 Many governments, companies, schools, and public access points prevent Internet users from accessing certain information.
@@ -21,3 +21,6 @@ Internet beginner outlines circumvention.
 
 [Internet expert](umbrella://lesson/the-internet/2) outlines how to test and collect evidence of censorship. 
 
+If you are an activist, independent journalist, or civil society actor experiencing censorship of your website or social media accounts, contact Access Now's [Digital Security Helpline](https://www.accessnow.org/help/#contact-us).
+
+(Learn more about this in [Emergency Support](umbrella://lesson/emergency-support).)
