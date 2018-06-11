@@ -33,9 +33,9 @@ _Avoid exchanging clothes with kidnappers which may make it harder for rescuers 
 *	Do not threaten to testify or retaliate; 
 *	Do not indicate that you recognise kidnappers who are concealing their identity.
 
-## Stay alert
+## Take mental notes 
 
-Taking mental notes may help establish communication, monitor potential risks, and help the authorities after your release.
+Look for information that may help establish communication, monitor potential risk, and help the authorities after your release.
 
 *   Note kidnapper mannerisms, behaviour, speech, clothes, rank, etc;
 *	Try to understand their attitude and intentions.
