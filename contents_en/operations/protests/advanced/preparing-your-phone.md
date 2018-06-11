@@ -33,7 +33,9 @@ Draft a message to a trusted ally. Send it if your device may be seized.
 
 Create a commnications schedule with someone who is not attending the protest and can provide support if you fail to check in due to an emergency or arrest.
 
-_Remember: telecommunications networks may be overloaded or shut down in a crisis._
+_Remember: telecommunications networks and mobile apps may be overloaded or shut down in a crisis._
+
+(Learn more about this in [Internet](umbrella://lesson/the-internet/0).)
 
 ## Protect your information
 
