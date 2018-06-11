@@ -6,6 +6,8 @@ Swipe right for this lesson's checklist.
 ### RELATED LESSONS/TOOLS
 
 *   [Preparation](umbrella://lesson/preparation)
+*	[Protests] (umbrella://lesson/protests/1)
+
 
 ### FURTHER READING
 
