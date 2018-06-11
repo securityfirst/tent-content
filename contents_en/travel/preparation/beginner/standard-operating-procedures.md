@@ -43,6 +43,10 @@ In order of preference, choose:
        
 (Learn about [backing up](umbrella://lesson/backing-up), [safely deleting](umbrella://lesson/safely-deleting), and [protecting files](umbrella://lesson/protecting-files).)
 
+*	Establish protocols for detention or questioning.
+
+(Learn about [arrests](umbrella://lesson/arrests).)
+
 *	Schedule security or equipment training if required. 
 
 (Learn about guidelines and policies for [vehicles](umbrella://lesson/vehicles).)
@@ -76,4 +80,4 @@ Consider:
 
 *   Schedule personal security training if necessary. 
 
-(Learn about [arrests](umbrella://lesson/arrests) and [kidnapping](umbrella://lesson/kidnapping).)
+(Learn about [kidnapping](umbrella://lesson/kidnapping).)
