@@ -11,6 +11,8 @@ Download Signal for:
 *	[iPhone](https://itunes.apple.com/ie/app/signal-private-messenger/id874139669); 
 *	[Desktop] (https://signal.org/download/). 
 
+The person you are communicating with must also install Signal.
+
 (Learn about [making a call](umbrella://lesson/making-a-call).)
 
 ## Your phone number is your Signal username. 
