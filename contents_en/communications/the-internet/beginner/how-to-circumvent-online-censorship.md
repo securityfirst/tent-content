@@ -1,28 +1,32 @@
 [Title]: # (How To Circumvent Censorship)
 [Order]: # (4)
 
-# Blocking and filtering
+## Blocking and filtering
 
-Many governments, companies, schools, and public access points use software to prevent Internet users from accessing certain websites and services. 
-
-This is a form of censorship. 
-
-Depending on the method used, censorship can block: 
-
-*	Websites or pages;
-*	Keywords or images; 
-*	Search results;
-*	Platforms like Facebook.  
+Governments and Internet service providers (ISPs) use software to block specific web addresses (URLs) or filter pages containing certain keywords. 
 
 ![image](internetb1.png)
 
-# Circumvention. 
-
-Circumvention bypasses censorship. There are many different circumvention tools. Some are more secure than others.
-
-(Learn to stay anonymous online in [Internet Advanced] (umbrella://lesson/the-internet/1).)
+There are many tools to circumvent blocking and filtering. Some are more secure than others.
 
 The tool that is most appropriate for you depends on your threat model. 
 
-(Learn to assess your threat model in the [managing information](umbrella://lesson/managing-information) lesson.)  
+(Learn more about this in [managing information](umbrella://lesson/managing-information).)
 
+# When circumvention doesn't work
+
+Circumvention will not work if the information you are looking for has been removed, or if the Internet connection has been shut down. 
+
+Appeal to the company involved, or conduct public advocacy, to challenge deletion or shutdowns.   
+
+## Deletion
+
+Internet companies may remove information if it violates their terms, or if authorities or other users complain. 
+
+(Learn about [social media](umbrella://lesson/social-media/0).)
+
+## Shutdowns
+
+Telecommunications companies may shut down mobile phone service, SMS messages, or mobile internet completely in one area, often following orders from local authorities. 
+
+(Learn more about this in [Internet expert](umbrella://lesson/the-internet/2).)
