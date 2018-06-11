@@ -1,16 +1,16 @@
 [Title]: # (Questioning)
 [Order]: # (3)
 
-### Authorities may use established techniques to question you. 
+Authorities may use established techniques to question you.
 
 ## Questioning techniques
 
-*   Open with trivial questions then shifting to sensitive questions when they started you talking.
+*   Opening with trivial questions then shifting to sensitive questions when they started you talking.
 
-*   Threaten, then reducing the threat ("good cop, bad cop").
+*   Threatening, then reducing the threat ("good cop, bad cop").
 
-*   Physical intimidation.
+*   Intimidating you.
 
-*   Ask the same questions repeatedly or ask you to describe events backwards to test your consistency. 
+*   Asking the same questions repeatedly or asking you to describe events backwards to test your consistency. 
 
-*   Claim others have made allegations or produced evidence against you. Don't voluntarily confirm what they describe. 
+*   Claiming others have made allegations or produced evidence against you. Don't voluntarily confirm what they say.
