@@ -7,7 +7,7 @@ Protest marches, rallies or unplanned gatherings may be small and self-limiting,
 
 Journalists and civilians should prepare before observing or covering protests.
 
-(Learn about participating in protests in [protests advanced](umbrella://lesson/protests/1).)
+(Learn about organising or participating in protests in [protests advanced](umbrella://lesson/protests/1).)
 
 ## Preparation
 
@@ -20,7 +20,9 @@ Consider:
 	*	When to pull out;
     *	Emergency meeting points.
 
-_Remember: telecommunications networks may be overloaded or shut down in a crisis._
+_Remember: telecommunications networks and mobile apps may be overloaded or shut down in a crisis._
+
+(Learn more about this in [Internet](umbrella://lesson/the-internet/0).)
 
 *   **Clothing and equipment**
 
@@ -29,7 +31,7 @@ _Remember: telecommunications networks may be overloaded or shut down in a crisi
 
 *Do not wear high heels or open-toed shoes.*
 
-(Learn more about [Protective Equipment](umbrella://lesson/protective-equipment).)
+(Learn more about [protective equipment](umbrella://lesson/protective-equipment).)
 
 *   **First aid**
 
