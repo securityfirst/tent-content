@@ -17,3 +17,4 @@ Learn how to stay anonymous online in [Internet Advanced](umbrella://lesson/the-
 ### FURTHER READING
 
 *	Access Now, [Fighting censorship during the 2018 elections season](https://www.accessnow.org/fighting-censorship-in-2018-elections/). 
+*	OONI, [Investigating Internet Blackouts from the Edge of the network: OONI's new upcoming methodology](https://ooni.torproject.org/post/investigating-internet-blackouts/).
