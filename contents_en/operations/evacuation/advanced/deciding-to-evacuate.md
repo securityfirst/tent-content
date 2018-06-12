@@ -36,4 +36,10 @@ It may be tempting to delay if:
 ### Delay is a high-risk strategy
 
 *	It may become impossible to leave.
-*	A serious security incident may force you to leave, making return harder.  
+*	A serious security incident may force you to leave, making return harder.
+
+## Self-evacuation 
+
+*	If you are in a remote area or are isolated during a crisis, use your judgement and evacuate if your safety is threatened.  
+
+*	Communicate with your team or outside support.
