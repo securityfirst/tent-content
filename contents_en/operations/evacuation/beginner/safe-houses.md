@@ -55,6 +55,8 @@ Consider:
 *   Sufficient cash;
 *   Items to reduce stress (e.g. books, magazines, TV, board games, games consoles etc.)
 
+(Learn about [stress](umbrella://lesson/stress/0).)
+
 ## Waste
 
 Shred, burn, or destroy waste that may reveal information about you or the safe house.
