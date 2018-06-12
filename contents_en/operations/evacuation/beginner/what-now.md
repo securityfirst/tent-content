@@ -3,6 +3,8 @@
 
 Swipe right for this lesson's checklist.
 
+Learn about pre-evacuation, evacuation, and return in [evacuation advanced](umbrella://lesson/evacuation/1). 
+
 ### RELATED LESSONS/TOOLS
 
 *   [Backing Up](umbrella://lesson/backing-up)

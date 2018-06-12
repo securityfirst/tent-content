@@ -1,12 +1,15 @@
 [Title]: # (Hate speech against women)
 [Order]: # (2) 
 
-> "[Anonymous online harassment] discourages women from writing and earning a living online. It interferes with their professional lives. It brands them as incompetent workers and inferior sexual objects." Danielle Keats Citron, US lawyer 
+Women with visibility on the internet receive a disproportionate amount of hateful speech because the internet remains a male-dominated space. 
 
+Women's visibility in online spaces challenges gender inequality and male privilege.
 
-Women with visibility on the internet receive a disproportionate amount of abuse because the internet remains a male-dominated space. Women's visibility in online spaces challenges gender inequality and male privilege.
+(Learn about [gender-based violence online](umbrella://lesson/social-media/2)) 
 
-The goal of abusers is to intimidate and silence female commentators to preserve the status quo.
+## The goal of abuse
+
+Abusers seek to intimidate and silence female commentators to preserve the status quo.
 
 *	Hate speech is directed at journalists, bloggers and activists simply because they are women. 
 
@@ -18,4 +21,18 @@ The goal of abusers is to intimidate and silence female commentators to preserve
 
 *	Online attacks discourage women from writing, earning a living, and participating in public life on the internet. 
 
-Everyone needs to speak up about the discrimination faced by women online.
+## Speak up
+
+Everyone needs to work to end the discrimination faced by women online.
+
+*	Document and acknowledge the problem.
+
+*Read more: [Anita Sarkeesian's Guide to Internetting While Female](https://www.marieclaire.com/culture/news/a13403/online-harassment-terms-fight-back/)*
+
+*	Offer support.
+
+*Read more: PEN America, [Best Practices for Allies and Witnesses] (https://onlineharassmentfieldmanual.pen.org/best-practices-for-allies-and-witnesses/)*
+
+*	Demand more from people with responsibility.
+
+*Read more: Amnesty International, [Toxic Twitter: A toxic place for women] (https://www.amnesty.org/en/latest/research/2018/03/online-violence-against-women-chapter-1/#topanchor)*

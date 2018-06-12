@@ -1,12 +1,43 @@
-[Title]: # (The Meeting Itself)
+[Title]: # (At The Meeting)
 [Order]: # (4)
 
-# The Meeting Itself
+## If ordering food
 
-It is important to keep control of the flow of the meeting. After introductions you should begin by mentioning security to the person: agree on your alternate time and place for the meeting if a problem occurs; let them know what you can and cannot do to help them if there is a problem; agree on a discreet signal in case there is a problem.
+*	Choose something small. Avoid long meals;
+*	Pay in cash to protect your identity;
+*	Pay up front if you can to leave quickly.
+*	Do not let service staff overhear your meeting.
 
-Avoid ordering meals and pay for what you do get straight away and in cash - This avoids your identification and allows you to make a speedy exit if needed.
+## Stay alert
 
-Observe people who enter after the person you are meeting, as well as anyone who sits close to you - use knowledge of surveillance teams to assess them. Always trust your instincts - prepare to leave immediately if you feel something is not right.
+*	Continue to monitor the meeting place
+*	Trust your instincts;
+*	Be prepared to leave immediately if something is not right.
 
-Avoid incriminating yourself. If possible, avoid writing on paper - you can always ask for details to be sent via encrypted email later. (See the [Email lesson](umbrella://lesson/email) for advice on how to send encrypted email.) If notes are necessary, try not to write anything sensitive in the first ten minutes and in general keep the amount of sensitive notes you take/actually record to a minimum whenever possible. Consider using codenames (esp. for testimony or sensitive information). When finished with your notes, always remember to destroy them safely and dispose of it in places away from the meeting location. Do not let waitresses or waiters overhear your conversation.
+## Share security strategies
+
+If participants are not already briefed: 
+
+*	Raise security early, after introductions;
+*	Agree an alternate time and meeting place if plans change;
+*	Agree a discreet signal to alert others if something is wrong;
+*	Convey what you can and cannot do to help if there is a problem; 
+*	Control discussion and use time efficiently. 
+
+## Protect information 
+
+*	Ask for digital publications, links, or emails instead of paper;
+
+(Learn about [email](umbrella://lesson/email/1).) 
+
+*	If notes are necessary, use codes that only you understand to obscure names or other sensitive information. Try not to write anything sensitive in the first ten minutes. 
+
+*	Protect sensitive recordings and files;
+
+(Learn about [Protecting Files] (umbrella://lesson/protecting-files).)  
+
+*	Destroy sensitive notes in a neutral location. 
+
+(Learn more about this in [borders](umbrella://lesson/borders).)
+
+

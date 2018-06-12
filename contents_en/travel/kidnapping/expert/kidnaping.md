@@ -1,6 +1,10 @@
-[Title]: # (Kidnapping)
+[Title]: # (Seek help)
 [Order]: # (13)
 
-Dealing with the kidnapping of a member of staff is a very sensitive and complex task. This lesson provides only the basic outline for recommended actions.
+# If a colleague or staff member is kidnapped
 
-**If one of your staff is kidnapped we highly recommend reading the detailed advice given in the 'Further Reading' links at the end of this lesson.**
+Dealing with the kidnapping of a member of staff is a very sensitive and complex task. 
+
+This lesson provides an overview of recommended actions.
+
+**For detailed advice, see Further Reading at the end of the lesson.**

@@ -1,21 +1,41 @@
-[Title]: # (Tactics: Chokepoints)
+[Title]: # (Choke points and handovers)
 [Order]: # (21)
 
-# Tactics: Chokepoints
+# Choke points
 
-Chokepoints are areas that anyone following you must pass through, and so allow for better observation and filtering of potential surveillance. Some naturally occurring chokepoints could be:
+Choke points are slow to pass through, and make it more likely that a watcher will expose their position.  
 
-*   Small relatively deserted laneway/alleyway with few paralleling lanes/roads
-*   Traffic lights
-*   Roundabouts
-*   Road junctions
-*   One way streets
-*   Car park entrances/exits
-*   Toll booths
-*   Quiet roads
-*   Long straight roads
-*   Road works
+Pass through a choke point to observe who follows you.  
 
-If using a roundabout as a chokepoint, try to record up to 10 of the vehicles following the vehicle which is potentially under surveillance  - Try to note the registration and description (colour, make, model, unique descriptive features, number of occupants, presence of radios etc.) This is because a handover to another car may take place here - so another person would now have the target in their line of sight. 
+## Naturally occurring choke points 
 
-Look for a handover: When turning, look for vehicles (or people on foot) who might match the profile of surveillance team members but then continue straight.
+*   Narrow lanes or alleys;
+*   Quiet roads;
+*   Long, straight roads;
+*   Traffic lights;
+*   Roundabouts;
+*   Road junctions;
+*   One-way streets;
+*   Car parks;
+*   Toll booths;
+*   Road works.
+
+Avoid choke points that may represent a security risk. 
+
+(Learn more about this in [vehicles](umbrella://lesson/vehicles).) 
+
+# Handovers
+
+A surveillance team using more than one vehicle may switch off. Choke points and stops are opportunities for a handover.  
+
+If you are working in a team, or it is safe to observe:
+
+*	Note up to 10 of the vehicles that follow the target through a choke point. 
+
+*	When turning, look for possible watchers who continue straight.
+
+*	Look for 3 repeat sightings of the same vehicle.
+
+
+
+

@@ -1,8 +1,30 @@
 [Title]: # (Termination/Release)
 [Order]: # (4)
 
-This will come through release, rescue or escape (as a last resort only).
+## Release
 
-*   If released, obey all instructions from your abductors.
-*   If rescue is attempted by force lie on the floor, put hands over your head, do not try to identify yourself until appropriate to do so.
-*   Escape should only be considered if you are sure it will succeed, or if it is imperative in order to save your life, otherwise it may create more danger. If in a group it may endanger the lives of others and may frustrate rescue activities. If you are caught you are likely to be held in harsher conditions than before.
+If released: 
+
+*   Obey all instructions from your abductors.
+
+## Rescue
+
+If rescue is attempted by force:
+	*	Lie on the floor;
+    *	Put hands over your head; 
+    *	Do not try to identify yourself until appropriate to do so.
+    
+## Escape (last resort only)
+
+Escape may:
+
+*	Create more danger;
+*	Endanger the lives of others, if in a group;
+*	Frustrate rescue activities. 
+
+_If you are caught you are likely to be held in harsher conditions than before._
+
+Only consider escape if:
+
+*   You are sure it will succeed; 
+*	It is imperative in order to save your life. 

@@ -1,13 +1,32 @@
 [Title]: # (On Approach)
 [Order]: # (1)
 
-*   Slow down
-*   Turn radios down low or off
-*   Keep valuables out of sight
-*   Roll window down low enough for civil conversation, but difficult to put hand inside car
-*   During day, remove sunglasses
-*   After dark, turn light inside the cabin on and headlights off
-*   Be ready with your ID documents
-*   Have one person who is prepared to talk on behalf the group: Agree where you have come from/ Where you are going/ Who you work for
-*   Keep a reasonable distance between vehicles
-*   Be sure you understand the signals given by checkpoint personnel (e.g. are they waving me on or into the side of the road?). Stop if unsure.
+## On seeing a checkpoint
+
+*	Discreetly inform your team or your base that you are approaching a checkpoint. 
+*	If possible, communicate at a distance. 
+
+*Limit sudden movement, like reaching for a communications device, in view of the checkpoint.*  
+
+## Prepare the vehicle
+
+*   Slow down.
+*   Place valuables out of sight.
+*   After dark, turn cabin light on and headlights off. 
+*   Keep a reasonable distance between vehicles.
+*   Open the window far enough for conversation, not far enough for someone to reach in. 
+*   Follow signals given by checkpoint personnel.
+*	Stop if unsure (e.g. are they waving me on or into the side of the road?). 
+
+## Prepare yourself.
+
+*   During the day, remove sunglasses. 
+*   Prepare your ID. 
+*	Agree your cover story.
+	* Where have you come from? 
+    * Where you are going?
+    * Who do you work for?
+    * What is the vehicle carrying?  
+*   Choose a spokesperson. 
+
+(Learn more about cover stories in the [borders](umbrella://lesson/borders) lesson.)  

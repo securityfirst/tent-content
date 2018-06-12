@@ -16,21 +16,36 @@ If required, inform authorities or embassies of your travel plans.
 
 *	Create a communication schedule. 
 
-Check in regularly with someone who is not travelling with you and can provide support in an emergency.
+Check in regularly with someone who is not travelling with you and can provide support if you fail to check in due to an emergency.
 
 *   Establish curfews, deadlines, and no-go areas. 
 
-## Security measures 
+*	Arrange to be met on arrival in insecure locations or high-crime areas like airports and stations. 
+
+In order of preference, choose:
+
+*	Someone you know;
+*	A pre-booked service including driver name and vehicle registration (check identification);
+*	Official taxi with a meter.
+
+*Risks of local taxis vary by country.*
+
+## Information security 
 *    Prepare a cover story for airports and elsewhere. 
 
-(Learn how to cross [borders](umbrella://lesson/borders) and [checkpoints](umbrella://lesson/checkpoints).)
+(Learn about [borders](umbrella://lesson/borders) and [checkpoints](umbrella://lesson/checkpoints).)
 
 *   Only carry information you really need.  
-		* Delete non-essential information from devices.  
-		* Back up information securely before travel.
-        * Carry sensitive information securely. 
+
+	* Delete non-essential information from devices.  
+	* Back up information securely before travel.
+    * Carry sensitive information securely. 
        
 (Learn about [backing up](umbrella://lesson/backing-up), [safely deleting](umbrella://lesson/safely-deleting), and [protecting files](umbrella://lesson/protecting-files).)
+
+*	Establish protocols for detention or questioning.
+
+(Learn about [arrests](umbrella://lesson/arrests).)
 
 *	Schedule security or equipment training if required. 
 
@@ -39,14 +54,15 @@ Check in regularly with someone who is not travelling with you and can provide s
 # 2. The backup plan
 
 *	Have an alternative plan to exit the country. 
-		* Carry extra passport-size photos for emergency documents. 
-		* Do you need a 'stand-by' visa for a neighbouring country?
+
+	* Carry extra passport-size photos for emergency documents. 
+	* Do you need a standby visa for a neighbouring country?
 		         
-## Create a constant companion
+## Create a constant companion and a grab bag
 
-A "constant companion" contains everything you need for evacuation. 
+A constant companion contains essentials in case of evacuation or emergency. 
 
-(Learn more about [evacuation](umbrella://lesson/evacuation).)
+(Learn about [evacuation](umbrella://lesson/evacuation).)
 
 Consider: 
 *	Cash;
@@ -54,9 +70,11 @@ Consider:
 *	Emergency names and contact information;
 *	Reputable hotels or other emergency destinations.
 
-### Carry your constant companion on your person at all times. 
+**Carry your constant companion on your person at all times.** 
 
-(Learn about grab bags in [protective equipment](umbrella://lesson/protective-equipment).)
+A grab bag contains personal belongings in case of evacuation or emergency. 
+
+(Learn more about this in [protective equipment](umbrella://lesson/protective-equipment).)
 
 ## Prepare for serious security incidents
 
@@ -64,4 +82,4 @@ Consider:
 
 *   Schedule personal security training if necessary. 
 
-(Learn about [arrests](umbrella://lesson/arrests) and [kidnapping](umbrella://lesson/kidnapping).)
+(Learn about [kidnapping](umbrella://lesson/kidnapping).)

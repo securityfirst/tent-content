@@ -1,7 +1,7 @@
 [Title]: # (Access sites securely)
 [Order]: # (0.1)
 
-# HTTPS
+# Use HTTPS
 
 Look for http:// at the start of the web address before you access social media sites. 
 
@@ -9,15 +9,12 @@ HTTPS is the secure version of the HTTP protocol used to access websites. It enc
 
 Using https:// stops people from intercepting your username, password and any other information you post. 
 
-(Use HTTPS whenever you use the [internet](umbrella://lesson/the-internet/0). and send [email](umbrella://lesson/email/0).) 
+(Use HTTPS whenever you use the [Internet](umbrella://lesson/the-internet/0). and send [email](umbrella://lesson/email/0).) 
 
 Never access social media from:
 
 *	A device or a network that you don't trust; 
 *	A device that could host malware;
-*	A public computers that may store your password or browsing history.
+*	A public computer that may store your password or browsing history.
 
 (Learn how to check for [malware](umbrella://lesson/malware/0).)
-
-
-

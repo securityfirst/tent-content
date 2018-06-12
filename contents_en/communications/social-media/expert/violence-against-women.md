@@ -12,3 +12,7 @@ Preventing online violence against women is not in opposition to free speech, bu
 For example, if you're silenced primarily because of a private demonstration of sexuality, the blackmailers are trying to punish or control you using the censure and shame our patriarchal societies put on women and their naked bodies. 
 
 Women have a right to be sexual; when we stop shaming women's sexuality, so-called 'revenge porn' will diminish in power.
+
+> *"[Anonymous online harassment] discourages women from writing and earning a living online. It interferes with their professional lives. It brands them as incompetent workers and inferior sexual objects."* Danielle Keats Citron, US lawyer 
+
+((Learn about [hate speech against women](umbrella://lesson/social-media/2)) 

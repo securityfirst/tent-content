@@ -1,24 +1,31 @@
 [Title]: # (Five Rules of Counter-Surveillance)
 [Order]: # (3)
 
-# Five Rules of Counter-Surveillance
+## 1 is the trigger
 
-### 1. Trigger
+The trigger: 
+*	Alerts the surveillance team when the target is on the move. 
+*	Is the easiest member of the team to identify.
 
-This is the person who initially alerts the rest of the surveillance team when the target is on the move. The easiest person to find.
+## 10 to 2
 
-### 2. 10 to 2 O'Clock
+*	Your eyeline falls between 10 and 2 on an imaginary clock face. 
+*	Surveillance teams try to avoid your eyeline.
 
-The person carrying out the surveillance will try to stay out of the 10 to 2 O'Clock positions of vision: the immediate eye line of the person they have put under surveillance.
+## 3 sightings
 
-### 3. 3 times
+Look for 3 repeat sightings of the same unexpected person to confirm that you are under surveillance.
 
-This is the number of sightings of a surveillance team member you are aiming to achieve before you can confirm that you are under surveillance.
+## 4 sides, 3 stops
 
-### 4. 3 sides of a square
+Filter out coincidental sightings on 3 sides of a square.
 
-This is the minimum number of turns you take to filter and reduce the possibility of seeing the same person by coincidence.
+*	Make 3 unscheduled turns (move in a square instead of a line).   
+*	Make unscheduled stops on 3 sides of the square.  
 
-### 5. Breaking the box
+## 5 breaks the box
 
-This is the process of breaking out of the surveillance a team will try to keep you in. By breaking the box you increase the likelihood that they will make mistakes which you can observe and use to identify them.
+Surveillance teams may surround you by positioning themselves on the corners of an imaginary box. Keeping you in the box makes you easier to follow, because it covers all possible directions you might move in. 
+
+*	Strike out in an unexpected direction to break the box.
+*	Watch for the team to make mistakes while they adapt.

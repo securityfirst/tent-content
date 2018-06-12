@@ -1,11 +1,12 @@
 [Title]: # (Medical)
 [Order]: # (4)
 
-# Take medical precautions
+# Precautions
 
 *	Obtain insurance and check what it covers.
 
 *   Get advice for your destination, including: 
+
 		*	Health and hygiene;
 		*	Vaccinations;
         *	Malaria prophylaxis.
@@ -16,10 +17,10 @@
 
 *	Obtain first aid kits and training if necessary. 
 
-> "Basic health and hygiene precautions greatly reduce
-the chances of illness." ECHO, Generic Security Guide for Humanitarian Organisations
+> *"Basic health and hygiene precautions greatly reduce
+the chances of illness." ECHO, Generic Security Guide for Humanitarian Organisations*
 
-# Plan for medical emergencies 
+# Plan for emergencies 
 
 *   Inform your team of medical conditions, emergency contacts, and treatment needed in an emergency.
 
@@ -39,7 +40,3 @@ Consider including:
 *Note: some facilities may require cash payment.*
 
 *	Establish medical evacuation procedures if necessary.
-
-
-
-

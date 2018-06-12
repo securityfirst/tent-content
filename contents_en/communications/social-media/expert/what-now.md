@@ -18,3 +18,4 @@ Learn about hate speech in [Social Media Advanced](umbrella://lesson/social-medi
 
 *   Take Back the Tech, [Blackmail](https://www.takebackthetech.net/know-more/blackmail).
 *   Take Back the Tech, [Cyberstalking](https://www.takebackthetech.net/know-more/cyberstalking)
+*	PEN America, [Online Harassment Field Guide](https://onlineharassmentfieldmanual.pen.org/)

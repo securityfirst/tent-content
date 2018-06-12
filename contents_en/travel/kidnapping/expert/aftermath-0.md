@@ -1,11 +1,21 @@
 [Title]: # (Aftermath)
 [Order]: # (17)
 
-*   Attend to the needs of the victim, including making arrangements for them to speak to their loved ones and for their physical reunion.
+## Help the victim
+
+*   Attend to the victim's medical and emotional needs;
+*	Enable communication and reunion with loved ones;
+*	Arrange time off with full pay and benefits.
+* 	Facilitate appropriate professional counselling and long-term support.
+*   Specific preparations need to be made in case of a negative outcome.
+
+## Debrief
+
 *   Arrange for the authorities to meet and interview the victim.
 *   Manage the press; organise a short press conference with the victim and/ or their family, and retain control over press contacts.
 *   Arrange for a debriefing with the organisation.
-*   Arrange time off, with full insurance coverage and no loss of income.
-*   Arrange for professional and appropriate counseling and long-term support mechanisms.
-*   Specific preparations need to be made in case of a negative outcome.
-*   Once a kidnap incident is resolved, conduct an after-action review, to see what lessons can be learned.
+
+## Evaluate
+
+*   Conduct an after-action review;
+*	Use lessons learned to refine future security management.

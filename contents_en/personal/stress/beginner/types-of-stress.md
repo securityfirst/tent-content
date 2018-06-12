@@ -1,19 +1,41 @@
 [Title]: # (Types of Stress)
 [Order]: # (5)
 
-# Types of Stress
+# Not all stress is bad 
 
-Stress is a natural reaction, and it can be positive and stimulating. Not all stress is bad. There are different types of stress, both healthy and unhealthy. Healthy stress helps people focus on the task at hand, mobilises energy and prepares them for action. When stress occurs too often, however, or is too intense or lasts too long, it turns from positive to negative.
+Stress is a natural reaction, and it can be positive and stimulating. 
+
+**Healthy stress** helps you focus, mobilise energy, and prepare for action. 
+
+**Unhealthy stress** happens when healthy stress  happens too often, is too intense or lasts too long.
 ![image](stress1.png)
 
-There are 3 different types of unhealthy stress: chronic, traumatic, and also post-traumatic.  
+# 3 types of unhealthy stress  
 
-1. Chronic stress is a combination of stress factors that builds up over time, eroding our resilience and ability to work or function effectively. This type of stress is dealt with below in the beginner's lesson.  
+## 1. Chronic  
 
-2. Traumatic stress results from directly experiencing, or being otherwise closely exposed to, traumatic events or incidents that are life- threatening or involve physical and emotional loss. It is dealt with in the Advanced lesson.   
+A combination of stress factors that builds up over time, eroding your resilience and your ability to function effectively. 
 
-3. Post-traumatic stress is prolonged stress which can occur months or even years after an event. It is dealt with in the Expert lesson.  
+This lesson deals with chronic stress. 
 
-People who have been trained about stress responses often react better under stress because they understand what is happening to them.
+## 2. Traumatic
 
-Each person will experience stress differently and therefore must manage their stress in their own way. Stress management varies by culture, gender, personality, identity and many other factors.
+Direct experience of, or close exposure to, incidents that are life-threatening or involve physical and emotional loss. 
+
+[Stress advanced](umbrella://lesson/stress/1) deals with traumatic stress.   
+
+## 3. Post-traumatic
+
+Prolonged stress which can occur months or even years after a traumatic incident. 
+
+[Stress expert]((umbrella://lesson/stress/2) deals with post-traumatic stress.  
+
+# Manage stress
+
+People who have been trained about stress handle it better because they understand what is happening to them.
+
+Everyone experiences stress differently. 
+
+Everyone must manage stress in their own way. 
+
+_Stress management varies by culture, gender, personality, identity and many other factors._

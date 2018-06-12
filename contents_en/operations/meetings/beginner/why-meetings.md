@@ -1,6 +1,12 @@
-[Title]: # (Why Meetings?)
+[Title]: # (Risks)
 [Order]: # (0)
 
-# Why Meetings?
+Meetings may: 
 
-For many people activists, journalists or aid workers, meetings can be high-risk encounters. Meetings can expose the identity or work of either you or the person you meet with, and have often been the scene of arrests. For this reason, it is vital to put the highest level of planning and preparation into meetings involving vulnerable human rights defenders or whistleblowers.
+*	Expose the identity of participants;
+*	Expose the work of participants;
+*	Trigger a serious incident like kidnap or arrest. 
+
+(Learn more about [kidnapping](umbrella://lesson/kidnapping/0) and [arrest](umbrella://lesson/arrests).) 
+ 
+It is vital to plan and prepare sensitive meetings with people at risk.

@@ -7,6 +7,7 @@ Swipe right for this lesson's checklist.
 
 *   [Checkpoints](umbrella://lesson/checkpoints)
 *   [Preparation](umbrella://lesson/preparation)
+*	[Counter-surveillance](umbrella://lesson/counter-surveillance/2)
 
 ### FURTHER READING
 

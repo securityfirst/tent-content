@@ -9,6 +9,8 @@
 
 *	Avoid choke points, such as narrow alleys.
 
+((Learn more about this in [counter-surveillance expert] (umbrella://lesson/counter-surveillance/2).)
+
 *   Consult experts about route conditions. Change routes as necessary. 
 
 *	Monitor traffic ahead, especially when approaching checkpoints or obstructions.
@@ -27,4 +29,4 @@
         * Conflict lines and areas of insecurity should be rigorously checked before travel.      
 *   Safe waypoints.
 *   Refuelling stops.
-*   Food stops. 
+*   Food stops.

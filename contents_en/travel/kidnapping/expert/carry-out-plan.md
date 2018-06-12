@@ -1,8 +1,28 @@
-[Title]: # (Carry out Plan)
+[Title]: # (Things to remember)
 [Order]: # (16)
 
-*   Carry out your plan.
-*   While you will naturally desire to conclude the incident safely and as quickly as possible, kidnap negotiations can sometimes last months or even years.  Prepare the crisis management team for this, while encouraging them to remain optimistic.  Keep morale high: enough food and rest are helpful, but possibly the greatest aid to morale is to manage the incident well, keeping everyone fully informed, and taking the best available advice.
-*   Ensure strict confidentiality from the onset of the crisis.  Information should be shared only on a need to know basis.  This may require the usual management chain to be bypassed, e.g. if someone is part of the crisis management team, he or she should be exempted from reporting to his or her superior on the crisis.
-*   Ransom should not be paid.  All humanitarian organisations should have a clearly stated policy that ransom will not be paid in case of kidnap, since to do so encourages more kidnapping.
-*   Throughout the crisis, significant events and decisions should be recorded, and lessons learned wherever possible.
+## Mentally prepare
+
+Teams will naturally want to resolve the incident as safely and quickly as possible. But kidnap negotiations can sometimes last months or even years.  
+
+*	Manage team expectations;
+*	Encourage optimism;  
+*	Provide enough food and rest. 
+
+(Learn about [chronic]((umbrella://lesson/stress/0) and [traumatic](umbrella://lesson/stress/1) stress.)
+
+## Work effectively
+
+The greatest aid to morale is to manage the incident well. 
+
+*	Keep everyone fully informed;
+*	Take the best available advice;
+*	Record significant events and decisions;
+*	Evaluate lessons learned where possible.
+
+## Avoid paying ransom 
+
+*	Paying ransom or making a concession may endanger more colleagues by encouraging further kidnaps.
+*	Have a public policy of no ransom.
+
+(Learn more about this in [kidnapping beginner] (umbrella://lesson/kidnapping/0).)

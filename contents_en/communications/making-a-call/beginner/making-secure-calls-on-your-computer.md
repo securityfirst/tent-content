@@ -9,7 +9,7 @@ Eavesdroppers cannot listen in, but the provider may. Whether this is a problem 
 
 (Learn more about threat models in [managing information.] (umbrella://lesson/managing-information))
 
-# Beware Skype! 
+# Don't use Skype 
 
 Avoid Skype if you discuss sensitive information: 
 

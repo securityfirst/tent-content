@@ -1,18 +1,58 @@
-[Title]: # (Phase Two - Alert)
+[Title]: # (Alert)
 [Order]: # (1)
 
-# Phase Two - Alert
+# If instability mounts but evacuation is not certain
 
-Mounting tensions or instability may lead you or your organisation to issue a recommendation to limit operations, increase security measures, and review the evacuation plan.  Work outside the immediate vicinity of the field office may be suspended.  Tasks during this stage include the following.
+*	Limit or suspend work;
+*	Increase security measures;
+*	Review the evacuation plan.  
 
-*   Brief all national and international staff on the situation.
-*   Communication systems for notification of staff should be finalized and tested.  Consider tying into other systems, such as warden systems for other NGO, UN or embassy staffs.
-*   Prepare salaries and other money required by national staff.
-*   Back up important files onto disks, delete sensitive files, and destroy sensitive documents.  (Learn more about [Backing Up](umbrella://lesson/backing-up/1) and [Safely Deleting](umbrella://lesson/safely-deleting).)
-*   Staff members and their family should have ID and other personal documents with them at all times.
-*   Inventory all office equipment and assets.  As appropriate, identify the equipment to be evacuated and responsibility for each item.  Plan how high-value equipment which will remain should be hidden or protected.
-*   International staff families should be considered for an early departure
-*   Potential evacuees should assemble personal belongings in grab bags to be taken during an emergency evacuation. (Learn more about grab bags in the [Protective Equipment](umbrella://lesson/protective-equipment) lesson.)
-*   Potential evacuees should ensure that they do not take with them any information or equipment that might be interpreted as incriminating (e.g. reports of military movements; pictures on disk or paper of any security-related subjects).
-*   Stock the safe house or assembly area with appropriate supplies (See Safe Houses, later in this lesson)
-*   Assign each evacuee to a specific vehicle so that anyone missing may be readily identified, and ensure that all vehicles are ready.
+During this stage:
+
+## Communicate
+
+*   Brief your team on the situation.
+
+*   Test systems for communicating and notifying your team of departure. 
+
+*	Monitor and share alerts with embassies, UN agencies, or NGOs.
+
+## Protect information
+
+*   Protect sensitive documents you will take.  
+
+(Learn about [protecting files](umbrella://lesson/protecting-files).)
+
+*	Delete sensitive documents you will leave.
+
+(Learn about [safely deleting](umbrella://lesson/safely-deleting).)
+
+*	Destroy sensitive papers.
+
+(Learn more about this in [borders](umbrella://lesson/borders).)
+
+_Destroy information or equipment that might be interpreted as incriminating (e.g. reports of military movements; images of security-related subjects)._
+
+## Prepare essentials
+
+*   Prepare cash for you and your team, including salaries and payments as needed.
+
+*   Carry ID and a constant companion.
+
+(Learn more about this in [preparation](umbrella://lesson/preparation).) 
+
+*  	Assemble a grab bag of personal belongings in case of evacuation or emergency. 
+
+(Learn more about this in [protective equipment](umbrella://lesson/protective-equipment).)
+
+## If driving
+
+*	Ensure that vehicles are ready.
+
+*   Assign team members to a specific vehicle to identify anyone missing. 
+
+### Consider:
+
+*   Arranging an early departure for high priority evacuees. 
+
+*   Stocking a safe house or emergency meeting point with supplies.

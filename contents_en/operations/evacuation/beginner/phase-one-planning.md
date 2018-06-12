@@ -1,34 +1,91 @@
-[Title]: # (Phase One  - Planning)
-[Order]: # (0)
+[Title]: # (Planning)
+[Order]: # (0.5)
 
-# Phase One  - Planning
+### Security situations can deteriorate rapidly, often without warning. 
 
-Evacuation planning and rehearsals should be carried out regularly. Security situations can deteriorate rapidly, often without warning.  The evacuation plan should be prepared and all staff should understand an outline of it. The following issues should be considered when preparing your evacuation plan.
+1.	Create an evacuation plan; 
+2.	Share it with your team. 
 
-*   **Suspend** work activities in response to security concerns;
-*   **Hibernate** by staff remaining where they are but keeping a low profile;
-*   **Relocate** with staff moving internally within the country or to a safe house to escape security concerns, or;
-*   **Evacuate** with staff stopping work and leaving the country due to severe security concerns.
+_Coordinate with embassies, UN agencies, or NGOs as appropriate._
 
-**Who will be evacuated**  
-It is essential that all staff members clearly understand their and their families' eligibility for evacuation or relocation assistance.
+# Planning questions
 
-*   **Priority 1** - International staff family members
-*   **Priority 2** - Staff members who are in immediate personal danger due to the conditions of the crisis
-*   **Priority 3** - Individuals other than essential staff
-*   **Priority 4** - Essential staff
+## When?
 
-**Where will staff be evacuated to?**  
-Identify a first-choice destination and an alternate destination for evacuation or relocation.  Organise an emergency safe house or safe haven if needed. Determine visa requirements, and the logistics that will be needed upon arrival.
+Set triggers or indicators to initiate suspension, hibernation, relocation, and evacuation. 
 
-**How will staff be evacuated?**  
-Establish a notification system and an assembly point.  Detail the route and method of evacuation. Check to ensure that these routes can be travelled under emergency conditions. Coordinate plans with embassies, UN agencies, and other NGOs as appropriate.
+## Who? 
 
-**What goes and what stays?**  
-Identify which documents, such as contracts, payroll records, etc. will be needed to re-establish operations once relocated or upon re-entry. Other documents should be marked for destruction, or left behind, as appropriate. Consider how evacuated documents will be perceived if seized by a particular person or group.  They may contain information that could put those evacuating at risk, and would be better destroyed.
+Who is eligible for evacuation or relocation assistance?
 
-**Who is responsible for the various tasks during an evacuation?**  
-During crises key staff will be fully occupied so responsibilities for evacuation should be clearly defined during the planning stage.
+Who leaves first? 
 
-**What will be the expected impact of evacuation on the operation?**  
-Will the office be closed and, if so, how?  What are the policies and plans for continuing operations? Through national staff members acting on their own? Or through contractors, if feasible and appropriate?
+For example, in a large organisation: 
+
+*   **Priority 1:** Family from overseas;
+*   **Priority 2:** Team members in immediate personal danger;
+*   **Priority 3:** Any team member who is not essential;
+*   **Priority 4:** Everyone left. 
+
+*Note: Many organisations only evacuate international staff unless local staff and their families face a direct threat.*
+
+## Where?  
+
+Identify:
+
+*	A first choice destination;
+*	An alternate destination.  
+
+_Organise a safe house if needed._ 
+
+Do you need a visa? What will you need when you arrive? 
+
+(Learn more about this in [preparation](umbrella://lesson/preparation).) 
+
+## How?
+
+Plan your route: 
+
+*	Choose an emergency meeting point;
+
+How will you notify your team when to meet? 
+
+*	Choose your route;
+
+*	Choose how you will travel.  
+
+(Learn about [vehicles](umbrella://lesson/vehicles).) 
+
+_Ensure the route is open in emergency conditions._ 
+
+## What?
+
+Inventory information and equipment or assets. 
+  
+Identify what to: 
+
+*	**Take:** Essential or sensitive documents and equipment. 
+
+*	**Leave:** Non-essential, non-sensitive documents. 
+
+Copy serial numbers if high-value equipment will remain. How will it be hidden or protected?
+
+*	**Destroy:** Non-essential, sensitive documents or notes.
+
+(Learn about [managing information](umbrella://lesson/managing-information) and [backing up](umbrella://lesson/backing-up).)
+
+_If in doubt, destroy information that could put those evacuating at risk if seized by an adversary._
+
+## Who is responsible?  
+
+Who has final authority to decide to evacuate? What happens if others disagree?
+
+Clearly define who will do, and take, what.
+
+## What will be the impact on your work?
+
+Will you be able to continue working remotely, or return later?  
+
+Will local groups or contractors continue your work? 
+
+What policies do you need in place for that to happen?

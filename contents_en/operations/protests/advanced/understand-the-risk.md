@@ -1,10 +1,32 @@
-[Title]: # (Understand the Risk)
-[Order]: # (3)
+[Title]: # (Know the law)
+[Order]: # (2)
 
-# Understand the Risk
+Your legal rights vary depending on where you are. 
 
-Please note that deliberately concealing or destroying evidence may be considered an illegal act in itself in some jurisdictions (including many social democracies).
+## Passwords 
 
-Be sure you understand the law and the risks before engaging in this plan. For instance, if you are protesting in a country with a strong tradition of the rule of law and where protesting in itself is not a crime, it may be that conspiring to lock out law enforcement from your accounts may lead to you breaking the law when previously you would be able to leave without charge.
+*	Know the law before police ask you to unlock your device or accounts. 
 
-On the other hand, if you are concerned for the physical safety of you and your colleagues at the hands of a unchecked militia, protecting your contacts' identities and your own data from them may be a greater priority than complying with an investigation.
+*	If you decide to refuse, politely ask to speak to a lawyer instead. 
+
+Even if refusing is your legal right, police may delay you, seize the device, or accuse you of obstruction, which may be a more serious crime than protesting. 
+
+(Learn more about this in [passwords expert](umbrella://lesson/passwords/2).)
+
+## Masks
+
+Covering your face helps you protect your identity in pictures and video.
+
+*	Know the law about masks and if wearing them could get you into trouble. 
+
+## Filming
+
+Documenting protests may discourage police misconduct, but whether filming will get you into trouble depends on where you are.
+
+*	Know the law about recording video.
+
+(Learn more about this in [social media](umbrella://lesson/social-media/0).)
+
+Even if recording is your legal right, police or other actors may single you out for using a camera.  
+
+(Learn more about this in [protests beginner](umbrella://lesson/protests/0).)

@@ -1,7 +1,7 @@
 [Title]: # (How to respond to abuse)
 [Order]: # (3)
 
-## IT'S NOT YOUR FAULT.
+# IT'S NOT YOUR FAULT
 You may feel helpless, but you can take action. The following strategies have proven useful for other survivors.
 
 ## Keep records
@@ -60,7 +60,7 @@ If the person may harass you in the workplace, it's important to notify your emp
 
 If a blackmailer or anyone else distributes your private images without your consent, there are steps you can take.
 
-*	Request that websites take down the information;
+*	Request that websites take down the information. Removal policies for popular sites are available [here] (https://oag.ca.gov/cyberexploitation)
 
 *	Contact search engines to remove links to the information;
 
@@ -70,14 +70,18 @@ If a blackmailer or anyone else distributes your private images without your con
 
 *	Make a legal case for defamation;
 
-*	Some people choose to register the images with their national copyright office, which strengthens their ownership claim and allows them to demand removal with legal backing.
+*	Some people choose to register personal images with their national copyright office, which strengthens their ownership claim and allows them to demand removal with legal backing.
 
 ## Community support
 
-Sharing your experience may help you and others learn more about online abuse. 
+Sharing your experience may help you and others learn about and recover from online abuse. 
 
-Report incidents to [Take Back the Tech](https://www.takebackthetech.net/mapit/), or look for projects in your region.  
+Report incidents to [Take Back the Tech](https://www.takebackthetech.net/mapit/), [HeartMob](https://iheartmob.org/), or look for projects in your region.  
 
 Experiencing and responding to abuse can be isolating and stressful. A supportive community, online or off, can help.
 
 (Learn more about [unhealthy stress](umbrella://lesson/stress/0)).
+
+# Help others 
+
+*Read: PEN America, [Best Practices for Allies and Witnesses] (https://onlineharassmentfieldmanual.pen.org/best-practices-for-allies-and-witnesses/)* and *[Best Practices for Employers of Writers and Journalists](https://onlineharassmentfieldmanual.pen.org/best-practices-for-employers-of-writers-and-journalists/)*

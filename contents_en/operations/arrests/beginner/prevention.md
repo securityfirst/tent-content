@@ -1,14 +1,30 @@
 [Title]: # (Prevention)
 [Order]: # (0)
 
-# Prevention
+### If your work puts you at risk of arrest or detention:  
 
-Human rights workers, journalists and humanitarian staff are sometimes arrested or detained.  The risk of this happening can be significantly reduced by:
+## Reduce your risk
 
-*   Good relations with local authorities and groups where possible
-*   Appropriate behaviour, on and off duty
-*   Obeying local laws and customs
-*   Ensuring that all legal documentation is correct, and carried by all staff and vehicles as required
-*   Training and briefing staff before they begin their assignments
+*   Maintain good relations with local authorities where possible;
 
-Be aware of which areas and groups benefit from aid and which do not, and therefore might feel discriminated against, and make sure that as many people as possible in the area of operations understand your organisation and the role it is playing. Transparency, good communications, integrity, even-handedness and respectful attitudes help as well.
+*   Behave politely and appropriately;
+
+*   Keep permits and legal documentents correct and accessible;
+
+*   Understand local context and obey local laws and customs where possible.
+
+## Understand context
+
+If you work with local communities: 
+
+*	Establish good communications;
+
+*	Make sure that people understand your work;  
+
+*	Be transparent, even-handed and respectful;
+
+*	Be aware if people resent your work;
+
+*	Be aware if groups you don't work with feel discriminated against. 
+
+(Learn more about this in [preparation](umbrella://lesson/preparation).) 

@@ -1,14 +1,54 @@
 [Title]: # (Reduce Opportunity)
 [Order]: # (10)
 
-*   **Be cautious**  
-Don't make yourself an easy target. This will mean different things depending on the local context but may include walking on foot or driving alone at night. See the Vehicle lesson for detailed security advice for vehicles. At times of heightened risk you should restrict movements to minimum necessary.
+# Don't be a target 
 
-*   **Avoid predictability**  
-50% of abductions take place while the victim is in their car. The majority take place in the early morning, within 400 meters of home or office, due to a predictable pattern of behaviour. Roadblocks or car accidents may be staged to create a scene where abductors then have a pretext to operate quickly, disguised as officials. Avoid predictability when moving between residences and offices, as well as in off-hours activities, such as taking children to school and going shopping. It may be difficult but try to vary travel times and routes.
+## Be cautious.
 
-*   **Reduce visibility**  
-This might mean staff travelling in a trusted taxi rather than an easily identifiable agency vehicle. If there is a suspicion that radio communications may be overheard, staff should not be identified when travelling. Information about movement plans, routes and travel times should be encoded.
+This will mean different things depending on the local context.
 
-*   **Ensure good site security for homes and offices**   
-Site protection and strict rules governing the identification of strangers and limits on access complicates the situation for potential kidnappers.
+(Learn about context assessments in [preparation](umbrella://lesson/preparation).)
+
+*	Restrict movements to a minimum during periods of high risk.  
+
+*	Use common sense. Don't walk alone or drive at night.
+
+(Learn simple precautions to take in another country in [borders](umbrella://lesson/borders).)
+
+## Don't be predictable.
+
+50% of abductions take place while the victim is in their car, often in the early morning, within 400 meters of the target's home or office.
+
+(Learn more about [vehicle](umbrella://lesson/vehicles) security.)
+
+*	Travel by different routes at different times.
+
+*	Vary routine during travel, work, and recreation.  
+
+*	Roadblocks or car accidents may be staged to provide cover for abductors disguised as officials. 
+
+(Learn to assess [checkpoints](umbrella://lesson/checkpoints).)
+
+## Reduce visibility.  
+
+* Travel low profile. For example, consider a trusted taxi rather than an official work vehicle. 
+
+(Learn to choose a low profile [vehicle](umbrella://lesson/vehicles).) 
+
+* Protect your communications.
+
+(Learn more about [sending a message](umbrella://lesson/sending-a-message), [making a call](umbrella://lesson/making-a-call), and the risks of [radio](umbrella://lesson/radio-and-satellite-phones/0) and [satphones](umbrella://lesson/radio-and-satellite-phones/1).)
+
+* Don't discuss personal information or plans if you may be overheard. 
+
+* Use code words for names, locations, and travel information.
+
+## Ensure good site security. 
+
+* Travel with security equipment.
+
+(Learn about equipment and [preparation](umbrella://lesson/preparation).)
+
+* Establish security policies at home and work. 
+	* Limit access;
+    * Identify strangers.

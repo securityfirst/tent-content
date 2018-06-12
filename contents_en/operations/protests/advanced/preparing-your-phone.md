@@ -1,18 +1,74 @@
-[Title]: # (Preparing Your Phone)
+[Title]: # (Prepare Your Phone)
 [Order]: # (1)
 
-# Preparing Your Phone
+# Harden your phone against searches 
 
-To protect your rights, you may want to harden your existing phone against searches. (Learn more about security and **[Mobile Phones] (umbrella://lesson/mobile-phones).**)
+If police seize your device, you may not get it back for a while (or at all).
 
-*   **Passwords:** Always password-protect your phone. While password-protecting your phone is a small barrier to access, please be aware that it is not an effective barrier to expert forensic analysis.
-*   **Encryption:** Activate encryption on your phone. If you have an Android, go to Settings -> Personal -> Security -> Encryption. (Learn [Basic Security for Android](umbrella://lesson/android) and how to [Encrypt your iPhone] (umbrella://lesson/encrypt-your-iphone).)
-*   **For communicating**: Signal (Learn how to use Signal for [Android] (umbrella://lesson/signal-for-android) and [iOS] (umbrella://lesson/signal-for-ios).) 
-*   **For video/photography:** ObscuraCam and the related plugin, CameraV (Learn how to use [ObscuraCam] (umbrella://lesson/obscuracam).)
-*   **For emergencies:** Panic Button (Android only)
+## Protect your device
 
-**Back up your data:** It's important that you frequently back up the data stored on your phone, especially if your device lands into the hands of a police officer. You may not get your phone back for a while (if at all) and it is possible that its contents may be deleted, whether intentionally or not.
+*   Use a password or security code. 
 
-**Keep an emergency number:** Consider writing one important, but non-incriminating phone number on your body with a permanent marker in case you lose your phone, or are in police custody but are permitted to make a call.
+_This is a barrier to most, but not to expert analysts._
 
-**Use a throwaway:** You should also consider bringing a throwaway or alternate phone to the protest that does not contain sensitive data, which you've never used to log in to your communications or social media accounts, and which you would not mind losing or parting with for a while. If you have a lot of sensitive or personal information on your phone, or you need to conceal your presence at the protest, this might be the best option for you.
+(Learn more about this in [mobile phones](umbrella://lesson/mobile-phones).)
+
+*   Activate encryption if needed.  
+
+(Learn [basic security for Android](umbrella://lesson/android) and [encrypt your iPhone] (umbrella://lesson/encrypt-your-iphone).)
+
+## Emergency communication
+
+*	**Write an emergency number on your body** 
+
+Write an important contact number in permanent marker in case you lose your phone or are permitted to make a call in police custody.
+
+*Choose a number that doesn't reveal a connection you want to conceal.*
+
+*	**Write an emergency message**
+
+Draft a message to a trusted ally. Send it if your device may be seized. 
+
+*	**Schedule a check in**
+
+Create a commnications schedule with someone who is not attending the protest and can provide support if you fail to check in due to an emergency or arrest.
+
+_Remember: telecommunications networks and mobile apps may be overloaded or shut down in a crisis._
+
+(Learn more about this in [Internet](umbrella://lesson/the-internet/0).)
+
+## Protect your information
+
+*	**Move and back up data** 
+
+If police seize your device, content may be deleted, whether intentionally or not.
+
+(Learn about [protecting files] (umbrella://lesson/protecting-files) and [backing up](umbrella://lesson/backing-up).) 
+
+*	**Log out of unnecessary apps and accounts.**
+
+Assess the risks of using social media to organise or document protests. Your regular accounts may have credibility and an audience, but using them will reveal your involvement and expose your contacts and personal information if your device is seized.  
+
+*	Consider using separate social media accounts and pseudonyms for different activities. 
+
+(Learn more about this in [social media](umbrella://lesson/social-media/0).)
+
+*	Create a temporary account before the protest. 
+
+	*	Ask a respected member of your community to share posts with a wider audience.   
+    *	Share the password with a trusted ally who will change it if you send them an emergency message. 
+    
+*	Prepare to give up an account.
+
+If you may be forced to reveal your passwords, reveal an account with unimportant information in order to protect a sensitive one with the same service.     
+
+(Learn more about this in [passwords expert](umbrella://lesson/passwords/2).)
+
+## Use a burner
+
+If you have sensitive information on your phone, or need to conceal your presence at protest, bring a throwaway or alternate phone that:
+
+*	Contains no sensitive data or personal accounts;
+*	You would not mind losing. 
+
+(Learn more about this in [mobile phones](umbrella://lesson/mobile-phones).)

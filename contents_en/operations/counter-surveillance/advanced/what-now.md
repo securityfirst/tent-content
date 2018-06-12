@@ -1,14 +1,14 @@
 [Title]: # (What now?)
 [Order]: # (10)
 
-Swipe right for this lesson's checklist
+Swipe right for this lesson's checklist.
 
-Go to the Beginner Lesson for advice on how to identify and deal with surveillance of your office.
-[Go to Beginner Lesson](umbrella://lesson/counter_surveillance/0)
+Learn about counter-surveillance in fixed locations in [counter-surveillance beginner](umbrella://lesson/counter_surveillance/0).
 
-Go to the Expert Lesson for advice on how to practice counter-surveillance when you are out in a vehicle.
-[Go to Expert Lesson](umbrella://lesson/counter_surveillance/2)
+Learn about counter-surveillance in a vehicle in [counter-surveillance expert](umbrella://lesson/counter_surveillance/2).
 
-### RELATED LESSONS/TOOLS
+### RELATED LESSONS
 
 *   [Meetings](umbrella://lesson/meetings)
+*	[Vehicles](umbrella://lesson/vehicles)
+*	[Borders](umbrella://lesson/borders)

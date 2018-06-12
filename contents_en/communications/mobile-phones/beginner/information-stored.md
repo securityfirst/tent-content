@@ -6,10 +6,14 @@
 Mobile phones may store all sorts of data: 
 
 *	Call history;
-*	Text messages (sent and received); 
-*	Addresses and contacts; 
+*	Messages and email; 
+*	Contacts;
+*	Location data;
 *	Photos and video;
-*	Text files. 
+*	Browsing history;
+*	Passwords;
+*	Social media activity;
+*	Files. 
 
 Take these steps to minimize the risk of exposing personal information about you and your colleagues.
 
@@ -33,6 +37,7 @@ Erase sensitive information regularing, including call records, messages, contac
 
 ## Protect your device
 
+*	Log out of active apps and accounts. 
 *	Only use trusted phone dealers and repair shops.
 *	Delete all information before selling, handing on or disposing of your phone. 
 

@@ -1,21 +1,21 @@
-[Title]: # (HF radios)
+[Title]: # (HF)
 [Order]: # (7)
+
+# High Frequency (HF) radios
 
 *	3 to 30 MHz frequency; 
 *	Allow medium and long range voice communications (conceivably around the world); 
-*	High Frequency (HF) signals can "bend" around hills, buildings, and other obstacles;
+*	Signals can "bend" around hills, buildings, and other obstacles;
 *	Work without repeaters.  
 *	Commonly used brands: Codan and Barrett.
 
-Note:
+_Note:
 
 *	Transmission range may be influenced by time of day; weather conditions; electrical interference; poor system configuration. 
-
 *	It takes skill to achieve reliable HF connectivity over long distances. HF radios are often installed in vehicles or at base stations. 
+* 	Generally more expensive than VHF and require more maintenance._
 
-* 	Generally more expensive than VHF and require more maintenance. 
-
-### Advantages: 
+## Advantages: 
 
 *   Short-range to extremely long-range communication without a relay station;
 *   Less affected by topographical variation;
@@ -31,7 +31,7 @@ Note:
 *   Possible to integrate with other networks (phone/email); and
 *   Requires limited maintenance.
 
-### Disadvantages: 
+## Disadvantages: 
 
 *   Not secure. Anybody can listen in;
 *   Requires registration and licensing in most countries;

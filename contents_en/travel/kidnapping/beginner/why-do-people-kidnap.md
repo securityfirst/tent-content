@@ -1,26 +1,58 @@
 [Title]: # (Why do kidnappings occur?)
 [Order]: # (7)
 
-The best defence against kidnapping is having and practising a high-quality, well-managed security management plan, which is based on a thorough understanding of the general context and risks, and on the context and threat of kidnapping specific to your location. Understanding who carries out kidnappings, and why, will help shape your avoidance and survival strategies.
+# Prevent kidnapping
 
-The main reasons for kidnappings are:
+The best defence against kidnapping is to have *and practise* a high-quality security manement plan. 
 
-*   To hold for ransom
-*   To cause a political effect
-*   To achieve publicity
-*   To be used as human shields
+Base security management on a thorough understanding of your location:
 
-The main actors that carry out kidnappings are:
+* General context and risks. 
 
-*   Criminals
-*   Political extremists
-*   Terrorists
-*   Militia groups
-*   Regimes that use terror
+(Learn more about this in [preparation](umbrella://lesson/preparation).)
 
-Factors that may encourage kidnapping:
+* The specific threat of kidnapping, including:
+	*	Past incidents;
+    *	Presence of actors that carry out kidnapping;
+    *	Promoting factors.
 
-*   The state's inability to provide protection from the crime, and prosecute those who engage in such activity
-*   A lack of political, legal or military response will encourage more actors to become involved
-*   Media coverage of successful kidnap attempts
-*   High financial rewards from kidnapping
+This understanding will help you reduce promoting factors and reduce opportunity. 
+
+## Who and why? 
+
+### Kidnappers may be:
+
+*   Criminals;
+*   Political extremists;
+*   Terrorists;
+*   Militia groups;
+*   Regimes that use terror.
+
+### They may seek:
+
+*   Ransom;
+*   Political effect;
+*   Publicity.
+
+*Note: Kidnappers make demands. Abductors take people against their will. Hostage takers hold people under siege in a known location.*   
+
+### Promoting factors may include:
+
+*   The state's inability to provide protection and prosecute kidnappers;
+*   Inadequate political, legal or military response encouraging more actors to become involved;
+*   Media coverage of successful kidnap attempts;
+*   High financial rewards from kidnapping.
+
+## Prepare
+
+If you operate in a high-risk location: 
+
+*	Identify a reputable company specialising in hostage negotiations.
+
+Connect with specialist advice in advance of a potential crisis.
+
+*	Share completed [proof of life](umbrella://forms/proof-life-form) forms with your team.
+
+*	Train in serious incident management or kidnap negotiation.
+
+*	Kidnap and ransom (K&R) insurance is becoming more widespread. 

@@ -1,54 +1,56 @@
 [Title]: # (Effects)
 [Order]: # (7)
 
-# Effects
+### People exhibit different symptoms of chronic stress.
 
-There is a wide range of possible symptoms of negative stress, and people differ in terms of the symptoms they exhibit.
+Some symptoms represent a security risk.  
 
-Physical symptoms may include:
+Possible symptoms include the following:
 
-*   Exhaustion
-*   Hyperactivity
-*   Sleeping difficulties or excessive sleep
-*   Slight flu-like symptoms
-*   Headaches
-*   Heightened blood pressure and heart rate
-*   Nausea or vomiting
+## Physical symptoms
 
-Behavioural symptoms may include:
+*   Exhaustion;
+*   Hyperactivity;
+*   Difficulty sleeping;
+*	Excessive sleep;
+*   Flu-like symptoms;
+*   Headaches;
+*   Heightened blood pressure and heart rate;
+*   Nausea or vomiting.
 
-*   Avoiding genuine social contact and relationships
-*   Substance abuse (caffeine/ alcohol/ drugs)
-*   A series of short and casual romantic/sexual relationships
-*   Risk-taking
-*   Withdrawal
-*   Irritability or a constant tendency to pick quarrels
-*   Aggression
+## Behavioural symptoms
 
-Work-related symptoms may include: 
+*   Avoiding genuine social contact and relationships;
+*   Abuse of caffeine, alcohol, drugs, or other substances;
+*   Engaging in casual sexual relationships;
+*   Taking risks;
+*   Withdrawing;
+*   Becoming irritable or picking quarrels;
+*   Aggression.
 
-*   Working very long hours
-*   Lateness/ not coming in to work
-*   Lack of concentration
-*   Poor work performance
-*   Loss of perspective
-*   Pre-occupation with an idea, even if it is old or ineffective
-*   Deterioration in judgment and logical thinking
-*   Reduced creativity
-*   Deteriorating communication
+## Work-related symptoms 
 
-Emotional effects may include:
+*   Working long hours;
+*   Being late or absent;
+*   Lack of concentration;
+*   Poor performance;
+*   Loss of perspective;
+*   Becoming preoccupied with an idea, even if it is old or ineffective;
+*   Loss of judgment and ability to think logically;
+*   Loss of creativity;
+*   Deteriorating communication skills. 
 
-*   Low morale
-*   Pessimism and cynicism
-*   Anxiety
-*   Guilt
-*   Depression
-*   Excitement/hyper-activity
-*   A feeling of power and invulnerability
-*   Intense identification with, OR lack of compassion for those you work with
-*   Nightmares or flashbacks
-*   Tendency to avoid/repress intense thoughts or feelings
-*   Questioning of major life areas
+## Emotional effects
 
-Engaging in some of these types of behaviours are security risks in and of themselves, so it is very important to both the individual affected and your organisation that it is dealt with properly.
+*   Low morale;
+*   Pessimism and cynicism;
+*   Anxiety;
+*   Guilt;
+*   Depression;
+*   Overexcitement;
+*   Feeling powerful or invulnerable;
+*   Intense identification with others;
+*	Loss of compassion for others;
+*   Having nightmares or flashbacks;
+*   Avoiding intense thoughts or feelings;
+*   Questioning life choices and activities. 

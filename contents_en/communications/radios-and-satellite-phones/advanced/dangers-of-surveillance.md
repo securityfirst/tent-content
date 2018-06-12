@@ -16,6 +16,7 @@ Many governments are capable of defeating this encryption.
 If your satellite phone is confiscated, authorities or hostile actors can access sensitive information.
 
 *   Routinely delete sensitive information to protect your sources. Consider:
+
 		*	Call logs; 
         *	Contacts; 
         *	Sent folders.

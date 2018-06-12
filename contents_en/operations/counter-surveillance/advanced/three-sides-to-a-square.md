@@ -1,19 +1,43 @@
-[Title]: # (Three Sides to a Square)
+[Title]: # (Three Sides of a Square)
 [Order]: # (7)
 
-# Three Sides to a Square
+# 4 sides, 3 stops
 
-This is a technique used to identify several members of a team, create pressure on them and thin down their surveillance. It can be conducted alone or with a team.
+Make your route more complicated and invent reasons to stop, in order to:  
 
-It means taking a longer route than would logically make sense for someone going from point A to B.
+*	Identify watchers; 
+*	Make it harder for them to follow you.  
 
-Pick three or more reasons to be a) using such an unusual route and b) stopping along the way. These reasons should take the following things into account:
+Try this alone or with a team.
 
-*   It should be genuine and not suspicious - there should be a believable reason for the detour. Remember, this is because you do not want any possible surveillance to know that you are checking for surveillance;
-*   It should force a surveillance team member to go into the location with you to establish what you are doing, who you are meeting, or check for any signs that you may have a counter-surveillance team with you;
-*   Observe what is occurring
-*   Observe the various exits/entrances
-*   Be out of the target's 10 to 2 eye line
+## Move in a square instead of a line
 
-You should be able to quickly get on the move again - so pay bills in advance, don't get hot food, etc.
+1.	To get from A to B, add C and D. In other words, make at least 3 unscheduled turns.
+
+![image](countersurveillance.png)
+
+2.	Make at least 3 unscheduled stops to observe 3 sides of the square.  
+
+## Reasons to stop
+
+Invent reasons to stop or change direction that:
+
+*	Are credible. 
+
+Don't alert watchers that you are checking for surveillance by repeatedly stopping for the same reason. 
+
+*   Force watchers to follow you.
+
+If you enter a building, make it hard for watchers to see what you are doing, and easier for you to spot them.  
+
+*   Allow you to look around or monitor entrances;
+
+*	Allow you to move quickly. 
+
+Pay up front and avoid ordering hot food.
+
+
+
+
+  
 
