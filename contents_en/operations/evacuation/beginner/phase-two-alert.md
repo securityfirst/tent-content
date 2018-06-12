@@ -15,7 +15,7 @@ During this stage:
 
 *   Test systems for communicating and notifying your team of departure. 
 
-*	Consider tying into other systems, such as warden systems for other NGO, UN or embassy staffs.
+*	Monitor and share alerts with embassies, UN agencies, or NGOs.
 
 ## Protect information
 
