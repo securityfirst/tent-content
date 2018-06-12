@@ -54,21 +54,25 @@ _Ensure the route is open in emergency conditions._
 
 ## What?
 
-Take: Essential or sensitive documents and equipment. 
+Inventory information and equipment or assets. 
+  
+Identify what to: 
 
-(Learn about [backing up](umbrella://lesson/backing-up) and [protecting files](umbrella://lesson/protecting-files).)
+*	**Take:** Essential or sensitive documents and equipment. 
 
-Leave: Non-essential, non-sensitive documents.  
+*	**Leave:** Non-essential, non-sensitive documents. 
 
-Destroy: Non-essential, sensitive documents or notes.
+If high-value equipment will remain, how will it be hidden or protected?  
 
-(Learn more about this in [borders](umbrella://lesson/borders).)
+*	**Destroy:** Non-essential, sensitive documents or notes.
+
+(Learn about [managing information](umbrella://lesson/managing-information) and [backing up](umbrella://lesson/backing-up).)
 
 _If in doubt, destroy information that could put those evacuating at risk if seized by an adversary._
 
 ## Who is responsible?  
 
-Clearly define who will do what.
+Clearly define who will do, and take, what.
 
 ## What will be the impact?
 
@@ -76,4 +80,4 @@ Will you be able to continue working remotely, or return later?
 
 Will local groups or contractors continue your work? 
 
-What policies do you need in place for that to happen? 
+What policies do you need in place for that to happen?
