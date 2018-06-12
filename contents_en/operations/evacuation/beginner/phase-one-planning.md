@@ -72,6 +72,8 @@ _If in doubt, destroy information that could put those evacuating at risk if sei
 
 ## Who is responsible?  
 
+Who has final authority to decide to evacuate? 
+
 Clearly define who will do, and take, what.
 
 ## What will be the impact?
