@@ -1,14 +1,33 @@
-[Title]: # (Phase Four - Evacuation)
+[Title]: # (Evacuation)
 [Order]: # (3)
 
-# Phase Four - Evacuation
+Evacuation takes precedence over all other activities. 
 
-Once evacuation or relocation has begun, it should take precedence over all other activities. The field office may continue operations through national staff, or contractors if appropriate, or may close completely.  Considerations during evacuation may include:
+During this stage: 
 
-*   If there is a risk of looting, consider disabling radios, equipment and vehicles. Empty and leave open all safes.
-*   Ensure effective communication with national staff left behind.
-*   All evacuees move to pre-designated assembly area.
-*   Evacuate by the safest means possible, maintaining good order and remaining in communication with all groups evacuating.
-*   Once evacuation is complete, inform HQ, relevant embassies, and key national staff.
+*   Inform your team and relevant embassies.
 
-The evacuated personnel may manage operations from outside the country, communicating with and working through the national staff (or contractors) if possible. If a decision is made to close the office completely, care will be needed to ensure humane and correct termination or reassignment of staff contracts and the disposal of assets.
+*   If there is a risk of looting, consider disabling radios, equipment and vehicles. Empty safes and leave them open.
+
+*   Ensure effective communication with anyone leaving and anyone staying. 
+
+*   Assemble evacuees at the meeting point or safe house.
+
+*   Evacuate by the safest route available.
+
+*	Maintain good order.
+
+## What it means for you
+
+An evacuation is not easy for those leaving or those staying.  It is a very emotional event, giving rise to feelings of guilt, hurt, frustration, and powerlessness.  
+
+## What it means for others
+
+Your departure may have meaning for people staying. Evacuation may represent the removal of a symbolic or real safety barrier. 
+
+Evacuation is not neutral, and may even aggravate a crisis.  
+
+If appropriate, consider providing a statement for the media and others. Explain your reasoning and what it means for your work.
+
+
+
