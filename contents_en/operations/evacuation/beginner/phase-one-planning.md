@@ -66,7 +66,7 @@ Identify what to:
 
 *	**Leave:** Non-essential, non-sensitive documents. 
 
-If high-value equipment will remain, how will it be hidden or protected?  
+Copy serial numbers if high-value equipment will remain. How will it be hidden or protected?
 
 *	**Destroy:** Non-essential, sensitive documents or notes.
 
