@@ -58,11 +58,11 @@ In order of preference, choose:
 	* Carry extra passport-size photos for emergency documents. 
 	* Do you need a standby visa for a neighbouring country?
 		         
-## Create a constant companion
+## Create a constant companion and a grab bag
 
-A "constant companion" contains everything you need for evacuation. 
+A constant companion contains essentials in case of evacuation or emergency. 
 
-(Learn more about [evacuation](umbrella://lesson/evacuation).)
+(Learn about [evacuation](umbrella://lesson/evacuation).)
 
 Consider: 
 *	Cash;
@@ -72,7 +72,9 @@ Consider:
 
 **Carry your constant companion on your person at all times.** 
 
-(Learn about grab bags in [protective equipment](umbrella://lesson/protective-equipment).)
+A grab bag contains personal belongings in case of evacuation or emergency. 
+
+(Learn more about this in [protective equipment](umbrella://lesson/protective-equipment).)
 
 ## Prepare for serious security incidents
 
