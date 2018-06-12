@@ -27,12 +27,11 @@ Stop work and leave the country.
 
 ### 2.  Alert
 
-### 3.  Evacuation imminent
+### 3.  Pre-evacuation
 
 ### 4.  Evacuation
 
-Evacuation beginner outlines planning and alert.
+This lesson outlines planning and alert.
 
-[Evacuation advanced](umbrella://lesson/evacuation/1) outlines evacuation imminent and carrying out evacuation. 
-
+[Evacuation advanced](umbrella://lesson/evacuation/1) outlines pre-evacuation and evacuation.
 
