@@ -1,7 +1,7 @@
 [Title]: # (Alert)
 [Order]: # (1)
 
-# If instability mounts
+# If instability mounts but evacuation is not certain
 
 *	Limit or suspend work;
 *	Increase security measures;
