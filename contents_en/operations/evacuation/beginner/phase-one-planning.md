@@ -27,6 +27,8 @@ For example, in a large organisation:
 *   **Priority 3:** Any team member who is not essential;
 *   **Priority 4:** Everyone left. 
 
+*Note: Many organisations only evacuate international staff unless local staff and their families face a direct threat.*
+
 ## Where?  
 
 Identify:
