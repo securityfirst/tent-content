@@ -10,6 +10,10 @@ _Coordinate with embassies, UN agencies, or NGOs as appropriate._
 
 # Planning questions
 
+## When?
+
+Set triggers or indicators to initiate suspension, hibernation, relocation, and evacuation. 
+
 ## Who? 
 
 Who is eligible for evacuation or relocation assistance?
@@ -72,11 +76,11 @@ _If in doubt, destroy information that could put those evacuating at risk if sei
 
 ## Who is responsible?  
 
-Who has final authority to decide to evacuate? 
+Who has final authority to decide to evacuate? What happens if others disagree?
 
 Clearly define who will do, and take, what.
 
-## What will be the impact?
+## What will be the impact on your work?
 
 Will you be able to continue working remotely, or return later?  
 
