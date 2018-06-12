@@ -7,10 +7,10 @@
 
 ### 2.  Alert
 
-### 3.  Evacuation imminent
+### 3.  Pre-evacuation
 
 ### 4.  Evacuation
 
 [Evacuation beginner](umbrella://lesson/evacuation/0) outlines planning and alert.
 
-This lesson outlines evacuation imminent and carrying out evacuation. 
+This lesson outlines pre-evacuation and evacuation.
