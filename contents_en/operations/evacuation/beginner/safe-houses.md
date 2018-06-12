@@ -1,29 +1,68 @@
 [Title]: # (Safe Houses)
 [Order]: # (4)
 
-# Safe Houses
+Safe houses may be:
 
-Safe houses take a number of different forms. They can either be emergency safe houses which are houses or apartments rented specifically for this purpose OR emergency safe havens which are in the already-occupied houses or apartments of friendly people.
+*	Spaces rented specifically for emergencies;
+*	Spaces already being used by friendly people (safe havens).
 
-Safe houses and safe havens should be in a relatively anonymous community where neighbours won't be suspicious about what is going on, or in a community where the neighbours can be relied on not to inform.
+# Choosing a safe house
 
-Safe houses and safe havens should be in locations which allow observation of approaches to the property. There should be a number of emergency escape routes which are known to all those who may need to stay there. They should ideally have a secure parking place which would make it harder to place a tracker under the car at night. Safe houses should be secure, with locks on windows, doors and gates and have a good quality alarm system and/or a dog. They should have a modicum of comfort - with appropriate running water, heating and electricity.
+## Neighbourhood
 
-Safe houses that are usually empty should be regularly serviced. Houses should not be left empty for weeks/months on end, as this may look suspicious: post should be collected regularly; the grass should be cut. If the house is unoccupied, non-sensitive activity should occur in the house every few days to make it look occupied. Ideally all rent and bills should be paid using cash to avoid leaving a trace.
+Choose a community:
 
-Safe houses and safe havens might need the following:
+*	Where you are likely to be anonymous and not raise suspicion;
+*	That is unlikely to inform on activity in the safe house.
 
-*   Sufficient supplies of fuel, food, batteries and water for each person to last for a minimum of ten days.
-*   Emergency generator
-*   Battery or wind up mechanical radio and ideally a TV  
-*   Clothing, especially outerwear appropriate for varying weather conditions
-*   Advanced first aid kit with necessary medications as required
-*   Flashlights with extra batteries*   Maps and communication plans as appropriate (to plan for emergency evacuation)
-*   Fully charged mobile phones and chargers, appropriate credit  
-*   Satellite phone and charger (if issued)  
-*   Sufficient amounts of extra cash
-*   Items to reduce psychological stress upon anyone using the safe-house (e.g. books, magazines, board games, games consoles etc.)
+## Approach
 
-All sensitive waste produced at the house should be shredded/ securely burnt and disposed of. Residents should be aware of all possibly incriminating evidence that may be held there: electronic equipment; documents; travel tickets; receipts; or general waste which indicates the number, type or activities of the people using the house.
+Choose a building with: 
 
-Emergency grab bags for each person should be located close to the most likely emergency escape routes. See the [Protective Equipment](umbrella://lesson/protective-equipment) lesson for details on what to pack in a grab bag.
+*	Oversight over approaches and entrances. 
+*	Emergency escape routes which are known to team members. 
+*	Secure parking to prevent others accessing your vehicle or placing a tracker. 
+
+(Learn more about this in [counter-surveillance](umbrella://lesson/counter-surveillance/2).)
+
+## Security and comfort
+
+Choose a space with: 
+
+*	Locks on windows, doors and gates.
+*	A quality alarm system, or a dog if appropriate. 
+*	Appropriate water, heating and electricity.
+
+## Maintenance
+
+*	Pay rent and bills in cash to avoid leaving a paper trail.  
+*	Arrange for empty safe houses to be serviced to avoid suspicion (collect mail, cut grass). 
+*	Arrange activity for empty safe houses to make them look occupied. 
+
+## Equipment
+
+Consider:
+
+*   Fuel, food, batteries and water to last everyone in it at least ten days;
+*   An emergency generator;
+*   Battery-powered or wind-up mechanical radio;
+*   Clothing, especially weather-proof outerwear;
+*   Advanced first aid kit with extra medications as required;
+*   Flashlights with extra batteries;
+*   Maps, emergency evacuation procedures;
+*   Mobile phones with top-up credit and chargers; 
+*   Satellite phone and charger if needed; 
+*   Sufficient cash;
+*   Items to reduce stress (e.g. books, magazines, TV, board games, games consoles etc.)
+
+## Waste
+
+Shred, burn, or destroy waste that may reveal information about you or the safe house.
+
+Consider:
+
+*	Documents;
+*	Ticket stubs; 
+*	Receipts;
+*	Electronic waste;
+*	General waste which reveals the number of people using the house or what they are doing.
