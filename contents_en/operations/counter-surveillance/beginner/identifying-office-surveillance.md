@@ -31,7 +31,7 @@ _Is someone standing somewhere unexpected?_
 *	Concentrate on unusual activities;
 *	Apply common sense.
 
-_Do they look local? Are they paying unusual attention to you? _
+_Do they look local? Are they paying unusual attention to you?_
 
 **Look for 3 unusual signs or 3 repeat sightings.**
 
