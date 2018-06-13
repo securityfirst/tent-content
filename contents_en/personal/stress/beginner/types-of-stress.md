@@ -28,7 +28,7 @@ Direct experience of, or close exposure to, incidents that are life-threatening 
 
 Prolonged stress which can occur months or even years after a traumatic incident. 
 
-[Stress expert]((umbrella://lesson/stress/2) deals with post-traumatic stress.  
+[Stress expert](umbrella://lesson/stress/2) deals with post-traumatic stress.  
 
 # Manage stress
 
