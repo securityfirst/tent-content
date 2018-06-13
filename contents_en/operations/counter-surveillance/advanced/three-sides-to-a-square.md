@@ -12,11 +12,11 @@ Try this alone or with a team.
 
 ## Move in a square instead of a line
 
-1.	To get from A to B, add C and D. In other words, make at least 3 unscheduled turns.
+1. To get from A to B, add C and D. In other words, make at least 3 unscheduled turns.
 
 ![image](countersurveillance.png)
 
-2.	Make at least 3 unscheduled stops to observe 3 sides of the square.  
+2. Make at least 3 unscheduled stops to observe 3 sides of the square.  
 
 ## Reasons to stop
 
@@ -35,9 +35,3 @@ If you enter a building, make it hard for watchers to see what you are doing, an
 *	Allow you to move quickly. 
 
 Pay up front and avoid ordering hot food.
-
-
-
-
-  
-
