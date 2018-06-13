@@ -36,7 +36,7 @@ Maintain spiritual health consistent with your personal beliefs.
 
 ## Maintain a sense of humour and perspective
 
-Try to have contact with others outside of the work environment.
+Keep in contact with others outside your immediate environment.
 
 ## Be informed
 
@@ -45,9 +45,8 @@ Try to have contact with others outside of the work environment.
 
 ## Talk to people 
 
-Sharing a problem with others may help you find a solution and will make you feel less isolated. 
-
-Keep a journal or write letters if you can't talk to others. 
+*	Sharing a problem with others may help you find a solution and will make you feel less isolated. 
+*	Keep a journal or write letters if you can't talk to others. 
 
 ## Change a stressful environment
 
