@@ -86,6 +86,6 @@ Clearly define who will do, and take, what.
 
 Will you be able to continue working remotely, or return later?  
 
-Will local groups or contractors continue your work? 
+Will local groups or contractors continue your work? What policies do you need in place for that to happen?
 
-What policies do you need in place for that to happen?
+If you will not return, ensure humane and correct termination of staff or contracts and dispose of assets, as appropriate.
