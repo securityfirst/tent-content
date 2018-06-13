@@ -1,13 +1,13 @@
 [Title]: # (Use public transport)
 [Order]: # (8)
 
-Switching from walking to riding makes it harder for watchers to keep up.
+### Switching from walking to riding makes it harder for watchers to keep up.
 
 # Get on a bus
 
 Buses are slower than other vehicles, making them harder to follow by car. 
  
-*	Ensure you can pay the fare. 
+*	Make sure you can pay the fare. 
 *	Sit at the back to observe who follows.
 *	Sit where you can observe other vehicles overtaking.
 *	For covert counter-surveillance, switch to a second bus going a different way to make it look like you are lost.
@@ -27,4 +27,4 @@ Trains are faster than other vehicles, making them hard to follow.
 
 Taxi drivers may have useful local knowledge. In some countries they can use bus lanes, making them harder for surveillance vehicles to follow.
 
-[Learn about [borders](umbrella://lesson/borders).)
+(Learn about [borders](umbrella://lesson/borders).)
