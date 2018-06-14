@@ -10,8 +10,7 @@ Consider:
 *	Jerrycan of spare fuel (20 litres);
 *   Jerrycan of water (20 litres);
 *   Additional oil;
-*   Maps;
-*   GPS;
+*   Maps, GPS, compass;
 *   Spare wheel (x2);
 *   Basic tools (e.g. jack, wrench, wheel brace); 
 *   Fluorescent warning triangle;
@@ -32,7 +31,7 @@ Consider:
 *	Logbook and blank accident report;
 *   Other key documents (ID, proof of immunization, etc.)
 
-(Learn more about key documents in [preparation](umbrella://lesson/preparation).)
+(Learn more about this in [preparation](umbrella://lesson/preparation).)
 
 ## General items:
 
@@ -45,4 +44,4 @@ Consider:
 *   Weather-proof clothing;
 *   Blankets or shade structure.
 
-(Learn more equipment options in [preparation](umbrella://lesson/preparation).)
+(Learn more about this in [preparation](umbrella://lesson/preparation).)
