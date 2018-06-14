@@ -1,12 +1,50 @@
-[Title]: # (Dealing with it)
+[Title]: # (Treatment)
 [Order]: # (13)
 
-# Dealing with it
+### PTSD can be treated, even when it develops years later. 
 
-It is normal to experience upsetting and confusing thoughts after a traumatic event, but in most people these will improve naturally over a few weeks. However you should visit your doctor if you are still having problems about four weeks after the traumatic experience, or if the symptoms are particularly troublesome. Your doctor may refer you to mental health specialists if they feel you would benefit from treatment.
+Most symptoms of traumatic stress improve naturally in a few weeks. 
 
-PTSD can be successfully treated, even when it develops many years after a traumatic event. Treatment depends on the severity of symptoms and how soon they occur after the traumatic event. Any of the following treatment options may be recommended:
+## Seek treatment
 
-*   Watchful waiting - waiting to see whether the symptoms improve without treatment
-*   Psychological treatment - psychotherapy such as trauma-focused cognitive behavioural therapy (TF-CBT)
-*   Antidepressant medication
+See a doctor if symptoms: 
+
+*	Are severe and disruptive;
+*	Continue for more than four weeks. 
+
+A doctor may refer you to an expert or mental health specialist.
+
+## Treatment options
+
+Treatment depends on the severity and duration of symptoms. 
+
+An expert may recommend:
+
+*   **Watchful waiting** to see if symptoms improve without treatment;
+
+*   **Psychotherapy** such as trauma-focused cognitive behavioural therapy (TF-CBT);
+
+*   **Antidepressant medication.**
+
+## Social and cultural context
+
+*	Some cultures are more resistant than others when it comes to recognising PTSD. If there is little awareness of the issue: 
+	* Find supportive allies;
+    * Consult online resources;
+    * Ask for what you need. 
+
+*	Language about mental health may not reflect how stress is understood and managed everywhere. 
+
+  • Is there a concept of stress and trauma in the culture; how do people
+  experience it, identify it and describe it?
+
+  • How has it been dealt with traditionally and historically, and who would
+  deal with it?
+
+  • What is the nature of stress and trauma today, and how has it changed
+  from before?
+
+  • What coping strategies are currently being pursued and why, and how
+  effective are they?
+
+  • What resources can be used to address current needs? 
