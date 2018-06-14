@@ -49,9 +49,11 @@ Consider:
 *   Clothing, especially weather-proof outerwear;
 *   Advanced first aid kit with extra medications as required;
 *   Flashlights with extra batteries;
+*   Candle and matches;
+*   Strong string or wire;
 *   Maps, emergency evacuation procedures;
-*   Mobile phones with top-up credit and chargers; 
-*   Satellite phone and charger if needed; 
+*   Mobile phones with SIM, prepaid top-up credit and chargers; 
+*   Satellite phone and charger or radio if needed; 
 *   Sufficient cash;
 *   Items to reduce stress (e.g. books, magazines, TV, board games, games consoles etc.)
 
