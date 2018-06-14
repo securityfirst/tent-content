@@ -14,3 +14,4 @@ Learn how to deal with traumatic stress in [Stress Advanced](umbrella://lesson/s
 *   ECHO, Generic Security Guide for Humanitarian Organisations, available at [eisf.eu](https://www.eisf.eu/library/generic-security-guide-for-humanitarian-organisations/).
 *	Tactical Tech, [Holistic Security Manual] (https://holistic-security.tacticaltech.org/).
 *	World Health Organization, [Psychological First Aid: Guide for Field Workers](http://apps.who.int/iris/bitstream/handle/10665/44615/9789241548205_eng.pdf;jsessionid=4E126E43D802F7A9743DF8B4ECAA8FD2?sequence=1).  
+*	Columbia Journalism School, [Dart Center for Journalism and Trauma](https://dartcenter.org/).
