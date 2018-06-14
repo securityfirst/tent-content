@@ -27,7 +27,7 @@
 
 * From any page on Facebook, open the Help menu under the question mark icon and select *Privacy Checkup* or *Privacy Shortcuts* for quick answers about privacy and your account.
 
-* In the Facebook app, click Settings > Location to view and delete your location history. 
+* Click Settings > Location to view and delete your location history. To switch off location tracking, open the Facebook app you use on a mobile device, and go to Settings > Account Settings > Location > Location history.  
 
 * Facebook privacy settings change frequently. To stay on top of them, we recommend you read the news and check the site itself frequently, too. 
 
