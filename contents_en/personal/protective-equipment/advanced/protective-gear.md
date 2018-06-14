@@ -1,4 +1,11 @@
 [Title]: # (Protective Gear)
 [Order]: # (0)
 
-Journalists and humanitarian workers should be fully equipped with gear appropriate to the situation they are operating in. In extreme circumstances, this could involve wearing hazmat suits, carrying detectors, or ingesting oral tablets to block or act against possible biological, chemical, or nuclear agents. In combat zones, it would involve wearing body armor rated to withstand shrapnel and high-powered bullets. In cases of street clashes or violence, it could mean wearing an inconspicuous anti-stab vest.
+### If you work in extreme conditions or combat zones, you should be fully equipped. 
+
+## In extreme conditions
+
+This could involve:
+
+*	Wearing hazmat suits;
+*	Carrying detectors, or ingesting oral tablets to block or resist possible biological, chemical, or nuclear agents. 
