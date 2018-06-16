@@ -25,7 +25,9 @@
 
 * Default privacy settings for Facebook posts apply to video streamed on Facebook Live, too. You can adjust the settings for any individual post. (Read Facebook's instructions [here] (https://www.facebook.com/help/120939471321735?helpref=related).)  
 
-* From any page on Facebook, open the Help menu under the question mark icon and select *Privacy Checkup* or *Privacy Shortcuts* for quick answers about privacy and your account.  
+* From any page on Facebook, open the Help menu under the question mark icon and select *Privacy Checkup* or *Privacy Shortcuts* for quick answers about privacy and your account.
+
+* Click Settings > Location to view and delete your location history. To switch off location tracking, open the Facebook app you use on a mobile device, and go to Settings > Account Settings > Location > Location history.  
 
 * Facebook privacy settings change frequently. To stay on top of them, we recommend you read the news and check the site itself frequently, too. 
 

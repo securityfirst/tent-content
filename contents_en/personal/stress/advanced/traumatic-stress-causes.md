@@ -1,9 +1,20 @@
-[Title]: # (Traumatic Stress - Causes)
+[Title]: # (Traumatic Stress)
 [Order]: # (0)
 
-# Traumatic Stress - Causes
+### Traumatic stress is a normal reaction to an abnormal situation.
 
-Human rights activists do difficult and challenging work, and see a good deal of human misery. We may even be fearful for our lives at times. It is therefore important to know how to react following a traumatic event, and how to recognise the symptoms of traumatic stress. (Post-traumatic stress is dealt with in the Expert Lesson.)
+Any event which causes distress and is outside normal human experience can result in traumatic stress. 
 
-Any event which is very distressing and outside of the realm of normal human experience can result in traumatic stress. Traumatic stress usually produces a very intense response, including fear and/or helplessness, which may overwhelm the individual's coping mechanisms. Such a response is a **normal reaction to an abnormal situation.**
+If you do difficult, sensitive work, see human misery, or fear for your security, it is important to know how to react to trauma and recognise the symptoms of traumatic stress. 
+
+## Traumatic stress can: 
+
+*	Produce a very intense response;
+
+*	Produce fear or helplessness;
+
+*	Overwhelm coping mechanisms. 
+
 ![image](stress3.png)
+
+[Stress expert](umbrella://lesson/stress/2) deals with post-traumatic stress.  

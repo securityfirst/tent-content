@@ -10,8 +10,7 @@ Hidden recording devices are:
  
 Many bugs look like ordinary items or electronic devices. 
 
-_In some countries, hotels are routinely bugged to spy on business people, diplomats, NGOs, and other guests.
-_
+_In some countries, hotels are routinely bugged to spy on business people, diplomats, NGOs, and other guests._
 
 ## Avoid bugs
 

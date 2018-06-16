@@ -10,9 +10,9 @@
 ## Seek legal support 
 
 Engage a good lawyer who:
-	*	Knows the local language and legal system;
-    *	Has relevant experience
-    *	May have useful connections.
 
-Some arrests may be made for legitimate reasons and the team member may have to account for their actions. 
+*	Knows the local language and legal system;
+*	Has relevant experience
+*	May have useful connections.
 
+Some arrests may be made for legitimate reasons and the team member may have to account for their actions.

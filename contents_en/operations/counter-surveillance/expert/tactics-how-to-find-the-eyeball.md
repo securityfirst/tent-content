@@ -1,11 +1,11 @@
 [Title]: # (Identify the eyeball)
 [Order]: # (20)
 
-The eyeball is whoever is watching you at the time. 
+### The eyeball is whoever is watching you at the time. 
 
-(Learn more about this in [counter-surveillance advanced] (umbrella://lesson/counter-surveillance/1).)
+(Learn more about this in [counter-surveillance advanced](umbrella://lesson/counter-surveillance/1).)
 
-## Only act if it is safe to do so while driving
+## If safe to do so while driving:
 
 ### Create natural opportunities to look for repeat sightings of a person or vehicle.
 
@@ -23,7 +23,7 @@ The eyeball is whoever is watching you at the time.
 
 *	Drive onto a motorway or highway, then take the next exit;
 
-*	Exit a motorway or highway, then turn back onto it again.
+*	Exit a motorway or highway, then turn back onto it again;
 
 *	If in a team, spread out.
 
@@ -33,11 +33,6 @@ The eyeball is whoever is watching you at the time.
 
 *	Take a phone call;
 
-*   Stop immediately after taking a turn to force others to overtake
+*   Stop immediately after taking a turn to force others to overtake.
 
-*Only create opportunities to evade surveillance if absolutely vital.* 
-
-
-
-
-
+*Only create opportunities to evade surveillance if absolutely vital.*

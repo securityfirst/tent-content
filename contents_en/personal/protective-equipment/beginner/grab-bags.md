@@ -1,6 +1,14 @@
 [Title]: # (Grab Bags)
 [Order]: # (5)
 
-Grab bags are bags filled with an individual's survival essentials in case they need to move rapidly. They should be prepared for high-risk activists, journalists and humanitarians at times of heightened risk and kept close to an exit in their residence - somewhere easy to grab and run.
+### A grab bag contains the essentials you need to leave rapidly. 
 
-You should plan out several potential escape routes in case of emergency. Remember that the best escape route may vary depending on the time of day (e.g. across the roof at night-time, via a garden fence in the day time) so it is important to move the grab bags to the appropriate location as necessary.
+Prepare a grab bag at times of heightened risk.
+
+## Where to keep it
+
+*	Keep a grab bag close to an exit where you can grab it and run.
+
+*	Plan out several potential escape routes in case of emergency. 
+	*	Different routes may be better at different times (e.g. across the roof at night, or over a fence in daylight). 
+  *	Move grab bags to the best location whenever necessary.

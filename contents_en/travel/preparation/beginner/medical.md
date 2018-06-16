@@ -13,7 +13,7 @@
         
 *Note: some countries require certificates of vaccination as a condition of entry.*
 
-*   Obtain medication you need to carry on your trip.
+*   Obtain medication and prescriptions you need to carry on your trip.
 
 *	Obtain first aid kits and training if necessary. 
 

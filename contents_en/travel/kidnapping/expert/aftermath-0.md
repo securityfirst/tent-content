@@ -7,7 +7,13 @@
 *	Enable communication and reunion with loved ones;
 *	Arrange time off with full pay and benefits.
 * 	Facilitate appropriate professional counselling and long-term support.
-*   Specific preparations need to be made in case of a negative outcome.
+
+## If the captive dies
+
+Specific preparations need to be made in case of a negative outcome, possibly including: 
+
+*	Repatriation of mortal remains;
+*	Investigation into the circumstances of the death. 
 
 ## Debrief
 

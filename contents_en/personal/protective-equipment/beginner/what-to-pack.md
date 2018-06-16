@@ -1,31 +1,39 @@
 [Title]: # (What to Pack)
 [Order]: # (6)
 
-A grab bag might include:
+What you need in your grab bag will depend on many factors, but here are some ideas. 
 
-*   Passport/ID - with multi-entry visas
-*   Copies of other key personal and travel documents  (e.g. driving licence)
-*   List of emergency contacts and addresses
-*   First aid kit including prescription medicines and medical prescriptions
-*   Swiss army knife
-*   Spare clothes (ensure appropriate for the context)
-*   Map/compass (if appropriate to carry maps)
-*   Water bottle  (with water filter/ water purification tablets)
-*   High-energy food (nuts/ snack bars/ chocolate etc.)
-*   Mobile phone, charger and pre-paid scratch cards if necessary
-*   Torch and batteries
-*   Candle
-*   Strong string/wire
-*   Money (local currency and US dollars; credit cards)
-*   Travelling tooth brush/paste and soap
-*   Waterproof clothing
-*   Insect repellent/Sun-cream
-*   Pen and paper
-*   Prescription glasses (if needed) and sun glasses
-*   Matches
-*   Condoms - can be useful for keeping things dry
-*   Phrase book (for foreign language speakers)
-*   A head covering
-*   Hand-held mirror
-*   Radio
-*   Satellite phone and charger (if issued)
+## Documents
+
+*   Passport and multi-entry visas, as needed;
+*   Driver's licence and other key documents or copies;
+*   Money (local currency, US dollars, credit cards);
+*   Emergency contacts and addresses.
+
+## Personal items
+
+*   Medication, prescriptions, and first aid kit;
+*	Water bottle and snacks;
+*	Weather-proof, context appropriate clothing;
+*   A head covering;
+*   Mosquito net and repellent; 
+*	Sunblock;
+* 	Toiletries;
+*	Contraceptives (condoms can also keep things dry);
+*	Prescription glasses, contact lenses, or sunglasses.
+
+(Learn more about this in [preparation](umbrella://lesson/preparation).) 
+
+## Information and communications
+
+*   Mobile phones with SIM, prepaid top-up credit and chargers; 
+*   Satellite phone and charger or radio if needed; 
+*   Pens and paper;
+*	Maps, if appropriate.
+
+## General survival items
+
+*   Swiss army knife;
+*   Torch and batteries;
+*   Candle and matches;
+*   Strong string or wire.

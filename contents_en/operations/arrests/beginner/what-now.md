@@ -3,7 +3,7 @@
 
 Swipe right for this lesson's checklist.
 
-Learn what to do if one of your team is arrested in [arrests advanced]((umbrella://lesson/arrests/1).
+Learn what to do if one of your team is arrested in [arrests advanced](umbrella://lesson/arrests/1).
 
 ### RELATED LESSONS/TOOLS
 
