@@ -1,6 +1,6 @@
 [Title]: # (Seek their release)
 [Order]: # (1)
-  
+
 ## Understand the situation
 
 *	Communicate with the person who was arrested as soon as you can.

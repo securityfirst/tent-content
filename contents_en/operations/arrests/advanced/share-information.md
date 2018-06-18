@@ -1,6 +1,6 @@
 [Title]: # (Share information)
 [Order]: # (2)
-  
+
 # Manage communications
 
 ## Liaise with family and loved ones. 
