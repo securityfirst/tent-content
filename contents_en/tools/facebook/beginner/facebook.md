@@ -29,6 +29,8 @@
 
 * Click Settings > Location to view and delete your location history. To switch off location tracking, open the Facebook app you use on a mobile device, and go to Settings > Account Settings > Location > Location history.  
 
+* View (and delete) other people's contact information you have uploaded or set to continuously upload to Facebook at [https://www.facebook.com/mobile/facebook/contacts/](https://www.facebook.com/mobile/facebook/contacts/).
+
 * Facebook privacy settings change frequently. To stay on top of them, we recommend you read the news and check the site itself frequently, too. 
 
 ## 1. Security 
