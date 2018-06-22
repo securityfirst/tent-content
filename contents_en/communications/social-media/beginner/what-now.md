@@ -21,3 +21,4 @@ Learn to combat other types of abuse in [Social Media Expert](umbrella://lesson/
 *	Tactical Tech, [Me and My Shadow](https://myshadow.org/)
 *   Security in a Box, [Social Networking Platforms](https://securityinabox.org/en/guide/social-networking/web/).
 * *The Guardian* [news reports] (https://www.theguardian.com/uk-news/cambridge-analytica) on Cambridge Analytica.
+*	Baratunde Thurston, Medium, [Find Out What Google and Facebook Know About You](https://medium.com/s/trustissues/find-out-what-google-and-facebook-know-about-you-31d0fa6d7b61).
