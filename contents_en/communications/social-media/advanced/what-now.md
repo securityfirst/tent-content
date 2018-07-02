@@ -17,4 +17,5 @@ Learn to combat other types of abuse in [Social Media Expert](umbrella://lesson/
 ### SOURCES
 
 *   Take Back the Tech, [Hate Speech](https://www.takebackthetech.net/know-more/hate-speech);
-*	PEN America, [Online Harassment Field Guide](https://onlineharassmentfieldmanual.pen.org/).
+*	PEN America, [Online Harassment Field Guide](https://onlineharassmentfieldmanual.pen.org/);
+*	Tactical Tech, XYZ, [Online Harassment of Politically-Active Women: An Overview,](https://xyz.informationactivism.org/en/online-harassment-of-politically-active-women-overview) Semanur Karaman.
