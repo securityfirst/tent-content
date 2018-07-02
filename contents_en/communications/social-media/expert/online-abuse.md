@@ -1,6 +1,14 @@
 [Title]: # (Online abuse)
 [Order]: # (0)
 
+Online abuse usually involves: 
+
+*	Harassment and humiliation of the target;
+*	Harassing family, friends and employers to isolate the target;
+*	Tactics to make the target fearful. 
+
+Abuse aimed at younger people may be called [cyberbullying](https://cyberbullying.org/).
+
 There are many different types of online abuse. 
 
 ## Blackmail
@@ -13,13 +21,9 @@ Blackmailers may threaten to disseminate the information online, or demand money
 
 ## Cyberstalking 
 
-Using technology to track someone, keep them under surveilance, or use their personal information to harass, intimidate or threaten them for reasons of anger, revenge or control.
+Using technology to track someone, keep them under surveilance, or monitor their activity to harass, intimidate or threaten them for reasons of anger, revenge or control.
 
-Cyberstalking may include:
-*	Harassment and humiliation of the target;
-*	Harassing family, friends and employers to isolate the target;
-*	Tactics to make the target fearful;
-*	Monitoring (e.g., using Facebook notifications to find out where the person is going, using spyware, activating GPS).
+Monitoring may involve using social media notifications to find out where someone is going, using spyware, or accessing location data.
 
 ## Defamation
 
