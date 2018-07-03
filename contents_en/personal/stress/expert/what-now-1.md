@@ -15,3 +15,5 @@ Learn how to deal with traumatic stress in [Stress Advanced](umbrella://lesson/s
 *	Tactical Tech, [Holistic Security Manual] (https://holistic-security.tacticaltech.org/).
 *	World Health Organization, [Psychological First Aid: Guide for Field Workers](http://apps.who.int/iris/bitstream/handle/10665/44615/9789241548205_eng.pdf;jsessionid=4E126E43D802F7A9743DF8B4ECAA8FD2?sequence=1).  
 *	Columbia Journalism School, [Dart Center for Journalism and Trauma](https://dartcenter.org/).
+*	Antares Foundation, [Managing Stress in Humanitarian Workers: Guidelines for good practice](https://www.antaresfoundation.org/filestore/si/1164337/1/1167964/managing_stress_in_humanitarian_aid_workers_guidelines_for_good_practice.pdf) (Third edition) 
+*	The KonTerra Group, [Essential Principles of Staff Care: Practices to strengthen resilience in international humanitarian and development organizations](http://www.konterragroup.net/admin/wp-content/uploads/2017/03/Essential-Principles-of-Staff-Care-FINAL.pdf)
