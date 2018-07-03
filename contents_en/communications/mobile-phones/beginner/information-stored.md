@@ -75,4 +75,16 @@ CameraV can:
 *	Store media with valuable metadata securely; 
 *	Strip metadata from images and video to share on social media.
 
+## Use eyeWitness to Atrocities 
+
+eyeWitness is a free Android app that you can use to capture sensitive photo and video that may be used in trials.
+
+eyeWitness can:
+
+*	Store images and metadata captured using the app safely on your device;
+*	Upload images to a secure server for legal analysis;
+*	Store offline copies of images that may be used as evidence and document who has access. 
+
+[eyeWitness to Atrocities](http://www.eyewitnessproject.org/) is available from Google Play, or request a direct download from [general@eyewitnessproject.org](general@eyewitnessproject.org).
+
 ![image](mobile3.png)
