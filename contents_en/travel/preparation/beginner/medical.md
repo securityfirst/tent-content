@@ -24,16 +24,15 @@ the chances of illness." ECHO, Generic Security Guide for Humanitarian Organisat
 
 *   Inform your team of medical conditions, emergency contacts, and treatment needed in an emergency.
 
-*   Create a medical emergency card. 
+*   Create a medical emergency card. Consider including:
 
-Consider including:
-		*	Name and emergency contact;
-		*	Medical conditions; 
-		*	Medications you are taking;
-		*	Blood group;
-		*	Allergies; 
-		*	Doctor and insurance contact information;
-        *	A UN language and local language translation if appropriate. 
+	*	Name and emergency contact;
+	*	Medical conditions; 
+	*	Medications you are taking;
+	*	Blood group;
+	*	Allergies; 
+	*	Doctor and insurance contact information;
+    *	A UN language and local language translation if appropriate. 
 
 *	Research the best hospital at your destination.
 
