@@ -11,6 +11,10 @@ Examples include:
 *	Speech that trivialises the Holocaust. 
 *	Speech that glorifies attacks on people because of their race.
 
+Use of the term hate speech may overlap with trolling. Trolls post obscene or inflammatory comments to destabilise debate or attack someone.
+
+[Social media expert](umbrella://lesson/social-media/2) outlines other examples of online abuse.
+
 ## Hate speech is not free speech
 
 *	People of all backgrounds have a right to use their voices and to express themselves however they want. Hate speech is a violation of this right. 

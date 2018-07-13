@@ -9,7 +9,7 @@
 
 *	Avoid choke points, such as narrow alleys.
 
-((Learn more about this in [counter-surveillance expert] (umbrella://lesson/counter-surveillance/2).)
+(Learn more about this in [counter-surveillance expert] (umbrella://lesson/counter-surveillance/2).)
 
 *   Consult experts about route conditions. Change routes as necessary. 
 
@@ -18,15 +18,15 @@
 ### Look up:
 
 *	Weather reports.
-*   Recent incidents. *Check the Dashboard for information about your area*
+*   Recent incidents. *Check the Feed for information about your area.*
 *   Location of known checkpoints.
 
 (Learn about [checkpoints](umbrella://lesson/checkpoints).)
 
 *   Other danger points. 
-		* Does the route pass through an area controlled by military, a warlord or local leader? 
-        * Has negotiation been carried out and permissions obtained and understood prior to leaving
-        * Conflict lines and areas of insecurity should be rigorously checked before travel.      
+	* Does the route pass through an area controlled by military, a warlord or local leader? 
+    * Have you negotiated passage or obtained necessary permission?
+    * Conflict lines and areas of insecurity should be rigorously checked before travel.      
 *   Safe waypoints.
 *   Refuelling stops.
 *   Food stops.

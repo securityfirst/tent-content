@@ -4,7 +4,7 @@
 # Two-Factor Authentication (2FA)  
 
 *	**Accounts with a password protect your information with something you *know.*** 
-*	**Accounts with 2FA also protect your information with something that you *have.* **
+*	**Accounts with 2FA also protect your information with something that you *have.***
 
 It's easy to add extra security to your accounts with 2FA, and recommended for everyone.
 

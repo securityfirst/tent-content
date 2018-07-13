@@ -22,9 +22,10 @@ What you reveal to border authorities depends on context and risk.
 (Learn about risk assessment for travel [preparation](umbrella://lesson/preparation).)
 
 A cover story does not have to be the full truth, but it should be: 
-		*   Simple;
-		*   Easily repeatable;
-		*   Verifiable.
+
+*   Simple;
+*   Easily repeatable;
+*   Verifiable.
 
 It may not be wise, or possible, to lie, but neither should you volunteer information. 
 

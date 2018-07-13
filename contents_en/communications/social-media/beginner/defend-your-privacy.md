@@ -15,6 +15,8 @@ Privacy settings are subject to change. Make sure your privacy hasn't been under
 
 # Block trackers
 
-Browser extensions and add-ons can block trackers, like cookies, that transmit data about your online activity to third parties.
+Browser extensions and add-ons can block trackers, like cookies, that transmit data about your online activity to third parties. Third parties may include ad networks, analytics providers, or other data collectors. 
 
-[Prevent online tracking] (https://myshadow.org/prevent-online-tracking) from Me and My Shadow lists useful extensions. 
+[uBlock Origin](https://github.com/gorhill/uBlock) and [Privacy Badger](https://www.eff.org/privacybadger) by EFF are examples of traffic blocking browser extensions.  
+
+[Prevent online tracking] (https://myshadow.org/prevent-online-tracking) from Me and My Shadow lists useful extensions.

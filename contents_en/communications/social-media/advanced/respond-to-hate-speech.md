@@ -14,7 +14,7 @@ Journalist Dawn Foster decided not to engage: "In the end, I discovered the best
 
 Columnist and fiction writer Bina Shah uses all the tools at her disposal, including reporting: "Be ready to report them if they threaten you with violence. Expose them. They expect you to cower with fear. Don’t do it. Show them who’s boss."
 
-(Learn to report other types of [online abuse](umbrella://lesson/social-media/2).)
+(Learn more about this in [social media expert](umbrella://lesson/social-media/2).)
 
 ## Expose them
 
@@ -36,4 +36,4 @@ Human rights activist Vani keeps her real name quiet: "I voice my opinions on a 
 
 Feminist writer Sady Doyle won't be stopped: "The best way to 'stay safe' online may simply be to stay online. After all: If there’s no one left willing to complain about the harassment, what are the odds that it’s going to change?"
 
-(Learn how to protect yourself from [phishing] (umbrella://lesson/phishing) and [malware] (umbrella://lesson/malware/0).)
+(Learn about [phishing] (umbrella://lesson/phishing) and [malware] (umbrella://lesson/malware/0).)

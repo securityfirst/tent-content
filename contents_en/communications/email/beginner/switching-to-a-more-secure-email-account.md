@@ -29,5 +29,6 @@ Emails between users of the same service are encrypted end-to-end, so the provid
 RiseUp [https://mail.riseup.net](https://mail.riseup.net) offers free email to activists, strong privacy policies, and a commitment to protect information on their servers.  
 
 To create a RiseUp account: 
+
 *	Ask two existing users for an invite code; or,
 *	Tell RiseUp about yourself and they may give you access.

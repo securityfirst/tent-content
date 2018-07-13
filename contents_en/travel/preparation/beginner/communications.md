@@ -9,8 +9,10 @@
 ## Burner phones
 
 *   Buy a prepaid SIM card and add funds. 
-		* Example brands: WorldSim, Lebara.
-        * Purchasing a SIM card at your destination may require you to register. 
+
+	* Example brands: WorldSim, Lebara.
+    * Purchasing a SIM card at your destination may require you to register. 
+
 *	Buy a disposable device. (Check it will work at your destination.)  
 
 (Learn about burner [mobile phones](umbrella://lesson/mobile-phones/0).)
@@ -32,6 +34,6 @@ These may be necessary if telecommunications networks are unreliable or may be s
 *	Store sensitive contact information securely. 
 *	If you really need to add sensitive contact information to your device in a hurry, create notes or reminders instead of the phone book. Disguise phone numbers and use code words where necessary.
 
-*Note numbers as dates, measurements, coordinates, quantities on a shopping list, or another formulation.*   
+*Disguise numbers as dates, measurements, coordinates, quantities on a shopping list, or another formulation.*   
 
 (Learn about [protecting files] (umbrella://lesson/protecting-files).)

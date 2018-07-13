@@ -64,7 +64,8 @@ A constant companion contains essentials in case of evacuation or emergency.
 
 (Learn about [evacuation](umbrella://lesson/evacuation).)
 
-Consider: 
+Consider:
+
 *	Cash;
 *	Key documents;
 *	Emergency names and contact information;

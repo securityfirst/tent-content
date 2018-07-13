@@ -15,4 +15,4 @@ Women have a right to be sexual; when we stop shaming women's sexuality, so-call
 
 > *"[Anonymous online harassment] discourages women from writing and earning a living online. It interferes with their professional lives. It brands them as incompetent workers and inferior sexual objects."* Danielle Keats Citron, US lawyer 
 
-((Learn about [hate speech against women](umbrella://lesson/social-media/2)) 
+(Learn about [hate speech against women](umbrella://lesson/social-media/2))

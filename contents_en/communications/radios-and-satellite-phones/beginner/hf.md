@@ -9,11 +9,11 @@
 *	Work without repeaters.  
 *	Commonly used brands: Codan and Barrett.
 
-_Note:
+Note:
 
 *	Transmission range may be influenced by time of day; weather conditions; electrical interference; poor system configuration. 
 *	It takes skill to achieve reliable HF connectivity over long distances. HF radios are often installed in vehicles or at base stations. 
-* 	Generally more expensive than VHF and require more maintenance._
+* 	Generally more expensive than VHF and require more maintenance.
 
 ## Advantages: 
 

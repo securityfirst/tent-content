@@ -9,11 +9,11 @@
 *	Often referred to as "line of sight," but can reach beyond that in many circumstances. 
 *	Commonly used brand: Motorola.
 
-_Note:
+Note:
 
 *	Thick trees and buildings can obstruct VHF signals. 
 *	Elevating the VHF antenna may improve transmission range;
-*	Before using a VHF radio or repeater, it may be necessary to obtain authorisation from the host government._
+*	Before using a VHF radio or repeater, it may be necessary to obtain authorisation from the host government.
 
 ### Repeaters
 

@@ -23,7 +23,7 @@ The person you are communicating with must also install Signal.
 
 ## Signal uses a central server. 
 
-*	Signal developers [Open Whisper Systems] operate a central server. You can't run your own, which would give you more control over your security. 
+*	Signal developers [Open Whisper Systems](https://signal.org/about/) operate a central server. You can't run your own, which would give you more control over your security. 
 *	However, they cannot hear your conversations, so no one else can either. 
 
 (Learn more about this in Signal for [Android] (umbrella://lesson/signal-for-android) and [iOS](umbrella://lesson/signal-for-ios).)
