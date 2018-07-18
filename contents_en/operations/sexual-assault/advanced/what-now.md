@@ -1,5 +1,5 @@
 [Title]: # (What Now?)
-[Order]: # (y)
+[Order]: # (10)
 
 Swipe right for this lesson's checklist.
 
@@ -14,4 +14,4 @@ Learn what to do if a team member is sexually assaulted in [sexual assault exper
 *   [Vehicle](umbrella://lesson/vehicles)
 *   [Counter-surveillance](umbrella://lesson/counter-surveillance/0)
 *   [Kidnapping] (umbrella://lesson/kidnapping/0)
-*   [Social Media](umbrella://lesson/social-media/0)
+*   [Social Medi](umbrella://lesson/social-media/0)
