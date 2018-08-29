@@ -146,7 +146,7 @@ Se abrirá una ventana con dos columnas: Nombre e ID de clave.
 ![image](tool_pgplin12. png)
 
 En el extremo derecho hay un pequeño botón. Haga clic en ese botón para configurar las columnas. Desmarque la opción ID de clave y haga clic en la opción Huella digital.
-![imagen](herramienta_pgplin13.png)
+![imagen](tool_pgplin13.png)
 
 Ahora cambie el ancho de la columna Huella digital moviendo el mouse hacia las líneas entre cada encabezado de columna (es decir, solo para a la izquierda del encabezado "ID de clave" en la parte superior de la lista de teclas) y arrastrando la línea hacia la izquierda. Sigue moviéndote hacia la izquierda hasta que puedas ver toda la identificación de clave, así:
 

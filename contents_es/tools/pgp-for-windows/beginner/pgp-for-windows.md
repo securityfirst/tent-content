@@ -112,7 +112,7 @@ Siguiente, tendrá la posibilidad de elegir dónde está instalado GPG. No cambi
 ![image](tool_pgpwin11.png)
 
 Las siguientes dos ventanas tendrán algunas opciones de instalación. Haga clic en el botón "Siguiente" y luego haga clic en el botón "Instalar":
-![Image](herramienta_pgpwin12.png)![Imagen](herramienta_pgpwin13.png)
+![Image](tool_pgpwin12.png)![Imagen](tool_pgpwin13.png)
 
 Verá una ventana con un progreso bar: cuando termine, dirá "Instalación completa." Haga clic nuevamente en el botón "Siguiente".
 ![image](tool_pgpwin14.png)
@@ -296,7 +296,7 @@ Ahora usted está configurado para enviar y recibir correo electrónico regular 
 Hay un último paso de configuración opcional para habilitar PGP / MIME, lo que hace que el envío se encripte y los archivos adjuntos firmados son más fáciles.
 
 Puede encontrar esta configuración haciendo clic en el botón de menú, al pasar el mouse sobre Opciones y luego hacer clic en Configuración de la cuenta. Se abrirá la ventana Configuración de la cuenta.
-![Imagen](herramienta_pgpwin46.png)
+![Imagen](tool_pgpwin46.png)
 
 Cuando se abra la ventana Configuración de la cuenta, haga clic en la pestaña Seguridad OpenPGP y luego haga clic en la casilla de verificación junto a Usar PGP / MIME. Luego haz clic en el botón Aceptar. Ahora Enigmail usará PGP / MIME de forma predeterminada.
 ![image](tool_pgpwin47.png)
