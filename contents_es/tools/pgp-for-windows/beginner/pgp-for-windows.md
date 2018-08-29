@@ -427,7 +427,7 @@ Se transformará en:
 ### 7.2 Recepción de correo cifrado PGP
 
 Pasemos por lo que sucede cuando recibe correos electrónicos encriptados. Tenga en cuenta que Mozilla Thunderbird le informa que tiene correo nuevo. Haga clic en el mensaje.
-![image](too.png; _pgpwin71)
+![image](tool_pgpwin71.png)
 
 Se abre una pequeña ventana que le solicita la contraseña de la clave PGP. Recuerde: no ingrese su contraseña de correo electrónico. Haga clic en el botón "Aceptar".
 ![image](tool_pgpwin72.png)
