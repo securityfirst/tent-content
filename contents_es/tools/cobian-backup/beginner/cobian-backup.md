@@ -160,7 +160,7 @@ Una vez que haya decidido hacer una copia de seguridad, habrá completado el úl
 **Paso 1.** Cree una tarea de respaldo como se documenta en la sección 2.3, que contiene los archivos de respaldo que desea archivar.
 
 **Paso 2.** Seleccione "Archivar" desde la barra lateral izquierda para activar la pantalla _New task_ de la siguiente manera:
-![Image](tool_cobian9. png)
+![Image](tool_cobian9.png)
 
 El panel **Compresión** se usa para especificar el método para comprimir su copia de seguridad.
 

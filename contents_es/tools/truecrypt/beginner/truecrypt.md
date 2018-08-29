@@ -66,7 +66,7 @@ Marque la casilla Acepto y acepto estar sujeto a la opción _license terms_ para
 **Paso 4.** Haga clic en "Instalar" para activar la pantalla _Instalación_ para comenzar a instalar TrueCrypt en su sistema. 
 
 **Paso 5.** Haga clic en "Ok" y luego "Finalizar" para activar la siguiente pantalla:
-![image](tool_truecrypt4. png) 
+![image](tool_truecrypt4.png) 
 
 **Paso 6.** Haga clic en "Sí" para completar la instalación de TrueCrypt. 
 
