@@ -1,15 +1,11 @@
 [Name]: # (Digital Security Incident)
 
 [Type]: # (screen)
-[Name]: # (Contact Information for this Incident)
+[Name]: # (Your Contact Information)
 
 [Type]: # (text_input)
 [Name]: # (name)
 [Label]: # (Name:)
-
-[Type]: # (text_input)
-[Name]: # (title)
-[Label]: # (Title:)
 
 [Type]: # (text_input)
 [Name]: # (phone)
@@ -17,11 +13,11 @@
 
 [Type]: # (text_input)
 [Name]: # (email-address)
-[Label]: # (Email address:)
+[Label]: # (Email:)
 
 [Type]: # (text_input)
 [Name]: # (secure-communication-method-e-g-signal-safety-number-pgp-email-id)
-[Label]: # (Secure Communication Method (e.g Signal Safety Number, PGP Email ID):)
+[Label]: # (Security information (Signal safety number, PGP key ID):)
 
 [Type]: # (screen)
 [Name]: # (Incident Description)
