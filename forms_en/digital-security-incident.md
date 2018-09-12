@@ -20,127 +20,148 @@
 [Label]: # (Security information (Signal safety number, PGP key ID):)
 
 [Type]: # (screen)
-[Name]: # (Incident Description)
-
-[Type]: # (text_area)
-[Name]: # (provide-brief-description)
-[Label]: # (Provide a brief description:)
-
-[Type]: # (screen)
-[Name]: # (Impact / Potential Impact Check all of the following that apply to this incident.)
+[Name]: # (Details)
 
 [Type]: # (multiple_choice)
-[Name]: # (impact-potential-impact-check-following-apply-incident)
-[Label]: # (Impact / Potential Impact Check all of the following that apply to this incident.)
-[Options]: # (Outside access to data;Loss of access to account;Phishing / Malware attacks on contacts;Loss / Compromise of Data;Damage to Systems;Website down;Financial Loss;Other Organizations’ Systems/ Data Affected;Damage to the Integrity or Delivery of Critical Services or Information;Unknown at this time;Public;Internal Use Only;Restricted / Confidential (Privacy violation);Unknown / Other – please describe:)
+[Name]: # (provide-brief-description)
+[Label]: # (What happened? (Check all that apply))
+[Options]: # (Private data was accessed or exposed; I’m shut out of my account or device; I've encountered a virus or malware; My system or device is damaged; My website or service is disabled; Information or assets have been stolen; The incident is confidential, contact me for details; I have another digital security problem (please describe))
 
 [Type]: # (text_area)
 [Name]: # (provide-brief-description-2)
-[Label]: # ()
+[Label]: # (Please provide details)
 
 [Type]: # (screen)
-[Name]: # (Sensitivity of Data/Information Involved Check all of the following that apply to this incident.)
+[Name]: # (Time)
+
+[Type]: # (text_input)
+[Name]: # (date-time-incident-discovered)
+[Label]: # (When did you discover the incident?)
+[Hint]: # (Date, time)
+
+[Type]: # (screen)
+[Name]: # (Impact)
 
 [Type]: # (multiple_choice)
 [Name]: # (sensitivity-data-information-involved-check-following-apply-incident)
-[Label]: # (Sensitivity of Data/Information Involved Check all of the following that apply to this incident.)
+[Label]: # (How serious is the incident? Check all that apply)
+[Options]: # (Someone’s physical security is at risk; information or assets are at risk; Someone’s reputation is at risk; I’m not sure; Other (please describe))
 
 [Type]: # (text_area)
-[Name]: # (provide-brief-description-data-compromised)
-[Label]: # (Provide a brief description of data that may be compromised:)
+[Name]: # (provide-brief-description-5)
+[Label]: # (Please provide details)
 
 [Type]: # (screen)
-[Name]: # (Are accounts possibly compromised? Please name all, including any individuals who maybe at risk and need to be contacted by the compromised account.)
+[Name]: # (Impact details)
+
+[Type]: # (multiple_choice)
+[Name]: # (devices-accounts-services)
+[Label]: # (Which devices, accounts, or services may be compromised? Check all that apply)
+[Options]: # (Email; Website; Social media; Messaging or VOIP; Mobile phone or tablet; Mobile computer; Desktop computer; Server; External storage device; Other)
 
 [Type]: # (text_area)
-[Name]: # (accounts-possibly-compromised-including-individuals-maybe-risk-need-contacted-compromised-account)
-[Label]: # (Are accounts possibly compromised? Please name all, including any individuals who maybe at risk and need to be contacted by the compromised account.)
+[Name]: # (provide-brief-description-8)
+[Label]: # (Please provide details)
 
 [Type]: # (screen)
-[Name]: # (Do You Have an Inclination As To What The Motive Was Or Who The Perpetrators Were?)
+[Name]: # (Scale)
+
+[Type]: # (text_input)
+[Name]: # (approximate-number-users-affected-incident)
+[Label]: # (How many people could be affected?)
+
+[Type]: # (screen)
+[Name]: # (Status)
+
+[Type]: # (multiple_choice)
+[Name]: # (incident-resolved)
+[Label]: # (Has the incident been resolved?)
+[Options]: # (Yes, I’m using this form to document what happened; No, I’m using this form to help me seek support)
+
+[Type]: # (screen)
+[Name]: # (Guidelines)
+
+[Type]: # (multiple_choice)
+[Name]: # (security-guidelines-cover-type-incident-guidelines-followed)
+[Label]: # (Are you following guidelines to resolve this incident?)
+[Options]: # (Yes, I am following guidelines; No,  I am using information available in Umbrella and other free sources to resolve the incident; I have guidelines but I have not been able to follow them. (Please explain:))
 
 [Type]: # (text_area)
-[Name]: # (inclination-motive-perpetrators)
-[Label]: # (Do You Have an Inclination As To What The Motive Was Or Who The Perpetrators Were?)
+[Name]: # (provide-brief-description-4)
+[Label]: # ()
 
 [Type]: # (screen)
-[Name]: # (Who Else Has Been Notified? )
-
-[Type]: # (text_area)
-[Name]: # (notified)
-[Label]: # (Who Else Has Been Notified? )
-[Hint]: # (Provide Person and Title:)
-
-[Type]: # (screen)
-[Name]: # (What Steps Have Been Taken So Far? Check all of the following that apply to this incident.)
+[Name]: # (Response)
 
 [Type]: # (multiple_choice)
 [Name]: # (steps-taken-far-check-following-apply-incident)
-[Label]: # (What Steps Have Been Taken So Far? Check all of the following that apply to this incident.)
-[Options]: # (No action taken;System/ Device Disconnected from network & taken offline;Updated virus definitions & scanned system;Contacts alerted;Restored backup;Log files examined (saved & secured);Account passwords of all on network changed;Other – please describe:)
+[Label]: # (What action have you taken so far? Check all that apply.)
+[Options]: # (I’ve disconnected the devices involved from the Internet; I’ve  documented what happened securely (taken screenshots, stored the antivirus log files); I’ve changed my passwords and notified my contacts from a clean device; I’ve reported the incident to service providers; I’ve notified an IT or security expert, or law enforcement if appropriate; I’ve reinstalled the operating system, if necessary, and restored backup files from before the attack; Other – please describe:)
 
 [Type]: # (text_area)
 [Name]: # (provide-brief-description-3)
 [Label]: # ()
 
 [Type]: # (screen)
-[Name]: # (Incident Details)
+[Name]: # (Notification)
 
 [Type]: # (text_input)
-[Name]: # (date-time-incident-discovered)
-[Label]: # (Date and Time the Incident was discovered:)
+[Name]: # (notified)
+[Label]: # (Who has been notified?)
+[Hint]: # (Name, title)
 
 [Type]: # (text_input)
-[Name]: # (incident-resolved)
-[Label]: # (Has the incident been resolved?)
-
-[Type]: # (text_input)
-[Name]: # (physical-location-affected-device-s)
-[Label]: # (Physical location of affected device/ system(s):)
-
-[Type]: # (text_input)
-[Name]: # (number-sites-affected-incident)
-[Label]: # (Number of sites affected by the incident:)
-
-[Type]: # (text_input)
-[Name]: # (approximate-number-users-affected-incident)
-[Label]: # (Approximate number of users affected by the incident:)
-
-[Type]: # (text_input)
-[Name]: # (provide-additional-information-feel-important-provided-form)
-[Label]: # (Please provide any additional information that you feel is important but has not been provided elsewhere on this form.)
+[Name]: # (needs-to-be-notified)
+[Label]: # (Who still needs to be notified?)
 
 [Type]: # (screen)
-[Name]: # (Do Your Security Guidelines Cover This Type Of Incident? Were The Guidelines Followed?)
+[Name]: # (Responsibility)
+
+[Type]: # (multiple_choice)
+[Name]: # (inclination-motive-perpetrators)
+[Label]: # (Who carried out the attack?)
+[Options]: # (The attacker identified themselves (please provide details); The attack was anonymous but I have suspicions (please provide details); I don't know)
 
 [Type]: # (text_area)
-[Name]: # (security-guidelines-cover-type-incident-guidelines-followed)
-[Label]: # (Do Your Security Guidelines Cover This Type Of Incident? Were The Guidelines Followed?)
+[Name]: # (provide-brief-description-6)
+[Label]: # (Details:)
 
 [Type]: # (screen)
-[Name]: # (Do The Guidelines Or Any Other Aspect Of Security Management Need To Be Revised In Any Way?)
+[Name]: # (Motive)
+
+[Type]: # (text_area)
+[Name]: # (provide-brief-description-6)
+[Label]: # (What is the likely motive?)
+
+[Type]: # (screen)
+[Name]: # (Evidence)
+
+[Type]: # (multiple_choice)
+[Name]: # (supporting-information-screenshots-suspicious-attachment-emails)
+[Label]: # (I have saved the following information securely (Check all that apply))
+[Options]: # (Screenshots; Something I was sent as an attachment; Emails or messages; Other (please describe:))
+
+[Type]: # (text_area)
+[Name]: # (provide-brief-description-7)
+[Label]: # ()
+
+[Type]: # (screen)
+[Name]: # (Reflection)
 
 [Type]: # (text_area)
 [Name]: # (guidelines-aspect-security-management-need-revised-way)
-[Label]: # (Do The Guidelines Or Any Other Aspect Of Security Management Need To Be Revised In Any Way?)
+[Label]: # (What would you change to prevent this incident from happening again?)
 
 [Type]: # (screen)
-[Name]: # (Lessons Learnt?)
-
-[Type]: # (text_area)
-[Name]: # (lessons-learnt)
-[Label]: # (Lessons Learnt?)
-
-[Type]: # (screen)
-[Name]: # (Any Action Requested?)
+[Name]: # (Next steps)
 
 [Type]: # (text_area)
 [Name]: # (action-requested)
-[Label]: # (Any Action Requested?)
+[Label]: # (What action do you need someone else to take to resolve this incident?)
 
 [Type]: # (screen)
-[Name]: # (Any supporting information? (Screenshots, suspicious attachment, emails etc.))
+[Name]: # (Anything else?)
 
-[Type]: # (text_area)
-[Name]: # (supporting-information-screenshots-suspicious-attachment-emails)
-[Label]: # (Any supporting information? (Screenshots, suspicious attachment, emails etc.))
+[Type]: # (text_input)
+[Name]: # (provide-additional-information-feel-important-provided-form)
+[Label]: # (What else do you need to tell people about what happened?)
