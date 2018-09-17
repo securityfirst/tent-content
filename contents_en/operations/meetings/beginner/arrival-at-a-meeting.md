@@ -5,7 +5,9 @@
 
 *	Remove phone batteries before you arrive to avoid being tracked. (This doesn't work in all modern smartphone devices.)
 
-(Learn more about this in [mobile phones](umbrella://lesson/mobile-phones))
+*Note: many devices switched off at the same time may signal that a sensitive meeting is underway. To avoid this, take the battery out of your phone before you travel to the meeting or isolate your phone.*
+
+(Learn about [mobile phones](umbrella://lesson/mobile-phones))
 
 *	Practise counter-surveillance en route. Ensure you are clear before you arrive. 
 
