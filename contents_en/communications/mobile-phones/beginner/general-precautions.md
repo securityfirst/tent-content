@@ -15,8 +15,9 @@
 
 ## Monitor for tampering. 
 
-* 	Mark your SIM card, memory card, battery and device with something unique and not immediately noticeable to ensure items are not replaced. 
-*	Use tamper-proof security tape at the edge of devices that open easily. (Tamper-proof security tape is cheap and easy to purchase online.)
+* 	Mark your device with something unique and not immediately noticeable to help you identify it.  
+*   If they can be replaced, mark your SIM card, memory card, and battery to ensure they are not replaced. 
+*	Use tamper-proof security tape at the edge of devices that open easily. (Tamper-proof security tape is cheap and easy to purchase online in many areas.)
 
 ## Use an unlocked phone where possible.
 
