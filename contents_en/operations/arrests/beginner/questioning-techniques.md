@@ -14,3 +14,5 @@ Authorities may use established techniques to question you.
 *   Asking the same questions repeatedly or asking you to describe events backwards to test your consistency. 
 
 *   Claiming others have made allegations or produced evidence against you. Don't voluntarily confirm what they say.
+
+*   Misinterpreting your answers to distort your meaning. Try to check written statements carefully before signing.  
