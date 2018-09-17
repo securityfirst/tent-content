@@ -3,7 +3,7 @@
 
 ## Practise counter-surveillance
 
-*	Remove phone batteries before you arrive to avoid being tracked. 
+*	Remove phone batteries before you arrive to avoid being tracked. (This doesn't work in all modern smartphone devices.)
 
 (Learn more about this in [mobile phones](umbrella://lesson/mobile-phones))
 
