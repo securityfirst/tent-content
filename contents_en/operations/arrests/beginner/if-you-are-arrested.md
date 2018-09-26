@@ -5,11 +5,15 @@
 
 Your first goal is to get outside support.
 
-*	Ask to see a lawyer, speak to the embassy, or receive medical treatment if needed. 
+*	Ask to see an independent lawyer, interpreter, embassy official, or medical professional as needed. 
 
 *	Be persistent. 
 
 *   Identify who you work for if appropriate.
+
+*   Verify lawyers were sent by your allies, not the local authorities, before telling them something important or acting on their advice. 
+
+*In some countries, lawyers appointed for you may share confidential information with the authorities or encourage you to confess on their behalf.*
 
 ## Take mental notes
 
@@ -35,6 +39,8 @@ What is their attitude?
 *   Stay calm; 
 
 *	Prepare for a long wait;
+
+* Calmly request anything you are entitled to (e.g. a phone call, a lawyer, or a toilet visit).
 
 *	You may be threatened, assaulted, cuffed, confined, or deprived of sleep, food, or water. 
 

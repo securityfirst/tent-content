@@ -3,7 +3,7 @@
 
 # Prevent kidnapping
 
-The best defence against kidnapping is to have *and practise* a high-quality security manement plan. 
+The best defence against kidnapping is to have *and practise* a high-quality security management plan. 
 
 Base security management on a thorough understanding of your location:
 

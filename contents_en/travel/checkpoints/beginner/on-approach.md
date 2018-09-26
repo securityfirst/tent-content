@@ -17,6 +17,9 @@
 *   Open the window far enough for conversation, not far enough for someone to reach in. 
 *   Follow signals given by checkpoint personnel.
 *	Stop if unsure (e.g. are they waving me on or into the side of the road?). 
+*	Consider activating voice recording discreetly before approaching an officer in case of an incident.
+
+*Assess the risk of being caught recording; make sure it isn't obvious if your device is confiscated.*
 
 ## Prepare yourself.
 

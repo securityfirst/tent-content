@@ -11,7 +11,7 @@ documented and readily available.
 ### Harassment
 
 * Clearly define what is considered to be harassment and share it with your team;
-* Encourage awareness of the context and appropriate precautions.
+* Encourage awareness of the context and appropriate precautions to reduce opportunities for harassment.
 
 ### Assault
 
