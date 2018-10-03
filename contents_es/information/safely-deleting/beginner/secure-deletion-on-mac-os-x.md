@@ -1,15 +1,16 @@
 [Title]: # (Borrado seguro en Mac OS X)
 [Order]: # (2)
 
-# Borrado seguro en Mac OS X
+# Borrado inseguro
+La herramienta Secure Empty Trash fue removida del OS X 10.11 porque Apple no podía  garantizar un borrado seguro en el drive SSD usado en la mayoría de los modems.
 
-En OS X 10.4 y superior, puede eliminar archivos individuales de forma segura simplemente:
+(En OS X 10.4 al 10.10 puedes mover archivos senxibles a la papelera y luego seleccionar Finder > Vaciado Seguro de Papelera.)
 
-*	Trasladarlos a la Papelera; 
-*	Luego, seleccione Finder "Secure Empty Trash."  
+# Proteger archivos sensibles
 
-Alternativamente, es posible que desee borrar de forma segura todos los datos eliminados previamente de su computadora. El consejo de Apple sobre esto es: 
+Protege archivos sensibles usando encriptación: 
 
-*	Abrir la Utilidad de Discos (en Aplicaciones / Utilidades); 
-*	Seleccionar la Ayuda de la Utilidad de Discos; 
-*	Buscar ayuda para borrar el espacio libre en el disco.
+*	Asegúrate de que la opción de FileVault esté activa. Requiere contraseña para usar la Mac.
+*	Usa VeraCrypt, una herramienta gratuita de código abierto para encriptación.
+
+Aprende más sobre [protección de archivos] (umbrella://lesson/protecting-files) y uso de [VeraCrypt](umbrella://lesson/veracrypt).
