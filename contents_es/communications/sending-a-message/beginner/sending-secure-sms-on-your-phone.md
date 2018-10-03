@@ -1,12 +1,15 @@
 [Title]: # (Enviar SMS seguros desde su teléfono)
 [Order]: # (1)
 
-# Enviar SMS seguros desde su teléfono
+# Silence
 
-## SMSSecure
+[Silence](https://silence.im) es una herramienta gratuita de código abierto para enviar y recibir textos en SMS seguros en Android.
 
-SMSSecure es una herramienta gratuita de código abierto para enviar y recibir mensajes de texto SMS seguros desde teléfonos Android. Funciona tanto para SMS cifrado y no cifrado, de forma que puede usarla como aplicación de SMS predeterminada. Importa automáticamente todos sus contactos y SMS existentes en su teléfono, de modo que lleva unos pocos segundos configurarlo. No se requiere ninguna conexión a para enviar o recibir SMS. Para intercarmbiar SMS cifrados esta herramienta tiene que estar instalada tanto por el remitente como por el destinatario del mensaje, así que necesitará que la gente con la que se comunique regularmente también lo use. SMSSecure además cifra todos los SMS localmente, así que si pierde su teléfono o se lo roban, sus mensajes están protegidos.
+* Trabaja con SMS encriptados y no encriptados, así que puedes usarla como la aplicación para SMS por default. 
+* Automáticamente importa todos tus contactos y mensajes SMS existentes, así que toma sólo unos segundos instalar. 
+* No requiere conexión a internet. 
+* Silence encripta SMS localmente, de modo que si tu teléfono se pierde o es robado, tus mensajes están protegidos. 
 
-Muchas personas que previamente usaban TextSecure para enviar SMS seguros, ahora usan SMSSecure.
+Para que funcione la encriptación, la persona con la que te comunicas también debe instalar SIlence. 
 
-Puede encontrar SMSSecure en Google Play, la instalación sólo lleva unos pocos clics.
+*Nota: Muchas personas que previamente usaron TextSecure (hoy Signal) para SMS seguros ahora usan Silence (antes SMSSecure).*

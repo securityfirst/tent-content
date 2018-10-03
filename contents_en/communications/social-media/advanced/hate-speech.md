@@ -13,7 +13,7 @@ Examples include:
 
 Use of the term hate speech may overlap with trolling. Trolls post obscene or inflammatory comments to destabilise debate or attack someone.
 
-[Social media expert](umbrella://lesson/social-media/2) outlines other examples of online abuse.
+[Social media expert](umbrella://lesson/social-media/2) outlines other examples of online abuse. Abuse and hate speech take many forms, so read both lessons to understand the threats people face in online communities.
 
 ## Hate speech is not free speech
 
