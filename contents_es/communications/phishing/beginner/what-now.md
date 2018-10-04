@@ -1,6 +1,6 @@
 [Title]: # (¿Y ahora qué?)
 [Order]: # (9)
- 
+
 Desliza a la derecha para la checklist de esta lección.
 
 #### LECCIONES RELACIONADAS
