@@ -1,11 +1,11 @@
-[Title]: # (What Now?)
+[Title]: # (¿Y ahora qué?)
 [Order]: # (10)
 
-Swipe right for this lesson's checklist.
+Desliza a la derecha para la checklist de esta lección. 
 
-Learn to prevent sexual assault in [sexual assault beginner](umbrella://lesson/sexual-assault/0).
+Aprende a prevenir la agresión sexual en la guía de [principiantes](umbrella://lesson/sexual-assault/0).
 
-Learn what to do if a team member is sexually assaulted in [sexual assault expert](umbrella://lesson/sexual-assault/2).
+Aprende qué hacer si un miembro de tu equipo es agredido sexualmente en la guía para [expertos](umbrella://lesson/sexual-assault/2). 
 
 ### RELATED LESSONS/TOOLS
 
