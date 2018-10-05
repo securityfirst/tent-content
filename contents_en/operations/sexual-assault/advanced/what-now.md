@@ -3,7 +3,7 @@
 
 Swipe right for this lesson's checklist.
 
-Learn to prevent sexual assault in [sexual assault beginner](umbrella://lesson/sexual-assault/1).
+Learn to prevent sexual assault in [sexual assault beginner](umbrella://lesson/sexual-assault/0).
 
 Learn what to do if a team member is sexually assaulted in [sexual assault expert](umbrella://lesson/sexual-assault/2).
 
