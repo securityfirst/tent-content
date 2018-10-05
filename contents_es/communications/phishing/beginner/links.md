@@ -1,6 +1,6 @@
 [Title]: # (Ligas)
 [Order]: # (5)
- 
+
 ## Cada vez que envías una liga:
 
 * No hagas click hasta qye verifiques de dónde viene.

@@ -1,6 +1,6 @@
 [Title]: # (¿Cómo detectar Spear Phishing?)
 [Order]: # (3)
- 
+
 **Ataques dirigidos son “spear phishing”.**
 
 Estos atacantes investigan el objetivo y diseñan mensajes específicamente para engañar a una persona o comunidad. Mensajes de “spear phishing” son difíciles de detectar, pero los atacantes pueden cometer errores pequeños. y reveladores.
