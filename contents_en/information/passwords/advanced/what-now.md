@@ -22,3 +22,4 @@ Learn what to do if you might be forced to hand over your password in [Passwords
 
 * Security First, [Secure Passwords and Encryption of Data](https://advocacyassembly.org/en/courses/31/#/chapter/1/lesson/1), a free online training at Advocacy Assembly.  
 * EFF, ["A Guide to Common Types of Two-Factor Authentication on the Web,"] (https://www.eff.org/deeplinks/2017/09/guide-common-types-two-factor-authentication-web) September 22, 2017.
+* Josh Davis, [Two Factor Auth (2FA): List of websites and whether or not they support 2FA](https://twofactorauth.org/). 
