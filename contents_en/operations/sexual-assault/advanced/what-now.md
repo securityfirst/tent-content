@@ -24,3 +24,4 @@ Learn what to do if a team member is sexually assaulted in [sexual assault exper
 ### FURTHER READING
 
 *   Headington Institute, [Key Messages on Sexual Assault](https://www.headington-institute.org/files/wem--sexual-assault-v1_24675.pdf) by Shannon Mouillesseaux, UNHCR, 2013.
+*   Forge Transgender Sexual Violence Project, ["A Self-Help Guide to Healing and Understanding,"](https://forge-forward.org/wp-content/docs/self-help-guide-to-healing-2015-FINAL.pdf) September 2015.
