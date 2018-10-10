@@ -3,6 +3,8 @@
 
 ### Preventive measures can reduce the likelihood of becoming a target. 
 
+*"Sexual violence incidents can happen regardless of the clothing being worn and are never the fault of the survivor."* Megan Nobert, Addressing Sexual Violence in Humanitarian Organisations: Good Practices for Improved Prevention Measures, Policies, and Procedures, Report the Abuse, August 2017.
+
 ## Dress
 
 * Appropriately for the culture;

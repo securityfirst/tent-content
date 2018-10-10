@@ -43,14 +43,14 @@ Otherwise, anyone who learns that password will gain access to even more of your
 
 ## 6. Fresh
 
-*	**Change your password on a regular basis, at least once every three months.** 
+*	**Change passwords that may have been compromised.** 
 
-The longer you keep one password, the more opportunity others have to figure it out and use it.
+Attackers will continue to use a stolen password until you change it, or may guess a weak password with repeated tries. If in doubt, or if your password is weak, change it. Otherwise, if a password is strong there is no need to change it frequently.
 
 ## 7. Memorable
 
-*	**If you write your password down because you can't remember it, it becomes vulnerable.** 
+*	**Use paper to protect passwords, not manage them.** 
 
-A piece of paper may be seen by anyone with access to your workplace. A computer file like a Microsoft Word document is equally insecure. Even password-protected files can be broken in seconds using tools that are freely available on the internet. 
+Don't store multiple passwords on a post-it note on your desk or a file on your computer, even if it's password-protected. But if it helps you to remember a strong, complex password, write it on a piece of paper that you carry with you and protect like a credit card or a passport. Change it if the paper is lost or stolen.   
 
 ![image](password2.png)

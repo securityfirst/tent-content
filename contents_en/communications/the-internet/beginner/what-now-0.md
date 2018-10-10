@@ -16,3 +16,4 @@ Learn how to stay anonymous online in [Internet Advanced](umbrella://lesson/the-
 *   EFF, Surveillance Self-Defense, [How to: Circumvent Online Censorship](https://ssd.eff.org/en/module/how-circumvent-online-censorship).
 *	That One Privacy Site, [VPN Section] (https://thatoneprivacysite.net/vpn-section/).
 *   FLOSS manuals, [How to Bypass Internet Censorship](http://booki.flossmanuals.net/bypassing-censorship/).
+*   The Wirecutter, [What Is a VPN and What Can (and Can’t) It Do?](https://thewirecutter.com/reviews/what-is-a-vpn/).
