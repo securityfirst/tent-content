@@ -5,7 +5,7 @@
 
 ## Create a policy
 
-Guidelines for responding to sexual assault and harassment must be clear,
+Guidelines for responding to sexual violence must be clear,
 documented and readily available.
 
 ### Harassment
@@ -18,7 +18,7 @@ documented and readily available.
 Clearly state:
 
 *	What protection and support you will facilitate in specific contexts (if you work for an organisation, this could involve repatriation, relocation (temporary or permanent), legal support, and compassionate leave);
-*  How you will reconcile the need for confidentiality with theatened to alert others to the threat.
+*  How you will reconcile the need for confidentiality with the need to alert others to the threat.
 
 (Learn more about this in [sexual assault expert](umbrella://lesson/sexual-assault/2).)
 
@@ -40,9 +40,10 @@ Connect with specialist advice in advance of a potential crisis. Before an incid
 medical supervision, or that a victim can be transported immediately to
 somewhere where they are available. 
 
-## Brief your team in advance
+## Brief your team
 
 *	Inform everyone early about the risk of rape and other assessed risks (e.g. before they sign a contract, rather than before they depart).
 * Discuss the threat of rape and appropriate precautions regularly to prevent the subject from becoming taboo.
 * Learn what support they find most appropriate, especially in different cultural contexts.
 * Sensitise men to the risks and stress women experience in high-risk areas.
+* Routinely remind your team of their rights and obligations based on your policy. Share what action you will take in case of violence or inappropriate behaviour, and easy ways for others to report incidents.  
