@@ -49,4 +49,4 @@ few or no social ties;
 
 *Fifty percent (50%) or more of all transgender and gender
 non-conforming people have experienced some form of
-sexual abuse.* Forge Transgender Sexual Violence Project, "A Self-Help Guide to Healing and Understanding," September 2015. 
+sexual abuse.* Forge Transgender Sexual Violence Project, ["A Self-Help Guide to Healing and Understanding,"](https://forge-forward.org/wp-content/docs/self-help-guide-to-healing-2015-FINAL.pdf) September 2015. 
