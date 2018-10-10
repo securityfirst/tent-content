@@ -15,3 +15,11 @@ Learn what to do if a team member is sexually assaulted in [sexual assault exper
 *   [Counter-surveillance](umbrella://lesson/counter-surveillance/0)
 *   [Kidnapping] (umbrella://lesson/kidnapping/0)
 *   [Social Media](umbrella://lesson/social-media/0)
+
+### SOURCES
+
+*   ECHO, Generic Security Guide for Humanitarian Organisations, available at [eisf.eu](https://www.eisf.eu/library/generic-security-guide-for-humanitarian-organisations/).
+*   CARE International, [Safety & Security Handbook](https://www.eisf.eu/wp-content/uploads/2014/09/0614-Macpherson-2004-CARE-International-Safety-and-Security-Handbook.pdf).
+*   Committee to Protest Journalists, [Journalist Security Guide](https://cpj.org/reports/2012/04/journalist-security-guide.php).
+*   Protection International, [New Protection Manual for Human Rights Defenders](https://www.protectioninternational.org/en/node/1106).
+*   Humanitarian Practice Network, [Good Practice Review Number 8: Operational security management in violent environments (Revised Ed.)](http://odihpn.org/wp-content/uploads/2010/11/GPR_8_revised2.pdf).
