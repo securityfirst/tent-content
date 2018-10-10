@@ -1,11 +1,11 @@
-[Title]: # (Types of assault)
+[Title]: # (Types of sexual violence)
 [Order]: # (0)
 
-### Sexual assault is a specific category of threat requiring prevention, mitigation, crisis management and after-care. 
+### Sexual violence is a specific category of threat requiring prevention, mitigation, crisis management and after-care. 
 
-This lesson outlines prevention. 
+This lesson outlines strategies to prevent sexual assault. 
 
-[Sexual assault advanced](umbrella://lesson/sexual-assault/1) outlines strategies if you are raped or assaulted.
+[Sexual assault advanced](umbrella://lesson/sexual-assault/1) outlines strategies if you are harassed, raped or assaulted.
 
 [Sexual assault expert](umbrella://lesson/sexual-assault/2) outlines strategies when a team member is raped or assaulted.
 
