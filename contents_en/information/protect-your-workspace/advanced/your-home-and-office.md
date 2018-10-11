@@ -1,4 +1,4 @@
-[Title]: # (Your home and office)
+[Title]: # (In your home and office)
 [Order]: # (2)
 
 ### Take precautions *both* where you live *and* where you work.
