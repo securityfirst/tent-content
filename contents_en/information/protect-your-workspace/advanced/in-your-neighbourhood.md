@@ -1,4 +1,4 @@
-[Title]: # (Your surroundings)
+[Title]: # (In your neighbourhood)
 [Order]: # (1)
 
 ### Security considerations extend beyond the rooms and buildings within which you live and work. Protect your data from threats in the surrounding area.
