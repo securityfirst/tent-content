@@ -1,4 +1,4 @@
-[Title]: # (Public places)
+[Title]: # (In public)
 [Order]: # (4)
 
 ### Few people work exclusively in their home or office. When in public, protect your mobile devices, including laptops, tablets and phones.
