@@ -3,6 +3,8 @@
 
 ### How might your information might be lost or compromised, and what would the impact be?
 
+(Learn more about this in [backing up](umbrella://lesson/backing-up).)
+
 ## Communication (information in transit)
 
 - List the communication channels you use for work and how you use them. Consider letters, faxes, mobile phones, land line phones, emails, Skype, social media and secure messaging platforms.
