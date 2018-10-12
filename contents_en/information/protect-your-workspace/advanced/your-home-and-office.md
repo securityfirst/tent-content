@@ -32,3 +32,10 @@ An intruder with access to your equipment can install malware capable of stealin
 - Televisions, cameras, phones, printers, video game consoles and other Internet of Things (IoT) devices are computers, and they come with many of the same risks. 
 
 *You can cover camera lenses and unplug smart devices when they are not in use. But it is better to think twice before connecting new equipment to your home or office network.*
+
+## Use secure tools 
+
+- [Haven](https://play.google.com/store/apps/details?id=org.havenapp.main&hl=en) is a free, open source Android app developed by the Freedom of the Press Foundation and Guardian Project. If you have an extra smartphone to leave in your workspace, Haven uses the device's built-in sensors to monitor for changes in light and sound that may indicate an unwanted intruder, and sends you a secure alert. 
+
+*Haven is in BETA, or testing mode.*
+
