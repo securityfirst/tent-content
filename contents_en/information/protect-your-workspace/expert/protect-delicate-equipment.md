@@ -9,11 +9,17 @@ This includes computers, networking equipment and data storage devices, CCTV cam
 
 Power surges, blackouts and brownouts can harm electronic components or destroy data on hard drives. 
 
-- Plug all electronics into power strips that contain surge protectors. A surge protector should specify a maximum voltage and list a rating in joules. If your power supply is particularly unstable, you might also need a power filter or a line conditioner.
+- Plug all electronics into power strips that contain surge protectors. 
 
-- If you can afford them, consider installing Uninterruptible Power Supplies (UPSs) and using those instead of regular surge protectors. A UPS will stabilise your power supply and provide temporary power in the event of a blackout. They are particularly valuable for local servers and desktop computers that lack internal batteries.
+A surge protector should specify a maximum voltage and list a rating in joules. If your power supply is particularly unstable, you might also need a power filter or a line conditioner.
 
-- Try to use electrical sockets and plugs that have ground lines. When moving into a new building, test the power supply before plugging in important equipment. If it behaves poorly with lights or fans, think twice before using it to power your computers.
+- If you can afford them, consider installing Uninterruptible Power Supplies (UPSs) and using those instead of regular surge protectors. 
+
+A UPS will stabilise your power supply and provide temporary power in the event of a blackout. They are particularly valuable for local servers and desktop computers that lack internal batteries.
+
+- Try to use electrical sockets and plugs that have ground lines. 
+
+When moving into a new building, test the power supply before plugging in important equipment. If it behaves poorly with lights or fans, think twice before using it to power your computers.
 
 ## Environmental threats 
 

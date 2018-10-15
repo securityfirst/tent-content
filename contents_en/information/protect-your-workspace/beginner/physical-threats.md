@@ -3,7 +3,7 @@
 
 ### Sensitive information may be lost, exposed, tampered with, confiscated or damaged due to physical threats, from theft to severe weather. 
 
-Sensitive information is at risk in: 
+## When is sensitive information at risk? 
 
 * A bag forgotten on a bus;
 * A backup drive left in an unlocked office;
@@ -12,6 +12,6 @@ Sensitive information is at risk in:
 
 This lesson tells you how to assess your work environment and make a plan to protect it.
 
-Workspace Advanced tells you how to protect information from intruders.
+[Workspace Advanced]((umbrella://lesson/protect-your-workspace/1) tells you how to protect information from intruders.
 
-Workspace Expert tells you how to protect your devices from physical threats. 
+[Workspace Expert](umbrella://lesson/protect-your-workspace/2) tells you how to protect your devices from physical threats. 
