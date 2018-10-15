@@ -1,7 +1,9 @@
 [Title]: # (In public)
 [Order]: # (4)
 
-### Few people work exclusively in their home or office. When in public, protect your mobile devices, including laptops, tablets and phones.
+### Few people work exclusively in their home or office. 
+
+## Protect laptops, tablets and phones
 
 - Avoid using devices in public spaces unless you have reason to believe they are safe. 
 
