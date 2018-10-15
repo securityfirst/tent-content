@@ -16,14 +16,12 @@ Transfer sensitive photos to a more secure location, such as a USB stick, as soo
 ## Turn off automatic cloud saving  
 
 iPhone: 
-	
-    * Turn off iCloud sharing in Settings > iCloud > Photos > option Off. 
-    * Disable iCloud completely in Menu > “delete account.” 
+* Turn off iCloud sharing in Settings > iCloud > Photos > option Off. 
+* Disable iCloud completely in Menu > “delete account.” 
     
 Android: 
-
-	*	Double check your settings are not backing up to the Google+ cloud service in the Photos app > General Settings > Auto-Backup to Off. 
-    *	Check your cloud frequently to know exactly what is stored there.
+*	Double check your settings are not backing up to the Google+ cloud service in the Photos app > General Settings > Auto-Backup to Off. 
+*	Check your cloud frequently to know exactly what is stored there.
     
 (Learn [basic security for Android](umbrella://lesson/android) and how to [encrypt your iPhone] (umbrella://lesson/encrypt-your-iphone).)
 
