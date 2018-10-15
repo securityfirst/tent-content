@@ -5,12 +5,16 @@
 
 Information is vulnerable in different ways. 
 
+## Is the threat digital or physical? 
+
 * When you use anti-malware tools to protect the contents of a USB memory stick, you are making a decision about digital security. 
 * When you put the USB memory stick in your pocket instead of your luggage, you are making a decision about physical security, even though the information you are trying to protect is digital. 
 
 Some information security practices are helpful against digital *and* physical threats, like having a good off-site backup policy. 
 
 (Learn about [backing up](umbrella://lesson/backing-up).)
+
+## Physical security
 
 Your physical security plan should identify threats to sensitive information due to physical theft, loss or destruction. 
 
