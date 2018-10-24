@@ -17,9 +17,9 @@ If your satellite phone is confiscated, authorities or hostile actors can access
 
 *   Routinely delete sensitive information to protect your sources. Consider:
 
-		*	Call logs; 
-        *	Contacts; 
-        *	Sent folders.
+	* Call logs; 
+        * Contacts; 
+        * Sent folders.
 
 *	Keep the SIM card separate from the phone when not transmitting.
 
