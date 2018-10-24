@@ -1,7 +1,7 @@
 [Title]: # (Equipment)
 [Order]: # (5)
 
-What you need on your trip will depend on many factors, but here are some ideas. 
+### What you need on your trip will depend on many factors, but here are some ideas. 
 
 ## Essentials 
 
@@ -51,7 +51,8 @@ Consider:
 *	Medication, prescriptions, and first aid kit (see "Medical");
 *   Mosquito net and repellent; 
 *	Sunblock;
-* 	Toiletries (including toothbrush, toothpaste and soap);
+* 	Toiletries (including toothbrush, toothpaste, and soap);
+*	Feminine hygiene products or [menstrual cup](https://thewirecutter.com/reviews/best-menstrual-cup/);
 *	Prescription glasses, contact lenses, or sunglasses;
 *	Weather-proof, context appropriate clothing;
 *   A head covering;
