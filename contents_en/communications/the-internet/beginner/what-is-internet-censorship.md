@@ -1,7 +1,7 @@
 [Title]: # (What is Internet Censorship?)
 [Order]: # (3)
 
-Many governments, companies, schools, and public access points prevent Internet users from accessing certain information.
+### Many governments, companies, schools, and public access points prevent Internet users from accessing certain information.
 
 This is a form of censorship.
 
@@ -13,7 +13,7 @@ Depending on the method used, Internet censorship can affect:
 *	Social media platforms like Facebook;
 *	Messaging apps like WhatsApp. 
 
-Combat censorship with circumvention or appeal. 
+### Combat censorship with circumvention or appeal. 
 
 Internet beginner outlines circumvention. 
 
