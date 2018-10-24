@@ -21,9 +21,13 @@ For support within the first 24 hours, contact your embassy first. Front Line De
 **Description:** Front Line protects Human Rights Defenders through a 24hour emergency hotline (phone and encrypted email), international advocacy, security training and training manuals, grants and fellowships (including emergency funding), and evacuation support. Front Line's Dublin Platform links grassroots human rights defenders with UN mechanisms, international human rights networks, and each other.  
 
 **Website:** [frontlinedefenders.org] (https://www.frontlinedefenders.org/)  
+
 24 hour emergency support, Tel: (+353) 1 210 0489
+
 Dublin Tel: (+353) 1 212 3750   
+
 Brussels, Tel: (+32) 2 230 93 83
+
 **Email:** info@frontlinedefenders.org 
 **Secure Online Contact Form:** https://www.frontlinedefenders.org/secure/comment.php?l=en   
 
@@ -40,6 +44,7 @@ Brussels, Tel: (+32) 2 230 93 83
 **Description:** The principal objectives of the Trust are to provide practical assistance and support to freelance newsgatherers and their families worldwide, to raise their profile, promote their welfare and safety, and to support their right to report freely and without fear.  
 
 **Website:** [rorypecktrust.org](https://rorypecktrust.org/)  
+
 London, Tel: (+44) 203 219 7860
 
 ## U.S. Centers for Disease Control and Prevention
@@ -53,6 +58,7 @@ London, Tel: (+44) 203 219 7860
 **Description:** The U.S. government agency is a public source for information on common diseases, disorders, and treatments. The CDC website provides information about sickness and disease, healthy living, safety and emergency care, and disaster preparedness and response.  
 
 **Web site:** [cdc.gov] (www.cdc.gov)  
+
 Atlanta, Tel: +1-800-232-4636 (24-hour health information hotline, Monday through Friday)
 
 ## Amnesty International
@@ -100,7 +106,9 @@ Hong Kong, Tel: 852-2698 6339
 
 **Web site:** [cpj.org](https://cpj.org/)  
 New York, Tel: (+1) 212 465-1004  
+
 **Email:** report_violations@cpj.org 
+
 **Secure Drop address:** 2x2hb5ykeu4qlxqe.onion (only accessible via the Tor browser. For instructions, click [here] (https://cpj.org/emergency-response/how-to-get-help.php. Learn how to use the Tor browser for [Windows](umbrella://lesson/tor-for-windows), [Mac] (umbrella://lesson/tor-for-mac-os-x), and [Linux] (umbrella://lesson/tor-for-linux).) 
 
 ## European Interagency Security Forum
@@ -220,9 +228,13 @@ London, Tel: (+44) 20 7065 0775
 **Description:** UAF operate Rapid Response Grant-making programs to support women activists around: a) peace-building in situations of armed conflict, escalating violence, or politically volatile environments;b) potentially precedent-setting legal and legislative actions; and c) protection of women human rights defenders. Their Research, Publications, and Advocacy program is a resource for activists, funders, and allies of women's human rights activism. 
 
 **Web site:** www.urgentactionfund.org  
+
 Global, Tel: (+1) 303 442-2388  
+
 Africa, Tel: (+254) 20 2931095   
+
 Latin America, Tel: (+57) 1 368 6155; (+57) 312 562 1321
+
 **Email:** urgentact@urgentactionfund.org; info@uaf-africa.org (Africa); apoyos3@fondoaccionurgente.org.co (Latin America); info@uafanp.org (Asia Pacific)
 
 ## Witness
@@ -298,13 +310,13 @@ In addition to citizen sector organizations, inter-governmental institutions off
 **Accept Urgent Appeals?** Yes  
 
 **Description:** The UN Special Rapporteur on Human Rights Defenders supports and gathers information on behalf of human rights defenders around the world. The Special Representative operates in complete independence of any state, is not a UN staff member, and does not receive a salary.  
-**Web site:** http://[www2.ohchr.org/english/issues/defenders/](www2.ohchr.org/english/issues/defenders/)  
+**Web site:** [www2.ohchr.org/english/issues/defenders/](www2.ohchr.org/english/issues/defenders/)  
 Geneva, Tel: (+41) 22 917 1234  
 **Email a complaint:** urgent-action@ohchr.org  
 
 **Additional Resources:**
 
-*   Guidelines for submitting complaintshttp://www2.ohchr.org/english/issues/ defenders/complaints.htm
+*   Guidelines for submitting complaints: [www2.ohchr.org/english/issues/ defenders/complaints.htm](http://www2.ohchr.org/english/issues/ defenders/complaints.htm)
 *   UN Declaration on Human Rights Defendershttp://[www2.ohchr.org/english/issues/defenders/](www2.ohchr.org/english/issues/defenders/)declaration.htm
 
 ## U.N. Office of the High Commissioner for Human Rights
@@ -313,7 +325,7 @@ Geneva, Tel: (+41) 22 917 1234
 **Accept Urgent Appeals?** Yes  
 **Description:** The UN Office of the High Commissioner for Human Rights (OHCHR) promotes and protects the enjoyment and full realization by all people of all rights established in the Charter of the United Nations, including the Universal Declaration of Human Rights.  
 
-**Web site:** http://[www2.ohchr.org/english/issues/defenders/](www2.ohchr.org/english/issues/defenders/)  
+**Web site:** [www2.ohchr.org/english/issues/defenders/](www2.ohchr.org/english/issues/defenders/)  
 Geneva, Tel: (+41) 22 917 0656  
 **Email a complaint:** urgent-action@ohchr.org (Follow the instructions [here] (http://www2.ohchr.org/english/bodies/chr/special/communications.htm))
 
@@ -361,6 +373,6 @@ Languages: English, French
 
 ## International Criminal Court
 
-**Description:** Founded in part by the United Nations and based in The Hague, the International Criminal Court tries individuals accused of inter- national crimes including genocide, crimes against humanity, and war crimes. Only States and the international communicate can bring cases to the ICC. The ICC is an independent body and is based on a treaty, joined by 105 countries.  
+**Description:** Founded in part by the United Nations and based in The Hague, the International Criminal Court tries individuals accused of international crimes including genocide, crimes against humanity, and war crimes. Only States and the international communicate can bring cases to the ICC. The ICC is an independent body and is based on a treaty, joined by 105 countries.  
 
 **Web Site:** [icc-cpi.int] (https://www.icc-cpi.int/)
