@@ -1,16 +1,22 @@
 [Title]: # (Remembering secure passwords)
 [Order]: # (7)
 
-## A few tricks will help you create passwords that are easy to remember but difficult to guess.
+### Use at least 6 randomly chosen words to create a passphrase that is both secure and memorable. 
 
-*   **Vary capitalisation:**'My naME is Not MR. MarSter'
+Computers can crack passwords based on known dictionary words from any language in seconds, and password cracking dictionaries include word variations with capital letters and symbols, as well as famous quotations, song lyrics, poems and common phrases. 
 
-*   **Alter numbers and letters:**'a11 w0Rk 4nD N0 p14Y'
+## Use dice
 
-*   **Incorporate symbols:**'c@t(heR1nthery3'
+Some people use dice to select words from a specially formatted word list, because humans are bad at thinking randomly.
 
-*   **Use multiple languages:**'Let Them Eat 1e gateaU au ch()colaT'
+Try it with EFF's random number generator [dice](https://www.eff.org/dice) and [word list](https://www.eff.org/files/2016/07/18/eff_large_wordlist.txt).
 
-*   **Use acronyms:**'Are you happy today?' becomes 'rU:-)2d@y?'
+## Example diceware passwords
 
-(Learn about secure password databases like [KeePassXC](umbrella://lesson/keepassx) in [Passwords Advanced] (umbrella://lesson/passwords/1).
+* cake brute tragedy outmost frostlike playroom
+* QuaintlyFreshResilientSnowstormReworkAbnormal
+* Myst!fyFrostlikeDisorderChessReversePortal
+
+[KeePassXC](umbrella://lesson/keepassx) is a password manager that includes a random diceware generator. 
+
+(Learn more about this in [Passwords Advanced] (umbrella://lesson/passwords/1).)
