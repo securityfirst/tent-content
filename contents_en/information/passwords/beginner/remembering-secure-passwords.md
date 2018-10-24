@@ -7,7 +7,7 @@ Computers can crack passwords based on known dictionary words from any language 
 
 ## Use dice
 
-Some people use dice to select words from a specially formatted word list, because humans are bad at thinking randomly.
+Some people use dice to select words from a specially formatted word list, because humans are bad at thinking randomly. This is known as [diceware](http://world.std.com/~reinhold/diceware.html). 
 
 Try it with EFF's random number generator [dice](https://www.eff.org/dice) and [word list](https://www.eff.org/files/2016/07/18/eff_large_wordlist.txt).
 
