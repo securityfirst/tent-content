@@ -22,4 +22,4 @@ The real answers to these questions are often public information, or can be easi
 
 *	Use a password manager to store random answers. 
 
-(Learn about password managers in [Passwords Advanced.](umbrella://lesson/passwords/1)
+(Learn about password managers in [Passwords Advanced.](umbrella://lesson/passwords/1))
