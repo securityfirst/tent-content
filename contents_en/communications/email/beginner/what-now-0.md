@@ -11,7 +11,10 @@ Learn how to encrypt sensitive emails in [Email Advanced](umbrella://lesson/emai
 *   [Internet](umbrella://lesson/the-internet)
 *   [Passwords](umbrella://lesson/passwords)
 
-### FURTHER READING
+### SOURCES
+
+*   Security in a Box, [Keep your Digital Communication Private](https://securityinabox.org/en/guide/secure-communication), updated August 31, 2018.
+
+### FURTHER RESOURCES
 
 * 	Security First, [Secure Communications](https://advocacyassembly.org/en/courses/33/#/chapter/1/lesson/1), a free online training at Advocacy Assembly.
-*   Security in a Box, [Keep your Online Communication Private](https://securityinabox.org/en/guide/secure-communication).
