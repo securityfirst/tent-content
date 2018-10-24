@@ -23,3 +23,5 @@ Even if your password is hacked or stolen, the thief won't be able to log in unl
 SMS text messages can be intercepted, and most U2F devices cost money. The best solution for most people is to use an app like [Google Authenticator](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2). 
 
 The [Two Factor Auth] (https://twofactorauth.org/) project tracks services and software that allow you to add 2FA.
+
+*If you run communications infrastructure, such as e-mail servers, there is free, open source software you can use to enable 2FA. Look for software offering implementations of the open standard "Time-Based One-Time Passwords" or RFC 6238.*
