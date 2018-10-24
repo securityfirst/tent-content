@@ -20,8 +20,8 @@ If you might be at risk of attack, or you communicate with others who might be a
 
 If someone you know falls victim to a phishing attack, the attacker may use their account to contact you over email, social media, or chat. 
  
-		*	Does your friend sound like themselves? 
-		*	Do they make unexpected mistakes? 
+* Does your friend sound like themselves? 
+* Do they make unexpected mistakes? 
 
 *If a trusted account is compromised, your instinct may be the only thing that stops you from clicking on a bad link.*   
  
