@@ -1,15 +1,15 @@
 [Title]: # (Capabilities)
 [Order]: # (8)
 
-# Radio sets should have: 
+### Radio sets should have certain capabilities.  
 
-##	Remote diagnostics
+## Remote diagnostics
 
 One unit can interrogate another to get details on operational factors such as power output, signal strength and battery voltage. 
 
 This allows a technician who is not physically present to diagnose potential impediments.
 
-##	Emergency calls
+## Emergency calls
 
 Distress signals can be automatically sent out to a number of pre-programmed stations, prioritising the urgency of the call for the receiver.
 
