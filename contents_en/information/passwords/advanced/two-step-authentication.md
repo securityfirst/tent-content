@@ -20,7 +20,9 @@ Even if your password is hacked or stolen, the thief won't be able to log in unl
 
 ## 2FA apps are more secure than SMS 
 
-SMS text messages can be intercepted, and most U2F devices cost money. The best solution for most people is to use an app like [Google Authenticator](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2). 
+SMS text messages can be intercepted, and most U2F devices cost money. The best solution for most people is to use an app like [Google Authenticator](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2). Once they are configured to work with your account, these apps do not require an Internet connection to generate codes.
+
+[FreeOTP](https://freeotp.github.io/) is an open source app that generates codes for 2FA. It is available for iOS and Android devices, and can be used to sign into Google services as well.
 
 The [Two Factor Auth] (https://twofactorauth.org/) project tracks services and software that allow you to add 2FA.
 
