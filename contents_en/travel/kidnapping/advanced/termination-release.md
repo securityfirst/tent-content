@@ -10,9 +10,10 @@ If released:
 ## Rescue
 
 If rescue is attempted by force:
-	*	Lie on the floor;
-    *	Put hands over your head; 
-    *	Do not try to identify yourself until appropriate to do so.
+
+*	Lie on the floor;
+*	Put hands over your head; 
+*	Do not try to identify yourself until appropriate to do so.
     
 ## Escape (last resort only)
 

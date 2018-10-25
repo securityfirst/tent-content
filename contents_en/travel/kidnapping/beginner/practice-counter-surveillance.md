@@ -31,10 +31,10 @@ Learn who belongs, and who does not.
 
 *	Watch anyone asking unexpected questions or showing unexpected interest in you or your work.
 
-_Potential kidnappers may present themselves as service staff to learn about a home or office, or check the locks while the occupants are absent. _
+_Potential kidnappers may present themselves as service staff to learn about a home or office, or check the locks while the occupants are absent._
 
 *	Multiple sightings of the same person, vehicle, or activity may indicate surveillance.
 
-_Potential kidnappers may follow the target to identify routines and points to strike. _
+_Potential kidnappers may follow the target to identify routines and points to strike._
 
 (Learn about [counter-surveillance](umbrella://lesson/counter-surveillance/0) [on foot](umbrella://lesson/counter-surveillance/1) and [in vehicles](umbrella://lesson/counter-surveillance/2).)

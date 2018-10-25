@@ -45,13 +45,13 @@ Some bloggers use a pseudonym or write under a variation of their name.
 
 *	Require people to create accounts in order to post comments. 
 
-* 	Activate the option to track IP addresses of commenters.
+* Activate the option to track IP addresses of commenters.
 
 *	Delete comments that overstep the boundaries of your established criteria, or report them to the relevant editor or publisher. 
 
 *	Ensure media outlets you write for have commenting policies that do not allow hate speech, and that they have protocols in place for dealing with it. 
 
-* 	Consider closing the comments section on certain pieces or removing comment sections altogether if hate speech is a problem. 
+*	Consider closing the comments section on certain pieces or removing comment sections altogether if hate speech is a problem. 
 
 ## Reach out.
 

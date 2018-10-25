@@ -15,9 +15,9 @@ For example:
 
 ## Use PGP to: 
 
-* 	Encrypt email for anyone, as long as you have their public key.
+* Encrypt email for anyone, as long as you have their public key.
 
-*   Stop anyone else from reading your email.
+* Stop anyone else from reading your email.
 
 (You can also use keys to sign email and verify someone else's signature.) 
 
@@ -32,5 +32,3 @@ If someone else gets your private key, they can read emails intended for you, an
 *	Protect your private key with a strong password.
 
 (Learn more about [passwords](umbrella://lesson/passwords).)
-
-

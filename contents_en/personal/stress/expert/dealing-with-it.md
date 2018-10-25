@@ -33,18 +33,14 @@ An expert may recommend:
     * Consult online resources;
     * Ask for what you need. 
 
-*	Language about mental health may not reflect how stress is understood and managed everywhere. 
+### Language about mental health may not reflect how stress is understood and managed everywhere. 
 
-  • Is there a concept of stress and trauma in the culture; how do people
-  experience it, identify it and describe it?
+*	Is there a concept of stress and trauma in the culture? How do people experience it, identify it and describe it?
 
-  • How has it been dealt with traditionally and historically, and who would
-  deal with it?
+*	How has it been dealt with traditionally and historically, and who would deal with it?
 
-  • What is the nature of stress and trauma today, and how has it changed
-  from before?
+*	What is the nature of stress and trauma today, and how has it changed from before?
 
-  • What coping strategies are currently being pursued and why, and how
-  effective are they?
+*	What coping strategies are currently being pursued and why, and how effective are they?
 
-  • What resources can be used to address current needs? 
+*	What resources can be used to address current needs? 

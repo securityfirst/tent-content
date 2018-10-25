@@ -22,7 +22,7 @@ You may feel helpless, but you can take action. The following strategies have pr
 
 *	Block them from your social networking accounts and change the privacy settings to try to keep them accessing from your list of friends.
 
-* 	Change all of your passwords, especially if you think you were hacked.
+* Change all of your passwords, especially if you think you were hacked.
 
 *	Consider starting new email accounts. Let contacts know if your old accounts were hacked and they should not open any message from them.
 

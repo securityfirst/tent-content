@@ -36,7 +36,7 @@
         
 (Learn [beginner](umbrella://lesson/email/0) and [advanced](umbrella://lesson/email/1) email security.)
 
-   	* Consider securing a storage device like a USB stick to carry copies. 
+* Consider securing a storage device like a USB stick to carry copies. 
 
 (Learn about [protecting files](umbrella://lesson/protecting-files).)  
 

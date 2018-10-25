@@ -20,8 +20,8 @@
 
 *Only good knowledge of the context will determine whether this tactic will reduce the risk.*
 
-   	* Are hosts responsible for the wellbeing of their guests? 
-    * Can you travel or work with a local representative?
+   *  Are hosts responsible for the wellbeing of their guests? 
+   *  Can you travel or work with a local representative?
 
 (Learn about context assessments in [preparation](umbrella://lesson/preparation).)
 

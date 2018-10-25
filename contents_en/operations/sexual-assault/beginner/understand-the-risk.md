@@ -29,4 +29,4 @@ Conduct a risk analysis to:
 *	Local authorities; 
 * 	Local health centres.
 
-*If appropriate for the context, consider asking for general information, like statistics about sexual assault rates, to gauge the level of awareness and sensitivity about the issue. *
+*If appropriate for the context, consider asking for general information, like statistics about sexual assault rates, to gauge the level of awareness and sensitivity about the issue.*

@@ -13,7 +13,9 @@ If you forget your KeePassXC master password, there is no way to recover it or t
 
 * **On your computer.** 
 
-Your password manager is only as strong as the security of the device you use it on. If your device is compromised, an attacker could watch you type your master password and access all your accounts. Keep your device free of malware when using a password manager. (Learn how in the [Malware lesson](umbrella://lesson/malware).)
+Your password manager is only as strong as the security of the device you use it on. If your device is compromised, an attacker could watch you type your master password and access all your accounts. Keep your device free of malware when using a password manager. 
+
+(Learn about [Malware](umbrella://lesson/malware).)
 
 *  **In the cloud.** 
 
