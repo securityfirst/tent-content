@@ -2,6 +2,7 @@
 [Order]: # (14)
 
 **1. Set up a crisis management team in HQ.** 
+
 **2. Appoint a manager to coordinate.** 
 
 _Next steps depend on the circumstances and the manager's assessment of the best course of action._
