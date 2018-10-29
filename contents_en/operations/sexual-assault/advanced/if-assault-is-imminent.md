@@ -20,7 +20,7 @@ Use physical force to fight off the attacker or resist being taken to another lo
 
 *	Scream, shout for help, blowing the car horn, run away.
 *  	Fight back, such as with a knee to the attacker’s groin.
-*	Learn self-defense skills to fight off attackers.
+*	Use self-defence skills to fight off attackers.
 
 *Some experts believe that fighting off an attacker could increase the risk of fatal violence. Consider the number of assailants, whether weapons are involved, and whether the setting is public or private.*
 
