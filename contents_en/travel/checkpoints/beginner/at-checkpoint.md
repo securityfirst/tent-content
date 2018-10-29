@@ -41,7 +41,7 @@
 *	Report incidents to your team. 
 *   Refuse lifts to armed or uniformed personnel if at all possible. 
 
-(Learn more about passengers in [vehicles](umbrella://lesson/vehicles)
+(Learn more about passengers in [vehicles](umbrella://lesson/vehicles))
 
 ## When you leave
 
