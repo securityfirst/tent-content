@@ -21,7 +21,7 @@ If you experience harassment online, this may involve blocking abusive accounts.
 
 *	Tell someone in a position of authority. 
 
-* 	If a manager is harassing you, report them to someone more senior and request protection or counselling if appropriate.  
+* If a manager is harassing you, report them to someone more senior and request protection or counselling if appropriate.  
 
 *  Document your reports and requests. 
 
