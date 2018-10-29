@@ -28,11 +28,10 @@ making decisions on the victim’s behalf.
 
 Key messages for the survivors of sexual aggression:
 
-• The attack was not about sex but about power.
-• You are not to blame, the assailant is to blame.
-• You are not alone. There are people who support and care for you.
-• You can survive this and recover from it. It will take time and needs
-attention, but this is not the end of your life or happiness.
+* The attack was not about sex but about power.
+* You are not to blame, the assailant is to blame.
+* You are not alone. There are people who support and care for you.
+* You can survive this and recover from it. It will take time and needs attention, but this is not the end of your life or happiness.
 
 Recommend and facilitate counselling for all victims of sexual assault.
 
