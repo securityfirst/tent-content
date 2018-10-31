@@ -7,9 +7,9 @@ Censors using a blacklist may only block one domain name or URL.
 
 But many sites have variations:
 
-*	Twitter: http://twitter.com;
+*	Twitter: https://twitter.com;
 
-*	Twitter for mobile: http://m.twitter.com. 
+*	Twitter for mobile: https://m.twitter.com. 
 
 Sites that are routinely blocked may also register more than one name. 
 

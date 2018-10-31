@@ -3,7 +3,7 @@
 
 # Precautions
 
-* 	Obtain insurance and check what it covers.
+* Obtain insurance and check what it covers.
 
 *   Get advice for your destination, including: 
 

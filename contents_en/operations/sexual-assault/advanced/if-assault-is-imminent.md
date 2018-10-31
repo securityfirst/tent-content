@@ -20,7 +20,7 @@ Use physical force to fight off the attacker or resist being taken to another lo
 
 *	Scream, shout for help, blowing the car horn, run away.
 *  	Fight back, such as with a knee to the attacker’s groin.
-*	Learn self-defense skills to fight off attackers.
+*	Use self-defence skills to fight off attackers.
 
 *Some experts believe that fighting off an attacker could increase the risk of fatal violence. Consider the number of assailants, whether weapons are involved, and whether the setting is public or private.*
 
@@ -34,4 +34,6 @@ If there is no way out and your life is in danger, your objectives should be:
 This may mean submitting, and not resisting physically.
 
 *If sexual assault follows arrest or kidnapping, you may have limited options. Developing a relationship with your guards or captors may reduce the risk of all forms of assault. Protecting your life is the primary goal.*
+
+(Learn about [Arrests](umbrella://lesson/arrests) and [Kidnapping](umbrella://lesson/kidnapping))
 

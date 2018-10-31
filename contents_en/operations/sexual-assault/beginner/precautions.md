@@ -3,9 +3,19 @@
 
 ### Preventive measures can reduce the likelihood of becoming a target. 
 
-*"Sexual violence incidents can happen regardless of the clothing being worn and are never the fault of the survivor."* Megan Nobert, Addressing Sexual Violence in Humanitarian Organisations: Good Practices for Improved Prevention Measures, Policies, and Procedures, Report the Abuse, August 2017.
+## Training
+
+Empowering self-defence training will equip you to resist attackers using forceful and non-forceful measures (such as blocking and fleeing), and help you understand which measures to apply in different contexts, including when you know your assailant. 
+
+*"Self-defence training is not the only answer to the problem of sexual assault, but it deserves a place in our portfolio of strategies, especially because it can produce immediate results."*
+
+-J. A. Hollander, The importance of self-defense training for sexual violence prevention. 
 
 ## Dress
+
+*"Sexual violence incidents can happen regardless of the clothing being worn and are never the fault of the survivor."* 
+
+-Megan Nobert, Addressing Sexual Violence in Humanitarian Organisations.
 
 * Appropriately for the culture;
 * Inconspicuously;
