@@ -16,6 +16,10 @@ Check in regularly with someone who is not travelling with you and can provide s
 
 *   Establish curfews, deadlines, and no-go areas. 
 
+*	Assess the territory for known danger points like checkpoints and landmines.
+
+(Learn more about this in [Vehicles](umbrella://lesson/vehicles).)
+
 *	Arrange to be met on arrival in insecure locations or high-crime areas like airports and stations. 
 
 In order of preference, choose:
@@ -44,8 +48,6 @@ In order of preference, choose:
 (Learn about [arrests](umbrella://lesson/arrests).)
 
 *	Schedule security or equipment training if required. 
-
-(Learn about guidelines and policies for [vehicles](umbrella://lesson/vehicles).)
 
 ## Make a backup plan
 
