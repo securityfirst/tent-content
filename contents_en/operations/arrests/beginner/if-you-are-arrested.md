@@ -40,11 +40,13 @@ What is their attitude?
 
 *	Prepare for a long wait;
 
-* Calmly request anything you are entitled to (e.g. a phone call, a lawyer, or a toilet visit).
+* Calmly request anything you are entitled to (e.g. a phone call, a lawyer, or a toilet visit);
+
+* You may be searched or subject to a medical exam; 
 
 *	You may be threatened, assaulted, cuffed, confined, or deprived of sleep, food, or water. 
 
-_Raise abuse or issues with your treatment immediately, with the authorities who made the arrest, your team, and your legal support._
+_You should have regular access to water, especially women who are menstruating, going through menopause, or pregnant. Women should also have ready access to free sanitary towels or pads without having to ask for them. Raise abuse or issues with your treatment immediately with the authorities who made the arrest, your team, and your legal support._
 
 ## Don't confess
 
