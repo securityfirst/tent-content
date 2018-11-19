@@ -1,4 +1,4 @@
-Name: [Media]
+Name: [The Media]
 Order: 4
 
 ## Have a media strategy 
