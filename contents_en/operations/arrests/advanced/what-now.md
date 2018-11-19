@@ -11,8 +11,12 @@ Learn what to do if you are arrested in [arrests beginner]((umbrella://lesson/ar
 *   [Preparation](umbrella://lesson/preparation)
 *	[Protests] (umbrella://lesson/protests/1)
 
-### FURTHER READING
+### SOURCES
 
 *   Humanitarian Practice Network, [Good Practice Review Number 8: Operational security management in violent environments (Revised Ed.)](http://odihpn.org/wp-content/uploads/2010/11/GPR_8_revised2.pdf).
 *   ECHO, Generic Security Guide for Humanitarian Organisations, available at [eisf.eu](https://www.eisf.eu/library/generic-security-guide-for-humanitarian-organisations/).
 *   Protection International, [New Protection Manual for Human Rights Defenders](https://www.protectioninternational.org/en/node/1106).
+
+### FURTHER READING
+
+*   Penal Reform International, [Short Guide to the Nelson Mandela Rules (revised Standard Minimum Rules)](https://www.penalreform.org/resource/short-guide-to-the-nelson-mandela-rules/), 2016.  
