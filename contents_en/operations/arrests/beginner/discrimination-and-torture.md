@@ -21,7 +21,9 @@ they are powerless.
 provide sex in return for basic rights, goods or privileges. 
 - Sexual abuse by other prisoners may take
 place, sometimes with the complicity of prison guards. 
-- Sexual violence or custodial violence against women may include insults and humiliations of a sexual nature. 
+- Sexual violence or custodial violence may include insults and humiliations of a sexual nature. 
+- Male staff should not generally supervise female detainees, but this rule is not applied
+in many countries, and female staff do also abuse women prisoners. 
 
 *Developing a relationship with guards may reduce your risk of assault.*
 
