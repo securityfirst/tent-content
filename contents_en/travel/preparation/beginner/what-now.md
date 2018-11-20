@@ -13,8 +13,12 @@ Swipe right for this lesson's checklist.
 *   [Protecting Files](umbrella://lesson/protecting-files)
 *   [Managing Information](umbrella://lesson/managing-information)
 
-### FURTHER READING
+### SOURCES
 
 *   ECHO, Generic Security Guide for Humanitarian Organisations, available at [eisf.eu](https://www.eisf.eu/library/generic-security-guide-for-humanitarian-organisations/).
 *   CARE International, [Safety & Security Handbook](https://www.eisf.eu/wp-content/uploads/2014/09/0614-Macpherson-2004-CARE-International-Safety-and-Security-Handbook.pdf).
 *   Committee to Protest Journalists, [Journalist Security Guide](https://cpj.org/reports/2012/04/journalist-security-guide.php).
+
+### FURTHER READING
+
+*   Frontline Defenders, [Workbook on Security: Practical Steps for Human Rights Defenders at Risk](https://www.frontlinedefenders.org/en/resource-publication/workbook-security-practical-steps-human-rights-defenders-risk), June 23, 2016.  
