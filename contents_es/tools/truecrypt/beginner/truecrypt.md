@@ -66,7 +66,7 @@ Marque la casilla Acepto y acepto estar sujeto a la opción _license terms_ para
 **Paso 4.** Haga clic en "Instalar" para activar la pantalla _Instalación_ para comenzar a instalar TrueCrypt en su sistema. 
 
 **Paso 5.** Haga clic en "Ok" y luego "Finalizar" para activar la siguiente pantalla:
-![image](tool_truecrypt4. png) 
+![image](tool_truecrypt4.png) 
 
 **Paso 6.** Haga clic en "Sí" para completar la instalación de TrueCrypt. 
 
@@ -151,7 +151,7 @@ TrueCrypt ahora está listo para crear un _Standard Volume_. Mueva su mouse al a
 **Paso 14.** Haga clic en "Formato" para comenzar a crear su volumen estándar. TrueCrypt ahora creará un archivo llamado _My Volume_ en la carpeta _My Documents_ como se especificó anteriormente. Este archivo contendrá TrueCrypt _Standard Volume_, 10 megabytes de tamaño, que puede usar para almacenar sus archivos de manera segura. 
 
 Después de que se haya creado con éxito un _Standard Volume_, aparecerá el siguiente cuadro de diálogo:
-![Image]( tool_truecrypt15.png) 
+![Image](tool_truecrypt15.png) 
 
 **Paso 15.** Haga clic en "OK " para completar la creación de su _Volumen estándar_ y regrese a la consola TrueCrypt. 
 
