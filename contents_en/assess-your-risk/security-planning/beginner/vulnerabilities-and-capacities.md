@@ -1,6 +1,8 @@
 [Title]: # (Vulnerabilities and Capacities)
 [Order]: # (4)
 
+### List vulnerabilities that make the threats you face more likely to happen to you, and your capacities to prevent threats or respond to them. 
+
 ## Vulnerabilities
 
 A vulnerability is any factor which increases the liklihood of harm or loss. 
