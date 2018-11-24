@@ -1,5 +1,5 @@
-Name: [The Media]
-Order: 4
+[Title]: # (The Media)
+[Order]: # (4)
 
 ## Have a media strategy 
 
