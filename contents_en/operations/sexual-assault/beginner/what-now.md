@@ -9,6 +9,7 @@ Learn what to do if a team member is sexually assaulted in [sexual assault exper
 
 ### RELATED LESSONS/TOOLS
 
+*   [Security Planning](umbrella://lesson/security-planning)
 *	  [Borders](umbrella://lesson/borders)
 *   [Evacuation](umbrella://lesson/evacuation)
 *   [Vehicle](umbrella://lesson/vehicles)
