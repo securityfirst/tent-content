@@ -7,6 +7,7 @@ Learn about attending a crime scene in [Dangerous Assignments Advanced](umbrella
 
 ### RELATED LESSONS/TOOLS
 
+*   [Security Planning](umbrella://lesson/security-planning)
 *   [Preparation](umbrella://lesson/preparation)
 *   [Mobile Phones](umbrella://lesson/mobile-phones)
 *   [Vehicles](umbrella://lesson/vehicles)
