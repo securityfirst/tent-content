@@ -22,3 +22,4 @@ Learn what to do if you are arrested in [arrests beginner]((umbrella://lesson/ar
 ### FURTHER READING
 
 *   Penal Reform International, [Short Guide to the Nelson Mandela Rules (revised Standard Minimum Rules)](https://www.penalreform.org/resource/short-guide-to-the-nelson-mandela-rules/), 2016.  
+*   European Interagency Security Forum, [Family First: Liaison and Support During a Crisis](https://www.eisf.eu/wp-content/uploads/2013/02/1141-Davidson-2013-Family-First-Liaison-and-Support-During-a-Crisis-2.pdf), February 2013. 
