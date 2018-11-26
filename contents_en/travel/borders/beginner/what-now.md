@@ -5,6 +5,7 @@ Swipe right for this lesson's checklist.
 
 ### RELATED LESSONS/TOOLS
 
+*   [Security Planning](umbrella://lesson/security-planning)
 *	[Passwords Expert](umbrella://lesson/passwords/2)
 *   [Preparation](umbrella://lesson/preparation)
 *   [Protecting Files](umbrella://lesson/protecting-files)
