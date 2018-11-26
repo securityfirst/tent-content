@@ -5,7 +5,7 @@ Swipe right for this lesson's checklist.
 
 ### RELATED LESSONS/TOOLS
 
-*   [Managing Information](umbrella://lesson/managing-information))
+*   [Managing Information](umbrella://lesson/managing-information)
 *   [Travel Preparation](umbrella://lesson/backing-up)
 *   [Protect your Workspace](umbrella://lesson/protect-your-workspace)
 *   [Backing Up](umbrella://lesson/backing-up)

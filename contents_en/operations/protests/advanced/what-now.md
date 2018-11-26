@@ -7,6 +7,7 @@ Learn about witnessing protests in [protests beginner](umbrella://lesson/protest
 
 ### RELATED LESSONS/TOOLS
 
+*   [Security Planning](umbrella://lesson/security-planning)
 *   [Mobile Phone Lesson](umbrella://lesson/mobile-phones)
 *   [Sending a Message Lesson](umbrella://lesson/sending-a-message)
 *   [Making a Call Lesson](umbrella://lesson/making-a-call)

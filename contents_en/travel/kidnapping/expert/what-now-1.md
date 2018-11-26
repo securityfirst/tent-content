@@ -7,6 +7,12 @@ Learn to avoid kidnapping in [Kidnapping Beginner](umbrella://lesson/kidnapping/
 
 Learn survival techniques if you are kidnapped in [Kidnapping Advanced](umbrella://lesson/kidnapping/1)
 
+### RELATED LESSONS
+
+*   [Security Planning](umbrella://lesson/security-planning)
+*   [Sexual Assault](umbrella://lesson/sexual-assault)
+*   [Public Communications](umbrella://lesson/public-communications)
+
 ### SOURCES
 
 *   CARE International, [Safety & Security Handbook](https://www.eisf.eu/wp-content/uploads/2014/09/0614-Macpherson-2004-CARE-International-Safety-and-Security-Handbook.pdf).

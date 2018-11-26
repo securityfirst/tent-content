@@ -5,8 +5,9 @@ Swipe right for this lesson's checklist.
 
 ### RELATED LESSONS/TOOLS
 
+*   [Security Planning](umbrella://lesson/security-planning)
 *   [Borders](umbrella://lesson/borders)
-*   [Meeting](umbrella://lesson/meetings)
+*   [Meetings](umbrella://lesson/meetings)
 *   [Vehicles](umbrella://lesson/vehicles)
 *   [Arrests](umbrella://lesson/arrests)
 *   [Kidnapping](umbrella://lesson/kidnapping)

@@ -9,9 +9,8 @@ Learn what to do if you are sexually assaulted in [sexual assault advanced](umbr
 
 ### RELATED LESSONS/TOOLS
 
-*	 [Borders](umbrella://lesson/borders)
-*   [Evacuation](umbrella://lesson/evacuation)
-*   [Vehicle](umbrella://lesson/vehicles)
+*   [Security Planning](umbrella://lesson/security-planning)
+*   [Public Communications](umbrella://lesson/public-communications)
 *   [Counter-surveillance](umbrella://lesson/counter-surveillance/0)
 *   [Kidnapping] (umbrella://lesson/kidnapping/0)
 *   [Social Media](umbrella://lesson/social-media/0)

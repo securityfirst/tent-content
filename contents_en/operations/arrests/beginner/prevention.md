@@ -13,6 +13,8 @@
 
 *   Understand local context and obey local laws and customs where possible.
 
+(Learn about [Public Communications](umbrella://lesson/public-communications).) 
+
 ## Understand context
 
 If you work with local communities: 
@@ -27,4 +29,4 @@ If you work with local communities:
 
 *	Be aware if groups you don't work with feel discriminated against. 
 
-(Learn more about this in [preparation](umbrella://lesson/preparation).) 
+(Learn about [Context](umbrella://lesson/security-planning/beginner/context).)

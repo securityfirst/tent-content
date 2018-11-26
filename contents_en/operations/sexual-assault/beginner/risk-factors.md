@@ -8,6 +8,7 @@
 * 	A conservative society which restricts contact between unmarried men and women; 
 * 	Settings where it is common practice to extort sexual favours. 
 *  The presence of many young men with access to arms: 
+
  	*	Paramilitaries or police reputed to breach international standards of law; 
 	*	Undisciplined government soldiers; 
 	* 	Rebel groups and violent youth movements; 

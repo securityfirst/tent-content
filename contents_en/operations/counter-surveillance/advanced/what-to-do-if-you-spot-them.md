@@ -42,4 +42,4 @@ Be aware that this strategy may:
 
 *Consider leading a watcher to a police station if you anticipate a serious incident and are not at risk from the police. This will depend on your threat model.*
 
-(Learn more about this in [managing information.] (umbrella://lesson/managing-information))
+(Learn more about this in [Security Planning](umbrella://lesson/security-planning) and [Managing Information.] (umbrella://lesson/managing-information))

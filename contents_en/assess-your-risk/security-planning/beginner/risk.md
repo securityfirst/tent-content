@@ -26,22 +26,25 @@ To manage security, you have to understand what level of risk you can accept, an
 
 A risk assessment may be subjective, and it's just a tool. But it gives you a starting point for making security decisions. 
 
-1. Consider each threat you listed in your threat analysis in light of your vulnerabilities and capacities. What is the probability of the threat occurring? 
+* 1. Consider each threat you listed in your threat analysis in light of your vulnerabilities and capacities. What is the probability of the threat occurring? 
 
 Rank the probability very high, high, medium, low, or very low. 
 
 *For example, if the threat is having your work laptop stolen from your ground floor flat in a neighbourhood with high street crime, the probability of it happening might be high. But if you have a large, fierce dog that is wary of strangers, the probability might be lower.*     
 
-2. What will be the impact if it happens?
+* 2. What will be the impact if it happens?
 
 Rank the impact very high, high, medium, low, or very low. 
 
 *For example, if your laptop holds unprotected personal information about sources that might help an adversary identify and harm them, the impact of the laptop being stolen could be very high. If that information is securely stored elsewhere, the impact would be lower.*    
 
-3. Use this assessment to create policies for your security plan.
+* 3. Use this assessment to create policies for your security plan.
 
-* What level of risk is not acceptable? (Exposure to high probabiliy, high impact threats? What else?) What rules will you follow to avoid this exposure?  
-* What changes can you make to control risk? Which changes have the highest priority?  
-* Who decides when exposure to threats is still necessary, despite the risk? How will they decide, and who will they tell?   
+
+  * What level of risk is not acceptable? (Exposure to high probabiliy, high impact threats? What else?) What rules will you follow to avoid this exposure?  
+  
+  * What changes can you make to control risk? Which changes have the highest priority?  
+  
+  * Who decides when exposure to threats is still necessary, despite the risk? How will they decide, and who will they tell?   
 
 You may choose to limit all activities that come with a high probability of serious physical harm. You can also use the assessment to allocate resources to your highest security priority.

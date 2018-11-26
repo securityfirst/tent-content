@@ -15,7 +15,7 @@
     
 *   What damage could this trip cause your adversary? How interested will they be in your trip?
     
-(Learn to identify your adversary in the [managing information] (umbrella://lesson/managing-information) lesson.)
+(Learn more about this in [Security Planning](umbrella://lesson/security-planning).)
   
 ## Conduct a context assessment    
 

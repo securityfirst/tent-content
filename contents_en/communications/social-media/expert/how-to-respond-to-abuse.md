@@ -46,7 +46,7 @@ We recommend doing this if you feel comfortable putting trust in the authorities
 
 This will depend on your threat model.
 
-(Learn more about threat models in [managing information.] (umbrella://lesson/managing-information))
+(Learn more about this in [Security Planning](umbrella://lesson/security-planning) and [Managing Information.] (umbrella://lesson/managing-information))
 
 If you go ahead, bring a trusted friend or family member for emotional support.
 
