@@ -12,6 +12,6 @@
 (Learn about [mobile phones](umbrella://lesson/mobile-phones/0).)
 
 * In case you have no satellite phone, locate a community with a landline.
-* Before you head out, gather information about hostile groups in the area, such as criminals, guerrillas, vigilante groups or community police and indigenous communities that might not take well to strangers.
+* Before you head out, gather information about hostile groups in the area, such as criminals, guerrillas, vigilante groups or community police, or local communities that might not take well to strangers.
 
 (Learn about [checkpoints](umbrella://lesson/checkpoints).)
