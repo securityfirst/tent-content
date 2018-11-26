@@ -7,17 +7,19 @@
 
 *	Get to know new areas and meeting places in advance. 
 
+(Learn about [Security Planning](umbrella://lesson/security-planning).)
+
 Plan:
 
 *	Your approach;
 *	Possible escape routes;
 *	Nearby safe spots such as partner offices, supportive local people, or embassies;
 
-(Learn more about this in [vehicles](umbrella://lesson/vehicles).)
+(Learn more about this in [Vehicles](umbrella://lesson/vehicles).)
 
 *   A cover story for borders or checkpoints.
 
-(Learn more about this in [borders](umbrella://lesson/borders) and [checkpoints](umbrella://lesson/checkpoints).)
+(Learn more about this in [Borders](umbrella://lesson/borders) and [Checkpoints](umbrella://lesson/checkpoints).)
 
 # Choose a meeting place
 
@@ -48,4 +50,4 @@ Consider:
 
 *	Agree a discreet signal to alert others if something is wrong.
 
-(Learn about [sending a message](umbrella://lesson/sending-a-message).)
+(Learn about [Sending a Message](umbrella://lesson/sending-a-message).)
