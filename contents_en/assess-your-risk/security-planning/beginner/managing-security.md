@@ -18,7 +18,9 @@ How likely are the threats you have described to actually happen? How bad would 
 Control risk by writing a security plan.  
 
 For every threat, describe several measures you can take to: 
+
 1. Mitigate risk (reduce the liklihood that the threat will happen); and,
+
 2. Respond (reduce the impact if the threat does happen).  
 
 ## 4. Implement and review 
