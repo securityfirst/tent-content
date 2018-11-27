@@ -31,7 +31,7 @@ This will mean different things depending on the local context.
 
 * Travel low profile. For example, consider a trusted taxi rather than an official work vehicle. 
 
-(Learn more about this in [Drivers and Vehicles](umbrella://lesson/vehicles/drivers-and-vehicles).) 
+(Learn more about this in [Drivers and Vehicles](umbrella://lesson/vehicles/beginner/drivers-and-vehicles).) 
 
 * Protect your communications.
 
