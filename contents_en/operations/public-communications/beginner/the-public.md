@@ -1,5 +1,5 @@
-Name: [The Public]
-Order: 5
+[Title]: # (The Public)
+[Order]: # (5)
 
 - Make language in advocacy campaigns plain and easy to understand. 
 
