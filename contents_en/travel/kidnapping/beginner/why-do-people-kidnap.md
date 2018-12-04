@@ -9,14 +9,14 @@ Base security management on a thorough understanding of your location:
 
 * General context and risks. 
 
-(Learn more about this in [preparation](umbrella://lesson/preparation).)
-
 * The specific threat of kidnapping, including:
 	*	Past incidents;
     *	Presence of actors that carry out kidnapping;
     *	Promoting factors.
 
 This understanding will help you reduce promoting factors and reduce opportunity. 
+
+(Learn about [Security Planning](umbrella://lesson/security-planning).)
 
 ## Who and why? 
 

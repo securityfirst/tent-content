@@ -5,6 +5,8 @@
 
 Advice is rarely applicable to everyone. Different people require different strategies depending on the time and place. The challenge is to identify the things in your environment that may result in harm or loss at any given moment. 
 
+Follow these steps to manage your security. 
+
 ## 1. Understand threats and vulnerabilities in your context
 
 The kind of people (stakeholders) and events that may cause harm or loss (threats) depend on where you are (your context). Some things about you or your context may make you more vulnerable to certain threats.   

@@ -1,15 +1,17 @@
 [Title]: # (Threats)
 [Order]: # (3)
 
+### Identify and understand all the threats you face.
+
 A threat is someone or something that can inflict harm, loss, damage, or punishment.  
 
-Threats may include assault, torture, sexual violence, imprisonment, or even assassination. 
+Threats may manifest as assault, torture, sexual violence, imprisonment, or even assassination. 
 
 You may not be able to control threats, but you can manage them by increasing your security. 
 
 ## List your threats
 
-First, identify and understand as many posssible threats as you can. This is called threat analysis. 
+First, draw on your context and stakeholder analysis to identify as many possible threats as you can. This process is part of a threat analysis. 
 
 ## Remember direct, indirect, and possible threats
 
@@ -35,5 +37,5 @@ For each threat, ask yourself:
 - Who are the possible targets? 
 - Is it limited to a certain area, time, or activity? 
 - Is it frequent, isolated, recurring, or ongoing?
-- Has the nature of the threat changed recently, or might it change soon?  
+- Has the nature of the threat changed recently, or might it change soon? How will you know?  
 - What else do you know about the threat? What else do you need to know? 
