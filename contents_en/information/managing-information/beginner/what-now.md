@@ -15,3 +15,4 @@ Swipe right for this lesson's checklist.
 ### FURTHER READING
 
 *   Frontline Defenders, [Workbook on Security: Practical Steps for Human Rights Defenders at Risk](https://www.frontlinedefenders.org/en/resource-publication/workbook-security-practical-steps-human-rights-defenders-risk),  June 23, 2016.
+*   Internews, [SAFETAG: A SECURITY AUDITING FRAMEWORK AND EVALUATION TEMPLATE FOR ADVOCACY GROUPS](https://safetag.org/guide/), includes principles, activities, and best practices to help digital security auditors to support small civil society organizations or independent media houses who have strong digital security concerns. 
