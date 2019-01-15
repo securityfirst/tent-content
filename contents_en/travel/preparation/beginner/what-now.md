@@ -23,3 +23,4 @@ Swipe right for this lesson's checklist.
 ### FURTHER READING
 
 *   Frontline Defenders, [Workbook on Security: Practical Steps for Human Rights Defenders at Risk](https://www.frontlinedefenders.org/en/resource-publication/workbook-security-practical-steps-human-rights-defenders-risk), June 23, 2016.  
+* Open Briefing, [Security Risk Assessment Tool](https://www.openbriefing.org/resources/security-risk-assessment-tool/), a free resource for experienced NGO security managers and those new to risk assessments.
