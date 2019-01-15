@@ -20,4 +20,4 @@ Learn how to stay anonymous online in [Internet Advanced](umbrella://lesson/the-
 
 ### SOURCES
 
-*   EFF, Surveillance Self-Defense, [How to: Circumvent Online Censorship](https://ssd.eff.org/en/module/how-circumvent-online-censorship).
+*   EFF, Surveillance Self-Defense, [How to: Circumvent Online Censorship](https://ssd.eff.org/en/module/how-circumvent-online-censorship), last reviewed August 10, 2017. 
