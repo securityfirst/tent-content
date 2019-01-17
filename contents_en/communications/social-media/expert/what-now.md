@@ -23,3 +23,4 @@ Learn about hate speech in [Social Media Advanced](umbrella://lesson/social-medi
 ### FURTHER READING
 
 * Wirecutter, [How to Keep Your Smart-Home Technology Secure From Domestic Abusers](https://thewirecutter.com/blog/keep-your-smart-home-secure-from-domestic-abusers/), October 23, 2018.
+* Rory Peck Trust, [Social Media: Trolling and Doxxing](https://rorypecktrust.org/resources/Digital-Security-Guide/Social-Media-Trolling-and-Doxxing?cu=en-GB).

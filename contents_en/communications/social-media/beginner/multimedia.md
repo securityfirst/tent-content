@@ -85,3 +85,7 @@ eyeWitness can:
 *	Store offline copies of images that may be used as evidence and document who has access. 
 
 [eyeWitness to Atrocities](http://www.eyewitnessproject.org/) is available from Google Play, or request a direct download from [general@eyewitnessproject.org](general@eyewitnessproject.org).
+
+## Use Mobile Justice 
+
+In the US, ACLU affiliates in several states offer a free Mobile Justice app to help users document exchanges with police and understand their local rights. Find out more at [ACLU Apps to Record Police Conduct](https://www.aclu.org/issues/criminal-law-reform/reforming-police-practices/aclu-apps-record-police-conduct).
