@@ -8,13 +8,13 @@
 *	Buy an older machine. 
 *	Check it still support security updates. Some older operating systems may no longer be supported. 
 
-*A computer does not need to be fast or new to run a few programs. Secure software like Tails may be more likely to work with older models. *
+*A computer does not need to be fast or new to run a few programs. Secure software like Tails may be more likely to work with older models.*
 
 ## Keep it updated
 
 *	Keep your device or operating system up-to-date with software updates. 
 
-*Updates will often fix security problems in older code that attacks can exploit. *
+*Updates will often fix security problems in older code that attacks can exploit.*
 
 ## Use Tails
 
