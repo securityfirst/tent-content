@@ -18,7 +18,7 @@
 
 ## Use Tails
 
-* Tails is an operating system with a privacy and security focus.
+* [Tails](https://tails.boum.org/) is an operating system with a privacy and security focus.
 * Tails defaults to high security settings.
 * Tails works well if you just want to store, edit, and write confidential messages, even if you prefer another operating system day to day. 
 
@@ -42,7 +42,7 @@ Keep an air gap between your computer and the Internet.
 If you do connect to the Internet, keep it disconnected from your identity. 
 
 *	Create separate web or email accounts specifically for the device;
-*  	Use Tor to hide your IP address from the services you access online. 
+*  	Use Tor to hide your IP address from the services you access online. (Tails routes all network connections through Tor.)
 
 *The best way to protect yourself from malware attacks targeting your identity, or someone intercepting your communications, is to keep your secure device completely removed from your usual activities.*  
 
