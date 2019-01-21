@@ -28,4 +28,6 @@ Secure devices are:
 
 ## Secure Storage
 
-You can store important data that you rarely need to access, like a backp copy, on a hidden, encrypted USB key. 
+You can store important data that you rarely need to access, like a backup copy, on a hidden, encrypted USB key. 
+
+(Learn more about this in [Protecting Files Advanced](umbrella://lesson/protecting-files/1).)
