@@ -14,4 +14,5 @@ Learn how to improve basic email security in [Email Beginner](umbrella://lesson/
 
 ### FURTHER READING
 
-*   EFF, Surveillance Self-Defense, [A Deep Dive on End-to-End Encryption: How Do Public Key Encryption Systems Work?](https://ssd.eff.org/en/module/introduction-public-key-cryptography-and-pgp)
+*   EFF, Surveillance Self-Defense, [A Deep Dive on End-to-End Encryption: How Do Public Key Encryption Systems Work?](https://ssd.eff.org/en/module/introduction-public-key-cryptography-and-pgp), last reviewed November 29, 2018. 
+*   EFF, Surveillance Self-Defense, [Key Concepts in Encryption](https://ssd.eff.org/en/module/key-concepts-encryption), last reviewed November 26, 2018. 
