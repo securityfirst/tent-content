@@ -16,11 +16,14 @@ Learn to combat other types of abuse in [Social Media Expert](umbrella://lesson/
 *   [Sending a Message](umbrella://lesson/sending-a-message)
 *   [Pidgin](umbrella://lesson/pidgin)
 
-### FURTHER READING
+### SOURCES
 
 *	Tactical Tech, [Me and My Shadow](https://myshadow.org/).
+*   EFF, Surveillance Self-Defense, [Protecting Yourself on Social Networks](https://ssd.eff.org/en/module/protecting-yourself-social-networks), last reviewed October 30, 2018. 
+
+### FURTHER READING
+
 *	Tactical Tech, XYZ, [Women's rights campaigning info-activism toolkit].(https://xyz.informationactivism.org/en/womens-rights-campaigning-info-activism-toolkit).
-*   Security in a Box, [Social Networking Platforms](https://securityinabox.org/en/guide/social-networking/web/).
 * *The Guardian* [news reports] (https://www.theguardian.com/uk-news/cambridge-analytica) on Cambridge Analytica.
 *	Baratunde Thurston, Medium, [Find Out What Google and Facebook Know About You](https://medium.com/s/trustissues/find-out-what-google-and-facebook-know-about-you-31d0fa6d7b61).
 *	Global Partners Digital, [Travel Guide to the Digital World: Data Protection for Human Rights Defenders](https://www.gp-digital.org/wp-content/uploads/2018/07/travelguidetodataprotection.pdf).
