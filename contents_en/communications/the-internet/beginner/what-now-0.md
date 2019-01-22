@@ -17,6 +17,8 @@ Learn how to stay anonymous online in [Internet Advanced](umbrella://lesson/the-
 *   FLOSS manuals, [How to Bypass Internet Censorship](http://booki.flossmanuals.net/bypassing-censorship/).
 *   The Wirecutter, [What Is a VPN and What Can (and Can’t) It Do?](https://thewirecutter.com/reviews/what-is-a-vpn/).
 *   CDT, [VPNs](https://cdt.org/issue/privacy-data/vpns/).
+*   EFF, Surveillance Self-Defense, [What Should I Know about Encryption?](https://ssd.eff.org/en/module/what-should-i-know-about-encryption), last reviewed November 24, 2018. 
+
 
 ### SOURCES
 
