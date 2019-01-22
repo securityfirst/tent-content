@@ -18,4 +18,8 @@ Learn how to encrypt files in [Protecting Files Advanced](umbrella://lesson/prot
 
 ### SOURCES
 
-*   EFF, Security Self-Defense, [Keeping your Data Safe](https://ssd.eff.org/en/module/keeping-your-data-safe), last reviewed November 2, 2018.
+*   EFF, Surveillance Self-Defense, [Keeping your Data Safe](https://ssd.eff.org/en/module/keeping-your-data-safe), last reviewed November 2, 2018.
+
+### FURTHER READING
+
+*   EFF, Surveillance Self-Defense, [What Should I Know about Encryption?](https://ssd.eff.org/en/module/what-should-i-know-about-encryption), last reviewed November 24, 2018. 
