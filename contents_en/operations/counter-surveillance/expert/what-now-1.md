@@ -9,6 +9,7 @@ Learn about counter-surveillance on foot in [counter-surveillance advanced](umbr
 
 ### RELATED LESSONS/TOOLS
 
+*   [Security Planning](umbrella://lesson/security-planning)
 *   [Meetings](umbrella://lesson/meetings)
 *	[Vehicles](umbrella://lesson/vehicles)
 *	[Managing Information](umbrella://lesson/managing-information)

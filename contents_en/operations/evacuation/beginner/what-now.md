@@ -7,6 +7,7 @@ Learn about pre-evacuation, evacuation, and return in [evacuation advanced](umbr
 
 ### RELATED LESSONS/TOOLS
 
+*   [Security Planning](umbrella://lesson/security-planning)
 *   [Backing Up](umbrella://lesson/backing-up)
 *   [Safely Deleting](umbrella://lesson/safely-deleting)
 *   [Protective Equipment](umbrella://lesson/protective-equipment)

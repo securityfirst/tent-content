@@ -49,7 +49,7 @@ _Remember: telecommunications networks and mobile apps may be overloaded or shut
 
 Conduct a specific risk assessement before attending large protests. 
 
-(Learn more about this in [preparation](umbrella://lesson/preparation) and [managing information](umbrella://lesson/managing-information).) 
+(Learn about [Security Planning](umbrella://lesson/security-planning).)
 
 *   **Security support**
 

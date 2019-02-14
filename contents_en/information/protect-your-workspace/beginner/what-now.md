@@ -7,6 +7,10 @@ Swipe right for this lesson's checklist.
 
 [Workspace Expert](umbrella://lesson/protect-your-workspace/2) tells you how to protect your devices from physical threats. 
 
+### RELATED LESSONS
+
+*   [Security Planning](umbrella://lesson/security-planning)
+
 ### SOURCES
 
 * Security in a Box, [Protect your Information from Physical Threats](https://securityinabox.org/en/guide/physical/), updated June 28, 2018. 

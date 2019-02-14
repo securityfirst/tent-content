@@ -18,4 +18,4 @@ Los proveedores de Webmail que utilizan HTTPS de forma predeterminada se incluye
 Algunos proveedores de correo web le dan la opción de elegir usar HTTPS de forma predeterminada seleccionándolo en su configuración, como Hotmail.
 
 HTTPS es el nivel más básico de cifrado para su navegación web que recomendamos para todos. Es tan básico como poner en su cinturón de seguridad cuando conduce.
-![image](\"email1.png\")
+![image](email1.png)

@@ -143,10 +143,10 @@ Los próximos pasos son completamente opcionales pero pueden ser útiles cuando 
 ![image](tool_pgplin11.png)
 
 Se abrirá una ventana con dos columnas: Nombre e ID de clave.
-![image](tool_pgplin12. png)
+![image](tool_pgplin12.png)
 
 En el extremo derecho hay un pequeño botón. Haga clic en ese botón para configurar las columnas. Desmarque la opción ID de clave y haga clic en la opción Huella digital.
-![imagen](herramienta_pgplin13.png)
+![imagen](tool_pgplin13.png)
 
 Ahora cambie el ancho de la columna Huella digital moviendo el mouse hacia las líneas entre cada encabezado de columna (es decir, solo para a la izquierda del encabezado "ID de clave" en la parte superior de la lista de teclas) y arrastrando la línea hacia la izquierda. Sigue moviéndote hacia la izquierda hasta que puedas ver toda la identificación de clave, así:
 
@@ -240,7 +240,7 @@ Llevamos las claves públicas de Danny O'Brien, por ejemplo, tiene un certificad
 En algunos casos, una persona puede tener más de un certificado, y todos son válidos. Tenga en cuenta que es posible que cualquier persona cargue un certificado público para cualquier otra persona, y que una de estas claves puede no pertenecer a la persona propietaria de la dirección de correo electrónico asociada. En este caso, la verificación de la huella dactilar es extremadamente importante.
 
 Aparecerá una pequeña ventana de notificación que le informará si tuvo éxito, y Enigmail Key Manager ahora le mostrará los certificados agregados:
-![image](tool_pgplin25. png)
+![image](tool_pgplin25.png)
 
 ### 4.0 Envío de correo cifrado PGP
 

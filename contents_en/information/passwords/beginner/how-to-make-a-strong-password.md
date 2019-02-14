@@ -11,7 +11,7 @@
 
 ## 1. Long 
 
-* **Use more than ten characters, ideally a long phrase or sentence.** 
+* **Use several characters, ideally six words or more in a long phrase or sentence.** 
 
 The longer a password is, the longer it takes to guess. Short passwords of any kind, even totally random ones, are not strong enough for use with encryption today.
 
@@ -51,6 +51,6 @@ Attackers will continue to use a stolen password until you change it, or may gue
 
 *	**Use paper to protect passwords, not manage them.** 
 
-Don't store multiple passwords on a post-it note on your desk or a file on your computer, even if it's password-protected. But if it helps you to remember a strong, complex password, write it on a piece of paper that you carry with you and protect like a credit card or a passport. Change it if the paper is lost or stolen.   
+Don't store multiple passwords on a post-it note on your desk or a file on your computer, even if it's password-protected. But if it helps you to remember a strong, complex password, write it on a piece of paper that you carry with you and protect like a credit card or a passport. Change it if the paper is lost or stolen, or even if someone had temporary access to it.   
 
 ![image](password2.png)

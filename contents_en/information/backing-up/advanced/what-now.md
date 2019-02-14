@@ -5,6 +5,7 @@ Swipe right for this lesson's checklist.
 
 ### RELATED LESSONS/TOOLS
 
+*   [Security Planning](umbrella://lesson/security-planning)
 *   [Protecting Files](umbrella://lesson/protecting-files)
 *   [Safely Deleting](umbrella://lesson/safely-deleting)
 *   [VeraCrypt](umbrella://lesson/veracrypt)

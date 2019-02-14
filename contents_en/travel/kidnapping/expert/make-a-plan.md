@@ -21,9 +21,6 @@ _Specialist advice from a reputable company is strongly recommended if you lack 
 
 *   Keep incident details strictly confidential;  
 *	Implement a need to know policy.
-
-(Learn more about this in [preparation](umbrella://lesson/preparation).) 
-
 *	Bypass the usual chain of command if necessary; 
 *	Exempt crisis management team from reporting to usual supervisors. 
 
@@ -37,12 +34,17 @@ _Using a trusted intermediary gives you time to consider how to respond to messa
 *   Inform local police and other authorities, as appropriate;
 *   Provide relevant parties with incident manager's contact details;  
 *	Request that no action be taken without the manager's agreement;
-*   Answer enquiries from the press, as appropriate;
 *   Keep contact with relevant colleagues or agencies.
 
+## Manage the media
 
+*   Based on the best available advice, make an informed decision about how much information to reveal in order to warn others and sustain action on the victim's behalf;
+*   Coordinate messaging with family members and other parties;
+*   Appoint a spokesperson and establish strict communication procedure and channels; 
+*   Consider whether communications you control could enable the kidnappers or promote their agenda;
+*   Share your strategy with editors and work with journalists to manage how the incident is covered, if possible and appropriate. 
 
+"Emotional appeals from family members and hostage tapes from the kidnappers can drive up ransom demands or make it easier for the kidnappers to achieve their political objectives. But I'm hard pressed to come up with a case where the complete suppression of news was essential to the positive outcome in a kidnapping."  
+- Joel Simon, "The New Censorship." 
 
-
-
-
+(Learn about [Public Communications](umbrella://lesson/public-communications).)

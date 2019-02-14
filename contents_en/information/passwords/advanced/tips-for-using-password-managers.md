@@ -3,7 +3,9 @@
 
 ## Back it up. 
 
-If you lose or accidentally delete your only copy of a password database, you will lose access to your accounts. This makes it extremely important that you back up your KeePassXC database. (Learn more about [backing up](umbrella://lesson/backing-up).)
+If you lose or accidentally delete your only copy of a password database, you will lose access to your accounts. This makes it extremely important that you back up your KeePassXC database. 
+
+(Learn more about [Backing Up](umbrella://lesson/backing-up).)
 
 ## Create a secure, memorable master password.
 

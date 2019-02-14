@@ -5,6 +5,8 @@
 
 Your first goal is to get outside support.
 
+* Contact your team or someone else who can help to get you released. 
+
 *	Ask to see an independent lawyer, interpreter, embassy official, or medical professional as needed. 
 
 *	Be persistent. 
@@ -34,17 +36,9 @@ What is their attitude?
 
 *   How long can they keep you?
 
-## Mentally prepare
+## Don't volunteer information
 
-*   Stay calm; 
-
-*	Prepare for a long wait;
-
-* Calmly request anything you are entitled to (e.g. a phone call, a lawyer, or a toilet visit).
-
-*	You may be threatened, assaulted, cuffed, confined, or deprived of sleep, food, or water. 
-
-_Raise abuse or issues with your treatment immediately, with the authorities who made the arrest, your team, and your legal support._
+*	Be calm, helpful, and cooperative, but don't volunteer information. 
 
 ## Don't confess
 
@@ -52,16 +46,16 @@ _Raise abuse or issues with your treatment immediately, with the authorities who
 
 *   Avoid signing anything you don't agree with or written in a language you don't understand.
 
-## Don't volunteer information
+## Mentally prepare
 
-*	Be calm, helpful, and cooperative, but don't volunteer information. 
+* Stay calm; 
 
+*	Prepare for a long wait in case you are held for a long time;
 
+* Calmly request anything you are entitled to (e.g. a phone call, a lawyer, or a toilet visit);
 
+* You may be searched or subject to a medical exam; 
 
+*	You may be threatened, assaulted, cuffed, confined, or deprived of sleep, food, or water. 
 
-  
-
-
-
-
+_You should have regular access to water, especially women who are menstruating, going through menopause, or pregnant. Women should also have ready access to free sanitary towels or pads. Raise abuse or issues with your treatment immediately with the authorities who made the arrest, your team, and your legal support._

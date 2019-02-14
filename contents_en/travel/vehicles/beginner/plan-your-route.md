@@ -26,7 +26,7 @@
 *   Other danger points. 
 	* Does the route pass through an area controlled by military, a warlord or local leader? 
     * Have you negotiated passage or obtained necessary permission?
-    * Conflict lines and areas of insecurity should be rigorously checked before travel.      
+    * Conflict lines and areas of insecurity should be rigorously checked before travel. Are there reports of landmines, improvised explosives, or munitions targeting personnel or vehicles?      
 *   Safe waypoints.
 *   Refuelling stops.
 *   Food stops.

@@ -17,6 +17,11 @@ Insist on your team member's rights to be:
 
 Protest if these requests are not met. 
 
+*As a matter of principle, women should be held
+in accommodation which is physically separate from that
+of male prisoners, in order to protect them against sexual
+harassment and abuse.*
+
 ## Seek their release
 
 The arrest may relate to the person's actions or the organisation they work for.

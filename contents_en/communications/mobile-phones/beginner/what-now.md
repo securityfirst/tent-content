@@ -18,6 +18,8 @@ Learn how to root and encrypt your phone in [Mobile Phone Expert](umbrella://les
 ### FURTHER READING
 
 * 	Security First, [Secure Communications](https://advocacyassembly.org/en/courses/33/#/chapter/1/lesson/1), a free online training at Advocacy Assembly. 
-*   Security in a Box, [Use mobile phones as securely as possible](https://securityinabox.org/en/guide/mobile-phones)
-*   Security in a Box, [Use smartphones as securely as possible](https://securityinabox.org/en/guide/smartphones)
-*   EFF, Security Self-Defense, [The problem with mobile phones.](https://ssd.eff.org/en/module/problem-mobile-phones)
+
+### SOURCES
+
+*   Security in a Box, [Use smartphones as securely as possible](https://securityinabox.org/en/guide/smartphones), updated June 4, 2018.
+*   EFF, Security Self-Defense, [The problem with mobile phones](https://ssd.eff.org/en/module/problem-mobile-phones), last reviewed October 30, 2018. 

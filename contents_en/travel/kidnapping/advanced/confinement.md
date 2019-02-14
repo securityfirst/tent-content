@@ -3,17 +3,25 @@
 
 ## Mentally prepare
 
-*   Anticipate periods of isolation and intimidation;
+* Anticipate periods of isolation and intimidation;
 *	Prepare for a long wait;
 *	Do not believe everything you are told. 
+
+*If you face assault or sexual violence, your objective should be to survive, and minimize your physical and psychological harm.*
+
+(Learn about [Discrimination and Torture](umbrella://lesson/arrests/beginner/discrimination-and-torture).)
 
 ## Be respectful 
 
 *   Try to build a relationship with kidnappers;
 *	Try to persuade them to contact your colleagues or the authorities. Find reasons why this would benefit them.
 *	Keep to subjects of mutual interest, such as family and children; 
-*	Encourage kidnappers to view you as a person.
+*	Encourage kidnappers to view you as a person;
 *	Do not discuss politics or religion.
+
+*Developing a relationship with guards may reduce your risk of assault.*
+
+(Learn more about [Sexual Assault](umbrella://lesson/sexual-assault).) 
 
 ## Keep your dignity. 
 

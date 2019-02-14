@@ -11,7 +11,7 @@ Accessing the Internet and publishing information on the Internet leaves traces.
 
 This may put you at risk. 
 
-(Learn to assess your risk in the [managing information.] (umbrella://lesson/managing-information) lesson.)
+(Learn more about this in [Security Planning](umbrella://lesson/security-planning) and [Managing Information] (umbrella://lesson/managing-information).)
 
 You can reduce your risk by using Tor. 
 

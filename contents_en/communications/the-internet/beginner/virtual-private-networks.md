@@ -24,9 +24,9 @@ A VPN protects your traffic from being intercepted by third parties, including y
 
 But the VPN provider can intercept your traffic directly, and record what you do online. Third parties, including government or law enforcement officials, may still be able to access this information through the VPN provider. 
 
-Whether this is a problem for you will depend on your threat model.
+Whether this is a problem for you will depend on what kinds of actors pose a threat to you and your team.
 
-(Learn more about threat models in [managing information.] (umbrella://lesson/managing-information))
+(Learn more about this in [Security Planning](umbrella://lesson/security-planning).)
 
 VPN providers may be commercial or non-profit, hosted in different countries, and offer different privacy policies. For information about specific VPN services, click [here](https://thatoneprivacysite.net/vpn-section/).
 
