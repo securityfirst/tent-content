@@ -3,7 +3,7 @@
 
 Swipe right for this lesson's checklist.
 
-Learn how to stay anonymous online in [Internet Advanced](umbrella://lesson/the-internet/1).
+Learn how to test and collect evidence of censorship in [Censorship expert](umbrella://communications/censorship/expert).
 
 ### RELATED LESSONS/TOOLS
 
