@@ -26,5 +26,5 @@ Learn survival techniques if you are kidnapped in [Kidnapping Advanced](umbrella
 *   European Interagency Security Forum, [Security Incident Information Management (SIIM) Handbook](https://www.eisf.eu/library/security-incident-information-management-handbook/), September 14, 2017. 
 *   Dart Centre for Journalism and Trauma, [Communicating Bad News: A Guidance Pack](https://dartcenter.org/sites/default/files/breaking_bad_news_0.pdf), 2004. 
 *   Hostage UK, [Back to Work: Helping Returning Hostages Back to the Workplace](http://www.hostageuk.org/flipbook/flipbook/?page=1), 2016. 
-*   Joel Simon, [The New Censorship: Inside the Global Battle for Media Freedom],  Columbia Unversity Press, November 2014. 
+*   Joel Simon, [The New Censorship: Inside the Global Battle for Media Freedom](https://cup.columbia.edu/book/the-new-censorship/9780231160643),  Columbia Unversity Press, November 2014. 
 
