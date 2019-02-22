@@ -3,10 +3,11 @@
 
 Swipe right for this lesson's checklist.
 
-Learn how to circumvent censorship in [Internet Beginner](umbrella://lesson/the-internet/0).
+Learn how to protect your privacy on social media in [Online Privacy beginner](umbrella://communications/online-privacy/beginner).
 
 ### RELATED LESSONS/TOOLS
 
+*   [Censorship](umbrella://communications/censorship)
 *   [Tor for Linux](umbrella://lesson/tor-for-linux)
 *	[Tor for Mac](umbrella://lesson/tor-for-mac-os-x)
 *   [Tor for Windows](umbrella://lesson/tor-for-windows)
