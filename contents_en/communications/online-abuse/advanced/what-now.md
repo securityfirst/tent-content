@@ -3,13 +3,12 @@
 
 Swipe right for this lesson's checklist.
 
-Learn more about protecting your privacy in [Social Media Beginner](umbrella://lesson/social-media/0).
-
-Learn to combat other types of abuse in [Social Media Expert](umbrella://lesson/social-media/2).
+Learn to combat other types of abuse in [Online Abuse expert](umbrella://communications/online-abuse/expert).
 
 ### RELATED LESSONS/TOOLS
 
-*	[Internet](umbrella://lesson/the-internet)
+*	[Online Privacy](umbrella://communications/online-privacy)
+* [Censorship](umbrella://communications/censorship)
 *	[Phishing] (umbrella://lesson/phishing)
 *	[Passwords](umbrella://lesson/passwords)
 * 	[How to change your Facebook privacy settings](umbrella://lesson/facebook)
