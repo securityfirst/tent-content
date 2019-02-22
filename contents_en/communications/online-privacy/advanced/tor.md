@@ -15,8 +15,10 @@ If properly configured, it can protect your identity from an adversary listening
 
 # Circumvention
 
-Because of how Tor routes your web traffic, it also provides a reliable, secure and public means of circumvention that saves you from having to assess proxies and VPNs for privacy and security. 
+Because of how Tor routes your web traffic, it also provides a reliable, secure and public means of circumventing censorship that saves you from having to assess proxies and VPNs for privacy and security. 
 
-However, it can be slow and difficult to use.
+(Learn about [Censorship](umbrella://communications/censorship/beginner).)
+
+However, Tor can be slow and difficult to use.
 
 (Learn how to use the Tor Browser for [Windows](umbrella://lesson/tor-for-windows), [Mac] (umbrella://lesson/tor-for-mac-os-x), and [Linux] (umbrella://lesson/tor-for-linux).)
