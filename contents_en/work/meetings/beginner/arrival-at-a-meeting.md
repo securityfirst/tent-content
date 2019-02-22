@@ -11,7 +11,7 @@
 
 *	Practise counter-surveillance en route. Ensure you are clear before you arrive. 
 
-(Learn about [counter-surveillance](umbrella://lesson/counter-surveillance/0).) 
+(Learn about [being followed](umbrella://work/being-followed/beginner).) 
 
 ## Check the meeting place
 
