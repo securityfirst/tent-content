@@ -15,4 +15,4 @@ You may have the option to untag yourself, or ask someone else to take it down, 
 
 # When your boundaries are violated
 
-Learn about [hate speech](umbrella://lesson/social-media/1) and [online abuse](umbrella://lesson/social-media/2).
+Learn about [Online Abuse](umbrella://communications/online-abuse).
