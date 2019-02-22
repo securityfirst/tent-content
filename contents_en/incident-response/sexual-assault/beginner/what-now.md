@@ -15,7 +15,7 @@ Learn what to do if a team member is sexually assaulted in [sexual assault exper
 *   [Vehicle](umbrella://lesson/vehicles)
 *   [Being Followed](umbrella://work/being-followed/beginner)
 *   [Kidnapping] (umbrella://lesson/kidnapping/0)
-*   [Social Media](umbrella://lesson/social-media/0)
+*   [Online Abuse](umbrella://communications/online-abuse)
 
 ### SOURCES & FURTHER READING
 
