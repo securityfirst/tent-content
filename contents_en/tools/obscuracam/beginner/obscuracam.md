@@ -7,7 +7,7 @@
 
 **Lesson to read:**   
 - [Mobile Phones](umbrella://lesson/mobile-phones)  
-- [Social Media](umbrella://lesson/social-media)  
+- [Online Privacy](umbrella://communications/online-privacy/beginner) 
 **Download Location:** [ObscuraCam homepage](https://guardianproject.info/apps/obscuracam/)  
 **Phone requirements:** Android 2.3.3 and up  
 **Version used in this guide:** 2.0-RC2b  
