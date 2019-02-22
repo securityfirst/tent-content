@@ -15,7 +15,7 @@ If you email a political dissident, what you say might not matter. You may be fl
 
 Using an additional tool like the Tor browser will help you limit the amount of metadata you expose. 
 
-(Learn more about Tor in the [Internet lesson](umbrella://lesson/the-internet).)
+(Learn more about this in [Online Privacy](umbrella://communications/online-privacy/advanced).)
 
 # Encryption may be a red flag
 
