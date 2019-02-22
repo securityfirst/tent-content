@@ -45,8 +45,8 @@ Physical monitoring of a fixed location, someone on foot, or someone in a vehicl
 
 This lesson addresses human surveillance.
 
-Counter-surveillance beginner involves fixed locations, like your office. 
+Being Followed beginner involves fixed locations, like your office. 
 
-[Counter-surveillance advanced](umbrella://lesson/counter_surveillance/1) involves surveillance on foot.
+[Being Followed advanced](umbrella://work/being-followed/advanced)involves surveillance on foot.
 
-[Counter-surveillance expert](umbrella://lesson/counter_surveillance/2) involves surveillance in a vehicle.
+[Being Followed expert](umbrella://work/being-followed/expert) involves surveillance in a vehicle.
