@@ -23,7 +23,7 @@ Choose a building with:
 *	Emergency escape routes which are known to team members. 
 *	Secure parking to prevent others accessing your vehicle or placing a tracker. 
 
-(Learn more about this in [counter-surveillance](umbrella://lesson/counter-surveillance/2).)
+(Learn more about this in [Being Followed](umbrella://work/being-followed/expert).)
 
 ## Security and comfort
 
