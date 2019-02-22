@@ -6,7 +6,7 @@
 ## Tor for Windows Tool Guide  
 Online Anonymity and Circumvention
 
-**Lesson to read: [The Internet](umbrella://lesson/the-internet)**  
+**Lesson to read: [Online Privacy](umbrella://communications/online-privacy/advanced)**  
 **This guide outlines how to use the [Tor Browser Bundle](https://www.torproject.org/projects/torbrowser.html.en) on Windows.****Computer requirements:** An internet connection, a computer running Windows  
 **Version used in this guide:** Windows: Windows 7 Ultimate; Tor Browser Bundle: 3.6.2  
 **License:** Free Software; mix of Free Software licenses  

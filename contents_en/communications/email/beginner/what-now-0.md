@@ -8,7 +8,7 @@ Learn how to encrypt sensitive emails in [Email Advanced](umbrella://lesson/emai
 ### RELATED LESSONS/TOOLS
 
 *   [Malware](umbrella://lesson/malware)
-*   [Internet](umbrella://lesson/the-internet)
+*   [Online Privacy](umbrella://communications/online-privacy)
 *   [Passwords](umbrella://lesson/passwords)
 
 ### SOURCES

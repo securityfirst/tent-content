@@ -35,4 +35,4 @@ _Potential kidnappers may present themselves as service staff to learn about a h
 
 _Potential kidnappers may follow the target to identify routines and points to strike._
 
-(Learn about [Counter-Surveillance](umbrella://lesson/counter-surveillance/0).)
+(Learn about [Being Followed](umbrella://work/being-followed/beginner).)

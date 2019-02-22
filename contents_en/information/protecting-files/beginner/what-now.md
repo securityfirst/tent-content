@@ -11,7 +11,7 @@ Learn how to encrypt files in [Protecting Files Advanced](umbrella://lesson/prot
 *   [Passwords](umbrella://lesson/passwords)
 *   [Mobile Phones](umbrella://lesson/mobile-phones/0)
 *   [Malware](umbrella://lesson/malware)
-*   [Internet Advanced](umbrella://lesson/the-internet/1)
+*   [Online Privacy](umbrella://communications/online-privacy/advanced)
 *   Tor for [Windows](umbrella://lesson/tor-for-windows), [Mac] (umbrella://lesson/tor-for-mac-os-x), and [Linux] (umbrella://lesson/tor-for-linux)
 *   [Encrypt your iPhone] (umbrella://lesson/encrypt-your-iphone)
 *   [Basic Security Setup for Android](umbrella://lesson/android)

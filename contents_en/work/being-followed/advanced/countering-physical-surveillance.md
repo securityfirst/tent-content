@@ -3,11 +3,11 @@
 
 Counter-surveillance is the process of detecting and mitigating hostile surveillance. 
 
-(Learn more about this in [counter-surveillance beginner](umbrella://lesson/counter_surveillance/0).) 
+(Learn more about this in [Being Followed beginner](umbrella://work/being-followed/beginner).) 
 
 This lesson involves surveillance on foot.
 
-[Counter-surveillance expert](umbrella://lesson/counter_surveillance/2) involves surveillance in a vehicle.
+[Being Followed expert](umbrella://work/being-followed/expert) involves surveillance in a vehicle.
 
 ![image](surveillance2.png)
 

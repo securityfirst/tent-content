@@ -23,10 +23,10 @@ Appeal to the company involved, or conduct public advocacy, to challenge deletio
 
 Internet companies may remove information if it violates their terms, or if authorities or other users complain. 
 
-(Learn about [social media](umbrella://lesson/social-media/0).)
+(Learn about [Online Privacy](umbrella://communications/online-privacy).)
 
 ## Shutdowns
 
 Telecommunications companies may shut down mobile phone service, SMS messages, or mobile internet completely in one area, often following orders from local authorities. 
 
-(Learn more about this in [Internet expert](umbrella://lesson/the-internet/2).)
+(Learn more about this in [Censorship expert](umbrella://communications/censorship/expert).)

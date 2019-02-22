@@ -37,4 +37,4 @@ Use code words instead of sensitive names and locations. Agree code words with e
 
 Anonymity software like the Tor browser helps you hide your email service from anyone who might be monitoring your Internet connection.
 
-(Learn more about Tor in the [Internet](umbrella://lesson/the-internet) lesson.)
+(Learn more about this in [Online Privacy](umbrella://communications/online-privacy/advanced).)

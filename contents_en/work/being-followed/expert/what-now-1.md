@@ -3,9 +3,9 @@
 
 Swipe right for this lesson's checklist.
 
-Learn about counter-surveillance in fixed locations in [counter-surveillance beginner](umbrella://lesson/counter_surveillance/0).
+Learn about counter-surveillance in fixed locations in [Being Followed beginner](umbrella://work/being-followed/beginner).
 
-Learn about counter-surveillance on foot in [counter-surveillance advanced](umbrella://lesson/counter_surveillance/1).
+Learn about counter-surveillance on foot in [Being Followed advanced](umbrella://work/being-followed/advanced).
 
 ### RELATED LESSONS/TOOLS
 

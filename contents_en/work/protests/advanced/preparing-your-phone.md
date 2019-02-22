@@ -35,7 +35,7 @@ Create a commnications schedule with someone who is not attending the protest an
 
 _Remember: telecommunications networks and mobile apps may be overloaded or shut down in a crisis._
 
-(Learn more about this in [Internet](umbrella://lesson/the-internet/0).)
+(Learn more about this in [Censorship](umbrella://communications/censorship/beginner).)
 
 ## Protect your information
 
@@ -51,7 +51,7 @@ Assess the risks of using social media to organise or document protests. Your re
 
 *	Consider using separate social media accounts and pseudonyms for different activities. 
 
-(Learn more about this in [social media](umbrella://lesson/social-media/0).)
+(Learn more about this in [Online Privacy](umbrella://communications/online-privacy/beginner).)
 
 *	Create a temporary account before the protest. 
 

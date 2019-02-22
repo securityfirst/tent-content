@@ -9,7 +9,7 @@
 
 *	Avoid choke points, such as narrow alleys.
 
-(Learn more about this in [counter-surveillance expert] (umbrella://lesson/counter-surveillance/2).)
+(Learn about [being followed] (umbrella://work/being-followed/expert).)
 
 *   Consult experts about route conditions. Change routes as necessary. 
 

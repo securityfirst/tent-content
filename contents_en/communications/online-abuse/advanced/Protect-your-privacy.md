@@ -27,7 +27,7 @@ When you register a domain name, your contact information is made public. This i
 
 Some bloggers use a pseudonym or write under a variation of their name. 
 
-(Learn more about how to stay anonymous on the [Internet](umbrella://lesson/the-internet/1).)
+(Learn about [Online Privacy](umbrella://communications/online-privacy).)
 
 ## Familiarise yourself with policies, terms of service or community guidelines.
 

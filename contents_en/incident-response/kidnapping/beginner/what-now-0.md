@@ -11,7 +11,7 @@ Learn what to do if a staff member is kidnapped in [Kidnapping Expert](umbrella:
 
 *   [Evacuation](umbrella://lesson/evacuation)
 *   [Vehicle](umbrella://lesson/vehicles)
-*   [Counter-surveillance](umbrella://lesson/counter-surveillance/0)
+*   [Being Followed](umbrella://work/being-followed/beginner)
 *   [Sexual Assault](umbrella://lesson/sexual-assault)
 *   [Security Planning](umbrella://lesson/security-planning)
 

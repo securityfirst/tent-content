@@ -5,7 +5,7 @@ Phishing is a form of social engineering, an attack which exploits human psycolo
 
 Social engineering can happen online or offline—anywhere from a dating site to a bar. But attackers take advantage of all the personal information we share on social media to conduct social engineering. 
 
-(Learn more about [Social Media] (umbrella://lesson/social media).) 
+(Learn more about [Online Privacy](umbrella://communications/online-privacy/beginner).) 
 
 Here are a few key tips to help limit your exposure on platforms like Facebook:
 

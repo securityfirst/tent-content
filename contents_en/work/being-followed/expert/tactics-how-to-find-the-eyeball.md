@@ -3,7 +3,7 @@
 
 ### The eyeball is whoever is watching you at the time. 
 
-(Learn more about this in [counter-surveillance advanced](umbrella://lesson/counter-surveillance/1).)
+(Learn more about this in [Being Followed advanced](umbrella://work/being-followed/advanced).)
 
 ## If safe to do so while driving:
 

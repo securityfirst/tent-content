@@ -11,7 +11,7 @@
 
 *	Practise counter-surveillance en route. Ensure you are clear before you arrive. 
 
-(Learn about [counter-surveillance](umbrella://lesson/counter-surveillance/0).) 
+(Learn about [being followed](umbrella://work/being-followed/beginner).) 
 
 ## Check the meeting place
 
@@ -32,7 +32,7 @@
 *	Observe anyone who sits close to you;
 *	Look for indicators of a surveillance team.
 
-(Learn more about this in [counter-surveillance advanced](umbrella://lesson/counter-surveillance/1).)
+(Learn more about this in [being followed advanced](umbrella://work/being-followed/advanced).)
 
 ## Collaborate 
 

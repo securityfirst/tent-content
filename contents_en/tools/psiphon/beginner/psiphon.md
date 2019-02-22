@@ -5,7 +5,7 @@
 
 Censorship Circumvention 
 
-**Lesson to read: [The Internet](umbrella://lesson/the-internet)**  
+**Lesson to read: [Censorship](umbrella://communications/censorship/beginner)**  
 **Download Location:** [Google Play] (https://play.google.com/store/apps/details?id=com.psiphon3.subscription), [Apple App store] (https://itunes.apple.com/us/app/psiphon/id1276263909?ls=1&mt=8) or [Psiphon](https://psiphon.ca/en/download.html). 
 **Computer requirements:** An internet connection, and a device running Windows, Android 2.3 or later, or iOS 10.2 or later (iOS 8 for Psiphon browser)    
 **License:** Free open-source software; GNU GPL Version 3  

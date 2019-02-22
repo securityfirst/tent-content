@@ -3,15 +3,15 @@
 
 Swipe right for this lesson's checklist.
 
-Learn more about protecting your privacy in [Social Media Beginner](umbrella://lesson/social-media/0).
-
-Learn about hate speech in [Social Media Advanced](umbrella://lesson/social-media/1).
+Learn about hate speech in [Online Abuse advanced](umbrella://communications/online-abuse/advanced).
 
 ### RELATED LESSONS/TOOLS
 
 *	[Stress] (umbrella://lesson/stress/0)
 *	[Passwords](umbrella://lesson/passwords)
-* 	[How to change your Facebook privacy settings](umbrella://lesson/facebook)
+* [Censorship](umbrella://communications/censorship)
+* [Online Privacy](umbrella://communications/online-privacy)
+* [How to change your Facebook privacy settings](umbrella://lesson/facebook)
 *	[ObscuraCam](umbrella://lesson/obscuracam)
 
 ### SOURCES

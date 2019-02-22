@@ -46,7 +46,7 @@ If you do connect to the Internet, keep it disconnected from your identity.
 
 *The best way to protect yourself from malware attacks targeting your identity, or someone intercepting your communications, is to keep your secure device completely removed from your usual activities.*  
 
-(Learn more about this in [Internet Advanced](umbrella://lesson/the-internet/1).) 
+(Learn more about this in [Online Privacy](umbrella://communications/online-privacy/advanced).) 
 
 ## Back it up
 

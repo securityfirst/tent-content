@@ -22,7 +22,7 @@ Consider:
 
 _Remember: telecommunications networks and mobile apps may be overloaded or shut down in a crisis._
 
-(Learn more about this in [Internet](umbrella://lesson/the-internet/0).)
+(Learn about [Censorship](umbrella://communications/censorship/beginner).)
 
 *   **Clothing and equipment**
 
@@ -43,7 +43,7 @@ _Remember: telecommunications networks and mobile apps may be overloaded or shut
 	*	Select discreet equipment if filming could be dangerous.
     *	If you have press ID, keep it hidden but accessible. Display it if being mistaken for a protester could be dangerous.
 
-(Learn more about this in [social media] (umbrella://lesson/social-media/0).)
+(Learn more about this in [Online Privacy](umbrella://communications/online-privacy/beginner).)
 
 *	**Risk assessments**
 

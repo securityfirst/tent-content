@@ -7,7 +7,7 @@ Online abuse usually involves:
 *	Harassing family, friends and employers to isolate the target;
 *	Tactics to make the target fearful. 
 
-Abuse aimed at younger people may be called [cyberbullying](https://cyberbullying.org/).
+Abuse aimed at younger people may be called cyberbullying. Read about this at [cyberbullying.org](https://cyberbullying.org/).
 
 There are many different types of online abuse. 
 
@@ -75,6 +75,6 @@ Private images published without consent for extortion, blackmail or humiliation
 
 Revenge porn is an act of violence and should not be conflated with pornography.
 
-[Social media advanced](umbrella://lesson/social-media/1) outlines hate speech and trolling.
+[Online Abuse advanced](umbrella://communications/online-abuse/advanced) outlines hate speech and trolling.
 
 [Defining Online Harassment](https://onlineharassmentfieldmanual.pen.org/additional-resources/defining-online-harassment-a-glossary-of-terms/) by PEN America and [Online Harassment of Politically-Active Women](https://xyz.informationactivism.org/en/online-harassment-of-politically-active-women-introduction) by Tachtical Tech include other types of abuse.
