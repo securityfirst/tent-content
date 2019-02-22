@@ -6,7 +6,7 @@
 
 ## How to change your Facebook privacy settings
 
-**Lesson to read:** [Social Media](umbrella://lesson/social-media)  
+**Lesson to read:** [Online Privacy](umbrella://communications/online-privacy/beginner)  
 **Level:** Beginner—Advanced  
 **Updated:** April 2018 (some images date from earlier versions)  
 **Sources:** Security in a Box, [Social Networking] (https://securityinabox.org/en/guide/social-networking/web/); EFF, ["How To Change Your Facebook Settings To Opt Out of Platform API Sharing"] (https://www.eff.org/deeplinks/2018/03/how-change-your-facebook-settings-opt-out-platform-api-sharing); Facebook's [Terms](https://www.facebook.com/legal/terms) and [Data Policy](https://www.facebook.com/about/privacy/).
