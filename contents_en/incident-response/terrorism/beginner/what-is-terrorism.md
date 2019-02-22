@@ -10,3 +10,5 @@ However, terrorist attacks generally conform to patterns. Understanding those pa
 ### There is no single, one-size-fits-all plan to combat terrorism. 
 
 This lesson provides some questions to help you think through specific scenarios. Security plans for terrorist attacks should be based on your vulnerabilities and updated regularly.  
+
+Learn what to do during a terrorist attack in [Terrorism advanced](umbrella://incident-response/terrorism/advanced).
