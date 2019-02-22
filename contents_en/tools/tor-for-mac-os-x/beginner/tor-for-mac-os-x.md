@@ -3,7 +3,7 @@
 
 # TOR FOR MAC OS TOOL GUIDE
 
-**Lesson to read: [The Internet](umbrella://lesson/the-internet)**  
+**Lesson to read: [Online Privacy](umbrella://communications/online-privacy/advanced)**  
 **This guide outlines how to use the [Tor Browser Bundle](https://www.torproject.org/projects/torbrowser.html.en) on Mac.**  
 **Computer requirements:** An internet connection, a computer running macOS  
 **Version used in this guide:** Tor Browser Bundle: 3.6.2  
