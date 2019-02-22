@@ -3,6 +3,6 @@
 
 Swipe right for this lesson's checklist.
 
-Learn about counter-surveillance on foot in [counter-surveillance advanced](umbrella://lesson/counter_surveillance/1).
+Learn about counter-surveillance on foot in [Being Followed advanced](umbrella://work/being-followed/advanced).
 
-Learn about counter-surveillance in a vehicle in [counter-surveillance expert](umbrella://lesson/counter_surveillance/2).
+Learn about counter-surveillance in a vehicle in [Being Followed expert](umbrella://work/being-followed/expert).
