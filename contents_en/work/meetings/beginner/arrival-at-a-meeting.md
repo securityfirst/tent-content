@@ -32,7 +32,7 @@
 *	Observe anyone who sits close to you;
 *	Look for indicators of a surveillance team.
 
-(Learn more about this in [counter-surveillance advanced](umbrella://lesson/counter-surveillance/1).)
+(Learn more about this in [being followed advanced](umbrella://work/being-followed/advanced).)
 
 ## Collaborate 
 
