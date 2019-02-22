@@ -25,7 +25,7 @@ Information mined from your social media accounts can be used to impersonate or 
 
 The social media site may still log your IP address, which can reveal your location. Use a VPN or the Tor Browser to disguise your location.
 
-(Learn more about [VPNs] (umbrella://lesson/the-internet/0) and [Tor] (umbrella://lesson/the-internet/1).)
+(Learn more about [Online Privacy](umbrella://communications/online-privacy).)
 
 # Secure your account
 
@@ -55,4 +55,4 @@ Attackers may befriend you to spy on your network or spread malware using social
 
 * Watch for unusual activity that may indicate a friend's account has been hacked or spoofed in order to trick you.  
 
-(Learn more about [social engineering] (umbrella://lesson/phishing).)
+(Learn about [social engineering](umbrella://communications/phishing/beginner/social-engineering).)
