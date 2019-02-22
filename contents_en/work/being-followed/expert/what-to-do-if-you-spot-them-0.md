@@ -17,4 +17,4 @@
 
 # Use the 5 counter-surveillance rules 
 
-(Learn more about this in [counter-surveillance advanced] (umbrella://lesson/counter-surveillance/1).)
+(Learn more about this in [Being Followed advanced](umbrella://work/being-followed/advanced).)
