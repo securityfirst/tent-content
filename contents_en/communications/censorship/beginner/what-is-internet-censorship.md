@@ -15,11 +15,9 @@ Depending on the method used, Internet censorship can affect:
 
 ### Combat censorship with circumvention or appeal. 
 
-Internet beginner outlines circumvention. 
+Censorship beginner outlines circumvention. 
 
-[Internet advanced](umbrella://lesson/the-internet/1) outlines anonymity online. 
-
-[Internet expert](umbrella://lesson/the-internet/2) outlines how to test and collect evidence of censorship. 
+[Censorship expert](umbrella://communications/censorship/expert) outlines how to test and collect evidence of censorship. 
 
 If you are an activist, independent journalist, or civil society actor experiencing censorship of your website or social media accounts, contact Access Now's [Digital Security Helpline](https://www.accessnow.org/help/#contact-us).
 
