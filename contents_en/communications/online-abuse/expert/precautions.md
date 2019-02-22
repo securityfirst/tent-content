@@ -43,7 +43,7 @@ If you plan to pass your phone on, first make sure none of your info is on it:
 
 ## Secure your network
 
-(Learn more about this in [internet](umbrella://lesson/the-internet/0) and [email](umbrella://lesson/email/0).) 
+(Learn more about this in [Online Privacy](umbrella://communications/online-privacy/beginner) and [email](umbrella://lesson/email/0).) 
 
 ## Secure your devices
 
