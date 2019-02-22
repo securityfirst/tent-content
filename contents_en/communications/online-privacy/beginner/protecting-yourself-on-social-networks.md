@@ -1,7 +1,7 @@
 [Title]: # (Protecting Yourself on Social Networks)
 [Order]: # (0)
 
-Sites like Facebook, Google+, and Twitter are some of the most popular on the Internet, with hundreds of millions of users each. 
+Social media sites like Facebook and Twitter are some of the most popular on the Internet, with hundreds of millions of users each. 
 
 Many people use them for professional as well as personal reasons, to communicate, publish, coordinate, and persuade. 
 
