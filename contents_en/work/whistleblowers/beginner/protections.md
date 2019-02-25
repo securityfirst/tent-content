@@ -3,6 +3,10 @@
 
 ### Research your local context before revealing sensitive information. 
 
+Find or set up a clean device and use Tor if your search history could expose your plans to the wrong people. For example, don't search information about exposing your boss from your work computer. 
+
+(Learn about [Online Privacy](umbrella://communications/online-privacy/advanced).)
+
 ## Laws and regulations
 
 Some organisations and some countries have special protections for whistleblowers. 
