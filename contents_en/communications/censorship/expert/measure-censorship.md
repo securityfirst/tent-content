@@ -9,7 +9,7 @@ Two organisations, Netblocks and OONI, can detect disruptions to normal internet
 
 These tests require you to turn off your VPN and undermine your anonymity. 
 
-(Learn more about this in [Internet advanced](umbrella://lesson/the-internet/1).) 
+(Learn more about this in [Online Privacy](umbrella://communications/online-privacy/advanced).) 
 
 _Anyone monitoring your internet activity would be able to see that you are running these tests._
 
@@ -29,7 +29,7 @@ NetBlocks is a research organisation that monitors network disruptions and shutd
 
 The Open Observatory Network Initiative (OONI) collects network measurements to detect Internet censorship and traffic manipulation. It is a free software project under the Tor Project. 
 
-(Learn more about this in [Internet advanced](umbrella://lesson/the-internet/1).) 
+(Learn more about this in [Online Privacy](umbrella://communications/online-privacy/advanced).) 
 
 OONI provides tools to test your network, WhatsApp, Facebook Messenger, and Telegram, or specific websites. 
 
