@@ -5,7 +5,7 @@ Women with visibility on the internet receive a disproportionate amount of hatef
 
 Women's visibility in online spaces challenges gender inequality and male privilege.
 
-(Learn about [gender-based violence online](umbrella://lesson/social-media/2)) 
+(Learn more about this in [Online Abuse expert](umbrella://communications/online-abuse/expert)) 
 
 ## The goal of abuse
 
