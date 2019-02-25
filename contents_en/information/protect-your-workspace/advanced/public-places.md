@@ -19,4 +19,4 @@
 
 *Other people on the same network have the ability to monitor your Internet activity and read the unencrypted data you send and receive, even when a strong WiFi password has been set.* 
 
-(Learn more about this in [the internet](umbrella://lesson/the-internet/0).) 
+(Learn more about this in [Online Privacy](umbrella://communications/online-privacy/advanced).)  
