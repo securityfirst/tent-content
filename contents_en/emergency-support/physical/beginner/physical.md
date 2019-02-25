@@ -316,8 +316,8 @@ Geneva, Tel: (+41) 22 917 1234
 
 **Additional Resources:**
 
-*   Guidelines for submitting complaints: [www2.ohchr.org/english/issues/ defenders/complaints.htm](http://www2.ohchr.org/english/issues/ defenders/complaints.htm)
-*   UN Declaration on Human Rights Defendershttp://[www2.ohchr.org/english/issues/defenders/](www2.ohchr.org/english/issues/defenders/)declaration.htm
+*   Guidelines for submitting complaints: [www2.ohchr.org/english/issues/ defenders/complaints.htm](http://www2.ohchr.org/english/issues/defenders/complaints.htm)
+*   UN Declaration on Human Rights Defenders [www2.ohchr.org/english/issues/defenders/declaration.htm](www2.ohchr.org/english/issues/defenders/declaration.htm)
 
 ## U.N. Office of the High Commissioner for Human Rights
 

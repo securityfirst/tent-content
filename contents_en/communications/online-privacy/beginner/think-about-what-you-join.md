@@ -9,7 +9,7 @@ Group membership may undermine any privacy settings, allowing members you don't 
 * Could a group that you run put people at risk?
 * What information are you giving to people if you join a group on social media? 
 
-(Learn about [social engineering](umbrella://communications/phishing/beginner/social-engineering).)
+(Learn about [social engineering](umbrella://communications/phishing/beginner/s_social-engineering.md).)
 
 *In Lebanon, an LGBT advocacy organisation created a Facebook profile with no photo and no friends to safely mobilise people who needed support or wanted to advocate for LGBT rights. The profile served to direct people to their website without publicly linking Facebook users with an LGBT organisation.*
 

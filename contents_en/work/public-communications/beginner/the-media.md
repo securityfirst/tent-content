@@ -34,7 +34,7 @@ You may need to avoid or counter negative propaganda as part of your work.
 
 - Use live broadcasts so others can see what you are doing directly. 
 
-(Learn about [multimedia](umbrella://communications/online-privacy/beginner/multimedia).)
+(Learn about [multimedia](umbrella://communications/online-privacy/beginner/s_multimedia.md).)
 
 *Conduct a risk assessment if this could expose people at risk.* 
  

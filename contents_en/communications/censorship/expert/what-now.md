@@ -3,13 +3,12 @@
 
 Swipe right for this lesson's checklist.
 
-Learn how to circumvent censorship in [Internet Beginner](umbrella://lesson/the-internet/0).
-
-Learn how to stay anonymous online in [Internet Advanced](umbrella://lesson/the-internet/1).
+Learn how to circumvent censorship in [Censorship beginner](umbrella://communications/censorship/beginner).
 
 ### RELATED LESSONS/TOOLS
 
 *	[Email](umbrella://lesson/email/0) 
+* [Online Privacy](umbrella://communications/online-privacy)
 *   [Managing Information](umbrella://lesson/managing-information)
 *	[Protests](umbrella://lesson/protests/0)
 *   [Psiphon](umbrella://lesson/psiphon)
