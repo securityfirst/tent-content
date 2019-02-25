@@ -14,7 +14,7 @@ Journalist Dawn Foster decided not to engage: "In the end, I discovered the best
 
 Columnist and fiction writer Bina Shah uses all the tools at her disposal, including reporting: "Be ready to report them if they threaten you with violence. Expose them. They expect you to cower with fear. Don’t do it. Show them who’s boss."
 
-(Learn more about this in [social media expert](umbrella://lesson/social-media/2).)
+(Learn more about this in [Online Abuse expert](umbrella://communications/online-abuse/expert).)
 
 ## Expose them
 
