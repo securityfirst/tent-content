@@ -19,4 +19,8 @@ It is your responsibility to understand the risks you face from protecting sourc
 
 * If laws could require you to hand over your sources, will you be allowed to challenge requests to do so in court? 
 
-* Have other people been prosecuted or threatened for leaking information, or for refusing to reveal the identify of a source?  
+* Have other people been prosecuted or threatened for leaking information, or for refusing to reveal the identify of a source?
+
+*Protecting sources is more important than breaking news. If you lack experience protecting sources, or if you are not a journalist and the media are not among your adversaries, consider working with professional journalists you trust who may have better legal protection and resources to manage sensitive information. However, only do so if you are sure it will increase protection for your source. Don't betray your source's trust or share sensitive information with more people than you need to.*   
+
+(Learn about [Managing Information](umbrella://information/managing-information/beginner).)
