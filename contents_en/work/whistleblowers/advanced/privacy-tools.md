@@ -13,7 +13,7 @@ Secure Drop is used by outlets like The Associated Press, The Guardian, and The 
 
 Access Secure Drop through Tor to be sure you are using it anonymously. 
 
-(Learn to [create a secure computer](umbrella://communications/protecting-files/beginner/s_create-a-secure-computer.md).) 
+(Learn to [create a secure computer](umbrella://information/protecting-files/beginner/s_create-a-secure-computer.md).) 
 
 ## Meet people where they are
 
