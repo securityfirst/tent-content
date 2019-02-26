@@ -7,7 +7,7 @@ Secure Drop is free, open source software that media houses and NGOs can use to 
 
 The first installation takes time, but sources will know that you are committed to protecting their privacy. 
 
-Find out more at (https://securedrop.org/)[https://securedrop.org/]. 
+Find out more at [https://securedrop.org/](https://securedrop.org/). 
 
 Secure Drop is used by outlets like The Associated Press, The Guardian, and The Intercept. 
 
