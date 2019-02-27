@@ -17,7 +17,7 @@ But not all attacks will be detected. Learn to recognise a phishing attempt for 
 * The "To" field.
 	* Was the message sent to you personally, and does it address you by name? A sender you know probably would.  
 	* Were you included on a message sent to a large group? Attackers often send messages to multiple people, looking for those who don't know better or aren't paying attention. 
-	* Learn to identify targeted attacks under [How to spot Spear Phishing] (umbrella//lesson/phishing/how-to-spot-spear-phishing). 
+	* Learn to identify targeted attacks under [How to spot Spear Phishing] (umbrella://lesson/phishing/how-to-spot-spear-phishing). 
  
 *   The content. 
 
