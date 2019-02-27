@@ -3,7 +3,7 @@
 
 Swipe right for this lesson's checklist.
 
-Learn how to test and collect evidence of censorship in [Censorship expert](umbrella://communications/censorship/expert).
+Learn how to test your network and collect evidence of censorship in [Censorship expert](umbrella://communications/censorship/expert).
 
 ### RELATED LESSONS/TOOLS
 
