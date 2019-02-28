@@ -3,6 +3,8 @@
 
 Swipe right for this lesson's checklist.
 
+Learn to develop relationships with different stakeholders in [Public Communications beginner](umbrella://work/public-communications/beginner). 
+
 #### **RELATED LESSONS**
 
 * [Phishing](umbrella://communications/phishing/beginner)
@@ -23,3 +25,4 @@ Swipe right for this lesson's checklist.
 * InterAction, [Together Project](https://www.interaction.org/project/together-project/overview).
 * ICFJ, [A Short Guide to the History of ‘Fake News’ and Disinformation: A New ICFJ Learning Module](https://www.icfj.org/news/short-guide-history-fake-news-and-disinformation-new-icfj-learning-module), July 23, 2018. 
 * Frontline Defenders, [Judicial Harassment](https://www.frontlinedefenders.org/en/violation/judicial-harassment). 
+* Simmons and Simmons for Peace Brigade International, "Dealing with Defamation Allegations" in [Human Rights Defenders Toolbox](http://www.elexica.com/en/legal-topics/dispute-resolution-commercial/120618-human-rights-defenders-toolbox), June 2018.
