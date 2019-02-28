@@ -34,6 +34,6 @@ Negative outcomes of reputational attacks could include:
 * Physical security incidents (harassment, attack, arrest);
 * Inhibited crisis response.    
 
-[Public Communications beginner](umbrella://work/being-followed/expert) describes how to turn different stakeholders into allies who can help you develop and protect your reputation.   
+[Public Communications beginner](umbrella://work/public-communications/beginner) describes how to turn different stakeholders into allies who can help you develop and protect your reputation.   
 
 This lesson describes how to identify and respond to attacks on your reputation. 
