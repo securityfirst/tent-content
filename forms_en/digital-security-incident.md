@@ -81,7 +81,7 @@
 [Type]: # (screen)
 [Name]: # (Guidelines)
 
-[Type]: # (multiple_choice)
+[Type]: # (single_choice)
 [Name]: # (security-guidelines-cover-type-incident-guidelines-followed)
 [Label]: # (Are you following guidelines to resolve this incident?)
 [Options]: # (Yes, I am following guidelines; No,  I am using information available in Umbrella and other free sources to resolve the incident; I have guidelines but I have not been able to follow them. (Please explain:))
@@ -117,7 +117,7 @@
 [Type]: # (screen)
 [Name]: # (Responsibility)
 
-[Type]: # (multiple_choice)
+[Type]: # (single_choice)
 [Name]: # (inclination-motive-perpetrators)
 [Label]: # (Who carried out the attack?)
 [Options]: # (The attacker identified themselves (please provide details); The attack was anonymous but I have suspicions (please provide details); I don't know)
