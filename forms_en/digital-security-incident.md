@@ -73,7 +73,7 @@
 [Type]: # (screen)
 [Name]: # (Status)
 
-[Type]: # (multiple_choice)
+[Type]: # (single_choice)
 [Name]: # (incident-resolved)
 [Label]: # (Has the incident been resolved?)
 [Options]: # (Yes, I’m using this form to document what happened; No, I’m using this form to help me seek support)
