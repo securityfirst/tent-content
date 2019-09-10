@@ -14,7 +14,7 @@ The question of whether or not to inform the police is sensitive and should be t
 
 *	Seek out a reliable and experienced lawyer. Ask the embassy if you are in another country. 
 *	Learn about the procedures and time limits for reporting the crime to the police. 
-*	The victim may need official documentation like a police report if she decides to initiate prosecution of the attacker, to access legal abortion services or to obtain HIV treatment at an affordable price.
+*	The victim may need official documentation like a police report if she/he decides to initiate prosecution of the attacker, to access legal abortion services or to obtain HIV treatment at an affordable price.
 * 	It is not uncommon for the victim to suffer a second trauma as a result of
 insensitive treatment by the police.
 
@@ -26,7 +26,7 @@ A well-informed team member that the victim trusts should accompany them to the 
 *  That interviews are conducted in a language that the victim understands;
 *  That the appropriate documentation and assistance are provided.
 
-It may help for the supporter to stress their an official capacity if they are attached to an organisation. 
+It may help for the supporter to stress their official capacity if they are attached to an organisation. 
 
 *Intervene if the victim’s rights and dignity are not respected.*
 
