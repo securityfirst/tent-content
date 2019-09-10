@@ -17,7 +17,7 @@ Email security will not protect you if spyware on your device can record what yo
 
 Learn to spot [phishing] (umbrella://lesson/phishing).
 
-## Use a pseudeonym. 
+## Use a pseudonym. 
 
 Create an account that doesn't reveal your identity with a secure provider. Use it to communicate anonymously or post on public forums.
 
