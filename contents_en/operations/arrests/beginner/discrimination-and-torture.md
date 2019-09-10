@@ -25,7 +25,7 @@ place, sometimes with the complicity of prison guards.
 - Male staff should not generally supervise female detainees, but this rule is not applied
 in many countries, and female staff do also abuse women prisoners. 
 
-*Developing a relationship with guards may reduce your risk of assault.*
+*Developing a rapport with guards may reduce your risk of assault.*
 
 (Learn more about [Sexual Assault](umbrella://lesson/sexual-assault).) 
 
