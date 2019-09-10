@@ -36,7 +36,7 @@ Connect with specialist advice in advance of a potential crisis. Before an incid
 ## Locate contraception and medication
 
 *	Are post-coital contraception and other specialised medication readily available from medical institutions in the area? 
-* If not, ensure that they are at hand in the office and can be dispensed under
+* If not, ensure that they are at hand in the office (if local legislation permits) and can be dispensed under
 medical supervision, or that a victim can be transported immediately to
 somewhere where they are available. 
 
