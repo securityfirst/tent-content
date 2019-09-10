@@ -19,7 +19,7 @@ Indicate what you expect from them, and the benefits if they comply. Provide cle
 
 ## Build relationships
 
-* Contact authorities as a group, not alone. 
+* Contact authorities together with others on your team, not alone. 
 
 Consider creating networks to advocate with authorities. 
 
