@@ -1,7 +1,7 @@
 [Title]: # (Hate speech)
 [Order]: # (0)
 
-Hate speech is an inexact term, but is understood to refer to discrimination, harassment, threats or violence against a person or group on the basis of their gender, disability, sexual orientation, race, or identity. 
+Hate speech is an inexact term, but UN defines it as “any kind of communication in speech, writing or behaviour, that attacks or uses pejorative or discriminatory language with reference to a person or a group on the basis of who they are, in other words, based on their religion, ethnicity, nationality, race, colour, descent, gender or other identity factor.”
 
 Hate speech may be written, spoken or visual.
 
