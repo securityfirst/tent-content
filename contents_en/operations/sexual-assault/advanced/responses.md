@@ -11,7 +11,7 @@ an observer.
 You can’t really hurt me’.
 
 *While these are healthy defence mechanisms during an attack they should not mislead
-the victim into believing that she has not been deeply hurt.*
+the victim into believing that she/he has not been deeply hurt.*
 
 ## Possible physical responses
 
