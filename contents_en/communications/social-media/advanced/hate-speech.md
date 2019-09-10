@@ -15,13 +15,13 @@ Use of the term hate speech may overlap with trolling. Trolls post obscene or in
 
 [Social media expert](umbrella://lesson/social-media/2) outlines other examples of online abuse. Abuse and hate speech take many forms, so read both lessons to understand the threats people face in online communities.
 
-## Hate speech is not free speech
+## Hate speech is not protected speech
 
-*	People of all backgrounds have a right to use their voices and to express themselves however they want. Hate speech is a violation of this right. 
+*	People of all backgrounds have a right to use their voices and to express themselves however they want.
 
-*	Many of the same people committing such violence are very vocal about their own right to free speech, ignoring how their attacks restrict the free speech of others. 
+*	Many of the same people who engage in hate speech that incites to violence are very vocal about their own right to free speech. However, such speech is not protected under the human rights framework. 
 
-*	Freedom of expression does not trump freedom from violence. If abuse is expressed in a particularly aggressive, inflammatory or sustained manner, then it may be considered hate speech.
+*	Freedom of expression does not trump freedom from violence. If abuse is expressed in a particularly aggressive, inflammatory or sustained manner wiith direct violent consequences, then it is considered hate speech and is not protected.
 
 ![image](Hatespeech-1.png)
 ![image](Hatespeech-2.png)
