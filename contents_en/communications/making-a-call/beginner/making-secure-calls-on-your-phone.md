@@ -28,7 +28,7 @@ The person you are communicating with must also install Signal.
 
 (Learn more about this in Signal for [Android] (umbrella://lesson/signal-for-android) and [iOS](umbrella://lesson/signal-for-ios).)
 
-*Some countries block Signal servers to prevent secure communications. To circumvent blocking, use a VPN.*
+*Some countries block Signal servers to prevent secure communications. To circumvent blocking, use a VPN (consider local legislation).*
 
 (Learn more about this in [Internet](umbrella://lesson/the-internet/0).)
 
